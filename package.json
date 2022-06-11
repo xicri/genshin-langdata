@@ -1,0 +1,30 @@
+{
+  "name": "genshin-dictionary",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">= 8.0.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "status": "node scripts/status.js",
+    "test": "npm run build && NODE_OPTIONS=--experimental-vm-modules jest",
+    "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
+    "release": "node scripts/release.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "eslint": "latest",
+    "eslint-plugin-jsonc": "^2.2.1",
+    "form-data": "^4.0.0",
+    "iconv-lite": "^0.6.3",
+    "jest": "^28.0.3",
+    "json5": "^2.2.0",
+    "klona": "^2.0.4",
+    "lodash-es": "^4.17.21",
+    "luxon": "^2.3.0",
+    "marked": "^4.0.12",
+    "node-fetch": "^3.2.4"
+  }
+}

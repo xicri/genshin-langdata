@@ -1,0 +1,60 @@
+name: "test & release dataset"
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - edited
+      - reopened
+      - synchronize
+  push:
+    branches:
+      - main
+
+jobs:
+  preview:
+    if: ${{ github.ref != 'refs/heads/main' }}
+    timeout-minutes: 5
+    env:
+      NODE_ENV: preview
+      MINHON_API_KEY: ${{ secrets.MINHON_API_KEY }}
+      MINHON_API_SECRET: ${{ secrets.MINHON_API_SECRET }}
+      MINHON_LOGIN_ID: ${{ secrets.MINHON_LOGIN_ID }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run lint
+      - run: npm run build
+      - run: npm run release
+
+  release:
+    if: ${{ github.ref == 'refs/heads/main' }}
+    timeout-minutes: 5
+    env:
+      NODE_ENV: production
+      MINHON_API_KEY: ${{ secrets.MINHON_API_KEY }}
+      MINHON_API_SECRET: ${{ secrets.MINHON_API_SECRET }}
+      MINHON_LOGIN_ID: ${{ secrets.MINHON_LOGIN_ID }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run lint
+      - run: npm run build
+      - run: npm run release

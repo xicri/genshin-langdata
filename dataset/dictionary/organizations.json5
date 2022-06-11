@@ -1,0 +1,327 @@
+[
+  //
+  // General
+  //
+  {
+    en: "Adventurers' Guild",
+    ja: "冒険者協会",
+    pronunciationJa: "ぼうけんしゃきょうかい",
+    tags: [ "organization" ],
+  },
+
+  //
+  // Mondstadt
+  //
+  {
+    en: "Knights of Favonius",
+    ja: "西風騎士団",
+    pronunciationJa: "セピュロスきしだん",
+    tags: [ "mondstadt", "organization" ],
+    variants: {
+      ja: [ "騎士団" ],
+      en: [ "Knights of Favonious" ],
+    },
+  },
+  {
+    en: "Church of Favonius",
+    ja: "西風教会",
+    pronunciationJa: "セピュロスきょうかい",
+    tags: [ "mondstadt", "organization" ],
+    variants: {
+      en: [ "Church of Favonious" ],
+    },
+  },
+  {
+    en: "Gunnhildr Clan",
+    ja: "グンヒルド家",
+    tags: [ "organization" ],
+  },
+  {
+    en: "Ragnvindr Clan",
+    ja: "ラグヴィンド家",
+    tags: [ "organization" ],
+  },
+  {
+    en: "Lawrence Clan",
+    ja: "ローレンス家",
+    tags: [ "organization" ],
+  },
+  {
+    en: "Angel's Share",
+    ja: "エンジェルズシェア",
+    tags: [ "mondstadt", "organization" ],
+  },
+  {
+    en: "Benny's Adventure Team",
+    ja: "ベニー冒険団",
+    pronunciationJa: "ベニーぼうけんだん",
+    tags: [ "mondstadt", "organization" ],
+  },
+
+  //
+  // Liyue
+  //
+  // TODO need check
+  {
+    en: "Liyue Qixing / Qixing of Liyue",
+    ja: "璃月七星",
+    pronunciationJa: "りーゆぇしちせい",
+    tags: [ "liyue", "organization" ],
+    variants: {
+      ja: [ "りーゆえしちせい" ],
+    },
+  },
+  // TODO need check
+  {
+    en: "Millelith",
+    ja: "千岩軍",
+    pronunciationJa: "せんがんぐん",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Ministry of Civil Affairs",
+    ja: "総務司",
+    pronunciationJa: "そうむし",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Huishan Hall",
+    ja: "輝山庁",
+    pronunciationJa: "きざんちょう",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Shenglu Hall",
+    ja: "盛露庁",
+    pronunciationJa: "せいろちょう",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Wangsheng Funeral Parlor",
+    ja: "往生堂",
+    pronunciationJa: "おうじょうどう",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Wanmin Restaurant",
+    ja: "万民堂",
+    pronunciationJa: "ばんみんどう",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Bubu Pharmacy",
+    ja: "不卜廬",
+    pronunciationJa: "ふぼくろ",
+    tags: [ "liyue", "organization" ],
+    variants: {
+      ja: [ "不卜盧" ],
+    },
+  },
+  {
+    en: "Liuli Pavilion",
+    ja: "琉璃亭",
+    pronunciationJa: "るりてい",
+    tags: [ "liyue", "organization" ],
+    variants: {
+      ja: [ "瑠璃亭" ],
+    },
+  },
+  {
+    en: "Xinyue Kiosk",
+    ja: "新月軒",
+    pronunciationJa: "しんげつけん",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Third-Round Knockout",
+    ja: "三杯酔",
+    pronunciationJa: "さんばいよい",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Guhua Clan",
+    ja: "古華派",
+    pronunciationJa: "こかは",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Wanwen Bookhouse",
+    ja: "万文集舎",
+    pronunciationJa: "まんぶんしゅうしゃ",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Feiyun Commerce Guild",
+    ja: "飛雲商会",
+    pronunciationJa: "ひうんしょうかい",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "The Crux Fleet",
+    ja: "南十字船隊",
+    pronunciationJa: "みなみじゅうじせんたい",
+    tags: [ "liyue", "organization" ],
+    notes: "単に「南十字」(\"The Crux\") と略して表記される場合もある。",
+  },
+  {
+    en: "Alcor",
+    ja: "死兆星号",
+    pronunciationJa: "しちょうせいごう",
+    tags: [ "liyue", "organization", "location" ],
+    notes: "Alcor は北斗七星の近くにある星で、日本ではカタカナでアルコルと記されるが、異称として死兆星とも呼ばれる。",
+  },
+  {
+    en: "Yun-Han Opera Troupe",
+    ja: "雲翰社",
+    pronunciationJa: "うんかんしゃ",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Hanfeng's Ironmongers",
+    ja: "寒鋒鉄器",
+    pronunciationJa: "かんほうてっき",
+    tags: [ "liyue", "organization" ],
+  },
+  {
+    en: "Heyu Tea House",
+    ja: "和裕茶館",
+    tags: [ "liyue", "organization" ],
+  },
+
+  //
+  // Inazuma
+  //
+  {
+    en: "Grand Narukami Shrine",
+    ja: "鳴神大社",
+    pronunciationJa: "なるかみおおやしろ",
+    tags: [ "inazuma", "organization", "location" ],
+  },
+  {
+    en: "Tri-Commission",
+    ja: "三奉行",
+    pronunciationJa: "さんぶぎょう",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Kanjou Commission",
+    ja: "勘定奉行",
+    pronunciationJa: "かんじょうぶぎょう",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Tenryou Commission",
+    ja: "天領奉行",
+    pronunciationJa: "てんりょうぶぎょう",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Yashiro Commission",
+    ja: "社奉行",
+    pronunciationJa: "しゃぶぎょう",
+    notes: "日本語の読みは「やしろぶぎょう」ではなく「しゃぶぎょう」が正しい。",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Shuumatsuban",
+    ja: "終末番",
+    pronunciationJa: "しゅうまつばん",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Kamisato Clan",
+    ja: "神里家",
+    tags: [ "organization" ],
+  },
+  {
+    en: "Naganohara Fireworks",
+    ja: "長野原花火屋",
+    pronunciationJa: "ながのはらはなびや",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Komore Teahouse",
+    ja: "木漏茶屋",
+    pronunciationJa: "こもれちゃや",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Yae Publishing House",
+    ja: "八重堂",
+    pronunciationJa: "やえどう",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Shogunate",
+    ja: "幕府",
+    pronunciationJa: "ばくふ",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "resistance",
+    ja: "抵抗軍",
+    pronunciationJa: "ていこうぐん",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Arataki Gang",
+    ja: "荒瀧派",
+    pronunciationJa: "あらたきは",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Gourmet Supremos",
+    ja: "全能グルメチーム",
+    pronunciationJa: "ぜんのうグルメチーム",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Bantan Sango Detective Agency",
+    ja: "万端珊瑚探偵所",
+    pronunciationJa: "ばんたんさんごたんていしょ",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Amenoma Smithy",
+    ja: "天目鍛冶屋",
+    pronunciationJa: "あめのまかじや",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Syavushi Bakshesh Shoppe",
+    ja: "豊穣の願い",
+    pronunciationJa: "ほうじょうのねがい",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
+    en: "Sailing Breeze",
+    ja: "セーリングブリーズ",
+    tags: [ "inazuma", "organization" ],
+  },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "Sumeru Academia",
+    ja: "スメール教令院",
+    pronunciationJa: "スメールきょうれいいん",
+    tags: [ "sumeru", "organization" ],
+  },
+
+  //
+  // Snezhnaya & Fatui
+  //
+  {
+    en: "Fatui",
+    ja: "ファデュイ / 愚人衆",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  // TODO need check
+  {
+    en: "Northland Bank",
+    ja: "北国銀行",
+    pronunciationJa: "きたくにぎんこう",
+    tags: [ "snezhnaya", "liyue", "organization" ],
+  },
+]

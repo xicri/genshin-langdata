@@ -1,0 +1,1061 @@
+[
+  {
+    en: "Elite Enemy",
+    ja: "精鋭",
+    pronunciationJa: "せいえい",
+    tags: [ "enemy" ],
+  },
+
+  // Slimes
+  {
+    en: "Slime",
+    ja: "スライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Pyro Slime",
+    ja: "炎スライム",
+    pronunciationJa: "ほのおスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Large Pyro Slime",
+    ja: "大型炎スライム",
+    pronunciationJa: "おおがたほのおスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hydro Slime",
+    ja: "水スライム",
+    pronunciationJa: "みずスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Large Hydro Slime",
+    ja: "大型水スライム",
+    pronunciationJa: "おおがたみずスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Anemo Slime",
+    ja: "風スライム",
+    pronunciationJa: "かぜスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Large Anemo Slime",
+    ja: "大型風スライム",
+    pronunciationJa: "おおがたかぜスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Electro Slime",
+    ja: "雷スライム",
+    pronunciationJa: "かみなりスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Large Electro Slime",
+    ja: "大型雷スライム",
+    pronunciationJa: "おおがたかみなりスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Mutant Electro Slime",
+    ja: "変異雷スライム",
+    pronunciationJa: "へんいかみなりスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Dendro Slime",
+    ja: "草スライム",
+    pronunciationJa: "くさスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Large Dendro Slime",
+    ja: "大型草スライム",
+    pronunciationJa: "おおがたくさスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Cryo Slime",
+    ja: "氷スライム",
+    pronunciationJa: "こおりスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Large Cryo Slime",
+    ja: "大型氷スライム",
+    pronunciationJa: "おおがたこおりスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Geo Slime",
+    ja: "岩スライム",
+    pronunciationJa: "いわスライム",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Large Geo Slime",
+    ja: "大型岩スライム",
+    pronunciationJa: "おおがたいわスライム",
+    tags: [ "enemy" ],
+  },
+
+  {
+    en: "Specter",
+    ja: "フライム",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Hydro Specter",
+    ja: "水フライム",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Anemo Specter",
+    ja: "風フライム",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Geo Specter",
+    ja: "岩フライム",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Cryo Specter",
+    ja: "氷フライム",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Electro Specter",
+    ja: "雷フライム",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Pyro Specter",
+    ja: "炎フライム",
+    tags: [ "enemy", "inazuma" ],
+  },
+
+  // Hilichurls
+  {
+    en: "Hilichurl",
+    ja: "ヒルチャール",
+    notes: "Hil\"i\"churl であることに注意",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hilichurl Fighter",
+    ja: "ヒルチャール・戦士",
+    pronunciationJa: "ヒルチャール・せんし",
+    notes: "木の棒を持ったヒルチャール",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hilichurl Berserker",
+    ja: "ヒルチャール・突進",
+    pronunciationJa: "ヒルチャール・とっしん",
+    notes: "火の点いた棒を持って突進してくるヒルチャール",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Wooden Shield Hilichurl Guard",
+    ja: "ヒルチャール・木盾",
+    pronunciationJa: "ヒルチャール・もくじゅん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Rock Shield Hilichurl Guard",
+    ja: "ヒルチャール・岩盾",
+    pronunciationJa: "ヒルチャール・がんじゅん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Ice Shield Hilichurl Guard",
+    ja: "ヒルチャール・氷盾",
+    pronunciationJa: "ヒルチャール・ひょうじゅん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hilichurl Shooter",
+    ja: "ヒルチャール・射手",
+    pronunciationJa: "ヒルチャール・しゃしゅ",
+    notes: "矢を打ってくるヒルチャールの総称",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Pyro Hilichurl Shooter",
+    ja: "ヒルチャール・炎矢",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Cryo Hilichurl Shooter",
+    ja: "ヒルチャール・氷矢",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Electro Hilichurl Shooter",
+    ja: "ヒルチャール・雷矢",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hilichurl Grenadier",
+    ja: "ヒルチャール・爆弾",
+    pronunciationJa: "ヒルチャール・ばくだん",
+    notes: "炎スライムを投げてくるヒルチャール",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Cryo Hilichurl Grenadier",
+    ja: "ヒルチャール・氷弾",
+    pronunciationJa: "ヒルチャール・ひょうだん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Electro Hilichurl Grenadier",
+    ja: "ヒルチャール・雷弾",
+    pronunciationJa: "ヒルチャール・らいだん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Samachurl",
+    ja: "ヒルチャールシャーマン",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hydro Samachurl",
+    ja: "ヒルチャールシャーマン・水",
+    pronunciationJa: "ヒルチャールシャーマン・みず",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Anemo Samachurl",
+    ja: "ヒルチャールシャーマン・風",
+    pronunciationJa: "ヒルチャールシャーマン・かぜ",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Electro Samachurl",
+    ja: "ヒルチャールシャーマン・雷",
+    pronunciationJa: "ヒルチャールシャーマン・かみなり",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Dendro Samachurl",
+    ja: "ヒルチャールシャーマン・草",
+    pronunciationJa: "ヒルチャールシャーマン・くさ",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Cryo Samachurl",
+    ja: "ヒルチャールシャーマン・氷",
+    pronunciationJa: "ヒルチャールシャーマン・こおり",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Geo Samachurl",
+    ja: "ヒルチャールシャーマン・岩",
+    pronunciationJa: "ヒルチャールシャーマン・いわ",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Mitachurl",
+    ja: "ヒルチャール暴徒",
+    pronunciationJa: "ヒルチャールぼうと",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Wooden Shieldwall Mitachurl",
+    ja: "ヒルチャール暴徒・木盾",
+    pronunciationJa: "ヒルチャールぼうと・もくじゅん",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Rock Shieldwall Mitachurl",
+    ja: "ヒルチャール暴徒・岩盾",
+    pronunciationJa: "ヒルチャールぼうと・がんじゅん",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Ice Shieldwall Mitachurl",
+    ja: "ヒルチャール暴徒・氷盾",
+    pronunciationJa: "ヒルチャールぼうと・ひょうじゅん",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Blazing Axe Mitachurl",
+    ja: "ヒルチャール暴徒・炎斧",
+    pronunciationJa: "ヒルチャールぼうと・えんふ",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Crackling Axe Mitachurl",
+    ja: "ヒルチャール暴徒・雷斧",
+    pronunciationJa: "ヒルチャールぼうと・らいふ",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Stonehide Lawachurl",
+    ja: "ヒルチャール・岩兜の王",
+    pronunciationJa: "ヒルチャール・いわかぶとのおう",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy", "liyue" ],
+  },
+  {
+    en: "Frostarm Lawachurl",
+    ja: "ヒルチャール・霜鎧の王",
+    pronunciationJa: "ヒルチャール・しもよろいのおう",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy", "dragonspine" ],
+  },
+  {
+    en: "Thunderhelm Lawachurl",
+    ja: "ヒルチャール・雷兜の王",
+    pronunciationJa: "ヒルチャール・かみなりかぶとのおう",
+    notes: "通称「デカチャール」",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Hilichurl Chieftain",
+    ja: "ヒルチャール王者",
+    pronunciationJa: "ヒルチャールおうじゃ",
+    notes: "ヒルチャール・○○の王の総称。通称「デカチャール」。",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Unusual Hilichurl",
+    ja: "変わったヒルチャール",
+    pronunciationJa: "かわったヒルチャール",
+    tags: [ "enemy" ],
+    variants: {
+      ja: [ "変なヒルチャール", "へんなヒルチャール" ],
+    },
+  },
+
+  // Automatons
+  {
+    en: "Ruin Guard",
+    ja: "遺跡守衛",
+    pronunciationJa: "いせきしゅえい",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Field Tiller",
+    ja: "耕運機",
+    pronunciationJa: "こううんき",
+  },
+  {
+    en: "Ruin Hunter",
+    ja: "遺跡ハンター",
+    pronunciationJa: "いせきハンター",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Ruin Grader",
+    ja: "遺跡重機",
+    pronunciationJa: "いせきじゅうき",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Ruin Sentinel",
+    ja: "遺跡機兵",
+    pronunciationJa: "いせききへい",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Ruin Cruiser",
+    ja: "遺跡巡視者",
+    pronunciationJa: "いせきじゅんししゃ",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Ruin Scout",
+    ja: "遺跡偵察者",
+    pronunciationJa: "いせきていさつしゃ",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Ruin Defender",
+    ja: "遺跡防衛者",
+    pronunciationJa: "いせきぼうえいしゃ",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Ruin Destroyer",
+    ja: "遺跡殲滅者",
+    pronunciationJa: "いせきせんめつしゃ",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Ruin Serpent",
+    ja: "遺跡サーペント",
+    pronunciationJa: "いせきサーペント",
+    tags: [ "enemy-boss", "liyue" ],
+  },
+  {
+    en: "Haftvad the Worm",
+    ja: "七嗣の虫",
+    tags: [ "enemy-boss", "liyue" ],
+    notes: "世界任務「層岩巨淵深遊記」で、層岩巨淵最深部で戦う遺跡サーペントの名前",
+  },
+
+  // Abyss Order
+  {
+    en: "Abyss Order",
+    ja: "アビス教団",
+    pronunciationJa: "アビスきょうだん",
+    tags: [ "enemy", "organization" ],
+  },
+  {
+    en: "Abyss Mage",
+    ja: "アビスの魔術師",
+    pronunciationJa: "アビスのまじゅつし",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Pyro Abyss Mage",
+    ja: "アビスの魔術師・炎",
+    pronunciationJa: "アビスのまじゅつし・ほのお",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hydro Abyss Mage",
+    ja: "アビスの魔術師・水",
+    pronunciationJa: "アビスのまじゅつし・みず",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Electro Abyss Mage",
+    ja: "アビスの魔術師・雷",
+    pronunciationJa: "アビスのまじゅつし・かみなり",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Cryo Abyss Mage",
+    ja: "アビスの魔術師・氷",
+    pronunciationJa: "アビスのまじゅつし・こおり",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Abyss Herald: Wicked Torrents",
+    ja: "アビスの使徒・激流",
+    pronunciationJa: "アビスのしと・げきりゅう",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Abyss Lector: Violet Lightning",
+    ja: "アビスの詠唱者・紫電",
+    pronunciationJa: "アビスのえいしょうしゃ・しでん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Abyss Lector: Fathomless Flames",
+    ja: "アビスの詠唱者・淵炎",
+    pronunciationJa: "アビスのえいしょうしゃ・えんえん", // TODO Need check
+    tags: [ "enemy" ],
+  },
+
+  // Treasure Hoarders
+  {
+    en: "Treasure Hoarders",
+    ja: "宝盗団",
+    pronunciationJa: "ほうとうだん",
+    tags: [ "enemy", "organization" ],
+  },
+  {
+    en: "Treasure Hoarders - Scout",
+    ja: "宝盗団・斥候",
+    pronunciationJa: "ほうとうだん・せっこう",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders: Pyro Potioneer",
+    ja: "宝盗団・炎の薬剤師",
+    pronunciationJa: "ほうとうだん・ほのおのやくざいし",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders: Hydro Potioneer",
+    ja: "宝盗団・水の薬剤師",
+    pronunciationJa: "ほうとうだん・みずのやくざいし",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders: Electro Potioneer",
+    ja: "宝盗団・雷の薬剤師",
+    pronunciationJa: "ほうとうだん・かみなりのやくざいし",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders: Cryo Potioneer",
+    ja: "宝盗団・氷の薬剤師",
+    pronunciationJa: "ほうとうだん・こおりのやくざいし",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders: Handyman",
+    ja: "宝盗団・雑夫",
+    pronunciationJa: "ほうとうだん・ざっぷ",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders - Marksman",
+    ja: "宝盗団・弓使い",
+    pronunciationJa: "ほうとうだん・ゆみつかい",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders: Gravedigger",
+    ja: "宝盗団・盗掘者",
+    pronunciationJa: "ほうとうだん・とうくつしゃ",
+    notes: "英語では Gravedigger (墓掘り) となっている。墓荒らしのようなイメージ?",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders - Seaman",
+    ja: "宝盗団・海の男児",
+    pronunciationJa: "ほうとうだん・うみのだんじ",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders - Crusher",
+    ja: "宝盗団・粉砕者",
+    pronunciationJa: "ほうとうだん・ふんさいしゃ",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Treasure Hoarders - Pugilist",
+    ja: "宝盗団・拳術家",
+    pronunciationJa: "ほうとうだん・けんじゅつか",
+    tags: [ "enemy" ],
+  },
+
+  // Fatui
+  {
+    en: "Electro Cicin Mage",
+    ja: "雷蛍術師",
+    pronunciationJa: "らいけいじゅつし",
+    tags: [ "snezhnaya", "enemy" ],
+  },
+  {
+    en: "Cryo Cicin Mage",
+    ja: "氷蛍術師",
+    pronunciationJa: "ひょうけいじゅつし",
+    tags: [ "snezhnaya", "enemy" ],
+  },
+  {
+    en: "Cicin",
+    ja: "飛蛍",
+    notes: "雷蛍や氷蛍全般を指す。",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hydro Cicin",
+    ja: "水蛍",
+    pronunciationJa: "すいけい",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Electro Cicin",
+    ja: "雷蛍",
+    pronunciationJa: "らいけい",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Cryo Cicin",
+    ja: "氷蛍",
+    pronunciationJa: "ひょうけい",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Fatui Agent / Fatui Pyro Agent",
+    ja: "デットエージェント",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "デッドエージェント" ],
+    },
+  },
+  {
+    en: "Fatui Skirmisher",
+    ja: "ファデュイ先遣隊",
+    pronunciationJa: "ファデュイせんけんたい",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "先遣隊" ],
+    },
+  },
+  {
+    en: "Fatui Skirmisher - Pyroslinger Bracer",
+    ja: "ファデュイ先遣隊・遊撃兵・炎銃",
+    pronunciationJa: "ファデュイせんけんたい・ゆうげきへい・えんじゅう",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "炎銃" ],
+    },
+  },
+  {
+    en: "Fatui Skirmisher - Geochanter Bracer",
+    ja: "ファデュイ先遣隊・遊撃兵・岩使い",
+    pronunciationJa: "ファデュイせんけんたい・ゆうげきへい・いわつかい",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "岩使い" ],
+    },
+  },
+  {
+    en: "Fatui Skirmisher - Cryogunner Legionnaire",
+    ja: "ファデュイ先遣隊・重衛士・氷銃",
+    pronunciationJa: "ファデュイせんけんたい・じゅうえいし・ひょうじゅう",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "氷銃" ],
+    },
+  },
+  {
+    en: "Fatui Skirmisher - Hydrogunner Legionnaire",
+    ja: "ファデュイ先遣隊・重衛士・水銃",
+    pronunciationJa: "ファデュイせんけんたい・じゅうえいし・すいじゅう",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "水銃" ],
+    },
+  },
+  {
+    en: "Fatui Skirmisher - Anemoboxer Vanguard",
+    ja: "ファデュイ先遣隊・前鋒軍・風拳",
+    pronunciationJa: "ファデュイせんけんたい・ぜんぽうぐん・ふうけん",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "風拳" ],
+    },
+  },
+  {
+    en: "Fatui Skirmisher - Electrohammer Vanguard",
+    ja: "ファデュイ先遣隊・前鋒軍・雷ハンマー",
+    pronunciationJa: "ファデュイせんけんたい・ぜんぽうぐん・かみなりハンマー",
+    tags: [ "snezhnaya", "enemy" ],
+    variants: {
+      ja: [ "雷ハンマー" ],
+    },
+  },
+  {
+    en: "Snezhnayan Maiden",
+    ja: "冬国の仕女",
+    tags: [ "snezhnaya", "inazuma", "enemy" ],
+    notes: "ミラーメイデン (Mirror Maiden) の一般名",
+  },
+  {
+    en: "Mirror Maiden",
+    ja: "ミラーメイデン",
+    tags: [ "snezhnaya", "inazuma", "enemy" ],
+  },
+
+  {
+    en: "Eye of the Storm",
+    ja: "狂風のコア",
+    pronunciationJa: "きょうふうのコア",
+    tags: [ "enemy" ],
+  },
+
+  // Fake flowers
+  {
+    en: "Whopperflower",
+    ja: "トリックフラワー",
+    variants: {
+      en: [ "trickflower", "trick flower" ],
+    },
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Pyro Whopperflower",
+    ja: "トリックフラワー・炎",
+    pronunciationJa: "トリックフラワー・ほのお",
+    variants: {
+      en: [ "Pyro Trickflower", "Pyro Trick Flower" ],
+    },
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Cryo Whopperflower",
+    ja: "トリックフラワー・氷",
+    pronunciationJa: "トリックフラワー・こおり",
+    variants: {
+      en: [ "Cryo Trickflower", "Cryo Trick Flower" ],
+    },
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Electro Whopperflower",
+    ja: "トリックフラワー・雷",
+    pronunciationJa: "トリックフラワー・かみなり",
+    variants: {
+      en: [ "Electro Trickflower", "Electro Trick Flower" ],
+    },
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Pyro Regisvine",
+    ja: "爆炎樹",
+    pronunciationJa: "ばくえんじゅ",
+    tags: [ "enemy-boss", "liyue" ],
+  },
+  {
+    en: "Cryo Regisvine",
+    ja: "急凍樹",
+    pronunciationJa: "きゅうとうじゅ",
+    tags: [ "enemy-boss", "mondstadt" ],
+  },
+
+  // Hypostasises
+  {
+    en: "Anemo Hypostasis",
+    ja: "無相の風",
+    pronunciationJa: "むそうのかぜ",
+    tags: [ "enemy-boss", "mondstadt" ],
+    variants: {
+      ja: [ "無双の風", "無想の風" ],
+    },
+  },
+  {
+    en: "Beth",
+    ja: "ベト",
+    tags: [ "enemy-boss", "mondstadt" ],
+    notes: "無相の風のコードネーム",
+  },
+  {
+    en: "Electro Hypostasis",
+    ja: "無相の雷",
+    pronunciationJa: "むそうのかみなり",
+    tags: [ "enemy-boss", "mondstadt" ],
+    variants: {
+      ja: [ "無双の雷", "無想の雷" ],
+    },
+  },
+  {
+    en: "Aleph",
+    ja: "アレフ",
+    tags: [ "enemy-boss", "mondstadt" ],
+    notes: "無相の雷のコードネーム",
+  },
+  {
+    en: "Geo Hypostasis",
+    ja: "無相の岩",
+    pronunciationJa: "むそうのいわ",
+    tags: [ "enemy-boss", "liyue" ],
+    variants: {
+      ja: [ "無双の岩", "無想の岩" ],
+    },
+  },
+  {
+    en: "Gimel",
+    ja: "ギメル",
+    tags: [ "enemy-boss", "liyue" ],
+    notes: "無相の岩のコードネーム",
+  },
+  {
+    en: "Cryo Hypostasis",
+    ja: "無相の氷",
+    pronunciationJa: "むそうのこおり",
+    tags: [ "enemy-boss", "dragonspine" ],
+    variants: {
+      ja: [ "無双の氷", "無想の氷" ],
+    },
+  },
+  {
+    en: "Daleth",
+    ja: "ダレット",
+    tags: [ "enemy-boss", "dragonspine" ],
+    notes: "無相の氷のコードネーム",
+  },
+  {
+    en: "Pyro Hypostasis",
+    ja: "無相の炎",
+    pronunciationJa: "むそうのほのお",
+    tags: [ "enemy-boss", "inazuma" ],
+    variants: {
+      ja: [ "無双の炎", "無想の炎" ],
+    },
+  },
+  {
+    en: "Ayin",
+    ja: "アイン",
+    tags: [ "enemy-boss", "inazuma" ],
+    notes: "無相の炎のコードネーム",
+  },
+  {
+    en: "Hydro Hypostasis",
+    ja: "無相の水",
+    pronunciationJa: "むそうのみず",
+    tags: [ "enemy-boss", "inazuma" ],
+    variants: {
+      ja: [ "無双の水", "無想の水" ],
+    },
+  },
+  {
+    en: "He",
+    ja: "ヒイ",
+    tags: [ "enemy-boss", "inazuma" ],
+    notes: "無相の水のコードネーム",
+  },
+
+  // Vishaps
+  {
+    en: "Geovishap Hatchling",
+    ja: "ベビーヴィシャップ・岩",
+    tags: [ "enemy", "liyue" ],
+    variants: {
+      ja: [ "ベビーヴィシャップ" ],
+    },
+  },
+  {
+    en: "Geovishap",
+    ja: "ヴィシャップ・岩",
+    pronunciationJa: "ヴィシャップ・いわ",
+    tags: [ "enemy", "liyue" ],
+  },
+  {
+    en: "Primo Geovishap",
+    ja: "エンシェントヴィシャップ・岩",
+    pronunciationJa: "エンシェントヴィシャップ・いわ",
+    tags: [ "enemy-boss", "liyue" ],
+    variants: {
+      ja: [ "エンシェントヴィシャップ" ],
+    },
+  },
+  {
+    en: "Bathysmal Vishap",
+    ja: "アビサルヴィシャップ",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Primordial Bathysmal Vishap",
+    ja: "アビサルヴィシャップ・原種",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Rimebiter Bathysmal Vishap",
+    ja: "アビサルヴィシャップ・噛氷",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Bolteater Bathysmal Vishap",
+    ja: "アビサルヴィシャップ・呑雷",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Bathysmal Vishap Herd",
+    ja: "アビサルヴィシャップの群れ",
+    tags: [ "enemy-boss", "inazuma" ],
+  },
+
+  {
+    en: "Oceanid / Lochfolk",
+    ja: "純水精霊",
+    pronunciationJa: "じゅんすいせいれい",
+    variants: {
+      ja: [ "純粋精霊" ],
+    },
+    tags: [ "enemy-boss", "liyue" ],
+  },
+  {
+    en: "Rhodeia",
+    ja: "ローデシア",
+    tags: [ "enemy-boss", "liyue" ],
+  },
+  {
+    en: "Thunder Manifestation",
+    ja: "雷音権現",
+    pronunciationJa: "らいおんごんげん",
+    tags: [ "enemy-boss", "inazuma" ],
+  },
+
+  {
+    en: "Osial",
+    ja: "オセル",
+    notes: "発音は「オサイアル」",
+    tags: [ "enemy-boss", "liyue" ],
+  },
+  {
+    en: "Overlord of the Vortex",
+    ja: "渦の魔神",
+    pronunciationJa: "うずのまじん",
+    tags: [ "title", "liyue" ],
+  },
+  {
+    en: "Beisht",
+    ja: "跋掣",
+    pronunciationJa: "ばっせい",
+    tags: [ "enemy-boss", "liyue" ],
+  },
+  {
+    en: "The Avenger of the Vortex",
+    ja: "渦の余威",
+    pronunciationJa: "うずのよい",
+    tags: [ "title", "liyue" ],
+  },
+
+  {
+    en: "Nobushi: Hitsukeban",
+    ja: "野伏・火付番",
+    pronunciationJa: "のぶし・ひつけばん",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Nobushi: Jintouban",
+    ja: "野伏・陣刀番",
+    pronunciationJa: "のぶし・じんとうばん",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Nobushi: Kikouban",
+    ja: "野伏・機巧番",
+    pronunciationJa: "のぶし・きこうばん",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Kairagi: Fiery Might",
+    ja: "海乱鬼・炎威",
+    pronunciationJa: "かいらぎ・えんい", // TODO Need Check for 炎威's pronunciation
+    notes: "「海乱鬼」は、史実では倭寇 (室町時代や安土桃山時代の日本の海賊) の別名。",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Kairagi: Dancing Thunder",
+    ja: "海乱鬼・雷騰",
+    pronunciationJa: "かいらぎ・らいとう", // TODO Need Check for 雷騰's pronunciation
+    notes: "「海乱鬼」は、史実では倭寇 (室町時代や安土桃山時代の日本の海賊) の別名。",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Nobushi",
+    ja: "野伏衆",
+    pronunciationJa: "のぶししゅう",
+    notes: "海乱鬼・野伏の総称。",
+    tags: [ "enemy", "inazuma" ],
+  },
+
+  {
+    en: "Maguu Kenki",
+    ja: "魔偶剣鬼",
+    pronunciationJa: "まぐうけんき",
+    tags: [ "enemy-boss", "inazuma" ],
+  },
+  {
+    en: "Perpetual Mechanical Array",
+    ja: "恒常からくり陣形",
+    pronunciationJa: "こうじょうからくりじんけい",
+    tags: [ "enemy-boss", "inazuma" ],
+    notes: "perpetual とは「永久の」「永遠に続く」の意。\"perpetual motion machine\" で「永久機関」",
+  },
+
+  {
+    en: "Rifthound Whelp",
+    ja: "獣域ウェルプ",
+    pronunciationJa: "じゅういきウェルプ",
+    notes: "whelp はイヌ科の動物の子供を指す語。",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Rockfond Rifthound Whelp",
+    ja: "獣域ウェルプ・岩",
+    pronunciationJa: "じゅういきウェルプ・いわ",
+    notes: "whelp はイヌ科の動物の子供を指す語。",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Thundercraven Rifthound Whelp",
+    ja: "獣域ウェルプ・雷",
+    pronunciationJa: "じゅういきウェルプ・かみなり",
+    notes: "whelp は若いイヌ科の動物を指す語。",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Rifthound",
+    ja: "獣域ハウンド",
+    pronunciationJa: "じゅういきハウンド",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Rockfond Rifthound",
+    ja: "獣域ハウンド・岩",
+    pronunciationJa: "じゅういきハウンド・いわ",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Thundercraven Rifthound",
+    ja: "獣域ハウンド・雷",
+    pronunciationJa: "じゅういきハウンド・かみなり",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Golden Wolflord",
+    ja: "黄金王獣",
+    pronunciationJa: "おうごんおうじゅう",
+    tags: [ "enemy", "inazuma" ],
+  },
+  {
+    en: "Wolves of the Rift",
+    ja: "獣域ウルブズ",
+    pronunciationJa: "じゅういきウルブズ",
+    tags: [ "enemy" ],
+    notes: "獣域ウェルプ・獣域ハウンドの総称。rift は岩などにできた裂け目の意。以前は英語版では Riftwolves という名称だった。",
+  },
+
+  // The Black Serpents
+  {
+    en: "Shadowy Husk",
+    ja: "シャドウハスク",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Shadowy Husk: Standard Bearer",
+    ja: "シャドウハスク・旗令",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Shadowy Husk: Line Breaker",
+    ja: "シャドウハスク・破陣",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Shadowy Husk: Defender",
+    ja: "シャドウハスク・守衛",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Black Serpent Knight",
+    ja: "黒蛇騎士",
+    pronunciationJa: "こくじゃきし",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Black Serpent Knight: Windcutter",
+    ja: "黒蛇騎士・斬風の剣",
+    pronunciationJa: "こくじゃきし・ざんぷうのけん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "The Black Serpents",
+    ja: "黒蛇衆",
+    pronunciationJa: "こくじゃしゅう",
+    tags: [ "enemy" ],
+    notes: "シャドウハスクと黒蛇騎士の総称",
+  },
+
+  {
+    en: "Floating Hydro Fungus",
+    ja: "プカプカ水キノコン",
+    tags: [ "enemy" ], // TODO Check if it is really an enemy
+    variants: {
+      ja: [ "キノコン" ],
+    },
+  },
+]

@@ -1,0 +1,393 @@
+[
+  {
+    en: "Statue of The Seven",
+    ja: "七天神像",
+    pronunciationJa: "しちてんじんぞう",
+    tags: [ "object" ],
+    variants: {
+      ja: [ "神像" ],
+    },
+  },
+  {
+    en: "worship",
+    ja: "奉納する",
+    pronunciationJa: "ほうのうする",
+    examples: [{
+      en: "Worship Statue",
+      ja: "神像に奉納する",
+    }],
+  },
+  {
+    en: "resonate",
+    ja: "共鳴する",
+    pronunciationJa: "きょうめいする",
+    notes: "七天神像で、主人公の元素を切り替えること",
+    examples: [{
+      en: "Resonate with Electro",
+      ja: "雷元素と共鳴する",
+    }],
+  },
+  {
+    en: "Statue's Blessing",
+    ja: "神像の恵み",
+    pronunciationJa: "しんぞうのめぐみ",
+  },
+  {
+    en: "Teleport Waypoint",
+    ja: "ワープポイント",
+    tags: [ "object" ],
+  },
+  {
+    en: "Crafting Bench",
+    ja: "合成台",
+    pronunciationJa: "ごうせいだい",
+    tags: [ "object" ],
+  },
+  {
+    en: "Shrine of Depth",
+    ja: "地霊壇",
+    pronunciationJa: "ちれいだん",
+    tags: [ "object" ],
+  },
+  {
+    en: "Common Chest",
+    ja: "普通の宝箱",
+    pronunciationJa: "ふつうのたからばこ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Exquisite Chest",
+    ja: "精巧な宝箱",
+    pronunciationJa: "せいこうなたからばこ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Precious Chest",
+    ja: "貴重な宝箱",
+    pronunciationJa: "きちょうなたからばこ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Luxurious Chest",
+    ja: "豪華な宝箱",
+    pronunciationJa: "ごうかなたからばこ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Ley Line Blossom",
+    ja: "地脈の花",
+    pronunciationJa: "ちみゃくのはな",
+    tags: [ "object" ],
+  },
+  {
+    en: "Ley Line Outcrop: Blossom of Revelation",
+    ja: "地脈の花芽・啓示の花",
+    pronunciationJa: "ちみゃくのかが・けいじのはな",
+    tags: [ "object" ],
+  },
+  {
+    en: "Ley Line Outcrop: Blossom of Wealth",
+    ja: "地脈の花芽・蔵金の花",
+    pronunciationJa: "ちみゃくのかが・ぞうきんのはな",
+    tags: [ "object" ],
+  },
+  {
+    en: "Trounce Blossom",
+    ja: "征討の花",
+    pronunciationJa: "せいとうのはな",
+    tags: [ "object" ],
+  },
+  {
+    en: "Bloatty Floatty",
+    ja: "ポンポンの実",
+    pronunciationJa: "ポンポンのみ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Elemental Monument",
+    ja: "元素石碑",
+    pronunciationJa: "げんそせきひ",
+    tags: [ "object" ],
+  },
+  // TODO Need Check
+  {
+    en: "Anemogranum / Anemograna",
+    ja: "風の種",
+    pronunciationJa: "かぜのたね",
+    notes: "Anemogranum は単数形、Anemograna は複数形。granum はラテン語で「種」の意?",
+    tags: [ "object", "mondstadt" ],
+  },
+  {
+    en: "Geogranum / Geograna",
+    ja: "岩の種",
+    pronunciationJa: "いわのたね",
+    notes: "Geogranum は単数形、Geograna は複数形。granum はラテン語で「種」の意?",
+    tags: [ "object", "liyue" ],
+  },
+  {
+    en: "Electrogranum / Electrograna",
+    ja: "雷の種",
+    pronunciationJa: "かみなりのたね",
+    notes: "Electrogranum は単数形、Electrograna は複数形。granum はラテン語で「種」の意?",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Thunder Sphere",
+    ja: "雷極",
+    pronunciationJa: "らいきょく",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Seelie",
+    ja: "仙霊",
+    pronunciationJa: "せんれい",
+    tags: [ "object" ],
+  },
+  {
+    en: "Seelie Court",
+    ja: "仙霊の庭",
+    pronunciationJa: "せんれいのにわ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Warming Seelie",
+    ja: "温暖仙霊",
+    pronunciationJa: "おんだんせんれい",
+    tags: [ "object", "dragonspine" ],
+  },
+  {
+    en: "Electro Seelie",
+    ja: "雷霊",
+    pronunciationJa: "らいれい",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Luminous Seelie",
+    ja: "光彩仙霊",
+    tags: [ "object", "liyue" ],
+  },
+  {
+    en: "Forest Boar",
+    ja: "イノシシ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Snowboar",
+    ja: "雪のイノシシ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Great Snowboar King",
+    ja: "雪のイノシシ王",
+    tags: [ "object", "enemy" ],
+    variants: {
+      ja: [ "イノシシ王" ],
+    },
+  },
+  {
+    en: "Weasel Thief",
+    ja: "宝盗イタチ",
+    pronunciationJa: "ほうとうイタチ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Amateur Weasel Thief",
+    ja: "宝盗イタチ・新米",
+    pronunciationJa: "ほうとうイタチ・しんまい",
+    tags: [ "object" ],
+  },
+  {
+    en: "Hoarder Weasel Thief",
+    ja: "宝盗イタチ・中堅",
+    pronunciationJa: "ほうとうイタチ・ちゅうけん",
+    tags: [ "object" ],
+  },
+  {
+    en: "Golden Weasel Thief",
+    ja: "宝盗イタチ・黄金",
+    pronunciationJa: "ほうとうイタチ・おうごん",
+    tags: [ "object" ],
+  },
+  {
+    en: "Bluethunder Weasel",
+    ja: "青雷イタチ",
+    tags: [ "object", "liyue" ],
+  },
+
+  //
+  // Dragonspine
+  //
+  {
+    en: "Frostbearing Tree",
+    ja: "冬忍びの樹",
+    pronunciationJa: "ふゆしのびのき",
+    tags: [ "object", "dragonspine" ],
+  },
+  {
+    en: "Scarlet Quartz",
+    ja: "深紅の石",
+    pronunciationJa: "しんくのいし",
+    tags: [ "object", "dragonspine" ],
+  },
+  {
+    en: "Heat Source",
+    ja: "熱源",
+    pronunciationJa: "ねつげん",
+    tags: [ "object", "dragonspine" ],
+  },
+  {
+    en: "Ruin Blazier",
+    ja: "遺跡の灯火",
+    pronunciationJa: "いせきのともしび",
+    tags: [ "object", "dragonspine" ],
+  },
+
+  //
+  // Liyue
+  //
+  {
+    en: "Guizhong Ballista",
+    ja: "帰終機",
+    tags: [ "object", "liyue" ],
+  },
+  {
+    en: "Bedrock Keys",
+    ja: "磐鍵",
+    tags: [ "object", "liyue" ],
+  },
+  {
+    en: "Lucklight Fly",
+    ja: "吉光虫",
+    tags: [ "object", "liyue" ],
+  },
+  {
+    en: "Lumenlamps",
+    ja: "明石灯",
+    notes: "流明石の触媒のエネルギーを回復できる燭台のようなオブジェクト",
+    tags: [ "object", "liyue" ],
+  },
+  // {
+  //   en: "black mud", // TODO ゲーム中では black mud という表記があるが、璃月手帳第2期では Dark Mud と表記されている。
+  //   ja: "黒泥",
+  //   tags: [ "object", "liyue" ],
+  // },
+  {
+    en: "Fantastic Compass",
+    ja: "太威儀盤",
+    pronunciationJa: "たいぎばん",
+    tags: [ "object", "liyue" ],
+  },
+
+  //
+  // Inazuma
+  //
+  {
+    en: "Sacred Sakura",
+    ja: "神櫻",
+    pronunciationJa: "しんおう",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Statue of the Omnipresent God",
+    ja: "千手百目神像",
+    pronunciationJa: "せんじゅひゃくもくしんぞう",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Discharge Stone",
+    ja: "放電石",
+    pronunciationJa: "ほうでんせき",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Relay Stone",
+    ja: "継電石",
+    pronunciationJa: "けいでんせき",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Cumulation Stone",
+    ja: "集電石",
+    pronunciationJa: "しゅうでんせき",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Lightning Strike Probe",
+    ja: "雷霆探針",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Sacred Stone Mound",
+    ja: "御引磐座",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Thunderbearer Mirror",
+    ja: "雷承の鑑",
+    pronunciationJa: "らいしょうのかがみ",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Thunder Sakura Bough",
+    ja: "雷櫻の枝",
+    pronunciationJa: "らいおうのえだ",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Thunder Barrier",
+    ja: "若雷の結界",
+    pronunciationJa: "じゃくらいのけっかい",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Thunderstone",
+    ja: "若雷石",
+    pronunciationJa: "じゃくらいせき",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Thunderwood",
+    ja: "靂木",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "bake-danuki",
+    ja: "化け狸",
+    pronunciationJa: "ばけだぬき",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Stormstones",
+    ja: "雷石",
+    pronunciationJa: "らいせき",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Specific paths",
+    ja: "特定の道",
+    pronunciationJa: "とくていのみち",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Remarkable Chest",
+    ja: "珍奇な宝箱",
+    pronunciationJa: "ちんきなたからばこ",
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Ghostfish",
+    ja: "冥魚",
+    pronunciationJa: "めいぎょ", // TODO Need Check
+    tags: [ "object", "inazuma" ],
+  },
+  {
+    en: "Waverider",
+    ja: "ウェーブボート",
+    tags: [ "object" ],
+  },
+  {
+    en: "Waverider Waypoint",
+    ja: "ボートポイント",
+    tags: [ "object" ],
+  },
+]

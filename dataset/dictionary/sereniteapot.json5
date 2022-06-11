@@ -1,0 +1,186 @@
+[
+  {
+    en: "Serenitea Pot",
+    ja: "塵歌壺",
+    pronunciationJa: "じんかつぼ",
+    tags: [ "sereniteapot" ],
+    variants: {
+      ja: [
+        "壺",
+        // 「壺」の旧字体「壷」
+        "塵歌壷",
+        "壷",
+      ],
+      en: [ "teapot", "tea pot", "pot" ],
+    },
+  },
+  {
+    en: "Seed Dispensary",
+    ja: "種の匣",
+    pronunciationJa: "たねのはこ",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Vial of Adeptal Speed",
+    ja: "仙速瓶",
+    pronunciationJa: "せんそくびん",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Tubby",
+    ja: "マル",
+    tags: [ "sereniteapot", "character-sub" ],
+  },
+  {
+    en: "Chubby",
+    ja: "ウル",
+    tags: [ "sereniteapot", "character-sub" ],
+  },
+  {
+    en: "Jade Seeker",
+    ja: "尋瑰納琦真君",
+    tags: [ "sereniteapot", "title" ],
+  },
+  {
+    en: "Traveling Depot",
+    ja: "周遊百貨",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Teapot Traveling Salesman",
+    ja: "周遊する壺の精霊",
+    pronunciationJa: "しゅうゆうするつぼのせいれい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Realm Currency",
+    ja: "洞天宝銭",
+    pronunciationJa: "どうてんほうせん",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "furnishing",
+    ja: "調度品",
+    pronunciationJa: "ちょうどひん",
+    tags: [ "sereniteapot" ],
+  },
+
+
+  {
+    en: "Radiant Spincrystal",
+    ja: "旋曜玉帛",
+    tags: [ "sereniteapot" ],
+    notes: "通称「パイン飴」",
+    variants: {
+      ja: [ "パイン飴", "パインアメ" ],
+    },
+  },
+
+  //
+  // 素材
+  //
+  {
+    en: "Blue Dye",
+    ja: "青色の染料",
+    pronunciationJa: "あおいろのせんりょう",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Yellow Dye",
+    ja: "黄色の染料",
+    pronunciationJa: "きいろのせんりょう",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Red Dye",
+    ja: "赤色の染料",
+    pronunciationJa: "あかいろのせんりょう",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Fabric",
+    ja: "布材",
+    pronunciationJa: "ぬのざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Fir Wood",
+    ja: "杉材",
+    pronunciationJa: "すぎざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Fragrant Cedar Wood",
+    ja: "垂香材",
+    pronunciationJa: "じょうこうざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Bamboo Segment",
+    ja: "竹材",
+    pronunciationJa: "たけざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Sandbearer Wood",
+    ja: "却砂材",
+    pronunciationJa: "きゃくさざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Pine Wood",
+    ja: "松材",
+    pronunciationJa: "まつざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Cuihua Wood",
+    ja: "萃華材",
+    pronunciationJa: "すいかざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Birch Wood",
+    ja: "樺材",
+    pronunciationJa: "かばざい",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Yumemiru Wood",
+    ja: "夢見材",
+    pronunciationJa: "ゆめみざい",
+    tags: [ "sereniteapot", "inazuma" ],
+  },
+  {
+    en: "Maple Wood",
+    ja: "楓材",
+    pronunciationJa: "かえでざい",
+    tags: [ "sereniteapot", "inazuma" ],
+  },
+  {
+    en: "Aralia Wood",
+    ja: "孔雀材",
+    pronunciationJa: "くじゃくざい",
+    tags: [ "sereniteapot", "inazuma" ],
+  },
+  {
+    en: "Otogi Wood",
+    ja: "御伽材",
+    pronunciationJa: "おとぎざい",
+    tags: [ "sereniteapot", "inazuma" ],
+  },
+
+  //
+  // Furnishing (調度品)
+  //
+  {
+    en: "Euphonium Unbound: Winding",
+    ja: "華麗なる千の響き・繚繞",
+    tags: [ "sereniteapot" ],
+  },
+  {
+    en: "Euphonium Unbound: Soaring",
+    ja: "華麗なる千の響き・飄揚",
+    tags: [ "sereniteapot" ],
+  },
+]

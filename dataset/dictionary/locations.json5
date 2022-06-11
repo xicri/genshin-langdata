@@ -1,0 +1,946 @@
+[
+  //
+  // General
+  //
+  {
+    en: "Teyvat",
+    ja: "テイワット",
+    tags: [ "location" ],
+  },
+  {
+    en: "Celestia",
+    ja: "天空の島",
+    pronunciationJa: "てんくうのしま",
+    tags: [ "location" ],
+  },
+
+  //
+  // Mondstadt
+  //
+  {
+    en: "Mondstadt",
+    ja: "モンド",
+    tags: [ "mondstadt", "location" ],
+    notes: "「モンド城」も単に Mondstadt と表現される。(「城」の意味が省略されている。)",
+    variants: {
+      ja: [ "モンド城" ],
+    },
+  },
+  {
+    en: "Mondstadter",
+    ja: "モンド人",
+    pronunciationJa: "モンドじん",
+    notes: "Japanese など現実の「○○人」を示す言葉は、基本的に複数形 (Japaneses など) にはならないが、テイワットにおける「○○人」を示す言葉は、Mondstadters や Inazumans など、複数形を取るようである。Inazuman は「稲妻の」という形容詞形の意味も持つが、Mondstadter が「モンドの」という意味で使われている箇所は確認されていない。",
+    examples: [{
+      en: "Inazumans are definitely more particular about etiquette than Mondstadters!",
+      ja: "モンド人よりも、稲妻人の方が礼儀に対して気を配っている。",
+      ref: "トーマ, キャラクター実戦紹介 トーマ「烈炎の守護」",
+      refURL: "https://www.youtube.com/watch?v=HPoeE5PRWTw&t=15s",
+    }],
+  },
+
+  {
+    en: "Starfell Valley",
+    ja: "星落ちの谷",
+    pronunciationJa: "ほしおちのたに",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Stormbearer Point",
+    ja: "望風海角",
+    pronunciationJa: "ぼうふうかいかく",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Stormbearer Mountains",
+    ja: "望風山地",
+    pronunciationJa: "ぼうふうさんち",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Starfell Lake",
+    ja: "星落としの湖",
+    pronunciationJa: "ほしおとしのみずうみ",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Whispering Woods",
+    ja: "囁きの森",
+    pronunciationJa: "ささやきのもり",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Cider Lake",
+    ja: "シードル湖",
+    pronunciationJa: "シードルこ",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Starsnatch Cliff",
+    ja: "星拾いの崖",
+    pronunciationJa: "ほしひろいのがけ",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Thousand Winds Temple",
+    ja: "千風の神殿",
+    pronunciationJa: "せんぷうのしんでん",
+    tags: [ "mondstadt", "location" ],
+  },
+
+  {
+    en: "Galesong Hill",
+    ja: "風唸りの丘",
+    pronunciationJa: "かぜうなりのおか",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Windrise",
+    ja: "風立ちの地",
+    pronunciationJa: "かぜたちのち",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Falcon Coast",
+    ja: "鷹飛びの浜",
+    pronunciationJa: "たかとびのはま",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Dadaupa Gorge",
+    ja: "ダダウパの谷",
+    pronunciationJa: "ダダウパのたに",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Cape Oath",
+    ja: "誓いの岬",
+    pronunciationJa: "ちかいのみさき",
+    tags: [ "mondstadt", "location" ],
+  },
+
+  {
+    en: "Windwail Highland",
+    ja: "蒼風の高地",
+    pronunciationJa: "そうふうのこうち",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Springvale",
+    ja: "清泉町",
+    pronunciationJa: "きよいずみちょう",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Dawn Winery",
+    ja: "アカツキワイナリー",
+    tags: [ "mondstadt", "location", "organization" ],
+  },
+  {
+    en: "Wolvendom",
+    ja: "奔狼領",
+    pronunciationJa: "ほうろうりょう",
+    tags: [ "mondstadt", "location" ],
+  },
+
+  {
+    en: "Brightcrown Mountains",
+    ja: "明冠山地",
+    pronunciationJa: "めいかんさんち",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Brightcrown Canyon",
+    ja: "明冠峡谷",
+    pronunciationJa: "めいかんきょうこく",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Stormterror's Liar",
+    ja: "風龍廃墟",
+    pronunciationJa: "ふうりゅうはいきょ",
+    tags: [ "mondstadt", "location" ],
+  },
+
+  {
+    en: "Dragonspine",
+    ja: "ドラゴンスパイン",
+    tags: [ "dragonspine", "location" ],
+  },
+  {
+    en: "Snow-Covered Path",
+    ja: "積雪の道",
+    pronunciationJa: "せきせつのみち",
+    tags: [ "dragonspine", "location" ],
+  },
+  {
+    en: "Entombed City - Ancient Palace",
+    ja: "雪葬の都・旧宮",
+    pronunciationJa: "せっそうのみやこ・きゅうぐう",
+    tags: [ "dragonspine", "location" ],
+  },
+  {
+    en: "Skyfrost Nail",
+    ja: "寒天の釘",
+    pronunciationJa: "さむぞらのくぎ",
+    tags: [ "dragonspine", "location" ],
+  },
+  {
+    en: "Starglow Cavern",
+    ja: "星蛍の洞窟",
+    pronunciationJa: "ほしほたるのどうくつ",
+    tags: [ "dragonspine", "location" ],
+  },
+  {
+    en: "Wyrmrest Valley",
+    ja: "龍眠の谷",
+    pronunciationJa: "りゅうみんのたに",
+    tags: [ "dragonspine", "location" ],
+  },
+  {
+    en: "Entombed City - Outskirts",
+    ja: "雪葬の都・近郊",
+    pronunciationJa: "せっそうのみやこ・きんこう", // Source: https://twitter.com/Genshin_7/status/1337370367535411202
+    tags: [ "dragonspine", "location" ],
+  },
+
+  {
+    en: "Dornman Port",
+    ja: "ドーンマンポート",
+    tags: [ "mondstadt", "location" ],
+  },
+
+  {
+    en: "Musk Reef",
+    ja: "マスク礁",
+    pronunciationJa: "マスクしょう",
+    tags: [ "mondstadt", "location" ],
+  },
+
+  //
+  // Liyue
+  //
+  {
+    en: "Liyue",
+    ja: "璃月",
+    pronunciationJa: "リーユェ",
+    tags: [ "liyue", "location" ],
+    variants: {
+      ja: [ "リーユエ", "離月" ],
+    },
+  },
+  {
+    en: "Liyue Harbor",
+    ja: "璃月港",
+    pronunciationJa: "リーユェこう",
+    tags: [ "liyue", "location" ],
+    variants: {
+      ja: [ "リーユエこう" ],
+    },
+  },
+  {
+    en: "Feiyun Slope",
+    ja: "緋雲の丘",
+    pronunciationJa: "ひうんのおか",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Yujing Terrace",
+    ja: "玉京台",
+    pronunciationJa: "ぎょくけいだい",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Yuehai Pavilion",
+    ja: "月海亭",
+    pronunciationJa: "げつかいてい",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Chihu Rock",
+    ja: "チ虎岩",
+    pronunciationJa: "ちこがん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Jade Chamber",
+    ja: "群玉閣",
+    pronunciationJa: "ぐんぎょくかく",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Blackcliff Forge",
+    ja: "黒岩場",
+    pronunciationJa: "こくがんじょう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Golden House",
+    ja: "黄金屋",
+    pronunciationJa: "おうごんや",
+    tags: [ "liyue", "location", "domain" ],
+  },
+
+  {
+    en: "Lisha",
+    ja: "璃沙郊",
+    pronunciationJa: "りしゃこう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Mt. Tianheng",
+    ja: "天衡山",
+    pronunciationJa: "てんこうざん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Qingxu Pool",
+    ja: "青墟浦",
+    pronunciationJa: "せいきょうら",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Lingju Pass",
+    ja: "霊矩関",
+    pronunciationJa: "れいくかん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Dunyu Ruins",
+    ja: "遁玉の丘",
+    pronunciationJa: "とんぎょくのおか",
+    tags: [ "liyue", "location" ],
+  },
+
+  {
+    en: "Qiongji Estuary",
+    ja: "瓊璣野",
+    pronunciationJa: "けいきや",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Guili Plains",
+    ja: "帰離原",
+    pronunciationJa: "きりはら",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Mingyun Village",
+    ja: "明蘊町",
+    pronunciationJa: "めいうんちょう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Yaoguang Shoal",
+    ja: "瑶光の浜",
+    pronunciationJa: "ようこうのはま",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Sal Terrae",
+    ja: "地中の塩",
+    pronunciationJa: "ちちゅうのしお",
+    tags: [ "liyue", "location" ],
+  },
+
+  {
+    en: "Minlin",
+    ja: "珉林",
+    pronunciationJa: "みんりん",
+    tags: [ "liyue", "location" ],
+    variants: {
+      ja: [ "びんりん" ],
+    },
+  },
+  {
+    en: "Luhua Pool",
+    ja: "漉華の池",
+    pronunciationJa: "ろくかのいけ",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Tianqiu Valley",
+    ja: "天穹の谷",
+    pronunciationJa: "てんきゅうのたに",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Cuijue Slope",
+    ja: "翠決坡",
+    pronunciationJa: "すいけつざか",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Jueyun Karst",
+    ja: "絶雲の間",
+    pronunciationJa: "ぜつうんのま",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Nantianmen",
+    ja: "南天門",
+    pronunciationJa: "なんてんもん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Mt. Hulao",
+    ja: "琥牢山",
+    pronunciationJa: "ころうざん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Qingyun Peak",
+    ja: "慶雲頂",
+    pronunciationJa: "けいうんちょう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Huaguang Stone Forest",
+    ja: "華光の林",
+    pronunciationJa: "かこうのりん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Mt. Aocang",
+    ja: "奥蔵山",
+    pronunciationJa: "おくぞうさん",
+    tags: [ "liyue", "location" ],
+  },
+
+  {
+    en: "Bishui Plain",
+    ja: "碧水の原",
+    pronunciationJa: "へきすいのはら",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Wangshu Inn",
+    ja: "望舒旅館",
+    pronunciationJa: "ぼうじょりょかん",
+    tags: [ "liyue", "location", "organization" ],
+  },
+  {
+    en: "Dihua Marsh",
+    ja: "荻花洲",
+    pronunciationJa: "てきかしゅう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Stone Gate",
+    ja: "石門",
+    pronunciationJa: "せきもん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Wuwang Hill",
+    ja: "無妄の丘",
+    pronunciationJa: "むぼうのおか",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Qingce Village",
+    ja: "軽策荘",
+    pronunciationJa: "けいさくそう",
+    tags: [ "liyue", "location" ],
+  },
+
+  {
+    en: "Sea of Clouds",
+    ja: "雲来の海",
+    pronunciationJa: "うんらいのうみ",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Guyun Stone Forest",
+    ja: "孤雲閣",
+    pronunciationJa: "こうんかく",
+    tags: [ "liyue", "location" ],
+  },
+
+  {
+    en: "The Chasm",
+    ja: "層岩巨淵",
+    pronunciationJa: "そうがんきょえん",
+    tags: [ "liyue", "location" ],
+    notes: "chasm は「チャズム」ではなく「キャズム」と発音することに注意。原義は「深い裂け目」",
+  },
+  {
+    en: "Fuao Vale",
+    ja: "伏鰲の谷",
+    pronunciationJa: "ふごうのたに",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "The Surface",
+    ja: "地上鉱区",
+    pronunciationJa: "ちじょうこうく",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "The Chasm's Maw",
+    ja: "巨淵洞口",
+    pronunciationJa: "きょえんほらぐち",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Cinnabar Cliff",
+    ja: "丹砂崖",
+    pronunciationJa: "たんしゃがい",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Glaze Peak",
+    ja: "琉璃峰",
+    pronunciationJa: "るりほう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Tiangong Gorge",
+    ja: "天工峡",
+    pronunciationJa: "てんこうきょう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Lumberpick Valley",
+    ja: "採樵の谷",
+    pronunciationJa: "さいしょうのたに",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "The Chasm: Underground Mines",
+    ja: "層岩巨淵・地下鉱区",
+    pronunciationJa: "そうがんきょえん・ちかこうく",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Ad-Hoc Main Tunnel",
+    ja: "臨時本坑",
+    pronunciationJa: "りんじほんこう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "The Serpent's Cave",
+    ja: "巨蛇岩穴",
+    pronunciationJa: "きょじゃがんけつ",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "The Chasm: Main Mining Area",
+    ja: "巨淵主鉱区",
+    pronunciationJa: "きょえんしゅこうく",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Underground Waterway",
+    ja: "地下湿原",
+    pronunciationJa: "ちかしつげん",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Stony Halls",
+    ja: "嶮しき石堂",
+    pronunciationJa: "けわしきせきどう",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "Nameless Ruins",
+    ja: "無名遺跡",
+    pronunciationJa: "むめいいせき",
+    tags: [ "liyue", "location" ],
+  },
+  {
+    en: "The Glowing Narrows",
+    ja: "蛍光隘路",
+    pronunciationJa: "けいこうあいろ",
+    tags: [ "liyue", "location" ],
+  },
+
+  //
+  // Inazuma
+  //
+  {
+    en: "Inazuma",
+    ja: "稲妻",
+    pronunciationJa: "いなずま",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Inazuman",
+    ja: "稲妻人 / 稲妻の",
+    pronunciationJa: "いなずまじん",
+    tags: [ "inazuma" ],
+    notes: "元々 Inazuman は非公式にプレイヤーの間で使われる言葉であったが、その後トーマのキャラクター実戦紹介動画でこの語が使われ、公式な訳となった。Japanese など現実の「○○人」を示す言葉は、基本的に複数形 (Japaneses など) にはならないが、テイワットにおける「○○人」を示す言葉は、Mondstadters や Inazumans など、複数形を取るようである。",
+    examples: [
+      {
+        en: "Inazumans are definitely more particular about etiquette than Mondstadters!",
+        ja: "モンド人よりも、稲妻人の方が礼儀に対して気を配っている。",
+        ref: "トーマ, キャラクター実戦紹介 トーマ「烈炎の守護」",
+        refURL: "https://www.youtube.com/watch?v=HPoeE5PRWTw&t=15s",
+      },
+      {
+        en: "My name is Erebos. In the Inazuman tongue, that would be Eboshi.",
+        ja: "私はエレボス、稲妻式の名を烏帽子と申します。",
+        ref: "烏帽子, 世界任務 エレボスの秘密",
+      },
+    ],
+  },
+
+  {
+    en: "Narukami Island",
+    ja: "鳴神島",
+    pronunciationJa: "なるかみじま",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Inazuma City",
+    ja: "稲妻城",
+    pronunciationJa: "いなずまじょう",
+    tags: [ "inazuma", "location" ],
+    notes: "英語版では「城」が \"City\" となっている。",
+  },
+  {
+    en: "Konda Village",
+    ja: "紺田村",
+    pronunciationJa: "こんだむら",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Byakko Plain",
+    ja: "白狐の野",
+    pronunciationJa: "びゃっこのや",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Amakane Island",
+    ja: "甘金島",
+    pronunciationJa: "あまかねじま",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Chinju Forest",
+    ja: "鎮守の森",
+    pronunciationJa: "ちんしゅのもり",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Mt. Yougou",
+    ja: "影向山",
+    pronunciationJa: "ようごうざん",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Kamisato Estate",
+    ja: "神里屋敷",
+    pronunciationJa: "かみさとやしき",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Ritou",
+    ja: "離島",
+    pronunciationJa: "りとう",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Araumi",
+    ja: "荒海",
+    pronunciationJa: "あらうみ",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Jinren Island",
+    ja: "刃連島",
+    pronunciationJa: "じんれんじま",
+    tags: [ "inazuma", "location" ],
+  },
+
+  {
+    en: "Kannazuka",
+    ja: "神無塚",
+    pronunciationJa: "かんなづか",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Tatarasuna",
+    ja: "たたら砂",
+    pronunciationJa: "たたらすな",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Mikage Furnace",
+    ja: "御影炉心",
+    pronunciationJa: "みかげろしん",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Kujou Encampment",
+    ja: "九条陣屋",
+    pronunciationJa: "くじょうじんや",
+    tags: [ "inazuma", "location" ],
+  },
+
+  {
+    en: "Nazuchi Beach",
+    ja: "名椎の浜",
+    pronunciationJa: "なづちのはま",
+    tags: [ "inazuma", "location" ],
+  },
+
+  {
+    en: "Yashiori Island",
+    ja: "ヤシオリ島",
+    pronunciationJa: "ヤシオリじま",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Musoujin Gorge",
+    ja: "無想刃狭間",
+    pronunciationJa: "むそうじんはざま",
+    tags: [ "inazuma", "location" ],
+    variants: {
+      ja: [ "無双刃狭間", "無相刃狭間" ],
+    },
+  },
+  {
+    en: "Fort Fujitou",
+    ja: "藤兜砦",
+    pronunciationJa: "ふじとうとりで",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Fort Mumei",
+    ja: "無明砦",
+    pronunciationJa: "むみょうとりで",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Higi Village",
+    ja: "緋木村",
+    pronunciationJa: "ひぎむら",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Serpent's Head",
+    ja: "蛇神の首",
+    pronunciationJa: "へびがみのくび",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Jakotsu Mine",
+    ja: "蛇骨鉱坑",
+    pronunciationJa: "じゃこつこうこう",
+    tags: [ "inazuma", "location" ],
+  },
+
+  {
+    en: "Watatsumi Island",
+    ja: "海祇島",
+    pronunciationJa: "わたつみじま",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Sangonomiya Shrine",
+    ja: "珊瑚宮",
+    pronunciationJa: "さんごのみや",
+    tags: [ "inazuma", "location" ],
+    _meta: {
+      translator: {
+        enToJa: true,
+        // 「珊瑚宮」は単に Sangonomiya と訳し、珊瑚宮心海のことを指す場合でも、
+        // 地名としての珊瑚宮を指す場合でも、どちらでも意味が通るようにしておく。
+        jaToEn: false,
+      },
+    },
+  },
+  {
+    en: "Bourou Village",
+    ja: "望瀧村",
+    pronunciationJa: "ぼうろうむら",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Mouun Shrine",
+    ja: "曚雲神社",
+    pronunciationJa: "もううんじんじゃ",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Suigetsu Pool",
+    ja: "水月池",
+    pronunciationJa: "すいげつち",
+    tags: [ "inazuma", "location" ],
+  },
+
+  {
+    en: "Enkanomiya",
+    ja: "淵下宮",
+    pronunciationJa: "えんかのみや",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "The Serpent's Bowels",
+    ja: "蛇腸の道",
+    pronunciationJa: "じゃちょうのみち",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "The Narrows",
+    ja: "狭間の街",
+    pronunciationJa: "はざまのまち",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Dainichi Mikoshi",
+    ja: "大日神輿",
+    pronunciationJa: "だいにちみこし",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Evernight Temple",
+    ja: "常夜霊廟",
+    pronunciationJa: "とこよれいびょう",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "The Serpent's Heart",
+    ja: "蛇心の地",
+    pronunciationJa: "じゃしんのち",
+    tags: [ "inazuma", "location" ],
+  },
+
+  {
+    en: "Seirai Island",
+    ja: "セイライ島",
+    pronunciationJa: "セイライじま",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Fort Hiraumi",
+    ja: "平海砦",
+    pronunciationJa: "ひらうみとりで",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Koseki Village",
+    ja: "越石村",
+    pronunciationJa: "こしこくむら",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Seiraimaru",
+    ja: "セイライ丸",
+    pronunciationJa: "セイライまる",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Asase Shrine",
+    ja: "浅瀬神社",
+    pronunciationJa: "あさせじんじゃ",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Amakumo Peak",
+    ja: "天雲峠",
+    pronunciationJa: "あまくもとうげ",
+    tags: [ "inazuma", "location" ],
+  },
+
+  {
+    en: "Tsurumi Island",
+    ja: "鶴観",
+    pronunciationJa: "つるみ",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Shirikoro Peak",
+    ja: "シリコロ山",
+    pronunciationJa: "シリコロやま",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Oina Beach",
+    ja: "オイナ海岸",
+    pronunciationJa: "オイナかいがん",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Chirai Shrine",
+    ja: "チライ社殿",
+    pronunciationJa: "チライしゃでん",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Autake Plains",
+    ja: "アウタケ平原",
+    pronunciationJa: "アウタケへいげん",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Mt. Kanna",
+    ja: "カンナ山",
+    pronunciationJa: "カンナざん",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Moshiri Ceremonial Site",
+    ja: "モシリ祭場",
+    pronunciationJa: "モシリさいじょう",
+    tags: [ "inazuma", "location" ],
+  },
+  {
+    en: "Wakukau Shoal",
+    ja: "ワクカウ浜",
+    pronunciationJa: "ワクカウはま",
+    tags: [ "inazuma", "location" ],
+  },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "Sumeru",
+    ja: "スメール",
+    tags: [ "sumeru", "location" ],
+  },
+
+  //
+  // Fontaine
+  //
+  {
+    en: "Fontaine",
+    ja: "フォンテーヌ",
+    tags: [ "location" ],
+  },
+
+  //
+  // Natlan
+  //
+  {
+    en: "Natlan",
+    ja: "ナタ",
+    tags: [ "location" ],
+  },
+
+  //
+  // Snezhnaya
+  //
+  {
+    en: "Snezhnaya",
+    ja: "スネージナヤ",
+    tags: [ "snezhnaya", "location" ],
+  },
+  {
+    en: "Zapolyarny Palace",
+    ja: "スネージナヤパレス",
+    tags: [ "snezhnaya", "location" ],
+    notes: "Zapolyarny はロシア北西部に実在する町の名前",
+  },
+
+  //
+  // Khaenri'ah
+  //
+  {
+    en: "Khaenri'ah",
+    ja: "カーンルイア",
+    tags: [ "location" ],
+  },
+]

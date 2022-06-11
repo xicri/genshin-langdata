@@ -1,0 +1,305 @@
+[
+  //
+  // General
+  //
+  {
+    en: "Genshin Impact",
+    ja: "原神 (タイトル)",
+    pronunciationJa: "げんしん",
+    notes: "ゲームタイトル。神の目を持つ者を指す「原神」は allogene。",
+    _meta: {
+      translator: false,
+    },
+  },
+  {
+    en: "allogene",
+    ja: "原神",
+    pronunciationJa: "げんしん",
+    notes: "タイトルではなく、神の目を持つ者を意味する言葉としての「原神」。英語版タイトルは Genshin Impact",
+    _meta: {
+      translator: {
+        jaToEn: false, // Superseded by Genshin Impact
+        enToJa: true,
+      },
+    },
+  },
+  {
+    en: "Vision",
+    ja: "神の目",
+    pronunciationJa: "かみのめ",
+  },
+  {
+    en: "Gnosis",
+    ja: "神の心",
+    pronunciationJa: "かみのこころ",
+  },
+  {
+    en: "Delusion",
+    ja: "邪眼",
+    pronunciationJa: "じゃがん",
+    notes: "delusion の原義は「欺くこと」「妄想」",
+  },
+  {
+    en: "Archon",
+    ja: "魔神",
+    pronunciationJa: "まじん",
+  },
+  {
+    en: "Archon War",
+    ja: "魔神戦争",
+    pronunciationJa: "まじんせんそう",
+  },
+  {
+    en: "Emergency Food",
+    ja: "非常食",
+    pronunciationJa: "ひじょうしょく",
+    tags: [ "title" ],
+  },
+  {
+    en: "The Seven",
+    ja: "七神",
+    pronunciationJa: "しちしん",
+    tags: [ "title" ],
+  },
+  {
+    en: "erode",
+    ja: "摩耗する",
+    pronunciationJa: "まもうする",
+  },
+  {
+    en: "gaze of the god",
+    ja: "神の眼差し",
+    pronunciationJa: "かみのまなざし",
+  },
+  {
+    en: "freedom",
+    ja: "自由",
+    pronunciationJa: "じゆう",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "contract",
+    ja: "契約",
+    pronunciationJa: "けいやく",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "eternity",
+    ja: "永遠",
+    pronunciationJa: "えいえん",
+    tags: [ "inazuma" ],
+  },
+
+  //
+  // Mondstadt
+  //
+  {
+    en: "Ludi Harpastum",
+    ja: "バドルドー祭",
+    pronunciationJa: "バドルドーさい",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "harpastum / harpasta",
+    ja: "バドルドー",
+    notes: "恐らく harpastum が単数形、harpasta が複数形。原義はローマ帝国時代の球技を意味するラテン語。",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "Dandelion Wine",
+    ja: "蒲公英酒",
+    pronunciationJa: "ダンデライオンしゅ",
+    tags: [ "mondstadt" ],
+    variants: {
+      ja: [ "ダンデライオン酒", "ダンディライオン酒", "ダンディライオンしゅ" ],
+    },
+  },
+
+  //
+  // Liyue
+  //
+  {
+    en: "Adeptus / Adepti",
+    ja: "仙人",
+    tags: [ "liyue" ],
+    notes: "Adeptus が単数形、Adepti が複数形",
+  },
+  {
+    en: "the mighty and illuminated adepti",
+    ja: "三眼五顕仙人",
+    pronunciationJa: "さんがんごけんせんにん",
+    tags: [ "liyue", "title" ],
+    notes: "単数の場合は the mighty and illuminated adeptus",
+  },
+  {
+    en: "Rite of Descension",
+    ja: "迎仙儀式",
+    pronunciationJa: "げいせんぎしき",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Rite of Parting",
+    ja: "送仙儀式",
+    pronunciationJa: "そうせんぎしき",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Exuvia",
+    ja: "仙祖の亡骸",
+    pronunciationJa: "せんぞのなきがら",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "karma",
+    ja: "業障",
+    pronunciationJa: "ごっしょう",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Cocogoat",
+    ja: "ココナッツヒツジ",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Li style",
+    ja: "璃菜",
+    pronunciationJa: "りーさい",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Yue style",
+    ja: "月菜",
+    pronunciationJa: "ゆえさい",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "ascension ceremony",
+    ja: "昇空儀式",
+    pronunciationJa: "しょうくうぎしき",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "The Divine Damsel of Devastation",
+    ja: "神女劈観",
+    pronunciationJa: "しんにょへきかん", // TODO need confirmation
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Plaustrite",
+    ja: "浮生の石",
+    pronunciationJa: "ふじょうのいし",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Sunset Vermillionite",
+    ja: "鳴霞浮生石",
+    pronunciationJa: "めいかふじょういし",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Wonder Core",
+    ja: "千奇核心",
+    pronunciationJa: "せんきかくしん",
+    tags: [ "liyue", "item" ],
+  },
+  {
+    en: "Adepti Sigil",
+    ja: "仙家呪符",
+    pronunciationJa: "せんかじゅふ",
+    tags: [ "liyue", "item" ],
+  },
+  {
+    en: "The Crux Clash",
+    ja: "南十字武闘会",
+    pronunciationJa: "みなみじゅうじぶとうかい",
+    tags: [ "liyue", "inazuma" ],
+  },
+
+  //
+  // Inazuma
+  //
+  {
+    en: "Vision Hunt Decree",
+    ja: "目狩り令",
+    pronunciationJa: "めがりれい",
+    tags: [ "inazuma" ],
+  },
+  {
+    en: "Sakoku Decree",
+    ja: "鎖国令",
+    pronunciationJa: "さこくれい",
+    tags: [ "inazuma" ],
+    notes: "単に「鎖国」とだけ言う場合、\"lockdown\" と表現される場合もある",
+  },
+  {
+    en: "Musou no Hitotachi",
+    ja: "無想の一太刀",
+    pronunciationJa: "むそうのひとたち",
+    tags: [ "inazuma" ],
+    variants: {
+      ja: [ "無相の一太刀", "無双の一太刀" ],
+    },
+  },
+  {
+    en: "Electro Mitsudomoe",
+    ja: "雷の三つ巴",
+    pronunciationJa: "かみなりのみつどもえ",
+    tags: [ "inazuma" ],
+  },
+  {
+    en: "perch",
+    ja: "止まり木",
+    pronunciationJa: "とまりぎ",
+    tags: [ "inazuma" ],
+  },
+  {
+    en: "Maushiro",
+    ja: "マウシロ",
+    tags: [ "inazuma" ],
+  },
+
+  //
+  // Snezhnaya / Fatui
+  //
+  {
+    en: "Harbinger",
+    ja: "執行官 / ファトゥス",
+    tags: [ "snezhnaya", "title" ],
+    notes: "ファデュイの執行官を指す。",
+    examples: [{
+      en: "Eighth of the Fatui Harbingers",
+      ja: "ファトゥス第8位",
+    }],
+  },
+  {
+    en: "Fire-Water",
+    ja: "炎水",
+    tags: [ "snezhnaya" ],
+  },
+
+  //
+  // Khaenri'ah
+  //
+  {
+    en: "Loom of Fate",
+    ja: "運命の織機",
+    pronunciationJa: "うんめいのおりき",
+  },
+  {
+    en: "Inteyvat",
+    ja: "インテイワット",
+  },
+
+  //
+  // Others
+  //
+  {
+    en: "Dark Calamity",
+    ja: "黒災",
+    pronunciationJa: "こくさい",
+  },
+  {
+    en: "the Calamity of Darkness",
+    ja: "漆黒の災い",
+  },
+]

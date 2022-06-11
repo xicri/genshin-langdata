@@ -1,0 +1,2035 @@
+[
+  // TODO need check
+  {
+    en: "Primogem",
+    ja: "原石",
+    pronunciationJa: "げんせき",
+    tags: [ "item" ],
+    notes: "primo(s) と略して呼ばれることが多い",
+    variants: {
+      en: [ "primo", "primos" ],
+    },
+  },
+  {
+    en: "Intertwined Fate",
+    ja: "紡がれた運命",
+    pronunciationJa: "つむがれたうんめい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Acquaint Fate",
+    ja: "出会いの縁",
+    pronunciationJa: "であいのえにし",
+    tags: [ "item" ],
+  },
+  {
+    en: "Genesis Crystal",
+    ja: "創世結晶",
+    pronunciationJa: "そうせいけっしょう",
+    tags: [ "item" ],
+    notes: "免責事項: 本サイトの運営者は、本サイトの情報の誤り等による損害について一切補償致しかねます。本サイトの情報はご自身の責任においてご利用下さい。",
+  },
+  {
+    en: "Masterles Starglitter",
+    ja: "無主のスターライト",
+    pronunciationJa: "むしゅのスターライト",
+    tags: [ "item" ],
+    variants: {
+      ja: [ "スターライト" ],
+    },
+  },
+  {
+    en: "Masterless Stardust",
+    ja: "無主のスターダスト",
+    pronunciationJa: "むしゅのスターダスト",
+    tags: [ "item" ],
+    variants: {
+      ja: [ "スターダスト" ],
+    },
+  },
+  {
+    en: "Mora",
+    ja: "モラ",
+  },
+  {
+    en: "Original Resin",
+    ja: "天然樹脂",
+    pronunciationJa: "てんねんじゅし",
+  },
+  {
+    en: "Fragile Resin",
+    ja: "脆弱樹脂",
+    pronunciationJa: "ぜいじゃくじゅし",
+    tags: [ "item" ],
+  },
+  {
+    en: "Condensed Resin",
+    ja: "濃縮樹脂",
+    pronunciationJa: "のうしゅくじゅし",
+    tags: [ "item" ],
+  },
+  {
+    en: "Transient Resin",
+    ja: "刹那樹脂",
+    pronunciationJa: "せつなじゅし",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sanctifying Unction",
+    ja: "祈聖のオイル",
+    pronunciationJa: "きせいのオイル",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sanctifying Essence",
+    ja: "祈聖のエキス",
+    pronunciationJa: "きせいのエキス",
+    tags: [ "item" ],
+  },
+  {
+    en: "Anemoculus",
+    ja: "失われた風神の瞳",
+    pronunciationJa: "うしなわれたふうじんのひとみ",
+    tags: [ "item", "mondstadt" ],
+    notes: "oculus はラテン語で「目」の意",
+  },
+  {
+    en: "Geoculus",
+    ja: "失われた岩神の瞳",
+    pronunciationJa: "うしなわれたがんしんのひとみ",
+    tags: [ "item", "liyue" ],
+    notes: "oculus はラテン語で「目」の意",
+  },
+  {
+    en: "Electroculus",
+    ja: "失われた雷神の瞳",
+    pronunciationJa: "うしなわれたらいじんのひとみ",
+    tags: [ "item", "inazuma" ],
+    notes: "oculus はラテン語で「目」の意",
+  },
+  {
+    en: "Anemoculus Resonance Stone",
+    ja: "風神の瞳の共鳴石",
+    pronunciationJa: "ふうじんのひとみのきょうめいせき",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Geoculus Resonance Stone",
+    ja: "岩神の瞳の共鳴石",
+    pronunciationJa: "がんしんのひとみのきょうめいせき",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Electroculous Resonance Stone",
+    ja: "雷神の瞳の共鳴石",
+    pronunciationJa: "らいじんのひとみのきょうめいせき",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Crimson Agate",
+    ja: "緋紅玉髄",
+    tags: [ "item", "dragonspine" ],
+  },
+  // TODO Need Check
+  {
+    en: "Crystalfly",
+    ja: "晶蝶",
+    pronunciationJa: "しょうちょう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Anemo Crystalfly",
+    ja: "風晶蝶",
+    pronunciationJa: "かぜしょうちょう",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Geo Crystalfly",
+    ja: "岩晶蝶",
+    pronunciationJa: "いわしょうちょう",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Cryo Crystalfly",
+    ja: "氷晶蝶",
+    pronunciationJa: "こおりしょうちょう",
+    tags: [ "item", "dragonspine" ],
+  },
+  {
+    en: "Electro Crystalfly",
+    ja: "雷晶蝶",
+    pronunciationJa: "かみなりしょうちょう",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Crystal Core",
+    ja: "晶核",
+    pronunciationJa: "しょうかく",
+    tags: [ "item" ],
+  },
+  // TODO Need Check
+  {
+    en: "Anemo Sigil",
+    ja: "風の印",
+    pronunciationJa: "かぜのしるし",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Geo Sigil",
+    ja: "岩の印",
+    pronunciationJa: "いわのしるし",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Electro Sigil",
+    ja: "雷の印",
+    pronunciationJa: "かみなりのしるし",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Liyue Shrine of Depths Key",
+    ja: "璃月の地霊壇の鍵",
+    pronunciationJa: "りーゆぇのちれいだんのかぎ",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Adepti Seeker's Stove",
+    ja: "「仙人探しの美食家」",
+    pronunciationJa: "せんにんさがしのびしょくか",
+    tags: [ "item" ],
+  },
+  {
+    en: "Warming Bottle",
+    ja: "放熱瓶",
+    pronunciationJa: "ほうねつびん",
+    tags: [ "item", "dragonspine" ],
+  },
+  {
+    en: "Wind Catcher",
+    ja: "風捕りの瓶",
+    pronunciationJa: "かぜとりのびん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Anemo Treasure Compass",
+    ja: "風のトレジャーコンパス",
+    pronunciationJa: "かぜのトレジャーコンパス",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Geo Treasure Compass",
+    ja: "岩のトレジャーコンパス",
+    pronunciationJa: "いわのトレジャーコンパス",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Electro Treasure Compass",
+    ja: "雷のトレジャーコンパス",
+    pronunciationJa: "かみなりのトレジャーコンパス",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "NRE (Menu 30)",
+    ja: "三〇式・携帯式栄養袋",
+    pronunciationJa: "さんまるしき・けいたいしきえいようぶくろ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Portable Waypoint",
+    ja: "ポケットワープポイント",
+    tags: [ "item" ],
+  },
+  {
+    en: "Kamera",
+    ja: "写真機",
+    pronunciationJa: "しゃしんき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Parametric Transformer",
+    ja: "参量物質変化器",
+    pronunciationJa: "さんりょうぶっしつへんかき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dream Solvent",
+    ja: "異夢の溶媒",
+    pronunciationJa: "いむのようばい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Waverider Repair Toolbox",
+    ja: "ウェーブボートの修理箱",
+    pronunciationJa: "ウェーブボートのしゅうりばこ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Hunting Trap",
+    ja: "狩猟の罠",
+    pronunciationJa: "しゅりょうのわな",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sigil of Permission",
+    ja: "禁忌滅却の札",
+    pronunciationJa: "きんきめっきゃくのふだ",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Memento Lens",
+    ja: "追憶のレンズ",
+    pronunciationJa: "ついおくのレンズ",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Peculiar Pinion",
+    ja: "変わった羽毛",
+    pronunciationJa: "かわったうもう",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Red Feather Fan",
+    ja: "赤羽団扇",
+    pronunciationJa: "あかばねうちわ",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Key Sigil",
+    ja: "鍵紋",
+    pronunciationJa: "かぎもん",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Domain Reliquary",
+    ja: "深秘の聖遺物箱",
+    pronunciationJa: "しんぴのせいいぶつばこ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Lumenstone Adjuvant",
+    ja: "流明石の触媒",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Lumenspar",
+    ja: "流明晶石",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Lumenstone Ore",
+    ja: "流明石の原鉱",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Glazed Sand Crystal",
+    ja: "琉璃晶砂",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Orb of the Blue Depths",
+    ja: "青淵宝珠",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Flower of Farsight",
+    ja: "遠眺の花",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Skyfeather",
+    ja: "高翔の羽",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Sundial of Ages",
+    ja: "歳時の日時計",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Cup of Commons",
+    ja: "共飲の杯",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Helm of Warding",
+    ja: "加護の冠",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Warrior's Spear",
+    ja: "同沢の槍",
+    tags: [ "item", "liyue" ],
+  },
+
+  //
+  // Character EXP Material
+  //
+  {
+    en: "Wanderer's Advice",
+    ja: "流浪者の経験",
+    pronunciationJa: "るろうしゃのけいけん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Adventurer's Experience",
+    ja: "冒険家の経験",
+    pronunciationJa: "ぼうけんかのけいけん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Hero's Wit",
+    ja: "大英雄の経験",
+    pronunciationJa: "だいえいゆうのけいけん",
+    tags: [ "item" ],
+  },
+
+  //
+  // Character Level-Up Material
+  //
+  {
+    en: "Brilliant Diamond Gemstone",
+    ja: "輝くダイヤ",
+    pronunciationJa: "かがやくダイヤ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Everflame Seed",
+    ja: "常燃の火種",
+    pronunciationJa: "じょうねんのひだね",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Cleansing Heart",
+    ja: "浄水の心",
+    pronunciationJa: "じょうすいのこころ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Lightning Prism",
+    ja: "雷光のプリズム",
+    pronunciationJa: "らいこうのプリズム",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Hurricane Seed",
+    ja: "暴風の種",
+    pronunciationJa: "ぼうふうのたね",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Hoarfrost Core",
+    ja: "極寒のコア",
+    pronunciationJa: "ごっかんのコア",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Basalt Pillar",
+    ja: "玄岩の塔",
+    pronunciationJa: "げんがんのとう",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Juvenile Jade",
+    ja: "未熟の玉石",
+    pronunciationJa: "みじゅくのぎょくせき",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Crystalline Bloom",
+    ja: "凝結の華",
+    pronunciationJa: "ぎょうけつのはな",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Smoldering Pearl",
+    ja: "陰燃の珠",
+    pronunciationJa: "いんねんのたま",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Marionette Core",
+    ja: "魔偶の芯",
+    pronunciationJa: "まぐうのしん",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Perpetual Heart",
+    ja: "恒常からくりの芯",
+    pronunciationJa: "こうじょうからくりのしん",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Storm Beads",
+    ja: "雷霆の念珠",
+    pronunciationJa: "らいていのねんじゅ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Dew of Repudiation",
+    ja: "排他の露",
+    pronunciationJa: "はいたのつゆ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Dragonheir's False Fin",
+    ja: "ドラゴエアのニセヒレ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Runic Fang",
+    ja: "符文の歯車",
+    tags: [ "levelup-material", "item" ],
+  },
+  // 風魔龍トワリン
+  {
+    en: "Dvalin's Plume",
+    ja: "東風の羽根",
+    pronunciationJa: "とうふうのはね",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Dvalin's Claw",
+    ja: "東風の爪",
+    pronunciationJa: "とうふうのつめ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Dvalin's Sigh",
+    ja: "東風の吐息",
+    pronunciationJa: "とうふうのといき",
+    tags: [ "levelup-material", "item" ],
+  },
+  // 奔狼の領主アンドリアス
+  {
+    en: "Tail of Boreas",
+    ja: "北風のしっぽ",
+    pronunciationJa: "きたかぜのしっぽ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Ring of Boreas",
+    ja: "北風のリング",
+    pronunciationJa: "きたかぜのリング",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Spirit Locket of Boreas",
+    ja: "北風の魂箱",
+    tags: [ "levelup-material", "item" ],
+  },
+  // 公子タルタリヤ
+  {
+    en: "Tusk of Monoceros Caeli",
+    ja: "呑天の鯨・只角",
+    pronunciationJa: "どんてんのくじら・しかく",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Shard of a Foul Legacy",
+    ja: "魔王の刃・残片",
+    pronunciationJa: "まおうのやいば・ざんぺん",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Shadow of the Warrior",
+    ja: "武煉の魂・孤影",
+    pronunciationJa: "ぶれんのたましい・こえい",
+    tags: [ "levelup-material", "item" ],
+  },
+  // 若陀龍王
+  {
+    en: "Dragon Load's Crown",
+    ja: "龍王の冠",
+    pronunciationJa: "りゅうおうのかんむり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Bloodjade Branch",
+    ja: "血玉の枝",
+    pronunciationJa: "けつぎょくのえだ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Gilded Scale",
+    ja: "鍍金の鱗",
+    pronunciationJa: "ときんのうろこ",
+    tags: [ "levelup-material", "item" ],
+  },
+  // 淑女シニョーラ
+  {
+    en: "Ashen Heart",
+    ja: "灰燼の心",
+    pronunciationJa: "かいじんのこころ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Hellfire Butterfly",
+    ja: "獄炎の蝶",
+    pronunciationJa: "ごくえんのちょう",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Molten Moment",
+    ja: "溶滅の刻",
+    pronunciationJa: "ようめつのとき",
+    tags: [ "levelup-material", "item" ],
+  },
+  // 禍津御建鳴神命
+  {
+    en: "Mudra of the Malefic General",
+    ja: "凶将の手眼",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Tears of the Calamitous God",
+    ja: "禍神の禊涙",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "The Meaning of Aeons",
+    ja: "万劫の真意",
+    tags: [ "levelup-material", "item" ],
+  },
+
+  {
+    en: "Agnidus Agate Gemstone",
+    ja: "炎願のアゲート",
+    pronunciationJa: "えんがんのアゲート",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Agnidus Agate Chunk",
+    ja: "炎願のアゲート・塊",
+    pronunciationJa: "えんがんのアゲート・かたまり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Agnidus Agate Fragment",
+    ja: "炎願のアゲート・欠片",
+    pronunciationJa: "えんがんのアゲート・かけら",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Agnidus Agate Sliver",
+    ja: "炎願のアゲート・砕屑",
+    pronunciationJa: "えんがんのアゲート・さいせつ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Varunada Lazurite Gemstone",
+    ja: "澄明なラピスラズリ",
+    pronunciationJa: "ちょうめいなラピスラズリ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Varunada Lazurite Chunk",
+    ja: "澄明なラピスラズリ・塊",
+    pronunciationJa: "ちょうめいなラピスラズリ・かたまり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Varunada Lazurite Fragment",
+    ja: "澄明なラピスラズリ・欠片",
+    pronunciationJa: "ちょうめいなラピスラズリ・かけら",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Varunada Lazurite Sliver",
+    ja: "澄明なラピスラズリ・砕屑",
+    pronunciationJa: "ちょうめいなラピスラズリ・さいせつ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vajrada Amethyst Gemstone",
+    ja: "最勝のアメシスト",
+    pronunciationJa: "さいしょうのアメシスト",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vajrada Amethyst Chunk",
+    ja: "最勝のアメシスト・塊",
+    pronunciationJa: "さいしょうのアメシスト・かたまり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vajrada Amethyst Fragment",
+    ja: "最勝のアメシスト・欠片",
+    pronunciationJa: "さいしょうのアメシスト・かけら",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vajrada Amethyst Sliver",
+    ja: "最勝のアメシスト・砕屑",
+    pronunciationJa: "さいしょうのアメシスト・さいせつ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vayuda Turquoise Gemstone",
+    ja: "自由のターコイズ",
+    pronunciationJa: "じゆうのターコイズ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vayuda Turquoise Chunk",
+    ja: "自由のターコイズ・塊",
+    pronunciationJa: "じゆうのターコイズ・かたまり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vayuda Turquoise Fragment",
+    ja: "自由のターコイズ・欠片",
+    pronunciationJa: "じゆうのターコイズ・かけら",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Vayuda Turquoise Sliver",
+    ja: "自由のターコイズ・砕屑",
+    pronunciationJa: "じゆうのターコイズ・さいせつ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Shivada Jade Gemstone",
+    ja: "哀切なアイスクリスタル",
+    pronunciationJa: "あいせつなアイスクリスタル",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Shivada Jade Chunk",
+    ja: "哀切なアイスクリスタル・塊",
+    pronunciationJa: "あいせつなアイスクリスタル・かたまり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Shivada Jade Fragment",
+    ja: "哀切なアイスクリスタル・欠片",
+    pronunciationJa: "あいせつなアイスクリスタル・かけら",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Shivada Jade Sliver",
+    ja: "哀切なアイスクリスタル・砕屑",
+    pronunciationJa: "あいせつなアイスクリスタル・さいせつ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Prithiva Topaz Gemstone",
+    ja: "堅牢なトパーズ",
+    pronunciationJa: "けんろうなトパーズ",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Prithiva Topaz Chunk",
+    ja: "堅牢なトパーズ・塊",
+    pronunciationJa: "けんろうなトパーズ・かたまり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Prithiva Topaz Fragment",
+    ja: "堅牢なトパーズ・欠片",
+    pronunciationJa: "けんろうなトパーズ・かけら",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Prithiva Topaz Sliver",
+    ja: "堅牢なトパーズ・砕屑",
+    pronunciationJa: "けんろうなトパーズ・さいせつ",
+    tags: [ "levelup-material", "item" ],
+  },
+
+  //
+  // Talent Level-Up Material
+  //
+  {
+    en: "Teachings of Freedom",
+    ja: "「自由」の教え",
+    pronunciationJa: "じゆうのおしえ",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Guide to Freedom",
+    ja: "「自由」の導き",
+    pronunciationJa: "じゆうのみちびき",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Philosophies of Freedom",
+    ja: "「自由」の哲学",
+    pronunciationJa: "じゆうのてつがく",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Teachings of Resistance",
+    ja: "「抗争」の教え",
+    pronunciationJa: "こうそうのおしえ",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Guide to Resistance",
+    ja: "「抗争」の導き",
+    pronunciationJa: "こうそうのみちびき",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Philosophies of Resistance",
+    ja: "「抗争」の哲学",
+    pronunciationJa: "こうそうのてつがく",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Teachings of Ballad",
+    ja: "「詩文」の教え",
+    pronunciationJa: "しぶんのおしえ",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Guide to Ballad",
+    ja: "「詩文」の導き",
+    pronunciationJa: "しぶんのみちびき",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Philosophies of Ballad",
+    ja: "「詩文」の哲学",
+    pronunciationJa: "しぶんのてつがく",
+    tags: [ "talent-material", "item", "mondstadt" ],
+  },
+  {
+    en: "Teachings of Prosperity",
+    ja: "「繁栄」の教え",
+    pronunciationJa: "はんえいのおしえ",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Guide to Prosperity",
+    ja: "「繁栄」の導き",
+    pronunciationJa: "はんえいのみちびき",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Philosophies of Prosperity",
+    ja: "「繁栄」の哲学",
+    pronunciationJa: "はんえいのてつがく",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Teachings of Diligence",
+    ja: "「勤労」の教え",
+    pronunciationJa: "きんろうのおしえ",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Guide to Diligence",
+    ja: "「勤労」の導き",
+    pronunciationJa: "きんろうのみちびき",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Philosophies of Diligence",
+    ja: "「勤労」の哲学",
+    pronunciationJa: "きんろうのてつがく",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Teachings of Gold",
+    ja: "「黄金」の教え",
+    pronunciationJa: "おうごんのおしえ",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Guide to Gold",
+    ja: "「黄金」の導き",
+    pronunciationJa: "おうごんのみちびき",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Philosophies of Gold",
+    ja: "「黄金」の哲学",
+    pronunciationJa: "おうごんのてつがく",
+    tags: [ "talent-material", "item", "liyue" ],
+  },
+  {
+    en: "Teachings of Transience",
+    ja: "「浮世」の教え",
+    pronunciationJa: "うきよのおしえ",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Guide to Transience",
+    ja: "「浮世」の導き",
+    pronunciationJa: "うきよのみちびき",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Philosophies of Transience",
+    ja: "「浮世」の哲学",
+    pronunciationJa: "うきよのてつがく",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Teachings of Elegance",
+    ja: "「風雅」の教え",
+    pronunciationJa: "ふうがのおしえ",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Guide to Elegance",
+    ja: "「風雅」の導き",
+    pronunciationJa: "ふうがのみちびき",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Philosophies of Elegance",
+    ja: "「風雅」の哲学",
+    pronunciationJa: "ふうがのてつがく",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Teachings of Light",
+    ja: "「天光」の教え",
+    pronunciationJa: "てんこうのおしえ",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Guide to Light",
+    ja: "「天光」の導き",
+    pronunciationJa: "てんこうのみちびき",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Philosophies of Light",
+    ja: "「天光」の哲学",
+    pronunciationJa: "てんこうのてつがく",
+    tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Crown of Insight",
+    ja: "知恵の冠",
+    pronunciationJa: "ちえのかんむり",
+    tags: [ "talent-material", "item" ],
+    variants: {
+      ja: [ "王冠", "冠" ],
+    },
+  },
+
+  //
+  // Weapon Level-up materials
+  //
+  {
+    en: "Enhancement Ore",
+    ja: "仕上げ用雑鉱",
+    pronunciationJa: "しあげようざっこう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fine Enhancement Ore",
+    ja: "仕上げ用良鉱",
+    pronunciationJa: "しあげようりょうこう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mystic Enhancement Ore",
+    ja: "仕上げ用魔鉱",
+    pronunciationJa: "しあげようまこう",
+    tags: [ "item" ],
+  },
+
+  //
+  // Weapon Ascension Materials
+  //
+  {
+    en: "Scattered Piece of Decarabian's Dream",
+    ja: "高塔の王の砕けた夢",
+    pronunciationJa: "こうとうのおうのくだけたゆめ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fragment of Decarabian's Epic",
+    ja: "高塔の王の断片",
+    pronunciationJa: "こうとうのおうのだんぺん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Debris of Decarabian's City",
+    ja: "高塔の王の残壁",
+    pronunciationJa: "こうとうのおうのざんぺき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Boreal Wolf's Nostalgia",
+    ja: "凛風奔狼の郷愁",
+    tags: [ "item" ],
+  },
+  {
+    en: "Boreal Wolf's Broken Fang",
+    ja: "凛風奔狼の断牙",
+    tags: [ "item" ],
+  },
+  {
+    en: "Boreal Wolf's Cracked Tooth",
+    ja: "凛風奔狼の砕牙",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dream of the Dandelion Gladiator",
+    ja: "獅牙戦士の理想",
+    pronunciationJa: "しがせんしのりそう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Shackles of the Dandelion Gladiator",
+    ja: "獅牙戦士の手錠",
+    pronunciationJa: "しがせんしのてじょう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chains of the Dandelion Gladiator",
+    ja: "獅牙戦士の鎖",
+    pronunciationJa: "しがせんしのくさり",
+    tags: [ "item" ],
+  },
+  {
+    en: "Divine Body from Guyun",
+    ja: "孤雲寒林の神体",
+    pronunciationJa: "こうんかんりんのしんたい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Relic from Guyun",
+    ja: "孤雲寒林の聖骸",
+    pronunciationJa: "こうんかんりんのせいがい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Lustrous Stone from Guyun",
+    ja: "孤雲寒林の輝岩",
+    pronunciationJa: "こうんかんりんのきがん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mist Veiled Primo Elixir",
+    ja: "霧海雲間の転還",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mist Veiled Gold Elixir",
+    ja: "霧海雲間の金丹",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mist Veiled Mercury Elixir",
+    ja: "霧海雲間の水銀",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chunk of Aerosiderite",
+    ja: "漆黒の隕鉄の塊",
+    pronunciationJa: "しっこくのいんてつのかたまり",
+    tags: [ "item" ],
+  },
+  {
+    en: "Bit of Aerosiderite",
+    ja: "漆黒の隕鉄の一角",
+    pronunciationJa: "しっこくのいんてつのいっかく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Piece of Aerosiderite",
+    ja: "漆黒の隕鉄の一片",
+    pronunciationJa: "しっこくのいんてつのいっぺん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Coral Branch of a Distant Sea",
+    ja: "遠海夷地の瑚枝",
+    tags: [ "item" ],
+  },
+  {
+    en: "Jeweled Branch of a Distant Sea",
+    ja: "遠海夷地の石枝",
+    tags: [ "item" ],
+  },
+  {
+    en: "Jade Branch of a Distant Sea",
+    ja: "遠海夷地の玉枝",
+    tags: [ "item" ],
+  },
+  {
+    en: "Golden Branch of a Distant Sea",
+    ja: "遠海夷地の金枝",
+    tags: [ "item" ],
+  },
+  {
+    en: "Narukami's Wisdom",
+    ja: "鳴神御霊の恩恵",
+    pronunciationJa: "なるかみみたまのおんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Narukami's Joy",
+    ja: "鳴神御霊の歓喜",
+    pronunciationJa: "なるかみみたまのかんき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Narukami's Affection",
+    ja: "鳴神御霊の親愛",
+    pronunciationJa: "なるかみみたまのしんあい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Narukami's Valor",
+    ja: "鳴神御霊の勇武",
+    pronunciationJa: "なるかみみたまのゆうぶ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mask of the Wicked Lieutenant",
+    ja: "今昔劇画の悪尉",
+    pronunciationJa: "こんじゃくげきがのあくい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mask of the Tiger's Bite",
+    ja: "今昔劇画の虎牙",
+    pronunciationJa: "こんじゃくげきがのこが",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mask of the One-Horned",
+    ja: "今昔劇画の隻角",
+    pronunciationJa: "こんじゃくげきがのせきかく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mask of the Kijin",
+    ja: "今昔劇画の鬼人",
+    pronunciationJa: "こんじゃくげきがのきじん",
+    tags: [ "item" ],
+  },
+
+  //
+  // Character and Weapon Enhancement
+  //
+  {
+    en: "Black Crystal Horn",
+    ja: "黒晶の角笛",
+    pronunciationJa: "こくしょうのつのぶえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Black Bronze Horn",
+    ja: "黒銅の角笛",
+    pronunciationJa: "こくどうのつのぶえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Heavy Horn",
+    ja: "重い角笛",
+    pronunciationJa: "おもいつのぶえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Lay Line Sprout",
+    ja: "地脈の新芽",
+    pronunciationJa: "ちみゃくのしんめ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dead Lay Line Leaves",
+    ja: "地脈の枯れ葉",
+    pronunciationJa: "ちみゃくのかれは",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dead Lay Line Branch",
+    ja: "地脈の旧枝",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Core",
+    ja: "混沌の炉心",
+    pronunciationJa: "こんとんのろしん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Circuit",
+    ja: "混沌の回路",
+    pronunciationJa: "こんとんのかいろ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Device",
+    ja: "混沌の装置",
+    pronunciationJa: "こんとんのそうち",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Oculus",
+    ja: "混沌の真眼",
+    pronunciationJa: "こんとんのしんがん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Axis",
+    ja: "混沌の中枢",
+    pronunciationJa: "こんとんのちゅうすう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Gear",
+    ja: "混沌の機関",
+    pronunciationJa: "こんとんのきかん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mist Grass Wick",
+    ja: "霧虚ろの灯芯",
+    pronunciationJa: "きりうつろのとうしん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mist Grass",
+    ja: "霧虚ろの草嚢",
+    pronunciationJa: "きりうつろのそうのう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mist Grass Pollen",
+    ja: "霧虚ろの花粉",
+    pronunciationJa: "きりうつろのかふん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Inspector's Sacrificial Knife",
+    ja: "検査官の刀",
+    pronunciationJa: "けんさかんのかたな",
+    tags: [ "item" ],
+  },
+  {
+    en: "Agent's Sacrificial Knife",
+    ja: "エージェントの刀",
+    pronunciationJa: "エージェントのかたな",
+    tags: [ "item" ],
+  },
+  {
+    en: "Hunter's Sacrificial Knife",
+    ja: "猟兵の刀",
+    pronunciationJa: "りょうへいのかたな",
+    tags: [ "item" ],
+  },
+  {
+    en: "Polarizing Prism",
+    ja: "偏光プリズム",
+    pronunciationJa: "へんこうプリズム",
+    tags: [ "item" ],
+  },
+  {
+    en: "Crystal Prism",
+    ja: "水晶プリズム",
+    pronunciationJa: "すいしょうプリズム",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dismal Prism",
+    ja: "暗色プリズム",
+    pronunciationJa: "あんしょくプリズム",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fossilized Bone Shard",
+    ja: "石化した骨片",
+    pronunciationJa: "せきかしたこっぺん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sturdy Bone Shard",
+    ja: "丈夫な骨片",
+    pronunciationJa: "じょうぶなこっぺん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fragile Bone Shard",
+    ja: "脆い骨片",
+    pronunciationJa: "もろいこっぺん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Slime Concentrate",
+    ja: "スライムのピュレ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Slime Secretions",
+    ja: "スライムの分泌物",
+    pronunciationJa: "スライムのぶんぴつぶつ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Slime Condensate",
+    ja: "スライムの液体",
+    pronunciationJa: "スライムのえきたい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Spectral Nucleus",
+    ja: "フライムの晶化核",
+    pronunciationJa: "フライムのしょうかかく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Spectral Heart",
+    ja: "フライムの幽核",
+    pronunciationJa: "フライムのゆうかく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Spectral Husk",
+    ja: "フライムの乾核",
+    pronunciationJa: "フライムのかんかく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Ominous Mask",
+    ja: "不吉な仮面",
+    pronunciationJa: "ふきつなかめん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Stained Mask",
+    ja: "汚れた仮面",
+    pronunciationJa: "よごれたかめん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Damaged Mask",
+    ja: "破損した仮面",
+    pronunciationJa: "はそんしたかめん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Forbidden Curse Scroll",
+    ja: "禁呪の絵巻",
+    pronunciationJa: "きんじゅのえまき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sealed Scroll",
+    ja: "封魔の絵巻",
+    pronunciationJa: "ふうまのえまき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Divining Scroll",
+    ja: "占いの絵巻",
+    pronunciationJa: "うらないのえまき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Weathered Arrowhead",
+    ja: "歴戦の矢先",
+    pronunciationJa: "れきせんのやさき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sharp Arrowhead",
+    ja: "鋭利な矢先",
+    pronunciationJa: "えいりなやさき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Firm Arrowhead",
+    ja: "牢固な矢先",
+    pronunciationJa: "ろうこなやさき",
+    tags: [ "item" ],
+  },
+  {
+    en: "Lieutenant's Insignia",
+    ja: "尉官の記章",
+    pronunciationJa: "いかんのきしょう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sergeant's Insignia",
+    ja: "士官の記章",
+    pronunciationJa: "しかんのきしょう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Recruit's Insignia",
+    ja: "新兵の記章",
+    pronunciationJa: "しんぺいのきしょう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Golden Raven Insignia",
+    ja: "ゴールドの鴉マーク",
+    pronunciationJa: "ゴールドのカラスマーク",
+    tags: [ "item" ],
+  },
+  {
+    en: "Silver Raven Insignia",
+    ja: "シルバーの鴉マーク",
+    pronunciationJa: "シルバーのカラスマーク",
+    tags: [ "item" ],
+  },
+  {
+    en: "Treasure Hoarder Insignia",
+    ja: "宝探しの鴉マーク",
+    pronunciationJa: "たからさがしのカラスマーク",
+    tags: [ "item" ],
+  },
+  {
+    en: "Energy Nectar",
+    ja: "原素花の蜜",
+    pronunciationJa: "げんそばなのみつ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Shimmering Nectar",
+    ja: "微光花の蜜",
+    tags: [ "item" ],
+  },
+  {
+    en: "Whopperflower Nectar",
+    ja: "トリックフラワーの蜜",
+    pronunciationJa: "トリックフラワーのみつ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Old Handguard",
+    ja: "古びた鍔",
+    pronunciationJa: "ふるびたつば",
+    tags: [ "item" ],
+  },
+  {
+    en: "Kageuchi Handguard",
+    ja: "影打の鍔",
+    pronunciationJa: "かげうちのつば",
+    tags: [ "item" ],
+  },
+  {
+    en: "Famed Handguard",
+    ja: "名刀の鍔",
+    pronunciationJa: "めいとうのつば",
+    tags: [ "item" ],
+  },
+  {
+    en: "Concealed Claw",
+    ja: "隠獣の指爪",
+    tags: [ "item" ],
+  },
+  {
+    en: "Concealed Unguis",
+    ja: "隠獣の利爪",
+    tags: [ "item" ],
+  },
+  {
+    en: "Concealed Talon",
+    ja: "隠獣の鬼爪",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fungal Spores",
+    ja: "キノコンの胞子",
+    pronunciationJa: "キノコンのほうし",
+    tags: [ "item" ],
+  },
+  {
+    en: "Luminescent Pollen",
+    ja: "キノコンの蛍胞子",
+    tags: [ "item" ],
+  },
+  {
+    en: "Crystalline Cyst Dust",
+    ja: "キノコンの晶胞子",
+    tags: [ "item" ],
+  },
+  {
+    en: "Gloomy Statuette",
+    ja: "暗晦の彫刻",
+    pronunciationJa: "あんかいのちょうこく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dark Statuette",
+    ja: "黒夜の彫刻",
+    pronunciationJa: "こくやのちょうこく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Deathly Statuette",
+    ja: "幽邃なる彫刻",
+    pronunciationJa: "ゆうすいなるちょうこく",
+    tags: [ "item" ],
+  },
+
+  //
+  // Potion
+  //
+  {
+    en: "Headshield Potion",
+    ja: "耐熱薬剤",
+    pronunciationJa: "たいねつやくざい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Desiccant Potion",
+    ja: "耐湿薬剤",
+    pronunciationJa: "たいしつやくざい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Frostshield Potion",
+    ja: "耐寒薬剤",
+    pronunciationJa: "たいかんやくざい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Windbarrier Potion",
+    ja: "耐風薬剤",
+    pronunciationJa: "たいふうやくざい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Insulation Potion",
+    ja: "耐電薬剤",
+    pronunciationJa: "たいでんやくざい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dustproof Potion",
+    ja: "耐塵薬剤",
+    pronunciationJa: "たいじんやくざい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Flaming Essential Oil",
+    ja: "烈火のオイル",
+    pronunciationJa: "れっかのオイル",
+    tags: [ "item" ],
+  },
+  {
+    en: "Streaming Essential Oil",
+    ja: "激流のオイル",
+    pronunciationJa: "げきりゅうのオイル",
+    tags: [ "item" ],
+  },
+  {
+    en: "Frosting Essential Oil",
+    ja: "霜劫のオイル",
+    tags: [ "item" ],
+  },
+  {
+    en: "Gushing Essential Oil",
+    ja: "狂風のオイル",
+    pronunciationJa: "きょうふうのオイル",
+    tags: [ "item" ],
+  },
+  {
+    en: "Shocking Essential Oil",
+    ja: "驚雷のオイル",
+    pronunciationJa: "きょうらいのオイル",
+    tags: [ "item" ],
+  },
+  {
+    en: "Unmoving Essential Oil",
+    ja: "磐石のオイル",
+    pronunciationJa: "ばんじゃくのオイル",
+    tags: [ "item" ],
+  },
+
+  //
+  // Local Specialties
+  //
+  {
+    en: "Local Specialty",
+    ja: "地域の特産",
+    pronunciationJa: "ちいきのとくさん",
+    tags: [ "specialty" ],
+    notes: "単に「特産品」とも。",
+  },
+  // Mondstadt
+  {
+    en: "Calla Lily",
+    ja: "ドドリアン",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  {
+    en: "Cecilia",
+    ja: "セシリアの花",
+    pronunciationJa: "セシリアのはな",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  {
+    en: "Dandelion Seed",
+    ja: "蒲公英の種",
+    pronunciationJa: "たんぽぽのたね",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  {
+    en: "Philanemo Mushroom",
+    ja: "慕風のマッシュルーム",
+    pronunciationJa: "ぼふうのマッシュルーム",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  {
+    en: "Small Lamp Grass",
+    ja: "イグサ",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  {
+    en: "Valberry",
+    ja: "ヴァルベリー",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  {
+    en: "Windwheel Aster",
+    ja: "風車アスター",
+    pronunciationJa: "ふうしゃアスター",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  {
+    en: "Wolfhook",
+    ja: "ググプラム",
+    tags: [ "specialty", "item", "mondstadt" ],
+  },
+  // Liyue
+  {
+    en: "Glaze Lily",
+    ja: "瑠璃百合",
+    pronunciationJa: "るりゆり",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  {
+    en: "Qingxin",
+    ja: "清心",
+    pronunciationJa: "せいしん",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  {
+    en: "Silk Flower",
+    ja: "霓裳花",
+    pronunciationJa: "げいしょうばな",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  {
+    en: "Violetgrass",
+    ja: "瑠璃袋",
+    pronunciationJa: "るりぶくろ",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  {
+    en: "Jueyun Chili",
+    ja: "絶雲の唐辛子",
+    pronunciationJa: "ぜつうんのとうがらし",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  {
+    en: "Cor Lapis",
+    ja: "石珀",
+    pronunciationJa: "せきはく",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  {
+    en: "Noctilucous Jade",
+    ja: "夜泊石",
+    pronunciationJa: "よどまりいし",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  {
+    en: "Starconch",
+    ja: "星螺",
+    pronunciationJa: "せいら",
+    tags: [ "specialty", "item", "liyue" ],
+  },
+  // Inazuma
+  {
+    en: "Sea Ganoderma",
+    ja: "ウミレイシ",
+    tags: [ "specialty", "item", "inazuma" ],
+  },
+  {
+    en: "Sakura Bloom",
+    ja: "緋櫻毬",
+    pronunciationJa: "ひおうきゅう",
+    tags: [ "specialty", "item", "inazuma" ],
+    variants: {
+      ja: [ "ひまり" ],
+    },
+  },
+  {
+    en: "Naku Weed",
+    ja: "鳴草",
+    pronunciationJa: "なぐさ",
+    tags: [ "specialty", "item", "inazuma" ],
+    variants: {
+      ja: [ "なくさ" ],
+    },
+  },
+  {
+    en: "Dendrobium",
+    ja: "血石華",
+    tags: [ "specialty", "item", "inazuma" ],
+  },
+  {
+    en: "Lycoris",
+    ja: "赤蕊",
+    tags: [ "specialty", "item", "inazuma" ],
+    notes: "血石華の別名。",
+  },
+  {
+    en: "Onikabuto",
+    ja: "オニカブトムシ",
+    tags: [ "specialty", "item", "inazuma" ],
+  },
+  {
+    en: "Crystal Marrow",
+    ja: "晶化骨髄",
+    pronunciationJa: "しょうかこつずい",
+    tags: [ "specialty", "item", "inazuma" ],
+  },
+  {
+    en: "Amakumo Fruit",
+    ja: "天雲草の実",
+    pronunciationJa: "あまくもくさのみ",
+    tags: [ "specialty", "item", "inazuma" ],
+  },
+  {
+    en: "Sango Pearl",
+    ja: "珊瑚真珠",
+    pronunciationJa: "さんごしんじゅ",
+    tags: [ "specialty", "item", "inazuma" ],
+  },
+  {
+    en: "Fluorescent Fungus",
+    ja: "ユウトウタケ",
+    tags: [ "specialty", "item", "inazuma" ],
+  },
+
+  //
+  // Plants
+  //
+  {
+    en: "Mist Flower",
+    ja: "霧氷花",
+    pronunciationJa: "むひょうばな",
+    tags: [ "item" ],
+  },
+  {
+    en: "Mist Flower Corolla",
+    ja: "霧氷花の花蕊",
+    pronunciationJa: "むひょうばなのかずい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Flaming Flower",
+    ja: "烈焔花",
+    pronunciationJa: "れつえんばな",
+    tags: [ "item" ],
+  },
+  {
+    en: "Flaming Flower Stamen",
+    ja: "烈焔花の花蕊",
+    pronunciationJa: "れつえんばなのかずい",
+    tags: [ "item" ],
+  },
+
+  //
+  // Billets
+  //
+  {
+    en: "Northlander Sword Billet",
+    ja: "北陸片手剣の原型",
+    pronunciationJa: "ほくりくかたてけんのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Northlander Bow Billet",
+    ja: "北陸弓の原型",
+    pronunciationJa: "ほくりくゆみのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Northlander Claymore Billet",
+    ja: "北陸両手剣の原型",
+    pronunciationJa: "ほくりくりょうてけんのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Northlander Polearm Billet",
+    ja: "北陸長柄武器の原型",
+    pronunciationJa: "ほくりくながえぶきのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Northlander Catalyst Billet",
+    ja: "北陸法器の原型",
+    pronunciationJa: "ほくりくほうきのげんけい",
+    tags: [ "item" ],
+  },
+
+
+  //
+  // Minerals
+  //
+  {
+    en: "Iron Chunk",
+    ja: "鉄の塊",
+    pronunciationJa: "てつのかたまり",
+    tags: [ "item" ],
+  },
+  {
+    en: "White Iron Chunk",
+    ja: "白鉄の塊",
+    pronunciationJa: "はくてつのかたまり",
+    tags: [ "item" ],
+  },
+  {
+    en: "Crystal Chunk",
+    ja: "水晶の塊",
+    pronunciationJa: "すいしょうのかたまり",
+    tags: [ "item" ],
+  },
+  {
+    en: "Magical Crystal Chunk",
+    ja: "魔晶の塊",
+    pronunciationJa: "ましょうのかたまり",
+    tags: [ "item" ],
+  },
+  {
+    en: "Starsilver",
+    ja: "星銀鉱石",
+    pronunciationJa: "せいぎんこうせき",
+    tags: [ "item", "dragonspine" ],
+  },
+  {
+    en: "Electro Crystal",
+    ja: "電気水晶",
+    pronunciationJa: "でんきすいしょう",
+    tags: [ "item" ],
+  },
+  {
+    en: "Amethyst Lump",
+    ja: "紫水晶の塊",
+    pronunciationJa: "むらさきすいしょうのかたまり",
+    tags: [ "item", "inazuma" ],
+  },
+
+  //
+  // Fishes
+  //
+  {
+    en: "Medaka",
+    ja: "グッピー",
+    tags: [ "item" ],
+  },
+  {
+    en: "Glaze Medaka",
+    ja: "琉璃グッピー",
+    tags: [ "item" ],
+  },
+  {
+    en: "Sweet-Flower Medaka",
+    ja: "スイートグッピー",
+    tags: [ "item" ],
+  },
+  {
+    en: "Aizen Medaka",
+    ja: "藍染グッピー",
+    pronunciationJa: "あいぜんグッピー",
+    tags: [ "item" ],
+  },
+  {
+    en: "Crystalfish",
+    ja: "水晶宴",
+    tags: [ "item" ],
+  },
+  {
+    en: "Betta",
+    ja: "バトルトゲウオ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Brown Shirakodai",
+    ja: "褐チョウチョウウオ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Tea-Colored Shirakodai",
+    ja: "緑チョウチョウウオ",
+    pronunciationJa: "みどりチョウチョウウオ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Pufferfish",
+    ja: "鉄砲フグ",
+    pronunciationJa: "てっぽうフグ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Bitter Pufferfish",
+    ja: "苦鉄砲フグ",
+    tags: [ "item" ],
+  },
+
+  //
+  // Bait (釣り餌)
+  //
+  {
+    en: "Bait",
+    ja: "釣り餌",
+    pronunciationJa: "つりえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fruit Paste Bait",
+    ja: "果物餌",
+    pronunciationJa: "くだものえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Redrot Bait",
+    ja: "赤挽肉餌",
+    pronunciationJa: "あかひきにくえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "False Worm Bait",
+    ja: "ワームの疑似餌",
+    pronunciationJa: "ワームのぎじえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fake Fly Bait",
+    ja: "ハエの疑似餌",
+    pronunciationJa: "ハエのぎじえ",
+    tags: [ "item" ],
+  },
+
+  //
+  // Books
+  //
+  {
+    en: "Teyvat Travel Guide",
+    ja: "テイワット観光ガイド",
+    pronunciationJa: "テイワットかんこうガイド",
+    tags: [ "item" ],
+  },
+  {
+    en: "The Mondstadt Tower",
+    ja: "モンドタワー",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Draft Hilichurl Ballads",
+    ja: "ヒルチャール語詩試作",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "The Legend of Vennessa",
+    ja: "ヴァネッサの物語",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Princess Mina of the Fallen Nation",
+    ja: "亡国の美奈姫",
+    pronunciationJa: "ぼうこくのみなひめ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Flowers for Princess Fischl",
+    ja: "フィッシュル皇女物語",
+    pronunciationJa: "フィッシュルこうじょものがたり",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Sangonomiya Chronicles",
+    ja: "珊瑚宮記",
+    pronunciationJa: "さんごのみやき",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Yakshas: The Guardian Adepti",
+    ja: "仙衆夜叉 / 護法仙衆夜叉録",
+    pronunciationJa: "せんしゅうやしゃ / ごほうせんしゅうやしゃろく",
+    tags: [ "item", "title", "liyue" ],
+    notes: "魈を含む5人の夜叉の称号、又は同名の書籍名",
+  },
+  {
+    en: "A Legend of Sword",
+    ja: "沈秋拾剣録",
+    pronunciationJa: "ちんしゅうしゅうけんろく",
+    tags: [ "item", "liyue", "inazuma" ],
+  },
+  {
+    en: "Toki Alley Tales",
+    ja: "朱鷺町物語",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "New Chronicles of the Six Kitsune",
+    ja: "新六狐伝",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Shogun Almighty: Reborn as Raiden With Unlimited Power",
+    ja: "雷電将軍に転生したら、天下無敵になった",
+    pronunciationJa: "らいでんしょうぐんにてんせいしたら、てんかむてきになった",
+    tags: [ "item", "inazuma", "event" ],
+  },
+  {
+    en: "Pretty Please, Kitsune Guuji?",
+    ja: "お願いっ! 私の仙狐宮司",
+    pronunciationJa: "おねがいっ! わたしのせんこぐうじ",
+    tags: [ "item", "inazuma", "event" ],
+  },
+
+  //
+  // Quest Items
+  //
+  {
+    en: "Key of the Moon-bathed Deep",
+    ja: "月浴淵の鍵",
+    pronunciationJa: "げつよくえんのかぎ",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Reins of Revival",
+    ja: "蘇生手綱",
+    pronunciationJa: "そせいたづな",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Archaic Stone",
+    ja: "老石",
+    pronunciationJa: "ろうせき",
+    tags: [ "item", "liyue" ],
+  },
+
+  //
+  // コスチューム
+  //
+  {
+    en: "Sea Bleeze Dandelion",
+    ja: "海風の夢",
+    pronunciationJa: "うみかぜのゆめ",
+    notes: "ジンのコスチューム",
+  },
+  {
+    en: "Summertime Sparkle",
+    ja: "サマータイムスパークル",
+    notes: "バーバラのコスチューム",
+  },
+  {
+    en: "Opulent Splendor",
+    ja: "霓裾の舞",
+    pronunciationJa: "げいきょのまい",
+    notes: "刻晴のコスチューム",
+  },
+  {
+    en: "Orchid's Evening Gown",
+    ja: "紗の幽蘭",
+    pronunciationJa: "しゃのゆうらん",
+    notes: "凝光のコスチューム",
+  },
+]

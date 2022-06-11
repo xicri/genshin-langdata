@@ -1,0 +1,1630 @@
+[
+  //
+  // Archon Quests
+  //
+  {
+    en: "Archon Quest",
+    ja: "魔神任務",
+    pronunciationJa: "まじんにんむ",
+    tags: [ "quest-archon" ],
+  },
+
+  // Mondstadt
+  {
+    en: "The Outlander Who Caught the Wind",
+    ja: "風を捕まえる異邦人",
+    tags: [ "mondstadt", "quest-archon" ],
+  },
+  {
+    en: "For a Tomorrow Without Tears",
+    ja: "涙のない明日のために",
+    tags: [ "mondstadt", "quest-archon" ],
+  },
+  {
+    en: "Song of the Dragon and Freedom",
+    ja: "龍と自由の歌",
+    tags: [ "mondstadt", "quest-archon" ],
+  },
+
+  // Liyue
+  {
+    en: "Of the Land Amidst Monoliths",
+    ja: "浮世浮生千岩間",
+    tags: [ "liyue", "quest-archon" ],
+  },
+  {
+    en: "Farewell, Archaic Lord",
+    ja: "久遠の体との別れ",
+    pronunciationJa: "くおんのからだとのわかれ",
+    tags: [ "liyue", "quest-archon" ],
+  },
+  {
+    en: "A New Star Approaches",
+    ja: "迫る客星",
+    pronunciationJa: "せまるきゃくせい",
+    tags: [ "liyue", "quest-archon" ],
+  },
+
+  // Traveler
+  {
+    en: "We Will Be Reunited",
+    ja: "私達はいずれ再会する / 俺達はいずれ再会する",
+    pronunciationJa: "わたしたちはいずれさいかいする / おれたちはいずれさいかいする",
+    tags: [ "mondstadt", "liyue", "quest-archon" ],
+    notes: "主人公が男 (空) の場合「私達」、女 (蛍) の場合「俺達」",
+  },
+  {
+    en: "Involuntary Sacrifice",
+    ja: "望まれない供犠",
+    pronunciationJa: "のぞまれないくぎ",
+    tags: [ "mondstadt", "liyue", "quest-archon" ],
+  },
+  {
+    en: "A Herald Without Adherents",
+    ja: "信者のない使徒",
+    pronunciationJa: "しんじゃのないしと",
+    tags: [ "mondstadt", "liyue", "quest-archon" ],
+  },
+  {
+    en: "Dishonorable Trial",
+    ja: "誇りのない試練",
+    pronunciationJa: "ほこりのないしれん",
+    tags: [ "mondstadt", "liyue", "quest-archon" ],
+  },
+  {
+    en: "A Soul Set Apart",
+    ja: "隔たりのある魂",
+    pronunciationJa: "へだたりのあるたましい",
+    tags: [ "mondstadt", "liyue", "quest-archon" ],
+  },
+
+  // Inazuma
+  {
+    en: "The Immovable God and the Eternal Euthymia",
+    ja: "鳴神不動、恒常楽土",
+    pronunciationJa: "なるかみふどう、こうじょうらくど",
+    tags: [ "inazuma", "quest-archon" ],
+  },
+  {
+    en: "Stillness, the Sublimation of Shadow",
+    ja: "無念無想、泡影を滅す",
+    pronunciationJa: "むねんむそう、ほうえいをめっす",
+    tags: [ "inazuma", "quest-archon" ],
+  },
+  {
+    en: "Omnipresence Over Mortals",
+    ja: "千手百目の浮世",
+    pronunciationJa: "せんじゅひゃくもくのうきよ",
+    tags: [ "inazuma", "quest-archon" ],
+  },
+
+  // Interlude
+  {
+    en: "The Crane Returns on the Wind",
+    ja: "風立ちし鶴の帰郷",
+    pronunciationJa: "かぜたちしつるのききょう",
+    tags: [ "liyue", "quest-archon" ],
+  },
+
+  // Traveler
+  {
+    en: "Requiem of the Echoing Depths",
+    ja: "淵底に響くレクイエム",
+    tags: [ "liyue", "quest-archon" ],
+  },
+
+  // Interrude
+  {
+    en: "Perilous Trail",
+    ja: "険路怪跡",
+    pronunciationJa: "けんろかいせき",
+    tags: [ "liyue", "quest-archon" ],
+  },
+
+  //
+  // World Quests
+  //
+  {
+    en: "World Quest",
+    ja: "世界任務",
+    pronunciationJa: "せかいにんむ",
+    tags: [ "quest-world" ],
+  },
+
+  // Mondstadt
+  {
+    en: "Flighty Flora... and Flora",
+    ja: "ふわふわした花とフローラ",
+    pronunciationJa: "ふわふわしたはなとフローラ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Mondstadt and Its Archon",
+    ja: "風神とモンド",
+    pronunciationJa: "ふうじんとモンド",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Windrise, Windfall",
+    ja: "吹いては止まる風",
+    pronunciationJa: "ふいてはとまるかぜ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Question and Answer",
+    ja: "騎士団ガイドの応答",
+    pronunciationJa: "きしだんがいどのおうとう",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Equivalent Exchange",
+    ja: "等量交換",
+    pronunciationJa: "とうりょうこうかん",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Lingering Malady",
+    ja: "暴風の後の問題",
+    pronunciationJa: "ぼうふうのあとのもんだい",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Thief-Catcher",
+    ja: "盗賊を捕まえろ",
+    pronunciationJa: "とうぞくをつかまえろ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "After the Storm",
+    ja: "風の後のお宝",
+    pronunciationJa: "かぜのあとのおたから",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Cleanup At Dawn",
+    ja: "ワイナリーの大掃除",
+    pronunciationJa: "ワイナリーのおおそうじ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "In the Aftermath",
+    ja: "後片付け",
+    pronunciationJa: "あとかたづけ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Break the Sword Cemetery Seal",
+    ja: "剣塚封印を探索",
+    pronunciationJa: "けんづかふういんをたんさく",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Time and Wind",
+    ja: "時と風",
+    pronunciationJa: "ときとかぜ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Exploding Population",
+    ja: "魚群大発生",
+    pronunciationJa: "ぎょぐんだいはっせい",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+
+  // Dragonspine
+  {
+    en: "In the Mountains",
+    ja: "山に隠されし物",
+    pronunciationJa: "やまにかくされしもの",
+    tags: [ "dragonspine", "quest-world" ],
+  },
+  {
+    en: "The Festering Fang",
+    ja: "腐植の牙",
+    pronunciationJa: "ふしょくのきば",
+    tags: [ "dragonspine", "quest-world" ],
+  },
+  {
+    en: "The Great Mountain Survey",
+    ja: "雪山大踏査",
+    pronunciationJa: "ゆきやまだいとうさ",
+    tags: [ "dragonspine", "quest-world" ],
+  },
+  {
+    en: "The Great Mountain Survey Ⅱ",
+    ja: "雪山再踏査",
+    pronunciationJa: "ゆきやまさいとうさ",
+    tags: [ "dragonspine", "quest-world" ],
+  },
+  {
+    en: "Ah, Fresh Meat!",
+    ja: "あぁ、新鮮な肉",
+    pronunciationJa: "あぁ、しんせんなにく",
+    tags: [ "dragonspine", "quest-world" ],
+  },
+  {
+    en: "A Land Entombed",
+    ja: "雪に覆われた国",
+    pronunciationJa: "ゆきにおおわれたくに",
+    tags: [ "dragonspine", "quest-world" ],
+  },
+  {
+    en: "Lost in the Snow",
+    ja: "雪山迷走",
+    pronunciationJa: "ゆきやまめいそう",
+    tags: [ "dragonspine", "quest-world" ],
+  },
+
+  // Liyue
+  {
+    en: "...What Do Adventurers Do Again?",
+    ja: "冒険者…は何するの?",
+    pronunciationJa: "ぼうけんしゃ…はなにするの?",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Will of Stone",
+    ja: "重岩の意志",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "A Quiet Day in Liyue Harbor",
+    ja: "璃月港の穏やかな一日",
+    pronunciationJa: "りーゆぇこうのおだやかないちにち",
+    tags: [ "liyue", "quest-world" ],
+    variants: {
+      ja: [ "りーゆえこうのおだやかないちにち" ],
+    },
+  },
+  {
+    en: "Blackcliff Woes",
+    ja: "黒岩の悩み",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "The Ocean Pearl",
+    ja: "海上の花鈿",
+    pronunciationJa: "かいじょうのかでん",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "A Lone Ship In Guyun",
+    ja: "孤雲の艦船",
+    pronunciationJa: "こうんのかんせん",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Pressing Deadlines",
+    ja: "迫る仕事",
+    pronunciationJa: "せまるしごと",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "An Adeptal Summons",
+    ja: "仙人の頼み",
+    pronunciationJa: "せんにんのたのみ",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "The Adventurers' Guild's Affairs",
+    ja: "冒険者協会の数々な事情",
+    pronunciationJa: "ぼうけんしゃきょうかいのかずかずなじじょう",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Necessary Procedures",
+    ja: "必要な手続き",
+    pronunciationJa: "ひつようなてつづき",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Words Worth Their Weight in Mora",
+    ja: "万金に値する本",
+    pronunciationJa: "まんきんにあたいするほん",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Changchang's Little Friend",
+    ja: "チャンチャンと彼女の仲間",
+    pronunciationJa: "チャンチャンとかのじょのなかま",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "The Secret of Nantianmen",
+    ja: "南天門の謎",
+    pronunciationJa: "なんてんもんのなぞ",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "An Ode to Yonder City",
+    ja: "この街にこの詩を",
+    pronunciationJa: "このまちにこのうたを",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Endless Research",
+    ja: "止まることのない研究",
+    pronunciationJa: "とまることのないけんきゅう",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Overstretched",
+    ja: "一人の見張り",
+    pronunciationJa: "ひとりのみはり",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Treasure Lost, Treasure Found",
+    ja: "帰離のお宝",
+    pronunciationJa: "きりのおたから",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "The Tree who Stands Alone",
+    ja: "頼れない孤木",
+    pronunciationJa: "たよれないこぼく",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Old Tastes Die Hard",
+    ja: "懐かしい味",
+    pronunciationJa: "なつかしいあじ",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Book in the Woods",
+    ja: "一緒に遊ぼう",
+    pronunciationJa: "いっしょにあそぼう",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Share Not Your Treasures",
+    ja: "宝物は大事にすべし",
+    pronunciationJa: "たからものはだいじにすべし",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "The Chi of Yore",
+    ja: "「螭」の話",
+    pronunciationJa: "みずちのはなし",
+    tags: [ "liyue", "quest-world" ],
+    variants: {
+      ja: [ "螭の話" ],
+    },
+  },
+  {
+    en: "A Provisional Arrangement",
+    ja: "一時的な策",
+    pronunciationJa: "いちじてきなさく",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Big Business",
+    ja: "大商売",
+    pronunciationJa: "だいしょうばい",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "The Yaksha's Wish",
+    ja: "夜叉の願い",
+    pronunciationJa: "やしゃのねがい",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Nine Pillars of Peace",
+    ja: "靖世の九柱",
+    pronunciationJa: "せいせいのきゅうちゅう",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "And This Treasure Goes To...",
+    ja: "霊矩のお宝",
+    pronunciationJa: "れいくのおたから",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Trails in Tianqiu",
+    ja: "仙跡を辿って天穹に戻り",
+    pronunciationJa: "せんせきをたどっててんきゅうにもどり",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Tianqiu Treasure Trail",
+    ja: "天穹の宝の跡",
+    pronunciationJa: "てんきゅうのたからのあと",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "There's no restoring this past land of beauty",
+    ja: "盛んだ国は廃土に戻る",
+    pronunciationJa: "さかんだくにははいどにもどる",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "A Little Game",
+    ja: "ゲームしよう",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Luhua Landscape",
+    ja: "漉華の風景画",
+    pronunciationJa: "ろっかのふうけいが",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Fishing For Jade",
+    ja: "海上拾玉",
+    pronunciationJa: "かいじょうしゅうぎょく",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Return of the Jade Chamber?",
+    ja: "群玉閣を…再現?",
+    pronunciationJa: "ぐんぎょくかくを…さいげん?",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Snapshots",
+    ja: "写真を撮ろう",
+    pronunciationJa: "しゃしんをとろう",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Perfect Shot",
+    ja: "完璧な写真",
+    pronunciationJa: "かんぺきなしゃしん",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Hereafter: The Trail of Pervases",
+    ja: "死後の事・銅雀の跡",
+    pronunciationJa: "しごのこと・どうじゃくのあと",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Hereafter: All is Well",
+    ja: "死後の事・平安の諸事",
+    pronunciationJa: "しごのこと・へいあんのしょじ",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Hereafter: Return to the Mountains",
+    ja: "死後の事・山に還りて",
+    pronunciationJa: "しごのこと・やまにかえりて",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "On the Stage, Behind the Stage",
+    ja: "舞台上と舞台下",
+    pronunciationJa: "ぶたいうえとぶたいした",
+    tags: [ "liyue", "quest-world" ],
+  },
+  // The Chasm
+  {
+    en: "The Chasm Delvers",
+    ja: "層岩巨淵深遊記",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "The Chasm Charters",
+    ja: "層岩巨淵尋訪記",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Surreptitious Seven-Star Seal Sundering",
+    ja: "七星を欺き磐鍵を解く",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Chasm Spelunkers",
+    ja: "巨淵初探査",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "First Miasmic Contact",
+    ja: "深淵瘴気と初の対面",
+    tags: [ "liyue", "quest-world" ],
+  },
+  {
+    en: "Meeting New People... and Foiling Some Bandits",
+    ja: "盗賊討伐と新たな出会い",
+    tags: [ "liyue", "quest-world" ],
+  },
+
+  {
+    en: "The Chasm's Bounty",
+    ja: "巨淵の恩恵",
+    tags: [ "liyue", "quest-world" ],
+  },
+
+  // Inazuma
+  {
+    en: "Sacred Sakura Cleansing Ritual",
+    ja: "神櫻大祓",
+    pronunciationJa: "かみざくらおおはらい",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Yougou Cleansing",
+    ja: "影向祓",
+    pronunciationJa: "ようごうばらい",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Tatara Tales",
+    ja: "たたら物語",
+    pronunciationJa: "たたらものがたり",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Orobashi's Legacy",
+    ja: "オロバシの遺事",
+    pronunciationJa: "オロバシのいじ",
+    tags: [ "inazuma", "quest-world" ],
+    notes: "v2.1で Orobashi は Orobaxi に表記が変更されたが、都市評判画面で確認した限り、このクエスト名では Orobashi のまま変更されていない。",
+  },
+  {
+    en: "Treatment on the Island",
+    ja: "孤島診療譚",
+    pronunciationJa: "ことうしんりょうたん",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Gazing Three Thousand Miles Away",
+    ja: "三千里の期待",
+    pronunciationJa: "さんぜんりのきたい",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Fate of a Fighter",
+    ja: "武者の宿命",
+    pronunciationJa: "むしゃのしゅくめい",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Chisato's Letter",
+    ja: "千里の手紙",
+    pronunciationJa: "ちさとのてがみ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Katheryne in Inazuma",
+    ja: "キャサリン、稲妻にて",
+    pronunciationJa: "キャサリン、いなずまにて",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Ritou Road",
+    ja: "離島の道",
+    pronunciationJa: "りとうのみち",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Narukami Trail",
+    ja: "鳴神追跡",
+    pronunciationJa: "なるかみついせき",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Fertilizer... Salesperson?",
+    ja: "肥料…販売員?",
+    pronunciationJa: "ひりょう…はんばいいん?",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Art of Horticulture",
+    ja: "栽培の方法",
+    pronunciationJa: "さいばいのほうほう",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Sakura Arborism",
+    ja: "医櫻",
+    pronunciationJa: "いおう",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Farmer's Treasure",
+    ja: "農民の宝",
+    pronunciationJa: "のうみんのたから",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Gourmet Supremos, Assemble!",
+    ja: "全能グルメチーム!",
+    pronunciationJa: "ぜんのうグルメチーム!",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Gourmet Supremos: On the Road",
+    ja: "全能グルメチーム・グルメ巡りの旅",
+    pronunciationJa: "ぜんのうグルメチーム・グルメめぐりのたび",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Gourmet Supremos: The Importance of Eating Well",
+    ja: "全能グルメチーム・まんぷくの重要性",
+    pronunciationJa: "ぜんのうグルメチーム・まんぷくのじゅうようせい",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Dreams of Sword Art",
+    ja: "刀の夢",
+    pronunciationJa: "かたなのゆめ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "O Archon, Have I Done Right?",
+    ja: "神様よ、僕は正しかったの?",
+    pronunciationJa: "かみさまよ、ぼくはただしかったの?",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Battle of Revenge",
+    ja: "屈辱を晴らす一戦",
+    pronunciationJa: "くつじょくをはらすいっせん",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Hiromi's Watch",
+    ja: "広海の守護",
+    pronunciationJa: "ひろみのしゅご",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "\"The Seventh Samurai\"",
+    ja: "『七人目の武士』",
+    pronunciationJa: "しちにんめのぶし",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "In Another Land",
+    ja: "異郷にて",
+    pronunciationJa: "いきょうにて",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "International Travel Log",
+    ja: "諸国旅行記",
+    pronunciationJa: "しょこくりょこうき",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Home Lies Over the Ocean",
+    ja: "海の向こう側は故郷だ",
+    pronunciationJa: "うみのむこうがわはこきょうだ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Yae Publishing House's Invitation",
+    ja: "「八重堂」のお誘い",
+    pronunciationJa: "やえどうのおさそい",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Storytelling Method",
+    ja: "物語の構想法",
+    pronunciationJa: "ものがたりのこうそうほう",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Lofty Gourmet", // Might be a random quest?
+    ja: "孤高のグルメ",
+    pronunciationJa: "ここうのグルメ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  // Watatsumi Island
+  {
+    en: "\"Fang of Watatsumi\"",
+    ja: "「海祇の牙」",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "\"Tail of Watatsumi\"",
+    ja: "「海祇の尾」",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "\"Heart of Watatsumi\"",
+    ja: "「海祇の心」",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Divine Plant of the Depths",
+    ja: "海淵仙草霊験記",
+    pronunciationJa: "かいえんせんそうれいげんき",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Solitary Sea-Beast",
+    ja: "孤独な海獣",
+    pronunciationJa: "こどくなかいじゅう",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Clean House",
+    ja: "戸口の掃除",
+    pronunciationJa: "とぐちのそうじ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Moon-Bathed Deep",
+    ja: "月浴の淵",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  // Enkanomiya
+  {
+    en: "From Dusk to Dawn in Byakuyakoku",
+    ja: "白夜国晨昏記",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Entrance to Tokoyo",
+    ja: "常世の入り口",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Subterranean Trials of Drake and Serpent",
+    ja: "龍蛇洞宮試練記",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Trail of Drake and Serpent",
+    ja: "龍蛇追跡",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Collection of Dragons and Snakes",
+    ja: "龍蛇宝帰集録",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Heart of Ouroboros",
+    ja: "ウロボロスの心",
+    pronunciationJa: "ウロボロスのこころ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Dreams in the Gaps",
+    ja: "隙間の夢",
+    pronunciationJa: "すきまのゆめ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Erebos' Secret",
+    ja: "エレボスの秘密",
+    pronunciationJa: "エレボスのひみつ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Three Great Martial Trials",
+    ja: "三隅道大演武",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Yachimatahiko's Trial",
+    ja: "八衢彦の試練",
+    pronunciationJa: "やちまたひこのしれん",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Yachimatahime's Trial",
+    ja: "八衢姫の試練",
+    pronunciationJa: "やちまたひめのしれん",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Kunado's Trial",
+    ja: "岐の試練",
+    pronunciationJa: "くなどのしれん",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Hyperion's Dirge",
+    ja: "ハイペリオン哀歌",
+    pronunciationJa: "ハイペリオンあいか",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Temple Inquiry",
+    ja: "寺の前を訪ねる",
+    pronunciationJa: "てらのまえをたずねる",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Narrow Inquiry",
+    ja: "狭間を訪ねる",
+    pronunciationJa: "はざまをたずねる",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Serpent's Heart Inquiry",
+    ja: "蛇心を訪ねる",
+    pronunciationJa: "じゃしんをたずねる",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  // Seirai Island
+  {
+    en: "Seirai Stormchasers",
+    ja: "セイライ逐雷記",
+    pronunciationJa: "セイライちくらいき",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Neko Is a Cat",
+    ja: "寝子は猫である",
+    pronunciationJa: "ねこはねこである",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Relics of Seirai",
+    ja: "セイライの遺宝",
+    pronunciationJa: "セイライのいほう",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Reminiscence of Seirai",
+    ja: "セイライの旧事",
+    pronunciationJa: "セイライのきゅうじ",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  // Tsurumi Island
+  {
+    en: "Through the Mists",
+    ja: "霧海紀行",
+    pronunciationJa: "むかいきこう",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "A particularly Particular Author",
+    ja: "注文の多い作家",
+    pronunciationJa: "ちゅうもんのおおいさっか",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "Octave of the Maushiro",
+    ja: "マウシロの音を聴く",
+    pronunciationJa: "マウシロのおとをきく",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Sea of Fog and the Rite of the Trees",
+    ja: "霧海と樹とのまつり",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Sun-Wheel and Mt. Kanna",
+    ja: "日輪とカンナ山",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Saga of Mr. Forgetful",
+    ja: "忘れん坊大王の大冒険",
+    pronunciationJa: "わすれんぼうだいおうのだいぼうけん",
+    tags: [ "inazuma", "quest-world" ],
+  },
+
+  {
+    en: "Lotus Eater",
+    ja: "ロートパゴス族",
+    pronunciationJa: "ロートパゴスぞく",
+    tags: [ "inazuma", "quest-world" ],
+  },
+  {
+    en: "The Phaethons' Syrtos",
+    ja: "パエトーンたちはみな踊る",
+    pronunciationJa: "パエトーンたちはみなおどる",
+    tags: [ "inazuma", "quest-world" ],
+  },
+
+  // added on v2.4 ― TODO add location tag
+  {
+    en: "The Very Special Fortune Slip",
+    ja: "特別なおみくじ",
+    pronunciationJa: "とくべつなおみくじ",
+    tags: [ "quest-world" ],
+  },
+
+  //
+  // World Quests - Random Quests
+  //
+  {
+    en: "Pallad's Dilemma",
+    ja: "パラドの苦境",
+    pronunciationJa: "パラドのくきょう",
+    tags: [ "mondstadt", "quest-random" ],
+  },
+  {
+    en: "Explorer Jack's Dilemma",
+    ja: "冒険者ジャックの苦境",
+    pronunciationJa: "ぼうけんしゃジャックのくきょう",
+    tags: [ "mondstadt", "quest-random" ],
+  },
+  {
+    en: "Lynn's Troubles",
+    ja: "リンの悩み",
+    pronunciationJa: "リンのなやみ",
+    tags: [ "mondstadt", "quest-random" ],
+  },
+  {
+    en: "Lianne's Troubles",
+    ja: "リリアンの悩み",
+    pronunciationJa: "リリアンのなやみ",
+    tags: [ "mondstadt", "quest-random" ],
+  },
+  {
+    en: "Dr. Livingstone's Transport Request",
+    ja: "リヴィングストン博士の運搬依頼",
+    pronunciationJa: "リヴィングストンはかせのうんぱんいらい",
+    tags: [ "mondstadt", "quest-random" ],
+  },
+  {
+    en: "The Way of Survival",
+    ja: "生存の道",
+    pronunciationJa: "せいぞんのみち",
+    tags: [ "inazuma", "quest-random" ],
+  },
+  {
+    en: "Click!",
+    ja: "カシャッ!",
+    tags: [ "inazuma", "quest-random" ],
+  },
+
+  //
+  // Story Quests
+  //
+  {
+    en: "Story Quest",
+    ja: "伝説任務",
+    pronunciationJa: "でんせつにんむ",
+    tags: [ "quest-story" ],
+  },
+  {
+    en: "Lepus Chapter",
+    ja: "小兎の章",
+    pronunciationJa: "こうさぎのしょう",
+    notes: "アンバーの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Pavo Ocellus Chapter",
+    ja: "孔雀羽の章",
+    pronunciationJa: "くじゃくばねのしょう",
+    notes: "ガイアの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Tempus Fugit Chapter",
+    ja: "砂時計の章",
+    pronunciationJa: "すなどけいのしょう",
+    notes: "リサの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Lupus Minor Chapter",
+    ja: "狼の章",
+    pronunciationJa: "おおかみのしょう",
+    notes: "レザーの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Noctua Chapter",
+    ja: "夜梟の章",
+    notes: "ディルックの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Trifolium Chapter",
+    ja: "四つ葉の章",
+    pronunciationJa: "よつばのしょう",
+    notes: "クレーの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Leo Minor Chapter",
+    ja: "仔獅子の章",
+    pronunciationJa: "こじしのしょう",
+    notes: "ジンの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Carmen Dei Chapter",
+    ja: "歌仙の章",
+    pronunciationJa: "かせんのしょう",
+    notes: "ウェンティの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Astrolabos Chapter",
+    ja: "映天の章",
+    pronunciationJa: "えいてんのしょう",
+    notes: "モナの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Aphros Delos Chapter",
+    ja: "波沫の章",
+    pronunciationJa: "なみしぶきのしょう",
+    notes: "エウルアの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
+  },
+  {
+    en: "Princeps Cretaceus Chapter",
+    ja: "白亜の章",
+    pronunciationJa: "はくあのしょう",
+    notes: "アルベドの伝説任務。v1.2 期間限定イベント。",
+    tags: [ "event", "dragonspine", "quest-story" ],
+  },
+  {
+    en: "Trulla Chapter",
+    ja: "長杓の章",
+    pronunciationJa: "ながひしゃくのしょう",
+    notes: "香菱の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Fabulae Textile Chapter",
+    ja: "錦織の章",
+    pronunciationJa: "にしきおりのしょう",
+    notes: "行秋の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Monoceros Caeli Chapter",
+    ja: "空鯨の章",
+    pronunciationJa: "くうげいのしょう",
+    notes: "タルタリヤの伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Historia Antiqua Chapter",
+    ja: "古聞の章",
+    pronunciationJa: "こぶんのしょう",
+    notes: "鍾離の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Sinae Unicornis Chapter",
+    ja: "仙麟の章",
+    pronunciationJa: "せんりんのしょう",
+    notes: "甘雨の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Alatus Chapter",
+    ja: "金翼鵬王の章",
+    notes: "魈の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Papilio Charontis Chapter",
+    ja: "彼岸蝶の章",
+    notes: "胡桃の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Umbrabilis Orchis Chapter",
+    ja: "幽客の章",
+    notes: "夜蘭の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Carassius Auratus Chapter",
+    ja: "琉金の章",
+    notes: "宵宮の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+  {
+    en: "Taurus Iracundus Chapter",
+    ja: "天ノ牛の章",
+    notes: "荒瀧一斗の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+  {
+    en: "Grus Nivis Chapter",
+    ja: "雪鶴の章",
+    notes: "神里綾華の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+  {
+    en: "Imperatrix Umbrosa Chapter",
+    ja: "天下人の章",
+    notes: "雷電将軍の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+  {
+    en: "Dracaena Somnolenta Chapter",
+    ja: "唾竜の章",
+    notes: "珊瑚宮心海の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+  {
+    en: "Divina Vulpes Chapter",
+    ja: "仙狐の章",
+    notes: "八重神子の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+  {
+    en: "Cypressus Custos Chapter",
+    ja: "神守柏の章",
+    notes: "神里綾人の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+
+  //
+  // Commission Quests
+  //
+  {
+    en: "Daily Commission",
+    ja: "デイリー依頼",
+    pronunciationJa: "デイリーいらい",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Commission Quest",
+    ja: "依頼任務",
+    pronunciationJa: "いらいにんむ",
+    tags: [ "quest-daily" ],
+    variants: {
+      ja: [ "デイリー" ],
+    },
+  },
+  {
+    en: "Increasing Danger",
+    ja: "高いところ危険",
+    pronunciationJa: "たかいところきけん",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "A Small Step for Hilichurls",
+    ja: "ヒルチャールの一歩",
+    pronunciationJa: "ヒルチャールのいっぽ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Pudgy Pyrotechnicians",
+    ja: "まるい爆発物",
+    pronunciationJa: "まるいばくはつぶつ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Icy Issues",
+    ja: "冷たきトラブル",
+    pronunciationJa: "つめたきトラブル",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Big Pudgy Problem!",
+    ja: "まるい群れ騒動!",
+    pronunciationJa: "まるいむれそうどう",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Rules of Safe Transportation",
+    ja: "安全な輸送規則",
+    pronunciationJa: "あんぜんなゆそうきそく",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Dangerous Haul",
+    ja: "危険な輸送状況",
+    pronunciationJa: "きけんなゆそうじょうきょう",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Impregnable Defense",
+    ja: "金城湯池",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Ley Line Monolith",
+    ja: "地脈鎮石",
+    tags: [ "object" ],
+  },
+  {
+    en: "Straight to the Heart",
+    ja: "駆け抜けろ",
+    pronunciationJa: "かけぬけろ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Practice Makes Perfect",
+    ja: "習うより慣れよ",
+    pronunciationJa: "ならうよりなれよ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Capsizing Waves",
+    ja: "浪に覆われ",
+    pronunciationJa: "なみにおおわれ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Emergency",
+    ja: "緊急受命",
+    pronunciationJa: "きんきゅうじゅめい",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Spreading Evil",
+    ja: "拡張する邪悪",
+    pronunciationJa: "かくちょうするじゃあく",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Wandering Evil",
+    ja: "彷徨いし邪悪",
+    pronunciationJa: "さまよいしじゃあく",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "No Honor Among Thieves",
+    ja: "盗賊討伐",
+    pronunciationJa: "とうぞくとうばつ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Full Speed Ahead",
+    ja: "全速前進",
+    pronunciationJa: "ぜんそくぜんしん",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "\"For The Harbingers!\"",
+    ja: "「執行官様のために!」",
+    pronunciationJa: "しっこうかんさまのために!",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Why Hit Rocks?",
+    ja: "石を砕く",
+    pronunciationJa: "いしをくだく",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "A Crackling Crisis",
+    ja: "轟く大危機",
+    pronunciationJa: "とどろくだいきき",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "No Place for Banditry",
+    ja: "窮鼠を追い詰める",
+    pronunciationJa: "きゅうそをおいつめる",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Swift Slayer",
+    ja: "諸悪退散", // TODO 元々 "群魔を斬る" になっていた。確認。
+    pronunciationJa: "しょあくたいさん",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Felonious Floaters",
+    ja: "不正浮遊",
+    pronunciationJa: "ふせいふゆう",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Recuperating From a Severe Illness",
+    ja: "病み上がり",
+    pronunciationJa: "やみあがり",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
+    en: "Urgent Repairs",
+    ja: "緊急整備",
+    pronunciationJa: "きんきゅうせいび",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
+    en: "Business in a Marsh",
+    ja: "荻花洲の旅館",
+    pronunciationJa: "てきかしゅうのりょかん",
+    tags: [ "quest-daily", "liyue" ],
+  },
+  {
+    en: "Guest from Afar",
+    ja: "遠くから来た客",
+    pronunciationJa: "とおくからきたきゃく",
+    tags: [ "quest-daily", "liyue" ],
+  },
+  {
+    en: "Calling Down the Thunder",
+    ja: "落雷の方法",
+    pronunciationJa: "らくらいのほうほう",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "A Gentleman Strikes in Broad Daylight",
+    ja: "白日に来たる君子",
+    pronunciationJa: "はくじつにきたるくんし",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Bad Doggies",
+    ja: "猛犬の管理規範",
+    pronunciationJa: "もうけんのかんりきはん",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "The Thundering Wilds",
+    ja: "雷霧対策",
+    pronunciationJa: "らいむたいさく",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Voltage Charge",
+    ja: "電圧の負荷",
+    pronunciationJa: "でんあつのふか",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Lightning Bottler",
+    ja: "霹靂収集家",
+    pronunciationJa: "へきれきしゅうしゅうか",
+    notes: "日本語版クエスト名は一時期「雷コレクター」となっていた",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Plug-and-Play Plan",
+    ja: "充電戦闘計画",
+    pronunciationJa: "じゅうでんせんとうけいかく",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Operation Thunderous Ignition",
+    ja: "雷霆起爆計画",
+    pronunciationJa: "らいていきばくけいかく",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Perilous Watersport",
+    ja: "危険な水遊び",
+    pronunciationJa: "きけんなみずあそび",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "The Gourmet Supremos: Where'd the Ingredients Go?",
+    ja: "全能グルメチーム・食材はどこ?",
+    pronunciationJa: "ぜんのうグルメチーム・しょくざいはどこ?",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "The Gourmet Supremos: Foodie Quiz",
+    ja: "全能グルメチーム・グルメクイズ",
+    pronunciationJa: "ぜんのうグルメチーム・グルメクイズ",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "The Gourmet Supremos: Cook-Off",
+    ja: "全能グルメチーム・料理対決",
+    pronunciationJa: "ぜんのうグルメチーム・りょうりたいけつ",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "The Gourmet Supremos: Extreme Cookery",
+    ja: "全能グルメチーム・料理の極意",
+    pronunciationJa: "ぜんのうグルメチーム・りょうりのごくい",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "O Archon, Hear Me!",
+    ja: "神様よ、答えてくれますように!",
+    pronunciationJa: "かみさまよ、こたえてくれますように",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Playing With Fire... Works",
+    ja: "花火試し打ち計画",
+    pronunciationJa: "はなびためしうちけいかく",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Bantan Sango Case File: The Search",
+    ja: "万端珊瑚事件簿・捜索",
+    pronunciationJa: "ばんたんさんごじけんぼ・そうさく",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Bantan Sango Case File: The Right Identity",
+    ja: "万端珊瑚事件簿・適した身分",
+    pronunciationJa: "ばんたんさんごじけんぼ・てきしたみぶん",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Bantan Sango Case File: Misdirection",
+    ja: "万端珊瑚事件簿・迷惑行動",
+    pronunciationJa: "ばんたんさんごじけんぼ・めいわくこうどう",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "The Cat's Trail",
+    ja: "猫の跡",
+    pronunciationJa: "ねこのあと",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Shrine Cleanup",
+    ja: "神社の大掃除",
+    pronunciationJa: "じんじゃのおおそうじ",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "To Make a Cat Carving",
+    ja: "猫を彫る方法",
+    pronunciationJa: "ねこをほるほうほう",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "To Make Cat Ornaments",
+    ja: "猫の装飾品",
+    pronunciationJa: "ねこのそうしょくひん",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "A Fishy Flavor",
+    ja: "魚の味",
+    pronunciationJa: "さかなのあじ",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Inazuma Sales Specialist",
+    ja: "稲妻の販売員",
+    pronunciationJa: "いなずまのはんばいいん",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Post-Sale Service",
+    ja: "アフターサービス",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "The Taste of Home",
+    ja: "故郷の味",
+    pronunciationJa: "こきょうのあじ",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Prayer in Progress...",
+    ja: "祈りを捧げる…",
+    pronunciationJa: "いのりをささげる…",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Crash Course on Inazuma Fashion",
+    ja: "稲妻ファッション入門",
+    pronunciationJa: "いなずまファッションにゅうもん",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Is This Novel Amazing?",
+    ja: "この小説…すごいのか?",
+    pronunciationJa: "このしょうせつ…すごいのか?",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "This Novel... Seems Familiar?",
+    ja: "この小説…読んだことあるかも?",
+    pronunciationJa: "このしょうせつ…よんだことあるかも?",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Archery Demonstration",
+    ja: "弓術の手本",
+    pronunciationJa: "きゅうじゅつのてほん",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  // added on v2.4 ― TODO add location tag if required
+  {
+    en: "Uninvited Guests",
+    ja: "招かれざる客",
+    pronunciationJa: "まねかれざるきゃく",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Adventurer Exam: Battle Tactics",
+    ja: "冒険者テスト・作戦の立て方",
+    pronunciationJa: "ぼうけんしゃテスト・さくせんのたてかた",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Adventurer Exam: The Art of Adventure",
+    ja: "冒険者テスト・冒険のコツ",
+    pronunciationJa: "ぼうけんしゃテスト・ぼうけんのコツ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Adventurer Exam: Taking Flight",
+    ja: "冒険者テスト・飛び立つ方法",
+    pronunciationJa: "ぼうけんしゃテスト・とびたつほうほう",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Anna the Adventurer!",
+    ja: "冒険者、アナ!",
+    pronunciationJa: "ぼうけんしゃ、アナ!",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Ahoy! A Pirate's Growth for Ye!",
+    ja: "ああ! 海賊は大人になりたい!",
+    pronunciationJa: "ああかいぞくはおとなになりたい",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Troubles Traveling Through Tributaries",
+    ja: "水と共に流れてきた悩み",
+    pronunciationJa: "みずとともにながれてきたなやみ",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "The Little Pirate Goes Out to Sea",
+    ja: "小さい海賊、海に出る!",
+    pronunciationJa: "ちいさいかいぞく、うみにでる",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "The Littlest Journey: Medicine On-Hand",
+    ja: "小さな遠出・常備薬",
+    pronunciationJa: "ちいさなとおで・じょうびやく",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "The Littlest Journey: Non-Emergency Food",
+    ja: "小さな遠出・非常食ではない",
+    pronunciationJa: "ちいさなとおで・ひじょうしょくではない",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "The Littlest Journey: Means of Self-Defense?",
+    ja: "小さな遠出・身を守る方法?",
+    pronunciationJa: "ちいさなとおで・みをまもるほうほう?",
+    tags: [ "quest-daily" ],
+  },
+  {
+    en: "Owe Mora, Pay Mora",
+    ja: "払うべきものはすべて払う",
+    pronunciationJa: "はらうべきものはすべてはらう",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
+    en: "Return to Days of Winter",
+    ja: "冬への回帰",
+    pronunciationJa: "ふゆへのかいき",
+    tags: [ "quest-daily" ],
+  },
+
+  //
+  // Others
+  //
+  {
+    en: "Expedition",
+    ja: "探索派遣",
+    pronunciationJa: "たんさくはけん",
+  },
+  {
+    en: "Reputation Quest",
+    ja: "評判任務",
+    pronunciationJa: "ひょうばんにんむ",
+  },
+  {
+    en: "Bounties",
+    ja: "討伐懸賞",
+    pronunciationJa: "とうばつけんしょう",
+    notes: "評判任務の1つ",
+  },
+  {
+    en: "Requests",
+    ja: "住民リクエスト",
+    pronunciationJa: "じゅうみんリクエスト",
+    notes: "評判任務の1つ",
+  },
+  {
+    en: "Hangout Event",
+    ja: "デートイベント",
+    variants: {
+      en: [ "Hangout" ],
+    },
+  },
+]

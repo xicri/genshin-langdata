@@ -1,0 +1,1685 @@
+[
+  //
+  // General - Main Characters
+  //
+  {
+    en: "Aether",
+    ja: "空",
+    pronunciationJa: "そら",
+    notes: "男性主人公名。発音は「イーサー」。俗称として MC (Main Character の略?) と呼ばれることもある。",
+    tags: [ "character-main" ],
+  },
+  {
+    en: "Lumine",
+    ja: "蛍",
+    pronunciationJa: "ほたる",
+    notes: "女性主人公名。発音は「ルミーン」と思われるが諸説あり。俗称として MC (Main Character の略?) と呼ばれることもある。",
+    tags: [ "character-main" ],
+  },
+  // TODO need check
+  {
+    en: "Traveler",
+    ja: "旅人",
+    pronunciationJa: "たびびと",
+    notes: "俗称として MC (Main Character の略?) と呼ばれることもある",
+    tags: [ "title", "how-to-call" ],
+  },
+  {
+    en: "Honorary Knight",
+    ja: "栄誉騎士",
+    pronunciationJa: "えいよきし",
+    tags: [ "mondstadt", "title", "how-to-call" ],
+  },
+
+  //
+  // General - Sub-Characters
+  //
+  {
+    en: "Paimon",
+    ja: "パイモン",
+    tags: [ "character-sub" ],
+  },
+  {
+    en: "Flying Lavender Melon",
+    ja: "空飛ぶチビ助",
+    pronunciationJa: "そらとぶちびすけ",
+    tags: [ "title" ],
+    notes: "荒瀧一斗がパイモンに付けたあだ名。Lavender Melon はスミレウリのこと。直訳すると「空飛ぶスミレウリ」",
+  },
+  {
+    en: "Sustainer of Heavenly Principles",
+    ja: "天理の調停者",
+    pronunciationJa: "てんりのちょうていしゃ",
+    tags: [ "character-sub" ],
+  },
+  {
+    en: "Katheryne",
+    ja: "キャサリン",
+    tags: [ "character-sub" ],
+  },
+  {
+    en: "Endora",
+    ja: "エンドラー",
+    tags: [ "character-sub", "item" ],
+  },
+  {
+    en: "Dandy",
+    ja: "ダンディ",
+    tags: [ "character-sub" ],
+  },
+
+  //
+  // Mondstadt - Main Characters
+  //
+  {
+    en: "Jean Gunnhildr",
+    ja: "ジン・グンヒルド",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Acting Grand Master",
+    ja: "代理団長",
+    pronunciationJa: "だいりだんちょう",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
+    en: "Amber",
+    ja: "アンバー",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Outrider",
+    ja: "偵察騎士",
+    pronunciationJa: "ていさつきし",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
+    en: "Baron Bunny",
+    ja: "ウサギ伯爵",
+    pronunciationJa: "ウサギはくしゃく",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "Kaeya Alberich",
+    ja: "ガイア・アルベリヒ",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Lisa Minci",
+    ja: "リサ・ミンツ",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "little cutie",
+    ja: "可愛い子ちゃん",
+    pronunciationJa: "かわいこちゃん",
+    tags: [ "mondstadt", "how-to-call" ],
+    notes: "リサの旅人に対する呼び方",
+  },
+  {
+    en: "Venti",
+    ja: "ウェンティ",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Tone-Deaf Bard",
+    ja: "吟遊野郎",
+    pronunciationJa: "ぎんゆうやろう",
+    tags: [ "mondstadt", "how-to-call" ],
+    notes: "tone-deaf は「音痴の」の意",
+  },
+  {
+    en: "Razor",
+    ja: "レザー",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Bennett",
+    ja: "ベネット",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Noelle",
+    ja: "ノエル",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Fischl von Luftschloss Narfidort",
+    ja: "フィッシュル・ヴォン・ルフシュロス・ナフィードット",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Prinzessin der Verurteilung",
+    ja: "断罪の皇女",
+    notes: "英語ではなくドイツ語",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
+    en: "Amy",
+    ja: "エミ",
+    notes: "フィッシュルの本名",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
+    en: "Diluc Ragnvindr",
+    ja: "ディルック・ラグヴィンド",
+    tags: [ "mondstadt", "character-main" ],
+    variants: {
+      ja: [ "ディルック・ラグウィンド" ],
+    },
+  },
+  {
+    en: "Klee",
+    ja: "クレー",
+    notes: "読み方は「クリー」",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Miss Honorary Knight",
+    ja: "栄誉騎士のお姉ちゃん",
+    notes: "クレーの蛍に対する呼び方",
+    tags: [ "mondstadt", "how-to-call" ],
+  },
+  // TODO need check
+  {
+    en: "Jumpy Dumpty",
+    ja: "ボンボン爆弾",
+    pronunciationJa: "ボンボンばくだん",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "Dodoco",
+    ja: "ドドコ",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "confinement room",
+    ja: "反省室",
+    pronunciationJa: "はんせいしつ",
+    tags: [ "mondstadt" ],
+    notes: "「反省室に閉じ込められる」は \"be grounded\"。",
+    examples: [{
+      en: "Yeesh, if Jean was listening to this... Klee might find herself grounded for an awful lot longer.",
+      ja: "はあ、ジンがこの話を聞いたら…きっと、クレーの反省室で過ごす時間が長くなるだろうな…",
+      ref: "パイモン, 四つ葉の章 第一幕",
+    }],
+  },
+  {
+    en: "Diona",
+    ja: "ディオナ",
+    notes: "読みは「ダイオナ」",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Barbara Pegg",
+    ja: "バーバラ・ペッチ / バーバラ・ペイジ",
+    tags: [ "mondstadt", "character-main" ],
+    notes: "姓については表記揺れあり。英語版の発音は「バーバラ・ペッグ」",
+  },
+  {
+    en: "Sucrose",
+    ja: "スクロース",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Albedo",
+    ja: "アルベド",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Kreideprinz",
+    ja: "白亜の申し子",
+    pronunciationJa: "はくあのもうしご",
+    tags: [ "mondstadt", "title" ],
+    notes: "アルベドの称号",
+  },
+  {
+    en: "Chief Alchemist",
+    ja: "首席錬金術師",
+    pronunciationJa: "しゅせきれんきんじゅつし",
+    tags: [ "mondstadt", "title" ],
+    notes: "アルベドの西風騎士団における職名",
+  },
+  {
+    en: "Captain of the Investigation Team",
+    ja: "調査小隊隊長",
+    pronunciationJa: "ちょうさしょうたいたいちょう",
+    tags: [ "mondstadt", "title" ],
+    notes: "アルベドの西風騎士団における職名",
+  },
+  {
+    en: "Calx",
+    ja: "白亜",
+    pronunciationJa: "はくあ",
+    tags: [ "mondstadt", "title" ],
+    notes: "アルベドのペンネーム",
+  },
+  {
+    en: "Astrologist Mona Megistus",
+    ja: "アストローギスト・モナ・メギストス",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Rosaria",
+    ja: "ロサリア",
+    notes: "英語では「ロザリア」と発音される。カタカナで表すと崩壊 3rd のロザリア・アリーンと全く同名に見えるが、こちらは Rozaliya と綴る。",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Eula Lawrence",
+    ja: "エウルア・ローレンス",
+    notes: "英語での発音は「ユーラ」",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "Spindrift Knight",
+    ja: "波花騎士",
+    pronunciationJa: "なみばなきし",
+    tags: [ "mondstadt", "title" ],
+    notes: "エウルアの称号",
+  },
+  {
+    en: "Captain of the Reconnaissance Company",
+    ja: "遊撃小隊隊長",
+    pronunciationJa: "ゆうげきしょうたいたいちょう",
+    tags: [ "mondstadt", "title" ],
+    notes: "エウルアの西風騎士団における職名",
+  },
+  {
+    en: "aristocrat",
+    ja: "旧貴族",
+    pronunciationJa: "きゅうきぞく",
+    notes: "聖遺物ではなく、ローレンス家等を指す方の「旧貴族」。aristocrat は単に「貴族」の意で、「旧」の意味は省略されている。",
+    tags: [ "mondstadt" ],
+    _meta: {
+      translator: {
+        enToJa: true,
+        jaToEn: false, // 聖遺物の「旧貴族」と判別が困難なため
+      },
+    },
+  },
+  {
+    en: "Barbatos",
+    ja: "バルバトス",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
+    en: "Anemo Archon",
+    ja: "風神",
+    tags: [ "mondstadt", "title" ],
+    pronunciationJa: "ふうじん",
+    notes: "Anemo God、God of Anemo などのように表記される場合もある。",
+    variants: {
+      en: [ "Anemo God", "God of Anemo" ],
+    },
+  },
+
+  //
+  // Mondstadt - Sub-Characters
+  //
+  {
+    en: "Dvalin",
+    ja: "トワリン",
+    tags: [ "mondstadt", "enemy-boss", "character-sub" ],
+  },
+  {
+    en: "Stormterror",
+    ja: "風魔龍",
+    pronunciationJa: "ふうまりゅう",
+    tags: [ "mondstadt", "enemy-boss", "title" ],
+  },
+  {
+    en: "Caelestinum Finale Termini",
+    ja: "終天のフィナーレ",
+    pronunciationJa: "しゅうてんのフィナーレ",
+    notes: "トワリンの技、又はトワリン戦の曲名 (※曲名は日本語では「終焉のフィナーレ」となっている)",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "the Four Winds",
+    ja: "四風守護",
+    pronunciationJa: "しふうしゅご",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
+    en: "Durin",
+    ja: "ドゥリン",
+    tags: [ "mondstadt", "dragonspine", "character-sub" ],
+  },
+  {
+    en: "Andrius",
+    ja: "アンドリアス",
+    tags: [ "mondstadt", "enemy-boss", "character-sub" ],
+    notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
+    variants: {
+      ja: [ "アンドレアス" ],
+    },
+  },
+  {
+    en: "Boreas",
+    ja: "ボレアス",
+    tags: [ "mondstadt", "enemy-boss", "character-sub" ],
+    notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
+  },
+  {
+    en: "Dominator of Wolves",
+    ja: "奔狼の領主",
+    pronunciationJa: "ほうろうのりょうしゅ",
+    tags: [ "mondstadt", "enemy-boss", "title" ],
+  },
+  {
+    en: "Alice",
+    ja: "アリス",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Timaeus",
+    ja: "ティマイオス",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Hertha",
+    ja: "ヘルター",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Ellin",
+    ja: "エリン",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Timmie",
+    ja: "ティミー",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Ella Musk",
+    ja: "エラ・マスク",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Dr. Livingstone",
+    ja: "リヴィングストン博士",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Dr. Edith",
+    ja: "イーディス博士",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Reckless Pallad",
+    ja: "うっかりパラド",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Troubled Lianne",
+    ja: "悩むリリアン",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Seamus Pegg",
+    ja: "サイモン・ペッチ / サイモン・ペイジ",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "姓については表記揺れあり。英語版の発音は「シーマス・ペッグ」",
+  },
+  {
+    en: "Varka",
+    ja: "ファルカ",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Vennessa",
+    ja: "ヴァネッサ",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Wagner",
+    ja: "ワーグナー",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Schulz",
+    ja: "シュッツ",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Goth",
+    ja: "ゲーテ",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Jilliana",
+    ja: "ジリアンナ",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Victoria",
+    ja: "ヴィクトリア",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Viktor",
+    ja: "ヴィクトル",
+    tags: [ "mondstadt", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Glory",
+    ja: "グローリー",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Nantuck",
+    ja: "ナンタック",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+
+  //
+  // Liyue - Main Characters
+  //
+  {
+    en: "Xiangling",
+    ja: "香菱",
+    pronunciationJa: "シャンリン",
+    notes: "[発音についての参考動画](https://youtu.be/p10yiwULJA8?t=303)",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Keqing",
+    ja: "刻晴",
+    pronunciationJa: "こくせい",
+    notes: "読みは「クゥー(ァ)チン」([参考動画](https://youtu.be/p10yiwULJA8?t=288))",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Yuheng",
+    ja: "玉衡",
+    pronunciationJa: "ユーヘン",
+    notes: "刻晴の称号",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Ningguang",
+    ja: "凝光",
+    pronunciationJa: "ぎょうこう",
+    notes: "発音は「ニィングアン」([参考動画](https://youtu.be/p10yiwULJA8?t=256))",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Tianquan",
+    ja: "天権",
+    pronunciationJa: "テンチュエン",
+    notes: "凝光の称号",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Qiqi",
+    ja: "七七",
+    pronunciationJa: "なな",
+    notes: "読みは「チィーチィー」([参考動画](https://youtu.be/p10yiwULJA8?t=283))",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Xingqiu",
+    ja: "行秋",
+    pronunciationJa: "ゆくあき",
+    notes: "読みは「シンチォウ」([参考動画](https://youtu.be/p10yiwULJA8?t=224))",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Zhenyu",
+    ja: "枕玉",
+    pronunciationJa: "ちんぎょく",
+    notes: "行秋のペンネーム",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Chongyun",
+    ja: "重雲",
+    pronunciationJa: "ちょううん",
+    notes: "読みは「チョンュイン」([参考動画](https://youtu.be/p10yiwULJA8?t=237))",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Beidou",
+    ja: "北斗",
+    pronunciationJa: "ほくと",
+    notes: "発音は「ベイドウ」([参考動画](https://youtu.be/p10yiwULJA8?t=248))",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Xinyan",
+    ja: "辛炎",
+    pronunciationJa: "しんえん",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Zhongli",
+    ja: "鍾離",
+    pronunciationJa: "しょうり",
+    notes: "読みは「ヂョンリー」([参考動画](https://youtu.be/p10yiwULJA8?t=118))",
+    tags: [ "liyue", "character-main" ],
+    variants: {
+      ja: [ "鐘離" ],
+    },
+  },
+  {
+    en: "consultant",
+    ja: "客卿",
+    pronunciationJa: "かっけい",
+    tags: [ "liyue", "title" ],
+    notes: "鍾離の往生堂における地位。guest と訳されている箇所もある。", // Source: v2.4「流るる星霜、華咲きて」特設ページ https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
+  },
+  {
+    en: "Mr. Zhongli",
+    ja: "鍾離先生",
+    pronunciationJa: "しょうりせんせい",
+    tags: [ "liyue", "how-to-call" ],
+    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。また、英語版で Mr. Zhongli と呼んでいても、日本語では「鍾離さん」となっている時もある: 鍾離のエピソード動画「想定外の支出」における香菱の発言 ([日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80)) など。",
+  },
+  {
+    en: "Xiao",
+    ja: "魈",
+    pronunciationJa: "しょう",
+    notes: "発音は「シァオ」([参考動画](https://youtu.be/p10yiwULJA8?t=310))",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Conqueror of Demons",
+    ja: "降魔大聖",
+    pronunciationJa: "こうまたいせい",
+    notes: "魈の称号",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Guardian Yaksha",
+    ja: "護法夜叉",
+    pronunciationJa: "ごほうやしゃ",
+    // Source of Vigilant Yaksha: v2.4「流るる星霜、華咲きて」特設ページ https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
+    notes: "魈の称号。「護法夜叉大将」(Vigilant Yaksha) と記される場合もある。",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Alatus",
+    ja: "金鵬",
+    pronunciationJa: "きんほう",
+    notes: "魈の称号",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Ganyu",
+    ja: "甘雨",
+    pronunciationJa: "かんう",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "qilin",
+    ja: "麒麟",
+    pronunciationJa: "きりん",
+    tags: [ "liyue" ],
+    examples: [{
+      en: "The blood of the qilin, an illuminated beast, flows within her veins.",
+      ja: "その身には仙獣「麒麟」の血が流れている。",
+      ref: "v2.4「流るる星霜、華咲きて」特設ページ ― 甘雨の紹介文",
+      refURL: "https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/",
+    }],
+  },
+  {
+    id: "hutao",
+    en: "Hu Tao",
+    ja: "胡桃",
+    pronunciationJa: "フータオ",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Yanfei",
+    ja: "煙緋",
+    pronunciationJa: "えんひ",
+    tags: [ "liyue", "character-main" ],
+  },
+  // ▼▼ TODO Become a main character in the upcoming version? ▼▼
+  {
+    en: "Baizhu",
+    ja: "白朮",
+    pronunciationJa: "びゃくじゅつ",
+    tags: [ "liyue", "character-sub" ],
+    notes: "英語の発音は「バイジュ」",
+  },
+  {
+    en: "Dr. Baizhu",
+    ja: "白先生",
+    tags: [ "liyue", "how-to-call" ],
+    notes: "七七などからの白朮の呼び名",
+  },
+  {
+    en: "Yaoyao",
+    ja: "ヨォーヨ",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Xingyan",
+    ja: "星燕",
+    tags: [ "liyue", "character-sub" ],
+  },
+  // ▲▲ TODO Become a main character in the upcoming version? ▲▲
+  {
+    en: "Yun Jin",
+    ja: "雲菫",
+    pronunciationJa: "うんきん",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Ms. Yun",
+    ja: "雲先生 / 雲座頭",
+    pronunciationJa: "うんせんせい / うんざとう",
+    tags: [ "liyue", "how-to-call" ],
+    notes: "雲菫への敬称",
+  },
+  {
+    en: "Shenhe",
+    ja: "申鶴",
+    pronunciationJa: "しんかく",
+    tags: [ "liyue", "character-main" ],
+    notes: "発音は「シェンハ」",
+  },
+  {
+    en: "Yelan",
+    ja: "夜蘭",
+    pronunciationJa: "イェラン",
+    tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Morax",
+    ja: "モラクス",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Rex Lapis",
+    ja: "岩王帝君",
+    pronunciationJa: "がんおうていくん",
+    tags: [ "liyue", "title", "how-to-call" ],
+  },
+  {
+    en: "Geo Archon",
+    ja: "岩神",
+    tags: [ "liyue", "title" ],
+    pronunciationJa: "がんしん",
+    variants: {
+      en: [ "Geo God", "God of Geo" ],
+    },
+  },
+
+  //
+  // Liyue - Sub-Characters
+  //
+  {
+    en: "Madame Ping",
+    ja: "ピンばあや",
+    tags: [ "liyue", "character-sub", "sereniteapot" ],
+  },
+  {
+    en: "Uncle Tian",
+    ja: "天おじ",
+    pronunciationJa: "てんおじ",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Tianshu",
+    ja: "天枢",
+    pronunciationJa: "てんすう",
+    tags: [ "liyue", "title" ],
+    notes: "天おじの称号",
+  },
+  {
+    en: "Moon Carver",
+    ja: "削月築陽真君",
+    pronunciationJa: "さくげつちくようしんくん",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Mountain Shaper",
+    ja: "理水畳山真君",
+    pronunciationJa: "りすいじょうざんしんくん",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Cloud Retainer",
+    ja: "留雲借風真君",
+    pronunciationJa: "りゅううんしゃくふうしんくん",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Azhdaha",
+    ja: "若陀龍王",
+    pronunciationJa: "じゃくだりゅうおう",
+    notes: "読みは「エイジダハ」",
+    tags: [ "liyue", "character-sub", "enemy-boss" ],
+    variants: {
+      ja: [ "若陀竜王", "若蛇龍王", "若蛇竜王", "若陀" ],
+    },
+  },
+  {
+    en: "Guoba",
+    ja: "グゥオパァー",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Marchosius",
+    ja: "マルコシアス",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "God of the Stove",
+    ja: "竈神",
+    pronunciationJa: "かまどがみ",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Bosacius",
+    ja: "浮舎",
+    pronunciationJa: "ふしゃ",
+    tags: [ "liyue", "character-sub" ],
+    notes: "仙衆夜叉の1人",
+  },
+  {
+    en: "Marshal Vritras",
+    ja: "騰蛇太元帥",
+    pronunciationJa: "とうだたいげんすい",
+    tags: [ "liyue", "title" ],
+    notes: "仙衆夜叉・浮舎の称号",
+  },
+  {
+    en: "Menogias",
+    ja: "弥怒",
+    pronunciationJa: "みぬ",
+    tags: [ "liyue", "character-sub" ],
+    notes: "仙衆夜叉の1人",
+  },
+  {
+    en: "General Kapisas",
+    ja: "心猿大将",
+    pronunciationJa: "しんえんたいしょう",
+    tags: [ "liyue", "title" ],
+    notes: "仙衆夜叉・弥怒の称号",
+  },
+  {
+    en: "Bonanus",
+    ja: "伐難",
+    pronunciationJa: "ばつなん",
+    tags: [ "liyue", "character-sub" ],
+    notes: "仙衆夜叉の1人",
+  },
+  {
+    en: "General Chizapus",
+    ja: "螺巻大将",
+    pronunciationJa: "らかんたいしょう",
+    tags: [ "liyue", "title" ],
+    notes: "仙衆夜叉・伐難の称号",
+  },
+  {
+    en: "Indarias",
+    ja: "応達",
+    pronunciationJa: "おうたつ",
+    tags: [ "liyue", "character-sub" ],
+    notes: "仙衆夜叉の1人",
+  },
+  {
+    en: "General Musatas",
+    ja: "火鼠大将",
+    pronunciationJa: "かそたいしょう",
+    tags: [ "liyue", "title" ],
+    notes: "仙衆夜叉・応達の称号",
+  },
+  {
+    en: "Pervases",
+    ja: "銅雀",
+    pronunciationJa: "どうじゃく",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Wang Ping'an",
+    ja: "平安",
+    pronunciationJa: "へいあん",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Starsnatcher",
+    ja: "掇星攫辰天君",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Chef Mao",
+    ja: "卯師匠",
+    pronunciationJa: "うーししょう",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Bao'er",
+    ja: "宝児",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Guizhong",
+    ja: "帰終",
+    pronunciationJa: "きしゅう",
+    tags: [ "liyue", "character-sub" ],
+    notes: "発音は「グウェィヂョン」([参考動画](https://youtu.be/p10yiwULJA8?t=179))",
+  },
+  {
+    en: "Havria",
+    ja: "ヘウリア",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "God of Salt",
+    ja: "塩の魔神",
+    pronunciationJa: "しおのまじん",
+    tags: [ "liyue", "title" ],
+  },
+  {
+    en: "Verr Goldet",
+    ja: "ヴェル・ゴレット",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Huai'an",
+    ja: "淮安",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Smiley Yanxiao",
+    ja: "言笑",
+    tags: [ "liyue", "character-sub" ],
+    variants: {
+      en: [ "Yanxiao" ],
+    },
+  },
+  {
+    en: "Jiangxue",
+    ja: "江雪",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Ms. Yu",
+    ja: "シャオユウ",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Hanfeng, \"Cold Blade\"",
+    ja: "寒鋒",
+    tags: [ "liyue", "character-sub" ],
+    variants: {
+      en: [ "Hanfeng" ],
+    },
+  },
+  {
+    en: "Master Zhang",
+    ja: "章",
+    tags: [ "liyue", "character-sub" ],
+    variants: {
+      en: [ "Zhang" ],
+    },
+  },
+  {
+    en: "Jifang",
+    ja: "紀芳",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Tea Master Liu Su",
+    ja: "茶博士劉蘇",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Fan Er'ye",
+    ja: "範二",
+    tags: [ "liyue", "character-sub" ],
+  },
+  // The Chasm
+  {
+    en: "Jinwu",
+    ja: "瑾武",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Yuehui",
+    ja: "玥輝",
+    pronunciationJa: "げつき",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Muning",
+    ja: "沐寧",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Zhiqiong",
+    ja: "志璇",
+    pronunciationJa: "しせん",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Taliesin",
+    ja: "タリエシン",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Khedive",
+    ja: "ヘディーヴ",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Clitopho",
+    ja: "クレイトポン",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Uncle He",
+    ja: "何爺",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Brass Bull Zhao",
+    ja: "趙鉄牛",
+    tags: [ "liyue", "character-sub", "enemy" ],
+  },
+  {
+    en: "Chen the Flower",
+    ja: "陳嬌花",
+    tags: [ "liyue", "character-sub", "enemy" ],
+  },
+  {
+    en: "Anton Melnikov",
+    ja: "アントン・メルニコフ",
+    tags: [ "liyue", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Antoha",
+    ja: "アントハー",
+    tags: [ "liyue", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Ninth Company Brevet Commander",
+    ja: "「第九中隊」臨時隊長",
+    tags: [ "liyue", "snezhnaya", "title" ],
+  },
+  {
+    en: "Temur",
+    ja: "ティモール",
+    tags: [ "liyue", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Danila",
+    ja: "ダニーラ",
+    tags: [ "liyue", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Radomir",
+    ja: "ラドミール",
+    tags: [ "liyue", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Yanbo",
+    ja: "彦博",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Katarina",
+    ja: "カタリナ",
+    tags: [ "liyue", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Xamaran",
+    ja: "ザマラン",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Qi Ding",
+    ja: "戚定",
+    tags: [ "liyue", "character-sub" ],
+    notes: "世界任務「巨淵の恩恵」で登場する、人形を探している鉱夫",
+  },
+  {
+    en: "Boyang",
+    ja: "伯陽",
+    pronunciationJa: "はくよう",
+    tags: [ "liyue", "character-sub" ],
+    notes: "夜蘭の先祖",
+  },
+
+  //
+  // Inazuma - Main Characters
+  //
+  {
+    en: "Kaedehara Kazuha",
+    ja: "楓原万葉",
+    pronunciationJa: "かえではらかずは",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Yoimiya",
+    ja: "宵宮",
+    pronunciationJa: "よいみや",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Kamisato Ayaka",
+    ja: "神里綾華",
+    pronunciationJa: "かみさとあやか",
+    tags: [ "inazuma", "character-main" ],
+    variants: {
+      ja: [ "神里綾香" ],
+    },
+  },
+  {
+    en: "milady / my lady",
+    ja: "お嬢",
+    pronunciationJa: "おじょう",
+    notes: "トーマの神里綾華に対する呼び方",
+    tags: [ "inazuma", "how-to-call" ],
+  },
+  {
+    en: "Kamisato Ayato",
+    ja: "神里綾人",
+    pronunciationJa: "かみさとあやと",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "my lord",
+    ja: "若",
+    pronunciationJa: "わか",
+    notes: "トーマの神里綾人に対する呼び方",
+    tags: [ "inazuma", "how-to-call" ],
+  },
+  {
+    en: "Thoma",
+    ja: "トーマ",
+    tags: [ "inazuma", "character-main" ],
+    variants: {
+      ja: [ "トウマ" ],
+    },
+  },
+  {
+    en: "Kamisato Clan's housekeeper",
+    ja: "神里家の家司",
+    pronunciationJa: "かみさとけのけいし",
+    notes: "神里家でのトーマの役職",
+    tags: [ "inazuma", "title" ],
+  },
+  {
+    en: "fixer",
+    ja: "顔役",
+    pronunciationJa: "かおやく",
+    notes: "トーマは稲妻の「顔役」である。",
+    tags: [ "inazuma", "title" ],
+  },
+  {
+    en: "Sayu",
+    ja: "早柚",
+    pronunciationJa: "さゆ",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Yae Miko",
+    ja: "八重神子",
+    pronunciationJa: "やえみこ",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Arataki Itto",
+    ja: "荒瀧一斗",
+    pronunciationJa: "あらたきいっと",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Arataki \"Numero Uno\" Itto",
+    ja: "荒瀧・天下第一・一斗",
+    pronunciationJa: "あらたき・てんかだいいち・いっと",
+    tags: [ "inazuma", "title" ],
+    notes: "Numero Uno はイタリア語で「ナンバーワン」の意。",
+  },
+  {
+    en: "Bull-Chucker",
+    ja: "牛使い野郎",
+    pronunciationJa: "うしつかいやろう",
+    tags: [ "inazuma", "title" ],
+    notes: "直訳は「牛を放り投げる者」",
+  },
+  {
+    en: "Ushi",
+    ja: "丑雄",
+    pronunciationJa: "うしお",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Kuki Shinobu",
+    ja: "久岐忍",
+    pronunciationJa: "くきしのぶ",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Gorou",
+    ja: "ゴロー",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Sangonomiya Kokomi",
+    ja: "珊瑚宮心海",
+    pronunciationJa: "さんごのみやここみ",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Divine Priestess",
+    ja: "現人神の巫女",
+    pronunciationJa: "あらひとがみのみこ",
+    tags: [ "inazuma", "title" ],
+  },
+  {
+    en: "Her Excellency",
+    ja: "(珊瑚宮心海や雷電将軍に対する尊称)",
+    tags: [ "inazuma", "how-to-call" ],
+    notes: "単に Her Excellency のみで主君を指したり、Her Excellency, Sangonomiya などのように名前の前に付けて用いたりする。一般用語でも、高貴な人物に対して [Her/His/Your] Excellency が用いられる。",
+    examples: [
+      {
+        en: "The fact we're even able to hold out is thanks to the brilliant strategic mind of Her Excellency, Sangonomiya. We're also indebted to the great courage shown by General Gorou and the resistance troops.",
+        ja: "今こうしてなんとか保っているのは、 珊瑚宮様が立てた数々の妙計奇策、それとゴロー様と抵抗軍兵士たちによる奮闘のおかげさ。",
+        ref: "哲平, 第二章 第二幕 無念無想、抱影を滅す",
+      },
+      {
+        en: "Yes, Your Excellency!",
+        ja: "はっ、珊瑚宮様!",
+        ref: "ゴロー, 第二章 第三幕 千手百目の浮世",
+      },
+    ],
+  },
+  {
+    en: "Kujou Sara",
+    ja: "九条裟羅",
+    pronunciationJa: "くじょうさら",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Shikanoin Heizou",
+    ja: "鹿野院平蔵",
+    pronunciationJa: "しかのいんへいぞう",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Raiden Shogun",
+    ja: "雷電将軍",
+    pronunciationJa: "らいでんしょうぐん",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Baal",
+    ja: "バアル",
+    tags: [ "inazuma", "title" ],
+  },
+  {
+    en: "Beelzebul",
+    ja: "バアルゼブル",
+    tags: [ "inazuma", "title" ],
+  },
+  {
+    en: "Almighty Shogun",
+    ja: "(雷電将軍に対する尊称)",
+    tags: [ "inazuma", "how-to-call" ],
+    notes: "一般的には「神よ、」などと呼びかける時に \"Almighty God, \" などと使う場合がある。",
+    _meta: {
+      translator: false,
+    },
+  },
+  {
+    en: "Electro Archon",
+    ja: "雷神",
+    tags: [ "inazuma", "title" ],
+    pronunciationJa: "らいじん",
+    notes: "雷電将軍のことを \"God\" と称するシーンがあることから、Electro God も間違いではないと思われる。",
+    variants: {
+      en: [ "Electro God", "God of Electro" ],
+    },
+  },
+  {
+    en: "Plane of Euthymia",
+    ja: "一心浄土",
+    pronunciationJa: "いっしんじょうど",
+    tags: [ "inazuma" ],
+  },
+  {
+    en: "Musou Isshin",
+    ja: "夢想の一心",
+    pronunciationJa: "むそうのいっしん",
+    tags: [ "inazuma" ],
+  },
+  {
+    en: "Ei",
+    ja: "影",
+    pronunciationJa: "えい",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Makoto",
+    ja: "眞",
+    pronunciationJa: "まこと",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Magatsu Mitake Narukami no Mikoto",
+    ja: "禍津御建鳴神命",
+    pronunciationJa: "まがつみたけなるかみのみこと",
+    tags: [ "inazuma", "title", "enemy-boss" ],
+  },
+
+  //
+  // Inazuma - Sub-Characters
+  //
+  {
+    en: "Naganohara Ryuunosuke",
+    ja: "長野原龍之介",
+    pronunciationJa: "ながのはらりゅうのすけ",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Taroumaru",
+    ja: "太郎丸",
+    pronunciationJa: "たろうまる",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Kitsune Saiguu",
+    ja: "狐斎宮",
+    pronunciationJa: "きつねさいぐう",
+    tags: [ "inazuma", "character-sub" ],
+    variants: {
+      ja: [ "狐齋宮", "狐斉宮", "狐齊宮" ],
+    },
+  },
+  {
+    en: "Hanachirusato",
+    ja: "花散里",
+    pronunciationJa: "はなちるさと",
+    tags: [ "inazuma", "character-sub" ],
+    variants: {
+      ja: [ "かざり" ],
+      en: [ "Kazari" ],
+    },
+    notes: "以前は英語版では \"Kazari\" となっていたが、v2.7で修正された。",
+  },
+  {
+    en: "Hiiragi Hiroshi",
+    ja: "柊弘嗣",
+    pronunciationJa: "ひいらぎひろし",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Ioroi",
+    ja: "五百蔵",
+    pronunciationJa: "いおろい",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Kichiboushi",
+    ja: "吉法師",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Xavier",
+    ja: "グザヴィエ",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Ruu",
+    ja: "ルー",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Kama",
+    ja: "カマ",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Sumida",
+    ja: "墨田",
+    pronunciationJa: "すみだ",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Thunderbird",
+    ja: "雷鳥",
+    pronunciationJa: "らいちょう",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Orobaxi",
+    ja: "オロバシ",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "v2.0では Orobashi と表記されていたが、v2.1で Orobaxi に変更されたようである。しかし Orobashi のまま変更されていないままの箇所が多数ある。「オロバシノミコト」はそのまま \"Orobashi no Mikoto\" (※未変更) と表記される。",
+    variants: {
+      en: [ "Orobashi" ],
+    },
+  },
+  {
+    en: "Enjou",
+    ja: "淵上",
+    pronunciationJa: "えんじょう",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Aru",
+    ja: "亜琉",
+    pronunciationJa: "ある",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Abrax",
+    ja: "アブラクサス",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Aberaku",
+    ja: "阿倍良久",
+    pronunciationJa: "あべらく",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Erebos",
+    ja: "エレボス",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Eboshi",
+    ja: "烏帽子",
+    pronunciationJa: "えぼし",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Teppei",
+    ja: "哲平",
+    pronunciationJa: "てっぺい",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Xudong",
+    ja: "旭東",
+    notes: "全能グルメチームの一員",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Julie",
+    ja: "ジュリー",
+    notes: "全能グルメチームの一員",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Parvaneh",
+    ja: "パルヴァネ",
+    notes: "全能グルメチームの一員",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Kamei Munehisa",
+    ja: "亀井宗久",
+    notes: "全能グルメチームの一員",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Neko",
+    ja: "寝子",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Self-Proclaimed \"Provisional Head Priestess of the Asase Shrine\"",
+    ja: "自称「浅瀬神社の代理宮司」",
+    tags: [ "inazuma", "title" ],
+  },
+  {
+    en: "Nameless",
+    ja: "無名",
+    pronunciationJa: "むめい",
+    tags: [ "inazuma", "title" ],
+  },
+  {
+    en: "\"Masanori\"",
+    ja: "「公義」",
+    pronunciationJa: "まさのり",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Hajime",
+    ja: "創",
+    pronunciationJa: "はじめ",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Amenoma Tougo",
+    ja: "天目十五",
+    pronunciationJa: "あめのまとうご",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Kid Kujirai",
+    ja: "鯨井坊や",
+    pronunciationJa: "くじらいぼうや",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Susan",
+    ja: "スーザン",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Karpillia",
+    ja: "カルピリア",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Vahid",
+    ja: "ワヒッド",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Tang Wen",
+    ja: "湯雯",
+    tags: [ "inazuma", "character-sub" ],
+  },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "Cyno",
+    ja: "セノ",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Collei",
+    ja: "コレイ",
+    tags: [ /* TODO "sumeru", */ "character-sub" ],
+  },
+  {
+    en: "Lesser Load Kusanali",
+    ja: "クラクサナリデビ",
+    tags: [ "sumeru", "title" ],
+  },
+  // TODO Need confirmation
+  {
+    en: "Dendro Archon",
+    ja: "草神",
+    tags: [ "sumeru", "title" ],
+    pronunciationJa: "そうじん",
+  },
+
+  //
+  // Fontaine
+  //
+  {
+    en: "Lyney",
+    ja: "リネ",
+    tags: [ "character-main" ],
+  },
+  {
+    en: "Lynette",
+    ja: "リネット",
+    tags: [ "character-main" ],
+  },
+
+  //
+  // Natlan
+  //
+  {
+    en: "Iansan",
+    ja: "イアンサ",
+    tags: [ "character-main" ],
+  },
+
+
+  //
+  // Snezhnaya & Fatui
+  //
+  {
+    en: "Tartaglia",
+    ja: "タルタリヤ",
+    tags: [ "snezhnaya", "liyue", "character-main", "enemy-boss" ],
+    variants: {
+      ja: [ "タルタリア", "タルタル" ],
+    },
+  },
+  {
+    en: "Childe",
+    ja: "公子",
+    pronunciationJa: "こうし",
+    notes: "英語圏では Tartaglia よりも Childe と呼ばれることが多い印象。",
+    tags: [ "snezhnaya", "liyue", "character-main", "title", "how-to-call", "enemy-boss" ],
+  },
+  {
+    en: "Ajax",
+    ja: "アヤックス",
+    tags: [ "snezhnaya", "liyue", "character-main", "title" ],
+  },
+  {
+    en: "comrade",
+    ja: "相棒",
+    notes: "タルタリヤの旅人に対する呼び方",
+    tags: [ "snezhnaya", "liyue", "how-to-call" ],
+  },
+  {
+    en: "Foul Legacy Transformation",
+    ja: "魔王武装",
+    tags: [ "snezhnaya", "liyue" ],
+  },
+  {
+    en: "Signora",
+    ja: "淑女 / シニョーラ",
+    pronunciationJa: "しゅくじょ / シニョーラ",
+    tags: [ "snezhnaya", "inazuma", "enemy-boss", "character-sub" ],
+    notes: "\"La Signora\" と、フランス語の定冠詞 \"La\" を付けて表記されることも。「淑女」の訳として \"The Fair Lady\" が当てられているように見える箇所もあるが、一般に他のキャラクターから「淑女」と呼ばれる際は、英語版では \"Signora\" と呼ばれており、また「シニョーラ」とコードネーム「淑女」の区別もないものとして扱われているため、ここでは「淑女」の訳として \"Signora\" を当てた。",
+    examples: [{
+      en: "Her name is Signora, No. 8 of the harbingers.",
+      ja: "彼女は 『シニョーラ』 ― ファデュイ十一人の執行官の第8位、コードネーム『淑女』 だよ。",
+      ref: "ウェンティ, 序章 第三幕 龍と自由の歌",
+    }],
+  },
+  {
+    en: "Rosalyne-Kruzchka Lohefalter",
+    ja: "ロザリン・クルーズチカ・ローエファルタ",
+    tags: [ "snezhnaya", "inazuma", "enemy-boss", "character-sub" ],
+  },
+  {
+    en: "Crimson Witch of Embers",
+    ja: "焚尽の灼炎魔女",
+    pronunciationJa: "ふんじんのしゃくえんまじょ",
+    tags: [ "snezhnaya", "inazuma", "enemy-boss", "title" ],
+  },
+  {
+    en: "Crimson Lotus Moth",
+    ja: "紅蓮蛾",
+    pronunciationJa: "ぐれんが",
+    tags: [ "object", "snezhnaya", "inazuma" ],
+  },
+  {
+    en: "Scaramouche",
+    ja: "スカラマシュ",
+    tags: [ "snezhnaya", "inazuma", "character-sub" ],
+  },
+  {
+    en: "Balladeer",
+    ja: "散兵",
+    pronunciationJa: "ざんひょう",
+    tags: [ "snezhnaya", "inazuma", "character-sub", "title" ],
+  },
+  {
+    en: "Kunikuzushi",
+    ja: "国崩",
+    pronunciationJa: "くにくずし",
+    tags: [ "snezhnaya", "inazuma", "title" ],
+  },
+  {
+    en: "Regrator",
+    ja: "富者",
+    pronunciationJa: "ふしゃ",
+    tags: [ "snezhnaya", "character-sub", "title" ],
+  },
+  {
+    en: "Il Dotorre",
+    ja: "博士",
+    tags: [ "snezhnaya", "character-sub", "title" ],
+    variants: {
+      ja: [ "はくし", "はかせ" ], // TODO Check which is correct when appeared in the story
+    },
+  },
+  {
+    en: "Pulcinella",
+    ja: "プルチネラ",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Tsaritsa",
+    ja: "(スネージナヤの) 女皇",
+    pronunciationJa: "じょこう",
+    notes: "原義はロシアなどにおける女王や王妃に対する尊称。ツァーリ (Tsar) の女性形。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Cryo Archon",
+    ja: "氷神",
+    tags: [ "snezhnaya", "title" ],
+    pronunciationJa: "ひょうじん",
+    variants: {
+      en: [ "Cryo God", "God of Cryo" ],
+    },
+  },
+  {
+    en: "Teucer",
+    ja: "テウセル",
+    tags: [ "snezhnaya", "liyue", "character-sub" ],
+  },
+
+  //
+  // Khaenri'ah
+  //
+  {
+    en: "Dainsleif",
+    ja: "ダインスレイヴ",
+    tags: [ "character-sub" ],
+  },
+  {
+    en: "Dain",
+    ja: "ダイン",
+    notes: "ダインスレイヴ (Dainsleif) の呼び名",
+    tags: [ "how-to-call" ],
+  },
+  {
+    en: "Twilight Sword",
+    ja: "末光の剣",
+    pronunciationJa: "まっこうのつるぎ",
+    notes: "ダインスレイヴ (Dainsleif) の称号",
+    tags: [ "title" ],
+  },
+
+  {
+    en: "Halfdan",
+    ja: "ハールヴダン",
+    tags: [ "character-sub" ],
+    notes: "発音は「ハーフダン」",
+  },
+]

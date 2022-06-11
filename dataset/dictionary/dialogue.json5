@@ -1,0 +1,207 @@
+[
+  {
+    en: "Ad astra abyssosque!",
+    ja: "星と深淵を目指せ!",
+    pronunciationJa: "ほしとしんえんをめざせ",
+    notes: "英語ではなくラテン語らしい?",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "How about we explore the area ahead of us later?",
+    ja: "またあとで来よう、今は他を探索しよう!",
+    pronunciationJa: "またあとでこよう、いまはほかをたんさくしよう!",
+    notes: "未実装エリアに入った時にパイモンが言うセリフ",
+    tags: [ "dialogue" ],
+  },
+
+  //
+  // Mondstadt
+  //
+  {
+    en: "Cool it!",
+    ja: "おとなしくしやがれ!",
+    notes: "ガイアの元素スキル発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Don't get frostbite.",
+    ja: "風邪ひくなよ。",
+    pronunciationJa: "かぜひくなよ",
+    notes: "ガイアの元素爆発発動時のセリフ。英語版では風邪ではなく凍傷になるなよ、と言っている。",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Oh, so sorry!",
+    ja: "すまん、すまん。",
+    notes: "ガイアの元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "This moment will be frozen in time.",
+    ja: "…この瞬間、お前は永遠を手にする。",
+    pronunciationJa: "このしゅんかん、おまえはえいえんをてにする",
+    notes: "ガイアの元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "What's the hurry?",
+    ja: "お前って本当にせっかちだな。",
+    pronunciationJa: "おまえってほんとうにせっかちだな",
+    notes: "ガイアのダッシュ開始時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "I'm not done...",
+    ja: "お楽しみは…これから…",
+    pronunciationJa: "おたのしみはこれから",
+    notes: "ガイアの戦闘不能時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "That was unexpected...",
+    ja: "フンッ、予想外だぜ…",
+    pronunciationJa: "フンッ、よそうがいだぜ…",
+    notes: "ガイアの戦闘不能時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Steady as stone",
+    ja: "岩の重さは安心できます",
+    pronunciationJa: "いわのおもさはあんしんできます",
+    notes: "ノエルの元素スキル発動時のセリフ。直訳は「石のように揺るぎない」。",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Shaken and stirred!",
+    ja: "攻守兼備",
+    pronunciationJa: "こうしゅけんび",
+    notes: "ディオナの元素スキル発動時のセリフ",
+    tags: [ "dialogue" ],
+    variants: {
+      ja: [ "コーシュケッピー" ],
+    },
+  },
+  {
+    en: "Punishment!",
+    ja: "ヴァーディクト!",
+    notes: "ロサリアの元素爆発発動時のセリフ。日本語版のヴァーディクトは恐らく verdict で、裁判での陪審員の評決の意。",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Your verdict is...!",
+    ja: "判決を―下す!",
+    pronunciationJa: "はんけつをくだす",
+    notes: "ディルックの元素爆発発動時のセリフ。verdict は、裁判での陪審員の評決の意。",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Abiogenesis: Solar Isotoma",
+    ja: "創生術・擬似陽華",
+    pronunciationJa: "そうせいじゅつ・ぎじようか",
+    notes: "アルベドの元素スキル名。発動時のセリフとしての「擬似陽華」は \"Come into being!\"",
+  },
+  {
+    en: "Come into being!",
+    ja: "擬似陽華",
+    pronunciationJa: "ぎじようか",
+    notes: "アルベドの元素スキル発動時のセリフ。スキル名としての「擬似陽華」は\"Solar Isotoma\"",
+    tags: [ "dialogue" ],
+  },
+
+  //
+  // Liyue
+  //
+  {
+    en: "Know my sword!",
+    ja: "この剣は分かるかい!",
+    pronunciationJa: "このけんはわかるかい",
+    notes: "行秋の元素スキル発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Witness the power of Guhua!",
+    ja: "古華奥義",
+    pronunciationJa: "こかおうぎ",
+    notes: "行秋の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Wrath of the Flame!",
+    ja: "炎食いの刑!",
+    pronunciationJa: "ほのおぐいのけい",
+    notes: "煙緋の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "With sword comes shadow!",
+    ja: "我が剣よ! 影に従え――",
+    pronunciationJa: "わがけんよ かげにしたがえ",
+    notes: "刻晴の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Cut to the chase!",
+    ja: "剣光よ、世の乱れを斬り尽くせ!",
+    pronunciationJa: "けんこうよ、よのみだれをきりつくせ",
+    notes: "刻晴の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Evil conquering!",
+    ja: "靖妖儺舞",
+    pronunciationJa: "せいようなぶ",
+    notes: "魈の元素爆発発動時のセリフ。「西洋鍋」という空耳で有名。",
+    tags: [ "dialogue" ],
+    variants: {
+      ja: [ "西洋鍋" ],
+    },
+  },
+  {
+    en: "Lament!",
+    ja: "喚くがいい。",
+    pronunciationJa: "わめくがいい",
+    notes: "魈の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Time to go!",
+    ja: "いってらっしゃい!",
+    notes: "胡桃の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Order guide you.",
+    ja: "天理長駆。",
+    pronunciationJa: "てんりちょうく",
+    notes: "鍾離の元素爆発発動時のセリフ。「天にチョーク」という空耳で有名。",
+    tags: [ "dialogue" ],
+    variants: {
+      ja: [ "天にチョーク" ],
+    },
+  },
+  {
+    en: "This is order.",
+    ja: "天道、ここにあり。",
+    pronunciationJa: "てんどうここにあり",
+    notes: "鍾離の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+
+  //
+  // Inazuma
+  //
+  {
+    en: "Glory to the Shogun and her everlasting reign!",
+    ja: "常道を恢弘せしは、永遠なる鳴神なり",
+    pronunciationJa: "じょうどうをかいこうせしは、えいえんなるなるかみなり",
+    tags: [ "dialogue", "inazuma" ],
+    notes: "英語の直訳は「将軍とその永遠なる治世に栄光あれ」。九条裟羅の元素爆発発動時のセリフでもあるが、英語版では裟羅は \"Glory to the Shogun!\" までしか言わない。",
+  },
+  {
+    en: "There is no escape!",
+    ja: "逃げ道はありません",
+    pronunciationJa: "にげみちはありません",
+    tags: [ "dialogue" ],
+    notes: "雷電将軍の元素スキル発動時のセリフ",
+  },
+]

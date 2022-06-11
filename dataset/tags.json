@@ -1,0 +1,177 @@
+{
+  "mondstadt": {
+    "en": "Mondstadt",
+    "ja": "モンド",
+    "title": "モンドに関する言葉の英語表記一覧"
+  },
+  "dragonspine": {
+    "en": "Dragonspine",
+    "ja": "ドラゴンスパイン",
+    "title": "ドラゴンスパインに関する言葉の英語表記一覧"
+  },
+  "liyue": {
+    "en": "Liyue",
+    "ja": "璃月",
+    "title": "璃月に関する言葉の英語表記一覧"
+  },
+  "inazuma": {
+    "en": "Inazuma",
+    "ja": "稲妻",
+    "title": "稲妻に関する言葉の英語表記一覧"
+  },
+  "sumeru": {
+    "en": "Sumeru",
+    "ja": "スメール",
+    "title": "スメールに関する言葉の英語表記一覧"
+  },
+  "snezhnaya": {
+    "en": "Snezhnaya / Fatui",
+    "ja": "スネージナヤ・ファデュイ",
+    "title": "スネージナヤ・ファデュイに関する言葉の英語表記一覧"
+  },
+  "character-main": {
+    "en": "Character (Playable)",
+    "ja": "キャラ (プレイアブル)"
+  },
+  "character-sub": {
+    "en": "Character (NPC)",
+    "ja": "キャラ (NPC)"
+  },
+  "how-to-call": {
+    "en": "How to call",
+    "ja": "呼び方",
+    "title": "原神のキャラ同士の呼び方の英語一覧"
+  },
+  "title": {
+    "en": "Title / Other name",
+    "ja": "称号・職名・別名等"
+  },
+  "enemy": {
+    "en": "Enemy",
+    "ja": "敵"
+  },
+  "enemy-boss": {
+    "en": "Boss",
+    "ja": "ボス"
+  },
+  "location": {
+    "en": "Location",
+    "ja": "地名"
+  },
+  "domain": {
+    "en": "Domain",
+    "ja": "秘境",
+    "title": "原神の秘境の英語表記一覧"
+  },
+  "event": {
+    "en": "Event",
+    "ja": "イベント",
+    "title": "原神のイベントの英語表記一覧"
+  },
+  "object": {
+    "en": "Object",
+    "ja": "オブジェクト"
+  },
+  "organization": {
+    "en": "Organization",
+    "ja": "組織"
+  },
+  "quest-archon": {
+    "en": "Archon Quest",
+    "ja": "魔神任務"
+  },
+  "quest-world": {
+    "en": "World Quest",
+    "ja": "世界任務"
+  },
+  "quest-random": {
+    "en": "Random Quest",
+    "ja": "ランダムクエスト"
+  },
+  "quest-story": {
+    "en": "Story Quest",
+    "ja": "伝説任務"
+  },
+  "quest-daily": {
+    "en": "Daily Commission",
+    "ja": "デイリー依頼"
+  },
+  "item": {
+    "en": "Item",
+    "ja": "アイテム"
+  },
+  "specialty": {
+    "en": "Local Specialty",
+    "ja": "特産品",
+    "title": "原神の特産品の英語表記一覧"
+  },
+  "levelup-material": {
+    "en": "Character Level-Up Material",
+    "ja": "キャラクター育成素材",
+    "title": "原神のキャラクター育成素材の英語表記一覧"
+  },
+  "talent-material": {
+    "en": "Talent Level-Up Material",
+    "ja": "天賦育成素材",
+    "title": "原神の天賦育成素材の英語表記一覧"
+  },
+  "food": {
+    "en": "Food",
+    "ja": "料理・食べ物",
+    "title": "原神の料理・食べ物の英語表記一覧"
+  },
+  "artifact": {
+    "en": "Artifact",
+    "ja": "聖遺物"
+  },
+  "artifact-piece": {
+    "en": "A Piece of Artifacts",
+    "ja": "聖遺物（個別名）",
+    "title": "原神に登場する聖遺物の個別名の英語表記一覧"
+  },
+  "dialogue": {
+    "en": "Dialogue",
+    "ja": "セリフ",
+    "title": "原神のセリフの英訳"
+  },
+  "element": {
+    "en": "Element",
+    "ja": "元素",
+    "title": "原神の元素に関する言葉の英語表記一覧"
+  },
+  "sereniteapot": {
+    "en": "Serenitea Pot",
+    "ja": "塵歌壺",
+    "title": "塵歌壺 (じんかつぼ) に関する言葉の英語表記一覧"
+  },
+  "weapon": {
+    "en": "Weapon",
+    "ja": "武器",
+    "title": "原神の武器の英語表記一覧"
+  },
+  "sword": {
+    "en": "Sword",
+    "ja": "片手剣",
+    "title": "原神に登場する片手剣の英語表記一覧"
+  },
+  "claymore": {
+    "en": "Claymore",
+    "ja": "両手剣",
+    "title": "原神に登場する両手剣の英語表記一覧"
+  },
+  "polearm": {
+    "en": "Polearm",
+    "ja": "長柄武器",
+    "title": "原神に登場する長柄武器の英語表記一覧"
+  },
+  "bow": {
+    "en": "Bow",
+    "ja": "弓",
+    "title": "原神に登場する弓の英語表記一覧"
+  },
+  "catalyst": {
+    "en": "Catalyst",
+    "ja": "法器",
+    "title": "原神に登場する法器の英語表記一覧"
+  }
+}

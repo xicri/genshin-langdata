@@ -1,0 +1,727 @@
+[
+  {
+    en: "Theater Machanicus",
+    ja: "機関棋譚",
+    pronunciationJa: "きかんきたん",
+    notes: "不定期開催の期間限定イベント",
+    tags: [ "event" ],
+    variants: {
+      ja: [ "機関奇譚" ],
+    },
+  },
+  {
+    en: "Overflowing Mastery",
+    ja: "熟知の奔流",
+    pronunciationJa: "じゅくちのほんりゅう",
+    notes: "不定期開催の期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Ley Line Overflow",
+    ja: "地脈の奔流",
+    pronunciationJa: "ちみゃくのほんりゅう",
+    notes: "不定期開催の期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Marvelous Merchandise",
+    ja: "百貨珍品",
+    pronunciationJa: "ひゃっかちんぴん",
+    notes: "不定期開催の期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Liben",
+    ja: "立本",
+    pronunciationJa: "りつほん",
+    notes: "不定期開催の期間限定イベント「百貨珍品」に登場するキャラクター",
+    tags: [ "character-sub", "event" ],
+  },
+
+  {
+    en: "Lost Riches",
+    ja: "秘宝の行方",
+    pronunciationJa: "ひほうのゆくえ",
+    notes: "不定期開催の期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Treasure-Seeking Seelie",
+    ja: "宝探し仙霊",
+    pronunciationJa: "たからさがしせんれい",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で用いるアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Mini Seelie: Dayflower",
+    ja: "小さな仙霊・露草",
+    pronunciationJa: "ちいさなせんれい・つゆくさ",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Mini Seelie: Rosé",
+    ja: "小さな仙霊・薄紅",
+    pronunciationJa: "ちいさなせんれい・うすべに",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Mini Seelie: Curcuma",
+    ja: "小さな仙霊・鬱金",
+    pronunciationJa: "ちいさなせんれい・うこん",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Mini Seelie: Viola",
+    ja: "小さな仙霊・紫苑",
+    pronunciationJa: "ちいさなせんれい・しおん",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Iron Coin",
+    ja: "鉄銭",
+    pronunciationJa: "てっせん",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できる通貨",
+    tags: [ "event" ],
+  },
+
+  {
+    en: "Lantern Rite",
+    ja: "海灯祭",
+    pronunciationJa: "かいとうさい",
+    notes: "v1.3 及び v2.4 期間限定イベント。璃月の祭り。",
+    tags: [ "liyue", "event" ],
+  },
+  {
+    en: "Happy Lantern Rite!",
+    ja: "海灯祭を祝して!",
+    pronunciationJa: "かいとうさいをしゅくして",
+    tags: [ "liyue", "event", "dialogue" ],
+  },
+
+  {
+    en: "Windtrace",
+    ja: "風の行方",
+    pronunciationJa: "かぜのゆくえ",
+    notes: "不定期開催 (v1.5、v2.4) の期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Windtrace Coin",
+    ja: "追跡コイン",
+    pronunciationJa: "ついせきコイン",
+    notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) で獲得できる通貨",
+    tags: [ "event" ],
+  },
+  {
+    en: "Rebel",
+    ja: "レンジャー",
+    notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側",
+    tags: [ "event" ],
+  },
+  {
+    en: "Hunter",
+    ja: "ハンター",
+    notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの鬼役",
+    tags: [ "event" ],
+  },
+  {
+    en: "Gygax",
+    ja: "ガイガックス",
+    notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) を主催するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+
+
+  //
+  // v2.7
+  //
+  {
+    en: "A Muddy Bizarre Adventure",
+    ja: "深泥奇譚",
+    notes: "v2.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Core of the Apparatus",
+    ja: "炉心機造",
+    notes: "v2.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "The Almighty Arataki Great and Glorious Drumalong Festival",
+    ja: "荒瀧極上盛世豪鼓大祭典",
+    notes: "v2.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+
+  //
+  // v2.6
+  //
+  {
+    en: "Hues of the Violet Garden",
+    ja: "華やぐ紫苑の庭",
+    pronunciationJa: "はなやぐしおんのにわ",
+    notes: "v2.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Magnificent Irodori Festival",
+    ja: "光華容彩祭",
+    pronunciationJa: "こうかすがたのいろどりさい",
+    notes: "v2.6 期間限定イベント。稲妻の祭り",
+    tags: [ "event" ],
+  },
+  {
+    en: "The Moon and Stars Inscribe",
+    ja: "月章星句",
+    notes: "v2.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Theater Mechanicus: Stage of Brilliance",
+    ja: "機関棋譚・巧策の陣",
+    pronunciationJa: "きかんきたん・こうさくのじん",
+    notes: "v2.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Clash of Lone Blades",
+    ja: "孤刀争逐",
+    notes: "v2.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "The Floral Courtyard",
+    ja: "花影瑶庭",
+    notes: "v2.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Spices From the West",
+    ja: "西より届く香り",
+    pronunciationJa: "にしよりとどくかおり",
+    notes: "v2.6〜v2.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Nazafarin",
+    ja: "ナザファリン",
+    notes: "v2.6〜v2.7 期間限定イベント「西より届く香り」に登場するキャラクター",
+    tags: [ "character-sub", "event" ],
+  },
+  {
+    en: "Fragrant ○○",
+    ja: "香り高い〇〇",
+    pronunciationJa: "かおりたかい〇〇",
+    tags: [ "food" ],
+    notes: "v2.6〜v2.7 期間限定イベント「西より届く香り」で作った調味料を加えてできた料理。",
+  },
+  {
+    en: "Vibro-Crystal Research",
+    ja: "振晶の研究",
+    notes: "v2.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Outside the Canvas, Inside the Lens",
+    ja: "旅の写真に閃きを",
+    pronunciationJa: "たびのしゃしんにひらめきを",
+    notes: "v2.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+
+  //
+  // v2.5
+  //
+  {
+    en: "Three Realms Gateway Offering",
+    ja: "三界道饗祭",
+    pronunciationJa: "さんかいみちあえのまつり",
+    notes: "v2.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Bokuso Box",
+    ja: "睦疎の箱",
+    pronunciationJa: "ぼくそのはこ",
+    notes: "v2.5 期間限定イベント「三界道饗祭」で用いる便利アイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Tokoyo Legume",
+    ja: "常世の荚",
+    pronunciationJa: "とこよのさや", // TODO Need Check
+    notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Aphotium Ore",
+    ja: "淵海鉱石",
+    pronunciationJa: "えんかいこうせき", // TODO Need Check
+    notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Husk Gem",
+    ja: "殻の宝玉",
+    pronunciationJa: "からのほうぎょく",
+    notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Light Realm Sigil",
+    ja: "光界の印",
+    pronunciationJa: "こうかいのしるし", // TODO Need Check
+    notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Tower of the Void",
+    ja: "虚界の塔",
+    notes: "v2.5 期間限定イベント「三界道饗祭」で登場する建物",
+    tags: [ "event" ],
+  },
+  {
+    en: "Light Realm Chisel",
+    ja: "光界たがね / 光界のたがね",
+    notes: "v2.5 期間限定イベント「三界道饗祭」で登場するオブジェクト",
+    tags: [ "event" ],
+  },
+  {
+    en: "Coral Butterfly",
+    ja: "珊瑚蝶",
+    pronunciationJa: "さんごちょう",
+    notes: "v2.5 期間限定イベント「三界道饗祭」で出現する、捕まえると晶核を手に入れられる生物。",
+    tags: [ "item", "inazuma", "event" ],
+  },
+  {
+    en: "Of Drink A-Dreaming",
+    ja: "酌み交す酔夢",
+    pronunciationJa: "くみかわすすいむ",
+    notes: "v2.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Divine Ingenuity",
+    ja: "鬼斧神工",
+    pronunciationJa: "きふしんこう",
+    notes: "v2.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+
+  //
+  // v2.4
+  //
+  {
+    en: "Fleeting Colors in Flight",
+    ja: "華々しき流年",
+    notes: "v2.4 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Shadow Lantern",
+    ja: "蔵影灯",
+    notes: "v2.4 期間限定イベント「華々しき流年」で挑戦するパズル",
+    tags: [ "event" ],
+  },
+  {
+    en: "Launch Tube",
+    ja: "花火の筒",
+    notes: "v2.4 期間限定イベント「華々しき流年」で獲得できる花火打ち上げ用のアイテム",
+    tags: [ "event" ],
+  },
+  {
+    en: "Eight Locales Over Mountains and Seas",
+    ja: "山海八処の巡礼",
+    notes: "v2.4 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "A Study in Potions",
+    ja: "ポーションスタディー",
+    notes: "v2.4 期間限定イベント",
+    tags: [ "event" ],
+  },
+
+  //
+  // v2.3
+  //
+  {
+    en: "Shadows Amidst Snowstorms",
+    ja: "白雪に潜みし影",
+    pronunciationJa: "しらゆきにひそみしかげ",
+    notes: "v2.3 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Fellflower",
+    ja: "マジックフラワー",
+    notes: "v2.3 期間限定イベント「白雪に潜みし影」で登場するボス",
+    tags: [ "event", "enemy-boss" ],
+  },
+  {
+    en: "Bantan Sango Case Files: The Warrior Dog",
+    ja: "万端珊瑚事件簿・犬武者",
+    pronunciationJa: "ばんたんさんごじけんぼ・いぬむしゃ",
+    notes: "v2.3 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Omni-Ubiquity Net",
+    ja: "四方八方の網",
+    pronunciationJa: "しほうはっぽうのあみ",
+    notes: "v2.3 期間限定イベント「万端珊瑚事件簿・犬武者」に関連して得られるアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Kageroumaru",
+    ja: "影狼丸",
+    pronunciationJa: "かげろうまる",
+    notes: "v2.3 期間限定イベント「万端珊瑚事件簿・犬武者」に登場するキャラクター (塵歌壺の調度品扱い)",
+    tags: [ "event", "character-sub", "sereniteapot" ],
+  },
+  {
+    en: "Misty Dungeon: Realm of Light",
+    ja: "迷城戦線・光界編",
+    pronunciationJa: "めいじょうせんせん・こうかいへん",
+    notes: "v2.3 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Energy Amplifier Fruition",
+    ja: "エネルギー原盤・後序",
+    notes: "v2.3 期間限定イベント",
+    tags: [ "event" ],
+  },
+
+  //
+  // v2.2
+  //
+  {
+    en: "Labyrinth Warriors",
+    ja: "謎境一騎",
+    pronunciationJa: "めいきょういっき",
+    notes: "v2.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Mystic Onmyou Chamber",
+    ja: "訣籙陰陽寮",
+    pronunciationJa: "けつろくおんようりょう",
+    notes: "v2.2 期間限定イベント「謎境一騎」の秘境",
+    tags: [ "event" ],
+  },
+  {
+    en: "Shiki Taishou",
+    ja: "式大将",
+    pronunciationJa: "しきだいしょう",
+    notes: "v2.2 期間限定イベント「謎境一騎」に登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Shadow of the Ancients",
+    ja: "古の孤影",
+    pronunciationJa: "いにしえのこえい",
+    notes: "v2.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Pursina's Spike",
+    ja: "プルシナスパイク",
+    notes: "v2.2 期間限定イベント「古の孤影」に登場するオブジェクト", // TODO 要確認
+    tags: [ "event" ],
+  },
+  {
+    en: "Tuned to the World's Sounds",
+    ja: "鏡花聴世",
+    pronunciationJa: "きょうかちょうせい",
+    notes: "v2.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Floral Zither",
+    ja: "鏡花の琴",
+    pronunciationJa: "きょうかのこと",
+    notes: "v2.2 期間限定イベント「鏡花聴世」で獲得できる楽器",
+    tags: [ "liyue", "event", "item" ],
+  },
+  {
+    en: "Dreams of Bloom",
+    ja: "花咲きし夢",
+    pronunciationJa: "はなさきしゆめ",
+    notes: "v2.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+
+  //
+  // v2.1
+  //
+  {
+    en: "Moonlight Merriment",
+    ja: "韶光撫月",
+    notes: "v2.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Moonchase Tales",
+    ja: "月逐いの美談",
+    pronunciationJa: "つきおいのびだん",
+    notes: "v2.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Moonlight Seeker",
+    ja: "月光を求めて",
+    pronunciationJa: "げっこうをもとめて",
+    notes: "v2.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Moonchase Charm",
+    ja: "月逐い符",
+    pronunciationJa: "つきおいふ",
+    notes: "v2.1 期間限定イベント「月光を求めて」(Moonlight Seeker) で獲得できるアイテム",
+    tags: [ "event" ],
+  },
+  {
+    en: "Mystmoon Chest",
+    ja: "玄月の宝箱",
+    pronunciationJa: "げんげつのたからばこ",
+    notes: "v2.1 期間限定イベント「月光を求めて」(Moonlight Seeker) で獲得できる宝箱",
+    tags: [ "event" ],
+  },
+  {
+    en: "Trail of Delicacies",
+    ja: "珍膳仙跡",
+    notes: "v2.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Moonchase Festival",
+    ja: "月逐い祭",
+    pronunciationJa: "つきおいさい",
+    notes: "v2.1 期間限定イベント。璃月の祭り。",
+    tags: [ "event", "liyue" ],
+  },
+  {
+    en: "Hyakunin Ikki",
+    ja: "百人一揆",
+    pronunciationJa: "ひゃくにんいっき",
+    notes: "v2.1 及び v2.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Lunar Realm",
+    ja: "月中王国",
+    pronunciationJa: "げっちゅうおうこく",
+    notes: "v2.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Spectral Secrets",
+    ja: "浮遊する秘霊",
+    pronunciationJa: "ふゆうするひれい",
+    notes: "v2.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+
+  //
+  // v2.0
+  //
+  {
+    en: "Thunder Sojourn",
+    ja: "雷痕を求めて",
+    pronunciationJa: "らいこんをもとめて",
+    notes: "v2.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Phantom Flow",
+    ja: "幻影心流",
+    pronunciationJa: "げんえいしんりゅう",
+    notes: "v2.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Theater Machanicus: Stage of Wonders",
+    ja: "機関棋譚・霊妙の陣",
+    pronunciationJa: "きかんきたん・れいみょうのじん",
+    notes: "v2.0 期間限定イベント",
+    tags: [ "event" ],
+    variants: {
+      ja: [ "機関奇譚・霊妙の陣" ],
+    },
+  },
+
+  //
+  // v1.6
+  //
+  {
+    en: "Midsummer Island Adventure",
+    ja: "真夏! 島? 大冒険!",
+    pronunciationJa: "まなつ!しま?だいぼうけん!",
+    notes: "v1.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Golden Apple Archipelago",
+    ja: "金リンゴ群島",
+    pronunciationJa: "きんリンゴぐんとう",
+    notes: "v1.6 期間限定マップ",
+    tags: [ "event", "location" ],
+  },
+  {
+    en: "Pudding Isle",
+    ja: "プリン島",
+    pronunciationJa: "プリンとう",
+    notes: "v1.6 期間限定マップ「金リンゴ群島」南東にある島",
+    tags: [ "event", "location" ],
+  },
+  {
+    en: "Minacious Isle",
+    ja: "ハラハラ島",
+    pronunciationJa: "ハラハラとう",
+    notes: "v1.6 期間限定マップ「金リンゴ群島」南にある島",
+    tags: [ "event", "location" ],
+  },
+  {
+    en: "Twinning Isle",
+    ja: "フタフタ島",
+    pronunciationJa: "フタフタとう",
+    notes: "v1.6 期間限定マップ「金リンゴ群島」北東にある島",
+    tags: [ "event", "location" ],
+  },
+  {
+    en: "Broken Isle",
+    ja: "ボロボロ島",
+    pronunciationJa: "ボロボロとう",
+    notes: "v1.6 期間限定マップ「金リンゴ群島」北西にある島",
+    tags: [ "event", "location" ],
+  },
+  {
+    en: "Dodo-King",
+    ja: "ドド大魔王",
+    pronunciationJa: "ドドだいまおう",
+    notes: "v1.6 期間限定イベント「真夏! 島? 大冒険!」の登場人物",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Wind-Blessed Harpastum",
+    ja: "風護のバドルドー",
+    pronunciationJa: "ふうごのバドルドー",
+    notes: "v1.6 期間限定イベントで用いるアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Legend of the Vagabond Sword",
+    ja: "風来の剣闘奇譚",
+    pronunciationJa: "ふうらいのけんとうきたん",
+    notes: "v1.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Echoing Tales",
+    ja: "余韻の叙述",
+    pronunciationJa: "よいんのじょじゅつ",
+    notes: "v1.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Echoing Conch",
+    ja: "余韻のホラガイ",
+    pronunciationJa: "よいんのホラガイ",
+    notes: "v1.6 期間限定イベント「余韻の叙述」で収集するアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Never-Ending Battle",
+    ja: "終わらぬ戦い",
+    pronunciationJa: "おわらぬたたかい",
+    notes: "v1.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Kaboomball Kombat",
+    ja: "ボンボン魔球大合戦",
+    pronunciationJa: "ボンボンまきゅうだいがっせん",
+    notes: "v1.6 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Dodofortress",
+    ja: "魔球ドドキャッスル",
+    pronunciationJa: "まきゅうドドキャッスル",
+    notes: "v1.6 期間限定イベント「ボンボン魔球大合戦」に登場するオブジェクト。",
+    tags: [ "event" ],
+  },
+  {
+    en: "Dodoguard",
+    ja: "ドドバリア",
+    notes: "v1.6 期間限定イベント「ボンボン魔球大合戦」で用いる道具。",
+    tags: [ "event" ],
+  },
+
+  //
+  // v1.5
+  //
+  {
+    en: "Energy Amplifier Initiation",
+    ja: "エネルギー原盤・序論",
+    pronunciationJa: "エネルギーげんばん・じょろん",
+    notes: "v1.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Twisted Realm",
+    ja: "歪曲幽域",
+    pronunciationJa: "わいきょくゆういき",
+    notes: "v1.5 期間限定イベント「エネルギー原盤・序論」における秘境の名前",
+    tags: [ "event" ],
+  },
+  {
+    en: "Battlefront: Misty Dungeon",
+    ja: "迷城戦線",
+    pronunciationJa: "めいじょうせんせん",
+    notes: "v1.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Mimi Tomo",
+    ja: "三矢の結盟",
+    pronunciationJa: "さんしのけつめい",
+    notes: "v1.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  //
+  // v1.4
+  //
+  {
+    en: "Windblume Festival",
+    ja: "風花祭",
+    pronunciationJa: "ウインドブルームさい",
+    notes: "v1.4 期間限定イベント。モンドの祭り。",
+    tags: [ "mondstadt", "event" ],
+  },
+  {
+    en: "Windsong Lyre",
+    ja: "風吹きのライアー",
+    pronunciationJa: "かぜふきのライアー",
+    notes: "v1.4 期間限定イベント「風花祭」で獲得できる楽器",
+    tags: [ "mondstadt", "event", "item" ],
+  },
+
+  //
+  // v1.3
+  //
+  {
+    en: "Xiao Lantern",
+    ja: "霄灯",
+    pronunciationJa: "しょうとう",
+    notes: "v1.3 期間限定イベント「海灯祭」期間中に合成できるアイテム",
+    tags: [ "liyue", "event", "item" ],
+  },
+]
