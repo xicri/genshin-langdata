@@ -2,6 +2,7 @@
   {
     en: "Elite Enemy",
     ja: "精鋭",
+    zh: “精英”,
     pronunciationJa: "せいえい",
     tags: [ "enemy" ],
   },
