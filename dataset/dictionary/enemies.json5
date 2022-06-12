@@ -168,12 +168,14 @@
   {
     en: "Hilichurl",
     ja: "ヒルチャール",
+    zh: “丘丘人”,
     notes: "Hil\"i\"churl であることに注意",
     tags: [ "enemy" ],
   },
   {
     en: "Hilichurl Fighter",
     ja: "ヒルチャール・戦士",
+    zh: “打手丘丘人”,
     pronunciationJa: "ヒルチャール・せんし",
     notes: "木の棒を持ったヒルチャール",
     tags: [ "enemy" ],
@@ -181,6 +183,7 @@
   {
     en: "Hilichurl Berserker",
     ja: "ヒルチャール・突進",
+    zh: “冲锋丘丘人”,
     pronunciationJa: "ヒルチャール・とっしん",
     notes: "火の点いた棒を持って突進してくるヒルチャール",
     tags: [ "enemy" ],
@@ -188,24 +191,28 @@
   {
     en: "Wooden Shield Hilichurl Guard",
     ja: "ヒルチャール・木盾",
+    zh: “木盾丘丘人”,
     pronunciationJa: "ヒルチャール・もくじゅん",
     tags: [ "enemy" ],
   },
   {
     en: "Rock Shield Hilichurl Guard",
     ja: "ヒルチャール・岩盾",
+    zh: “岩盾丘丘人”,
     pronunciationJa: "ヒルチャール・がんじゅん",
     tags: [ "enemy" ],
   },
   {
     en: "Ice Shield Hilichurl Guard",
     ja: "ヒルチャール・氷盾",
+    zh: “冰盾丘丘人”,
     pronunciationJa: "ヒルチャール・ひょうじゅん",
     tags: [ "enemy" ],
   },
   {
     en: "Hilichurl Shooter",
     ja: "ヒルチャール・射手",
+    zh: “射手丘丘人”,
     pronunciationJa: "ヒルチャール・しゃしゅ",
     notes: "矢を打ってくるヒルチャールの総称",
     tags: [ "enemy" ],
@@ -213,21 +220,25 @@
   {
     en: "Pyro Hilichurl Shooter",
     ja: "ヒルチャール・炎矢",
+    zh: “火箭丘丘人”,
     tags: [ "enemy" ],
   },
   {
     en: "Cryo Hilichurl Shooter",
     ja: "ヒルチャール・氷矢",
+    zh: “冰箭丘丘人”,
     tags: [ "enemy" ],
   },
   {
     en: "Electro Hilichurl Shooter",
     ja: "ヒルチャール・雷矢",
+    zh: “雷箭丘丘人”,
     tags: [ "enemy" ],
   },
   {
     en: "Hilichurl Grenadier",
     ja: "ヒルチャール・爆弾",
+    zh: “爆弹丘丘人”,
     pronunciationJa: "ヒルチャール・ばくだん",
     notes: "炎スライムを投げてくるヒルチャール",
     tags: [ "enemy" ],
@@ -235,59 +246,69 @@
   {
     en: "Cryo Hilichurl Grenadier",
     ja: "ヒルチャール・氷弾",
+    zh: “冰弹丘丘人”,
     pronunciationJa: "ヒルチャール・ひょうだん",
     tags: [ "enemy" ],
   },
   {
     en: "Electro Hilichurl Grenadier",
     ja: "ヒルチャール・雷弾",
+    zh: “雷弹丘丘人”,
     pronunciationJa: "ヒルチャール・らいだん",
     tags: [ "enemy" ],
   },
   {
     en: "Samachurl",
     ja: "ヒルチャールシャーマン",
+    zh: “丘丘萨满”,
     tags: [ "enemy" ],
   },
   {
     en: "Hydro Samachurl",
     ja: "ヒルチャールシャーマン・水",
+    zh: “水丘丘萨满”,
     pronunciationJa: "ヒルチャールシャーマン・みず",
     tags: [ "enemy" ],
   },
   {
     en: "Anemo Samachurl",
     ja: "ヒルチャールシャーマン・風",
+    zh: “风丘丘萨满”,
     pronunciationJa: "ヒルチャールシャーマン・かぜ",
     tags: [ "enemy" ],
   },
   {
     en: "Electro Samachurl",
     ja: "ヒルチャールシャーマン・雷",
+    zh: “雷丘丘萨满”,
     pronunciationJa: "ヒルチャールシャーマン・かみなり",
     tags: [ "enemy" ],
   },
   {
     en: "Dendro Samachurl",
     ja: "ヒルチャールシャーマン・草",
+    zh: “草丘丘萨满”,
     pronunciationJa: "ヒルチャールシャーマン・くさ",
     tags: [ "enemy" ],
   },
   {
     en: "Cryo Samachurl",
     ja: "ヒルチャールシャーマン・氷",
+    zh: “冰丘丘萨满”,
     pronunciationJa: "ヒルチャールシャーマン・こおり",
     tags: [ "enemy" ],
   },
   {
     en: "Geo Samachurl",
     ja: "ヒルチャールシャーマン・岩",
+    zh: “岩丘丘萨满”,
     pronunciationJa: "ヒルチャールシャーマン・いわ",
     tags: [ "enemy" ],
   },
   {
     en: "Mitachurl",
     ja: "ヒルチャール暴徒",
+    zh: “丘丘暴徒”,
     pronunciationJa: "ヒルチャールぼうと",
     notes: "通称「デカチャール」",
     tags: [ "enemy" ],
@@ -295,6 +316,7 @@
   {
     en: "Wooden Shieldwall Mitachurl",
     ja: "ヒルチャール暴徒・木盾",
+    zh: “木盾丘丘暴徒”,
     pronunciationJa: "ヒルチャールぼうと・もくじゅん",
     notes: "通称「デカチャール」",
     tags: [ "enemy" ],
@@ -302,6 +324,7 @@
   {
     en: "Rock Shieldwall Mitachurl",
     ja: "ヒルチャール暴徒・岩盾",
+    zh: “岩盾丘丘暴徒”,
     pronunciationJa: "ヒルチャールぼうと・がんじゅん",
     notes: "通称「デカチャール」",
     tags: [ "enemy" ],
@@ -309,6 +332,7 @@
   {
     en: "Ice Shieldwall Mitachurl",
     ja: "ヒルチャール暴徒・氷盾",
+    zh: “冰盾丘丘暴徒”,
     pronunciationJa: "ヒルチャールぼうと・ひょうじゅん",
     notes: "通称「デカチャール」",
     tags: [ "enemy" ],
@@ -316,6 +340,7 @@
   {
     en: "Blazing Axe Mitachurl",
     ja: "ヒルチャール暴徒・炎斧",
+    zh: “火斧丘丘暴徒”,
     pronunciationJa: "ヒルチャールぼうと・えんふ",
     notes: "通称「デカチャール」",
     tags: [ "enemy" ],
@@ -323,6 +348,7 @@
   {
     en: "Crackling Axe Mitachurl",
     ja: "ヒルチャール暴徒・雷斧",
+    zh: “雷斧丘丘暴徒”,
     pronunciationJa: "ヒルチャールぼうと・らいふ",
     notes: "通称「デカチャール」",
     tags: [ "enemy" ],
@@ -330,6 +356,7 @@
   {
     en: "Stonehide Lawachurl",
     ja: "ヒルチャール・岩兜の王",
+    zh: “丘丘岩盔王”,
     pronunciationJa: "ヒルチャール・いわかぶとのおう",
     notes: "通称「デカチャール」",
     tags: [ "enemy", "liyue" ],
@@ -337,6 +364,7 @@
   {
     en: "Frostarm Lawachurl",
     ja: "ヒルチャール・霜鎧の王",
+    zh: “丘丘霜铠王”,
     pronunciationJa: "ヒルチャール・しもよろいのおう",
     notes: "通称「デカチャール」",
     tags: [ "enemy", "dragonspine" ],
@@ -344,6 +372,7 @@
   {
     en: "Thunderhelm Lawachurl",
     ja: "ヒルチャール・雷兜の王",
+    zh: “丘丘雷兜王”,
     pronunciationJa: "ヒルチャール・かみなりかぶとのおう",
     notes: "通称「デカチャール」",
     tags: [ "enemy", "inazuma" ],
@@ -351,6 +380,7 @@
   {
     en: "Hilichurl Chieftain",
     ja: "ヒルチャール王者",
+    zh: “丘丘王”,
     pronunciationJa: "ヒルチャールおうじゃ",
     notes: "ヒルチャール・○○の王の総称。通称「デカチャール」。",
     tags: [ "enemy" ],
@@ -358,10 +388,12 @@
   {
     en: "Unusual Hilichurl",
     ja: "変わったヒルチャール",
+    zh: “奇怪的丘丘人”,
     pronunciationJa: "かわったヒルチャール",
     tags: [ "enemy" ],
     variants: {
       ja: [ "変なヒルチャール", "へんなヒルチャール" ],
+      zh: [ "大伟丘" ],
     },
   },
 
