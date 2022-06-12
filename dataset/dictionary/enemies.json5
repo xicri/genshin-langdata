@@ -120,39 +120,47 @@
     tags: [ "enemy" ],
   },
 
+  // Specters
   {
     en: "Specter",
     ja: "フライム",
+    zh: “漂浮灵”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Hydro Specter",
     ja: "水フライム",
+    zh: “水漂浮灵”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Anemo Specter",
     ja: "風フライム",
+    zh: “风漂浮灵”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Geo Specter",
     ja: "岩フライム",
+    zh: “岩漂浮灵”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Cryo Specter",
     ja: "氷フライム",
+    zh: “冰漂浮灵”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Electro Specter",
     ja: "雷フライム",
+    zh: “雷漂浮灵”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Pyro Specter",
     ja: "炎フライム",
+    zh: “火漂浮灵”,
     tags: [ "enemy", "inazuma" ],
   },
 
