@@ -631,42 +631,49 @@
   {
     en: "Electro Cicin Mage",
     ja: "雷蛍術師",
+    zh: “雷萤术师”,
     pronunciationJa: "らいけいじゅつし",
     tags: [ "snezhnaya", "enemy" ],
   },
   {
     en: "Cryo Cicin Mage",
     ja: "氷蛍術師",
+    zh: “冰萤术师”,
     pronunciationJa: "ひょうけいじゅつし",
     tags: [ "snezhnaya", "enemy" ],
   },
   {
     en: "Cicin",
     ja: "飛蛍",
+    zh: “飞萤”,
     notes: "雷蛍や氷蛍全般を指す。",
     tags: [ "enemy" ],
   },
   {
     en: "Hydro Cicin",
     ja: "水蛍",
+    zh: “水萤”,
     pronunciationJa: "すいけい",
     tags: [ "enemy" ],
   },
   {
     en: "Electro Cicin",
     ja: "雷蛍",
+    zh: “雷萤”,
     pronunciationJa: "らいけい",
     tags: [ "enemy" ],
   },
   {
     en: "Cryo Cicin",
     ja: "氷蛍",
+    zh: “冰萤”,
     pronunciationJa: "ひょうけい",
     tags: [ "enemy" ],
   },
   {
     en: "Fatui Agent / Fatui Pyro Agent",
     ja: "デットエージェント",
+    zh: “愚人众·火之债务处理人”,
     tags: [ "snezhnaya", "enemy" ],
     variants: {
       ja: [ "デッドエージェント" ],
@@ -675,6 +682,7 @@
   {
     en: "Fatui Skirmisher",
     ja: "ファデュイ先遣隊",
+    zh: “愚人众先遣队”,
     pronunciationJa: "ファデュイせんけんたい",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
@@ -684,72 +692,87 @@
   {
     en: "Fatui Skirmisher - Pyroslinger Bracer",
     ja: "ファデュイ先遣隊・遊撃兵・炎銃",
+    zh: “愚人众先遣队·火铳游击兵”,
     pronunciationJa: "ファデュイせんけんたい・ゆうげきへい・えんじゅう",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
       ja: [ "炎銃" ],
+      zh: [ "火枪" ],
     },
   },
   {
     en: "Fatui Skirmisher - Geochanter Bracer",
     ja: "ファデュイ先遣隊・遊撃兵・岩使い",
+    zh: “愚人众先遣队·岩使游击兵”,
     pronunciationJa: "ファデュイせんけんたい・ゆうげきへい・いわつかい",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
       ja: [ "岩使い" ],
+      zh: [ "岩枪" ],
     },
   },
   {
     en: "Fatui Skirmisher - Cryogunner Legionnaire",
     ja: "ファデュイ先遣隊・重衛士・氷銃",
+    zh: “愚人众先遣队·冰铳重卫士”,
     pronunciationJa: "ファデュイせんけんたい・じゅうえいし・ひょうじゅう",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
       ja: [ "氷銃" ],
+      zh: [ "冰枪" ],
     },
   },
   {
     en: "Fatui Skirmisher - Hydrogunner Legionnaire",
     ja: "ファデュイ先遣隊・重衛士・水銃",
+    zh: “愚人众先遣队·水铳重卫士”,
     pronunciationJa: "ファデュイせんけんたい・じゅうえいし・すいじゅう",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
       ja: [ "水銃" ],
+      zh: [ "水胖" ],
     },
   },
   {
     en: "Fatui Skirmisher - Anemoboxer Vanguard",
     ja: "ファデュイ先遣隊・前鋒軍・風拳",
+    zh: “愚人众先遣队·风拳前锋军”,
     pronunciationJa: "ファデュイせんけんたい・ぜんぽうぐん・ふうけん",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
       ja: [ "風拳" ],
+      zh: [ "风拳" ],
     },
   },
   {
     en: "Fatui Skirmisher - Electrohammer Vanguard",
     ja: "ファデュイ先遣隊・前鋒軍・雷ハンマー",
+    zh: “愚人众先遣队·雷锤前锋军”,
     pronunciationJa: "ファデュイせんけんたい・ぜんぽうぐん・かみなりハンマー",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
       ja: [ "雷ハンマー" ],
+      zh: [ "雷锤" ],
     },
   },
   {
     en: "Snezhnayan Maiden",
     ja: "冬国の仕女",
+    zh: “愚人众·藏镜仕女”,
     tags: [ "snezhnaya", "inazuma", "enemy" ],
     notes: "ミラーメイデン (Mirror Maiden) の一般名",
   },
   {
     en: "Mirror Maiden",
     ja: "ミラーメイデン",
+    zh: “愚人众·藏镜仕女”,
     tags: [ "snezhnaya", "inazuma", "enemy" ],
   },
 
   {
     en: "Eye of the Storm",
     ja: "狂風のコア",
+    zh: “狂风之核”,
     pronunciationJa: "きょうふうのコア",
     tags: [ "enemy" ],
   },
