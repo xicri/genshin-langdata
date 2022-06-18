@@ -1,6 +1,7 @@
 {
   "name": "genshin-dictionary",
   "private": true,
+  "license": "SEE LICENSE IN LICENSE.md",
   "type": "module",
   "engines": {
     "node": ">=16.0.0",
