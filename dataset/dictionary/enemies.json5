@@ -781,6 +781,7 @@
   {
     en: "Whopperflower",
     ja: "トリックフラワー",
+    zh: “骗骗花”,
     variants: {
       en: [ "trickflower", "trick flower" ],
     },
@@ -789,6 +790,7 @@
   {
     en: "Pyro Whopperflower",
     ja: "トリックフラワー・炎",
+    zh: “炽热骗骗花”,
     pronunciationJa: "トリックフラワー・ほのお",
     variants: {
       en: [ "Pyro Trickflower", "Pyro Trick Flower" ],
@@ -798,6 +800,7 @@
   {
     en: "Cryo Whopperflower",
     ja: "トリックフラワー・氷",
+    zh: “冰霜骗骗花”,
     pronunciationJa: "トリックフラワー・こおり",
     variants: {
       en: [ "Cryo Trickflower", "Cryo Trick Flower" ],
@@ -807,22 +810,32 @@
   {
     en: "Electro Whopperflower",
     ja: "トリックフラワー・雷",
+    zh: “电气骗骗花”,
     pronunciationJa: "トリックフラワー・かみなり",
     variants: {
       en: [ "Electro Trickflower", "Electro Trick Flower" ],
+      zh: [ "雷骗骗花" ],
     },
     tags: [ "enemy" ],
   },
   {
     en: "Pyro Regisvine",
     ja: "爆炎樹",
+    zh: “爆炎树”,
     pronunciationJa: "ばくえんじゅ",
+    variants: {
+      zh: [ "火树" ],
+    }
     tags: [ "enemy-boss", "liyue" ],
   },
   {
     en: "Cryo Regisvine",
     ja: "急凍樹",
+    zh: “急冻树”,
     pronunciationJa: "きゅうとうじゅ",
+    variants: {
+      zh: [ "冰树" ],
+    }
     tags: [ "enemy-boss", "mondstadt" ],
   },
 
