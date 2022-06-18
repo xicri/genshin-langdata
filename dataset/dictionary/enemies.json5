@@ -1190,38 +1190,45 @@
   {
     en: "Shadowy Husk",
     ja: "シャドウハスク",
+    zh: “黯色空壳”,
     tags: [ "enemy" ],
   },
   {
     en: "Shadowy Husk: Standard Bearer",
     ja: "シャドウハスク・旗令",
+    zh: “黯色空壳·旗令”,
     tags: [ "enemy" ],
   },
   {
     en: "Shadowy Husk: Line Breaker",
     ja: "シャドウハスク・破陣",
+    zh: “黯色空壳·破阵”,
     tags: [ "enemy" ],
   },
   {
     en: "Shadowy Husk: Defender",
     ja: "シャドウハスク・守衛",
+    zh: “黯色空壳·近卫”,
     tags: [ "enemy" ],
   },
   {
     en: "Black Serpent Knight",
     ja: "黒蛇騎士",
+    zh: “黑蛇骑士”,
     pronunciationJa: "こくじゃきし",
     tags: [ "enemy" ],
   },
   {
     en: "Black Serpent Knight: Windcutter",
     ja: "黒蛇騎士・斬風の剣",
+    zh: “黑蛇骑士·斩风之剑”,
     pronunciationJa: "こくじゃきし・ざんぷうのけん",
     tags: [ "enemy" ],
   },
   {
     en: "The Black Serpents",
     ja: "黒蛇衆",
+    zh: “黑蛇众”,
     pronunciationJa: "こくじゃしゅう",
     tags: [ "enemy" ],
     notes: "シャドウハスクと黒蛇騎士の総称",
@@ -1230,6 +1237,7 @@
   {
     en: "Floating Hydro Fungus",
     ja: "プカプカ水キノコン",
+    zh: “浮游水蕈兽”,
     tags: [ "enemy" ], // TODO Check if it is really an enemy
     variants: {
       ja: [ "キノコン" ],
