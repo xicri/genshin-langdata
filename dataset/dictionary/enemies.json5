@@ -843,6 +843,7 @@
   {
     en: "Anemo Hypostasis",
     ja: "無相の風",
+    zh: “无相之风”,
     pronunciationJa: "むそうのかぜ",
     tags: [ "enemy-boss", "mondstadt" ],
     variants: {
@@ -852,12 +853,14 @@
   {
     en: "Beth",
     ja: "ベト",
+    zh: “贝特”,
     tags: [ "enemy-boss", "mondstadt" ],
     notes: "無相の風のコードネーム",
   },
   {
     en: "Electro Hypostasis",
     ja: "無相の雷",
+    zh: “无相之雷”,
     pronunciationJa: "むそうのかみなり",
     tags: [ "enemy-boss", "mondstadt" ],
     variants: {
@@ -867,12 +870,14 @@
   {
     en: "Aleph",
     ja: "アレフ",
+    zh: “阿莱夫”,
     tags: [ "enemy-boss", "mondstadt" ],
     notes: "無相の雷のコードネーム",
   },
   {
     en: "Geo Hypostasis",
     ja: "無相の岩",
+    zh: “无相之岩”,
     pronunciationJa: "むそうのいわ",
     tags: [ "enemy-boss", "liyue" ],
     variants: {
@@ -882,12 +887,14 @@
   {
     en: "Gimel",
     ja: "ギメル",
+    zh: “基末尔”,
     tags: [ "enemy-boss", "liyue" ],
     notes: "無相の岩のコードネーム",
   },
   {
     en: "Cryo Hypostasis",
     ja: "無相の氷",
+    zh: “无相之冰”,
     pronunciationJa: "むそうのこおり",
     tags: [ "enemy-boss", "dragonspine" ],
     variants: {
@@ -897,12 +904,14 @@
   {
     en: "Daleth",
     ja: "ダレット",
+    zh: “塔勒特”,
     tags: [ "enemy-boss", "dragonspine" ],
     notes: "無相の氷のコードネーム",
   },
   {
     en: "Pyro Hypostasis",
     ja: "無相の炎",
+    zh: “无相之火”,
     pronunciationJa: "むそうのほのお",
     tags: [ "enemy-boss", "inazuma" ],
     variants: {
@@ -912,12 +921,14 @@
   {
     en: "Ayin",
     ja: "アイン",
+    zh: “亚因”,
     tags: [ "enemy-boss", "inazuma" ],
     notes: "無相の炎のコードネーム",
   },
   {
     en: "Hydro Hypostasis",
     ja: "無相の水",
+    zh: “无相之水”,
     pronunciationJa: "むそうのみず",
     tags: [ "enemy-boss", "inazuma" ],
     variants: {
@@ -927,6 +938,7 @@
   {
     en: "He",
     ja: "ヒイ",
+    zh: “希伊”,
     tags: [ "enemy-boss", "inazuma" ],
     notes: "無相の水のコードネーム",
   },
