@@ -947,6 +947,7 @@
   {
     en: "Geovishap Hatchling",
     ja: "ベビーヴィシャップ・岩",
+    zh: “幼岩龙蜥”,
     tags: [ "enemy", "liyue" ],
     variants: {
       ja: [ "ベビーヴィシャップ" ],
@@ -955,12 +956,14 @@
   {
     en: "Geovishap",
     ja: "ヴィシャップ・岩",
+    zh: “岩龙蜥”,
     pronunciationJa: "ヴィシャップ・いわ",
     tags: [ "enemy", "liyue" ],
   },
   {
     en: "Primo Geovishap",
     ja: "エンシェントヴィシャップ・岩",
+    zh: “古岩龙蜥”,
     pronunciationJa: "エンシェントヴィシャップ・いわ",
     tags: [ "enemy-boss", "liyue" ],
     variants: {
@@ -970,32 +973,38 @@
   {
     en: "Bathysmal Vishap",
     ja: "アビサルヴィシャップ",
+    zh: “深海龙蜥”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Primordial Bathysmal Vishap",
     ja: "アビサルヴィシャップ・原種",
+    zh: “深海龙蜥·原种”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Rimebiter Bathysmal Vishap",
     ja: "アビサルヴィシャップ・噛氷",
+    zh: “深海龙蜥·啮冰”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Bolteater Bathysmal Vishap",
     ja: "アビサルヴィシャップ・呑雷",
+    zh: “深海龙蜥·吞雷”,
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Bathysmal Vishap Herd",
     ja: "アビサルヴィシャップの群れ",
+    zh: “深海龙蜥之群”,
     tags: [ "enemy-boss", "inazuma" ],
   },
 
   {
     en: "Oceanid / Lochfolk",
     ja: "純水精霊",
+    zh: “纯水精灵”,
     pronunciationJa: "じゅんすいせいれい",
     variants: {
       ja: [ "純粋精霊" ],
@@ -1005,11 +1014,13 @@
   {
     en: "Rhodeia",
     ja: "ローデシア",
+    zh: “洛蒂娅”,
     tags: [ "enemy-boss", "liyue" ],
   },
   {
     en: "Thunder Manifestation",
     ja: "雷音権現",
+    zh: “雷音权现”,
     pronunciationJa: "らいおんごんげん",
     tags: [ "enemy-boss", "inazuma" ],
   },
@@ -1017,24 +1028,28 @@
   {
     en: "Osial",
     ja: "オセル",
+    zh: “奥赛尔”,
     notes: "発音は「オサイアル」",
     tags: [ "enemy-boss", "liyue" ],
   },
   {
     en: "Overlord of the Vortex",
     ja: "渦の魔神",
+    zh: “漩涡之魔神”,
     pronunciationJa: "うずのまじん",
     tags: [ "title", "liyue" ],
   },
   {
     en: "Beisht",
     ja: "跋掣",
+    zh: “跋掣”,
     pronunciationJa: "ばっせい",
     tags: [ "enemy-boss", "liyue" ],
   },
   {
     en: "The Avenger of the Vortex",
     ja: "渦の余威",
+    zh: “漩涡的余威”,
     pronunciationJa: "うずのよい",
     tags: [ "title", "liyue" ],
   },
@@ -1042,24 +1057,28 @@
   {
     en: "Nobushi: Hitsukeban",
     ja: "野伏・火付番",
+    zh: “野伏·火附番”,
     pronunciationJa: "のぶし・ひつけばん",
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Nobushi: Jintouban",
     ja: "野伏・陣刀番",
+    zh: “野伏·阵刀番”,
     pronunciationJa: "のぶし・じんとうばん",
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Nobushi: Kikouban",
     ja: "野伏・機巧番",
+    zh: “野伏·机巧番”,
     pronunciationJa: "のぶし・きこうばん",
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Kairagi: Fiery Might",
     ja: "海乱鬼・炎威",
+    zh: “海乱鬼·炎威”,
     pronunciationJa: "かいらぎ・えんい", // TODO Need Check for 炎威's pronunciation
     notes: "「海乱鬼」は、史実では倭寇 (室町時代や安土桃山時代の日本の海賊) の別名。",
     tags: [ "enemy", "inazuma" ],
@@ -1067,6 +1086,7 @@
   {
     en: "Kairagi: Dancing Thunder",
     ja: "海乱鬼・雷騰",
+    zh: “海乱鬼·雷腾”,
     pronunciationJa: "かいらぎ・らいとう", // TODO Need Check for 雷騰's pronunciation
     notes: "「海乱鬼」は、史実では倭寇 (室町時代や安土桃山時代の日本の海賊) の別名。",
     tags: [ "enemy", "inazuma" ],
@@ -1074,6 +1094,7 @@
   {
     en: "Nobushi",
     ja: "野伏衆",
+    zh: “野伏众”,
     pronunciationJa: "のぶししゅう",
     notes: "海乱鬼・野伏の総称。",
     tags: [ "enemy", "inazuma" ],
@@ -1082,12 +1103,14 @@
   {
     en: "Maguu Kenki",
     ja: "魔偶剣鬼",
+    zh: “魔偶剑鬼”,
     pronunciationJa: "まぐうけんき",
     tags: [ "enemy-boss", "inazuma" ],
   },
   {
     en: "Perpetual Mechanical Array",
     ja: "恒常からくり陣形",
+    zh: “恒常机关阵列”,
     pronunciationJa: "こうじょうからくりじんけい",
     tags: [ "enemy-boss", "inazuma" ],
     notes: "perpetual とは「永久の」「永遠に続く」の意。\"perpetual motion machine\" で「永久機関」",
@@ -1096,13 +1119,18 @@
   {
     en: "Rifthound Whelp",
     ja: "獣域ウェルプ",
+    zh: “兽境幼兽”,
     pronunciationJa: "じゅういきウェルプ",
+    variants: {
+      zh: [ "小流血狗" ],
+    }
     notes: "whelp はイヌ科の動物の子供を指す語。",
     tags: [ "enemy" ],
   },
   {
     en: "Rockfond Rifthound Whelp",
     ja: "獣域ウェルプ・岩",
+    zh: “兽境幼兽·岩”,
     pronunciationJa: "じゅういきウェルプ・いわ",
     notes: "whelp はイヌ科の動物の子供を指す語。",
     tags: [ "enemy" ],
@@ -1110,6 +1138,7 @@
   {
     en: "Thundercraven Rifthound Whelp",
     ja: "獣域ウェルプ・雷",
+    zh: “兽境幼兽·雷”,
     pronunciationJa: "じゅういきウェルプ・かみなり",
     notes: "whelp は若いイヌ科の動物を指す語。",
     tags: [ "enemy" ],
@@ -1117,31 +1146,42 @@
   {
     en: "Rifthound",
     ja: "獣域ハウンド",
+    zh: “兽境猎犬”,
     pronunciationJa: "じゅういきハウンド",
+    variants: {
+      zh: [ "流血狗", "大流血狗" ],
+    }
     tags: [ "enemy" ],
   },
   {
     en: "Rockfond Rifthound",
     ja: "獣域ハウンド・岩",
+    zh: “兽境猎犬·岩”,
     pronunciationJa: "じゅういきハウンド・いわ",
     tags: [ "enemy" ],
   },
   {
     en: "Thundercraven Rifthound",
     ja: "獣域ハウンド・雷",
+    zh: “兽境猎犬·雷”,
     pronunciationJa: "じゅういきハウンド・かみなり",
     tags: [ "enemy" ],
   },
   {
     en: "Golden Wolflord",
     ja: "黄金王獣",
+    zh: “黄金王兽”,
     pronunciationJa: "おうごんおうじゅう",
     tags: [ "enemy", "inazuma" ],
   },
   {
     en: "Wolves of the Rift",
     ja: "獣域ウルブズ",
+    zh: “兽境猎犬”,
     pronunciationJa: "じゅういきウルブズ",
+    variants: {
+      zh: [ "流血狗" ],
+    }
     tags: [ "enemy" ],
     notes: "獣域ウェルプ・獣域ハウンドの総称。rift は岩などにできた裂け目の意。以前は英語版では Riftwolves という名称だった。",
   },
