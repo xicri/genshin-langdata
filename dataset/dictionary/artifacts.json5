@@ -122,7 +122,7 @@
     tags: [ "artifact" ],
     variants: {
       ja: [ "絶縁" ],
-      zh: [ "绝缘套" ]
+      zh: [ "绝缘套" ],
     },
   },
   {
@@ -375,7 +375,7 @@
     tags: [ "artifact" ],
     variants: {
       zh: [ "平雷套" ],
-    }
+    },
   },
   {
     en: "Tiny Miracle",

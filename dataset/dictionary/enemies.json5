@@ -825,7 +825,7 @@
     pronunciationJa: "ばくえんじゅ",
     variants: {
       zh: [ "火树" ],
-    }
+    },
     tags: [ "enemy-boss", "liyue" ],
   },
   {
@@ -835,7 +835,7 @@
     pronunciationJa: "きゅうとうじゅ",
     variants: {
       zh: [ "冰树" ],
-    }
+    },
     tags: [ "enemy-boss", "mondstadt" ],
   },
 
@@ -1123,7 +1123,7 @@
     pronunciationJa: "じゅういきウェルプ",
     variants: {
       zh: [ "小流血狗" ],
-    }
+    },
     notes: "whelp はイヌ科の動物の子供を指す語。",
     tags: [ "enemy" ],
   },
@@ -1150,7 +1150,7 @@
     pronunciationJa: "じゅういきハウンド",
     variants: {
       zh: [ "流血狗", "大流血狗" ],
-    }
+    },
     tags: [ "enemy" ],
   },
   {
@@ -1181,7 +1181,7 @@
     pronunciationJa: "じゅういきウルブズ",
     variants: {
       zh: [ "流血狗" ],
-    }
+    },
     tags: [ "enemy" ],
     notes: "獣域ウェルプ・獣域ハウンドの総称。rift は岩などにできた裂け目の意。以前は英語版では Riftwolves という名称だった。",
   },
