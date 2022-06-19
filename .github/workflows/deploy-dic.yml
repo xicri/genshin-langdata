@@ -10,7 +10,9 @@ jobs:
     if: ${{ github.event.check_run.name == 'Cloudflare Pages' && github.event.check_run.conclusion == 'success' && github.event.check_run.head_sha == github.sha }}
     timeout-minutes: 2
     runs-on: ubuntu-latest
+    env:
+      CFPAGES_REBUILD_HOOK: ${{ secrets.CFPAGES_REBUILD_HOOK }}
 
     steps:
       - name: Trigger genshin-dictionary deployment
-        run: curl -sS -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/736c32ff-d567-4f0a-910a-e12b87fe53cb"
+        run: curl -sS -X POST "${CFPAGES_REBUILD_HOOK}"
