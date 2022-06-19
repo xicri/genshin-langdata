@@ -12,8 +12,12 @@ import { jsonTo, loadJSONs } from "../libs/utils.js";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
-// skip on local env
-if (process.env.NODE_ENV !== "production" && process.env.NODE_ENV !== "preview") {
+if (
+  // skip on local env
+  (process.env.NODE_ENV !== "production" && process.env.NODE_ENV !== "preview") ||
+  // Skip on the PR from forked repository
+  (process.env.NODE_ENV === "preview" && !process.env.MINHON_API_KEY && !process.env.MINHON_API_SECRET && !process.env.MINHON_LOGIN_ID)
+) {
   throw new Error("Skipping updating MinHon glossaries");
 }
 
