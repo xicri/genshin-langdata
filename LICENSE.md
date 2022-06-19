@@ -1,5 +1,7 @@
 [日本語参考訳 (Japanese translation)](./LICENSE.ja.md)
 
+[简体中文参考翻译 (Simplified Chinese translation)](./LICENSE.zh-cn.md)
+
 The source code included in this repository is publicly visible. However, it is not licensed under the open source license defined by Open Source Initiative.
 This repository includes example sentences quoted from the game and Cognosphere and/or miHoYo owns their copyright.
 I believe quoting these sentences is legally compliant with Japanese copyright law article 32. However, I'm not sure if I can license this repository under an open source license. Therefore, I apply a custom license for this repository.
