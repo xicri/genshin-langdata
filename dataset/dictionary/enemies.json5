@@ -1130,7 +1130,7 @@
   {
     en: "Rockfond Rifthound Whelp",
     ja: "獣域ウェルプ・岩",
-    zh: "兽境幼兽·岩",
+    zh: "嗜岩·兽境幼兽",
     pronunciationJa: "じゅういきウェルプ・いわ",
     notes: "whelp はイヌ科の動物の子供を指す語。",
     tags: [ "enemy" ],
@@ -1138,7 +1138,7 @@
   {
     en: "Thundercraven Rifthound Whelp",
     ja: "獣域ウェルプ・雷",
-    zh: "兽境幼兽·雷",
+    zh: "嗜雷·兽境幼兽",
     pronunciationJa: "じゅういきウェルプ・かみなり",
     notes: "whelp は若いイヌ科の動物を指す語。",
     tags: [ "enemy" ],
@@ -1156,14 +1156,14 @@
   {
     en: "Rockfond Rifthound",
     ja: "獣域ハウンド・岩",
-    zh: "兽境猎犬·岩",
+    zh: "嗜岩·兽境猎犬",
     pronunciationJa: "じゅういきハウンド・いわ",
     tags: [ "enemy" ],
   },
   {
     en: "Thundercraven Rifthound",
     ja: "獣域ハウンド・雷",
-    zh: "兽境猎犬·雷",
+    zh: "嗜雷·兽境猎犬",
     pronunciationJa: "じゅういきハウンド・かみなり",
     tags: [ "enemy" ],
   },
@@ -1177,7 +1177,7 @@
   {
     en: "Wolves of the Rift",
     ja: "獣域ウルブズ",
-    zh: "兽境猎犬",
+    zh: "兽境之狼",
     pronunciationJa: "じゅういきウルブズ",
     variants: {
       zh: [ "流血狗" ],
