@@ -23,9 +23,22 @@ test("words[].id only includes alphanumerics & hypnens", async () => {
 });
 
 test("if dictionary JSON5s has no duplicate words", async () => {
-  for (const { id, en, ja } of words) {
+  for (const { id, en, ja, zh } of words) {
     ok(words.filter(word => word.en === en).length === 1, `Duplicate English: ${en}`);
-    ok(words.filter(word => word.ja === ja).length === 1, `Duplicate Japanese: ${ja}`);
+    if (ja) {
+      ok(
+        words.filter(word => word.ja === ja).length === 0 ||
+        words.filter(word => word.ja === ja).length === 1,
+        `Duplicate Japanese: ${ja}`
+      );
+    }
+    if (zh) {
+      ok(
+        words.filter(word => word.zh === zh).length === 0 ||
+        words.filter(word => word.zh === zh).length === 1,
+        `Duplicate Chinese: ${zh}`
+      );
+    }
 
     if (typeof id !== "undefined") {
       ok(words.filter(word => word.id === id).length === 1, `Duplicate ID: ${id}`);
@@ -39,7 +52,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
 
     // Required keys
     ok(keys.includes("en"), `Following word does not include English: ${JSON.stringify(word, null, 2)}`);
-    ok(keys.includes("ja"), `Following word does not include Japanese: ${JSON.stringify(word, null, 2)}`);
+    ok(keys.includes("zh") || keys.includes("ja"), `Following word does not include neither Japanese nor Chinese: ${JSON.stringify(word, null, 2)}`);
 
     // Check if invalid key exists
     for (const key of keys) {
@@ -47,6 +60,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "id" ||
         key === "en" ||
         key === "ja" ||
+        key === "zh" ||
         key === "pronunciationJa" ||
         key === "notes" ||
         key === "tags" ||
@@ -63,7 +77,8 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
       for (const variantsKey of Object.keys(word.variants)) {
         ok(
           variantsKey === "en" ||
-          variantsKey === "ja",
+          variantsKey === "ja" ||
+          variantsKey === "zh" ,
           `"variants.${variantsKey}" is not a valid key.`
         );
       }
@@ -102,6 +117,7 @@ Value of jaToEn: ${word._meta.translator.jaToEn}
           ok(
             exampleKey === "en" ||
             exampleKey === "ja" ||
+            exampleKey === "zh" ||
             exampleKey === "ref" ||
             exampleKey === "refURL",
             `"examples[].${exampleKey}" is not a valid key.`
@@ -118,7 +134,12 @@ test("if property values of dictionary JSON complies the format.", async () => {
   for (const word of words) {
     expect(typeof word.id).toBe("string");
     expect(typeof word.en).toBe("string");
-    expect(typeof word.ja).toBe("string");
+    if (word.ja) {
+      expect(typeof word.ja).toBe("string");
+    }
+    if (word.zh) {
+      expect(typeof word.zh).toBe("string");
+    }
 
     if (typeof word.notes !== "undefined") {
       expect(typeof word.notes).toBe("string");
@@ -137,18 +158,13 @@ test("if property values of dictionary JSON complies the format.", async () => {
     if (word.variants) {
       expect(typeof word.variants).toBe("object");
 
-      if (typeof word.variants?.en !== "undefined" && word.variants?.en !== null) {
-        ok(Array.isArray(word.variants.en), `word.variants.en should be array but actually ${word.variants.en}`);
+      for (const lang of [ "en", "ja", "zh" ]) {
+        if (typeof word.variants?.[lang] !== "undefined" && word.variants?.[lang] !== null) {
+          ok(Array.isArray(word.variants[lang]), `word.variants.${lang} should be array but actually ${word.variants[lang]}`);
 
-        for (const variant of word.variants.en) {
-          expect(typeof variant).toBe("string");
-        }
-      }
-      if (typeof word.variants?.ja !== "undefined" && word.variants?.ja !== null) {
-        ok(Array.isArray(word.variants.ja), `word.variants.en should be array but actually ${word.variants.ja}`);
-
-        for (const variant of word.variants.ja) {
-          expect(typeof variant).toBe("string");
+          for (const variant of word.variants[lang]) {
+            expect(typeof variant).toBe("string");
+          }
         }
       }
     }
@@ -157,6 +173,9 @@ test("if property values of dictionary JSON complies the format.", async () => {
       for (const example of word.examples) {
         expect(typeof example.en).toBe("string");
         expect(typeof example.ja).toBe("string");
+        if (example.zh) {
+          expect(typeof example.zh).toBe("string");
+        }
 
         if (typeof example.ref !== "undefined") {
           expect(typeof example.ref).toBe("string");
