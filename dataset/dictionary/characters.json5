@@ -5,6 +5,7 @@
   {
     en: "Aether",
     ja: "空",
+    zh: "空",
     pronunciationJa: "そら",
     notes: "男性主人公名。発音は「イーサー」。俗称として MC (Main Character の略?) と呼ばれることもある。",
     tags: [ "character-main" ],
@@ -12,6 +13,7 @@
   {
     en: "Lumine",
     ja: "蛍",
+    zh: "荧",
     pronunciationJa: "ほたる",
     notes: "女性主人公名。発音は「ルミーン」と思われるが諸説あり。俗称として MC (Main Character の略?) と呼ばれることもある。",
     tags: [ "character-main" ],
@@ -20,6 +22,7 @@
   {
     en: "Traveler",
     ja: "旅人",
+    zh: "旅行者",
     pronunciationJa: "たびびと",
     notes: "俗称として MC (Main Character の略?) と呼ばれることもある",
     tags: [ "title", "how-to-call" ],
@@ -27,6 +30,7 @@
   {
     en: "Honorary Knight",
     ja: "栄誉騎士",
+    zh: "荣誉骑士",
     pronunciationJa: "えいよきし",
     tags: [ "mondstadt", "title", "how-to-call" ],
   },
@@ -37,11 +41,13 @@
   {
     en: "Paimon",
     ja: "パイモン",
+    zh: "派蒙",
     tags: [ "character-sub" ],
   },
   {
     en: "Flying Lavender Melon",
     ja: "空飛ぶチビ助",
+    zh: "飞行堇瓜",
     pronunciationJa: "そらとぶちびすけ",
     tags: [ "title" ],
     notes: "荒瀧一斗がパイモンに付けたあだ名。Lavender Melon はスミレウリのこと。直訳すると「空飛ぶスミレウリ」",
@@ -49,22 +55,26 @@
   {
     en: "Sustainer of Heavenly Principles",
     ja: "天理の調停者",
+    zh: "天理的维系者",
     pronunciationJa: "てんりのちょうていしゃ",
     tags: [ "character-sub" ],
   },
   {
     en: "Katheryne",
     ja: "キャサリン",
+    zh: "凯瑟琳",
     tags: [ "character-sub" ],
   },
   {
     en: "Endora",
     ja: "エンドラー",
+    zh: "嫣朵拉",
     tags: [ "character-sub", "item" ],
   },
   {
     en: "Dandy",
     ja: "ダンディ",
+    zh: "丹迪",
     tags: [ "character-sub" ],
   },
 
@@ -74,44 +84,52 @@
   {
     en: "Jean Gunnhildr",
     ja: "ジン・グンヒルド",
+    zh: "琴·古恩希尔德",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Acting Grand Master",
     ja: "代理団長",
+    zh: "代理团长",
     pronunciationJa: "だいりだんちょう",
     tags: [ "mondstadt", "title" ],
   },
   {
     en: "Amber",
     ja: "アンバー",
+    zh: "安柏",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Outrider",
     ja: "偵察騎士",
+    zh: "侦察骑士",
     pronunciationJa: "ていさつきし",
     tags: [ "mondstadt", "title" ],
   },
   {
     en: "Baron Bunny",
     ja: "ウサギ伯爵",
+    zh: "兔兔伯爵",
     pronunciationJa: "ウサギはくしゃく",
     tags: [ "mondstadt" ],
   },
   {
     en: "Kaeya Alberich",
     ja: "ガイア・アルベリヒ",
+    zh: "凯亚·亚尔伯里奇",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Lisa Minci",
     ja: "リサ・ミンツ",
+    zh: "丽莎·敏兹",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "little cutie",
     ja: "可愛い子ちゃん",
+    zh: "小可爱",
     pronunciationJa: "かわいこちゃん",
     tags: [ "mondstadt", "how-to-call" ],
     notes: "リサの旅人に対する呼び方",
@@ -119,11 +137,13 @@
   {
     en: "Venti",
     ja: "ウェンティ",
+    zh: "温迪",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Tone-Deaf Bard",
     ja: "吟遊野郎",
+    zh: "卖唱的",
     pronunciationJa: "ぎんゆうやろう",
     tags: [ "mondstadt", "how-to-call" ],
     notes: "tone-deaf は「音痴の」の意",
@@ -131,38 +151,45 @@
   {
     en: "Razor",
     ja: "レザー",
+    zh: "雷泽",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Bennett",
     ja: "ベネット",
+    zh: "班尼特",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Noelle",
     ja: "ノエル",
+    zh: "诺艾尔",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Fischl von Luftschloss Narfidort",
     ja: "フィッシュル・ヴォン・ルフシュロス・ナフィードット",
+    zh: "菲谢尔·冯·露弗施洛斯·那菲多特",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Prinzessin der Verurteilung",
     ja: "断罪の皇女",
+    zh: "断罪之皇女",
     notes: "英語ではなくドイツ語",
     tags: [ "mondstadt", "title" ],
   },
   {
     en: "Amy",
     ja: "エミ",
+    zh: "艾米",
     notes: "フィッシュルの本名",
     tags: [ "mondstadt", "title" ],
   },
   {
     en: "Diluc Ragnvindr",
     ja: "ディルック・ラグヴィンド",
+    zh: "迪卢克·莱艮芬德",
     tags: [ "mondstadt", "character-main" ],
     variants: {
       ja: [ "ディルック・ラグウィンド" ],
@@ -171,12 +198,14 @@
   {
     en: "Klee",
     ja: "クレー",
+    zh: "可莉",
     notes: "読み方は「クリー」",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Miss Honorary Knight",
     ja: "栄誉騎士のお姉ちゃん",
+    zh: "荣誉骑士姐姐",
     notes: "クレーの蛍に対する呼び方",
     tags: [ "mondstadt", "how-to-call" ],
   },
@@ -184,17 +213,20 @@
   {
     en: "Jumpy Dumpty",
     ja: "ボンボン爆弾",
+    zh: "蹦蹦炸弹",
     pronunciationJa: "ボンボンばくだん",
     tags: [ "mondstadt" ],
   },
   {
     en: "Dodoco",
     ja: "ドドコ",
+    zh: "嘟嘟可",
     tags: [ "mondstadt" ],
   },
   {
     en: "confinement room",
     ja: "反省室",
+    zh: "禁闭室",
     pronunciationJa: "はんせいしつ",
     tags: [ "mondstadt" ],
     notes: "「反省室に閉じ込められる」は \"be grounded\"。",
@@ -207,28 +239,37 @@
   {
     en: "Diona",
     ja: "ディオナ",
+    zh: "迪奥娜",
     notes: "読みは「ダイオナ」",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Barbara Pegg",
     ja: "バーバラ・ペッチ / バーバラ・ペイジ",
+    zh: "芭芭拉·佩奇",
     tags: [ "mondstadt", "character-main" ],
-    notes: "姓については表記揺れあり。英語版の発音は「バーバラ・ペッグ」",
+    notes: "姓については表記揺れあり。英語版の発音は「バーバラ・ペッグ」。中国では姓は「ペッチ」「ペイジ」ではなく「グンヒルド」とする説が有力。",
+    // MARK:
+    // Barbara is considered as Barbara Gunnhildr in Chinese players
+    // as her full name seemly didn't appear in game and she describes Jean has her sister
+    // But here I use 佩奇, which is the translation of Pegg
   },
   {
     en: "Sucrose",
     ja: "スクロース",
+    zh: "砂糖",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Albedo",
     ja: "アルベド",
+    zh: "阿贝多",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Kreideprinz",
     ja: "白亜の申し子",
+    zh: "白垩之子",
     pronunciationJa: "はくあのもうしご",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドの称号",
@@ -236,6 +277,7 @@
   {
     en: "Chief Alchemist",
     ja: "首席錬金術師",
+    zh: "首席炼金术师",
     pronunciationJa: "しゅせきれんきんじゅつし",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドの西風騎士団における職名",
@@ -243,6 +285,7 @@
   {
     en: "Captain of the Investigation Team",
     ja: "調査小隊隊長",
+    zh: "调查小队队长",
     pronunciationJa: "ちょうさしょうたいたいちょう",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドの西風騎士団における職名",
@@ -250,6 +293,7 @@
   {
     en: "Calx",
     ja: "白亜",
+    zh: "白垩",
     pronunciationJa: "はくあ",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドのペンネーム",
@@ -257,23 +301,27 @@
   {
     en: "Astrologist Mona Megistus",
     ja: "アストローギスト・モナ・メギストス",
+    zh: "阿斯托洛吉斯·莫娜·梅姬斯图斯",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Rosaria",
     ja: "ロサリア",
+    zh: "罗莎莉亚",
     notes: "英語では「ロザリア」と発音される。カタカナで表すと崩壊 3rd のロザリア・アリーンと全く同名に見えるが、こちらは Rozaliya と綴る。",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Eula Lawrence",
     ja: "エウルア・ローレンス",
+    zh: "优菈·劳伦斯",
     notes: "英語での発音は「ユーラ」",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "Spindrift Knight",
     ja: "波花騎士",
+    zh: "浪花骑士",
     pronunciationJa: "なみばなきし",
     tags: [ "mondstadt", "title" ],
     notes: "エウルアの称号",
@@ -281,6 +329,7 @@
   {
     en: "Captain of the Reconnaissance Company",
     ja: "遊撃小隊隊長",
+    zh: "游击小队队长",
     pronunciationJa: "ゆうげきしょうたいたいちょう",
     tags: [ "mondstadt", "title" ],
     notes: "エウルアの西風騎士団における職名",
@@ -288,6 +337,7 @@
   {
     en: "aristocrat",
     ja: "旧貴族",
+    zh: "旧贵族",
     pronunciationJa: "きゅうきぞく",
     notes: "聖遺物ではなく、ローレンス家等を指す方の「旧貴族」。aristocrat は単に「貴族」の意で、「旧」の意味は省略されている。",
     tags: [ "mondstadt" ],
@@ -301,11 +351,13 @@
   {
     en: "Barbatos",
     ja: "バルバトス",
+    zh: "巴巴托斯",
     tags: [ "mondstadt", "title" ],
   },
   {
     en: "Anemo Archon",
     ja: "風神",
+    zh: "风神",
     tags: [ "mondstadt", "title" ],
     pronunciationJa: "ふうじん",
     notes: "Anemo God、God of Anemo などのように表記される場合もある。",
@@ -320,17 +372,20 @@
   {
     en: "Dvalin",
     ja: "トワリン",
+    zh: "特瓦林",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
   },
   {
     en: "Stormterror",
     ja: "風魔龍",
+    zh: "风魔龙",
     pronunciationJa: "ふうまりゅう",
     tags: [ "mondstadt", "enemy-boss", "title" ],
   },
   {
     en: "Caelestinum Finale Termini",
     ja: "終天のフィナーレ",
+    zh: "终天的闭幕曲",
     pronunciationJa: "しゅうてんのフィナーレ",
     notes: "トワリンの技、又はトワリン戦の曲名 (※曲名は日本語では「終焉のフィナーレ」となっている)",
     tags: [ "mondstadt" ],
@@ -338,17 +393,20 @@
   {
     en: "the Four Winds",
     ja: "四風守護",
+    zh: "四风守护",
     pronunciationJa: "しふうしゅご",
     tags: [ "mondstadt", "title" ],
   },
   {
     en: "Durin",
     ja: "ドゥリン",
+    zh: "杜林",
     tags: [ "mondstadt", "dragonspine", "character-sub" ],
   },
   {
     en: "Andrius",
     ja: "アンドリアス",
+    zh: "安德鲁斯",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
     notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
     variants: {
@@ -359,42 +417,53 @@
     en: "Boreas",
     ja: "ボレアス",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
-    notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
+    notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる。中国語版では「ボレアス」という名前はゲーム中に登場しない。英語版の \"Lupus Boreas, Dominator of Wolves\" (日本語では「北風の王狼、奔狼の領主」) を元にしていると思われる。",
+    // MARK:
+    // This Chinese word is not appeared in Chinese Game. This is the transliteration of Boreas.
+    // The original English \"Lupus Boreas, Dominator of Wolves\" is corresponding to
+    // \"北风的狼王，奔狼的领主\" in Chinese, and Boreas does not have a completely corresponded word in Chinese.
   },
   {
     en: "Dominator of Wolves",
     ja: "奔狼の領主",
+    zh: "奔狼的领主",
     pronunciationJa: "ほうろうのりょうしゅ",
     tags: [ "mondstadt", "enemy-boss", "title" ],
   },
   {
     en: "Alice",
     ja: "アリス",
+    zh: "艾丽丝",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Timaeus",
     ja: "ティマイオス",
+    zh: "蒂玛乌斯",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Hertha",
     ja: "ヘルター",
+    zh: "赫塔",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Ellin",
     ja: "エリン",
+    zh: "艾琳",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Timmie",
     ja: "ティミー",
+    zh: "提米",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Ella Musk",
     ja: "エラ・マスク",
+    zh: "艾拉·马斯克",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -405,72 +474,86 @@
   {
     en: "Dr. Edith",
     ja: "イーディス博士",
+    zh: "利文斯通博士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Reckless Pallad",
     ja: "うっかりパラド",
+    zh: "冒失的帕拉德",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Troubled Lianne",
     ja: "悩むリリアン",
+    zh: "苦恼的莉安",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Seamus Pegg",
     ja: "サイモン・ペッチ / サイモン・ペイジ",
+    zh: "西蒙·佩奇",
     tags: [ "mondstadt", "character-sub" ],
     notes: "姓については表記揺れあり。英語版の発音は「シーマス・ペッグ」",
   },
   {
     en: "Varka",
     ja: "ファルカ",
+    zh: "法尓伽",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Vennessa",
     ja: "ヴァネッサ",
+    zh: "温妮莎",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Wagner",
     ja: "ワーグナー",
+    zh: "瓦格纳",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Schulz",
     ja: "シュッツ",
+    zh: "舒茨",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Goth",
     ja: "ゲーテ",
+    zh: "歌德",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Jilliana",
     ja: "ジリアンナ",
+    zh: "吉丽安娜",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Victoria",
     ja: "ヴィクトリア",
+    zh: "维多利亚",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Viktor",
     ja: "ヴィクトル",
+    zh: "维克多",
     tags: [ "mondstadt", "snezhnaya", "character-sub" ],
   },
   {
     en: "Glory",
     ja: "グローリー",
+    zh: "葛罗丽",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Nantuck",
     ja: "ナンタック",
+    zh: "楠塔克",
     tags: [ "mondstadt", "character-sub" ],
   },
 
