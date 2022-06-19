@@ -12,13 +12,14 @@ import { jsonTo, loadJSONs } from "../libs/utils.js";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
-if (
-  // skip on local env
-  (process.env.NODE_ENV !== "production" && process.env.NODE_ENV !== "preview") ||
-  // Skip on the PR from forked repository
-  (process.env.NODE_ENV === "preview" && !process.env.MINHON_API_KEY && !process.env.MINHON_API_SECRET && !process.env.MINHON_LOGIN_ID)
-) {
+// skip on local env
+if (process.env.NODE_ENV !== "production" && process.env.NODE_ENV !== "preview") {
   throw new Error("Skipping updating MinHon glossaries");
+}
+// Skip on the PR from forked repository
+if (process.env.NODE_ENV === "preview" && !process.env.MINHON_API_KEY && !process.env.MINHON_API_SECRET && !process.env.MINHON_LOGIN_ID) {
+  console.info("Skipping updating MinHon glossaries due to missing credentials.");
+  process.exit(0);
 }
 
 //
