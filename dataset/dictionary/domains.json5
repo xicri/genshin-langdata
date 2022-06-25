@@ -81,6 +81,9 @@
     ja: "仲夏の庭園",
     zhCN: "仲夏庭园",
     pronunciationJa: "ちゅうかのていえん",
+    variants: {
+      zhCN: [ "雷本" ],
+    },
     tags: [ "mondstadt", "domain" ],
   },
   {
@@ -104,6 +107,9 @@
     zhCN: "铭记之谷",
     pronunciationJa: "めいきのたに",
     notes: "アカツキワイナリー南東にある秘境",
+    variants: {
+      zhCN: [ "风本", "少女本" ],
+    },
     tags: [ "mondstadt", "domain" ],
   },
   {
@@ -115,6 +121,7 @@
     tags: [ "dragonspine", "domain" ],
     variants: {
       ja: [ "ファンドニールの頂上", "ファンドニール" ],
+      zhCN: [ "冰本", "水本" ],
     },
   },
 
@@ -127,6 +134,9 @@
     zhCN: "山脊守望",
     pronunciationJa: "さんせきのみまもり",
     notes: "ドラゴンスパインと石門の間のあたりにある秘境",
+    variants: {
+      zhCN: [ "千岩本", "苍白本" ],
+    },
     tags: [ "mondstadt", "liyue", "domain" ],
   },
 
