@@ -1163,7 +1163,6 @@
   {
     en: "Antoha",
     ja: "アントハー",
-    zhCN: "安东",
     // Note: Antoha is a slang form of Anton, and there's no such difference in Chinese.
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
