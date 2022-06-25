@@ -794,7 +794,6 @@
     ja: "申鶴",
     zhCN: "申鹤",
     pronunciationJa: "しんかく",
-    // Pronunciataion of Chinese spelled in Japanese can be 「しぇんへぇ」, IMO. -- Bill Haku
     tags: [ "liyue", "character-main" ],
     notes: "発音は「シェンハ」",
   },
