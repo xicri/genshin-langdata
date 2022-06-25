@@ -17,7 +17,6 @@
   "dependencies": {
     "dotenv": "^16.0.0",
     "eslint": "latest",
-    "eslint-plugin-jsonc": "^2.2.1",
     "form-data": "^4.0.0",
     "iconv-lite": "^0.6.3",
     "jest": "^28.0.3",
