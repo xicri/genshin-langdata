@@ -281,6 +281,13 @@
     tags: [ "inazuma", "domain" ],
   },
   {
+    en: "Momiji-Dyed Court",
+    ja: "紅葉ノ庭",
+    zhCN: "椛染之庭",
+    pronunciationJa: "もみじノにわ",
+    tags: [ "inazuma", "domain" ],
+  },
+  {
     en: "Formation Estate",
     ja: "陣代屋敷",
     zhCN: "阵代屋敷",
@@ -324,6 +331,4 @@
     tags: [ "inazuma", "domain" ],
     notes: "禍津御建鳴神命戦の秘境名。",
   },
-
-  // TODO: Why there's no 椛染の庭? -- Bill Haku
 ]
