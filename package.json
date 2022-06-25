@@ -17,6 +17,7 @@
   "dependencies": {
     "dotenv": "^16.0.0",
     "eslint": "latest",
+    "eslint-config-xicri": "latest",
     "form-data": "^4.0.0",
     "iconv-lite": "^0.6.3",
     "jest": "^28.0.3",
@@ -26,8 +27,5 @@
     "luxon": "^2.3.0",
     "marked": "^4.0.12",
     "node-fetch": "^3.2.4"
-  },
-  "devDependencies": {
-    "eslint-config-xicri": "latest"
   }
 }
