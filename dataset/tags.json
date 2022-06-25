@@ -32,12 +32,12 @@
   "character-main": {
     "en": "Character (Playable)",
     "ja": "キャラ (プレイアブル)",
-    "title": "原神に登場するキャラ (プレイアブル)の英語表記一覧"
+    "title": "原神のプレイアブルキャラクターの英語表記一覧"
   },
   "character-sub": {
     "en": "Character (NPC)",
     "ja": "キャラ (NPC)",
-    "title": "原神に登場するキャラ (NPC)の英語表記一覧"
+    "title": "原神のキャラクター (NPC) の英語表記一覧"
   },
   "how-to-call": {
     "en": "How to call",
@@ -47,22 +47,22 @@
   "title": {
     "en": "Title / Other name",
     "ja": "称号・職名・別名等",
-    "title": "原神に登場する称号・職名・別名等の英語表記一覧"
+    "title": "原神における称号・職名・別名等の英語表記一覧"
   },
   "enemy": {
     "en": "Enemy",
     "ja": "敵",
-    "title": "原神に登場する敵の英語表記一覧"
+    "title": "原神の敵の英語表記一覧"
   },
   "enemy-boss": {
     "en": "Boss",
     "ja": "ボス",
-    "title": "原神に登場するボスの英語表記一覧"
+    "title": "原神のボスの英語表記一覧"
   },
   "location": {
     "en": "Location",
     "ja": "地名",
-    "title": "原神に登場する地名の英語表記一覧"
+    "title": "原神の地名の英語表記一覧"
   },
   "domain": {
     "en": "Domain",
@@ -87,32 +87,32 @@
   "quest-archon": {
     "en": "Archon Quest",
     "ja": "魔神任務",
-    "title": "原神に登場する魔神任務の英語表記一覧"
+    "title": "原神の魔神任務の英語表記一覧"
   },
   "quest-world": {
     "en": "World Quest",
     "ja": "世界任務",
-    "title": "原神に登場する世界任務の英語表記一覧"
+    "title": "原神の世界任務の英語表記一覧"
   },
   "quest-random": {
     "en": "Random Quest",
     "ja": "ランダムクエスト",
-    "title": "原神に登場するランダムクエストの英語表記一覧"
+    "title": "原神のランダムクエストの英語表記一覧"
   },
   "quest-story": {
     "en": "Story Quest",
     "ja": "伝説任務",
-    "title": "原神に登場する伝説任務の英語表記一覧"
+    "title": "原神の伝説任務の英語表記一覧"
   },
   "quest-daily": {
     "en": "Daily Commission",
     "ja": "デイリー依頼",
-    "title": "原神に登場するデイリー依頼の英語表記一覧"
+    "title": "原神のデイリー依頼の英語表記一覧"
   },
   "item": {
     "en": "Item",
     "ja": "アイテム",
-    "title": "原神に登場するアイテムの英語表記一覧"
+    "title": "原神のアイテムの英語表記一覧"
   },
   "specialty": {
     "en": "Local Specialty",
@@ -137,12 +137,12 @@
   "artifact": {
     "en": "Artifact",
     "ja": "聖遺物",
-    "title": "原神に登場する聖遺物の英語表記一覧"
+    "title": "原神の聖遺物の英語表記一覧"
   },
   "artifact-piece": {
     "en": "A Piece of Artifacts",
     "ja": "聖遺物（個別名）",
-    "title": "原神に登場する聖遺物の個別名の英語表記一覧"
+    "title": "原神の聖遺物の個別名の英語表記一覧"
   },
   "dialogue": {
     "en": "Dialogue",
