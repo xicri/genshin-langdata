@@ -2,30 +2,35 @@
   {
     en: "Domain",
     ja: "秘境",
+    zhCN: "秘境",
     pronunciationJa: "ひきょう",
     tags: [ "domain" ],
   },
   {
     en: "Domain of Forgery",
     ja: "煉武秘境",
+    zhCN: "炼武秘境",
     pronunciationJa: "れんぶひきょう",
     tags: [ "domain" ],
   },
   {
     en: "Domain of Blessing",
     ja: "祈聖秘境",
+    zhCN: "祝圣秘境",
     pronunciationJa: "きせいひきょう",
     tags: [ "domain" ],
   },
   {
     en: "Domain of Mastery",
     ja: "熟知秘境",
+    zhCN: "精通秘境",
     pronunciationJa: "じゅくちひきょう",
     tags: [ "domain" ],
   },
   {
     en: "Trounce Domain",
     ja: "征討領域",
+    zhCN: "征讨领域",
     pronunciationJa: "せいとうりょういき",
     tags: [ "domain", "enemy-boss" ],
     notes: "いわゆる「週ボス」(アンドリアスを除く) がいる秘境",
@@ -33,26 +38,31 @@
   {
     en: "Ley Line Disorder",
     ja: "地脈異常",
+    zhCN: "地脉异常",
     pronunciationJa: "ちみゃくいじょう",
   },
   {
     en: "Spiral Abyss",
     ja: "深境螺旋",
+    zhCN: "深境螺旋",
     pronunciationJa: "しんきょうらせん",
     variants: {
       ja: [ "深層", "しんそう" ],
+      zhCN: [ "深渊" ],
     },
     tags: [ "mondstadt", "domain" ],
   },
   {
     en: "Abyss Corridor",
     ja: "深境回廊",
+    zhCN: "深境回廊",
     pronunciationJa: "しんきょうかいろう",
     notes: "「第x層第y問」は「Floor x Chamber y」と表現する",
   },
   {
     en: "Moment of Syzygy",
     ja: "朔望の刻",
+    zhCN: "朔望之刻",
     pronunciationJa: "さくぼうのとき",
   },
 
