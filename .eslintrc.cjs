@@ -10,9 +10,6 @@ module.exports = {
     sourceType: "module",
   },
 
-  // top-levet await is not supported yet in ESLint 7
-  ignorePatterns: [ "scripts/build-json.mjs" ],
-
   rules: {
     "node/no-unpublished-import": "off",
   },
