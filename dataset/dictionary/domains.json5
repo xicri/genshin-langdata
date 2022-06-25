@@ -124,6 +124,7 @@
   {
     en: "Ridge Watch",
     ja: "山脊の見守り",
+    zhCN: "山脊守望",
     pronunciationJa: "さんせきのみまもり",
     notes: "ドラゴンスパインと石門の間のあたりにある秘境",
     tags: [ "mondstadt", "liyue", "domain" ],
