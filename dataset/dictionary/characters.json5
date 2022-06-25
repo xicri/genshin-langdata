@@ -835,17 +835,20 @@
   {
     en: "Madame Ping",
     ja: "ピンばあや",
+    zhCN: "萍姥姥",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
   },
   {
     en: "Uncle Tian",
     ja: "天おじ",
+    zhCN: "天叔",
     pronunciationJa: "てんおじ",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Tianshu",
     ja: "天枢",
+    zhCN: "天枢",
     pronunciationJa: "てんすう",
     tags: [ "liyue", "title" ],
     notes: "天おじの称号",
@@ -853,24 +856,28 @@
   {
     en: "Moon Carver",
     ja: "削月築陽真君",
+    zhCN: "削月筑阳真君",
     pronunciationJa: "さくげつちくようしんくん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Mountain Shaper",
     ja: "理水畳山真君",
+    zhCN: "理水叠山真君",
     pronunciationJa: "りすいじょうざんしんくん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Cloud Retainer",
     ja: "留雲借風真君",
+    zhCN: "留云借风真君",
     pronunciationJa: "りゅううんしゃくふうしんくん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Azhdaha",
     ja: "若陀龍王",
+    zhCN: "若陀龙王",
     pronunciationJa: "じゃくだりゅうおう",
     notes: "読みは「エイジダハ」",
     tags: [ "liyue", "character-sub", "enemy-boss" ],
@@ -880,23 +887,27 @@
   },
   {
     en: "Guoba",
+    zhCN: "锅巴",
     ja: "グゥオパァー",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Marchosius",
     ja: "マルコシアス",
+    zhCN: "马克修斯",
     tags: [ "liyue", "title" ],
   },
   {
     en: "God of the Stove",
     ja: "竈神",
+    zhCN: "灶神",
     pronunciationJa: "かまどがみ",
     tags: [ "liyue", "title" ],
   },
   {
     en: "Bosacius",
     ja: "浮舎",
+    zhCN: "浮舍",
     pronunciationJa: "ふしゃ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -904,6 +915,7 @@
   {
     en: "Marshal Vritras",
     ja: "騰蛇太元帥",
+    zhCN: "腾蛇太元帅",
     pronunciationJa: "とうだたいげんすい",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・浮舎の称号",
@@ -911,6 +923,7 @@
   {
     en: "Menogias",
     ja: "弥怒",
+    zhCN: "弥怒",
     pronunciationJa: "みぬ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -918,6 +931,7 @@
   {
     en: "General Kapisas",
     ja: "心猿大将",
+    zhCN: "心猿大将",
     pronunciationJa: "しんえんたいしょう",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・弥怒の称号",
@@ -925,6 +939,7 @@
   {
     en: "Bonanus",
     ja: "伐難",
+    zhCN: "伐难",
     pronunciationJa: "ばつなん",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -932,6 +947,7 @@
   {
     en: "General Chizapus",
     ja: "螺巻大将",
+    zhCN: "螺卷大将",
     pronunciationJa: "らかんたいしょう",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・伐難の称号",
@@ -939,6 +955,7 @@
   {
     en: "Indarias",
     ja: "応達",
+    zhCN: "应达",
     pronunciationJa: "おうたつ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -946,6 +963,7 @@
   {
     en: "General Musatas",
     ja: "火鼠大将",
+    zhCN: "火鼠大将",
     pronunciationJa: "かそたいしょう",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・応達の称号",
@@ -953,34 +971,40 @@
   {
     en: "Pervases",
     ja: "銅雀",
+    zhCN: "铜雀",
     pronunciationJa: "どうじゃく",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Wang Ping'an",
     ja: "平安",
+    zhCN: "王平安",
     pronunciationJa: "へいあん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Starsnatcher",
     ja: "掇星攫辰天君",
+    zhCN: "掇星攫辰天君",
     tags: [ "liyue", "title" ],
   },
   {
     en: "Chef Mao",
     ja: "卯師匠",
+    zhCN: "卯师傅",
     pronunciationJa: "うーししょう",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Bao'er",
     ja: "宝児",
+    zhCN: "宝儿",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Guizhong",
     ja: "帰終",
+    zhCN: "归终",
     pronunciationJa: "きしゅう",
     tags: [ "liyue", "character-sub" ],
     notes: "発音は「グウェィヂョン」([参考動画](https://youtu.be/p10yiwULJA8?t=179))",
@@ -988,27 +1012,32 @@
   {
     en: "Havria",
     ja: "ヘウリア",
+    zhCN: "赫乌利亚",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "God of Salt",
     ja: "塩の魔神",
+    zhCN: "盐之魔神",
     pronunciationJa: "しおのまじん",
     tags: [ "liyue", "title" ],
   },
   {
     en: "Verr Goldet",
     ja: "ヴェル・ゴレット",
+    zhCN: "菲尔戈黛特",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Huai'an",
     ja: "淮安",
+    zhCN: "淮安",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Smiley Yanxiao",
     ja: "言笑",
+    zhCN: "言笑",
     tags: [ "liyue", "character-sub" ],
     variants: {
       en: [ "Yanxiao" ],
@@ -1017,16 +1046,19 @@
   {
     en: "Jiangxue",
     ja: "江雪",
+    zhCN: "江雪",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Ms. Yu",
     ja: "シャオユウ",
+    zhCN: "小雨",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Hanfeng, \"Cold Blade\"",
     ja: "寒鋒",
+    zhCN: "寒锋",
     tags: [ "liyue", "character-sub" ],
     variants: {
       en: [ "Hanfeng" ],
@@ -1035,6 +1067,7 @@
   {
     en: "Master Zhang",
     ja: "章",
+    zhCN: "老章",
     tags: [ "liyue", "character-sub" ],
     variants: {
       en: [ "Zhang" ],
@@ -1043,16 +1076,19 @@
   {
     en: "Jifang",
     ja: "紀芳",
+    zhCN: "纪芳",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Tea Master Liu Su",
     ja: "茶博士劉蘇",
+    zhCN: "茶博士刘苏",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Fan Er'ye",
     ja: "範二",
+    zhCN: "范二爷",
     tags: [ "liyue", "character-sub" ],
   },
   // The Chasm
