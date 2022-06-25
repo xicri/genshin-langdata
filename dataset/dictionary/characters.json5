@@ -741,7 +741,7 @@
     ja: "煙緋",
     zhCN: "烟绯",
     pronunciationJa: "えんひ",
-    // Pronunciataion of Chinese spelled in Japanese can be 「いぇんふぇい」, IMO. -- Bill Haku
+    notes: "英語及び中国語の読みは「イェンフェイ」",
     tags: [ "liyue", "character-main" ],
   },
   // ▼▼ TODO Become a main character in the upcoming version? ▼▼
