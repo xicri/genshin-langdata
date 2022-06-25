@@ -256,53 +256,62 @@
   {
     en: "Violet Court",
     ja: "菫色ノ庭",
+    zhCN: "堇色之庭",
     pronunciationJa: "すみれいろノにわ",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Court of Flowing Sand",
     ja: "砂流ノ庭",
+    zhCN: "砂流之庭",
     pronunciationJa: "さりゅうノにわ",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Empty Boat of a Thousand Gates",
     ja: "千門の虚舟",
+    zhCN: "千门虚舟",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Shakkei Pavilion",
     ja: "借景ノ館",
+    zhCN: "借景之馆",
     pronunciationJa: "しゃっけいノやかた",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Formation Estate",
     ja: "陣代屋敷",
+    zhCN: "阵代屋敷",
     pronunciationJa: "じんだいやしき",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Palace in a Pool",
     ja: "池の中にある邸宅",
+    zhCN: "池中宅邸",
     pronunciationJa: "いけのなかにあるていたく",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Moshiri Kara",
     ja: "モシリの殻",
+    zhCN: "茂知之壳",
     pronunciationJa: "モシリのから",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Slumbering Court",
     ja: "熟眠ノ庭",
+    zhCN: "沉眠之庭",
     pronunciationJa: "じゅくみんのにわ",
     tags: [ "inazuma", "domain" ],
   },
   {
     en: "Narukami Island: Tenshukaku",
     ja: "鳴神島・天守",
+    zhCN: "鸣神岛·天守",
     pronunciationJa: "なるかみじま・てんしゅ",
     tags: [ "inazuma", "domain" ],
     notes: "シニョーラ戦の秘境名。",
@@ -310,8 +319,11 @@
   {
     en: "End of the Oneiric Euthymia",
     ja: "夢想楽土の結末",
+    zhCN: "梦想乐土之殁",
     pronunciationJa: "むそうらくどのけつまつ",
     tags: [ "inazuma", "domain" ],
     notes: "禍津御建鳴神命戦の秘境名。",
   },
+
+  // TODO: Why there's no 椛染の庭? -- Bill Haku
 ]
