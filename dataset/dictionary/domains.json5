@@ -72,24 +72,28 @@
   {
     en: "Cecilia Garden",
     ja: "セシリアの苗床",
+    zhCN: "塞西莉亚苗圃",
     pronunciationJa: "セシリアのなえどこ",
     tags: [ "mondstadt", "domain" ],
   },
   {
     en: "Midsummer Courtyard",
     ja: "仲夏の庭園",
+    zhCN: "仲夏庭园",
     pronunciationJa: "ちゅうかのていえん",
     tags: [ "mondstadt", "domain" ],
   },
   {
     en: "Temple of the Falcon",
     ja: "西風の鷹の神殿",
+    zhCN: "西风之鹰的庙宇",
     pronunciationJa: "セピュロスのたかのしんでん",
     tags: [ "mondstadt", "domain" ],
   },
   {
     en: "Forsaken Rift",
     ja: "忘却の峡谷",
+    zhCN: "忘却之峡",
     pronunciationJa: "ぼうきゃくのきょうこく",
     notes: "清泉町南にある秘境",
     tags: [ "mondstadt", "domain" ],
@@ -97,6 +101,7 @@
   {
     en: "Valley of Remembrance",
     ja: "銘記の谷",
+    zhCN: "铭记之谷",
     pronunciationJa: "めいきのたに",
     notes: "アカツキワイナリー南東にある秘境",
     tags: [ "mondstadt", "domain" ],
@@ -104,6 +109,7 @@
   {
     en: "Peak of Vindagnyr",
     ja: "フィンドニールの頂上",
+    zhCN: "芬德尼尔之顶",
     pronunciationJa: "フィンドニールのちょうじょう",
     notes: "ドラゴンスパイン頂上にある秘境",
     tags: [ "dragonspine", "domain" ],
