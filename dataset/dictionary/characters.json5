@@ -563,6 +563,7 @@
   {
     en: "Xiangling",
     ja: "香菱",
+    zhCN: "香菱",
     pronunciationJa: "シャンリン",
     notes: "[発音についての参考動画](https://youtu.be/p10yiwULJA8?t=303)",
     tags: [ "liyue", "character-main" ],
@@ -570,6 +571,7 @@
   {
     en: "Keqing",
     ja: "刻晴",
+    zhCN: "刻晴",
     pronunciationJa: "こくせい",
     notes: "読みは「クゥー(ァ)チン」([参考動画](https://youtu.be/p10yiwULJA8?t=288))",
     tags: [ "liyue", "character-main" ],
@@ -577,6 +579,7 @@
   {
     en: "Yuheng",
     ja: "玉衡",
+    zhCN: "玉衡",
     pronunciationJa: "ユーヘン",
     notes: "刻晴の称号",
     tags: [ "liyue", "title" ],
@@ -584,6 +587,7 @@
   {
     en: "Ningguang",
     ja: "凝光",
+    zhCN: "凝光",
     pronunciationJa: "ぎょうこう",
     notes: "発音は「ニィングアン」([参考動画](https://youtu.be/p10yiwULJA8?t=256))",
     tags: [ "liyue", "character-main" ],
@@ -591,6 +595,7 @@
   {
     en: "Tianquan",
     ja: "天権",
+    zhCN: "天权",
     pronunciationJa: "テンチュエン",
     notes: "凝光の称号",
     tags: [ "liyue", "title" ],
@@ -598,6 +603,7 @@
   {
     en: "Qiqi",
     ja: "七七",
+    zhCN: "七七",
     pronunciationJa: "なな",
     notes: "読みは「チィーチィー」([参考動画](https://youtu.be/p10yiwULJA8?t=283))",
     tags: [ "liyue", "character-main" ],
@@ -605,6 +611,7 @@
   {
     en: "Xingqiu",
     ja: "行秋",
+    zhCN: "行秋",
     pronunciationJa: "ゆくあき",
     notes: "読みは「シンチォウ」([参考動画](https://youtu.be/p10yiwULJA8?t=224))",
     tags: [ "liyue", "character-main" ],
@@ -612,6 +619,7 @@
   {
     en: "Zhenyu",
     ja: "枕玉",
+    zhCN: "枕玉",
     pronunciationJa: "ちんぎょく",
     notes: "行秋のペンネーム",
     tags: [ "liyue", "title" ],
@@ -619,6 +627,7 @@
   {
     en: "Chongyun",
     ja: "重雲",
+    zhCN: "重云",
     pronunciationJa: "ちょううん",
     notes: "読みは「チョンュイン」([参考動画](https://youtu.be/p10yiwULJA8?t=237))",
     tags: [ "liyue", "character-main" ],
@@ -626,6 +635,7 @@
   {
     en: "Beidou",
     ja: "北斗",
+    zhCN: "北斗",
     pronunciationJa: "ほくと",
     notes: "発音は「ベイドウ」([参考動画](https://youtu.be/p10yiwULJA8?t=248))",
     tags: [ "liyue", "character-main" ],
@@ -633,12 +643,14 @@
   {
     en: "Xinyan",
     ja: "辛炎",
+    zhCN: "辛焱",
     pronunciationJa: "しんえん",
     tags: [ "liyue", "character-main" ],
   },
   {
     en: "Zhongli",
     ja: "鍾離",
+    zhCN: "钟离",
     pronunciationJa: "しょうり",
     notes: "読みは「ヂョンリー」([参考動画](https://youtu.be/p10yiwULJA8?t=118))",
     tags: [ "liyue", "character-main" ],
@@ -649,6 +661,7 @@
   {
     en: "consultant",
     ja: "客卿",
+    zhCN: "客卿",
     pronunciationJa: "かっけい",
     tags: [ "liyue", "title" ],
     notes: "鍾離の往生堂における地位。guest と訳されている箇所もある。", // Source: v2.4「流るる星霜、華咲きて」特設ページ https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
@@ -656,6 +669,7 @@
   {
     en: "Mr. Zhongli",
     ja: "鍾離先生",
+    zhCN: "钟离先生",
     pronunciationJa: "しょうりせんせい",
     tags: [ "liyue", "how-to-call" ],
     notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。また、英語版で Mr. Zhongli と呼んでいても、日本語では「鍾離さん」となっている時もある: 鍾離のエピソード動画「想定外の支出」における香菱の発言 ([日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80)) など。",
@@ -663,6 +677,7 @@
   {
     en: "Xiao",
     ja: "魈",
+    zhCN: "魈",
     pronunciationJa: "しょう",
     notes: "発音は「シァオ」([参考動画](https://youtu.be/p10yiwULJA8?t=310))",
     tags: [ "liyue", "character-main" ],
@@ -670,6 +685,7 @@
   {
     en: "Conqueror of Demons",
     ja: "降魔大聖",
+    zhCN: "降魔大圣",
     pronunciationJa: "こうまたいせい",
     notes: "魈の称号",
     tags: [ "liyue", "title" ],
@@ -677,6 +693,7 @@
   {
     en: "Guardian Yaksha",
     ja: "護法夜叉",
+    zhCN: "护法夜叉",
     pronunciationJa: "ごほうやしゃ",
     // Source of Vigilant Yaksha: v2.4「流るる星霜、華咲きて」特設ページ https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
     notes: "魈の称号。「護法夜叉大将」(Vigilant Yaksha) と記される場合もある。",
@@ -685,6 +702,7 @@
   {
     en: "Alatus",
     ja: "金鵬",
+    zhCN: "金鹏",
     pronunciationJa: "きんほう",
     notes: "魈の称号",
     tags: [ "liyue", "title" ],
@@ -692,12 +710,15 @@
   {
     en: "Ganyu",
     ja: "甘雨",
+    zhCN: "甘雨",
     pronunciationJa: "かんう",
+    // Pronunciataion of Chinese spelled in Japanese can be 「がんゆー」,　IMO. -- Bill Haku
     tags: [ "liyue", "character-main" ],
   },
   {
     en: "qilin",
     ja: "麒麟",
+    zhCN: "麒麟",
     pronunciationJa: "きりん",
     tags: [ "liyue" ],
     examples: [{
@@ -711,19 +732,23 @@
     id: "hutao",
     en: "Hu Tao",
     ja: "胡桃",
+    zhCN: "胡桃",
     pronunciationJa: "フータオ",
     tags: [ "liyue", "character-main" ],
   },
   {
     en: "Yanfei",
     ja: "煙緋",
+    zhCN: "烟绯",
     pronunciationJa: "えんひ",
+    notes: "英語及び中国語の読みは「イェンフェイ」",
     tags: [ "liyue", "character-main" ],
   },
   // ▼▼ TODO Become a main character in the upcoming version? ▼▼
   {
     en: "Baizhu",
     ja: "白朮",
+    zhCN: "白术",
     pronunciationJa: "びゃくじゅつ",
     tags: [ "liyue", "character-sub" ],
     notes: "英語の発音は「バイジュ」",
@@ -731,29 +756,35 @@
   {
     en: "Dr. Baizhu",
     ja: "白先生",
+    zhCN: "白先生",
     tags: [ "liyue", "how-to-call" ],
     notes: "七七などからの白朮の呼び名",
   },
   {
     en: "Yaoyao",
     ja: "ヨォーヨ",
+    zhCN: "瑶瑶",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Xingyan",
     ja: "星燕",
+    zhCN: "星燕",
     tags: [ "liyue", "character-sub" ],
   },
   // ▲▲ TODO Become a main character in the upcoming version? ▲▲
   {
     en: "Yun Jin",
     ja: "雲菫",
+    zhCN: "云堇",
+    // Pronunciataion of Chinese spelled in Japanese can be 「ゆんじん」, IMO. -- Bill Haku
     pronunciationJa: "うんきん",
     tags: [ "liyue", "character-main" ],
   },
   {
     en: "Ms. Yun",
     ja: "雲先生 / 雲座頭",
+    zhCN: "云先生",
     pronunciationJa: "うんせんせい / うんざとう",
     tags: [ "liyue", "how-to-call" ],
     notes: "雲菫への敬称",
@@ -761,6 +792,7 @@
   {
     en: "Shenhe",
     ja: "申鶴",
+    zhCN: "申鹤",
     pronunciationJa: "しんかく",
     tags: [ "liyue", "character-main" ],
     notes: "発音は「シェンハ」",
@@ -768,23 +800,27 @@
   {
     en: "Yelan",
     ja: "夜蘭",
+    zhCN: "夜兰",
     pronunciationJa: "イェラン",
     tags: [ "liyue", "character-main" ],
   },
   {
     en: "Morax",
     ja: "モラクス",
+    zhCN: "摩拉克斯",
     tags: [ "liyue", "title" ],
   },
   {
     en: "Rex Lapis",
     ja: "岩王帝君",
+    zhCN: "岩王帝君",
     pronunciationJa: "がんおうていくん",
     tags: [ "liyue", "title", "how-to-call" ],
   },
   {
     en: "Geo Archon",
     ja: "岩神",
+    zhCN: "岩神",
     tags: [ "liyue", "title" ],
     pronunciationJa: "がんしん",
     variants: {
@@ -798,17 +834,20 @@
   {
     en: "Madame Ping",
     ja: "ピンばあや",
+    zhCN: "萍姥姥",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
   },
   {
     en: "Uncle Tian",
     ja: "天おじ",
+    zhCN: "天叔",
     pronunciationJa: "てんおじ",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Tianshu",
     ja: "天枢",
+    zhCN: "天枢",
     pronunciationJa: "てんすう",
     tags: [ "liyue", "title" ],
     notes: "天おじの称号",
@@ -816,24 +855,28 @@
   {
     en: "Moon Carver",
     ja: "削月築陽真君",
+    zhCN: "削月筑阳真君",
     pronunciationJa: "さくげつちくようしんくん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Mountain Shaper",
     ja: "理水畳山真君",
+    zhCN: "理水叠山真君",
     pronunciationJa: "りすいじょうざんしんくん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Cloud Retainer",
     ja: "留雲借風真君",
+    zhCN: "留云借风真君",
     pronunciationJa: "りゅううんしゃくふうしんくん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Azhdaha",
     ja: "若陀龍王",
+    zhCN: "若陀龙王",
     pronunciationJa: "じゃくだりゅうおう",
     notes: "読みは「エイジダハ」",
     tags: [ "liyue", "character-sub", "enemy-boss" ],
@@ -843,23 +886,27 @@
   },
   {
     en: "Guoba",
+    zhCN: "锅巴",
     ja: "グゥオパァー",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Marchosius",
     ja: "マルコシアス",
+    zhCN: "马克修斯",
     tags: [ "liyue", "title" ],
   },
   {
     en: "God of the Stove",
     ja: "竈神",
+    zhCN: "灶神",
     pronunciationJa: "かまどがみ",
     tags: [ "liyue", "title" ],
   },
   {
     en: "Bosacius",
     ja: "浮舎",
+    zhCN: "浮舍",
     pronunciationJa: "ふしゃ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -867,6 +914,7 @@
   {
     en: "Marshal Vritras",
     ja: "騰蛇太元帥",
+    zhCN: "腾蛇太元帅",
     pronunciationJa: "とうだたいげんすい",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・浮舎の称号",
@@ -874,6 +922,7 @@
   {
     en: "Menogias",
     ja: "弥怒",
+    zhCN: "弥怒",
     pronunciationJa: "みぬ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -881,6 +930,7 @@
   {
     en: "General Kapisas",
     ja: "心猿大将",
+    zhCN: "心猿大将",
     pronunciationJa: "しんえんたいしょう",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・弥怒の称号",
@@ -888,6 +938,7 @@
   {
     en: "Bonanus",
     ja: "伐難",
+    zhCN: "伐难",
     pronunciationJa: "ばつなん",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -895,6 +946,7 @@
   {
     en: "General Chizapus",
     ja: "螺巻大将",
+    zhCN: "螺卷大将",
     pronunciationJa: "らかんたいしょう",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・伐難の称号",
@@ -902,6 +954,7 @@
   {
     en: "Indarias",
     ja: "応達",
+    zhCN: "应达",
     pronunciationJa: "おうたつ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
@@ -909,6 +962,7 @@
   {
     en: "General Musatas",
     ja: "火鼠大将",
+    zhCN: "火鼠大将",
     pronunciationJa: "かそたいしょう",
     tags: [ "liyue", "title" ],
     notes: "仙衆夜叉・応達の称号",
@@ -916,34 +970,40 @@
   {
     en: "Pervases",
     ja: "銅雀",
+    zhCN: "铜雀",
     pronunciationJa: "どうじゃく",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Wang Ping'an",
     ja: "平安",
+    zhCN: "王平安",
     pronunciationJa: "へいあん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Starsnatcher",
     ja: "掇星攫辰天君",
+    zhCN: "掇星攫辰天君",
     tags: [ "liyue", "title" ],
   },
   {
     en: "Chef Mao",
     ja: "卯師匠",
+    zhCN: "卯师傅",
     pronunciationJa: "うーししょう",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Bao'er",
     ja: "宝児",
+    zhCN: "宝儿",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Guizhong",
     ja: "帰終",
+    zhCN: "归终",
     pronunciationJa: "きしゅう",
     tags: [ "liyue", "character-sub" ],
     notes: "発音は「グウェィヂョン」([参考動画](https://youtu.be/p10yiwULJA8?t=179))",
@@ -951,27 +1011,32 @@
   {
     en: "Havria",
     ja: "ヘウリア",
+    zhCN: "赫乌利亚",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "God of Salt",
     ja: "塩の魔神",
+    zhCN: "盐之魔神",
     pronunciationJa: "しおのまじん",
     tags: [ "liyue", "title" ],
   },
   {
     en: "Verr Goldet",
     ja: "ヴェル・ゴレット",
+    zhCN: "菲尔戈黛特",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Huai'an",
     ja: "淮安",
+    zhCN: "淮安",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Smiley Yanxiao",
     ja: "言笑",
+    zhCN: "言笑",
     tags: [ "liyue", "character-sub" ],
     variants: {
       en: [ "Yanxiao" ],
@@ -980,16 +1045,19 @@
   {
     en: "Jiangxue",
     ja: "江雪",
+    zhCN: "江雪",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Ms. Yu",
     ja: "シャオユウ",
+    zhCN: "小雨",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Hanfeng, \"Cold Blade\"",
     ja: "寒鋒",
+    zhCN: "寒锋",
     tags: [ "liyue", "character-sub" ],
     variants: {
       en: [ "Hanfeng" ],
@@ -998,6 +1066,7 @@
   {
     en: "Master Zhang",
     ja: "章",
+    zhCN: "老章",
     tags: [ "liyue", "character-sub" ],
     variants: {
       en: [ "Zhang" ],
@@ -1006,125 +1075,149 @@
   {
     en: "Jifang",
     ja: "紀芳",
+    zhCN: "纪芳",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Tea Master Liu Su",
     ja: "茶博士劉蘇",
+    zhCN: "茶博士刘苏",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Fan Er'ye",
     ja: "範二",
+    zhCN: "范二爷",
     tags: [ "liyue", "character-sub" ],
   },
   // The Chasm
   {
     en: "Jinwu",
     ja: "瑾武",
+    zhCN: "瑾武",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Yuehui",
     ja: "玥輝",
+    zhCN: "玥辉",
     pronunciationJa: "げつき",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Muning",
     ja: "沐寧",
+    zhCN: "沐宁",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Zhiqiong",
     ja: "志璇",
+    zhCN: "志璇",
     pronunciationJa: "しせん",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Taliesin",
     ja: "タリエシン",
+    zhCN: "塔列辛",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Khedive",
     ja: "ヘディーヴ",
+    zhCN: "海迪夫",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Clitopho",
     ja: "クレイトポン",
+    zhCN: "克里托夫",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Uncle He",
     ja: "何爺",
+    zhCN: "何爷",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Brass Bull Zhao",
     ja: "趙鉄牛",
+    zhCN: "赵铁牛",
     tags: [ "liyue", "character-sub", "enemy" ],
   },
   {
     en: "Chen the Flower",
     ja: "陳嬌花",
+    zhCN: "陈娇花",
     tags: [ "liyue", "character-sub", "enemy" ],
   },
   {
     en: "Anton Melnikov",
     ja: "アントン・メルニコフ",
+    zhCN: "安东",
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
   {
     en: "Antoha",
     ja: "アントハー",
+    // Note: Antoha is a slang form of Anton, and there's no such difference in Chinese.
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
   {
     en: "Ninth Company Brevet Commander",
     ja: "「第九中隊」臨時隊長",
+    zhCN: "「第九中队」临时队长",
     tags: [ "liyue", "snezhnaya", "title" ],
   },
   {
     en: "Temur",
     ja: "ティモール",
+    zhCN: "提莫尔",
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
   {
     en: "Danila",
     ja: "ダニーラ",
+    zhCN: "达尼拉",
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
   {
     en: "Radomir",
     ja: "ラドミール",
+    zhCN: "拉多米尔",
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
   {
     en: "Yanbo",
     ja: "彦博",
+    zhCN: "彦博",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Katarina",
     ja: "カタリナ",
+    zhCN: "卡塔琳娜",
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
   {
     en: "Xamaran",
     ja: "ザマラン",
+    zhCN: "赞玛兰",
     tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Qi Ding",
     ja: "戚定",
+    zhCN: "戚定",
     tags: [ "liyue", "character-sub" ],
     notes: "世界任務「巨淵の恩恵」で登場する、人形を探している鉱夫",
   },
   {
     en: "Boyang",
     ja: "伯陽",
+    zhCN: "伯阳",
     pronunciationJa: "はくよう",
     tags: [ "liyue", "character-sub" ],
     notes: "夜蘭の先祖",
