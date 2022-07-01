@@ -2126,54 +2126,67 @@
   {
     en: "Medaka",
     ja: "グッピー",
+    zhCN: "花鳉",
     tags: [ "item" ],
   },
   {
     en: "Glaze Medaka",
     ja: "琉璃グッピー",
+    zhCN: "琉璃花鳉",
     tags: [ "item" ],
   },
   {
     en: "Sweet-Flower Medaka",
     ja: "スイートグッピー",
+    zhCN: "甜甜花鳉",
     tags: [ "item" ],
   },
   {
     en: "Aizen Medaka",
     ja: "藍染グッピー",
+    zhCN: "蓝染花鳉",
     pronunciationJa: "あいぜんグッピー",
     tags: [ "item" ],
   },
   {
     en: "Crystalfish",
     ja: "水晶宴",
+    zhCN: "水晶宴",
     tags: [ "item" ],
   },
+  // Note: seems missing Dawncatcher, a type of Medaka that can be found as a pet for the sereniteapot
+  // Also, many other types of fishes are missing, you may need to complete them later.
+  // zhCN: "擒霞客"
   {
     en: "Betta",
     ja: "バトルトゲウオ",
+    zhCN: "斗棘鱼",
     tags: [ "item" ],
   },
   {
     en: "Brown Shirakodai",
     ja: "褐チョウチョウウオ",
+    zhCN: "流纹褐蝶鱼",
     tags: [ "item" ],
   },
   {
     en: "Tea-Colored Shirakodai",
     ja: "緑チョウチョウウオ",
+    zhCN: "流纹茶蝶鱼",
     pronunciationJa: "みどりチョウチョウウオ",
     tags: [ "item" ],
   },
   {
     en: "Pufferfish",
     ja: "鉄砲フグ",
+    zhCN: "炮鲀",
     pronunciationJa: "てっぽうフグ",
     tags: [ "item" ],
   },
   {
     en: "Bitter Pufferfish",
     ja: "苦鉄砲フグ",
+    zhCN: "苦炮鲀",
     tags: [ "item" ],
   },
 
