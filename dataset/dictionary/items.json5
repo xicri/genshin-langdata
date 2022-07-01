@@ -1067,18 +1067,21 @@
   {
     en: "Enhancement Ore",
     ja: "仕上げ用雑鉱",
+    zhCN: "精锻用杂矿",
     pronunciationJa: "しあげようざっこう",
     tags: [ "item" ],
   },
   {
     en: "Fine Enhancement Ore",
     ja: "仕上げ用良鉱",
+    zhCN: "精锻用良矿",
     pronunciationJa: "しあげようりょうこう",
     tags: [ "item" ],
   },
   {
     en: "Mystic Enhancement Ore",
     ja: "仕上げ用魔鉱",
+    zhCN: "精锻用魔矿",
     pronunciationJa: "しあげようまこう",
     tags: [ "item" ],
   },
