@@ -650,18 +650,21 @@
   {
     en: "Ashen Heart",
     ja: "灰燼の心",
+    zhCN: "灰烬之心",
     pronunciationJa: "かいじんのこころ",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Hellfire Butterfly",
     ja: "獄炎の蝶",
+    zhCN: "狱火之蝶",
     pronunciationJa: "ごくえんのちょう",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Molten Moment",
     ja: "溶滅の刻",
+    zhCN: "熔毁之刻",
     pronunciationJa: "ようめつのとき",
     tags: [ "levelup-material", "item" ],
   },
