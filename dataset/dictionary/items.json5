@@ -2326,18 +2326,21 @@
   {
     en: "Key of the Moon-bathed Deep",
     ja: "月浴淵の鍵",
+    zhCN: "月浴渊之钥",
     pronunciationJa: "げつよくえんのかぎ",
     tags: [ "item", "inazuma" ],
   },
   {
     en: "Reins of Revival",
     ja: "蘇生手綱",
+    zhCN: "苏生之辔",
     pronunciationJa: "そせいたづな",
     tags: [ "item", "inazuma" ],
   },
   {
     en: "Archaic Stone",
     ja: "老石",
+    zhCN: "老石",
     pronunciationJa: "ろうせき",
     tags: [ "item", "liyue" ],
   },
