@@ -2001,24 +2001,28 @@
   {
     en: "Mist Flower",
     ja: "霧氷花",
+    zhCN: "冰雾花",
     pronunciationJa: "むひょうばな",
     tags: [ "item" ],
   },
   {
     en: "Mist Flower Corolla",
     ja: "霧氷花の花蕊",
+    zhCN: "冰雾花花朵",
     pronunciationJa: "むひょうばなのかずい",
     tags: [ "item" ],
   },
   {
     en: "Flaming Flower",
     ja: "烈焔花",
+    zhCN: "烈焰花",
     pronunciationJa: "れつえんばな",
     tags: [ "item" ],
   },
   {
     en: "Flaming Flower Stamen",
     ja: "烈焔花の花蕊",
+    zhCN: "烈焰花花蕊",
     pronunciationJa: "れつえんばなのかずい",
     tags: [ "item" ],
   },
