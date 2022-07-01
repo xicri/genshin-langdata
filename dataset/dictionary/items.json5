@@ -606,18 +606,21 @@
   {
     en: "Tusk of Monoceros Caeli",
     ja: "呑天の鯨・只角",
+    zhCN: "吞天之鲸·只角",
     pronunciationJa: "どんてんのくじら・しかく",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Shard of a Foul Legacy",
     ja: "魔王の刃・残片",
+    zhCN: "魔王之刃·残片",
     pronunciationJa: "まおうのやいば・ざんぺん",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Shadow of the Warrior",
     ja: "武煉の魂・孤影",
+    zhCN: "武炼之魂·孤影",
     pronunciationJa: "ぶれんのたましい・こえい",
     tags: [ "levelup-material", "item" ],
   },
