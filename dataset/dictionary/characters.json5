@@ -1773,11 +1773,13 @@
   {
     en: "Lyney",
     ja: "リネ",
+    zhCN: "林尼",
     tags: [ "character-main" ],
   },
   {
     en: "Lynette",
     ja: "リネット",
+    zhCN: "琳妮特",
     tags: [ "character-main" ],
   },
 
