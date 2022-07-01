@@ -672,16 +672,19 @@
   {
     en: "Mudra of the Malefic General",
     ja: "凶将の手眼",
+    zhCN: "凶将之手眼",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Tears of the Calamitous God",
     ja: "禍神の禊涙",
+    zhCN: "祸神之禊泪",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "The Meaning of Aeons",
     ja: "万劫の真意",
+    zhCN: "万劫之真意",
     tags: [ "levelup-material", "item" ],
   },
 
