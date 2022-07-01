@@ -1230,27 +1230,35 @@
   {
     en: "Kaedehara Kazuha",
     ja: "楓原万葉",
+    zhCN: "枫原万叶",
     pronunciationJa: "かえではらかずは",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Yoimiya",
     ja: "宵宮",
+    zhCN: "宵宫",
     pronunciationJa: "よいみや",
+    variants: {
+      zhCN: [ "霄宫" ],
+    },
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Kamisato Ayaka",
     ja: "神里綾華",
+    zhCN: "神里绫华",
     pronunciationJa: "かみさとあやか",
     tags: [ "inazuma", "character-main" ],
     variants: {
       ja: [ "神里綾香" ],
+      zhCN: [ "神里凌华" ],
     },
   },
   {
     en: "milady / my lady",
     ja: "お嬢",
+    zhCN: "小姐",
     pronunciationJa: "おじょう",
     notes: "トーマの神里綾華に対する呼び方",
     tags: [ "inazuma", "how-to-call" ],
@@ -1258,12 +1266,17 @@
   {
     en: "Kamisato Ayato",
     ja: "神里綾人",
+    zhCN: "神里绫人",
     pronunciationJa: "かみさとあやと",
+    variants: {
+      zhCN: [ "神里凌人" ],
+    },
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "my lord",
     ja: "若",
+    zhCN: "家主大人",
     pronunciationJa: "わか",
     notes: "トーマの神里綾人に対する呼び方",
     tags: [ "inazuma", "how-to-call" ],
@@ -1271,6 +1284,7 @@
   {
     en: "Thoma",
     ja: "トーマ",
+    zhCN: "托马",
     tags: [ "inazuma", "character-main" ],
     variants: {
       ja: [ "トウマ" ],
@@ -1279,6 +1293,7 @@
   {
     en: "Kamisato Clan's housekeeper",
     ja: "神里家の家司",
+    zhCN: "神里家家政官",
     pronunciationJa: "かみさとけのけいし",
     notes: "神里家でのトーマの役職",
     tags: [ "inazuma", "title" ],
@@ -1286,6 +1301,7 @@
   {
     en: "fixer",
     ja: "顔役",
+    zhCN: "地头蛇",
     pronunciationJa: "かおやく",
     notes: "トーマは稲妻の「顔役」である。",
     tags: [ "inazuma", "title" ],
@@ -1293,24 +1309,28 @@
   {
     en: "Sayu",
     ja: "早柚",
+    zhCN: "早柚",
     pronunciationJa: "さゆ",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Yae Miko",
     ja: "八重神子",
+    zhCN: "八重神子",
     pronunciationJa: "やえみこ",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Arataki Itto",
     ja: "荒瀧一斗",
+    zhCN: "荒泷一斗",
     pronunciationJa: "あらたきいっと",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Arataki \"Numero Uno\" Itto",
     ja: "荒瀧・天下第一・一斗",
+    zhCN: "荒泷天下第一斗",
     pronunciationJa: "あらたき・てんかだいいち・いっと",
     tags: [ "inazuma", "title" ],
     notes: "Numero Uno はイタリア語で「ナンバーワン」の意。",
@@ -1318,6 +1338,7 @@
   {
     en: "Bull-Chucker",
     ja: "牛使い野郎",
+    zhCN: "放牛的",
     pronunciationJa: "うしつかいやろう",
     tags: [ "inazuma", "title" ],
     notes: "直訳は「牛を放り投げる者」",
@@ -1325,35 +1346,41 @@
   {
     en: "Ushi",
     ja: "丑雄",
+    zhCN: "阿丑",
     pronunciationJa: "うしお",
     tags: [ "inazuma", "character-sub" ],
   },
   {
     en: "Kuki Shinobu",
     ja: "久岐忍",
+    zhCN: "久岐忍",
     pronunciationJa: "くきしのぶ",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Gorou",
     ja: "ゴロー",
+    zhCN: "五郎",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Sangonomiya Kokomi",
     ja: "珊瑚宮心海",
+    zhCN: "珊瑚宫心海",
     pronunciationJa: "さんごのみやここみ",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Divine Priestess",
     ja: "現人神の巫女",
+    zhCN: "现人神巫女",
     pronunciationJa: "あらひとがみのみこ",
     tags: [ "inazuma", "title" ],
   },
   {
     en: "Her Excellency",
     ja: "(珊瑚宮心海や雷電将軍に対する尊称)",
+    zhCN: "（对珊瑚宫心海或雷电将军的尊称）",
     tags: [ "inazuma", "how-to-call" ],
     notes: "単に Her Excellency のみで主君を指したり、Her Excellency, Sangonomiya などのように名前の前に付けて用いたりする。一般用語でも、高貴な人物に対して [Her/His/Your] Excellency が用いられる。",
     examples: [
@@ -1372,34 +1399,43 @@
   {
     en: "Kujou Sara",
     ja: "九条裟羅",
+    zhCN: "九条裟罗",
     pronunciationJa: "くじょうさら",
+    variants: {
+      zhCN: [ "九条纱罗" ],
+    },
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Shikanoin Heizou",
     ja: "鹿野院平蔵",
+    zhCN: "鹿野院平藏",
     pronunciationJa: "しかのいんへいぞう",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Raiden Shogun",
     ja: "雷電将軍",
+    zhCN: "雷电将军",
     pronunciationJa: "らいでんしょうぐん",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Baal",
     ja: "バアル",
+    zhCN: "巴尔",
     tags: [ "inazuma", "title" ],
   },
   {
     en: "Beelzebul",
     ja: "バアルゼブル",
+    zhCN: "巴尔泽布",
     tags: [ "inazuma", "title" ],
   },
   {
     en: "Almighty Shogun",
     ja: "(雷電将軍に対する尊称)",
+    zhCN: "（对雷电将军的尊称）",
     tags: [ "inazuma", "how-to-call" ],
     notes: "一般的には「神よ、」などと呼びかける時に \"Almighty God, \" などと使う場合がある。",
     _meta: {
@@ -1409,6 +1445,7 @@
   {
     en: "Electro Archon",
     ja: "雷神",
+    zhCN: "雷神",
     tags: [ "inazuma", "title" ],
     pronunciationJa: "らいじん",
     notes: "雷電将軍のことを \"God\" と称するシーンがあることから、Electro God も間違いではないと思われる。",
@@ -1419,30 +1456,35 @@
   {
     en: "Plane of Euthymia",
     ja: "一心浄土",
+    zhCN: "一心净土",
     pronunciationJa: "いっしんじょうど",
     tags: [ "inazuma" ],
   },
   {
     en: "Musou Isshin",
     ja: "夢想の一心",
+    zhCN: "梦想一心",
     pronunciationJa: "むそうのいっしん",
     tags: [ "inazuma" ],
   },
   {
     en: "Ei",
     ja: "影",
+    zhCN: "影",
     pronunciationJa: "えい",
     tags: [ "inazuma", "character-main" ],
   },
   {
     en: "Makoto",
     ja: "眞",
+    zhCN: "真",
     pronunciationJa: "まこと",
     tags: [ "inazuma", "character-sub" ],
   },
   {
     en: "Magatsu Mitake Narukami no Mikoto",
     ja: "禍津御建鳴神命",
+    zhCN: "祸津御建鸣神命",
     pronunciationJa: "まがつみたけなるかみのみこと",
     tags: [ "inazuma", "title", "enemy-boss" ],
   },
