@@ -1807,6 +1807,7 @@
   {
     en: "Local Specialty",
     ja: "地域の特産",
+    zhCN: "地域特产",
     pronunciationJa: "ちいきのとくさん",
     tags: [ "specialty" ],
     notes: "単に「特産品」とも。",
@@ -1815,93 +1816,109 @@
   {
     en: "Calla Lily",
     ja: "ドドリアン",
+    zhCN: "嘟嘟莲",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   {
     en: "Cecilia",
     ja: "セシリアの花",
+    zhCN: "塞西莉亚花",
     pronunciationJa: "セシリアのはな",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   {
     en: "Dandelion Seed",
     ja: "蒲公英の種",
+    zhCN: "蒲公英籽",
     pronunciationJa: "たんぽぽのたね",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   {
     en: "Philanemo Mushroom",
     ja: "慕風のマッシュルーム",
+    zhCN: "慕风蘑菇",
     pronunciationJa: "ぼふうのマッシュルーム",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   {
     en: "Small Lamp Grass",
     ja: "イグサ",
+    zhCN: "小灯草",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   {
     en: "Valberry",
     ja: "ヴァルベリー",
+    zhCN: "落落莓",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   {
     en: "Windwheel Aster",
     ja: "風車アスター",
+    zhCN: "风车菊",
     pronunciationJa: "ふうしゃアスター",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   {
     en: "Wolfhook",
     ja: "ググプラム",
+    zhCN: "钩钩果",
     tags: [ "specialty", "item", "mondstadt" ],
   },
   // Liyue
   {
     en: "Glaze Lily",
     ja: "瑠璃百合",
+    zhCN: "琉璃百合",
     pronunciationJa: "るりゆり",
     tags: [ "specialty", "item", "liyue" ],
   },
   {
     en: "Qingxin",
     ja: "清心",
+    zhCN: "清心",
     pronunciationJa: "せいしん",
     tags: [ "specialty", "item", "liyue" ],
   },
   {
     en: "Silk Flower",
     ja: "霓裳花",
+    zhCN: "霓裳花",
     pronunciationJa: "げいしょうばな",
     tags: [ "specialty", "item", "liyue" ],
   },
   {
     en: "Violetgrass",
     ja: "瑠璃袋",
+    zhCN: "琉璃袋",
     pronunciationJa: "るりぶくろ",
     tags: [ "specialty", "item", "liyue" ],
   },
   {
     en: "Jueyun Chili",
     ja: "絶雲の唐辛子",
+    zhCN: "绝云椒椒",
     pronunciationJa: "ぜつうんのとうがらし",
     tags: [ "specialty", "item", "liyue" ],
   },
   {
     en: "Cor Lapis",
     ja: "石珀",
+    zhCN: "石珀",
     pronunciationJa: "せきはく",
     tags: [ "specialty", "item", "liyue" ],
   },
   {
     en: "Noctilucous Jade",
     ja: "夜泊石",
+    zhCN: "夜泊石",
     pronunciationJa: "よどまりいし",
     tags: [ "specialty", "item", "liyue" ],
   },
   {
     en: "Starconch",
     ja: "星螺",
+    zhCN: "星螺",
     pronunciationJa: "せいら",
     tags: [ "specialty", "item", "liyue" ],
   },
@@ -1909,11 +1926,13 @@
   {
     en: "Sea Ganoderma",
     ja: "ウミレイシ",
+    zhCN: "海灵芝",
     tags: [ "specialty", "item", "inazuma" ],
   },
   {
     en: "Sakura Bloom",
     ja: "緋櫻毬",
+    zhCN: "绯樱绣球",
     pronunciationJa: "ひおうきゅう",
     tags: [ "specialty", "item", "inazuma" ],
     variants: {
@@ -1923,6 +1942,7 @@
   {
     en: "Naku Weed",
     ja: "鳴草",
+    zhCN: "鸣草",
     pronunciationJa: "なぐさ",
     tags: [ "specialty", "item", "inazuma" ],
     variants: {
@@ -1932,6 +1952,7 @@
   {
     en: "Dendrobium",
     ja: "血石華",
+    zhCN: "血斛",
     tags: [ "specialty", "item", "inazuma" ],
   },
   {
@@ -1943,29 +1964,34 @@
   {
     en: "Onikabuto",
     ja: "オニカブトムシ",
+    zhCN: "鬼兜虫",
     tags: [ "specialty", "item", "inazuma" ],
   },
   {
     en: "Crystal Marrow",
     ja: "晶化骨髄",
+    zhCN: "晶化骨髓",
     pronunciationJa: "しょうかこつずい",
     tags: [ "specialty", "item", "inazuma" ],
   },
   {
     en: "Amakumo Fruit",
     ja: "天雲草の実",
+    zhCN: "天云草实",
     pronunciationJa: "あまくもくさのみ",
     tags: [ "specialty", "item", "inazuma" ],
   },
   {
     en: "Sango Pearl",
     ja: "珊瑚真珠",
+    zhCN: "珊瑚真珠",
     pronunciationJa: "さんごしんじゅ",
     tags: [ "specialty", "item", "inazuma" ],
   },
   {
     en: "Fluorescent Fungus",
     ja: "ユウトウタケ",
+    zhCN: "幽灯蕈",
     tags: [ "specialty", "item", "inazuma" ],
   },
 
