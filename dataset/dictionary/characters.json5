@@ -1743,22 +1743,26 @@
   {
     en: "Cyno",
     ja: "セノ",
+    zhCN: "赛诺",
     tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Collei",
     ja: "コレイ",
+    zhCN: "柯莱",
     tags: [ /* TODO "sumeru", */ "character-sub" ],
   },
   {
     en: "Lesser Load Kusanali",
     ja: "クラクサナリデビ",
+    zhCN: "小吉祥草王",
     tags: [ "sumeru", "title" ],
   },
   // TODO Need confirmation
   {
     en: "Dendro Archon",
     ja: "草神",
+    zhCN: "草神",
     tags: [ "sumeru", "title" ],
     pronunciationJa: "そうじん",
   },
