@@ -563,18 +563,21 @@
   {
     en: "Dvalin's Plume",
     ja: "東風の羽根",
+    zhCN: "东风之翎",
     pronunciationJa: "とうふうのはね",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Dvalin's Claw",
     ja: "東風の爪",
+    zhCN: "东风之爪",
     pronunciationJa: "とうふうのつめ",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Dvalin's Sigh",
     ja: "東風の吐息",
+    zhCN: "东风的吐息",
     pronunciationJa: "とうふうのといき",
     tags: [ "levelup-material", "item" ],
   },
