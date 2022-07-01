@@ -585,18 +585,21 @@
   {
     en: "Tail of Boreas",
     ja: "北風のしっぽ",
+    zhCN: "北风之尾",
     pronunciationJa: "きたかぜのしっぽ",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Ring of Boreas",
     ja: "北風のリング",
+    zhCN: "北风之环",
     pronunciationJa: "きたかぜのリング",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Spirit Locket of Boreas",
     ja: "北風の魂箱",
+    zhCN: "北风的魂匣",
     tags: [ "levelup-material", "item" ],
   },
   // 公子タルタリヤ
