@@ -1800,6 +1800,7 @@
   {
     en: "Tartaglia",
     ja: "タルタリヤ",
+    zhCN: "达达利亚",
     tags: [ "snezhnaya", "liyue", "character-main", "enemy-boss" ],
     variants: {
       ja: [ "タルタリア", "タルタル" ],
@@ -1808,6 +1809,7 @@
   {
     en: "Childe",
     ja: "公子",
+    zhCN: "公子",
     pronunciationJa: "こうし",
     notes: "英語圏では Tartaglia よりも Childe と呼ばれることが多い印象。",
     tags: [ "snezhnaya", "liyue", "character-main", "title", "how-to-call", "enemy-boss" ],
@@ -1815,22 +1817,26 @@
   {
     en: "Ajax",
     ja: "アヤックス",
+    zhCN: "阿贾克斯",
     tags: [ "snezhnaya", "liyue", "character-main", "title" ],
   },
   {
     en: "comrade",
     ja: "相棒",
+    zhCN: "伙伴",
     notes: "タルタリヤの旅人に対する呼び方",
     tags: [ "snezhnaya", "liyue", "how-to-call" ],
   },
   {
     en: "Foul Legacy Transformation",
     ja: "魔王武装",
+    zhCN: "魔王武装",
     tags: [ "snezhnaya", "liyue" ],
   },
   {
     en: "Signora",
     ja: "淑女 / シニョーラ",
+    zhCN: "女士",
     pronunciationJa: "しゅくじょ / シニョーラ",
     tags: [ "snezhnaya", "inazuma", "enemy-boss", "character-sub" ],
     notes: "\"La Signora\" と、フランス語の定冠詞 \"La\" を付けて表記されることも。「淑女」の訳として \"The Fair Lady\" が当てられているように見える箇所もあるが、一般に他のキャラクターから「淑女」と呼ばれる際は、英語版では \"Signora\" と呼ばれており、また「シニョーラ」とコードネーム「淑女」の区別もないものとして扱われているため、ここでは「淑女」の訳として \"Signora\" を当てた。",
@@ -1843,46 +1849,57 @@
   {
     en: "Rosalyne-Kruzchka Lohefalter",
     ja: "ロザリン・クルーズチカ・ローエファルタ",
+    zhCN: "罗莎琳·克鲁兹希卡·洛厄法特",
     tags: [ "snezhnaya", "inazuma", "enemy-boss", "character-sub" ],
   },
   {
     en: "Crimson Witch of Embers",
     ja: "焚尽の灼炎魔女",
+    zhCN: "焚尽的炽炎魔女",
     pronunciationJa: "ふんじんのしゃくえんまじょ",
     tags: [ "snezhnaya", "inazuma", "enemy-boss", "title" ],
   },
   {
     en: "Crimson Lotus Moth",
     ja: "紅蓮蛾",
+    zhCN: "红莲蛾",
     pronunciationJa: "ぐれんが",
     tags: [ "object", "snezhnaya", "inazuma" ],
   },
   {
     en: "Scaramouche",
     ja: "スカラマシュ",
+    zhCN: "丑角",
+    // Note: the frequently used name to call Scaramouche in Chinese is 散兵,
+    // and 丑角 is his title as a member of the 11 Fatui harbingers.
+    // Similar to Tartaglia of Childe
     tags: [ "snezhnaya", "inazuma", "character-sub" ],
   },
   {
     en: "Balladeer",
     ja: "散兵",
+    zhCN: "散兵",
     pronunciationJa: "ざんひょう",
     tags: [ "snezhnaya", "inazuma", "character-sub", "title" ],
   },
   {
     en: "Kunikuzushi",
     ja: "国崩",
+    zhCN: "国崩",
     pronunciationJa: "くにくずし",
     tags: [ "snezhnaya", "inazuma", "title" ],
   },
   {
     en: "Regrator",
     ja: "富者",
+    zhCN: "富人",
     pronunciationJa: "ふしゃ",
     tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Il Dotorre",
     ja: "博士",
+    zhCN: "博士",
     tags: [ "snezhnaya", "character-sub", "title" ],
     variants: {
       ja: [ "はくし", "はかせ" ], // TODO Check which is correct when appeared in the story
@@ -1891,11 +1908,13 @@
   {
     en: "Pulcinella",
     ja: "プルチネラ",
+    zhCN: "「公鸡」普契涅拉",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
     en: "Tsaritsa",
     ja: "(スネージナヤの) 女皇",
+    zhCN: "冰之女皇",
     pronunciationJa: "じょこう",
     notes: "原義はロシアなどにおける女王や王妃に対する尊称。ツァーリ (Tsar) の女性形。",
     tags: [ "snezhnaya", "character-sub" ],
@@ -1903,6 +1922,7 @@
   {
     en: "Cryo Archon",
     ja: "氷神",
+    zhCN: "冰神",
     tags: [ "snezhnaya", "title" ],
     pronunciationJa: "ひょうじん",
     variants: {
@@ -1912,6 +1932,7 @@
   {
     en: "Teucer",
     ja: "テウセル",
+    zhCN: "托克",
     tags: [ "snezhnaya", "liyue", "character-sub" ],
   },
 
