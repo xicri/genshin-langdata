@@ -628,18 +628,21 @@
   {
     en: "Dragon Load's Crown",
     ja: "龍王の冠",
+    zhCN: "龙王之冕",
     pronunciationJa: "りゅうおうのかんむり",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Bloodjade Branch",
     ja: "血玉の枝",
+    zhCN: "血玉之枝",
     pronunciationJa: "けつぎょくのえだ",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Gilded Scale",
     ja: "鍍金の鱗",
+    zhCN: "鎏金之鳞",
     pronunciationJa: "ときんのうろこ",
     tags: [ "levelup-material", "item" ],
   },
