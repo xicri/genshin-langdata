@@ -1942,17 +1942,20 @@
   {
     en: "Dainsleif",
     ja: "ダインスレイヴ",
+    zhCN: "戴因斯雷布",
     tags: [ "character-sub" ],
   },
   {
     en: "Dain",
     ja: "ダイン",
+    zhCN: "戴因",
     notes: "ダインスレイヴ (Dainsleif) の呼び名",
     tags: [ "how-to-call" ],
   },
   {
     en: "Twilight Sword",
     ja: "末光の剣",
+    zhCN: "末光之剑",
     pronunciationJa: "まっこうのつるぎ",
     notes: "ダインスレイヴ (Dainsleif) の称号",
     tags: [ "title" ],
@@ -1961,6 +1964,7 @@
   {
     en: "Halfdan",
     ja: "ハールヴダン",
+    zhCN: "哈夫丹",
     tags: [ "character-sub" ],
     notes: "発音は「ハーフダン」",
   },
