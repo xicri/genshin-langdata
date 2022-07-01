@@ -427,18 +427,21 @@
   {
     en: "Wanderer's Advice",
     ja: "流浪者の経験",
+    zhCN: "流浪者的经验",
     pronunciationJa: "るろうしゃのけいけん",
     tags: [ "item" ],
   },
   {
     en: "Adventurer's Experience",
     ja: "冒険家の経験",
+    zhCN: "冒险家的经验",
     pronunciationJa: "ぼうけんかのけいけん",
     tags: [ "item" ],
   },
   {
     en: "Hero's Wit",
     ja: "大英雄の経験",
+    zhCN: "大英雄的经验",
     pronunciationJa: "だいえいゆうのけいけん",
     tags: [ "item" ],
   },
