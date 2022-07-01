@@ -469,12 +469,13 @@
   {
     en: "Dr. Livingstone",
     ja: "リヴィングストン博士",
+    zhCN: "利文斯通博士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Dr. Edith",
     ja: "イーディス博士",
-    zhCN: "利文斯通博士",
+    zhCN: "艾迪丝博士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
