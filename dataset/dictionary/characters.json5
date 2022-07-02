@@ -1907,8 +1907,15 @@
   {
     en: "Pulcinella",
     ja: "プルチネラ",
-    zhCN: "「公鸡」普契涅拉",
+    zhCN: "普契涅拉",
     tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Rooster",
+    ja: "雄鶏",
+    zhCN: "公鸡",
+    notes: "プルチネラの称号。公式に発表されているのは中国語と日本語だけで、英語の Rooster は非公式訳。",
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Tsaritsa",
