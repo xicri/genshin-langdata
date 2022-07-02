@@ -2154,9 +2154,11 @@
     zhCN: "水晶宴",
     tags: [ "item" ],
   },
-  // Note: seems missing Dawncatcher, a type of Medaka that can be found as a pet for the sereniteapot
-  // Also, many other types of fishes are missing, you may need to complete them later.
-  // zhCN: "擒霞客"
+  {
+    en: "Dawncatcher",
+    zhCN: "擒霞客",
+    tags: [ "item" ],
+  },
   {
     en: "Betta",
     ja: "バトルトゲウオ",
