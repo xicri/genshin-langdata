@@ -1870,9 +1870,7 @@
     en: "Scaramouche",
     ja: "スカラマシュ",
     zhCN: "丑角",
-    // Note: the frequently used name to call Scaramouche in Chinese is 散兵,
-    // and 丑角 is his title as a member of the 11 Fatui harbingers.
-    // Similar to Tartaglia of Childe
+    notes: "中国のプレイヤーの間では「スカラマシュ」(丑角) よりも「散兵」の名で呼ばれることが多い。",
     tags: [ "snezhnaya", "inazuma", "character-sub" ],
   },
   {
@@ -1880,6 +1878,7 @@
     ja: "散兵",
     zhCN: "散兵",
     pronunciationJa: "ざんひょう",
+    notes: "中国のプレイヤーの間では「スカラマシュ」(丑角) よりも「散兵」の名で呼ばれることが多い。",
     tags: [ "snezhnaya", "inazuma", "character-sub", "title" ],
   },
   {
