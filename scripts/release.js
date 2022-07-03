@@ -44,6 +44,10 @@ for (const word of words) {
     continue;
   }
 
+  if (!(word.en && word.ja)) {
+    continue;
+  }
+
   enToJaTranslations.push({
     en: word.en,
     ja: word.ja,
@@ -72,6 +76,10 @@ let jaToEnTranslations = [];
 
 for (const word of words) {
   if (word._meta?.translator === false || word._meta?.translator?.jaToEn === false) {
+    continue;
+  }
+
+  if (!(word.en && word.ja)) {
     continue;
   }
 
