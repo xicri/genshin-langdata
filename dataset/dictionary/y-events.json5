@@ -135,6 +135,46 @@
     tags: [ "event", "character-sub" ],
   },
 
+  {
+    en: "Hosseini",
+    ja: "ホッセイニ",
+    notes: "いくつかの期間限定イベントで登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+
+  //
+  // v2.8
+  //
+  {
+    en: "Summertime Odyssey",
+    ja: "サマータイムオデッセイ",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Evermotion Mechanical Painting",
+    ja: "からくり械画",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Reminiscent Regimen",
+    ja: "追憶練行",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Hidden Strife",
+    ja: "残像暗戦",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Resonating Visions",
+    ja: "幻声留形",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
 
   //
   // v2.7
@@ -152,10 +192,22 @@
     tags: [ "event" ],
   },
   {
+    en: "Bertrand",
+    ja: "バートランド",
+    notes: "v2.7 期間限定イベント「炉心機造」で登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "The Almighty Arataki Great and Glorious Drumalong Festival",
     ja: "荒瀧極上盛世豪鼓大祭典",
     notes: "v2.7 期間限定イベント",
     tags: [ "event" ],
+  },
+  {
+    en: "Arataki's Great and Glorious Drum",
+    ja: "荒瀧・盛世豪鼓",
+    notes: "v2.7 期間限定イベント「荒瀧極上盛世豪鼓大祭典」で入手できる、演奏用の太鼓。",
+    tags: [ "event", "item" ],
   },
 
   //
@@ -571,35 +623,35 @@
     en: "Golden Apple Archipelago",
     ja: "金リンゴ群島",
     pronunciationJa: "きんリンゴぐんとう",
-    notes: "v1.6 期間限定マップ",
+    notes: "v1.6 及び v2.8 期間限定マップ",
     tags: [ "event", "location" ],
   },
   {
     en: "Pudding Isle",
     ja: "プリン島",
     pronunciationJa: "プリンとう",
-    notes: "v1.6 期間限定マップ「金リンゴ群島」南東にある島",
+    notes: "v1.6 及び v2.8 期間限定マップ「金リンゴ群島」南東にある島",
     tags: [ "event", "location" ],
   },
   {
     en: "Minacious Isle",
     ja: "ハラハラ島",
     pronunciationJa: "ハラハラとう",
-    notes: "v1.6 期間限定マップ「金リンゴ群島」南にある島",
+    notes: "v1.6 及び v2.8 期間限定マップ「金リンゴ群島」南にある島",
     tags: [ "event", "location" ],
   },
   {
     en: "Twinning Isle",
     ja: "フタフタ島",
     pronunciationJa: "フタフタとう",
-    notes: "v1.6 期間限定マップ「金リンゴ群島」北東にある島",
+    notes: "v1.6 及び v2.8 期間限定マップ「金リンゴ群島」北東にある島",
     tags: [ "event", "location" ],
   },
   {
     en: "Broken Isle",
     ja: "ボロボロ島",
     pronunciationJa: "ボロボロとう",
-    notes: "v1.6 期間限定マップ「金リンゴ群島」北西にある島",
+    notes: "v1.6 及び v2.8 期間限定マップ「金リンゴ群島」北西にある島",
     tags: [ "event", "location" ],
   },
   {

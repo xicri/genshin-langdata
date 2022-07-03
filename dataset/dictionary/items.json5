@@ -2377,4 +2377,14 @@
     pronunciationJa: "しゃのゆうらん",
     notes: "凝光のコスチューム",
   },
+  {
+    en: "Red Dead of Night",
+    ja: "レッドデッド・オブ・ナイト",
+    notes: "ディルックのコスチューム",
+  },
+  {
+    en: "Ein Immernachtstraum",
+    ja: "極夜の真夢",
+    notes: "フィッシュルのコスチューム",
+  },
 ]

@@ -265,6 +265,22 @@
     tags: [ "food" ],
   },
   {
+    en: "Stir-Fried Fish Noodles",
+    ja: "魚肉の焼き麺",
+    pronunciationJa: "ぎょにくのやきめん",
+    tags: [ "food" ],
+  },
+  {
+    en: "Berry & Mint Burst",
+    ja: "ミントベリージュース",
+    tags: [ "food" ],
+  },
+  {
+    en: "Wolfhook Juice",
+    ja: "ググプラムのジュース",
+    tags: [ "food" ],
+  },
+  {
     en: "Dango Milk",
     ja: "団子牛乳",
     pronunciationJa: "だんごぎゅうにゅう",
@@ -860,6 +876,13 @@
     notes: "神里綾華のオリジナル料理",
   },
   {
+    en: "Summer Festival Fish",
+    ja: "夏祭りの游魚",
+    pronunciationJa: "なつまつりのゆうぎょ",
+    tags: [ "food", "inazuma" ],
+    notes: "宵宮のオリジナル料理",
+  },
+  {
     en: "A Stunning Stratagem",
     ja: "奇策",
     pronunciationJa: "きさく",
@@ -880,6 +903,12 @@
     tags: [ "food", "inazuma" ],
     notes: "荒瀧一斗のオリジナル料理",
   },
+  {
+    en: "Omurice Waltz",
+    ja: "オムライス・ワルツ",
+    tags: [ "food", "inazuma" ],
+    notes: "久岐忍のオリジナル料理",
+  },
   // ▼▼ Unconfirmed ▼▼
   {
     en: "Faith Eternal",
@@ -887,13 +916,6 @@
     pronunciationJa: "えいえんなるしんこう",
     tags: [ "food", "inazuma" ],
     notes: "九条裟羅のオリジナル料理",
-  },
-  {
-    en: "Summer Festival Fish",
-    ja: "夏祭りの游魚",
-    pronunciationJa: "なつまつりのゆうぎょ",
-    tags: [ "food", "inazuma" ],
-    notes: "宵宮のオリジナル料理",
   },
   // ▲▲ Unconfirmed ▲▲
 
