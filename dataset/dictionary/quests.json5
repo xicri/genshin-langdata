@@ -499,6 +499,12 @@
     pronunciationJa: "ぶたいうえとぶたいした",
     tags: [ "liyue", "quest-world" ],
   },
+  {
+    en: "Garcia's Paean",
+    ja: "ガルシアの賛歌",
+    pronunciationJa: "ガルシアのさんか",
+    tags: [ "liyue", "quest-world" ],
+  },
   // The Chasm
   {
     en: "The Chasm Delvers",
@@ -1150,6 +1156,12 @@
     notes: "神里綾人の伝説任務",
     tags: [ "inazuma", "quest-story" ],
   },
+  {
+    en: "Acer Palmatum Chapter",
+    ja: "紅葉の章",
+    notes: "楓原万葉の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
 
   //
   // Commission Quests
@@ -1318,6 +1330,12 @@
     tags: [ "quest-daily", "mondstadt" ],
   },
   {
+    en: "Blocked?",
+    ja: "通行止め?",
+    pronunciationJa: "つうこうどめ",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
     en: "Business in a Marsh",
     ja: "荻花洲の旅館",
     pronunciationJa: "てきかしゅうのりょかん",
@@ -1327,6 +1345,12 @@
     en: "Guest from Afar",
     ja: "遠くから来た客",
     pronunciationJa: "とおくからきたきゃく",
+    tags: [ "quest-daily", "liyue" ],
+  },
+  {
+    en: "A Little Raid",
+    ja: "ミッション「お宝略奪」",
+    pronunciationJa: "ミッションおたからりゃくだつ",
     tags: [ "quest-daily", "liyue" ],
   },
   {

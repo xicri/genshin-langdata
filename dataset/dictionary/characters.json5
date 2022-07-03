@@ -1091,6 +1091,11 @@
     zhCN: "范二爷",
     tags: [ "liyue", "character-sub" ],
   },
+  {
+    en: "Soraya",
+    ja: "ソラヤー",
+    tags: [ "liyue", "character-sub" ],
+  },
   // The Chasm
   {
     en: "Jinwu",

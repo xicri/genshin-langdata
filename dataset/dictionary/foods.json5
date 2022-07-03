@@ -265,6 +265,22 @@
     tags: [ "food" ],
   },
   {
+    en: "Stir-Fried Fish Noodles",
+    ja: "魚肉の焼き麺",
+    pronunciationJa: "ぎょにくのやきめん",
+    tags: [ "food" ],
+  },
+  {
+    en: "Berry & Mint Burst",
+    ja: "ミントベリージュース",
+    tags: [ "food" ],
+  },
+  {
+    en: "Wolfhook Juice",
+    ja: "ググプラムのジュース",
+    tags: [ "food" ],
+  },
+  {
     en: "Dango Milk",
     ja: "団子牛乳",
     pronunciationJa: "だんごぎゅうにゅう",
@@ -886,6 +902,12 @@
     pronunciationJa: "きょうじゃのみちのり",
     tags: [ "food", "inazuma" ],
     notes: "荒瀧一斗のオリジナル料理",
+  },
+  {
+    en: "Omurice Waltz",
+    ja: "オムライス・ワルツ",
+    tags: [ "food", "inazuma" ],
+    notes: "久岐忍のオリジナル料理",
   },
   // ▼▼ Unconfirmed ▼▼
   {
