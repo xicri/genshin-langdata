@@ -860,6 +860,13 @@
     notes: "神里綾華のオリジナル料理",
   },
   {
+    en: "Summer Festival Fish",
+    ja: "夏祭りの游魚",
+    pronunciationJa: "なつまつりのゆうぎょ",
+    tags: [ "food", "inazuma" ],
+    notes: "宵宮のオリジナル料理",
+  },
+  {
     en: "A Stunning Stratagem",
     ja: "奇策",
     pronunciationJa: "きさく",
@@ -887,13 +894,6 @@
     pronunciationJa: "えいえんなるしんこう",
     tags: [ "food", "inazuma" ],
     notes: "九条裟羅のオリジナル料理",
-  },
-  {
-    en: "Summer Festival Fish",
-    ja: "夏祭りの游魚",
-    pronunciationJa: "なつまつりのゆうぎょ",
-    tags: [ "food", "inazuma" ],
-    notes: "宵宮のオリジナル料理",
   },
   // ▲▲ Unconfirmed ▲▲
 
