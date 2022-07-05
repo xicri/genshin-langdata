@@ -2380,11 +2380,13 @@
   {
     en: "Red Dead of Night",
     ja: "レッドデッド・オブ・ナイト",
+    zhCN: "殷红终夜",
     notes: "ディルックのコスチューム",
   },
   {
     en: "Ein Immernachtstraum",
     ja: "極夜の真夢",
+    zhCN: "极夜真梦",
     notes: "フィッシュルのコスチューム",
   },
 ]
