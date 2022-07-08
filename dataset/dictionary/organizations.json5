@@ -357,6 +357,7 @@
   {
     en: "Sumeru Academia",
     ja: "スメール教令院",
+    zhCN: "须弥教令院",
     pronunciationJa: "スメールきょうれいいん",
     tags: [ "sumeru", "organization" ],
   },
@@ -367,12 +368,14 @@
   {
     en: "Fatui",
     ja: "ファデュイ / 愚人衆",
+    zhCN: "愚人众",
     tags: [ "snezhnaya", "organization" ],
   },
   // TODO need check
   {
     en: "Northland Bank",
     ja: "北国銀行",
+    zhCN: "北国银行",
     pronunciationJa: "きたくにぎんこう",
     tags: [ "snezhnaya", "liyue", "organization" ],
   },
