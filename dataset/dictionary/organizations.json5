@@ -5,6 +5,7 @@
   {
     en: "Adventurers' Guild",
     ja: "冒険者協会",
+    zhCN: "冒险家协会",
     pronunciationJa: "ぼうけんしゃきょうかい",
     tags: [ "organization" ],
   },
