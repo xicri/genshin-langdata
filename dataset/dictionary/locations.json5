@@ -1047,6 +1047,7 @@
   {
     en: "Sumeru",
     ja: "スメール",
+    zhCN: "须弥",
     tags: [ "sumeru", "location" ],
   },
 
@@ -1056,6 +1057,7 @@
   {
     en: "Fontaine",
     ja: "フォンテーヌ",
+    zhCN: "枫丹",
     tags: [ "location" ],
   },
 
@@ -1065,6 +1067,7 @@
   {
     en: "Natlan",
     ja: "ナタ",
+    zhCN: "纳塔",
     tags: [ "location" ],
   },
 
@@ -1074,11 +1077,13 @@
   {
     en: "Snezhnaya",
     ja: "スネージナヤ",
+    zhCN: "至冬",
     tags: [ "snezhnaya", "location" ],
   },
   {
     en: "Zapolyarny Palace",
     ja: "スネージナヤパレス",
+    zhCN: "至冬宫",
     tags: [ "snezhnaya", "location" ],
     notes: "Zapolyarny はロシア北西部に実在する町の名前",
   },
@@ -1089,6 +1094,7 @@
   {
     en: "Khaenri'ah",
     ja: "カーンルイア",
+    zhCN: "坎瑞亚",
     tags: [ "location" ],
   },
 ]
