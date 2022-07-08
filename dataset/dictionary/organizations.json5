@@ -16,6 +16,7 @@
   {
     en: "Knights of Favonius",
     ja: "西風騎士団",
+    zhCN: "西风骑士团",
     pronunciationJa: "セピュロスきしだん",
     tags: [ "mondstadt", "organization" ],
     variants: {
@@ -26,6 +27,7 @@
   {
     en: "Church of Favonius",
     ja: "西風教会",
+    zhCN: "西风教会",
     pronunciationJa: "セピュロスきょうかい",
     tags: [ "mondstadt", "organization" ],
     variants: {
@@ -35,26 +37,31 @@
   {
     en: "Gunnhildr Clan",
     ja: "グンヒルド家",
+    zhCN: "古恩希尔德家族",
     tags: [ "organization" ],
   },
   {
     en: "Ragnvindr Clan",
     ja: "ラグヴィンド家",
+    zhCN: "莱艮芬德家族",
     tags: [ "organization" ],
   },
   {
     en: "Lawrence Clan",
     ja: "ローレンス家",
+    zhCN: "劳伦斯家族",
     tags: [ "organization" ],
   },
   {
     en: "Angel's Share",
     ja: "エンジェルズシェア",
+    zhCN: "天使的馈赠",
     tags: [ "mondstadt", "organization" ],
   },
   {
     en: "Benny's Adventure Team",
     ja: "ベニー冒険団",
+    zhCN: "班尼冒险团",
     pronunciationJa: "ベニーぼうけんだん",
     tags: [ "mondstadt", "organization" ],
   },
