@@ -73,6 +73,7 @@
   {
     en: "Liyue Qixing / Qixing of Liyue",
     ja: "璃月七星",
+    zhCN: "璃月七星",
     pronunciationJa: "りーゆぇしちせい",
     tags: [ "liyue", "organization" ],
     variants: {
@@ -83,42 +84,49 @@
   {
     en: "Millelith",
     ja: "千岩軍",
+    zhCN: "千岩军",
     pronunciationJa: "せんがんぐん",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Ministry of Civil Affairs",
     ja: "総務司",
+    zhCN: "总务司",
     pronunciationJa: "そうむし",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Huishan Hall",
     ja: "輝山庁",
+    zhCN: "辉山厅",
     pronunciationJa: "きざんちょう",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Shenglu Hall",
     ja: "盛露庁",
+    zhCN: "盛露厅",
     pronunciationJa: "せいろちょう",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Wangsheng Funeral Parlor",
     ja: "往生堂",
+    zhCN: "往生堂",
     pronunciationJa: "おうじょうどう",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Wanmin Restaurant",
     ja: "万民堂",
+    zhCN: "万名堂",
     pronunciationJa: "ばんみんどう",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Bubu Pharmacy",
     ja: "不卜廬",
+    zhCN: "不卜庐",
     pronunciationJa: "ふぼくろ",
     tags: [ "liyue", "organization" ],
     variants: {
@@ -128,6 +136,7 @@
   {
     en: "Liuli Pavilion",
     ja: "琉璃亭",
+    zhCN: "琉璃亭",
     pronunciationJa: "るりてい",
     tags: [ "liyue", "organization" ],
     variants: {
@@ -137,36 +146,42 @@
   {
     en: "Xinyue Kiosk",
     ja: "新月軒",
+    zhCN: "新月轩",
     pronunciationJa: "しんげつけん",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Third-Round Knockout",
     ja: "三杯酔",
+    zhCN: "三碗不过港",
     pronunciationJa: "さんばいよい",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Guhua Clan",
     ja: "古華派",
+    zhCN: "古华派",
     pronunciationJa: "こかは",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Wanwen Bookhouse",
     ja: "万文集舎",
+    zhCN: "万文集舍",
     pronunciationJa: "まんぶんしゅうしゃ",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Feiyun Commerce Guild",
     ja: "飛雲商会",
+    zhCN: "飞云商会",
     pronunciationJa: "ひうんしょうかい",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "The Crux Fleet",
     ja: "南十字船隊",
+    zhCN: "南十字船队",
     pronunciationJa: "みなみじゅうじせんたい",
     tags: [ "liyue", "organization" ],
     notes: "単に「南十字」(\"The Crux\") と略して表記される場合もある。",
@@ -174,6 +189,7 @@
   {
     en: "Alcor",
     ja: "死兆星号",
+    zhCN: "死兆星号",
     pronunciationJa: "しちょうせいごう",
     tags: [ "liyue", "organization", "location" ],
     notes: "Alcor は北斗七星の近くにある星で、日本ではカタカナでアルコルと記されるが、異称として死兆星とも呼ばれる。",
@@ -181,18 +197,28 @@
   {
     en: "Yun-Han Opera Troupe",
     ja: "雲翰社",
+    zhCN: "云翰社",
     pronunciationJa: "うんかんしゃ",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Hanfeng's Ironmongers",
     ja: "寒鋒鉄器",
+    zhCN: "寒风铁器",
     pronunciationJa: "かんほうてっき",
     tags: [ "liyue", "organization" ],
   },
   {
     en: "Heyu Tea House",
     ja: "和裕茶館",
+    zhCN: "和裕茶馆",
+    tags: [ "liyue", "organization" ],
+  },
+  // Note: Recommend add this: (appeared mainly in stories about Yelan)
+  {
+    en: "Yanshang Teahouse",
+    ja: "岩上茶室",
+    zhCN: "岩上茶室",
     tags: [ "liyue", "organization" ],
   },
 
