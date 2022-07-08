@@ -5,11 +5,13 @@
   {
     en: "Teyvat",
     ja: "テイワット",
+    zhCN: "提瓦特",
     tags: [ "location" ],
   },
   {
     en: "Celestia",
     ja: "天空の島",
+    zhCN: "天空岛",
     pronunciationJa: "てんくうのしま",
     tags: [ "location" ],
   },
