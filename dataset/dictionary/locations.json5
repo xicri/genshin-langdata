@@ -305,11 +305,7 @@
     en: "Chihu Rock",
     ja: "チ虎岩",
     zhCN: "吃虎岩 / 螭虎岩",
-    // Note: In game the place is called 吃虎岩, however, there's the fact that the place
-    // was called 螭虎岩 in history and it was simplified to 吃虎岩 by the public over time
-    // in the setting of the game. Hence somtimes 螭虎岩 also can be seen in secondary creations.
-    // If you add a note for this word, I hope you can append this Chinese explaination at the same time:
-    // 此地曾名为螭虎岩，但随着时间流逝百姓将此地简化为了吃虎岩。特此说明。
+    notes: "中国語の「螭虎岩」は古い時代の表記で、現在は簡略化されて「吃虎岩」と表記されるようになったという設定。 / 此地曾名为螭虎岩，但随着时间流逝百姓将此地简化为了吃虎岩。特此说明。",
     pronunciationJa: "ちこがん",
     tags: [ "liyue", "location" ],
   },
