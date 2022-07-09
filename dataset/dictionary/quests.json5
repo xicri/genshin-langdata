@@ -14,16 +14,19 @@
   {
     en: "The Outlander Who Caught the Wind",
     ja: "風を捕まえる異邦人",
+    zhCN: "捕风的异乡人",
     tags: [ "mondstadt", "quest-archon" ],
   },
   {
     en: "For a Tomorrow Without Tears",
     ja: "涙のない明日のために",
+    zhCN: "为了没有眼泪的明天",
     tags: [ "mondstadt", "quest-archon" ],
   },
   {
     en: "Song of the Dragon and Freedom",
     ja: "龍と自由の歌",
+    zhCN: "巨龙与自由之歌",
     tags: [ "mondstadt", "quest-archon" ],
   },
 
