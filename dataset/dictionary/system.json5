@@ -5,42 +5,50 @@
   {
     en: "Constellation",
     ja: "命ノ星座",
+    zhCN: "命之座",
     pronunciationJa: "いのちのせいざ",
     notes: "例えば「2凸」(命ノ星座を2つ開放した状態) のことを \"c2\" のように表現する。",
   },
   {
     en: "c1",
     ja: "1凸",
+    zhCN: "1命",
     notes: "命ノ星座を1つ開放した状態のこと",
   },
   {
     en: "c2",
     ja: "2凸",
+    zhCN: "2命",
     notes: "命ノ星座を2つ開放した状態のこと",
   },
   {
     en: "c3",
     ja: "3凸",
+    zhCN: "3命",
     notes: "命ノ星座を3つ開放した状態のこと",
   },
   {
     en: "c4",
     ja: "4凸",
+    zhCN: "4命",
     notes: "命ノ星座を4つ開放した状態のこと",
   },
   {
     en: "c5",
     ja: "5凸",
+    zhCN: "5命",
     notes: "命ノ星座を5つ開放した状態のこと",
   },
   {
     en: "c6",
     ja: "完凸",
+    zhCN: "满命",
     notes: "命ノ星座を6つ全て開放した状態のこと",
   },
   {
     en: "Talents",
     ja: "天賦",
+    zhCN: "天赋",
     pronunciationJa: "てんぷ",
     variants: {
       ja: [ "てんぶ" ],
@@ -49,6 +57,7 @@
   {
     en: "ascend",
     ja: "突破",
+    zhCN: "突破",
     pronunciationJa: "とっぱ",
     variants: {
       en: [ "ascension" ],
@@ -57,17 +66,20 @@
   {
     en: "friendship",
     ja: "好感度",
+    zhCN: "好感度",
     pronunciationJa: "こうかんど",
   },
   {
     en: "Adventure Rank",
     ja: "冒険ランク",
+    zhCN: "冒险等阶",
     pronunciationJa: "ぼうけんランク",
     notes: "AR と略される",
   },
   {
     en: "World Level",
     ja: "世界ランク",
+    zhCN: "世界等级",
     pronunciationJa: "せかいランク",
     notes: "WL と略される。WR と略されることも。(World Rank の略?)",
     variants: {
