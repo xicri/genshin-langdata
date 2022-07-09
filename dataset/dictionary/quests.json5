@@ -91,21 +91,25 @@
   },
 
   // Inazuma
+  // Note: missing chapter 2 Prologue (zhCN: "振袖秋风问红叶",)
   {
     en: "The Immovable God and the Eternal Euthymia",
     ja: "鳴神不動、恒常楽土",
+    zhCN: "不动鸣神，恒常乐土",
     pronunciationJa: "なるかみふどう、こうじょうらくど",
     tags: [ "inazuma", "quest-archon" ],
   },
   {
     en: "Stillness, the Sublimation of Shadow",
     ja: "無念無想、泡影を滅す",
+    zhCN: "无念无想，泡影断灭",
     pronunciationJa: "むねんむそう、ほうえいをめっす",
     tags: [ "inazuma", "quest-archon" ],
   },
   {
     en: "Omnipresence Over Mortals",
     ja: "千手百目の浮世",
+    zhCN: "千手百眼，天下人间",
     pronunciationJa: "せんじゅひゃくもくのうきよ",
     tags: [ "inazuma", "quest-archon" ],
   },
