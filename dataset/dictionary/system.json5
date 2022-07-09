@@ -345,40 +345,50 @@
   {
     en: "Wish",
     ja: "祈願",
+    zhCN: "祈愿",
     pronunciationJa: "きがん",
+    variants: {
+      zhCN: [ "抽卡" ],
+    },
     notes: "いわゆるガチャ。そのまま Gacha と表現される場合もある。",
   },
   {
     en: "Wanderlust Invocation",
     ja: "奔走世間",
+    zhCN: "奔行世间",
     pronunciationJa: "ほんそうせけん",
     notes: "恒常祈願",
   },
   {
     en: "Epitome Invocation",
     ja: "神鋳賦形",
+    zhCN: "神铸赋形",
     pronunciationJa: "しんちゅうぶけい",
     notes: "武器祈願",
   },
   {
     en: "Fate Point",
     ja: "命定値",
+    zhCN: "命定值",
     pronunciationJa: "めいていち",
   },
   {
     en: "lose 50/50",
     ja: "(ガチャで) すり抜ける",
+    zhCN: "歪了",
     pronunciationJa: "すりぬける",
     notes: "ピックアップキャラではない★5キャラが当たることを意味する。原神では★5キャラが当たった際、50%の確率でピックアップキャラが当たることから、50%の勝負に負ける、という表現。",
   },
   {
     en: "pull",
     ja: "(ガチャを) 引く",
+    zhCN: "抽",
     pronunciationJa: "ひく",
   },
   {
     en: "rerun",
     ja: "復刻",
+    zhCN: "复刻",
     pronunciationJa: "ふっこく",
     notes: "復刻ガチャや復刻イベントなどを示す。",
     variants: {
@@ -388,6 +398,7 @@
   {
     en: "Co-Op mode",
     ja: "マルチプレイ",
+    zhCN: "多人游戏",
     variants: {
       en: [ "CoOp mode", "CoOp", "co-op" ],
     },
@@ -395,6 +406,7 @@
   {
     en: "Request to Join (Co-Op mode)",
     ja: "(マルチプレイへの) 加入申請",
+    zhCN: "申请加入",
     pronunciationJa: "かにゅうしんせい",
     _meta: {
       translator: false,
@@ -403,76 +415,90 @@
   {
     en: "achievement",
     ja: "アチーブメント",
+    zhCN: "成就",
   },
   {
     en: "Battle Path",
     ja: "紀行",
+    zhCN: "纪行",
     pronunciationJa: "きこう",
   },
   {
     en: "Sojourner's Battle Path",
     ja: "大地紀行",
+    zhCN: "大地纪行",
     pronunciationJa: "だいちきこう",
   },
   {
     en: "Gnostic Hymn",
     ja: "天空紀行",
+    zhCN: "天空纪行",
     pronunciationJa: "てんくうきこう",
   },
   {
     en: "Blessing of the Welkin Moon",
     ja: "空月の祝福",
+    zhCN: "空月祝福",
     pronunciationJa: "くうげつのしゅくふく",
     notes: "免責事項: 本サイトの運営者は、本サイトの情報の誤り等による損害について一切補償致しかねます。本サイトの情報はご自身の責任においてご利用下さい。",
   },
   {
     en: "Exploration Progress",
     ja: "探索度",
+    zhCN: "探索度",
     pronunciationJa: "たんさくど",
   },
   {
     en: "Reward",
     ja: "報酬",
+    zhCN: "报酬",
     pronunciationJa: "ほうしゅう",
   },
   {
     en: "Craft",
     ja: "合成する",
+    zhCN: "合成",
     pronunciationJa: "ごうせいする",
   },
   {
     en: "weekly boss",
     ja: "週ボス",
+    zhCN: "周本",
     pronunciationJa: "しゅうボス",
     notes: "ゲーム内で言及されている言葉ではなく、コミュニティ内での俗語",
   },
   {
     en: "artifact grind",
     ja: "聖遺物厳選",
+    zhCN: "赌圣遗物",
     pronunciationJa: "せいいぶつげんせん",
     notes: "ゲーム内で言及されている言葉ではなく、コミュニティ内での俗語",
   },
   {
     en: "apologem",
     ja: "詫び石",
+    zhCN: "补偿原石",
     pronunciationJa: "わびいし",
     notes: "apology (謝罪) と gem (宝石) の合成語。日本語の「詫び石」同様、他のゲームでも使われる。通例複数形で apologems。",
   },
   {
     en: "Balethunder",
     ja: "雷禍",
+    zhCN: "雷祸",
     pronunciationJa: "らいか",
     tags: [ "inazuma" ],
   },
   {
     en: "Whitenight",
     ja: "白夜",
+    zhCN: "白夜",
     pronunciationJa: "びゃくや",
     tags: [ "inazuma" ],
   },
   {
     en: "Evernight",
     ja: "常夜",
+    zhCN: "常夜",
     tags: [ "inazuma" ],
   },
 ]
