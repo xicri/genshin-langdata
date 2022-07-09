@@ -293,40 +293,48 @@
   {
     en: "ATK",
     ja: "攻撃力",
+    zhCN: "攻击力",
     pronunciationJa: "こうげきりょく",
   },
   {
     en: "DEF",
     ja: "防御力",
+    zhCN: "防御力",
     pronunciationJa: "ぼうぎょりょく",
   },
   {
     en: "CRIT Rate",
     ja: "会心率",
+    zhCN: "暴击率",
     pronunciationJa: "かいしんりつ",
   },
   {
     en: "Energy Recharge",
     ja: "元素チャージ効率",
+    zhCN: "元素充能效率",
     pronunciationJa: "げんそチャージこうりつ",
   },
   {
     en: "DMG",
     ja: "ダメージ",
+    zhCN: "伤害",
   },
   {
     en: "charged attack",
     ja: "重撃",
+    zhCN: "重击",
     pronunciationJa: "じゅうげき",
   },
   {
     en: "refinement rank",
     ja: "精錬ランク",
+    zhCN: "精炼等阶",
     pronunciationJa: "せいれんランク",
   },
   {
     en: "corrosion",
     ja: "侵食",
+    zhCN: "侵蚀",
     pronunciationJa: "しんしょく",
     notes: "獣域ウェルプ・獣域ハウンドにより与えられる状態異常。",
   },
