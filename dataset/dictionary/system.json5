@@ -232,6 +232,18 @@
     tags: [ "element" ],
   },
   {
+    en: "Bloom",
+    ja: "開花",
+    pronunciationJa: "かいか",
+    tags: [ "element" ],
+  },
+  {
+    en: "Catalyze",
+    ja: "激化",
+    pronunciationJa: "げきか",
+    tags: [ "element" ],
+  },
+  {
     en: "Elemental Skill",
     ja: "元素スキル",
     zhCN: "元素战技",
