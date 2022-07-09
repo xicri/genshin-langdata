@@ -1693,6 +1693,16 @@
     tags: [ "item" ],
   },
   {
+    en: "Inactivated Fungal Nucleus",
+    ja: "キノコンの衰菌核",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dormant Fungal Nucleus",
+    ja: "キノコンの眠菌核",
+    tags: [ "item" ],
+  },
+  {
     en: "Gloomy Statuette",
     ja: "暗晦の彫刻",
     zhCN: "晦暗刻像",
