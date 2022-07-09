@@ -214,10 +214,10 @@
     zhCN: "和裕茶馆",
     tags: [ "liyue", "organization" ],
   },
-  // Note: Recommend add this: (appeared mainly in stories about Yelan)
   {
     en: "Yanshang Teahouse",
     ja: "岩上茶室",
+    pronunciationJa: "がんじょうちゃしつ",
     zhCN: "岩上茶室",
     tags: [ "liyue", "organization" ],
   },
