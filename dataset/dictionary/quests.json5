@@ -56,6 +56,7 @@
   {
     en: "We Will Be Reunited",
     ja: "私達はいずれ再会する / 俺達はいずれ再会する",
+    zhCN: "我们终将重逢",
     pronunciationJa: "わたしたちはいずれさいかいする / おれたちはいずれさいかいする",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
     notes: "主人公が男 (空) の場合「私達」、女 (蛍) の場合「俺達」",
@@ -63,24 +64,28 @@
   {
     en: "Involuntary Sacrifice",
     ja: "望まれない供犠",
+    zhCN: "非自愿的祭献",
     pronunciationJa: "のぞまれないくぎ",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
   {
     en: "A Herald Without Adherents",
     ja: "信者のない使徒",
+    zhCN: "无信者的使徒",
     pronunciationJa: "しんじゃのないしと",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
   {
     en: "Dishonorable Trial",
     ja: "誇りのない試練",
+    zhCN: "不荣誉的试炼",
     pronunciationJa: "ほこりのないしれん",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
   {
     en: "A Soul Set Apart",
     ja: "隔たりのある魂",
+    zhCN: "有隔阂的魂灵",
     pronunciationJa: "へだたりのあるたましい",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
