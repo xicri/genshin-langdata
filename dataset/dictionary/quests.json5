@@ -91,7 +91,13 @@
   },
 
   // Inazuma
-  // Note: missing chapter 2 Prologue (zhCN: "振袖秋风问红叶",)
+  {
+    en: "Autumn Winds, Scarlet Leaves",
+    ja: "秋風に舞いし紅葉",
+    zhCN: "振袖秋风问红叶",
+    pronunciationJa: "あきかぜにまいしもみじ",
+    tags: [ "inazuma", "quest-archon" ],
+  },
   {
     en: "The Immovable God and the Eternal Euthymia",
     ja: "鳴神不動、恒常楽土",
