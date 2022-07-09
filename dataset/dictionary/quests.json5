@@ -34,17 +34,20 @@
   {
     en: "Of the Land Amidst Monoliths",
     ja: "浮世浮生千岩間",
+    zhCN: "浮世往生千岩间",
     tags: [ "liyue", "quest-archon" ],
   },
   {
     en: "Farewell, Archaic Lord",
     ja: "久遠の体との別れ",
+    zhCN: "辞行久远之躯",
     pronunciationJa: "くおんのからだとのわかれ",
     tags: [ "liyue", "quest-archon" ],
   },
   {
     en: "A New Star Approaches",
     ja: "迫る客星",
+    zhCN: "迫近的客星",
     pronunciationJa: "せまるきゃくせい",
     tags: [ "liyue", "quest-archon" ],
   },
