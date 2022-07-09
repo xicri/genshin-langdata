@@ -5,6 +5,7 @@
   {
     en: "Archon Quest",
     ja: "魔神任務",
+    zhCN: "魔神任务",
     pronunciationJa: "まじんにんむ",
     tags: [ "quest-archon" ],
   },
@@ -13,16 +14,19 @@
   {
     en: "The Outlander Who Caught the Wind",
     ja: "風を捕まえる異邦人",
+    zhCN: "捕风的异乡人",
     tags: [ "mondstadt", "quest-archon" ],
   },
   {
     en: "For a Tomorrow Without Tears",
     ja: "涙のない明日のために",
+    zhCN: "为了没有眼泪的明天",
     tags: [ "mondstadt", "quest-archon" ],
   },
   {
     en: "Song of the Dragon and Freedom",
     ja: "龍と自由の歌",
+    zhCN: "巨龙与自由之歌",
     tags: [ "mondstadt", "quest-archon" ],
   },
 
@@ -30,17 +34,20 @@
   {
     en: "Of the Land Amidst Monoliths",
     ja: "浮世浮生千岩間",
+    zhCN: "浮世往生千岩间",
     tags: [ "liyue", "quest-archon" ],
   },
   {
     en: "Farewell, Archaic Lord",
     ja: "久遠の体との別れ",
+    zhCN: "辞行久远之躯",
     pronunciationJa: "くおんのからだとのわかれ",
     tags: [ "liyue", "quest-archon" ],
   },
   {
     en: "A New Star Approaches",
     ja: "迫る客星",
+    zhCN: "迫近的客星",
     pronunciationJa: "せまるきゃくせい",
     tags: [ "liyue", "quest-archon" ],
   },
@@ -49,6 +56,7 @@
   {
     en: "We Will Be Reunited",
     ja: "私達はいずれ再会する / 俺達はいずれ再会する",
+    zhCN: "我们终将重逢",
     pronunciationJa: "わたしたちはいずれさいかいする / おれたちはいずれさいかいする",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
     notes: "主人公が男 (空) の場合「私達」、女 (蛍) の場合「俺達」",
@@ -56,44 +64,58 @@
   {
     en: "Involuntary Sacrifice",
     ja: "望まれない供犠",
+    zhCN: "非自愿的祭献",
     pronunciationJa: "のぞまれないくぎ",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
   {
     en: "A Herald Without Adherents",
     ja: "信者のない使徒",
+    zhCN: "无信者的使徒",
     pronunciationJa: "しんじゃのないしと",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
   {
     en: "Dishonorable Trial",
     ja: "誇りのない試練",
+    zhCN: "不荣誉的试炼",
     pronunciationJa: "ほこりのないしれん",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
   {
     en: "A Soul Set Apart",
     ja: "隔たりのある魂",
+    zhCN: "有隔阂的魂灵",
     pronunciationJa: "へだたりのあるたましい",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
   },
 
   // Inazuma
   {
+    en: "Autumn Winds, Scarlet Leaves",
+    ja: "秋風に舞いし紅葉",
+    zhCN: "振袖秋风问红叶",
+    pronunciationJa: "あきかぜにまいしもみじ",
+    tags: [ "inazuma", "quest-archon" ],
+  },
+  {
     en: "The Immovable God and the Eternal Euthymia",
     ja: "鳴神不動、恒常楽土",
+    zhCN: "不动鸣神，恒常乐土",
     pronunciationJa: "なるかみふどう、こうじょうらくど",
     tags: [ "inazuma", "quest-archon" ],
   },
   {
     en: "Stillness, the Sublimation of Shadow",
     ja: "無念無想、泡影を滅す",
+    zhCN: "无念无想，泡影断灭",
     pronunciationJa: "むねんむそう、ほうえいをめっす",
     tags: [ "inazuma", "quest-archon" ],
   },
   {
     en: "Omnipresence Over Mortals",
     ja: "千手百目の浮世",
+    zhCN: "千手百眼，天下人间",
     pronunciationJa: "せんじゅひゃくもくのうきよ",
     tags: [ "inazuma", "quest-archon" ],
   },
@@ -102,6 +124,7 @@
   {
     en: "The Crane Returns on the Wind",
     ja: "風立ちし鶴の帰郷",
+    zhCN: "风起鹤归",
     pronunciationJa: "かぜたちしつるのききょう",
     tags: [ "liyue", "quest-archon" ],
   },
@@ -110,6 +133,7 @@
   {
     en: "Requiem of the Echoing Depths",
     ja: "淵底に響くレクイエム",
+    zhCN: "回想渊底的安魂曲",
     tags: [ "liyue", "quest-archon" ],
   },
 
@@ -117,6 +141,7 @@
   {
     en: "Perilous Trail",
     ja: "険路怪跡",
+    zhCN: "危途疑踪",
     pronunciationJa: "けんろかいせき",
     tags: [ "liyue", "quest-archon" ],
   },
