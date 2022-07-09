@@ -118,6 +118,7 @@
   {
     en: "The Crane Returns on the Wind",
     ja: "風立ちし鶴の帰郷",
+    zhCN: "风起鹤归",
     pronunciationJa: "かぜたちしつるのききょう",
     tags: [ "liyue", "quest-archon" ],
   },
@@ -126,6 +127,7 @@
   {
     en: "Requiem of the Echoing Depths",
     ja: "淵底に響くレクイエム",
+    zhCN: "回想渊底的安魂曲",
     tags: [ "liyue", "quest-archon" ],
   },
 
@@ -133,6 +135,7 @@
   {
     en: "Perilous Trail",
     ja: "険路怪跡",
+    zhCN: "危途疑踪",
     pronunciationJa: "けんろかいせき",
     tags: [ "liyue", "quest-archon" ],
   },
