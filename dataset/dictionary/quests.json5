@@ -5,6 +5,7 @@
   {
     en: "Archon Quest",
     ja: "魔神任務",
+    zhCN: "魔神任务",
     pronunciationJa: "まじんにんむ",
     tags: [ "quest-archon" ],
   },
