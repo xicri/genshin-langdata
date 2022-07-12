@@ -2,30 +2,38 @@
   {
     en: "Sword",
     ja: "片手剣",
+    zhCN: "单手剑",
     pronunciationJa: "かたてけん",
     tags: [ "weapon" ],
   },
   {
     en: "Claymore",
     ja: "両手剣",
+    zhCN: "双手剑",
     pronunciationJa: "りょうてけん",
+    variants: {
+      zhCN: [ "大剑" ],
+    },
     tags: [ "weapon" ],
   },
   {
     en: "Polearm",
     ja: "長柄武器",
+    zhCN: "长柄武器",
     pronunciationJa: "ながえぶき",
     tags: [ "weapon" ],
   },
   {
     en: "Bow",
     ja: "弓",
+    zhCN: "弓",
     pronunciationJa: "ゆみ",
     tags: [ "weapon" ],
   },
   {
     en: "Catalyst",
     ja: "法器",
+    zhCN: "法器",
     pronunciationJa: "ほうき",
     tags: [ "weapon" ],
   },
