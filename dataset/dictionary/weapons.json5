@@ -431,29 +431,35 @@
   {
     en: "Skyward Pride",
     ja: "天空の傲",
+    zhCN: "天空之傲",
     pronunciationJa: "てんくうのおごり",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Wolf's Gravestone",
     ja: "狼の末路",
+    zhCN: "狼的末路",
     pronunciationJa: "おおかみのまつろ",
     tags: [ "weapon", "claymore" ],
     variants: {
       ja: [ "末路" ],
+      zhCN: [ "狼末" ],
     },
   },
   {
     en: "The Unforged",
     ja: "無工の剣",
+    zhCN: "无工之剑",
     tags: [ "weapon", "claymore" ],
     variants: {
       ja: [ "無工" ],
+      zhCN: [ "蜈蚣大剑" ],
     },
   },
   {
     en: "Song of Broken Pines",
     ja: "松韻の響く頃",
+    zhCN: "忪籁响起之时",
     pronunciationJa: "しょういんのひびくころ",
     tags: [ "weapon", "claymore" ],
     variants: {
@@ -463,6 +469,7 @@
   {
     en: "Redhorn Stonethresher",
     ja: "赤角石塵滅砕",
+    zhCN: "赤角石溃杵",
     // source: https://mobile.twitter.com/_GEN_K_/status/1460757357953052674
     pronunciationJa: "せきかくせきじんめっさい",
     tags: [ "weapon", "claymore" ],
