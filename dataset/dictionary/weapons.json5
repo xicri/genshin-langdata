@@ -482,6 +482,7 @@
   {
     en: "Beginner's Protector",
     ja: "新米の長槍",
+    zhCN: "新手长枪",
     pronunciationJa: "しんまいのながやり",
     tags: [ "weapon", "polearm" ],
   },
@@ -489,24 +490,28 @@
   {
     en: "Iron Point",
     ja: "鉄尖槍",
+    zhCN: "铁尖枪",
     tags: [ "weapon", "polearm" ],
   },
   // ★3
   {
     en: "White Tassel",
     ja: "白纓槍",
+    zhCN: "白缨枪",
     pronunciationJa: "はくえいそう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Halberd",
     ja: "鉾槍",
+    zhCN: "钺矛",
     pronunciationJa: "ほこやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Black Tassel",
     ja: "黒纓槍",
+    zhCN: "黑缨枪",
     pronunciationJa: "こくえいそう",
     tags: [ "weapon", "polearm" ],
   },
