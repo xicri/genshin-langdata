@@ -97,35 +97,41 @@
   {
     en: "Favonius Sword",
     ja: "西風剣",
+    zhCN: "西风剑",
     pronunciationJa: "セピュロスソード",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "The Flute",
     ja: "笛の剣",
+    zhCN: "笛剑",
     pronunciationJa: "ふえのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Sacrificial Sword",
     ja: "祭礼の剣",
+    zhCN: "祭礼剑",
     pronunciationJa: "さいれいのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Royal Longsword",
     ja: "旧貴族長剣",
+    zhCN: "宗室长剑",
     pronunciationJa: "きゅうきぞくちょうけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Lion's Roar",
     ja: "匣中龍吟",
+    zhCN: "匣里龙吟",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Prototype Rancour",
     ja: "斬岩・試作",
+    zhCN: "试作斩岩",
     pronunciationJa: "ざんがん・しさく",
     tags: [ "weapon", "sword" ],
     variants: {
@@ -135,6 +141,7 @@
   {
     en: "Iron Sting",
     ja: "鉄蜂の刺し",
+    zhCN: "铁蜂刺",
     pronunciationJa: "てつほうのさし",
     tags: [ "weapon", "sword" ],
     variants: {
@@ -144,42 +151,49 @@
   {
     en: "Blackcliff Longsword",
     ja: "黒岩の長剣",
+    zhCN: "黑岩长剑",
     pronunciationJa: "こくがんのちょうけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "The Black Sword",
     ja: "黒剣",
+    zhCN: "黑剑",
     pronunciationJa: "こっけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Sword of Descension",
     ja: "降臨の剣",
+    zhCN: "降临之剑",
     pronunciationJa: "こうりんのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Festering Desire",
     ja: "腐植の剣",
+    zhCN: "腐植之剑",
     pronunciationJa: "ふしょくのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "The Alley Flash",
     ja: "ダークアレイの閃光",
+    zhCN: "暗巷闪光",
     pronunciationJa: "ダークアレイのせんこう",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Amenoma Kageuchi",
     ja: "天目影打",
+    zhCN: "天目影打刀",
     pronunciationJa: "あめのまかげうち",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Cinnabar Spindle",
     ja: "シナバースピンドル",
+    zhCN: "辰砂之纺锤",
     tags: [ "weapon", "sword" ],
   },
   {
