@@ -1940,21 +1940,21 @@
     ja: "隊長",
     pronunciationJa: "たいちょう",
     notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Columbina / The Damselette",
     ja: "少女",
     pronunciationJa: "しょうじょ",
     notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Arlecchino",
     ja: "召使",
     pronunciationJa: "めしつかい",
     notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。日本語でもカタカナでそのまま「アルレッキーノ」と表記するという情報もある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Sandrone",
@@ -1967,7 +1967,7 @@
     ja: "傀儡",
     pronunciationJa: "かいらい",
     notes: "サンドローネの称号? 公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Pedrolino",
@@ -1980,7 +1980,7 @@
     ja: "道化",
     pronunciationJa: "どうけ",
     notes: "ペドロリーノの称号? 公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Tsaritsa",
