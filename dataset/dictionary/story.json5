@@ -110,18 +110,21 @@
   {
     en: "Ludi Harpastum",
     ja: "バドルドー祭",
+    zhCN: "羽球节",
     pronunciationJa: "バドルドーさい",
     tags: [ "mondstadt" ],
   },
   {
     en: "harpastum / harpasta",
     ja: "バドルドー",
+    zhCN: "羽球",
     notes: "恐らく harpastum が単数形、harpasta が複数形。原義はローマ帝国時代の球技を意味するラテン語。",
     tags: [ "mondstadt" ],
   },
   {
     en: "Dandelion Wine",
     ja: "蒲公英酒",
+    zhCN: "蒲公英酒",
     pronunciationJa: "ダンデライオンしゅ",
     tags: [ "mondstadt" ],
     variants: {
