@@ -205,33 +205,39 @@
   {
     en: "Aquila Favonia",
     ja: "風鷹剣",
+    zhCN: "风鹰剑",
     pronunciationJa: "ふうようけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Skyward Blade",
     ja: "天空の刃",
+    zhCN: "天空之刃",
     pronunciationJa: "てんくうのやいば",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Summit Shaper",
     ja: "斬山の刃",
+    zhCN: "斫锋之刃",
     pronunciationJa: "ざんさんのやいば",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Primordial Jade Cutter",
     ja: "磐岩結緑",
+    zhCN: "磐岩结绿",
     pronunciationJa: "ばんがんけつりょく",
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "盤岩結緑" ],
+      zhCN: [ "绿剑" ],
     },
   },
   {
     en: "Freedom-Sworn",
     ja: "蒼古なる自由への誓い",
+    zhCN: "苍古自由之誓",
     pronunciationJa: "そうこなるじゆうへのちかい",
     tags: [ "weapon", "sword" ],
     variants: {
@@ -241,18 +247,22 @@
   {
     en: "Mistsplitter Reforged",
     ja: "霧切の廻光",
+    zhCN: "雾切之回光",
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "霧切" ],
+      zhCN: [ "雾切" ],
     },
   },
   {
     en: "Haran Geppaku Futsu",
     ja: "波乱月白経津",
+    zhCN: "波乱月白经津",
     pronunciationJa: "はらんげっぱくふつ",
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "波乱" ],
+      zhCN: [ "波波津" ],
     },
   },
 
