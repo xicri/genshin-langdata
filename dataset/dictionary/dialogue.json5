@@ -228,6 +228,7 @@
   {
     en: "Glory to the Shogun and her everlasting reign!",
     ja: "常道を恢弘せしは、永遠なる鳴神なり",
+    zhCN: "常道恢弘，鸣神永恒！",
     pronunciationJa: "じょうどうをかいこうせしは、えいえんなるなるかみなり",
     tags: [ "dialogue", "inazuma" ],
     notes: "英語の直訳は「将軍とその永遠なる治世に栄光あれ」。九条裟羅の元素爆発発動時のセリフでもあるが、英語版では裟羅は \"Glory to the Shogun!\" までしか言わない。",
@@ -235,6 +236,7 @@
   {
     en: "There is no escape!",
     ja: "逃げ道はありません",
+    zhCN: "无处可逃！",
     pronunciationJa: "にげみちはありません",
     tags: [ "dialogue" ],
     notes: "雷電将軍の元素スキル発動時のセリフ",
