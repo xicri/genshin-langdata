@@ -1754,6 +1754,7 @@
   {
     en: "Tighnari",
     ja: "ティナリ",
+    notes: "英語の発音は「タイナリ」",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -1904,10 +1905,17 @@
     tags: [ "snezhnaya", "inazuma", "title" ],
   },
   {
+    en: "Pantalone",
+    ja: "パンタローネ",
+    notes: "富者の通称?",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
     en: "Regrator",
     ja: "富者",
     zhCN: "富人",
     pronunciationJa: "ふしゃ",
+    notes: "パンタローネの称号?",
     tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
@@ -1939,21 +1947,21 @@
     ja: "隊長",
     pronunciationJa: "たいちょう",
     notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Columbina / The Damselette",
     ja: "少女",
     pronunciationJa: "しょうじょ",
     notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Arlecchino",
     ja: "召使",
     pronunciationJa: "めしつかい",
     notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。日本語でもカタカナでそのまま「アルレッキーノ」と表記するという情報もある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Sandrone",
@@ -1966,7 +1974,7 @@
     ja: "傀儡",
     pronunciationJa: "かいらい",
     notes: "サンドローネの称号? 公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Pedrolino",
@@ -1979,7 +1987,7 @@
     ja: "道化",
     pronunciationJa: "どうけ",
     notes: "ペドロリーノの称号? 公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
     en: "Tsaritsa",
