@@ -2,6 +2,7 @@
   {
     en: "Ad astra abyssosque!",
     ja: "星と深淵を目指せ!",
+    zhCN: "向着星辰与深渊！",
     pronunciationJa: "ほしとしんえんをめざせ",
     notes: "英語ではなくラテン語らしい?",
     tags: [ "dialogue" ],
@@ -9,6 +10,7 @@
   {
     en: "How about we explore the area ahead of us later?",
     ja: "またあとで来よう、今は他を探索しよう!",
+    zhCN: "前面的区域，以后再来探索吧！",
     pronunciationJa: "またあとでこよう、いまはほかをたんさくしよう!",
     notes: "未実装エリアに入った時にパイモンが言うセリフ",
     tags: [ "dialogue" ],
