@@ -1755,7 +1755,7 @@
     en: "Collei",
     ja: "コレイ",
     zhCN: "柯莱",
-    tags: [ /* TODO "sumeru", */ "character-sub" ],
+    tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Lesser Load Kusanali",
