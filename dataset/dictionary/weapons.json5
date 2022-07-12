@@ -274,6 +274,7 @@
   {
     en: "Waster Greatsword",
     ja: "訓練用大剣",
+    zhCN: "训练大剑",
     pronunciationJa: "くんれんようたいけん",
     tags: [ "weapon", "claymore" ],
   },
@@ -281,6 +282,7 @@
   {
     en: "Old Merc's Pal",
     ja: "傭兵の重剣",
+    zhCN: "佣兵重剑",
     pronunciationJa: "ようへいのじゅうけん",
     tags: [ "weapon", "claymore" ],
   },
@@ -288,29 +290,34 @@
   {
     en: "Ferrous Shadow",
     ja: "鉄影段平",
+    zhCN: "铁影阔剑",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Bloodtainted Greatsword",
     ja: "龍血を浴びた剣",
+    zhCN: "沐浴龙血之剑",
     pronunciationJa: "りゅうけつをあびたけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "White Iron Greatsword",
     ja: "白鉄の大剣",
+    zhCN: "白铁大剑",
     pronunciationJa: "はくてつのたいけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Debate Club",
     ja: "理屈責め",
+    zhCN: "以理服人",
     pronunciationJa: "りくつぜめ",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Skyrider Greatsword",
     ja: "飛天大御剣",
+    zhCN: "飞天大御剑",
     pronunciationJa: "ひてんおおみつるぎ",
     tags: [ "weapon", "claymore" ],
   },
