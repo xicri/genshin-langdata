@@ -129,6 +129,7 @@
   {
     en: "Know my sword!",
     ja: "この剣は分かるかい!",
+    zhCN: "雨线难画。",
     pronunciationJa: "このけんはわかるかい",
     notes: "行秋の元素スキル発動時のセリフ",
     tags: [ "dialogue" ],
@@ -136,6 +137,7 @@
   {
     en: "Witness the power of Guhua!",
     ja: "古華奥義",
+    zhCN: "古华深秘。",
     pronunciationJa: "こかおうぎ",
     notes: "行秋の元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
@@ -143,6 +145,7 @@
   {
     en: "Wrath of the Flame!",
     ja: "炎食いの刑!",
+    zhCN: "食盐之罚",
     pronunciationJa: "ほのおぐいのけい",
     notes: "煙緋の元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
@@ -150,6 +153,7 @@
   {
     en: "With sword comes shadow!",
     ja: "我が剣よ! 影に従え――",
+    zhCN: "剑出，影随——",
     pronunciationJa: "わがけんよ かげにしたがえ",
     notes: "刻晴の元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
@@ -157,23 +161,30 @@
   {
     en: "Cut to the chase!",
     ja: "剣光よ、世の乱れを斬り尽くせ!",
+    zhCN: "剑光如我，斩尽芜杂！",
     pronunciationJa: "けんこうよ、よのみだれをきりつくせ",
     notes: "刻晴の元素爆発発動時のセリフ",
+    variants: {
+      zhCN: [ "剑光如我，斩尽牛杂！" ],
+    },
     tags: [ "dialogue" ],
   },
   {
     en: "Evil conquering!",
     ja: "靖妖儺舞",
+    zhCN: "靖妖傩舞",
     pronunciationJa: "せいようなぶ",
     notes: "魈の元素爆発発動時のセリフ。「西洋鍋」という空耳で有名。",
     tags: [ "dialogue" ],
     variants: {
       ja: [ "西洋鍋" ],
+      zhCN: [ "劲腰傩舞" ],
     },
   },
   {
     en: "Lament!",
     ja: "喚くがいい。",
+    zhCN: "悲鸣吧。",
     pronunciationJa: "わめくがいい",
     notes: "魈の元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
@@ -181,12 +192,14 @@
   {
     en: "Time to go!",
     ja: "いってらっしゃい!",
+    zhCN: "吃饱喝饱，一路走好！",
     notes: "胡桃の元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
   },
   {
     en: "Order guide you.",
     ja: "天理長駆。",
+    zhCN: "天理长驱。",
     pronunciationJa: "てんりちょうく",
     notes: "鍾離の元素爆発発動時のセリフ。「天にチョーク」という空耳で有名。",
     tags: [ "dialogue" ],
@@ -197,8 +210,15 @@
   {
     en: "This is order.",
     ja: "天道、ここにあり。",
+    zhCN: "此乃天道。",
     pronunciationJa: "てんどうここにあり",
     notes: "鍾離の元素爆発発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "I will have order!",
+    ja: "天動万象。",
+    zhCN: "天动万象。",
     tags: [ "dialogue" ],
   },
 
