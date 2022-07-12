@@ -167,6 +167,11 @@
     ja: "シナバースピンドル",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Cursed Blade",
+    ja: "妖刀",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
