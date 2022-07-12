@@ -326,11 +326,13 @@
   {
     en: "Loom of Fate",
     ja: "運命の織機",
+    zhCN: "命运的织机",
     pronunciationJa: "うんめいのおりき",
   },
   {
     en: "Inteyvat",
     ja: "インテイワット",
+    zhCN: "因提瓦特",
   },
 
   //
@@ -339,10 +341,12 @@
   {
     en: "Dark Calamity",
     ja: "黒災",
+    zhCN: "黑灾",
     pronunciationJa: "こくさい",
   },
   {
     en: "the Calamity of Darkness",
     ja: "漆黒の災い",
+    zhCN: "漆黑的灾难",
   },
 ]
