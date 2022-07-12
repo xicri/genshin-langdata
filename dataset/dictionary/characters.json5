@@ -1905,6 +1905,12 @@
     tags: [ "snezhnaya", "inazuma", "title" ],
   },
   {
+    en: "Pantalone",
+    ja: "パンタローネ",
+    notes: "富者の通称?",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
     en: "Regrator",
     ja: "富者",
     zhCN: "富人",
