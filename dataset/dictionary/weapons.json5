@@ -45,6 +45,7 @@
   {
     en: "Dull Blade",
     ja: "無鋒の剣",
+    zhCN: "无锋剑",
     pronunciationJa: "むほうのけん",
     tags: [ "weapon", "sword" ],
   },
@@ -52,6 +53,7 @@
   {
     en: "Silver Sword",
     ja: "銀の剣",
+    zhCN: "银剑",
     pronunciationJa: "ぎんのけん",
     tags: [ "weapon", "sword" ],
   },
