@@ -5,6 +5,7 @@
   {
     en: "Genshin Impact",
     ja: "原神 (タイトル)",
+    zhCN: "原神（标题）",
     pronunciationJa: "げんしん",
     notes: "ゲームタイトル。神の目を持つ者を指す「原神」は allogene。",
     _meta: {
@@ -14,6 +15,7 @@
   {
     en: "allogene",
     ja: "原神",
+    zhCN: "原神",
     pronunciationJa: "げんしん",
     notes: "タイトルではなく、神の目を持つ者を意味する言葉としての「原神」。英語版タイトルは Genshin Impact",
     _meta: {
@@ -26,66 +28,78 @@
   {
     en: "Vision",
     ja: "神の目",
+    zhCN: "神之眼",
     pronunciationJa: "かみのめ",
   },
   {
     en: "Gnosis",
     ja: "神の心",
+    zhCN: "神之心",
     pronunciationJa: "かみのこころ",
   },
   {
     en: "Delusion",
     ja: "邪眼",
+    zhCN: "邪眼",
     pronunciationJa: "じゃがん",
     notes: "delusion の原義は「欺くこと」「妄想」",
   },
   {
     en: "Archon",
     ja: "魔神",
+    zhCN: "魔神",
     pronunciationJa: "まじん",
   },
   {
     en: "Archon War",
     ja: "魔神戦争",
+    zhCN: "魔神战争",
     pronunciationJa: "まじんせんそう",
   },
   {
     en: "Emergency Food",
     ja: "非常食",
+    zhCN: "应急食品",
     pronunciationJa: "ひじょうしょく",
     tags: [ "title" ],
   },
   {
     en: "The Seven",
     ja: "七神",
+    zhCN: "七神",
     pronunciationJa: "しちしん",
     tags: [ "title" ],
   },
   {
     en: "erode",
     ja: "摩耗する",
+    zhCN: "磨损",
     pronunciationJa: "まもうする",
   },
   {
     en: "gaze of the god",
     ja: "神の眼差し",
+    zhCN: "神明的视线",
     pronunciationJa: "かみのまなざし",
   },
   {
     en: "freedom",
     ja: "自由",
+    zhCN: "自由",
     pronunciationJa: "じゆう",
     tags: [ "mondstadt" ],
   },
   {
     en: "contract",
     ja: "契約",
+    zhCN: "契约",
     pronunciationJa: "けいやく",
     tags: [ "liyue" ],
   },
   {
     en: "eternity",
     ja: "永遠",
+    zhCN: "永恒",
     pronunciationJa: "えいえん",
     tags: [ "inazuma" ],
   },
