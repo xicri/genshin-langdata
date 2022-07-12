@@ -22,12 +22,14 @@
   {
     en: "Cool it!",
     ja: "おとなしくしやがれ!",
+    zhCN: "冻结吧！",
     notes: "ガイアの元素スキル発動時のセリフ",
     tags: [ "dialogue" ],
   },
   {
     en: "Don't get frostbite.",
     ja: "風邪ひくなよ。",
+    zhCN: "小心着凉。",
     pronunciationJa: "かぜひくなよ",
     notes: "ガイアの元素爆発発動時のセリフ。英語版では風邪ではなく凍傷になるなよ、と言っている。",
     tags: [ "dialogue" ],
@@ -35,12 +37,14 @@
   {
     en: "Oh, so sorry!",
     ja: "すまん、すまん。",
+    zhCN: "抱歉哦。",
     notes: "ガイアの元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
   },
   {
     en: "This moment will be frozen in time.",
     ja: "…この瞬間、お前は永遠を手にする。",
+    zhCN: "…这刹那，将是你的永恒。",
     pronunciationJa: "このしゅんかん、おまえはえいえんをてにする",
     notes: "ガイアの元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
@@ -48,6 +52,7 @@
   {
     en: "What's the hurry?",
     ja: "お前って本当にせっかちだな。",
+    zhCN: "真是急性子啊你。",
     pronunciationJa: "おまえってほんとうにせっかちだな",
     notes: "ガイアのダッシュ開始時のセリフ",
     tags: [ "dialogue" ],
@@ -55,6 +60,7 @@
   {
     en: "I'm not done...",
     ja: "お楽しみは…これから…",
+    zhCN: "还没尽…兴…",
     pronunciationJa: "おたのしみはこれから",
     notes: "ガイアの戦闘不能時のセリフ",
     tags: [ "dialogue" ],
@@ -62,6 +68,7 @@
   {
     en: "That was unexpected...",
     ja: "フンッ、予想外だぜ…",
+    zhCN: "哼，意料之外…",
     pronunciationJa: "フンッ、よそうがいだぜ…",
     notes: "ガイアの戦闘不能時のセリフ",
     tags: [ "dialogue" ],
@@ -69,6 +76,7 @@
   {
     en: "Steady as stone",
     ja: "岩の重さは安心できます",
+    zhCN: "岩石的重量令人安心",
     pronunciationJa: "いわのおもさはあんしんできます",
     notes: "ノエルの元素スキル発動時のセリフ。直訳は「石のように揺るぎない」。",
     tags: [ "dialogue" ],
@@ -76,6 +84,7 @@
   {
     en: "Shaken and stirred!",
     ja: "攻守兼備",
+    zhCN: "攻守兼备",
     pronunciationJa: "こうしゅけんび",
     notes: "ディオナの元素スキル発動時のセリフ",
     tags: [ "dialogue" ],
@@ -86,12 +95,14 @@
   {
     en: "Punishment!",
     ja: "ヴァーディクト!",
+    zhCN: "审判！",
     notes: "ロサリアの元素爆発発動時のセリフ。日本語版のヴァーディクトは恐らく verdict で、裁判での陪審員の評決の意。",
     tags: [ "dialogue" ],
   },
   {
     en: "Your verdict is...!",
     ja: "判決を―下す!",
+    zhCN: "审判——喝啊！",
     pronunciationJa: "はんけつをくだす",
     notes: "ディルックの元素爆発発動時のセリフ。verdict は、裁判での陪審員の評決の意。",
     tags: [ "dialogue" ],
@@ -99,12 +110,14 @@
   {
     en: "Abiogenesis: Solar Isotoma",
     ja: "創生術・擬似陽華",
+    zhCN: "创生术·拟造阳华",
     pronunciationJa: "そうせいじゅつ・ぎじようか",
     notes: "アルベドの元素スキル名。発動時のセリフとしての「擬似陽華」は \"Come into being!\"",
   },
   {
     en: "Come into being!",
     ja: "擬似陽華",
+    zhCN: "拟造阳华",
     pronunciationJa: "ぎじようか",
     notes: "アルベドの元素スキル発動時のセリフ。スキル名としての「擬似陽華」は\"Solar Isotoma\"",
     tags: [ "dialogue" ],
