@@ -1752,10 +1752,20 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Tighnari",
+    ja: "ティナリ",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
     en: "Collei",
     ja: "コレイ",
     zhCN: "柯莱",
-    tags: [ /* TODO "sumeru", */ "character-sub" ],
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Dori",
+    ja: "ドリー",
+    tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Lesser Load Kusanali",
@@ -1904,9 +1914,10 @@
     en: "Il Dotorre",
     ja: "博士",
     zhCN: "博士",
+    pronunciationJa: "はかせ", // Source: https://twitter.com/Genshin_7/status/1546348419945361411
     tags: [ "snezhnaya", "character-sub", "title" ],
     variants: {
-      ja: [ "はくし", "はかせ" ], // TODO Check which is correct when appeared in the story
+      ja: [ "はくし" ],
     },
   },
   {
@@ -1918,9 +1929,57 @@
   {
     en: "Rooster",
     ja: "雄鶏",
+    pronunciationJa: "おんどり",
     zhCN: "公鸡",
-    notes: "プルチネラの称号。公式に発表されているのは中国語と日本語だけで、英語の Rooster は非公式訳。",
+    notes: "プルチネラの称号。公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
     tags: [ "snezhnaya", "character-sub", "title" ],
+  },
+  {
+    en: "Capitano",
+    ja: "隊長",
+    pronunciationJa: "たいちょう",
+    notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Columbina / The Damselette",
+    ja: "少女",
+    pronunciationJa: "しょうじょ",
+    notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Arlecchino",
+    ja: "召使",
+    pronunciationJa: "めしつかい",
+    notes: "公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。日本語でもカタカナでそのまま「アルレッキーノ」と表記するという情報もある。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Sandrone",
+    ja: "サンドローネ",
+    notes: "傀儡の通称? 英語・日本語共に公式情報は未確認であり、これらは俗称、或いは誤りを含む可能性がある。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "The Puppet",
+    ja: "傀儡",
+    pronunciationJa: "かいらい",
+    notes: "サンドローネの称号? 公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Pedrolino",
+    ja: "ペドロリーノ",
+    notes: "道化の通称? 英語・日本語共に公式情報は未確認であり、これらは俗称、或いは誤りを含む可能性がある。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Pierro / The Jester",
+    ja: "道化",
+    pronunciationJa: "どうけ",
+    notes: "ペドロリーノの称号? 公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
+    tags: [ "snezhnaya", "character-sub" ],
   },
   {
     en: "Tsaritsa",
