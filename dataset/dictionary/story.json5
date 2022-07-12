@@ -304,16 +304,19 @@
   {
     en: "Harbinger",
     ja: "執行官 / ファトゥス",
+    zhCN: "执行官",
     tags: [ "snezhnaya", "title" ],
     notes: "ファデュイの執行官を指す。",
     examples: [{
       en: "Eighth of the Fatui Harbingers",
       ja: "ファトゥス第8位",
+      zhCN: "愚人众执行官第8席",
     }],
   },
   {
     en: "Fire-Water",
     ja: "炎水",
+    zhCN: "火水",
     tags: [ "snezhnaya" ],
   },
 
