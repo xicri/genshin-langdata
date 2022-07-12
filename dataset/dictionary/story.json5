@@ -254,12 +254,14 @@
   {
     en: "Vision Hunt Decree",
     ja: "目狩り令",
+    zhCN: "眼狩令",
     pronunciationJa: "めがりれい",
     tags: [ "inazuma" ],
   },
   {
     en: "Sakoku Decree",
     ja: "鎖国令",
+    zhCN: "锁国令",
     pronunciationJa: "さこくれい",
     tags: [ "inazuma" ],
     notes: "単に「鎖国」とだけ言う場合、\"lockdown\" と表現される場合もある",
@@ -267,27 +269,32 @@
   {
     en: "Musou no Hitotachi",
     ja: "無想の一太刀",
+    zhCN: "无想的一刀",
     pronunciationJa: "むそうのひとたち",
     tags: [ "inazuma" ],
     variants: {
       ja: [ "無相の一太刀", "無双の一太刀" ],
+      zhCN: [ "五香的一刀" ],
     },
   },
   {
     en: "Electro Mitsudomoe",
     ja: "雷の三つ巴",
+    zhCN: "雷之三重巴",
     pronunciationJa: "かみなりのみつどもえ",
     tags: [ "inazuma" ],
   },
   {
     en: "perch",
     ja: "止まり木",
+    zhCN: "栖木",
     pronunciationJa: "とまりぎ",
     tags: [ "inazuma" ],
   },
   {
     en: "Maushiro",
     ja: "マウシロ",
+    zhCN: "木簧笛",
     tags: [ "inazuma" ],
   },
 
