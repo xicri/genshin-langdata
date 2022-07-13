@@ -1850,12 +1850,12 @@
     tags: [ "snezhnaya", "liyue" ],
   },
   {
-    en: "Signora",
+    en: "La Signora",
     ja: "淑女 / シニョーラ",
     zhCN: "女士",
     pronunciationJa: "しゅくじょ / シニョーラ",
     tags: [ "snezhnaya", "inazuma", "enemy-boss", "character-sub" ],
-    notes: "\"La Signora\" と、フランス語の定冠詞 \"La\" を付けて表記されることも。「淑女」の訳として \"The Fair Lady\" が当てられているように見える箇所もあるが、一般に他のキャラクターから「淑女」と呼ばれる際は、英語版では \"Signora\" と呼ばれており、また「シニョーラ」とコードネーム「淑女」の区別もないものとして扱われているため、ここでは「淑女」の訳として \"Signora\" を当てた。",
+    notes: "単に \"Signora\" と、イタリア語の定冠詞 \"La\" を省略して呼ばれることも多い。「淑女」の訳として \"The Fair Lady\" が当てられているように見える箇所もあるが、一般に他のキャラクターから「淑女」と呼ばれる際は、英語版では \"Signora\" と呼ばれており、また「シニョーラ」とコードネーム「淑女」の区別もないものとして扱われているため、ここでは「淑女」の訳として \"Signora\" を当てた。",
     examples: [{
       en: "Her name is Signora, No. 8 of the harbingers.",
       ja: "彼女は 『シニョーラ』 ― ファデュイ十一人の執行官の第8位、コードネーム『淑女』 だよ。",
