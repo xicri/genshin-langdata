@@ -1818,6 +1818,7 @@
     ja: "タルタリヤ",
     zhCN: "达达利亚",
     tags: [ "snezhnaya", "liyue", "character-main", "enemy-boss" ],
+    notes: "[公子](/childe/)の通称",
     variants: {
       ja: [ "タルタリア", "タルタル" ],
     },
@@ -1827,7 +1828,7 @@
     ja: "公子",
     zhCN: "公子",
     pronunciationJa: "こうし",
-    notes: "英語圏では Tartaglia よりも Childe と呼ばれることが多い印象。",
+    notes: "[タルタリヤ](/tartaglia/)のコードネーム。英語圏では Tartaglia よりも Childe と呼ばれることが多い印象。",
     tags: [ "snezhnaya", "liyue", "character-main", "title", "how-to-call", "enemy-boss" ],
   },
   {
@@ -1907,7 +1908,7 @@
   {
     en: "Pantalone",
     ja: "パンタローネ",
-    notes: "富者の通称?",
+    notes: "[富者](/regrator/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -1915,7 +1916,7 @@
     ja: "富者",
     zhCN: "富人",
     pronunciationJa: "ふしゃ",
-    notes: "パンタローネの称号?",
+    notes: "[パンタローネ](/pantalone/)のコードネーム",
     tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
@@ -1939,7 +1940,7 @@
     ja: "雄鶏",
     pronunciationJa: "おんどり",
     zhCN: "公鸡",
-    notes: "プルチネラの称号。公式な英訳は未確認であり、この英訳は俗称、或いは誤りを含む可能性がある。",
+    notes: "[プルチネッラ](/pulcinella/)のコードネーム",
     tags: [ "snezhnaya", "character-sub", "title" ],
   },
   {
