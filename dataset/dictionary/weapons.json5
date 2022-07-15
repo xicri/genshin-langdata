@@ -687,6 +687,7 @@
   {
     en: "Hunter's Bow",
     ja: "狩猟弓",
+    zhCN: "猎弓",
     pronunciationJa: "しゅりょうゆみ",
     tags: [ "weapon", "bow" ],
   },
@@ -694,6 +695,7 @@
   {
     en: "Seasoned Hunter's Bow",
     ja: "歴戦の狩猟弓",
+    zhCN: "历练的猎弓",
     pronunciationJa: "れきせんのしゅりょうゆみ",
     tags: [ "weapon", "bow" ],
   },
@@ -701,29 +703,34 @@
   {
     en: "Raven Bow",
     ja: "鴉羽の弓",
+    zhCN: "鸦羽弓",
     pronunciationJa: "からすばのゆみ",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Sharpshooter's Oath",
     ja: "シャープシューターの誓い",
+    zhCN: "神射手之誓",
     pronunciationJa: "シャープシューターのちかい",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Recurve Bow",
     ja: "リカーブボウ",
+    zhCN: "反曲弓",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Slingshot",
     ja: "弾弓",
+    zhCN: "弹弓",
     pronunciationJa: "だんきゅう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Messenger",
     ja: "文使い",
+    zhCN: "信使",
     pronunciationJa: "ふみつかい",
     tags: [ "weapon", "bow" ],
   },
