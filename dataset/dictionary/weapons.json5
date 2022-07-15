@@ -1075,34 +1075,43 @@
   {
     en: "Skyward Atlas",
     ja: "天空の巻",
+    zhCN: "天空之卷",
     pronunciationJa: "てんくうのまき",
+    variants: {
+      zhCN: [ "天空书" ],
+    },
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Lost Prayer to the Sacred Winds",
     ja: "四風原典",
+    zhCN: "四风原典",
     pronunciationJa: "しふうげんてん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Memory of Dust",
     ja: "浮世の錠",
+    zhCN: "尘世之锁",
     pronunciationJa: "うきよのじょう", // TODO Need check
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Everlasting Moonglow",
     ja: "不滅の月華",
+    zhCN: "不灭月华",
     pronunciationJa: "ふめつのげっか",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Kagura's Verity",
     ja: "神楽の真意",
+    zhCN: "神乐之真意",
     pronunciationJa: "かぐらのしんい",
     tags: [ "weapon", "catalyst" ],
     variants: {
       ja: [ "神楽" ],
+      zhCN: [ "神乐铃" ],
     },
   },
 ]
