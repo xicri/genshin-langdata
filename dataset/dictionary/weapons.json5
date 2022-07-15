@@ -738,36 +738,42 @@
   {
     en: "Favonius Warbow",
     ja: "西風猟弓",
+    zhCN: "西风猎弓",
     pronunciationJa: "セピュロスアロー",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "The Stringless",
     ja: "絶弦",
+    zhCN: "绝弦",
     pronunciationJa: "ぜつげん",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Sacrificial Bow",
     ja: "祭礼の弓",
+    zhCN: "祭礼弓",
     pronunciationJa: "さいれいのゆみ",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Royal Bow",
     ja: "旧貴族長弓",
+    zhCN: "宗室长弓",
     pronunciationJa: "きゅうきぞくちょうきゅう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Rust",
     ja: "弓蔵",
+    zhCN: "弓藏",
     pronunciationJa: "ゆみぞう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Prototype Crescent",
     ja: "澹月・試作",
+    zhCN: "试作澹月",
     pronunciationJa: "たんげつ・しさく",
     tags: [ "weapon", "bow" ],
     variants: {
@@ -777,17 +783,20 @@
   {
     en: "Compound Bow",
     ja: "リングボウ",
+    zhCN: "钢轮弓",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Blackcliff Warbow",
     ja: "黒岩の戦弓",
+    zhCN: "黑岩战弓",
     pronunciationJa: "こくがんのせんきゅう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "The Viridescent Hunt",
     ja: "蒼翠の狩猟弓",
+    zhCN: "苍翠猎弓",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "蒼翠" ],
@@ -796,12 +805,14 @@
   {
     en: "Alley Hunter",
     ja: "ダークアレイの狩人",
+    zhCN: "暗巷猎手",
     pronunciationJa: "ダークアレイのかりうど",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Mitternachts Waltz",
     ja: "幽夜のワルツ",
+    zhCN: "幽夜华尔兹",
     pronunciationJa: "ゆうやのワルツ",
     tags: [ "weapon", "bow" ],
     variants: {
@@ -811,12 +822,14 @@
   {
     en: "Hamayumi",
     ja: "破魔の弓",
+    zhCN: "破魔之弓",
     pronunciationJa: "はまのゆみ",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Mouun's Moon",
     ja: "曚雲の月",
+    zhCN: "矇云之月",
     pronunciationJa: "もううんのつき",
     tags: [ "weapon", "bow" ],
     variants: {
@@ -826,6 +839,7 @@
   {
     en: "Fading Twilight",
     ja: "落霞",
+    zhCN: "落霞",
     pronunciationJa: "らっか",
     tags: [ "weapon", "bow" ],
   },
