@@ -1754,6 +1754,7 @@
   {
     en: "Tighnari",
     ja: "ティナリ",
+    zhCN: "提纳里",
     notes: "英語の発音は「タイナリ」",
     tags: [ "sumeru", "character-main" ],
   },
@@ -1766,6 +1767,7 @@
   {
     en: "Dori",
     ja: "ドリー",
+    zhCN: "多莉",
     tags: [ "sumeru", "character-main" ],
   },
   {
