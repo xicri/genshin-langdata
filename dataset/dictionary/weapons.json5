@@ -199,6 +199,13 @@
   {
     en: "Cursed Blade",
     ja: "妖刀",
+    zhCN: "妖刀",
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Kagotsurube Isshin",
+    ja: "籠釣瓶一心",
+    zhCN: "笼钓瓶一心",
     tags: [ "weapon", "sword" ],
   },
   // ★5
