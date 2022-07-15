@@ -847,39 +847,50 @@
   {
     en: "Skyward Harp",
     ja: "天空の翼",
+    zhCN: "天空之翼",
     pronunciationJa: "てんくうのつばさ",
+    variants: {
+      zhCN: [ "天空弓" ],
+    },
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Amos' Bow",
     ja: "アモスの弓",
+    zhCN: "阿莫斯之弓",
     pronunciationJa: "アモスのゆみ",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "アモス" ],
+      zhCN: [ "阿莫斯" ],
     },
   },
   {
     en: "Elegy for the End",
     ja: "終焉を嘆く詩",
+    zhCN: "终末嗟叹之诗",
     pronunciationJa: "しゅうえんをなげくうた",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "終焉" ],
+      zhCN: [ "终末弓" ],
     },
   },
   {
     en: "Thundering Pulse",
     ja: "飛雷の鳴弦",
+    zhCN: "飞雷之弦振",
     pronunciationJa: "ひらいのめいげん",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "飛雷" ],
+      zhCN: [ "飞雷弓" ],
     },
   },
   {
     en: "Polar Star",
     ja: "冬極の白星",
+    zhCN: "冬极白星",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "冬極" ],
@@ -888,6 +899,7 @@
   {
     en: "Aqua Simulacra",
     ja: "若水",
+    zhCN: "若水",
     tags: [ "weapon", "bow" ],
   },
 
