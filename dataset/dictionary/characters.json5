@@ -1910,6 +1910,7 @@
   {
     en: "Pantalone",
     ja: "パンタローネ",
+    zhCN: "潘塔罗涅",
     notes: "[富者](/regrator/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
@@ -1924,6 +1925,7 @@
   {
     en: "Il Dottore",
     ja: "ドットーレ",
+    zhCN: "多托雷",
     notes: "[博士](/the-doctor/)の通称。英語版でも、イタリア語の定冠詞 Il を省略して呼ばれることがある。",
     tags: [ "snezhnaya", "character-sub" ],
   },
@@ -1956,12 +1958,14 @@
   {
     en: "Il Capitano",
     ja: "カピターノ",
+    zhCN: "卡皮塔诺",
     notes: "[隊長](/the-captain/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
     en: "The Captain",
     ja: "隊長",
+    zhCN: "队长",
     pronunciationJa: "たいちょう",
     notes: "[カピターノ](/il-capitano/)のコードネーム",
     tags: [ "snezhnaya", "character-sub", "title" ],
@@ -1975,6 +1979,7 @@
   {
     en: "Damselette",
     ja: "少女",
+    zhCN: "少女",
     pronunciationJa: "しょうじょ",
     notes: "[コロンビーナ](/columbina/)のコードネーム",
     tags: [ "snezhnaya", "character-sub", "title" ],
@@ -1982,12 +1987,14 @@
   {
     en: "Arlecchino",
     ja: "アルレッキーノ",
+    zhCN: "阿蕾奇诺",
     notes: "[召使](/the-knave/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
     en: "The Knave",
     ja: "召使",
+    zhCN: "仆人",
     pronunciationJa: "めしつかい",
     notes: "[アルレッキーノ](/arlecchino/)のコードネーム",
     tags: [ "snezhnaya", "character-sub", "title" ],
@@ -1995,12 +2002,14 @@
   {
     en: "Sandrone",
     ja: "サンドローネ",
+    zhCN: "桑多涅",
     notes: "[傀儡](/marionette/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
     en: "Marionette",
     ja: "傀儡",
+    zhCN: "木偶",
     pronunciationJa: "かいらい",
     notes: "[サンドローネ](/sandrone/)のコードネーム",
     tags: [ "snezhnaya", "character-sub", "title" ],
@@ -2008,6 +2017,7 @@
   {
     en: "Pierro",
     ja: "ピエロ",
+    zhCN: "皮耶罗",
     notes: "[道化](/the-jester/)の通称。以前はペドロリーノという名前だったが変更されたという情報もある。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
     tags: [ "snezhnaya", "character-sub" ],
     variants: {
@@ -2018,6 +2028,7 @@
   {
     en: "The Jester",
     ja: "道化",
+    zhCN: "丑角",
     pronunciationJa: "どうけ",
     notes: "[ピエロ](/pierro/)のコードネーム",
     tags: [ "snezhnaya", "character-sub", "title" ],
