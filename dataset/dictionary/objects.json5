@@ -260,24 +260,28 @@
   {
     en: "Frostbearing Tree",
     ja: "冬忍びの樹",
+    zhCN: "忍冬之树",
     pronunciationJa: "ふゆしのびのき",
     tags: [ "object", "dragonspine" ],
   },
   {
     en: "Scarlet Quartz",
     ja: "深紅の石",
+    zhCN: "深赤之石",
     pronunciationJa: "しんくのいし",
     tags: [ "object", "dragonspine" ],
   },
   {
     en: "Heat Source",
     ja: "熱源",
+    zhCN: "热源",
     pronunciationJa: "ねつげん",
     tags: [ "object", "dragonspine" ],
   },
   {
     en: "Ruin Blazier",
     ja: "遺跡の灯火",
+    zhCN: "遗迹之烛",
     pronunciationJa: "いせきのともしび",
     tags: [ "object", "dragonspine" ],
   },
