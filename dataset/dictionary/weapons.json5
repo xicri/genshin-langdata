@@ -622,44 +622,59 @@
   {
     en: "Primordial Jade Winged-Spear",
     ja: "和璞鳶",
+    zhCN: "和璞鸢",
     pronunciationJa: "わはくえん",
+    variants: {
+      zhCN: [ "鸟枪" ],
+    },
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Skyward Spine",
     ja: "天空の脊",
+    zhCN: "天空之脊",
+    variants: {
+      zhCN: [ "薄荷", "天空薄荷", "雪山薄荷" ],
+    },
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Vortex Vanguisher",
     ja: "破天の槍",
+    zhCN: "贯虹之槊",
     pronunciationJa: "はてんのやり",
     tags: [ "weapon", "polearm" ],
     variants: {
       ja: [ "破天" ],
+      zhCN: [ "贯虹" ],
     },
   },
   {
     en: "Staff of Homa",
     ja: "護摩の杖",
+    zhCN: "护摩之杖",
     pronunciationJa: "ごまのつえ",
     tags: [ "weapon", "polearm" ],
     variants: {
       ja: [ "護摩" ],
+      zhCN: [ "护摩" ],
     },
   },
   {
     en: "Engulfing Lightning",
     ja: "草薙の稲光",
+    zhCN: "薙草之稻光",
     pronunciationJa: "くさなぎのいなびかり",
     tags: [ "weapon", "polearm" ],
     variants: {
       ja: [ "草薙" ],
+      zhCN: [ "薙刀", "剃刀" ],
     },
   },
   {
     en: "Calamity Queller",
     ja: "息災",
+    zhCN: "息灾",
     pronunciationJa: "そくさい",
     tags: [ "weapon", "polearm" ],
   },
