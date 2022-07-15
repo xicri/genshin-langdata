@@ -966,35 +966,41 @@
   {
     en: "Favonius Codex",
     ja: "西風秘典",
+    zhCN: "西风秘典",
     pronunciationJa: "セピュロスコデックス",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "The Widsith",
     ja: "流浪楽章",
+    zhCN: "流浪乐章",
     pronunciationJa: "るろうがくしょう",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Sacrificial Fragments",
     ja: "祭礼の断片",
+    zhCN: "祭礼残章",
     pronunciationJa: "さいれいのだんぺん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Royal Grimoire",
     ja: "旧貴族秘法録",
+    zhCN: "宗室秘法录",
     pronunciationJa: "きゅうきぞくひほうろく",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Solar Pearl",
     ja: "匣中日月",
+    zhCN: "匣里日月",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Prototype Amber",
     ja: "金珀・試作",
+    zhCN: "试作金珀",
     pronunciationJa: "きんぱく・しさく",
     tags: [ "weapon", "catalyst" ],
     variants: {
@@ -1004,6 +1010,7 @@
   {
     en: "Mappa Mare",
     ja: "万国諸海の図譜",
+    zhCN: "万国诸海图谱",
     pronunciationJa: "ばんこくしょかいのずふ",
     tags: [ "weapon", "catalyst" ],
     variants: {
@@ -1013,47 +1020,55 @@
   {
     en: "Blackcliff Agate",
     ja: "黒岩の緋玉",
+    zhCN: "黑岩绯玉",
     pronunciationJa: "こくがんのひぎょく",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Eye of Perception",
     ja: "昭心",
+    zhCN: "昭心",
     pronunciationJa: "しょうしん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Frostbearer",
     ja: "冬忍びの実",
+    zhCN: "忍冬之果",
     pronunciationJa: "ふゆしのびのみ",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Wine and Song",
     ja: "ダークアレイの酒と詩",
+    zhCN: "暗巷的酒与诗",
     pronunciationJa: "ダークアレイのさけとうた",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Dodoco Tales",
     ja: "ドドコの物語",
+    zhCN: "嘟嘟可故事集",
     pronunciationJa: "ドドコのものがたり",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Hakushin Ring",
     ja: "白辰の輪",
+    zhCN: "白辰之环",
     pronunciationJa: "はくしんのわ",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Oathsworn Eye",
     ja: "誓いの明瞳",
+    zhCN: "正誓之明瞳",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Ointment of Sight",
     ja: "明目の油剤",
+    zhCN: "明目之油膏",
     tags: [ "item" ],
   },
   // ★5
