@@ -526,12 +526,14 @@
   {
     en: "Dragon's Bane",
     ja: "匣中滅龍",
+    zhCN: "匣里灭辰",
     pronunciationJa: "こうちゅうめつりゅう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Prototype Starglitter",
     ja: "星鎌・試作",
+    zhCN: "试作星镰",
     pronunciationJa: "ほしがま・しさく",
     tags: [ "weapon", "polearm" ],
     variants: {
@@ -541,6 +543,7 @@
   {
     en: "Crescent Pike",
     ja: "流月の針",
+    zhCN: "流月针",
     pronunciationJa: "りゅうげつのはり",
     tags: [ "weapon", "polearm" ],
     variants: {
@@ -550,41 +553,48 @@
   {
     en: "Blackcliff Pole",
     ja: "黒岩の突槍",
+    zhCN: "黑岩刺枪",
     pronunciationJa: "こくがんのとっそう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Deathmatch",
     ja: "死闘の槍",
+    zhCN: "决斗之枪",
     pronunciationJa: "しとうのやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Favonius Lance",
     ja: "西風長槍",
+    zhCN: "西风长枪",
     pronunciationJa: "セピュロスながやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Royal Spear",
     ja: "旧貴族猟槍",
+    zhCN: "宗室猎枪",
     pronunciationJa: "きゅうきぞくりょうそう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Dragonspine Spear",
     ja: "ドラゴンスピア",
+    zhCN: "龙脊长枪",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Lithic Lance",
     ja: "千岩長槍",
+    zhCN: "千岩长枪",
     pronunciationJa: "せんがんながやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Kitain Cross Spear",
     ja: "喜多院十文字槍",
+    zhCN: "喜多院十文字",
     pronunciationJa: "きたいんじゅうもんじやり",
     tags: [ "weapon", "polearm" ],
     variants: {
@@ -594,12 +604,14 @@
   {
     en: "The Catch",
     ja: "漁獲",
+    zhCN: "「渔获」",
     pronunciationJa: "ぎょかく",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Wavebreaker's Fin",
     ja: "斬波のひれ長",
+    zhCN: "断浪长鳍",
     pronunciationJa: "ざんぱのひれなが",
     tags: [ "weapon", "polearm" ],
     variants: {
