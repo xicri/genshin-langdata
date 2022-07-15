@@ -292,32 +292,38 @@
   {
     en: "Guizhong Ballista",
     ja: "帰終機",
+    zhCN: "归终机",
     tags: [ "object", "liyue" ],
   },
   {
     en: "Bedrock Keys",
     ja: "磐鍵",
+    zhCN: "磐键",
     tags: [ "object", "liyue" ],
   },
   {
     en: "Lucklight Fly",
     ja: "吉光虫",
+    zhCN: "吉光虫",
     tags: [ "object", "liyue" ],
   },
   {
     en: "Lumenlamps",
     ja: "明石灯",
+    zhCN: "明石灯",
     notes: "流明石の触媒のエネルギーを回復できる燭台のようなオブジェクト",
     tags: [ "object", "liyue" ],
   },
   // {
   //   en: "black mud", // TODO ゲーム中では black mud という表記があるが、璃月手帳第2期では Dark Mud と表記されている。
   //   ja: "黒泥",
+  //   zhCN: "黑泥",
   //   tags: [ "object", "liyue" ],
   // },
   {
     en: "Fantastic Compass",
     ja: "太威儀盤",
+    zhCN: "太威仪盘",
     pronunciationJa: "たいぎばん",
     tags: [ "object", "liyue" ],
   },
