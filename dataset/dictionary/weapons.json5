@@ -911,6 +911,7 @@
   {
     en: "Apprentice's Notes",
     ja: "生徒ノート",
+    zhCN: "学徒笔记",
     pronunciationJa: "せいとノート",
     tags: [ "weapon", "catalyst" ],
   },
@@ -918,6 +919,7 @@
   {
     en: "Pocket Grimoire",
     ja: "ポケット魔導書",
+    zhCN: "口袋魔导书",
     pronunciationJa: "ポケットまどうしょ",
     tags: [ "weapon", "catalyst" ],
   },
@@ -925,30 +927,38 @@
   {
     en: "Magic Guide",
     ja: "魔導緒論",
+    zhCN: "魔导绪论",
     pronunciationJa: "まどうしょろん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Thrilling Tales of Dragon Slayers",
     ja: "龍殺しの英傑譚",
+    zhCN: "讨龙英杰谭",
     pronunciationJa: "りゅうごろしのえいけつたん",
+    variants: {
+      zhCN: [ "讨龙" ],
+    },
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Otherworldly Story",
     ja: "異世界旅行記",
+    zhCN: "异世界行记",
     pronunciationJa: "いせかいりょこうき",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Emerald Orb",
     ja: "翡玉法珠",
+    zhCN: "翡玉法珠",
     pronunciationJa: "ひぎょくほうじゅ",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Twin Nephrite",
     ja: "特級の宝玉",
+    zhCN: "甲级宝珏",
     pronunciationJa: "とっきゅうのほうぎょく",
     tags: [ "weapon", "catalyst" ],
   },
