@@ -2,6 +2,7 @@
   {
     en: "Proficiency",
     ja: "熟練度",
+    zhCN: "熟练度",
     pronunciationJa: "じゅくれんど",
     tags: [ "food" ],
     notes: "料理の熟練度のこと。",
@@ -9,12 +10,14 @@
   {
     en: "Specialty",
     ja: "オリジナル料理",
+    zhCN: "特殊料理",
     pronunciationJa: "オリジナルりょうり",
     tags: [ "food" ],
   },
   {
     en: "Delicious ○○",
     ja: "美味しそうな〇〇",
+    zhCN: "美味的〇〇",
     pronunciationJa: "おいしそうな〇〇",
     tags: [ "food" ],
     notes: "完璧調理してできた食べ物",
@@ -22,6 +25,7 @@
   {
     en: "Suspicious ○○",
     ja: "微妙な〇〇",
+    zhCN: "奇怪的〇〇",
     pronunciationJa: "びみょうな〇〇",
     tags: [ "food" ],
     notes: "調理に失敗してできた食べ物",
