@@ -5,6 +5,7 @@
   {
     en: "Genshin Impact",
     ja: "原神 (タイトル)",
+    zhCN: "原神（标题）",
     pronunciationJa: "げんしん",
     notes: "ゲームタイトル。神の目を持つ者を指す「原神」は allogene。",
     _meta: {
@@ -14,6 +15,7 @@
   {
     en: "allogene",
     ja: "原神",
+    zhCN: "原神",
     pronunciationJa: "げんしん",
     notes: "タイトルではなく、神の目を持つ者を意味する言葉としての「原神」。英語版タイトルは Genshin Impact",
     _meta: {
@@ -26,66 +28,78 @@
   {
     en: "Vision",
     ja: "神の目",
+    zhCN: "神之眼",
     pronunciationJa: "かみのめ",
   },
   {
     en: "Gnosis",
     ja: "神の心",
+    zhCN: "神之心",
     pronunciationJa: "かみのこころ",
   },
   {
     en: "Delusion",
     ja: "邪眼",
+    zhCN: "邪眼",
     pronunciationJa: "じゃがん",
     notes: "delusion の原義は「欺くこと」「妄想」",
   },
   {
     en: "Archon",
     ja: "魔神",
+    zhCN: "魔神",
     pronunciationJa: "まじん",
   },
   {
     en: "Archon War",
     ja: "魔神戦争",
+    zhCN: "魔神战争",
     pronunciationJa: "まじんせんそう",
   },
   {
     en: "Emergency Food",
     ja: "非常食",
+    zhCN: "应急食品",
     pronunciationJa: "ひじょうしょく",
     tags: [ "title" ],
   },
   {
     en: "The Seven",
     ja: "七神",
+    zhCN: "七神",
     pronunciationJa: "しちしん",
     tags: [ "title" ],
   },
   {
     en: "erode",
     ja: "摩耗する",
+    zhCN: "磨损",
     pronunciationJa: "まもうする",
   },
   {
     en: "gaze of the god",
     ja: "神の眼差し",
+    zhCN: "神明的视线",
     pronunciationJa: "かみのまなざし",
   },
   {
     en: "freedom",
     ja: "自由",
+    zhCN: "自由",
     pronunciationJa: "じゆう",
     tags: [ "mondstadt" ],
   },
   {
     en: "contract",
     ja: "契約",
+    zhCN: "契约",
     pronunciationJa: "けいやく",
     tags: [ "liyue" ],
   },
   {
     en: "eternity",
     ja: "永遠",
+    zhCN: "永恒",
     pronunciationJa: "えいえん",
     tags: [ "inazuma" ],
   },
@@ -96,18 +110,21 @@
   {
     en: "Ludi Harpastum",
     ja: "バドルドー祭",
+    zhCN: "羽球节",
     pronunciationJa: "バドルドーさい",
     tags: [ "mondstadt" ],
   },
   {
     en: "harpastum / harpasta",
     ja: "バドルドー",
+    zhCN: "羽球",
     notes: "恐らく harpastum が単数形、harpasta が複数形。原義はローマ帝国時代の球技を意味するラテン語。",
     tags: [ "mondstadt" ],
   },
   {
     en: "Dandelion Wine",
     ja: "蒲公英酒",
+    zhCN: "蒲公英酒",
     pronunciationJa: "ダンデライオンしゅ",
     tags: [ "mondstadt" ],
     variants: {
@@ -121,12 +138,14 @@
   {
     en: "Adeptus / Adepti",
     ja: "仙人",
+    zhCN: "仙人",
     tags: [ "liyue" ],
     notes: "Adeptus が単数形、Adepti が複数形",
   },
   {
     en: "the mighty and illuminated adepti",
     ja: "三眼五顕仙人",
+    zhCN: "三眼无显仙人",
     pronunciationJa: "さんがんごけんせんにん",
     tags: [ "liyue", "title" ],
     notes: "単数の場合は the mighty and illuminated adeptus",
@@ -134,83 +153,97 @@
   {
     en: "Rite of Descension",
     ja: "迎仙儀式",
+    zhCN: "请仙",
     pronunciationJa: "げいせんぎしき",
     tags: [ "liyue" ],
   },
   {
     en: "Rite of Parting",
     ja: "送仙儀式",
+    zhCN: "送仙典仪",
     pronunciationJa: "そうせんぎしき",
     tags: [ "liyue" ],
   },
   {
     en: "Exuvia",
     ja: "仙祖の亡骸",
+    zhCN: "仙祖法蜕",
     pronunciationJa: "せんぞのなきがら",
     tags: [ "liyue" ],
   },
   {
     en: "karma",
     ja: "業障",
+    zhCN: "业障",
     pronunciationJa: "ごっしょう",
     tags: [ "liyue" ],
   },
   {
     en: "Cocogoat",
     ja: "ココナッツヒツジ",
+    zhCN: "椰羊",
     tags: [ "liyue" ],
   },
   {
     en: "Li style",
     ja: "璃菜",
+    zhCN: "璃菜",
     pronunciationJa: "りーさい",
     tags: [ "liyue" ],
   },
   {
     en: "Yue style",
     ja: "月菜",
+    zhCN: "月菜",
     pronunciationJa: "ゆえさい",
     tags: [ "liyue" ],
   },
   {
     en: "ascension ceremony",
     ja: "昇空儀式",
+    zhCN: "升空仪式",
     pronunciationJa: "しょうくうぎしき",
     tags: [ "liyue" ],
   },
   {
     en: "The Divine Damsel of Devastation",
     ja: "神女劈観",
+    zhCN: "神女劈观",
     pronunciationJa: "しんにょへきかん", // TODO need confirmation
     tags: [ "liyue" ],
   },
   {
     en: "Plaustrite",
     ja: "浮生の石",
+    zhCN: "浮生石",
     pronunciationJa: "ふじょうのいし",
     tags: [ "liyue" ],
   },
   {
     en: "Sunset Vermillionite",
     ja: "鳴霞浮生石",
+    zhCN: "鸣霞浮生石",
     pronunciationJa: "めいかふじょういし",
     tags: [ "liyue" ],
   },
   {
     en: "Wonder Core",
     ja: "千奇核心",
+    zhCN: "千奇核心",
     pronunciationJa: "せんきかくしん",
     tags: [ "liyue", "item" ],
   },
   {
     en: "Adepti Sigil",
     ja: "仙家呪符",
+    zhCN: "仙家符箓",
     pronunciationJa: "せんかじゅふ",
     tags: [ "liyue", "item" ],
   },
   {
     en: "The Crux Clash",
     ja: "南十字武闘会",
+    zhCN: "南十字武斗会",
     pronunciationJa: "みなみじゅうじぶとうかい",
     tags: [ "liyue", "inazuma" ],
   },
@@ -221,12 +254,14 @@
   {
     en: "Vision Hunt Decree",
     ja: "目狩り令",
+    zhCN: "眼狩令",
     pronunciationJa: "めがりれい",
     tags: [ "inazuma" ],
   },
   {
     en: "Sakoku Decree",
     ja: "鎖国令",
+    zhCN: "锁国令",
     pronunciationJa: "さこくれい",
     tags: [ "inazuma" ],
     notes: "単に「鎖国」とだけ言う場合、\"lockdown\" と表現される場合もある",
@@ -234,27 +269,32 @@
   {
     en: "Musou no Hitotachi",
     ja: "無想の一太刀",
+    zhCN: "无想的一刀",
     pronunciationJa: "むそうのひとたち",
     tags: [ "inazuma" ],
     variants: {
       ja: [ "無相の一太刀", "無双の一太刀" ],
+      zhCN: [ "五香的一刀" ],
     },
   },
   {
     en: "Electro Mitsudomoe",
     ja: "雷の三つ巴",
+    zhCN: "雷之三重巴",
     pronunciationJa: "かみなりのみつどもえ",
     tags: [ "inazuma" ],
   },
   {
     en: "perch",
     ja: "止まり木",
+    zhCN: "栖木",
     pronunciationJa: "とまりぎ",
     tags: [ "inazuma" ],
   },
   {
     en: "Maushiro",
     ja: "マウシロ",
+    zhCN: "木簧笛",
     tags: [ "inazuma" ],
   },
 
@@ -264,16 +304,19 @@
   {
     en: "Harbinger",
     ja: "執行官 / ファトゥス",
+    zhCN: "执行官",
     tags: [ "snezhnaya", "title" ],
     notes: "ファデュイの執行官を指す。",
     examples: [{
       en: "Eighth of the Fatui Harbingers",
       ja: "ファトゥス第8位",
+      zhCN: "愚人众执行官第8席",
     }],
   },
   {
     en: "Fire-Water",
     ja: "炎水",
+    zhCN: "火水",
     tags: [ "snezhnaya" ],
   },
 
@@ -283,11 +326,13 @@
   {
     en: "Loom of Fate",
     ja: "運命の織機",
+    zhCN: "命运的织机",
     pronunciationJa: "うんめいのおりき",
   },
   {
     en: "Inteyvat",
     ja: "インテイワット",
+    zhCN: "因提瓦特",
   },
 
   //
@@ -296,10 +341,12 @@
   {
     en: "Dark Calamity",
     ja: "黒災",
+    zhCN: "黑灾",
     pronunciationJa: "こくさい",
   },
   {
     en: "the Calamity of Darkness",
     ja: "漆黒の災い",
+    zhCN: "漆黑的灾难",
   },
 ]

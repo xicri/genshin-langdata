@@ -234,12 +234,14 @@
   {
     en: "Bloom",
     ja: "開花",
+    zhCN: "绽放",
     pronunciationJa: "かいか",
     tags: [ "element" ],
   },
   {
     en: "Catalyze",
     ja: "激化",
+    zhCN: "激化",
     pronunciationJa: "げきか",
     tags: [ "element" ],
   },

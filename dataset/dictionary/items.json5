@@ -1695,11 +1695,13 @@
   {
     en: "Inactivated Fungal Nucleus",
     ja: "キノコンの衰菌核",
+    zhCN: "失活菌核",
     tags: [ "item" ],
   },
   {
     en: "Dormant Fungal Nucleus",
     ja: "キノコンの眠菌核",
+    zhCN: "休眠菌核",
     tags: [ "item" ],
   },
   {

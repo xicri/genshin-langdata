@@ -2,30 +2,38 @@
   {
     en: "Sword",
     ja: "片手剣",
+    zhCN: "单手剑",
     pronunciationJa: "かたてけん",
     tags: [ "weapon" ],
   },
   {
     en: "Claymore",
     ja: "両手剣",
+    zhCN: "双手剑",
     pronunciationJa: "りょうてけん",
+    variants: {
+      zhCN: [ "大剑" ],
+    },
     tags: [ "weapon" ],
   },
   {
     en: "Polearm",
     ja: "長柄武器",
+    zhCN: "长柄武器",
     pronunciationJa: "ながえぶき",
     tags: [ "weapon" ],
   },
   {
     en: "Bow",
     ja: "弓",
+    zhCN: "弓",
     pronunciationJa: "ゆみ",
     tags: [ "weapon" ],
   },
   {
     en: "Catalyst",
     ja: "法器",
+    zhCN: "法器",
     pronunciationJa: "ほうき",
     tags: [ "weapon" ],
   },
@@ -37,6 +45,7 @@
   {
     en: "Dull Blade",
     ja: "無鋒の剣",
+    zhCN: "无锋剑",
     pronunciationJa: "むほうのけん",
     tags: [ "weapon", "sword" ],
   },
@@ -44,6 +53,7 @@
   {
     en: "Silver Sword",
     ja: "銀の剣",
+    zhCN: "银剑",
     pronunciationJa: "ぎんのけん",
     tags: [ "weapon", "sword" ],
   },
@@ -51,30 +61,35 @@
   {
     en: "Cool Steel",
     ja: "冷刃",
+    zhCN: "冷刃",
     pronunciationJa: "れいじん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Harbinger of Dawn",
     ja: "黎明の神剣",
+    zhCN: "黎明神剑",
     pronunciationJa: "れいめいのしんけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Traveler's Handy Sword",
     ja: "旅道の剣",
+    zhCN: "旅行剑",
     pronunciationJa: "りょどうのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Fillet Blade",
     ja: "チ虎魚の刀",
+    zhCN: "吃虎鱼刀",
     pronunciationJa: "チこぎょのかたな",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Skyrider Sword",
     ja: "飛天御剣",
+    zhCN: "飞天御剑",
     pronunciationJa: "ひてんみつるぎ",
     tags: [ "weapon", "sword" ],
   },
@@ -82,35 +97,41 @@
   {
     en: "Favonius Sword",
     ja: "西風剣",
+    zhCN: "西风剑",
     pronunciationJa: "セピュロスソード",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "The Flute",
     ja: "笛の剣",
+    zhCN: "笛剑",
     pronunciationJa: "ふえのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Sacrificial Sword",
     ja: "祭礼の剣",
+    zhCN: "祭礼剑",
     pronunciationJa: "さいれいのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Royal Longsword",
     ja: "旧貴族長剣",
+    zhCN: "宗室长剑",
     pronunciationJa: "きゅうきぞくちょうけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Lion's Roar",
     ja: "匣中龍吟",
+    zhCN: "匣里龙吟",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Prototype Rancour",
     ja: "斬岩・試作",
+    zhCN: "试作斩岩",
     pronunciationJa: "ざんがん・しさく",
     tags: [ "weapon", "sword" ],
     variants: {
@@ -120,6 +141,7 @@
   {
     en: "Iron Sting",
     ja: "鉄蜂の刺し",
+    zhCN: "铁蜂刺",
     pronunciationJa: "てつほうのさし",
     tags: [ "weapon", "sword" ],
     variants: {
@@ -129,80 +151,100 @@
   {
     en: "Blackcliff Longsword",
     ja: "黒岩の長剣",
+    zhCN: "黑岩长剑",
     pronunciationJa: "こくがんのちょうけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "The Black Sword",
     ja: "黒剣",
+    zhCN: "黑剑",
     pronunciationJa: "こっけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Sword of Descension",
     ja: "降臨の剣",
+    zhCN: "降临之剑",
     pronunciationJa: "こうりんのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Festering Desire",
     ja: "腐植の剣",
+    zhCN: "腐植之剑",
     pronunciationJa: "ふしょくのけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "The Alley Flash",
     ja: "ダークアレイの閃光",
+    zhCN: "暗巷闪光",
     pronunciationJa: "ダークアレイのせんこう",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Amenoma Kageuchi",
     ja: "天目影打",
+    zhCN: "天目影打刀",
     pronunciationJa: "あめのまかげうち",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Cinnabar Spindle",
     ja: "シナバースピンドル",
+    zhCN: "辰砂之纺锤",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Cursed Blade",
     ja: "妖刀",
+    zhCN: "妖刀",
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Kagotsurube Isshin",
+    ja: "籠釣瓶一心",
+    zhCN: "笼钓瓶一心",
     tags: [ "weapon", "sword" ],
   },
   // ★5
   {
     en: "Aquila Favonia",
     ja: "風鷹剣",
+    zhCN: "风鹰剑",
     pronunciationJa: "ふうようけん",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Skyward Blade",
     ja: "天空の刃",
+    zhCN: "天空之刃",
     pronunciationJa: "てんくうのやいば",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Summit Shaper",
     ja: "斬山の刃",
+    zhCN: "斫锋之刃",
     pronunciationJa: "ざんさんのやいば",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Primordial Jade Cutter",
     ja: "磐岩結緑",
+    zhCN: "磐岩结绿",
     pronunciationJa: "ばんがんけつりょく",
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "盤岩結緑" ],
+      zhCN: [ "绿剑" ],
     },
   },
   {
     en: "Freedom-Sworn",
     ja: "蒼古なる自由への誓い",
+    zhCN: "苍古自由之誓",
     pronunciationJa: "そうこなるじゆうへのちかい",
     tags: [ "weapon", "sword" ],
     variants: {
@@ -212,18 +254,22 @@
   {
     en: "Mistsplitter Reforged",
     ja: "霧切の廻光",
+    zhCN: "雾切之回光",
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "霧切" ],
+      zhCN: [ "雾切" ],
     },
   },
   {
     en: "Haran Geppaku Futsu",
     ja: "波乱月白経津",
+    zhCN: "波乱月白经津",
     pronunciationJa: "はらんげっぱくふつ",
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "波乱" ],
+      zhCN: [ "波波津" ],
     },
   },
 
@@ -235,6 +281,7 @@
   {
     en: "Waster Greatsword",
     ja: "訓練用大剣",
+    zhCN: "训练大剑",
     pronunciationJa: "くんれんようたいけん",
     tags: [ "weapon", "claymore" ],
   },
@@ -242,6 +289,7 @@
   {
     en: "Old Merc's Pal",
     ja: "傭兵の重剣",
+    zhCN: "佣兵重剑",
     pronunciationJa: "ようへいのじゅうけん",
     tags: [ "weapon", "claymore" ],
   },
@@ -249,29 +297,34 @@
   {
     en: "Ferrous Shadow",
     ja: "鉄影段平",
+    zhCN: "铁影阔剑",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Bloodtainted Greatsword",
     ja: "龍血を浴びた剣",
+    zhCN: "沐浴龙血之剑",
     pronunciationJa: "りゅうけつをあびたけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "White Iron Greatsword",
     ja: "白鉄の大剣",
+    zhCN: "白铁大剑",
     pronunciationJa: "はくてつのたいけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Debate Club",
     ja: "理屈責め",
+    zhCN: "以理服人",
     pronunciationJa: "りくつぜめ",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Skyrider Greatsword",
     ja: "飛天大御剣",
+    zhCN: "飞天大御剑",
     pronunciationJa: "ひてんおおみつるぎ",
     tags: [ "weapon", "claymore" ],
   },
@@ -279,117 +332,141 @@
   {
     en: "Favonius Greatsword",
     ja: "西風大剣",
+    zhCN: "西风大剑",
     pronunciationJa: "セピュロスグレートソード",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "The Bell",
     ja: "鐘の剣",
+    zhCN: "钟剑",
     pronunciationJa: "かねのけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Sacrificial Greatsword",
     ja: "祭礼の大剣",
+    zhCN: "祭礼大剑",
     pronunciationJa: "さいれいのたいけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Royal Greatsword",
     ja: "旧貴族大剣",
+    zhCN: "宗室大剑",
     pronunciationJa: "きゅうきぞくたいけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Rainslasher",
     ja: "雨裁",
+    zhCN: "雨裁",
     pronunciationJa: "うさい",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Prototype Archaic",
     ja: "古華・試作",
+    zhCN: "试作古华",
     pronunciationJa: "こか・しさく",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Whiteblind",
     ja: "白影の剣",
+    zhCN: "白影剑",
     pronunciationJa: "はくえいのけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Blackcliff Slasher",
     ja: "黒岩の斬刀",
+    zhCN: "黑岩斩刀",
     pronunciationJa: "こくがんのざんとう",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Serpent Spine",
     ja: "螭龍の剣",
+    zhCN: "螭骨剑",
     pronunciationJa: "ちりゅうのけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Snow-Tombed Starsilver",
     ja: "雪葬の星銀",
+    zhCN: "雪葬的星银",
     pronunciationJa: "せっそうのせいぎん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Lithic Blade",
     ja: "千岩古剣",
+    zhCN: "千岩古剑",
     pronunciationJa: "せんがんこけん",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Katsuragikiri Nagamasa",
     ja: "桂木斬長正",
+    zhCN: "桂木斩长正",
     pronunciationJa: "かつらぎきりながまさ",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Luxurious Sea-Load",
     ja: "銜玉の海皇",
+    zhCN: "衔珠海皇",
+    variants: {
+      zhCN: [ "咸鱼大剑" ],
+    },
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Emperor's Balsam",
     ja: "海皇の脂",
+    zhCN: "海皇香脂",
     tags: [ "item" ],
   },
   {
     en: "Akuoumaru",
     ja: "惡王丸",
+    zhCN: "恶王丸",
     tags: [ "weapon", "claymore" ],
   },
   // ★5
   {
     en: "Skyward Pride",
     ja: "天空の傲",
+    zhCN: "天空之傲",
     pronunciationJa: "てんくうのおごり",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Wolf's Gravestone",
     ja: "狼の末路",
+    zhCN: "狼的末路",
     pronunciationJa: "おおかみのまつろ",
     tags: [ "weapon", "claymore" ],
     variants: {
       ja: [ "末路" ],
+      zhCN: [ "狼末" ],
     },
   },
   {
     en: "The Unforged",
     ja: "無工の剣",
+    zhCN: "无工之剑",
     tags: [ "weapon", "claymore" ],
     variants: {
       ja: [ "無工" ],
+      zhCN: [ "蜈蚣大剑" ],
     },
   },
   {
     en: "Song of Broken Pines",
     ja: "松韻の響く頃",
+    zhCN: "忪籁响起之时",
     pronunciationJa: "しょういんのひびくころ",
     tags: [ "weapon", "claymore" ],
     variants: {
@@ -399,6 +476,7 @@
   {
     en: "Redhorn Stonethresher",
     ja: "赤角石塵滅砕",
+    zhCN: "赤角石溃杵",
     // source: https://mobile.twitter.com/_GEN_K_/status/1460757357953052674
     pronunciationJa: "せきかくせきじんめっさい",
     tags: [ "weapon", "claymore" ],
@@ -411,6 +489,7 @@
   {
     en: "Beginner's Protector",
     ja: "新米の長槍",
+    zhCN: "新手长枪",
     pronunciationJa: "しんまいのながやり",
     tags: [ "weapon", "polearm" ],
   },
@@ -418,24 +497,28 @@
   {
     en: "Iron Point",
     ja: "鉄尖槍",
+    zhCN: "铁尖枪",
     tags: [ "weapon", "polearm" ],
   },
   // ★3
   {
     en: "White Tassel",
     ja: "白纓槍",
+    zhCN: "白缨枪",
     pronunciationJa: "はくえいそう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Halberd",
     ja: "鉾槍",
+    zhCN: "钺矛",
     pronunciationJa: "ほこやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Black Tassel",
     ja: "黒纓槍",
+    zhCN: "黑缨枪",
     pronunciationJa: "こくえいそう",
     tags: [ "weapon", "polearm" ],
   },
@@ -443,12 +526,14 @@
   {
     en: "Dragon's Bane",
     ja: "匣中滅龍",
+    zhCN: "匣里灭辰",
     pronunciationJa: "こうちゅうめつりゅう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Prototype Starglitter",
     ja: "星鎌・試作",
+    zhCN: "试作星镰",
     pronunciationJa: "ほしがま・しさく",
     tags: [ "weapon", "polearm" ],
     variants: {
@@ -458,6 +543,7 @@
   {
     en: "Crescent Pike",
     ja: "流月の針",
+    zhCN: "流月针",
     pronunciationJa: "りゅうげつのはり",
     tags: [ "weapon", "polearm" ],
     variants: {
@@ -467,41 +553,48 @@
   {
     en: "Blackcliff Pole",
     ja: "黒岩の突槍",
+    zhCN: "黑岩刺枪",
     pronunciationJa: "こくがんのとっそう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Deathmatch",
     ja: "死闘の槍",
+    zhCN: "决斗之枪",
     pronunciationJa: "しとうのやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Favonius Lance",
     ja: "西風長槍",
+    zhCN: "西风长枪",
     pronunciationJa: "セピュロスながやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Royal Spear",
     ja: "旧貴族猟槍",
+    zhCN: "宗室猎枪",
     pronunciationJa: "きゅうきぞくりょうそう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Dragonspine Spear",
     ja: "ドラゴンスピア",
+    zhCN: "龙脊长枪",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Lithic Lance",
     ja: "千岩長槍",
+    zhCN: "千岩长枪",
     pronunciationJa: "せんがんながやり",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Kitain Cross Spear",
     ja: "喜多院十文字槍",
+    zhCN: "喜多院十文字",
     pronunciationJa: "きたいんじゅうもんじやり",
     tags: [ "weapon", "polearm" ],
     variants: {
@@ -511,12 +604,14 @@
   {
     en: "The Catch",
     ja: "漁獲",
+    zhCN: "渔获",
     pronunciationJa: "ぎょかく",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Wavebreaker's Fin",
     ja: "斬波のひれ長",
+    zhCN: "断浪长鳍",
     pronunciationJa: "ざんぱのひれなが",
     tags: [ "weapon", "polearm" ],
     variants: {
@@ -527,44 +622,59 @@
   {
     en: "Primordial Jade Winged-Spear",
     ja: "和璞鳶",
+    zhCN: "和璞鸢",
     pronunciationJa: "わはくえん",
+    variants: {
+      zhCN: [ "鸟枪" ],
+    },
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Skyward Spine",
     ja: "天空の脊",
+    zhCN: "天空之脊",
+    variants: {
+      zhCN: [ "薄荷", "天空薄荷", "雪山薄荷" ],
+    },
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Vortex Vanguisher",
     ja: "破天の槍",
+    zhCN: "贯虹之槊",
     pronunciationJa: "はてんのやり",
     tags: [ "weapon", "polearm" ],
     variants: {
       ja: [ "破天" ],
+      zhCN: [ "贯虹" ],
     },
   },
   {
     en: "Staff of Homa",
     ja: "護摩の杖",
+    zhCN: "护摩之杖",
     pronunciationJa: "ごまのつえ",
     tags: [ "weapon", "polearm" ],
     variants: {
       ja: [ "護摩" ],
+      zhCN: [ "护摩" ],
     },
   },
   {
     en: "Engulfing Lightning",
     ja: "草薙の稲光",
+    zhCN: "薙草之稻光",
     pronunciationJa: "くさなぎのいなびかり",
     tags: [ "weapon", "polearm" ],
     variants: {
       ja: [ "草薙" ],
+      zhCN: [ "薙刀", "剃刀" ],
     },
   },
   {
     en: "Calamity Queller",
     ja: "息災",
+    zhCN: "息灾",
     pronunciationJa: "そくさい",
     tags: [ "weapon", "polearm" ],
   },
@@ -577,6 +687,7 @@
   {
     en: "Hunter's Bow",
     ja: "狩猟弓",
+    zhCN: "猎弓",
     pronunciationJa: "しゅりょうゆみ",
     tags: [ "weapon", "bow" ],
   },
@@ -584,6 +695,7 @@
   {
     en: "Seasoned Hunter's Bow",
     ja: "歴戦の狩猟弓",
+    zhCN: "历练的猎弓",
     pronunciationJa: "れきせんのしゅりょうゆみ",
     tags: [ "weapon", "bow" ],
   },
@@ -591,29 +703,34 @@
   {
     en: "Raven Bow",
     ja: "鴉羽の弓",
+    zhCN: "鸦羽弓",
     pronunciationJa: "からすばのゆみ",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Sharpshooter's Oath",
     ja: "シャープシューターの誓い",
+    zhCN: "神射手之誓",
     pronunciationJa: "シャープシューターのちかい",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Recurve Bow",
     ja: "リカーブボウ",
+    zhCN: "反曲弓",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Slingshot",
     ja: "弾弓",
+    zhCN: "弹弓",
     pronunciationJa: "だんきゅう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Messenger",
     ja: "文使い",
+    zhCN: "信使",
     pronunciationJa: "ふみつかい",
     tags: [ "weapon", "bow" ],
   },
@@ -621,36 +738,42 @@
   {
     en: "Favonius Warbow",
     ja: "西風猟弓",
+    zhCN: "西风猎弓",
     pronunciationJa: "セピュロスアロー",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "The Stringless",
     ja: "絶弦",
+    zhCN: "绝弦",
     pronunciationJa: "ぜつげん",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Sacrificial Bow",
     ja: "祭礼の弓",
+    zhCN: "祭礼弓",
     pronunciationJa: "さいれいのゆみ",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Royal Bow",
     ja: "旧貴族長弓",
+    zhCN: "宗室长弓",
     pronunciationJa: "きゅうきぞくちょうきゅう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Rust",
     ja: "弓蔵",
+    zhCN: "弓藏",
     pronunciationJa: "ゆみぞう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Prototype Crescent",
     ja: "澹月・試作",
+    zhCN: "试作澹月",
     pronunciationJa: "たんげつ・しさく",
     tags: [ "weapon", "bow" ],
     variants: {
@@ -660,17 +783,20 @@
   {
     en: "Compound Bow",
     ja: "リングボウ",
+    zhCN: "钢轮弓",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Blackcliff Warbow",
     ja: "黒岩の戦弓",
+    zhCN: "黑岩战弓",
     pronunciationJa: "こくがんのせんきゅう",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "The Viridescent Hunt",
     ja: "蒼翠の狩猟弓",
+    zhCN: "苍翠猎弓",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "蒼翠" ],
@@ -679,12 +805,14 @@
   {
     en: "Alley Hunter",
     ja: "ダークアレイの狩人",
+    zhCN: "暗巷猎手",
     pronunciationJa: "ダークアレイのかりうど",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Mitternachts Waltz",
     ja: "幽夜のワルツ",
+    zhCN: "幽夜华尔兹",
     pronunciationJa: "ゆうやのワルツ",
     tags: [ "weapon", "bow" ],
     variants: {
@@ -694,12 +822,14 @@
   {
     en: "Hamayumi",
     ja: "破魔の弓",
+    zhCN: "破魔之弓",
     pronunciationJa: "はまのゆみ",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Mouun's Moon",
     ja: "曚雲の月",
+    zhCN: "矇云之月",
     pronunciationJa: "もううんのつき",
     tags: [ "weapon", "bow" ],
     variants: {
@@ -709,6 +839,7 @@
   {
     en: "Fading Twilight",
     ja: "落霞",
+    zhCN: "落霞",
     pronunciationJa: "らっか",
     tags: [ "weapon", "bow" ],
   },
@@ -716,39 +847,50 @@
   {
     en: "Skyward Harp",
     ja: "天空の翼",
+    zhCN: "天空之翼",
     pronunciationJa: "てんくうのつばさ",
+    variants: {
+      zhCN: [ "天空弓" ],
+    },
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Amos' Bow",
     ja: "アモスの弓",
+    zhCN: "阿莫斯之弓",
     pronunciationJa: "アモスのゆみ",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "アモス" ],
+      zhCN: [ "阿莫斯" ],
     },
   },
   {
     en: "Elegy for the End",
     ja: "終焉を嘆く詩",
+    zhCN: "终末嗟叹之诗",
     pronunciationJa: "しゅうえんをなげくうた",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "終焉" ],
+      zhCN: [ "终末弓" ],
     },
   },
   {
     en: "Thundering Pulse",
     ja: "飛雷の鳴弦",
+    zhCN: "飞雷之弦振",
     pronunciationJa: "ひらいのめいげん",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "飛雷" ],
+      zhCN: [ "飞雷弓" ],
     },
   },
   {
     en: "Polar Star",
     ja: "冬極の白星",
+    zhCN: "冬极白星",
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "冬極" ],
@@ -757,6 +899,7 @@
   {
     en: "Aqua Simulacra",
     ja: "若水",
+    zhCN: "若水",
     tags: [ "weapon", "bow" ],
   },
 
@@ -768,6 +911,7 @@
   {
     en: "Apprentice's Notes",
     ja: "生徒ノート",
+    zhCN: "学徒笔记",
     pronunciationJa: "せいとノート",
     tags: [ "weapon", "catalyst" ],
   },
@@ -775,6 +919,7 @@
   {
     en: "Pocket Grimoire",
     ja: "ポケット魔導書",
+    zhCN: "口袋魔导书",
     pronunciationJa: "ポケットまどうしょ",
     tags: [ "weapon", "catalyst" ],
   },
@@ -782,30 +927,38 @@
   {
     en: "Magic Guide",
     ja: "魔導緒論",
+    zhCN: "魔导绪论",
     pronunciationJa: "まどうしょろん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Thrilling Tales of Dragon Slayers",
     ja: "龍殺しの英傑譚",
+    zhCN: "讨龙英杰谭",
     pronunciationJa: "りゅうごろしのえいけつたん",
+    variants: {
+      zhCN: [ "讨龙" ],
+    },
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Otherworldly Story",
     ja: "異世界旅行記",
+    zhCN: "异世界行记",
     pronunciationJa: "いせかいりょこうき",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Emerald Orb",
     ja: "翡玉法珠",
+    zhCN: "翡玉法珠",
     pronunciationJa: "ひぎょくほうじゅ",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Twin Nephrite",
     ja: "特級の宝玉",
+    zhCN: "甲级宝珏",
     pronunciationJa: "とっきゅうのほうぎょく",
     tags: [ "weapon", "catalyst" ],
   },
@@ -813,35 +966,41 @@
   {
     en: "Favonius Codex",
     ja: "西風秘典",
+    zhCN: "西风秘典",
     pronunciationJa: "セピュロスコデックス",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "The Widsith",
     ja: "流浪楽章",
+    zhCN: "流浪乐章",
     pronunciationJa: "るろうがくしょう",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Sacrificial Fragments",
     ja: "祭礼の断片",
+    zhCN: "祭礼残章",
     pronunciationJa: "さいれいのだんぺん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Royal Grimoire",
     ja: "旧貴族秘法録",
+    zhCN: "宗室秘法录",
     pronunciationJa: "きゅうきぞくひほうろく",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Solar Pearl",
     ja: "匣中日月",
+    zhCN: "匣里日月",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Prototype Amber",
     ja: "金珀・試作",
+    zhCN: "试作金珀",
     pronunciationJa: "きんぱく・しさく",
     tags: [ "weapon", "catalyst" ],
     variants: {
@@ -851,6 +1010,7 @@
   {
     en: "Mappa Mare",
     ja: "万国諸海の図譜",
+    zhCN: "万国诸海图谱",
     pronunciationJa: "ばんこくしょかいのずふ",
     tags: [ "weapon", "catalyst" ],
     variants: {
@@ -860,81 +1020,98 @@
   {
     en: "Blackcliff Agate",
     ja: "黒岩の緋玉",
+    zhCN: "黑岩绯玉",
     pronunciationJa: "こくがんのひぎょく",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Eye of Perception",
     ja: "昭心",
+    zhCN: "昭心",
     pronunciationJa: "しょうしん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Frostbearer",
     ja: "冬忍びの実",
+    zhCN: "忍冬之果",
     pronunciationJa: "ふゆしのびのみ",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Wine and Song",
     ja: "ダークアレイの酒と詩",
+    zhCN: "暗巷的酒与诗",
     pronunciationJa: "ダークアレイのさけとうた",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Dodoco Tales",
     ja: "ドドコの物語",
+    zhCN: "嘟嘟可故事集",
     pronunciationJa: "ドドコのものがたり",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Hakushin Ring",
     ja: "白辰の輪",
+    zhCN: "白辰之环",
     pronunciationJa: "はくしんのわ",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Oathsworn Eye",
     ja: "誓いの明瞳",
+    zhCN: "正誓之明瞳",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Ointment of Sight",
     ja: "明目の油剤",
+    zhCN: "明目之油膏",
     tags: [ "item" ],
   },
   // ★5
   {
     en: "Skyward Atlas",
     ja: "天空の巻",
+    zhCN: "天空之卷",
     pronunciationJa: "てんくうのまき",
+    variants: {
+      zhCN: [ "天空书" ],
+    },
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Lost Prayer to the Sacred Winds",
     ja: "四風原典",
+    zhCN: "四风原典",
     pronunciationJa: "しふうげんてん",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Memory of Dust",
     ja: "浮世の錠",
+    zhCN: "尘世之锁",
     pronunciationJa: "うきよのじょう", // TODO Need check
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Everlasting Moonglow",
     ja: "不滅の月華",
+    zhCN: "不灭月华",
     pronunciationJa: "ふめつのげっか",
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Kagura's Verity",
     ja: "神楽の真意",
+    zhCN: "神乐之真意",
     pronunciationJa: "かぐらのしんい",
     tags: [ "weapon", "catalyst" ],
     variants: {
       ja: [ "神楽" ],
+      zhCN: [ "神乐铃" ],
     },
   },
 ]
