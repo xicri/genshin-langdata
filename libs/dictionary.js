@@ -162,7 +162,11 @@ export class Dictionary {
     marked.use({
       renderer: {
         link(href, title, text) {
-          return `<a href="${href}" target="_blank" rel="noopener">${text}</a>`;
+          if (href.startsWith("http://") || href.startsWith("https://")) {
+            return `<a href="${href}" target="_blank" rel="noopener">${text}</a>`;
+          } else {
+            return `<a href="${href}">${text}</a>`;
+          }
         },
         paragraph(text) {
           return text;
