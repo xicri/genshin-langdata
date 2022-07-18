@@ -831,6 +831,13 @@
     notes: "鍾離のオリジナル料理",
   },
   {
+    en: "Ghostly March",
+    ja: "幽々大行軍",
+    pronunciationJa: "ゆうゆうだいこうぐん",
+    tags: [ "food", "liyue" ],
+    notes: "胡桃のオリジナル料理",
+  },
+  {
     en: "Cloud-Shrouded Jade",
     ja: "雲隠し玉",
     pronunciationJa: "くもかくしだま",
@@ -851,13 +858,6 @@
     pronunciationJa: "ほうりつここにあり",
     tags: [ "food", "liyue" ],
     notes: "煙緋のオリジナル料理",
-  },
-  {
-    en: "Ghostly March",
-    ja: "幽々大行軍",
-    pronunciationJa: "ゆうゆうだいこうぐん",
-    tags: [ "food", "liyue" ],
-    notes: "胡桃のオリジナル料理",
   },
   {
     en: "Heartstring Noodles",
@@ -930,7 +930,6 @@
     tags: [ "food", "inazuma" ],
     notes: "久岐忍のオリジナル料理",
   },
-  // ▼▼ Unconfirmed ▼▼
   {
     en: "Faith Eternal",
     ja: "永遠なる信仰",
@@ -938,7 +937,6 @@
     tags: [ "food", "inazuma" ],
     notes: "九条裟羅のオリジナル料理",
   },
-  // ▲▲ Unconfirmed ▲▲
 
   //
   // Ingredients (食材)
