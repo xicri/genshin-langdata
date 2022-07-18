@@ -1060,6 +1060,9 @@
     zhCN: "野伏·火附番",
     pronunciationJa: "のぶし・ひつけばん",
     tags: [ "enemy", "inazuma" ],
+    variants: {
+      ja: [ "野武士・火付番" ],
+    },
   },
   {
     en: "Nobushi: Jintouban",
@@ -1067,6 +1070,9 @@
     zhCN: "野伏·阵刀番",
     pronunciationJa: "のぶし・じんとうばん",
     tags: [ "enemy", "inazuma" ],
+    variants: {
+      ja: [ "野武士・陣刀番" ],
+    },
   },
   {
     en: "Nobushi: Kikouban",
@@ -1074,6 +1080,9 @@
     zhCN: "野伏·机巧番",
     pronunciationJa: "のぶし・きこうばん",
     tags: [ "enemy", "inazuma" ],
+    variants: {
+      ja: [ "野武士・機巧番" ],
+    },
   },
   {
     en: "Kairagi: Fiery Might",
@@ -1098,6 +1107,9 @@
     pronunciationJa: "のぶししゅう",
     notes: "海乱鬼・野伏の総称。",
     tags: [ "enemy", "inazuma" ],
+    variants: {
+      ja: [ "野武士" ],
+    },
   },
 
   {
