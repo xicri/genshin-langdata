@@ -87,6 +87,12 @@
     tags: [ "food" ],
   },
   {
+    en: "Pop's Teas",
+    ja: "大椀のお茶",
+    pronunciationJa: "おおわんのおちゃ",
+    tags: [ "food" ],
+  },
+  {
     en: "Rice Buns",
     ja: "米まんじゅう",
     zhCN: "米窝窝",
@@ -97,7 +103,7 @@
     en: "Egg Roll",
     ja: "鳥卵の玉子焼き",
     zhCN: "鸟蛋烧",
-    pronunciationJa: "とりたまごのたまごやき",
+    pronunciationJa: "ちょうらんのたまごやき",
     tags: [ "food" ],
   },
   {
@@ -617,6 +623,12 @@
     pronunciationJa: "おうごんのジャンボチキン",
     tags: [ "food" ],
   },
+  {
+    en: "Butter Crab",
+    ja: "カニのバター添え",
+    pronunciationJa: "カニのバターぞえ",
+    tags: [ "food" ],
+  },
 
   // ★★★★★
   {
@@ -831,6 +843,13 @@
     notes: "鍾離のオリジナル料理",
   },
   {
+    en: "Ghostly March",
+    ja: "幽々大行軍",
+    pronunciationJa: "ゆうゆうだいこうぐん",
+    tags: [ "food", "liyue" ],
+    notes: "胡桃のオリジナル料理",
+  },
+  {
     en: "Cloud-Shrouded Jade",
     ja: "雲隠し玉",
     pronunciationJa: "くもかくしだま",
@@ -851,13 +870,6 @@
     pronunciationJa: "ほうりつここにあり",
     tags: [ "food", "liyue" ],
     notes: "煙緋のオリジナル料理",
-  },
-  {
-    en: "Ghostly March",
-    ja: "幽々大行軍",
-    pronunciationJa: "ゆうゆうだいこうぐん",
-    tags: [ "food", "liyue" ],
-    notes: "胡桃のオリジナル料理",
   },
   {
     en: "Heartstring Noodles",
@@ -918,6 +930,13 @@
     notes: "ゴローのオリジナル料理",
   },
   {
+    en: "Fukuuchi Udon",
+    ja: "福は内うどん",
+    pronunciationJa: "ふくはうちうどん",
+    tags: [ "food", "inazuma" ],
+    notes: "八重神子のオリジナル料理",
+  },
+  {
     en: "Way of the Strong",
     ja: "強者の道のり",
     pronunciationJa: "きょうじゃのみちのり",
@@ -930,7 +949,6 @@
     tags: [ "food", "inazuma" ],
     notes: "久岐忍のオリジナル料理",
   },
-  // ▼▼ Unconfirmed ▼▼
   {
     en: "Faith Eternal",
     ja: "永遠なる信仰",
@@ -938,7 +956,6 @@
     tags: [ "food", "inazuma" ],
     notes: "九条裟羅のオリジナル料理",
   },
-  // ▲▲ Unconfirmed ▲▲
 
   //
   // Ingredients (食材)

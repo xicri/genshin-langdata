@@ -1,6 +1,6 @@
 [
   //
-  // キャラクター育成
+  // Character Development
   //
   {
     en: "Constellation",
@@ -88,7 +88,7 @@
   },
 
   //
-  // 元素
+  // Element
   //
   {
     en: "element",
@@ -302,7 +302,7 @@
   },
 
   //
-  // 戦闘システム
+  // Battle System
   //
   {
     en: "ATK",
@@ -340,6 +340,11 @@
     pronunciationJa: "じゅうげき",
   },
   {
+    en: "plunging attack",
+    ja: "落下攻撃",
+    pronunciationJa: "らっかこうげき",
+  },
+  {
     en: "refinement rank",
     ja: "精錬ランク",
     zhCN: "精炼等阶",
@@ -354,7 +359,7 @@
   },
 
   //
-  // その他システム
+  // Others
   //
   {
     en: "Wish",

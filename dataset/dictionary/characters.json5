@@ -187,6 +187,16 @@
     tags: [ "mondstadt", "title" ],
   },
   {
+    en: "Oz",
+    ja: "オズ",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Ozvaldo Hrafnavins",
+    ja: "オズヴァルド・ラフナヴィネス",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
     en: "Diluc Ragnvindr",
     ja: "ディルック・ラグヴィンド",
     zhCN: "迪卢克·莱艮芬德",
@@ -758,6 +768,7 @@
     en: "Dr. Baizhu",
     ja: "白先生",
     zhCN: "白先生",
+    pronunciationJa: "びゃくせんせい",
     tags: [ "liyue", "how-to-call" ],
     notes: "七七などからの白朮の呼び名",
   },
@@ -2035,9 +2046,9 @@
   },
   {
     en: "Tsaritsa",
-    ja: "(スネージナヤの) 女皇",
+    ja: "氷の女皇",
     zhCN: "冰之女皇",
-    pronunciationJa: "じょこう",
+    pronunciationJa: "こおりのじょこう",
     notes: "原義はロシアなどにおける女王や王妃に対する尊称。ツァーリ (Tsar) の女性形。",
     tags: [ "snezhnaya", "character-sub" ],
   },
