@@ -46,12 +46,14 @@
     en: "Jade Seeker",
     ja: "尋瑰納琦真君",
     zhCN: "寻瑰纳琦真君",
+    pronunciationJa: "じんかいのうきしんくん",
     tags: [ "sereniteapot", "title" ],
   },
   {
     en: "Traveling Depot",
     ja: "周遊百貨",
     zhCN: "周游百宝",
+    pronunciationJa: "しゅうゆうひゃっか",
     tags: [ "sereniteapot" ],
   },
   {

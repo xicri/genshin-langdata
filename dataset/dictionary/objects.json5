@@ -208,12 +208,14 @@
     en: "Snowboar",
     ja: "雪のイノシシ",
     zhCN: "雪猪",
+    pronunciationJa: "ゆきのイノシシ",
     tags: [ "object" ],
   },
   {
     en: "Great Snowboar King",
     ja: "雪のイノシシ王",
     zhCN: "大雪猪王",
+    pronunciationJa: "ゆきのイノシシおう",
     tags: [ "object", "enemy" ],
     variants: {
       ja: [ "イノシシ王" ],
