@@ -108,6 +108,12 @@
   // Mondstadt
   //
   {
+    en: "Holy Lyre der Himmel",
+    ja: "天空のライアー",
+    pronunciationJa: "てんくうのライアー",
+    tags: [ "mondstadt" ],
+  },
+  {
     en: "Ludi Harpastum",
     ja: "バドルドー祭",
     zhCN: "羽球节",

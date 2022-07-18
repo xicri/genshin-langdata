@@ -59,6 +59,16 @@
     tags: [ "mondstadt", "organization" ],
   },
   {
+    en: "Cat's Tail",
+    ja: "キャッツテール",
+    tags: [ "mondstadt", "organization" ],
+  },
+  {
+    en: "Good Hunter",
+    ja: "鹿狩り",
+    tags: [ "mondstadt", "organization" ],
+  },
+  {
     en: "Benny's Adventure Team",
     ja: "ベニー冒険団",
     zhCN: "班尼冒险团",

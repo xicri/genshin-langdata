@@ -324,6 +324,11 @@
     tags: [ "liyue", "location" ],
   },
   {
+    en: "Pearl Galley",
+    ja: "珠鈿舫",
+    tags: [ "liyue", "location", "organization" ],
+  },
+  {
     en: "Golden House",
     ja: "黄金屋",
     zhCN: "黄金屋",

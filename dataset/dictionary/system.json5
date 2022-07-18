@@ -340,6 +340,11 @@
     pronunciationJa: "じゅうげき",
   },
   {
+    en: "plunging attack",
+    ja: "落下攻撃",
+    pronunciationJa: "らっかこうげき",
+  },
+  {
     en: "refinement rank",
     ja: "精錬ランク",
     zhCN: "精炼等阶",

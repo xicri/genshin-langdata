@@ -187,6 +187,16 @@
     tags: [ "mondstadt", "title" ],
   },
   {
+    en: "Oz",
+    ja: "オズ",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Ozvaldo Hrafnavins",
+    ja: "オズヴァルド・ラフナヴィネス",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
     en: "Diluc Ragnvindr",
     ja: "ディルック・ラグヴィンド",
     zhCN: "迪卢克·莱艮芬德",

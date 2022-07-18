@@ -87,6 +87,12 @@
     tags: [ "food" ],
   },
   {
+    en: "Pop's Teas",
+    ja: "大椀のお茶",
+    pronunciationJa: "おおわんのおちゃ",
+    tags: [ "food" ],
+  },
+  {
     en: "Rice Buns",
     ja: "米まんじゅう",
     zhCN: "米窝窝",
@@ -617,6 +623,12 @@
     pronunciationJa: "おうごんのジャンボチキン",
     tags: [ "food" ],
   },
+  {
+    en: "Butter Crab",
+    ja: "カニのバター添え",
+    pronunciationJa: "カニのバターぞえ",
+    tags: [ "food" ],
+  },
 
   // ★★★★★
   {
@@ -916,6 +928,13 @@
     pronunciationJa: "じょうしょうでんせつ",
     tags: [ "food", "inazuma" ],
     notes: "ゴローのオリジナル料理",
+  },
+  {
+    en: "Fukuuchi Udon",
+    ja: "福は内うどん",
+    pronunciationJa: "ふくはうちうどん",
+    tags: [ "food", "inazuma" ],
+    notes: "八重神子のオリジナル料理",
   },
   {
     en: "Way of the Strong",
