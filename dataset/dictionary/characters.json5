@@ -2035,9 +2035,9 @@
   },
   {
     en: "Tsaritsa",
-    ja: "(スネージナヤの) 女皇",
+    ja: "氷の女皇",
     zhCN: "冰之女皇",
-    pronunciationJa: "じょこう",
+    pronunciationJa: "こおりのじょこう",
     notes: "原義はロシアなどにおける女王や王妃に対する尊称。ツァーリ (Tsar) の女性形。",
     tags: [ "snezhnaya", "character-sub" ],
   },
