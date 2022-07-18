@@ -1,6 +1,6 @@
 [
   //
-  // キャラクター育成
+  // Character Development
   //
   {
     en: "Constellation",
@@ -88,7 +88,7 @@
   },
 
   //
-  // 元素
+  // Element
   //
   {
     en: "element",
@@ -302,7 +302,7 @@
   },
 
   //
-  // 戦闘システム
+  // Battle System
   //
   {
     en: "ATK",
@@ -354,7 +354,7 @@
   },
 
   //
-  // その他システム
+  // Others
   //
   {
     en: "Wish",
