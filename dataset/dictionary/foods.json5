@@ -89,6 +89,7 @@
   {
     en: "Pop's Teas",
     ja: "大椀のお茶",
+    zhCN: "大碗茶",
     pronunciationJa: "おおわんのおちゃ",
     tags: [ "food" ],
   },
