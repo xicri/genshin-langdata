@@ -189,11 +189,13 @@
   {
     en: "Oz",
     ja: "オズ",
+    zhCN: "奥兹",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Ozvaldo Hrafnavins",
     ja: "オズヴァルド・ラフナヴィネス",
+    zhCN: "奥兹华尔多·赫芙那梵茵斯",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
