@@ -183,12 +183,14 @@
   {
     en: "Phantasmal Conch",
     ja: "幻境のホラガイ",
+    zhCN: "幻境海螺",
     notes: "v2.8 期間限定イベント「幻声留形」で収集するアイテム「余韻のホラガイ」と「映像のホラガイ」の総称",
     tags: [ "event" ],
   },
   {
     en: "Imaging Conch",
     ja: "映像のホラガイ",
+    zhCN: "影像海螺",
     notes: "v2.8 期間限定イベント「幻声留形」で収集するアイテム",
     tags: [ "event" ],
   },
