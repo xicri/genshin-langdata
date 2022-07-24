@@ -61,11 +61,13 @@
   {
     en: "Cat's Tail",
     ja: "キャッツテール",
+    zhCN: "猫尾酒馆",
     tags: [ "mondstadt", "organization" ],
   },
   {
     en: "Good Hunter",
     ja: "鹿狩り",
+    zhCN: "猎鹿人",
     tags: [ "mondstadt", "organization" ],
   },
   {

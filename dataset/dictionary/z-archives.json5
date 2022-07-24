@@ -5,30 +5,35 @@
   {
     en: "Flower of Creviced Cliff",
     ja: "磐石芽生の花",
+    zhCN: "磐陀裂生之花",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
   },
   {
     en: "Feather of Jagged Peaks",
     ja: "嵯峨連山の翼",
+    zhCN: "嵯峨群峰之翼",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
   },
   {
     en: "Sundial of Enduring Jade",
     ja: "星羅圭玉の日時計",
+    zhCN: "星罗圭璧之晷",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
   },
   {
     en: "Goblet of Chiseled Crag",
     ja: "危岩磐石の杯",
+    zhCN: "巉岩琢塑之樽",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
   },
   {
     en: "Mask of Solitude Basalt",
     ja: "不動玄石の相",
+    zhCN: "不动玄石之相",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
   },
@@ -36,6 +41,7 @@
   {
     en: "Berserker's Rose",
     ja: "狂戦士の薔薇",
+    zhCN: "战狂的蔷薇",
     pronunciationJa: "きょうせんしのばら",
     notes: "聖遺物セット「狂戦士」(Berserker) の1つ",
     tags: [ "artifact-piece" ],
@@ -43,6 +49,7 @@
   {
     en: "Berserker's Indigo Feather",
     ja: "狂戦士の羽根",
+    zhCN: "战狂的翎羽",
     pronunciationJa: "きょうせんしのはね",
     notes: "聖遺物セット「狂戦士」(Berserker) の1つ",
     tags: [ "artifact-piece" ],
@@ -50,6 +57,7 @@
   {
     en: "Berserker's Bone Goblet",
     ja: "狂戦士のコップ",
+    zhCN: "战狂的骨杯",
     pronunciationJa: "きょうせんしのコップ",
     notes: "聖遺物セット「狂戦士」(Berserker) の1つ",
     tags: [ "artifact-piece" ],
@@ -57,6 +65,7 @@
   {
     en: "Berserker's Battle Mask",
     ja: "狂戦士の仮面",
+    zhCN: "战狂的鬼面",
     pronunciationJa: "きょうせんしのかめん",
     notes: "聖遺物セット「狂戦士」(Berserker) の1つ",
     tags: [ "artifact-piece" ],
@@ -64,6 +73,7 @@
   {
     en: "Berserker's Timepiece",
     ja: "狂戦士の時計",
+    zhCN: "战狂的时计",
     pronunciationJa: "きょうせんしのとけい",
     notes: "聖遺物セット「狂戦士」(Berserker) の1つ",
     tags: [ "artifact-piece" ],
@@ -72,6 +82,7 @@
   {
     en: "Snowswept Memory",
     ja: "吹雪の中の思い",
+    zhCN: "历经风雪的思念",
     pronunciationJa: "ふぶきのなかのおもい",
     notes: "聖遺物セット「氷風を彷徨う勇士」(Blizzard Strayer) の1つ",
     tags: [ "artifact-piece" ],
@@ -79,6 +90,7 @@
   {
     en: "Icebreaker's Resolve",
     ja: "氷を砕く執念",
+    zhCN: "摧冰而行的执望",
     pronunciationJa: "こおりをくだくしゅうねん",
     notes: "聖遺物セット「氷風を彷徨う勇士」(Blizzard Strayer) の1つ",
     tags: [ "artifact-piece" ],
@@ -86,6 +98,7 @@
   {
     en: "Frozen Homeland's Demise",
     ja: "雪覆う故郷の最後",
+    zhCN: "冰雪故园的终期",
     pronunciationJa: "ゆきおおうこきょうのさいご",
     notes: "聖遺物セット「氷風を彷徨う勇士」(Blizzard Strayer) の1つ",
     tags: [ "artifact-piece" ],
@@ -93,6 +106,7 @@
   {
     en: "Frost-Weaved Dignity",
     ja: "霜を纏った気骨",
+    zhCN: "遍结寒霜的傲骨",
     pronunciationJa: "しもをまとったきこつ",
     notes: "聖遺物セット「氷風を彷徨う勇士」(Blizzard Strayer) の1つ",
     tags: [ "artifact-piece" ],
@@ -100,6 +114,7 @@
   {
     en: "Broken Rime's Echo",
     ja: "氷雪を踏む音",
+    zhCN: "破冰踏雪的回音",
     pronunciationJa: "ひょうせつをふむおと",
     notes: "聖遺物セット「氷風を彷徨う勇士」(Blizzard Strayer) の1つ",
     tags: [ "artifact-piece" ],
@@ -108,6 +123,7 @@
   {
     en: "Bloodstained Flower of Iron",
     ja: "血染めの鉄の心",
+    zhCN: "染血的铁之心",
     pronunciationJa: "ちぞめのてつのこころ",
     notes: "聖遺物セット「血染めの騎士道」(Bloodstained Flower of Iron) の1つ",
     tags: [ "artifact-piece" ],
@@ -115,6 +131,7 @@
   {
     en: "Bloodstained Black Plume",
     ja: "血染めの黒羽",
+    zhCN: "染血的黑之羽",
     pronunciationJa: "ちぞめのくろはね",
     notes: "聖遺物セット「血染めの騎士道」(Bloodstained Flower of Iron) の1つ",
     tags: [ "artifact-piece" ],
@@ -122,6 +139,7 @@
   {
     en: "Bloodstained Final Hour",
     ja: "騎士が血に染めた時",
+    zhCN: "骑士染血之时",
     pronunciationJa: "きしがちにそめたとき",
     notes: "聖遺物セット「血染めの騎士道」(Bloodstained Flower of Iron) の1つ",
     tags: [ "artifact-piece" ],
@@ -129,6 +147,7 @@
   {
     en: "Bloodstained Chevalier's Goblet",
     ja: "血染めの騎士のコップ",
+    zhCN: "染血的骑士之杯",
     pronunciationJa: "ちぞめのきしのコップ",
     notes: "聖遺物セット「血染めの騎士道」(Bloodstained Flower of Iron) の1つ",
     tags: [ "artifact-piece" ],
@@ -136,6 +155,7 @@
   {
     en: "Bloodstained Iron Mask",
     ja: "血染めの鉄仮面",
+    zhCN: "染血的铁假面",
     pronunciationJa: "ちぞめのてつかめん",
     notes: "聖遺物セット「血染めの騎士道」(Bloodstained Flower of Iron) の1つ",
     tags: [ "artifact-piece" ],
@@ -144,6 +164,7 @@
   {
     en: "Prospect of the Brave",
     ja: "勇士の期待",
+    zhCN: "勇士的期许",
     pronunciationJa: "ゆうしのきたい",
     notes: "聖遺物セット「勇士の心」(Brave Heart) の1つ",
     tags: [ "artifact-piece" ],
@@ -151,6 +172,7 @@
   {
     en: "Medal of the Brave",
     ja: "勇士の勲章",
+    zhCN: "勇士的勋章",
     pronunciationJa: "ゆうしのくんしょう",
     notes: "聖遺物セット「勇士の心」(Brave Heart) の1つ",
     tags: [ "artifact-piece" ],
@@ -158,6 +180,7 @@
   {
     en: "Crown of the Brave",
     ja: "勇士の冠",
+    zhCN: "勇士的冠冕",
     pronunciationJa: "ゆうしのかんむり",
     notes: "聖遺物セット「勇士の心」(Brave Heart) の1つ",
     tags: [ "artifact-piece" ],
@@ -165,6 +188,7 @@
   {
     en: "Outset of the Brave",
     ja: "勇士の壮行",
+    zhCN: "勇士的壮行",
     pronunciationJa: "ゆうしのそうこう",
     notes: "聖遺物セット「勇士の心」(Brave Heart) の1つ",
     tags: [ "artifact-piece" ],
@@ -173,6 +197,7 @@
   {
     en: "Witch's Flower of Blaze",
     ja: "魔女の炎の花",
+    zhCN: "魔女的炎之花",
     pronunciationJa: "まじょのほのおのはな",
     notes: "聖遺物セット「燃え盛る炎の魔女」(Crimson Witch of Flames、通称「火魔女」) の1つ",
     tags: [ "artifact-piece" ],
@@ -180,6 +205,7 @@
   {
     en: "Witch's Ever-Burning Plume",
     ja: "魔女の炎の羽根",
+    zhCN: "魔女常燃之羽",
     pronunciationJa: "まじょのほのおのはね",
     notes: "聖遺物セット「燃え盛る炎の魔女」(Crimson Witch of Flames、通称「火魔女」) の1つ",
     tags: [ "artifact-piece" ],
@@ -187,6 +213,7 @@
   {
     en: "Witch's End Time",
     ja: "魔女の破滅の時",
+    zhCN: "魔女破灭之时",
     pronunciationJa: "まじょのはめつのとき",
     notes: "聖遺物セット「燃え盛る炎の魔女」(Crimson Witch of Flames、通称「火魔女」) の1つ",
     tags: [ "artifact-piece" ],
@@ -194,6 +221,7 @@
   {
     en: "Witch's Heart Flames",
     ja: "魔女の心の炎",
+    zhCN: "魔女的心之火",
     pronunciationJa: "まじょのこころのほのお",
     notes: "聖遺物セット「燃え盛る炎の魔女」(Crimson Witch of Flames、通称「火魔女」) の1つ",
     tags: [ "artifact-piece" ],
@@ -201,6 +229,7 @@
   {
     en: "Witch's Scorching Hat",
     ja: "焦げた魔女の帽子",
+    zhCN: "焦灼的魔女帽子",
     pronunciationJa: "こげたまじょのぼうし",
     notes: "聖遺物セット「燃え盛る炎の魔女」(Crimson Witch of Flames、通称「火魔女」) の1つ",
     tags: [ "artifact-piece" ],
@@ -209,12 +238,14 @@
   {
     en: "Sundered Feather",
     ja: "切落の羽",
+    zhCN: "切落之羽",
     notes: "聖遺物セット「絶縁の旗印」(Emblem of Severed Fate) の1つ",
     tags: [ "artifact-piece" ],
   },
   {
     en: "Storm Cage",
     ja: "雷雲の印籠",
+    zhCN: "雷云之笼",
     pronunciationJa: "らいうんのいんろう",
     notes: "聖遺物セット「絶縁の旗印」(Emblem of Severed Fate) の1つ",
     tags: [ "artifact-piece" ],
@@ -222,6 +253,7 @@
   {
     en: "Scarlet Vessel",
     ja: "緋花の壺",
+    zhCN: "绯花之壶",
     notes: "聖遺物セット「絶縁の旗印」(Emblem of Severed Fate) の1つ",
     tags: [ "artifact-piece" ],
   },
@@ -229,6 +261,7 @@
   {
     en: "Exile's Flower",
     ja: "亡命者の花",
+    zhCN: "流放者之花",
     pronunciationJa: "ぼうめいしゃのはな",
     notes: "聖遺物セット「亡命者」(The Exile) の1つ",
     tags: [ "artifact-piece" ],
@@ -236,6 +269,7 @@
   {
     en: "Exile's Feather",
     ja: "亡命者の羽根",
+    zhCN: "流放者之羽",
     pronunciationJa: "ぼうめいしゃのはね",
     notes: "聖遺物セット「亡命者」(The Exile) の1つ",
     tags: [ "artifact-piece" ],
@@ -243,6 +277,7 @@
   {
     en: "Exile's Goblet",
     ja: "亡命者のコップ",
+    zhCN: "流放者之杯",
     pronunciationJa: "ぼうめいしゃのコップ",
     notes: "聖遺物セット「亡命者」(The Exile) の1つ",
     tags: [ "artifact-piece" ],
@@ -250,6 +285,7 @@
   {
     en: "Exile's Circlet",
     ja: "亡命者の冠",
+    zhCN: "流放者头冠",
     pronunciationJa: "ぼうめいしゃのかんむり",
     notes: "聖遺物セット「亡命者」(The Exile) の1つ",
     tags: [ "artifact-piece" ],
@@ -257,6 +293,7 @@
   {
     en: "Exile's Pocket Watch",
     ja: "亡命者の懐中時計",
+    zhCN: "流放者怀表",
     pronunciationJa: "ぼうめいしゃのかいちゅうどけい",
     notes: "聖遺物セット「亡命者」(The Exile) の1つ",
     tags: [ "artifact-piece" ],
@@ -265,6 +302,7 @@
   {
     en: "Gladiator's Nostalgia",
     ja: "剣闘士の未練",
+    zhCN: "角斗士的留恋",
     pronunciationJa: "けんとうしのみれん",
     notes: "聖遺物セット「剣闘士のフィナーレ」(Gladiator's Finale) の1つ",
     tags: [ "artifact-piece" ],
@@ -272,6 +310,7 @@
   {
     en: "Gladiator's Destiny",
     ja: "剣闘士の帰着",
+    zhCN: "角斗士的归宿",
     pronunciationJa: "けんとうしのきちゃく",
     notes: "聖遺物セット「剣闘士のフィナーレ」(Gladiator's Finale) の1つ",
     tags: [ "artifact-piece" ],
@@ -279,6 +318,7 @@
   {
     en: "Gladiator's Longing",
     ja: "剣闘士の希望",
+    zhCN: "角斗士的希冀",
     pronunciationJa: "けんとうしのきぼう",
     notes: "聖遺物セット「剣闘士のフィナーレ」(Gladiator's Finale) の1つ",
     tags: [ "artifact-piece" ],
@@ -286,6 +326,7 @@
   {
     en: "Gladiator's Intoxication",
     ja: "剣闘士の酩酊",
+    zhCN: "角斗士的酣醉",
     pronunciationJa: "けんとうしのめいてい",
     notes: "聖遺物セット「剣闘士のフィナーレ」(Gladiator's Finale) の1つ",
     tags: [ "artifact-piece" ],
@@ -293,6 +334,7 @@
   {
     en: "Gladiator's Triumphus",
     ja: "剣闘士の凱旋",
+    zhCN: "角斗士的凯旋",
     pronunciationJa: "けんとうしのがいせん",
     notes: "聖遺物セット「剣闘士のフィナーレ」(Gladiator's Finale) の1つ",
     tags: [ "artifact-piece" ],
@@ -301,6 +343,7 @@
   {
     en: "Gilded Corsage",
     ja: "金メッキのコサージュ",
+    zhCN: "饰金胸花",
     pronunciationJa: "きんメッキのコサージュ",
     notes: "聖遺物セット「沈淪の心」(Heart of Depth) の1つ",
     tags: [ "artifact-piece" ],
@@ -308,6 +351,7 @@
   {
     en: "Gust of Nostalgia",
     ja: "追憶の風",
+    zhCN: "追忆之风",
     pronunciationJa: "ついおくのかぜ",
     notes: "聖遺物セット「沈淪の心」(Heart of Depth) の1つ",
     tags: [ "artifact-piece" ],
@@ -315,6 +359,7 @@
   {
     en: "Copper Compass",
     ja: "堅い銅のコンパス",
+    zhCN: "坚铜罗盘",
     pronunciationJa: "かたいどうのコンパス",
     notes: "聖遺物セット「沈淪の心」(Heart of Depth) の1つ",
     tags: [ "artifact-piece" ],
@@ -322,6 +367,7 @@
   {
     en: "Goblet of Thundering Deep",
     ja: "浮沈の杯",
+    zhCN: "沉波之盏",
     pronunciationJa: "ふちんのさかずき",
     notes: "聖遺物セット「沈淪の心」(Heart of Depth) の1つ",
     tags: [ "artifact-piece" ],
@@ -329,6 +375,7 @@
   {
     en: "Wine-Stained Tricorne",
     ja: "酒に漬けた帽子",
+    zhCN: "酒渍船帽",
     pronunciationJa: "さけにつけたぼうし",
     notes: "聖遺物セット「沈淪の心」(Heart of Depth) の1つ",
     tags: [ "artifact-piece" ],
@@ -337,6 +384,7 @@
   {
     en: "Instructor's Feather Accessory",
     ja: "教官の羽飾り",
+    zhCN: "教官的羽饰",
     pronunciationJa: "きょうかんのはねかざり",
     notes: "聖遺物セット「教官」(Instructor) の1つ",
     tags: [ "artifact-piece" ],
@@ -344,6 +392,7 @@
   {
     en: "Instructor's Pocket Watch",
     ja: "教官の懐中時計",
+    zhCN: "教官的怀表",
     pronunciationJa: "きょうかんのかいちゅうどけい",
     notes: "聖遺物セット「教官」(Instructor) の1つ",
     tags: [ "artifact-piece" ],
@@ -351,6 +400,7 @@
   {
     en: "Instructor's Brooch",
     ja: "教官の花飾り",
+    zhCN: "教官的胸花",
     pronunciationJa: "きょうかんのはなかざり",
     notes: "聖遺物セット「教官」(Instructor) の1つ",
     tags: [ "artifact-piece" ],
@@ -358,6 +408,7 @@
   {
     en: "Instructor's Cap",
     ja: "教官の帽子",
+    zhCN: "教官的帽子",
     pronunciationJa: "きょうかんのぼうし",
     notes: "聖遺物セット「教官」(Instructor) の1つ",
     tags: [ "artifact-piece" ],
@@ -365,6 +416,7 @@
   {
     en: "Instructor's Tea Cup",
     ja: "教官のティーカップ",
+    zhCN: "教官的茶杯",
     pronunciationJa: "きょうかんのティーカップ",
     notes: "聖遺物セット「教官」(Instructor) の1つ",
     tags: [ "artifact-piece" ],
@@ -373,6 +425,7 @@
   {
     en: "Lavawalker's Resolution",
     ja: "火渡りの堅実",
+    zhCN: "渡火者的决绝",
     pronunciationJa: "ひわたりのけんじつ",
     notes: "聖遺物セット「烈火を渡る賢者」(Lavawalker) の1つ",
     tags: [ "artifact-piece" ],
@@ -380,6 +433,7 @@
   {
     en: "Lavawalker's Salvation",
     ja: "火渡りの解放",
+    zhCN: "渡火者的解脱",
     pronunciationJa: "ひわたりのかいほう",
     notes: "聖遺物セット「烈火を渡る賢者」(Lavawalker) の1つ",
     tags: [ "artifact-piece" ],
@@ -387,6 +441,7 @@
   {
     en: "Lavawalker's Torment",
     ja: "火渡りの苦しみ",
+    zhCN: "渡火者的煎熬",
     pronunciationJa: "ひわたりのくるしみ",
     notes: "聖遺物セット「烈火を渡る賢者」(Lavawalker) の1つ",
     tags: [ "artifact-piece" ],
@@ -394,6 +449,7 @@
   {
     en: "Lavawalker's Epiphany",
     ja: "火渡りの悟り",
+    zhCN: "渡火者的醒悟",
     pronunciationJa: "ひわたりのさとり",
     notes: "聖遺物セット「烈火を渡る賢者」(Lavawalker) の1つ",
     tags: [ "artifact-piece" ],
@@ -401,6 +457,7 @@
   {
     en: "Lavawalker's Wisdom",
     ja: "火渡りの知恵",
+    zhCN: "渡火者的智慧",
     pronunciationJa: "ひわたりのちえ",
     notes: "聖遺物セット「烈火を渡る賢者」(Lavawalker) の1つ",
     tags: [ "artifact-piece" ],
@@ -409,6 +466,7 @@
   {
     en: "Maiden's Distant Love",
     ja: "彼方にある少女の心",
+    zhCN: "远方的少女之心",
     pronunciationJa: "かなたにあるしょうじょのこころ",
     notes: "聖遺物セット「愛される少女」(Maiden Beloved) の1つ",
     tags: [ "artifact-piece" ],
@@ -416,6 +474,7 @@
   {
     en: "Maiden's Heart-stricken Infatuation",
     ja: "少女の揺らぐ思い",
+    zhCN: "少女飘摇的思念",
     pronunciationJa: "しょうじょのゆらぐおもい",
     notes: "聖遺物セット「愛される少女」(Maiden Beloved) の1つ",
     tags: [ "artifact-piece" ],
@@ -423,6 +482,7 @@
   {
     en: "Maiden's Passing Youth",
     ja: "少女の短い華年",
+    zhCN: "少女苦短的良辰",
     pronunciationJa: "しょうじょのみじかいかねん",
     notes: "聖遺物セット「愛される少女」(Maiden Beloved) の1つ",
     tags: [ "artifact-piece" ],
@@ -430,6 +490,7 @@
   {
     en: "Maiden's Fleeting Leisure",
     ja: "少女の暫く息抜き",
+    zhCN: "少女片刻的闲暇",
     pronunciationJa: "しょうじょのしばらくいきぬき",
     notes: "聖遺物セット「愛される少女」(Maiden Beloved) の1つ",
     tags: [ "artifact-piece" ],
@@ -437,6 +498,7 @@
   {
     en: "Maiden's Fading Beauty",
     ja: "少女の儚き顔",
+    zhCN: "少女易逝的芳颜",
     pronunciationJa: "しょうじょのはかなきかお",
     notes: "聖遺物セット「愛される少女」(Maiden Beloved) の1つ",
     tags: [ "artifact-piece" ],
@@ -445,6 +507,7 @@
   {
     en: "Martial Artist's Feather Accessory",
     ja: "武人の羽飾り",
+    zhCN: "武人的羽饰",
     pronunciationJa: "ぶじんのはねかざり",
     notes: "聖遺物セット「武人」(Martial Artist) の1つ",
     tags: [ "artifact-piece" ],
@@ -452,6 +515,7 @@
   {
     en: "Martial Artist's Wine Cup",
     ja: "武人の酒器",
+    zhCN: "武人的酒杯",
     pronunciationJa: "ぶじんのしゅき",
     notes: "聖遺物セット「武人」(Martial Artist) の1つ",
     tags: [ "artifact-piece" ],
@@ -460,6 +524,7 @@
   {
     en: "Royal Flora",
     ja: "旧貴族の花",
+    zhCN: "宗室之花",
     pronunciationJa: "きゅうきぞくのはな",
     notes: "聖遺物セット「旧貴族のしつけ」(Noblesse Oblige) の1つ",
     tags: [ "artifact-piece" ],
@@ -467,6 +532,7 @@
   {
     en: "Royal Plume",
     ja: "旧貴族の羽根",
+    zhCN: "宗室之翎",
     pronunciationJa: "きゅうきぞくのはね",
     notes: "聖遺物セット「旧貴族のしつけ」(Noblesse Oblige) の1つ",
     tags: [ "artifact-piece" ],
@@ -474,6 +540,7 @@
   {
     en: "Royal Pocket Watch",
     ja: "旧貴族の時計",
+    zhCN: "宗室时计",
     pronunciationJa: "きゅうきぞくのとけい",
     notes: "聖遺物セット「旧貴族のしつけ」(Noblesse Oblige) の1つ",
     tags: [ "artifact-piece" ],
@@ -481,6 +548,7 @@
   {
     en: "Royal Silver Urn",
     ja: "旧貴族の銀瓶",
+    zhCN: "宗室银瓮",
     pronunciationJa: "きゅうきぞくのぎんびん",
     notes: "聖遺物セット「旧貴族のしつけ」(Noblesse Oblige) の1つ",
     tags: [ "artifact-piece" ],
@@ -488,6 +556,7 @@
   {
     en: "Royal Masque",
     ja: "旧貴族の仮面",
+    zhCN: "宗室面具",
     pronunciationJa: "きゅうきぞくのかめん",
     notes: "聖遺物セット「旧貴族のしつけ」(Noblesse Oblige) の1つ",
     tags: [ "artifact-piece" ],
@@ -496,6 +565,7 @@
   {
     en: "Stainless Bloom",
     ja: "無垢の花",
+    zhCN: "无垢之花",
     pronunciationJa: "むくのはな",
     notes: "聖遺物セット「蒼白の炎」(Pale Flame) の1つ",
     tags: [ "artifact-piece" ],
@@ -503,6 +573,7 @@
   {
     en: "Wise Doctor's Pinion",
     ja: "良医の羽",
+    zhCN: "贤医之羽",
     pronunciationJa: "りょういのはね",
     notes: "聖遺物セット「蒼白の炎」(Pale Flame) の1つ",
     tags: [ "artifact-piece" ],
@@ -510,6 +581,7 @@
   {
     en: "Moment of Cessation",
     ja: "停頓の時",
+    zhCN: "停摆之刻",
     pronunciationJa: "ていとんのとき",
     notes: "聖遺物セット「蒼白の炎」(Pale Flame) の1つ",
     tags: [ "artifact-piece" ],
@@ -517,6 +589,7 @@
   {
     en: "Surpassing Cup",
     ja: "超越の盃",
+    zhCN: "超越之盏",
     pronunciationJa: "ちょうえつのさかずき",
     notes: "聖遺物セット「蒼白の炎」(Pale Flame) の1つ",
     tags: [ "artifact-piece" ],
@@ -524,6 +597,7 @@
   {
     en: "Mocking Mask",
     ja: "嗤笑の面",
+    zhCN: "嗤笑之面",
     pronunciationJa: "ししょうのめん",
     notes: "聖遺物セット「蒼白の炎」(Pale Flame) の1つ",
     tags: [ "artifact-piece" ],
@@ -532,6 +606,7 @@
   {
     en: "Summer Night's Bloom",
     ja: "夏祭りの花",
+    zhCN: "夏祭之花",
     pronunciationJa: "なつまつりのはな",
     notes: "聖遺物セット「逆飛びの流星」(Retracing Bolide) の1つ",
     tags: [ "artifact-piece" ],
@@ -539,6 +614,7 @@
   {
     en: "Summer Night's Finale",
     ja: "夏祭りの終わり",
+    zhCN: "夏祭终末",
     pronunciationJa: "なつまつりのおわり",
     notes: "聖遺物セット「逆飛びの流星」(Retracing Bolide) の1つ",
     tags: [ "artifact-piece" ],
@@ -546,6 +622,7 @@
   {
     en: "Summer Night's Moment",
     ja: "夏祭りの刻",
+    zhCN: "夏祭之刻",
     pronunciationJa: "なつまつりのとき",
     notes: "聖遺物セット「逆飛びの流星」(Retracing Bolide) の1つ",
     tags: [ "artifact-piece" ],
@@ -553,6 +630,7 @@
   {
     en: "Summer Night's Waterballoon",
     ja: "夏祭りの水風船",
+    zhCN: "夏祭水玉",
     pronunciationJa: "なつまつりのみずふうせん",
     notes: "聖遺物セット「逆飛びの流星」(Retracing Bolide) の1つ",
     tags: [ "artifact-piece" ],
@@ -560,6 +638,7 @@
   {
     en: "Summer Night's Mask",
     ja: "夏祭りの仮面",
+    zhCN: "夏祭之面",
     pronunciationJa: "なつまつりのかめん",
     notes: "聖遺物セット「逆飛びの流星」(Retracing Bolide) の1つ",
     tags: [ "artifact-piece" ],
@@ -568,6 +647,7 @@
   {
     en: "Scholar's Clock",
     ja: "学者の時計",
+    zhCN: "学士的时钟",
     pronunciationJa: "がくしゃのとけい",
     notes: "聖遺物セット「学者」(Scholar) の1つ",
     tags: [ "artifact-piece" ],
@@ -575,6 +655,7 @@
   {
     en: "Scholar's Bookmark",
     ja: "学者のしおり",
+    zhCN: "学士的书签",
     pronunciationJa: "がくしゃのしおり",
     notes: "聖遺物セット「学者」(Scholar) の1つ",
     tags: [ "artifact-piece" ],
@@ -582,6 +663,7 @@
   {
     en: "Scholar's Quill Pen",
     ja: "学者の羽根ペン",
+    zhCN: "学士的羽笔",
     pronunciationJa: "がくしゃのはねペン",
     notes: "聖遺物セット「学者」(Scholar) の1つ",
     tags: [ "artifact-piece" ],
@@ -589,6 +671,7 @@
   {
     en: "Scholar's Ink Cup",
     ja: "学者のコップ",
+    zhCN: "学士的墨杯",
     pronunciationJa: "がくしゃのコップ",
     notes: "聖遺物セット「学者」(Scholar) の1つ",
     tags: [ "artifact-piece" ],
@@ -596,6 +679,7 @@
   {
     en: "Scholar's Lens",
     ja: "学者のレンズ",
+    zhCN: "学士的镜片",
     pronunciationJa: "がくしゃのレンズ",
     notes: "聖遺物セット「学者」(Scholar) の1つ",
     tags: [ "artifact-piece" ],
@@ -604,6 +688,7 @@
   {
     en: "Morning Dew's Moment",
     ja: "朝露の時",
+    zhCN: "朝露之时",
     pronunciationJa: "あさつゆのとき",
     notes: "聖遺物セット「追憶のしめ縄」(Shimenawa's Reminiscence) の1つ",
     tags: [ "artifact-piece" ],
@@ -611,6 +696,7 @@
   {
     en: "Hopeful Heart",
     ja: "祈望の心",
+    zhCN: "祈望之心",
     pronunciationJa: "きぼうのこころ",
     notes: "聖遺物セット「追憶のしめ縄」(Shimenawa's Reminiscence) の1つ",
     tags: [ "artifact-piece" ],
@@ -618,6 +704,7 @@
   {
     en: "Capricious Visage",
     ja: "無常の面",
+    zhCN: "无常之面",
     pronunciationJa: "むじょうのめん",
     notes: "聖遺物セット「追憶のしめ縄」(Shimenawa's Reminiscence) の1つ",
     tags: [ "artifact-piece" ],
@@ -626,6 +713,7 @@
   {
     en: "Flower of Accolades",
     ja: "偉勲の花",
+    zhCN: "勋绩之花",
     pronunciationJa: "いくんのはな",
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
@@ -633,6 +721,7 @@
   {
     en: "Ceremonial War-Plume",
     ja: "昭武の羽根",
+    zhCN: "昭武翎羽",
     pronunciationJa: "しょうぶのはね",
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
@@ -640,6 +729,7 @@
   {
     en: "Orichalceous Time-Dial",
     ja: "金銅の日時計",
+    zhCN: "金铜时晷",
     pronunciationJa: "きんどうのひどけい",
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
@@ -647,6 +737,7 @@
   {
     en: "Noble's Pledging Vessel",
     ja: "誓いの金杯",
+    zhCN: "盟誓金爵",
     pronunciationJa: "ちかいのきんぱい",
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
@@ -654,6 +745,7 @@
   {
     en: "General's Ancient Helm",
     ja: "将帥の兜",
+    zhCN: "将帅兜鍪",
     pronunciationJa: "しょうすいのかぶと",
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
@@ -662,6 +754,7 @@
   {
     en: "Thunderbird's Mercy",
     ja: "雷鳥の憐み",
+    zhCN: "雷鸟的怜悯",
     pronunciationJa: "らいちょうのあわれみ",
     notes: "聖遺物セット「雷のような怒り」(Thundering Fury) の1つ",
     tags: [ "artifact-piece" ],
@@ -669,6 +762,7 @@
   {
     en: "Survivor of Catastrophe",
     ja: "雷災の生存者",
+    zhCN: "雷灾的孑遗",
     pronunciationJa: "らいさいのせいぞんしゃ",
     notes: "聖遺物セット「雷のような怒り」(Thundering Fury) の1つ",
     tags: [ "artifact-piece" ],
@@ -676,6 +770,7 @@
   {
     en: "Hourglass of Thunder",
     ja: "雷霆の時計",
+    zhCN: "雷霆的时计",
     pronunciationJa: "らいていのとけい",
     notes: "聖遺物セット「雷のような怒り」(Thundering Fury) の1つ",
     tags: [ "artifact-piece" ],
@@ -683,6 +778,7 @@
   {
     en: "Omen of Thunderstorm",
     ja: "落雷の前兆",
+    zhCN: "降雷的凶兆",
     pronunciationJa: "らくらいのぜんちょう",
     notes: "聖遺物セット「雷のような怒り」(Thundering Fury) の1つ",
     tags: [ "artifact-piece" ],
@@ -690,6 +786,7 @@
   {
     en: "Thunder Summoner's Crown",
     ja: "雷を呼ぶ冠",
+    zhCN: "唤雷者的头冠",
     pronunciationJa: "かみなりをよぶかんむり",
     notes: "聖遺物セット「雷のような怒り」(Thundering Fury) の1つ",
     tags: [ "artifact-piece" ],
@@ -698,6 +795,7 @@
   {
     en: "Thundersoother's Heart",
     ja: "雷討ちの心",
+    zhCN: "平雷之心",
     pronunciationJa: "かみなりうちのこころ",
     notes: "聖遺物セット「雷を鎮める尊者」(Thundersoother) の1つ",
     tags: [ "artifact-piece" ],
@@ -705,6 +803,7 @@
   {
     en: "Thundersoother's Plume",
     ja: "雷討ちの羽根",
+    zhCN: "平雷之羽",
     pronunciationJa: "かみなりうちのはね",
     notes: "聖遺物セット「雷を鎮める尊者」(Thundersoother) の1つ",
     tags: [ "artifact-piece" ],
@@ -712,6 +811,7 @@
   {
     en: "Hour of Soothing Thunder",
     ja: "雷討ちの刻",
+    zhCN: "平雷之刻",
     pronunciationJa: "かみなりうちのとき",
     notes: "聖遺物セット「雷を鎮める尊者」(Thundersoother) の1つ",
     tags: [ "artifact-piece" ],
@@ -719,6 +819,7 @@
   {
     en: "Thundersoother's Goblet",
     ja: "雷討ちの器",
+    zhCN: "平雷之器",
     pronunciationJa: "かみなりうちのうつわ",
     notes: "聖遺物セット「雷を鎮める尊者」(Thundersoother) の1つ",
     tags: [ "artifact-piece" ],
@@ -726,6 +827,7 @@
   {
     en: "Thundersoother's Diadem",
     ja: "雷討ちの冠",
+    zhCN: "平雷之冠",
     pronunciationJa: "かみなりうちのかんむり",
     notes: "聖遺物セット「雷を鎮める尊者」(Thundersoother) の1つ",
     tags: [ "artifact-piece" ],
@@ -734,6 +836,7 @@
   {
     en: "In Remembrance of Viridescent Fields",
     ja: "野花の記憶の草原",
+    zhCN: "野花记忆的绿野",
     pronunciationJa: "のばなのきおくのそうげん",
     notes: "聖遺物セット「翠緑の影」(Viridescent Venerer) の1つ",
     tags: [ "artifact-piece" ],
@@ -741,6 +844,7 @@
   {
     en: "Viridescent Arrow Feather",
     ja: "狩人の青緑色の矢羽",
+    zhCN: "猎人青翠的箭羽",
     pronunciationJa: "かりうどのあおみどりいろのやばね",
     notes: "聖遺物セット「翠緑の影」(Viridescent Venerer) の1つ",
     tags: [ "artifact-piece" ],
@@ -748,6 +852,7 @@
   {
     en: "Viridescent Venerer's Determination",
     ja: "緑の狩人の決心",
+    zhCN: "翠绿猎人的笃定",
     pronunciationJa: "みどりのかりうどのけっしん",
     notes: "聖遺物セット「翠緑の影」(Viridescent Venerer) の1つ",
     tags: [ "artifact-piece" ],
@@ -755,6 +860,7 @@
   {
     en: "Viridescent Venerer's Vessel",
     ja: "緑の狩人の容器",
+    zhCN: "翠绿猎人的容器",
     pronunciationJa: "みどりのかりうどのようき",
     notes: "聖遺物セット「翠緑の影」(Viridescent Venerer) の1つ",
     tags: [ "artifact-piece" ],
@@ -762,6 +868,7 @@
   {
     en: "Viridescent Venerer's Diadem",
     ja: "緑の狩人の冠",
+    zhCN: "翠绿的猎人之冠",
     pronunciationJa: "みどりのかりうどのかんむり",
     notes: "聖遺物セット「翠緑の影」(Viridescent Venerer) の1つ",
     tags: [ "artifact-piece" ],
@@ -770,6 +877,7 @@
   {
     en: "Concert's Final Hour",
     ja: "フィナーレの時計",
+    zhCN: "终幕的时计",
     pronunciationJa: "フィナーレのとけい",
     notes: "聖遺物セット「大地を流浪する楽団」(Wanderer's Troupe) の1つ",
     tags: [ "artifact-piece" ],
@@ -777,6 +885,7 @@
   {
     en: "Conductor's Top Hat",
     ja: "指揮者のハット",
+    zhCN: "指挥的礼帽",
     pronunciationJa: "しきしゃのハット",
     notes: "聖遺物セット「大地を流浪する楽団」(Wanderer's Troupe) の1つ",
     tags: [ "artifact-piece" ],
@@ -784,6 +893,7 @@
   {
     en: "Troupe's Dawnlight",
     ja: "楽団の朝の光",
+    zhCN: "乐团的晨光",
     pronunciationJa: "がくだんのあさのひかり",
     notes: "聖遺物セット「大地を流浪する楽団」(Wanderer's Troupe) の1つ",
     tags: [ "artifact-piece" ],
@@ -791,6 +901,7 @@
   {
     en: "Bard's Arrow Feather",
     ja: "琴師の矢羽",
+    zhCN: "琴师的箭羽",
     pronunciationJa: "ことしのやばね",
     notes: "聖遺物セット「大地を流浪する楽団」(Wanderer's Troupe) の1つ",
     tags: [ "artifact-piece" ],
@@ -798,6 +909,7 @@
   {
     en: "Wanderer's String-Kettle",
     ja: "吟遊者の水筒",
+    zhCN: "吟游者之壶",
     pronunciationJa: "ぎんゆうしゃのすいとう",
     notes: "聖遺物セット「大地を流浪する楽団」(Wanderer's Troupe) の1つ",
     tags: [ "artifact-piece" ],
@@ -811,6 +923,7 @@
   {
     en: "Ruins of Thirsting Capital",
     ja: "渇水の廃都",
+    zhCN: "渴水的废都",
     pronunciationJa: "かっすいのはいと",
     notes: "セシリアの苗床の挑戦名",
     tags: [ "mondstadt" ],
@@ -818,6 +931,7 @@
   {
     en: "Fires of Purification",
     ja: "浄化の炎",
+    zhCN: "净化之炎",
     pronunciationJa: "じょうかのほのお",
     notes: "仲夏の庭園の挑戦名",
     tags: [ "mondstadt" ],
@@ -825,6 +939,7 @@
   {
     en: "Windy Cliff",
     ja: "風の崖",
+    zhCN: "风涌的高崖",
     pronunciationJa: "かぜのがけ",
     notes: "西風の鷹の神殿の挑戦名",
     tags: [ "mondstadt" ],
@@ -832,6 +947,7 @@
   {
     en: "Realm of Slumber",
     ja: "眠りの国",
+    zhCN: "沉睡之国",
     pronunciationJa: "ねむりのくに",
     notes: "忘却の峡谷の挑戦名",
     tags: [ "mondstadt" ],
@@ -839,6 +955,7 @@
   {
     en: "Dance of Steel",
     ja: "鋼鉄の舞",
+    zhCN: "钢铁之舞",
     pronunciationJa: "こうてつのまい",
     notes: "銘記の谷の挑戦名",
     tags: [ "mondstadt" ],
@@ -846,6 +963,7 @@
   {
     en: "Elegaic Rime",
     ja: "死告の霜",
+    zhCN: "告死之霜",
     pronunciationJa: "しこくのしも",
     notes: "フィンドニールの頂上の挑戦名",
     tags: [ "dragonspine" ],
@@ -854,6 +972,7 @@
   {
     en: "Unyielding",
     ja: "不動",
+    zhCN: "不移",
     pronunciationJa: "ふどう",
     notes: "山脊の見守りの挑戦名",
     tags: [ "mondstadt", "liyue" ],
@@ -862,6 +981,7 @@
   {
     en: "Spring",
     ja: "啓蟄",
+    zhCN: "惊蛰",
     pronunciationJa: "けいちつ",
     notes: "孤雲凌霄の処の挑戦名",
     tags: [ "liyue" ],
@@ -869,6 +989,7 @@
   {
     en: "Tarry Among the Peach Blossoms",
     ja: "桃源滞在記",
+    zhCN: "桃源逗留记",
     pronunciationJa: "とうげんたいざいき",
     notes: "曲径通幽の処の挑戦名",
     tags: [ "liyue" ],
@@ -876,6 +997,7 @@
   {
     en: "Voyage to the Sanguine Sky",
     ja: "雲霞征狼記",
+    zhCN: "霞蔚奇遇记",
     pronunciationJa: "うんかせいろうき",
     notes: "華清帰蔵密宮の挑戦名",
     tags: [ "liyue" ],
@@ -883,6 +1005,7 @@
   {
     en: "Travels of the Moonlit Venturer",
     ja: "水月侠行記",
+    zhCN: "水月侠行记",
     pronunciationJa: "すいげつきょうこうき",
     notes: "華清帰蔵密宮の挑戦名",
     tags: [ "liyue" ],
@@ -890,6 +1013,7 @@
   {
     en: "Stone Chamber",
     ja: "岩牢",
+    zhCN: "岩牢",
     pronunciationJa: "いわろう",
     notes: "華池岩岫の挑戦名",
     tags: [ "liyue" ],
@@ -897,12 +1021,14 @@
   {
     en: "Frost",
     ja: "寒霜",
+    zhCN: "寒霜",
     notes: "無妄引責密宮の挑戦名",
     tags: [ "liyue" ],
   },
   {
     en: "Lucky Encounter in the Clouds",
     ja: "雲立ち冒険記",
+    zhCN: "云蒸奇遇记",
     pronunciationJa: "くもだちぼうけんき",
     notes: "墟散人離の処の挑戦名",
     tags: [ "liyue" ],
@@ -910,6 +1036,7 @@
   {
     en: "Earthshaking Dragon",
     ja: "山岳を揺るがす龍",
+    zhCN: "摇撼山岳之龙",
     pronunciationJa: "さんがくをゆるがすりゅう",
     notes: "「伏龍の木」の底 (若陀龍王戦) の挑戦名",
     tags: [ "liyue" ],
@@ -917,6 +1044,7 @@
   {
     en: "Circle of Embers",
     ja: "焚尽の輪",
+    zhCN: "焚尽之环",
     pronunciationJa: "ふんじんのわ",
     notes: "太山府の挑戦名",
     tags: [ "liyue" ],
@@ -924,6 +1052,7 @@
   {
     en: "Trial Grounds of Thunder",
     ja: "雷の試練場",
+    zhCN: "古雷试炼场",
     pronunciationJa: "かみなりのしれんじょう",
     notes: "震雷連山密宮の挑戦名",
     tags: [ "liyue" ],
@@ -932,36 +1061,42 @@
   {
     en: "Reign of Violet",
     ja: "菫染の国",
+    zhCN: "堇染之国",
     notes: "菫色ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Thundering Valley",
-    ja: "初雪の幽谷",
+    ja: "初雷の幽谷",
+    zhCN: "初雷幽谷",
     notes: "菫色ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Vine-Infested Ruins",
     ja: "真葛の廃都",
+    zhCN: "真葛废都",
     notes: "菫色ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Sand Burial",
     ja: "流砂の葬",
+    zhCN: "流沙之葬",
     notes: "砂流ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: A Thousand Scrolls",
     ja: "稽古・千扉絵巻",
+    zhCN: "稽古·千扉绘卷",
     notes: "千門の虚舟の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: Castle of Scrolls",
     ja: "稽古・御館絵巻",
+    zhCN: "稽古·御馆绘卷",
     pronunciationJa: "けいこ・おやかたえまき",
     notes: "借景ノ館の挑戦名",
     tags: [ "inazuma" ],
@@ -969,36 +1104,42 @@
   {
     en: "Tutelage: King of Thieves",
     ja: "稽古・悪王の亭",
+    zhCN: "稽古·恶王亭",
     notes: "陣代屋敷の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: Umigozen's Mansion",
     ja: "稽古・御前屋敷",
+    zhCN: "稽古·御前府邸",
     notes: "池の中にある邸宅の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: Nest-Bed of Ambition",
     ja: "稽古・砺伏の巣床",
+    zhCN: "稽古·砺伏之巢床",
     notes: "モシリの殻の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Necropolis",
     ja: "骸館",
+    zhCN: "骸馆",
     notes: "熟眠ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Duel to the Fiery Death",
     ja: "紅蓮の真剣試合",
+    zhCN: "红莲的真剑试合",
     notes: "鳴神島・天守 (シニョーラ戦) の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Memories: Guardian of Eternity",
     ja: "追憶: 永遠の守護者",
+    zhCN: "追忆：永恒的守护者",
     notes: "夢想楽土の結末 (禍津御建鳴神命戦) の挑戦名",
     tags: [ "inazuma" ],
   },

@@ -110,6 +110,7 @@
   {
     en: "Holy Lyre der Himmel",
     ja: "天空のライアー",
+    zhCN: "天空之琴",
     pronunciationJa: "てんくうのライアー",
     tags: [ "mondstadt" ],
   },
