@@ -261,7 +261,7 @@
   {
     en: "Exile's Flower",
     ja: "亡命者の花",
-    zhCN: "",
+    zhCN: "流放者之羽",
     pronunciationJa: "ぼうめいしゃのはな",
     notes: "聖遺物セット「亡命者」(The Exile) の1つ",
     tags: [ "artifact-piece" ],
@@ -269,7 +269,7 @@
   {
     en: "Exile's Feather",
     ja: "亡命者の羽根",
-    zhCN: "流放者与羽",
+    zhCN: "流放者之羽",
     pronunciationJa: "ぼうめいしゃのはね",
     notes: "聖遺物セット「亡命者」(The Exile) の1つ",
     tags: [ "artifact-piece" ],
