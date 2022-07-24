@@ -1067,7 +1067,7 @@
   },
   {
     en: "Thundering Valley",
-    ja: "初雪の幽谷", // Maybe it should be 初雷 rather than 初雪？
+    ja: "初雷の幽谷",
     zhCN: "初雷幽谷",
     notes: "菫色ノ庭の挑戦名",
     tags: [ "inazuma" ],
