@@ -923,6 +923,7 @@
   {
     en: "Ruins of Thirsting Capital",
     ja: "渇水の廃都",
+    zhCN: "渴水的废都",
     pronunciationJa: "かっすいのはいと",
     notes: "セシリアの苗床の挑戦名",
     tags: [ "mondstadt" ],
@@ -930,6 +931,7 @@
   {
     en: "Fires of Purification",
     ja: "浄化の炎",
+    zhCN: "净化之炎",
     pronunciationJa: "じょうかのほのお",
     notes: "仲夏の庭園の挑戦名",
     tags: [ "mondstadt" ],
@@ -937,6 +939,7 @@
   {
     en: "Windy Cliff",
     ja: "風の崖",
+    zhCN: "风涌的高崖",
     pronunciationJa: "かぜのがけ",
     notes: "西風の鷹の神殿の挑戦名",
     tags: [ "mondstadt" ],
@@ -944,6 +947,7 @@
   {
     en: "Realm of Slumber",
     ja: "眠りの国",
+    zhCN: "沉睡之国",
     pronunciationJa: "ねむりのくに",
     notes: "忘却の峡谷の挑戦名",
     tags: [ "mondstadt" ],
@@ -951,6 +955,7 @@
   {
     en: "Dance of Steel",
     ja: "鋼鉄の舞",
+    zhCN: "钢铁之舞",
     pronunciationJa: "こうてつのまい",
     notes: "銘記の谷の挑戦名",
     tags: [ "mondstadt" ],
@@ -958,6 +963,7 @@
   {
     en: "Elegaic Rime",
     ja: "死告の霜",
+    zhCN: "告死之霜",
     pronunciationJa: "しこくのしも",
     notes: "フィンドニールの頂上の挑戦名",
     tags: [ "dragonspine" ],
@@ -966,6 +972,7 @@
   {
     en: "Unyielding",
     ja: "不動",
+    zhCN: "不移",
     pronunciationJa: "ふどう",
     notes: "山脊の見守りの挑戦名",
     tags: [ "mondstadt", "liyue" ],
@@ -974,6 +981,7 @@
   {
     en: "Spring",
     ja: "啓蟄",
+    zhCN: "惊蛰",
     pronunciationJa: "けいちつ",
     notes: "孤雲凌霄の処の挑戦名",
     tags: [ "liyue" ],
@@ -981,6 +989,7 @@
   {
     en: "Tarry Among the Peach Blossoms",
     ja: "桃源滞在記",
+    zhCN: "桃源逗留记",
     pronunciationJa: "とうげんたいざいき",
     notes: "曲径通幽の処の挑戦名",
     tags: [ "liyue" ],
@@ -988,6 +997,7 @@
   {
     en: "Voyage to the Sanguine Sky",
     ja: "雲霞征狼記",
+    zhCN: "霞蔚奇遇记",
     pronunciationJa: "うんかせいろうき",
     notes: "華清帰蔵密宮の挑戦名",
     tags: [ "liyue" ],
@@ -995,6 +1005,7 @@
   {
     en: "Travels of the Moonlit Venturer",
     ja: "水月侠行記",
+    zhCN: "水月侠行记",
     pronunciationJa: "すいげつきょうこうき",
     notes: "華清帰蔵密宮の挑戦名",
     tags: [ "liyue" ],
@@ -1002,6 +1013,7 @@
   {
     en: "Stone Chamber",
     ja: "岩牢",
+    zhCN: "岩牢",
     pronunciationJa: "いわろう",
     notes: "華池岩岫の挑戦名",
     tags: [ "liyue" ],
@@ -1009,12 +1021,14 @@
   {
     en: "Frost",
     ja: "寒霜",
+    zhCN: "寒霜",
     notes: "無妄引責密宮の挑戦名",
     tags: [ "liyue" ],
   },
   {
     en: "Lucky Encounter in the Clouds",
     ja: "雲立ち冒険記",
+    zhCN: "云蒸奇遇记",
     pronunciationJa: "くもだちぼうけんき",
     notes: "墟散人離の処の挑戦名",
     tags: [ "liyue" ],
@@ -1022,6 +1036,7 @@
   {
     en: "Earthshaking Dragon",
     ja: "山岳を揺るがす龍",
+    zhCN: "摇撼山岳之龙",
     pronunciationJa: "さんがくをゆるがすりゅう",
     notes: "「伏龍の木」の底 (若陀龍王戦) の挑戦名",
     tags: [ "liyue" ],
@@ -1029,6 +1044,7 @@
   {
     en: "Circle of Embers",
     ja: "焚尽の輪",
+    zhCN: "焚尽之环",
     pronunciationJa: "ふんじんのわ",
     notes: "太山府の挑戦名",
     tags: [ "liyue" ],
@@ -1036,6 +1052,7 @@
   {
     en: "Trial Grounds of Thunder",
     ja: "雷の試練場",
+    zhCN: "古雷试炼场",
     pronunciationJa: "かみなりのしれんじょう",
     notes: "震雷連山密宮の挑戦名",
     tags: [ "liyue" ],
@@ -1044,36 +1061,42 @@
   {
     en: "Reign of Violet",
     ja: "菫染の国",
+    zhCN: "堇染之国",
     notes: "菫色ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Thundering Valley",
-    ja: "初雪の幽谷",
+    ja: "初雪の幽谷", // Maybe it should be 初雷 rather than 初雪？
+    zhCN: "初雷幽谷",
     notes: "菫色ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Vine-Infested Ruins",
     ja: "真葛の廃都",
+    zhCN: "真葛废都",
     notes: "菫色ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Sand Burial",
     ja: "流砂の葬",
+    zhCN: "流沙之葬",
     notes: "砂流ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: A Thousand Scrolls",
     ja: "稽古・千扉絵巻",
+    zhCN: "稽古·千扉绘卷",
     notes: "千門の虚舟の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: Castle of Scrolls",
     ja: "稽古・御館絵巻",
+    zhCN: "稽古·御馆绘卷",
     pronunciationJa: "けいこ・おやかたえまき",
     notes: "借景ノ館の挑戦名",
     tags: [ "inazuma" ],
@@ -1081,36 +1104,42 @@
   {
     en: "Tutelage: King of Thieves",
     ja: "稽古・悪王の亭",
+    zhCN: "稽古·恶王亭",
     notes: "陣代屋敷の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: Umigozen's Mansion",
     ja: "稽古・御前屋敷",
+    zhCN: "稽古·御前府邸",
     notes: "池の中にある邸宅の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Tutelage: Nest-Bed of Ambition",
     ja: "稽古・砺伏の巣床",
+    zhCN: "稽古·砺伏之巢床",
     notes: "モシリの殻の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Necropolis",
     ja: "骸館",
+    zhCN: "骸馆",
     notes: "熟眠ノ庭の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Duel to the Fiery Death",
     ja: "紅蓮の真剣試合",
+    zhCN: "红莲的真剑试合",
     notes: "鳴神島・天守 (シニョーラ戦) の挑戦名",
     tags: [ "inazuma" ],
   },
   {
     en: "Memories: Guardian of Eternity",
     ja: "追憶: 永遠の守護者",
+    zhCN: "追忆：永恒的守护者",
     notes: "夢想楽土の結末 (禍津御建鳴神命戦) の挑戦名",
     tags: [ "inazuma" ],
   },
