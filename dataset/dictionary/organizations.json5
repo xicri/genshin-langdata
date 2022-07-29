@@ -367,11 +367,15 @@
   // Sumeru
   //
   {
-    en: "Sumeru Academia",
+    en: "Sumeru Akademiya", // TODO Need confirmation
     ja: "スメール教令院",
     zhCN: "须弥教令院",
     pronunciationJa: "スメールきょうれいいん",
     tags: [ "sumeru", "organization" ],
+    variants: {
+      en: [ "Sumeru Academia" ],
+    },
+    notes: "英語版では v2.8 で Sumeru Academia から変更された。",
   },
 
   //
