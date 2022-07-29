@@ -1250,7 +1250,7 @@
     en: "Floating Hydro Fungus",
     ja: "プカプカ水キノコン",
     zhCN: "浮游水蕈兽",
-    tags: [ "enemy" ], // TODO Check if it is really an enemy
+    tags: [ "enemy" ],
     variants: {
       ja: [ "キノコン" ],
     },
