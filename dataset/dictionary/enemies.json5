@@ -1257,5 +1257,6 @@
     ja: "プカプカ水キノコン",
     zhCN: "浮游水蕈兽",
     tags: [ "enemy" ],
+    notes: "英語の複数形は Floating Hydro Fungi。",
   },
 ]
