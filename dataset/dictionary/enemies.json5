@@ -1247,12 +1247,15 @@
   },
 
   {
+    en: "Fungus",
+    ja: "キノコン",
+    tags: [ "enemy" ],
+    notes: "英語の複数形は Fungi で、原義は「菌類」。",
+  },
+  {
     en: "Floating Hydro Fungus",
     ja: "プカプカ水キノコン",
     zhCN: "浮游水蕈兽",
     tags: [ "enemy" ],
-    variants: {
-      ja: [ "キノコン" ],
-    },
   },
 ]
