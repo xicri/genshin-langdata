@@ -1053,6 +1053,13 @@
     tags: [ "sumeru", "location" ],
   },
 
+  {
+    en: "Port Ormos",
+    ja: "オルモス港",
+    pronunciationJa: "オルモスこう",
+    tags: [ "sumeru", "location" ],
+  },
+
   //
   // Fontaine
   //

@@ -1111,6 +1111,13 @@
       ja: [ "野武士" ],
     },
   },
+  {
+    en: "Yoriki Samurai",
+    ja: "寄騎武士",
+    pronunciationJa: "よりきぶし",
+    tags: [ "enemy", "inazuma" ],
+    notes: "幕府軍の武士のこと。",
+  },
 
   {
     en: "Maguu Kenki",

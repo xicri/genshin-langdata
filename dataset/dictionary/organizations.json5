@@ -350,6 +350,12 @@
     tags: [ "inazuma", "organization" ],
   },
   {
+    en: "Uyuu Restaurant",
+    ja: "烏有亭",
+    pronunciationJa: "うゆうてい",
+    tags: [ "inazuma", "organization" ],
+  },
+  {
     en: "Syavushi Bakshesh Shoppe",
     ja: "豊穣の願い",
     zhCN: "葱茏之愿",
@@ -376,6 +382,22 @@
       en: [ "Sumeru Academia" ],
     },
     notes: "英語版では v2.8 で Sumeru Academia から変更された。",
+  },
+  {
+    en: "The Eremites",
+    ja: "エルマイト旅団",
+    pronunciationJa: "エルマイトりょだん",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Amurta",
+    ja: "生論派",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Haravatat",
+    ja: "知論派",
+    tags: [ "sumeru", "organization" ],
   },
 
   //

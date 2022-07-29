@@ -103,6 +103,12 @@
     pronunciationJa: "えいえん",
     tags: [ "inazuma" ],
   },
+  {
+    en: "wisdom",
+    ja: "知恵",
+    pronunciationJa: "ちえ",
+    tags: [ "sumeru" ],
+  },
 
   //
   // Mondstadt
@@ -303,6 +309,15 @@
     ja: "マウシロ",
     zhCN: "木簧笛",
     tags: [ "inazuma" ],
+  },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "Akasha",
+    ja: "アーカーシャ",
+    tags: [ "sumeru" ],
   },
 
   //

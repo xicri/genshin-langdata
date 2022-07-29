@@ -199,6 +199,12 @@
     tags: [ "mondstadt", "character-sub" ],
   },
   {
+    en: "Immernachtreich",
+    ja: "幽夜浄土",
+    notes: "英語版はドイツ語で「常夜の王国」の意。",
+    tags: [ "mondstadt" ],
+  },
+  {
     en: "Diluc Ragnvindr",
     ja: "ディルック・ラグヴィンド",
     zhCN: "迪卢克·莱艮芬德",
@@ -1784,9 +1790,34 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Alhaitham",
+    ja: "アルハイゼン",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Dehya",
+    ja: "ディシア",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Nilou",
+    ja: "ニィロウ",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Nahida",
+    ja: "ナヒーダ",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
     en: "Lesser Load Kusanali",
     ja: "クラクサナリデビ",
     zhCN: "小吉祥草王",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Greater Load Rukkhadevata",
+    ja: "マハールッカデヴァタ",
     tags: [ "sumeru", "title" ],
   },
   {
@@ -2069,6 +2100,13 @@
     zhCN: "托克",
     tags: [ "snezhnaya", "liyue", "character-sub" ],
   },
+  {
+    en: "Skirk",
+    ja: "スカーク",
+    tags: [ "snezhnaya", "character-sub" ],
+    notes: "タルタリヤの師匠",
+  },
+
 
   //
   // Khaenri'ah
