@@ -106,6 +106,7 @@
   {
     en: "wisdom",
     ja: "知恵",
+    zhCN: "智慧",
     pronunciationJa: "ちえ",
     tags: [ "sumeru" ],
   },
@@ -317,6 +318,7 @@
   {
     en: "Akasha",
     ja: "アーカーシャ",
+    zhCN: "虚空",
     tags: [ "sumeru" ],
   },
 
