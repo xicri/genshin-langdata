@@ -1114,6 +1114,7 @@
   {
     en: "Yoriki Samurai",
     ja: "寄騎武士",
+    zhCN: "寄骑武士",
     pronunciationJa: "よりきぶし",
     tags: [ "enemy", "inazuma" ],
     notes: "幕府軍の武士のこと。",
