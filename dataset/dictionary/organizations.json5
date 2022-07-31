@@ -391,20 +391,6 @@
     pronunciationJa: "エルマイトりょだん",
     tags: [ "sumeru", "organization" ],
   },
-  {
-    en: "Amurta",
-    ja: "生論派",
-    zhCN: "生论派",
-    tags: [ "sumeru", "organization" ],
-    // Note: I don't think tag "organization" is suitable for this and the following.
-    // Because they are just academic genres.
-  },
-  {
-    en: "Haravatat",
-    ja: "知論派",
-    zhCN: "知论派",
-    tags: [ "sumeru", "organization" ],
-  },
 
   //
   // Snezhnaya & Fatui

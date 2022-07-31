@@ -316,6 +316,18 @@
   // Sumeru
   //
   {
+    en: "Amurta",
+    ja: "生論派",
+    zhCN: "生论派",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Haravatat",
+    ja: "知論派",
+    zhCN: "知论派",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "Akasha",
     ja: "アーカーシャ",
     zhCN: "虚空",
