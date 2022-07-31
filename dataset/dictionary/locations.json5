@@ -1056,6 +1056,7 @@
   {
     en: "Port Ormos",
     ja: "オルモス港",
+    zhCN: "奥摩斯港",
     pronunciationJa: "オルモスこう",
     tags: [ "sumeru", "location" ],
   },
