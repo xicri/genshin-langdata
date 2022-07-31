@@ -201,6 +201,7 @@
   {
     en: "Immernachtreich",
     ja: "幽夜浄土",
+    zhCN: "幽夜净土",
     notes: "英語版はドイツ語で「常夜の王国」の意。",
     tags: [ "mondstadt" ],
   },
@@ -1792,21 +1793,25 @@
   {
     en: "Alhaitham",
     ja: "アルハイゼン",
+    zhCN: "艾尔海森",
     tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Dehya",
     ja: "ディシア",
+    zhCN: "迪希雅",
     tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Nilou",
     ja: "ニィロウ",
+    zhCN: "妮露",
     tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Nahida",
     ja: "ナヒーダ",
+    zhCN: "纳西妲",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -1818,6 +1823,7 @@
   {
     en: "Greater Load Rukkhadevata",
     ja: "マハールッカデヴァタ",
+    zhCN: "大慈树王",
     tags: [ "sumeru", "title" ],
   },
   {
@@ -2103,6 +2109,7 @@
   {
     en: "Skirk",
     ja: "スカーク",
+    zhCN: "丝柯克",
     tags: [ "snezhnaya", "character-sub" ],
     notes: "タルタリヤの師匠",
   },
