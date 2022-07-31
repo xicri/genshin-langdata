@@ -352,6 +352,7 @@
   {
     en: "Uyuu Restaurant",
     ja: "烏有亭",
+    zhCN: "乌有亭",
     pronunciationJa: "うゆうてい",
     tags: [ "inazuma", "organization" ],
   },
@@ -386,17 +387,8 @@
   {
     en: "The Eremites",
     ja: "エルマイト旅団",
+    zhCN: "镀金旅团",
     pronunciationJa: "エルマイトりょだん",
-    tags: [ "sumeru", "organization" ],
-  },
-  {
-    en: "Amurta",
-    ja: "生論派",
-    tags: [ "sumeru", "organization" ],
-  },
-  {
-    en: "Haravatat",
-    ja: "知論派",
     tags: [ "sumeru", "organization" ],
   },
 

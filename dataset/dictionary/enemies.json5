@@ -1114,6 +1114,7 @@
   {
     en: "Yoriki Samurai",
     ja: "寄騎武士",
+    zhCN: "寄骑武士",
     pronunciationJa: "よりきぶし",
     tags: [ "enemy", "inazuma" ],
     notes: "幕府軍の武士のこと。",
@@ -1256,6 +1257,7 @@
   {
     en: "Fungus",
     ja: "キノコン",
+    zhCN: "蕈兽",
     tags: [ "enemy" ],
     notes: "英語の複数形は Fungi で、原義は「菌類」。",
   },
