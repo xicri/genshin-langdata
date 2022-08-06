@@ -730,6 +730,7 @@
   {
     en: "Outrider's Champion Steak!",
     ja: "偵察騎士ステーキ!",
+    zhCN: "侦察骑士烤肉",
     pronunciationJa: "ていさつきしステーキ!",
     tags: [ "food", "mondstadt" ],
     notes: "アンバーのオリジナル料理",
@@ -737,6 +738,7 @@
   {
     en: "Fruity Skewers",
     ja: "フルーティーな串焼き",
+    zhCN: "果香串烤",
     pronunciationJa: "フルーティーなくしやき",
     tags: [ "food", "mondstadt" ],
     notes: "ガイアのオリジナル料理",
@@ -744,12 +746,14 @@
   {
     en: "Lighter-Than-Air Pancake",
     ja: "ふわふわパンケーキ",
+    zhCN: "厚云朵松饼",
     tags: [ "food", "mondstadt" ],
     notes: "ノエルのオリジナル料理",
   },
   {
     en: "Mysterious Bolognese",
     ja: "魔法のミートソース",
+    zhCN: "魔法肉酱面",
     pronunciationJa: "まほうのミートソース",
     tags: [ "food", "mondstadt" ],
     notes: "リサのオリジナル料理",
@@ -757,12 +761,14 @@
   {
     en: "Spicy Stew",
     ja: "スパイシーポトフ",
+    zhCN: "辣味时蔬烩肉",
     tags: [ "food", "mondstadt" ],
     notes: "バーバラのオリジナル料理",
   },
   {
     en: "Teyvat Charred Egg",
     ja: "テイワット風焦げ卵",
+    zhCN: "提瓦特煎蛋",
     pronunciationJa: "テイワットふうこげたまご",
     tags: [ "food", "mondstadt" ],
     notes: "ベネットのオリジナル料理",
@@ -770,6 +776,7 @@
   {
     en: "Puppy-Paw Hash Brown",
     ja: "ツメ型ハッシュドポテト",
+    zhCN: "爪爪土豆饼",
     pronunciationJa: "ツメがたハッシュドポテト",
     tags: [ "food", "mondstadt" ],
     notes: "レザーのオリジナル料理",
@@ -777,6 +784,7 @@
   {
     en: "Nutritious Meal (V.593)",
     ja: "五九三式栄養食",
+    zhCN: "伍玖叁式营养餐",
     pronunciationJa: "ごきゅうさんしきえいようしょく",
     tags: [ "food", "mondstadt" ],
     notes: "スクロースのオリジナル料理",
@@ -784,6 +792,7 @@
   {
     en: "Die Heilige Sinfonie",
     ja: "祈聖シンフォニー",
+    zhCN: "祝圣交响乐",
     pronunciationJa: "きせいシンフォニー",
     tags: [ "food", "mondstadt" ],
     notes: "フィッシュルのオリジナル料理",
@@ -792,6 +801,7 @@
   {
     en: "Definitely Not Bar Food!",
     ja: "絶対オツマミじゃない",
+    zhCN: "绝不是下酒菜",
     pronunciationJa: "ぜったいオツマミじゃない",
     tags: [ "food", "mondstadt" ],
     notes: "ディオナのオリジナル料理",
@@ -800,12 +810,14 @@
   {
     en: "Dinner of Judgment",
     ja: "ヴァーディクトディナー",
+    zhCN: "审判的晚宴",
     tags: [ "food", "mondstadt" ],
     notes: "ロサリアのオリジナル料理",
   },
   {
     en: "Invigorating Pizza",
     ja: "眠気覚ましピザ",
+    zhCN: "提升醒脑披萨",
     pronunciationJa: "ねむけざましピザ",
     tags: [ "food", "mondstadt" ],
     notes: "ジンのオリジナル料理",
@@ -813,6 +825,7 @@
   {
     en: "Once Upon a Time in Mondstadt",
     ja: "モンドの過去",
+    zhCN: "蒙德往事",
     pronunciationJa: "モンドのかこ",
     tags: [ "food", "mondstadt" ],
     notes: "ディルックのオリジナル料理",
@@ -820,6 +833,7 @@
   {
     en: "Der Weisheit Letzter Schluss (Life)",
     ja: "最高の知恵・生活",
+    zhCN: "最高的智慧（生活）",
     pronunciationJa: "さいこうのちえ・せいかつ",
     tags: [ "food", "mondstadt" ],
     notes: "モナのオリジナル料理",
@@ -827,6 +841,7 @@
   {
     en: "Fish-Flavored Toast",
     ja: "魚香トースト",
+    zhCN: "鱼香吐司",
     pronunciationJa: "ぎょこうトースト",
     tags: [ "food", "mondstadt" ],
     notes: "クレーのオリジナル料理",
@@ -834,6 +849,7 @@
   {
     en: "Woodland Dream",
     ja: "林の夢",
+    zhCN: "林之梦",
     pronunciationJa: "はやしのゆめ",
     tags: [ "food", "mondstadt" ],
     notes: "アルベドのオリジナル料理",
@@ -841,6 +857,7 @@
   {
     en: "Stormcrest Pie",
     ja: "荒波パイ",
+    zhCN: "骇浪派",
     pronunciationJa: "あらなみパイ",
     tags: [ "food", "mondstadt" ],
     notes: "エウルアのオリジナル料理",
@@ -848,6 +865,7 @@
   {
     en: "A Buoyant Breeze",
     ja: "真・風神ヒュッツポット",
+    zhCN: "真·风神杂烩菜",
     pronunciationJa: "しん・ふうじんヒュッツポット",
     tags: [ "food", "mondstadt" ],
     notes: "ウェンティのオリジナル料理",
