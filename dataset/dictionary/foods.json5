@@ -1002,6 +1002,7 @@
   {
     en: "Dizziness-Be-Gone no Jutsu Version 2.0",
     ja: "眩暈回避術・改",
+    zhCN: "头晕回避术·改",
     pronunciationJa: "めまいかいひじゅつ・かい",
     tags: [ "food", "inazuma" ],
     notes: "早柚のオリジナル料理",
@@ -1009,6 +1010,7 @@
   {
     en: "Warmth",
     ja: "温もり",
+    zhCN: "暖意",
     pronunciationJa: "ぬくもり",
     tags: [ "food", "inazuma" ],
     notes: "トーマのオリジナル料理",
@@ -1016,6 +1018,7 @@
   {
     en: "All-Weather Beauty",
     ja: "雨奇晴好",
+    zhCN: "雨奇晴好",
     pronunciationJa: "うきせいこう",
     tags: [ "food", "inazuma" ],
     notes: "楓原万葉のオリジナル料理",
@@ -1023,6 +1026,7 @@
   {
     en: "Snow on the Hearth",
     ja: "紅炉一点雪",
+    zhCN: "红炉一点雪",
     pronunciationJa: "こうろいってんゆき",
     tags: [ "food", "inazuma" ],
     notes: "神里綾華のオリジナル料理",
@@ -1030,6 +1034,7 @@
   {
     en: "Summer Festival Fish",
     ja: "夏祭りの游魚",
+    zhCN: "夏祭游鱼",
     pronunciationJa: "なつまつりのゆうぎょ",
     tags: [ "food", "inazuma" ],
     notes: "宵宮のオリジナル料理",
@@ -1037,6 +1042,7 @@
   {
     en: "A Stunning Stratagem",
     ja: "奇策",
+    zhCN: "奇策",
     pronunciationJa: "きさく",
     tags: [ "food", "inazuma" ],
     notes: "珊瑚宮心海のオリジナル料理",
@@ -1044,6 +1050,7 @@
   {
     en: "Victorious Legend",
     ja: "常勝伝説",
+    zhCN: "常胜传说",
     pronunciationJa: "じょうしょうでんせつ",
     tags: [ "food", "inazuma" ],
     notes: "ゴローのオリジナル料理",
@@ -1051,6 +1058,7 @@
   {
     en: "Fukuuchi Udon",
     ja: "福は内うどん",
+    zhCN: "福内乌冬",
     pronunciationJa: "ふくはうちうどん",
     tags: [ "food", "inazuma" ],
     notes: "八重神子のオリジナル料理",
@@ -1058,6 +1066,7 @@
   {
     en: "Way of the Strong",
     ja: "強者の道のり",
+    zhCN: "强者之道",
     pronunciationJa: "きょうじゃのみちのり",
     tags: [ "food", "inazuma" ],
     notes: "荒瀧一斗のオリジナル料理",
@@ -1065,12 +1074,14 @@
   {
     en: "Omurice Waltz",
     ja: "オムライス・ワルツ",
+    zhCN: "蛋包饭圆舞曲",
     tags: [ "food", "inazuma" ],
     notes: "久岐忍のオリジナル料理",
   },
   {
     en: "Faith Eternal",
     ja: "永遠なる信仰",
+    zhCN: "永恒的信仰",
     pronunciationJa: "えいえんなるしんこう",
     tags: [ "food", "inazuma" ],
     notes: "九条裟羅のオリジナル料理",
@@ -1078,6 +1089,7 @@
   {
     en: "The Only Truth",
     ja: "唯一の真相",
+    zhCN: "唯一的真相",
     pronunciationJa: "ゆいいつのしんそう",
     tags: [ "food", "inazuma" ],
     notes: "鹿野院平蔵のオリジナル料理",
