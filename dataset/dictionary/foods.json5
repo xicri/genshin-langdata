@@ -984,6 +984,7 @@
   {
     en: "My Way",
     ja: "法律ここにあり",
+    zhCN: "自有方圆",
     pronunciationJa: "ほうりつここにあり",
     tags: [ "food", "liyue" ],
     notes: "煙緋のオリジナル料理",
@@ -991,6 +992,7 @@
   {
     en: "Heartstring Noodles",
     ja: "連心麺",
+    zhCN: "连心面",
     tags: [ "food", "liyue" ],
     notes: "申鶴のオリジナル料理",
   },
