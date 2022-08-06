@@ -199,7 +199,7 @@
     ja: "御肉丸",
     zhCN: "大肉丸",
     notes: "v2.8 期間限定イベント「サマータイムオデッセイ」で登場するキャラクター",
-    tags: [ "event" ],
+    tags: [ "event", "character-sub" ],
   },
 
   //

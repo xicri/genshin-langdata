@@ -215,6 +215,11 @@
     },
   },
   {
+    en: "Darknight Hero",
+    ja: "闇夜の英雄",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
     en: "Klee",
     ja: "クレー",
     zhCN: "可莉",
@@ -462,6 +467,11 @@
     tags: [ "mondstadt", "character-sub" ],
   },
   {
+    en: "Adelinde",
+    ja: "アデリン",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
     en: "Hertha",
     ja: "ヘルター",
     zhCN: "赫塔",
@@ -526,6 +536,11 @@
     en: "Vennessa",
     ja: "ヴァネッサ",
     zhCN: "温妮莎",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Eroch",
+    ja: "イロック",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -1761,6 +1776,23 @@
     zhCN: "汤雯",
     tags: [ "inazuma", "character-sub" ],
   },
+  {
+    en: "Gendou Ringo",
+    ja: "玄冬林檎",
+    pronunciationJa: "げんどうりんご",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Lyudochka Snezhevna",
+    ja: "リュドヒカ・シュナイツェフナ",
+    tags: [ "inazuma", "snezhnaya", "character-sub", "enemy" ],
+  },
+  {
+    en: "Momoyo",
+    ja: "百代",
+    pronunciationJa: "ももよ",
+    tags: [ "inazuma", "character-sub" ],
+  },
 
   //
   // Sumeru
@@ -1831,7 +1863,10 @@
     ja: "草神",
     zhCN: "草神",
     tags: [ "sumeru", "title" ],
-    pronunciationJa: "そうじん",
+    pronunciationJa: "そうしん", // Source: https://mobile.twitter.com/genshin_kanji/status/1553941527684337664
+    variants: {
+      ja: [ "そうじん", "くさかみ", "くさがみ" ],
+    },
   },
 
   //
@@ -2146,5 +2181,10 @@
     zhCN: "哈夫丹",
     tags: [ "character-sub" ],
     notes: "発音は「ハーフダン」",
+  },
+  {
+    en: "Irmin",
+    ja: "エルミン",
+    tags: [ "character-sub" ],
   },
 ]

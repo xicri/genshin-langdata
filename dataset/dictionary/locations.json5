@@ -961,8 +961,11 @@
     en: "Koseki Village",
     ja: "越石村",
     zhCN: "越石村",
-    pronunciationJa: "こしこくむら",
+    pronunciationJa: "こせきむら",
     tags: [ "inazuma", "location" ],
+    variants: {
+      ja: [ "こしこくむら" ],
+    },
   },
   {
     en: "Seiraimaru",
