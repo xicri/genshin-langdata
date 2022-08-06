@@ -1831,7 +1831,10 @@
     ja: "草神",
     zhCN: "草神",
     tags: [ "sumeru", "title" ],
-    pronunciationJa: "そうじん",
+    pronunciationJa: "そうしん", // Source: https://mobile.twitter.com/genshin_kanji/status/1553941527684337664
+    variants: {
+      ja: [ "そうじん", "くさかみ", "くさがみ" ],
+    },
   },
 
   //
