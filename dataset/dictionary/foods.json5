@@ -654,53 +654,62 @@
   {
     en: "Bountiful Year",
     ja: "実り豊か",
+    zhCN: "丰年有余",
     pronunciationJa: "みのりゆたか",
     tags: [ "food" ],
   },
   {
     en: "Chili-Mince Cornbread Buns",
     ja: "ピリ辛蒸し饅頭",
+    zhCN: "辣肉窝窝头",
     pronunciationJa: "ピリからむしまんじゅう",
     tags: [ "food" ],
   },
   {
     en: "Sashimi Platter",
     ja: "刺身の盛り合わせ",
+    zhCN: "刺身拼盘",
     pronunciationJa: "さしみのもりあわせ",
     tags: [ "food" ],
   },
   {
     en: "Chicken Tofu Pudding",
     ja: "鶏豆花",
+    zhCN: "鸡豆花",
     tags: [ "food" ],
   },
   {
     en: "Golden Crab",
     ja: "黄金ガニ",
+    zhCN: "黄金蟹",
     pronunciationJa: "おうごんガニ",
     tags: [ "food" ],
   },
   {
     en: "Jade Parcels",
     ja: "翠玉福袋",
+    zhCN: "翡玉什锦袋",
     pronunciationJa: "すいぎょくふくぶくろ",
     tags: [ "food" ],
   },
   {
     en: "Tianshu Meat",
     ja: "天枢肉",
+    zhCN: "天枢肉",
     pronunciationJa: "てんすうにく",
     tags: [ "food" ],
   },
   {
     en: "Golden Fried Chicken",
     ja: "黄金のジャンボチキン",
+    zhCN: "大黄金吮指鸡",
     pronunciationJa: "おうごんのジャンボチキン",
     tags: [ "food" ],
   },
   {
     en: "Butter Crab",
     ja: "カニのバター添え",
+    zhCN: "黄油蟹蟹",
     pronunciationJa: "カニのバターぞえ",
     tags: [ "food" ],
   },
@@ -709,6 +718,7 @@
   {
     en: "Adeptus' Temptation",
     ja: "仙跳牆",
+    zhCN: "仙跳墙",
     tags: [ "food" ],
   },
 
@@ -720,6 +730,7 @@
   {
     en: "Outrider's Champion Steak!",
     ja: "偵察騎士ステーキ!",
+    zhCN: "侦察骑士烤肉",
     pronunciationJa: "ていさつきしステーキ!",
     tags: [ "food", "mondstadt" ],
     notes: "アンバーのオリジナル料理",
@@ -727,6 +738,7 @@
   {
     en: "Fruity Skewers",
     ja: "フルーティーな串焼き",
+    zhCN: "果香串烤",
     pronunciationJa: "フルーティーなくしやき",
     tags: [ "food", "mondstadt" ],
     notes: "ガイアのオリジナル料理",
@@ -734,12 +746,14 @@
   {
     en: "Lighter-Than-Air Pancake",
     ja: "ふわふわパンケーキ",
+    zhCN: "厚云朵松饼",
     tags: [ "food", "mondstadt" ],
     notes: "ノエルのオリジナル料理",
   },
   {
     en: "Mysterious Bolognese",
     ja: "魔法のミートソース",
+    zhCN: "魔法肉酱面",
     pronunciationJa: "まほうのミートソース",
     tags: [ "food", "mondstadt" ],
     notes: "リサのオリジナル料理",
@@ -747,12 +761,14 @@
   {
     en: "Spicy Stew",
     ja: "スパイシーポトフ",
+    zhCN: "辣味时蔬烩肉",
     tags: [ "food", "mondstadt" ],
     notes: "バーバラのオリジナル料理",
   },
   {
     en: "Teyvat Charred Egg",
     ja: "テイワット風焦げ卵",
+    zhCN: "提瓦特焦蛋",
     pronunciationJa: "テイワットふうこげたまご",
     tags: [ "food", "mondstadt" ],
     notes: "ベネットのオリジナル料理",
@@ -760,6 +776,7 @@
   {
     en: "Puppy-Paw Hash Brown",
     ja: "ツメ型ハッシュドポテト",
+    zhCN: "爪爪土豆饼",
     pronunciationJa: "ツメがたハッシュドポテト",
     tags: [ "food", "mondstadt" ],
     notes: "レザーのオリジナル料理",
@@ -767,6 +784,7 @@
   {
     en: "Nutritious Meal (V.593)",
     ja: "五九三式栄養食",
+    zhCN: "伍玖叁式营养餐",
     pronunciationJa: "ごきゅうさんしきえいようしょく",
     tags: [ "food", "mondstadt" ],
     notes: "スクロースのオリジナル料理",
@@ -774,6 +792,7 @@
   {
     en: "Die Heilige Sinfonie",
     ja: "祈聖シンフォニー",
+    zhCN: "祝圣交响乐",
     pronunciationJa: "きせいシンフォニー",
     tags: [ "food", "mondstadt" ],
     notes: "フィッシュルのオリジナル料理",
@@ -782,6 +801,7 @@
   {
     en: "Definitely Not Bar Food!",
     ja: "絶対オツマミじゃない",
+    zhCN: "绝不是下酒菜",
     pronunciationJa: "ぜったいオツマミじゃない",
     tags: [ "food", "mondstadt" ],
     notes: "ディオナのオリジナル料理",
@@ -790,12 +810,14 @@
   {
     en: "Dinner of Judgment",
     ja: "ヴァーディクトディナー",
+    zhCN: "审判的晚宴",
     tags: [ "food", "mondstadt" ],
     notes: "ロサリアのオリジナル料理",
   },
   {
     en: "Invigorating Pizza",
     ja: "眠気覚ましピザ",
+    zhCN: "提升醒脑披萨",
     pronunciationJa: "ねむけざましピザ",
     tags: [ "food", "mondstadt" ],
     notes: "ジンのオリジナル料理",
@@ -803,6 +825,7 @@
   {
     en: "Once Upon a Time in Mondstadt",
     ja: "モンドの過去",
+    zhCN: "蒙德往事",
     pronunciationJa: "モンドのかこ",
     tags: [ "food", "mondstadt" ],
     notes: "ディルックのオリジナル料理",
@@ -810,6 +833,7 @@
   {
     en: "Der Weisheit Letzter Schluss (Life)",
     ja: "最高の知恵・生活",
+    zhCN: "最高的智慧（生活）",
     pronunciationJa: "さいこうのちえ・せいかつ",
     tags: [ "food", "mondstadt" ],
     notes: "モナのオリジナル料理",
@@ -817,6 +841,7 @@
   {
     en: "Fish-Flavored Toast",
     ja: "魚香トースト",
+    zhCN: "鱼香吐司",
     pronunciationJa: "ぎょこうトースト",
     tags: [ "food", "mondstadt" ],
     notes: "クレーのオリジナル料理",
@@ -824,6 +849,7 @@
   {
     en: "Woodland Dream",
     ja: "林の夢",
+    zhCN: "林之梦",
     pronunciationJa: "はやしのゆめ",
     tags: [ "food", "mondstadt" ],
     notes: "アルベドのオリジナル料理",
@@ -831,6 +857,7 @@
   {
     en: "Stormcrest Pie",
     ja: "荒波パイ",
+    zhCN: "骇浪派",
     pronunciationJa: "あらなみパイ",
     tags: [ "food", "mondstadt" ],
     notes: "エウルアのオリジナル料理",
@@ -838,6 +865,7 @@
   {
     en: "A Buoyant Breeze",
     ja: "真・風神ヒュッツポット",
+    zhCN: "真·风神杂烩菜",
     pronunciationJa: "しん・ふうじんヒュッツポット",
     tags: [ "food", "mondstadt" ],
     notes: "ウェンティのオリジナル料理",
@@ -847,6 +875,7 @@
   {
     en: "Wanmin Restaurant's Boiled Fish",
     ja: "万民堂水煮魚",
+    zhCN: "万民堂水煮鱼",
     pronunciationJa: "ばんみんどうみずにざかな",
     tags: [ "food", "liyue" ],
     notes: "香菱のオリジナル料理",
@@ -854,6 +883,7 @@
   {
     en: "All-Delicacy Parcels",
     ja: "江湖百味",
+    zhCN: "江湖百味",
     pronunciationJa: "こうこひゃくみ",
     tags: [ "food", "liyue" ],
     notes: "行秋のオリジナル料理",
@@ -861,12 +891,14 @@
   {
     en: "Cold Noodles with Mountain Delicacies",
     ja: "山幸の冷やし麺",
+    zhCN: "山珍凉卤面",
     tags: [ "food", "liyue" ],
     notes: "重雲のオリジナル料理",
   },
   {
     en: "Flash-Fried Filet",
     ja: "豚肉の唐辛子炒め",
+    zhCN: "炝炒肉片",
     pronunciationJa: "ぶたにくのとうがらしいため",
     tags: [ "food", "liyue" ],
     notes: "北斗のオリジナル料理",
@@ -874,6 +906,7 @@
   {
     en: "Qiankun Mora Meat",
     ja: "乾坤モラミート",
+    zhCN: "乾坤摩拉肉",
     pronunciationJa: "けんこんモラミート",
     tags: [ "food", "liyue" ],
     notes: "凝光のオリジナル料理",
@@ -881,18 +914,21 @@
   {
     en: "Rockin' Riffin' Chicken!",
     ja: "ロック・チキン!",
+    zhCN: "摇·滚·鸡",
     tags: [ "food", "liyue" ],
     notes: "辛炎のオリジナル料理",
   },
   {
     en: "No Tomorrow",
     ja: "アシタナシ",
+    zhCN: "没有未来菜",
     tags: [ "food", "liyue" ],
     notes: "七七のオリジナル料理",
   },
   {
     en: "Survival Grilled Fish",
     ja: "九死一生の焼き魚",
+    zhCN: "绝境求生烤鱼",
     pronunciationJa: "きゅうしいっしょうのやきざかな",
     tags: [ "food", "liyue" ],
     notes: "刻晴のオリジナル料理",
@@ -900,6 +936,7 @@
   {
     en: "Sweet Dream",
     ja: "夢",
+    zhCN: "美梦",
     pronunciationJa: "ゆめ",
     tags: [ "food", "liyue" ],
     notes: "魈のオリジナル料理",
@@ -907,6 +944,7 @@
   {
     en: "Prosperous Peace",
     ja: "盛世太平",
+    zhCN: "盛世太平",
     pronunciationJa: "せいせいたいへい",
     tags: [ "food", "liyue" ],
     notes: "甘雨のオリジナル料理",
@@ -914,12 +952,14 @@
   {
     en: "Slow-Cooked Bamboo Shoot Soup",
     ja: "とろ火で煮込んだ腌篤鮮",
+    zhCN: "文火慢炖腌笃鲜",
     tags: [ "food", "liyue" ],
     notes: "鍾離のオリジナル料理",
   },
   {
     en: "Ghostly March",
     ja: "幽々大行軍",
+    zhCN: "幽幽大行军",
     pronunciationJa: "ゆうゆうだいこうぐん",
     tags: [ "food", "liyue" ],
     notes: "胡桃のオリジナル料理",
@@ -927,6 +967,7 @@
   {
     en: "Cloud-Shrouded Jade",
     ja: "雲隠し玉",
+    zhCN: "云遮玉",
     pronunciationJa: "くもかくしだま",
     tags: [ "food", "liyue" ],
     notes: "雲菫のオリジナル料理",
@@ -934,6 +975,7 @@
   {
     en: "A Prize Catch",
     ja: "極みの一釣り",
+    zhCN: "极致一钓",
     pronunciationJa: "きわみのひとつり",
     tags: [ "food", "liyue" ],
     notes: "タルタリヤのオリジナル料理",
@@ -942,6 +984,7 @@
   {
     en: "My Way",
     ja: "法律ここにあり",
+    zhCN: "自有方圆",
     pronunciationJa: "ほうりつここにあり",
     tags: [ "food", "liyue" ],
     notes: "煙緋のオリジナル料理",
@@ -949,6 +992,7 @@
   {
     en: "Heartstring Noodles",
     ja: "連心麺",
+    zhCN: "连心面",
     tags: [ "food", "liyue" ],
     notes: "申鶴のオリジナル料理",
   },
@@ -958,6 +1002,7 @@
   {
     en: "Dizziness-Be-Gone no Jutsu Version 2.0",
     ja: "眩暈回避術・改",
+    zhCN: "头晕回避术·改",
     pronunciationJa: "めまいかいひじゅつ・かい",
     tags: [ "food", "inazuma" ],
     notes: "早柚のオリジナル料理",
@@ -965,6 +1010,7 @@
   {
     en: "Warmth",
     ja: "温もり",
+    zhCN: "暖意",
     pronunciationJa: "ぬくもり",
     tags: [ "food", "inazuma" ],
     notes: "トーマのオリジナル料理",
@@ -972,6 +1018,7 @@
   {
     en: "All-Weather Beauty",
     ja: "雨奇晴好",
+    zhCN: "雨奇晴好",
     pronunciationJa: "うきせいこう",
     tags: [ "food", "inazuma" ],
     notes: "楓原万葉のオリジナル料理",
@@ -979,6 +1026,7 @@
   {
     en: "Snow on the Hearth",
     ja: "紅炉一点雪",
+    zhCN: "红炉一点雪",
     pronunciationJa: "こうろいってんゆき",
     tags: [ "food", "inazuma" ],
     notes: "神里綾華のオリジナル料理",
@@ -986,6 +1034,7 @@
   {
     en: "Summer Festival Fish",
     ja: "夏祭りの游魚",
+    zhCN: "夏祭游鱼",
     pronunciationJa: "なつまつりのゆうぎょ",
     tags: [ "food", "inazuma" ],
     notes: "宵宮のオリジナル料理",
@@ -993,6 +1042,7 @@
   {
     en: "A Stunning Stratagem",
     ja: "奇策",
+    zhCN: "奇策",
     pronunciationJa: "きさく",
     tags: [ "food", "inazuma" ],
     notes: "珊瑚宮心海のオリジナル料理",
@@ -1000,6 +1050,7 @@
   {
     en: "Victorious Legend",
     ja: "常勝伝説",
+    zhCN: "常胜传说",
     pronunciationJa: "じょうしょうでんせつ",
     tags: [ "food", "inazuma" ],
     notes: "ゴローのオリジナル料理",
@@ -1007,6 +1058,7 @@
   {
     en: "Fukuuchi Udon",
     ja: "福は内うどん",
+    zhCN: "福内乌冬",
     pronunciationJa: "ふくはうちうどん",
     tags: [ "food", "inazuma" ],
     notes: "八重神子のオリジナル料理",
@@ -1014,6 +1066,7 @@
   {
     en: "Way of the Strong",
     ja: "強者の道のり",
+    zhCN: "强者之道",
     pronunciationJa: "きょうじゃのみちのり",
     tags: [ "food", "inazuma" ],
     notes: "荒瀧一斗のオリジナル料理",
@@ -1021,12 +1074,14 @@
   {
     en: "Omurice Waltz",
     ja: "オムライス・ワルツ",
+    zhCN: "蛋包饭圆舞曲",
     tags: [ "food", "inazuma" ],
     notes: "久岐忍のオリジナル料理",
   },
   {
     en: "Faith Eternal",
     ja: "永遠なる信仰",
+    zhCN: "永恒的信仰",
     pronunciationJa: "えいえんなるしんこう",
     tags: [ "food", "inazuma" ],
     notes: "九条裟羅のオリジナル料理",
@@ -1034,6 +1089,7 @@
   {
     en: "The Only Truth",
     ja: "唯一の真相",
+    zhCN: "唯一的真相",
     pronunciationJa: "ゆいいつのしんそう",
     tags: [ "food", "inazuma" ],
     notes: "鹿野院平蔵のオリジナル料理",
@@ -1045,109 +1101,129 @@
   {
     en: "Sunsettia",
     ja: "夕暮れの実",
+    zhCN: "日落果",
     pronunciationJa: "ゆうぐれのみ",
     tags: [ "food" ],
   },
   {
     en: "Mint",
     ja: "ミント",
+    zhCN: "薄荷",
     tags: [ "food" ],
   },
   {
     en: "Sweet Flower",
     ja: "スイートフラワー",
+    zhCN: "甜甜花",
     tags: [ "food" ],
   },
   {
     en: "Pinecone",
     ja: "ナッツ",
+    zhCN: "松果",
     tags: [ "food" ],
   },
   {
     en: "Apple",
     ja: "リンゴ",
+    zhCN: "苹果",
     tags: [ "food" ],
   },
   {
     en: "Mushroom",
     ja: "キノコ",
+    zhCN: "蘑菇",
     tags: [ "food" ],
   },
   {
     en: "Berry",
     ja: "ラズベリー",
+    zhCN: "树莓",
     tags: [ "food" ],
   },
   {
     en: "Snapdragon",
     ja: "キンギョソウ",
+    zhCN: "金鱼草",
     tags: [ "food" ],
   },
   {
     en: "Horsetail",
     ja: "馬尾",
+    zhCN: "马尾",
     tags: [ "food" ],
   },
   {
     en: "Seagrass",
     ja: "海草",
+    zhCN: "海草",
     tags: [ "food", "inazuma" ],
   },
   {
     en: "Lavender Melon",
     ja: "スミレウリ",
+    zhCN: "堇瓜",
     tags: [ "food", "inazuma" ],
   },
   {
     en: "Raw Meat",
     ja: "獣肉",
+    zhCN: "兽肉",
     pronunciationJa: "けものにく",
     tags: [ "food" ],
   },
   {
     en: "Chilled Meat",
     ja: "冷製鮮肉",
+    zhCN: "冷鲜肉",
     pronunciationJa: "れいせいせんにく",
     tags: [ "food" ],
   },
   {
     en: "Fowl",
     ja: "鳥肉",
+    zhCN: "禽肉",
     pronunciationJa: "とりにく",
     tags: [ "food" ],
   },
   {
     en: "Smoked Fowl",
     ja: "鳥肉の燻製",
+    zhCN: "熏禽肉",
     pronunciationJa: "とりにくのくんせい",
     tags: [ "food" ],
   },
   {
     en: "Fish",
     ja: "魚肉",
+    zhCN: "鱼肉",
     pronunciationJa: "ぎょにく",
     tags: [ "food" ],
   },
   {
     en: "Crab",
     ja: "カニ",
+    zhCN: "螃蟹",
     tags: [ "food" ],
   },
   {
     en: "Milk",
     ja: "牛乳",
+    zhCN: "牛奶",
     pronunciationJa: "ぎゅうにゅう",
     tags: [ "food" ],
   },
   {
     en: "Wheat",
     ja: "小麦",
+    zhCN: "小麦",
     pronunciationJa: "こむぎ",
     tags: [ "food" ],
   },
   {
     en: "Flour",
     ja: "小麦粉",
+    zhCN: "面粉",
     pronunciationJa: "こむぎこ",
     tags: [ "food" ],
   },
@@ -1155,6 +1231,7 @@
   {
     en: "Starshroom",
     ja: "星茸",
+    zhCN: "星茸",
     tags: [ "food", "liyue" ],
   },
 ]
