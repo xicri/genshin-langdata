@@ -875,6 +875,7 @@
   {
     en: "Wanmin Restaurant's Boiled Fish",
     ja: "万民堂水煮魚",
+    zhCN: "万民堂水煮鱼",
     pronunciationJa: "ばんみんどうみずにざかな",
     tags: [ "food", "liyue" ],
     notes: "香菱のオリジナル料理",
@@ -882,6 +883,7 @@
   {
     en: "All-Delicacy Parcels",
     ja: "江湖百味",
+    zhCN: "江湖百味",
     pronunciationJa: "こうこひゃくみ",
     tags: [ "food", "liyue" ],
     notes: "行秋のオリジナル料理",
@@ -889,12 +891,14 @@
   {
     en: "Cold Noodles with Mountain Delicacies",
     ja: "山幸の冷やし麺",
+    zhCN: "山珍凉卤面",
     tags: [ "food", "liyue" ],
     notes: "重雲のオリジナル料理",
   },
   {
     en: "Flash-Fried Filet",
     ja: "豚肉の唐辛子炒め",
+    zhCN: "炝炒肉片",
     pronunciationJa: "ぶたにくのとうがらしいため",
     tags: [ "food", "liyue" ],
     notes: "北斗のオリジナル料理",
@@ -902,6 +906,7 @@
   {
     en: "Qiankun Mora Meat",
     ja: "乾坤モラミート",
+    zhCN: "乾坤摩拉肉",
     pronunciationJa: "けんこんモラミート",
     tags: [ "food", "liyue" ],
     notes: "凝光のオリジナル料理",
@@ -909,18 +914,21 @@
   {
     en: "Rockin' Riffin' Chicken!",
     ja: "ロック・チキン!",
+    zhCN: "摇·滚·鸡",
     tags: [ "food", "liyue" ],
     notes: "辛炎のオリジナル料理",
   },
   {
     en: "No Tomorrow",
     ja: "アシタナシ",
+    zhCN: "没有未来菜",
     tags: [ "food", "liyue" ],
     notes: "七七のオリジナル料理",
   },
   {
     en: "Survival Grilled Fish",
     ja: "九死一生の焼き魚",
+    zhCN: "绝境求生烤鱼",
     pronunciationJa: "きゅうしいっしょうのやきざかな",
     tags: [ "food", "liyue" ],
     notes: "刻晴のオリジナル料理",
@@ -928,6 +936,7 @@
   {
     en: "Sweet Dream",
     ja: "夢",
+    zhCN: "美梦",
     pronunciationJa: "ゆめ",
     tags: [ "food", "liyue" ],
     notes: "魈のオリジナル料理",
@@ -935,6 +944,7 @@
   {
     en: "Prosperous Peace",
     ja: "盛世太平",
+    zhCN: "盛世太平",
     pronunciationJa: "せいせいたいへい",
     tags: [ "food", "liyue" ],
     notes: "甘雨のオリジナル料理",
@@ -942,12 +952,14 @@
   {
     en: "Slow-Cooked Bamboo Shoot Soup",
     ja: "とろ火で煮込んだ腌篤鮮",
+    zhCN: "文火慢炖腌笃鲜",
     tags: [ "food", "liyue" ],
     notes: "鍾離のオリジナル料理",
   },
   {
     en: "Ghostly March",
     ja: "幽々大行軍",
+    zhCN: "幽幽大行军",
     pronunciationJa: "ゆうゆうだいこうぐん",
     tags: [ "food", "liyue" ],
     notes: "胡桃のオリジナル料理",
@@ -955,6 +967,7 @@
   {
     en: "Cloud-Shrouded Jade",
     ja: "雲隠し玉",
+    zhCN: "云遮玉",
     pronunciationJa: "くもかくしだま",
     tags: [ "food", "liyue" ],
     notes: "雲菫のオリジナル料理",
@@ -962,6 +975,7 @@
   {
     en: "A Prize Catch",
     ja: "極みの一釣り",
+    zhCN: "极致一钓",
     pronunciationJa: "きわみのひとつり",
     tags: [ "food", "liyue" ],
     notes: "タルタリヤのオリジナル料理",
