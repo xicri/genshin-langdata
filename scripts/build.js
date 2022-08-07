@@ -1,10 +1,11 @@
-import { copyFile, mkdir } from "fs/promises";
+import { copyFile, mkdir, rm } from "fs/promises";
 import { resolve } from "path";
 import { fileURLToPath } from "url";
 import { Dictionary } from "../libs/dictionary.js";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
+await rm(resolve(__dirname, "../dist"), { recursive: true, force: true });
 await mkdir(resolve(__dirname, "../dist/redirect/"), { recursive: true });
 
 const dictionary = new Dictionary();
