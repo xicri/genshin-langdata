@@ -156,7 +156,7 @@ export class Dictionary {
         console.info("[WARNING] createdAt is reset since production API is unavailable.");
 
         this.#words = this.#words.map(wordLocal => {
-          wordLocal.createdAt = wordLocal.updatedAt = "1970-01-01";
+          wordLocal.createdAt = wordLocal.updatedAt = "2022-01-01";
 
           return wordLocal;
         });
