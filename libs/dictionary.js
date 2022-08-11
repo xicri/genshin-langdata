@@ -93,68 +93,76 @@ export class Dictionary {
   }
 
   async #addTimestamps() {
-    const res = await fetch("https://dataset.genshin-dictionary.com/words.json");
+    try {
+      const res = await fetch("https://dataset.genshin-dictionary.com/words.json");
 
-    if (res.status < 400 || this.#dummyWordsProd) {
-      const wordsProd = this.#dummyWordsProd ?? await res.json();
+      if (res.status < 400 || this.#dummyWordsProd) {
+        const wordsProd = this.#dummyWordsProd ?? await res.json();
 
-      this.#words = this.#words.map(wordLocal => {
-        const wordProd = wordsProd.find(wordProd => wordLocal.id === wordProd.id);
+        this.#words = this.#words.map(wordLocal => {
+          const wordProd = wordsProd.find(wordProd => wordLocal.id === wordProd.id);
 
-        if (wordProd) {
-          // ▼▼ Migration ▼▼
-          if (!wordProd.createdAt && wordProd.updatedAt) {
-            wordProd.createdAt = wordProd.updatedAt;
-          }
-          // ▲▲ Migration ▲▲
-
-          if (wordProd.updatedAt) {
-            const _wordLocal = klona(wordLocal);
-            const _wordProd = klona(wordProd);
-            delete _wordLocal.id;
-            delete _wordProd.id;
-            delete _wordProd.createdAt;
-            delete _wordProd.updatedAt;
-
-            if (isEqual(_wordLocal, _wordProd)) {
-              wordLocal.updatedAt = wordProd.updatedAt;
-            } else {
-              wordLocal.updatedAt = DateTime.now().toISODate();
-              console.info(`[UPDATED] ${wordLocal.ja} (${wordLocal.en})`);
+          if (wordProd) {
+            // ▼▼ Migration ▼▼
+            if (!wordProd.createdAt && wordProd.updatedAt) {
+              wordProd.createdAt = wordProd.updatedAt;
             }
+            // ▲▲ Migration ▲▲
 
-            if (wordProd.createdAt) {
-              wordLocal.createdAt = wordProd.createdAt;
+            if (wordProd.updatedAt) {
+              const _wordLocal = klona(wordLocal);
+              const _wordProd = klona(wordProd);
+              delete _wordLocal.id;
+              delete _wordProd.id;
+              delete _wordProd.createdAt;
+              delete _wordProd.updatedAt;
+
+              if (isEqual(_wordLocal, _wordProd)) {
+                wordLocal.updatedAt = wordProd.updatedAt;
+              } else {
+                wordLocal.updatedAt = DateTime.now().toISODate();
+                console.info(`[UPDATED] ${wordLocal.ja} (${wordLocal.en})`);
+              }
+
+              if (wordProd.createdAt) {
+                wordLocal.createdAt = wordProd.createdAt;
+              } else {
+                // word exists but createdAt is not saved yet
+                wordLocal.createdAt = "1970-01-01";
+                console.info(`[RESET] ${wordLocal.ja} (${wordLocal.en})`);
+              }
             } else {
-              // word exists but createdAt is not saved yet
-              wordLocal.createdAt = "1970-01-01";
-              console.info(`[RESET] ${wordLocal.ja} (${wordLocal.en})`);
+              if (wordProd.createdAt) {
+                wordLocal.updatedAt = wordProd.createdAt;
+              } else {
+                wordLocal.createdAt = DateTime.now().toISODate();
+                wordLocal.updatedAt = wordLocal.createdAt;
+                console.info(`[NEW] ${wordLocal.ja} (${wordLocal.en})`);
+              }
             }
           } else {
-            if (wordProd.createdAt) {
-              wordLocal.updatedAt = wordProd.createdAt;
-            } else {
-              wordLocal.createdAt = DateTime.now().toISODate();
-              wordLocal.updatedAt = wordLocal.createdAt;
-              console.info(`[NEW] ${wordLocal.ja} (${wordLocal.en})`);
-            }
+            wordLocal.createdAt = DateTime.now().toISODate();
+            wordLocal.updatedAt = wordLocal.createdAt;
+            console.info(`[NEW] ${wordLocal.ja} (${wordLocal.en})`);
           }
-        } else {
-          wordLocal.createdAt = DateTime.now().toISODate();
-          wordLocal.updatedAt = wordLocal.createdAt;
-          console.info(`[NEW] ${wordLocal.ja} (${wordLocal.en})`);
-        }
 
-        return wordLocal;
-      });
-    } else {
-      console.info("[WARNING] createdAt is reset since production API is unavailable.");
+          return wordLocal;
+        });
+      } else {
+        throw new Error("dataset.genshin-dictionary.com unavailable");
+      }
+    } catch (err) {
+      if (err.name === "FetchError" || err.message === "dataset.genshin-dictionary.com unavailable") {
+        console.info("[WARNING] createdAt is reset since production API is unavailable.");
 
-      this.#words = this.#words.map(wordLocal => {
-        wordLocal.createdAt = wordLocal.updatedAt = "1970-01-01";
+        this.#words = this.#words.map(wordLocal => {
+          wordLocal.createdAt = wordLocal.updatedAt = "1970-01-01";
 
-        return wordLocal;
-      });
+          return wordLocal;
+        });
+      } else {
+        throw err;
+      }
     }
   }
 
