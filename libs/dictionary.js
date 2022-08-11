@@ -153,7 +153,7 @@ export class Dictionary {
       }
     } catch (err) {
       if (err.name === "FetchError" || err.message === "dataset.genshin-dictionary.com unavailable") {
-        console.info("[WARNING] createdAt is reset since production API is unavailable.");
+        console.warn("[WARNING] createdAt is reset since production API is unavailable.");
 
         this.#words = this.#words.map(wordLocal => {
           wordLocal.createdAt = wordLocal.updatedAt = "2022-01-01";
