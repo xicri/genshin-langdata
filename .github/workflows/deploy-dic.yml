@@ -20,4 +20,4 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: token ${GH_PERSONAL_ACCESS_TOKEN}" \
             https://api.github.com/repos/xicri/genshin-dictionary/dispatches \
-            -d '{ "event_type": "deploy-on-langdata-update" }'
+            -d '{ "event_type": "langdata-update" }'
