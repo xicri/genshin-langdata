@@ -1057,6 +1057,28 @@
   },
 
   {
+    en: "Sumeru City",
+    ja: "スメールシティ",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Grand Bazaar",
+    ja: "グランドバザール",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Avidya Forest",
+    ja: "アビディアの森",
+    pronunciationJa: "アビディアのもり",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Gandharva Ville",
+    ja: "ガンダルヴァ村",
+    pronunciationJa: "ガンダルヴァむら",
+    tags: [ "sumeru", "location" ],
+  },
+  {
     en: "Port Ormos",
     ja: "オルモス港",
     zhCN: "奥摩斯港",
@@ -1071,6 +1093,11 @@
     en: "Fontaine",
     ja: "フォンテーヌ",
     zhCN: "枫丹",
+    tags: [ "location" ],
+  },
+  {
+    en: "Court of Fontaine",
+    ja: "フォンテーヌ廷",
     tags: [ "location" ],
   },
 

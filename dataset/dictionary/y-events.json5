@@ -46,6 +46,12 @@
     tags: [ "event" ],
   },
   {
+    en: "Ulman",
+    ja: "ウルマン",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "Treasure-Seeking Seelie",
     ja: "宝探し仙霊",
     pronunciationJa: "たからさがしせんれい",
@@ -137,6 +143,42 @@
   },
 
   //
+  // v3.0
+  //
+  {
+    en: "Graven Innocence",
+    ja: "イノセンスの彫刻",
+    pronunciationJa: "イノセンスのちょうこく",
+    notes: "v3.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Fayz Trials",
+    ja: "フェーイズの論証",
+    pronunciationJa: "フェーイズのろんしょう",
+    notes: "v3.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Tablet Analytics",
+    ja: "タブレットスタディー",
+    notes: "v3.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Hajanad",
+    ja: "ハジャナド",
+    notes: "v3.0 期間限定イベント「タブレットスタディー」に登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Remelting Tablets",
+    ja: "リメルトタブレット",
+    notes: "v3.0 期間限定イベント「タブレットスタディー」におけるハジャナドの研究対象",
+    tags: [ "event" ],
+  },
+
+  //
   // v2.8
   //
   {
@@ -194,6 +236,12 @@
     zhCN: "恒动械画",
     notes: "v2.8 期間限定イベント",
     tags: [ "event" ],
+  },
+  {
+    en: "Félix Yogue",
+    ja: "フェリックス・ユーグ",
+    notes: "v2.8 期間限定イベント「からくり械画」に登場するキャラクター",
+    tags: [ "event", "character-sub" ],
   },
 
   //

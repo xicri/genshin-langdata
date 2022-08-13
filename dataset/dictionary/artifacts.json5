@@ -108,6 +108,12 @@
     },
   },
   {
+    en: "Deepwood Memories",
+    ja: "深林の記憶",
+    pronunciationJa: "しんりんのきおく",
+    tags: [ "artifact" ],
+  },
+  {
     en: "Defender's Will",
     ja: "守護の心",
     zhCN: "守护之心",
@@ -147,6 +153,12 @@
     ja: "博徒",
     zhCN: "赌徒",
     pronunciationJa: "ばくと",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Gilded Dreams",
+    ja: "金メッキの夢",
+    pronunciationJa: "きんメッキのゆめ",
     tags: [ "artifact" ],
   },
   {

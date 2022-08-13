@@ -397,6 +397,31 @@
     pronunciationJa: "エルマイトりょだん",
     tags: [ "sumeru", "organization" ],
   },
+  {
+    en: "Zubayr Theater",
+    ja: "ズバイルシアター",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Puspa Café",
+    ja: "プスパカフェ",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Acara Crafts",
+    ja: "アジャンタ彫刻店",
+    tags: [ "sumeru", "organization" ],
+  },
+
+  //
+  // Fontaine
+  //
+  {
+    en: "Daydream Club",
+    ja: "空想クラブ",
+    pronunciationJa: "くうそうクラブ",
+    tags: [ "organization" ],
+  },
 
   //
   // Snezhnaya & Fatui

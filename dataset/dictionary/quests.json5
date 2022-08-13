@@ -146,6 +146,20 @@
     tags: [ "liyue", "quest-archon" ],
   },
 
+  // Sumeru
+  {
+    en: "Through Mists of Smoke and Forests Dark",
+    ja: "煙霧のベールと暗き森を抜けて",
+    pronunciationJa: "えんむのベールとくらきもりをぬけて",
+    tags: [ "sumeru", "quest-archon" ],
+  },
+  {
+    en: "The Morn a Thousand Roses Brings",
+    ja: "黎明を告げる千の薔薇",
+    pronunciationJa: "れいめいをつげるせんのばら",
+    tags: [ "sumeru", "quest-archon" ],
+  },
+
   //
   // World Quests
   //
@@ -1187,6 +1201,12 @@
     ja: "紅葉の章",
     notes: "楓原万葉の伝説任務",
     tags: [ "inazuma", "quest-story" ],
+  },
+  {
+    en: "Vulpes Zerda Chapter",
+    ja: "フェネックの章",
+    notes: "ティナリの伝説任務",
+    tags: [ "sumeru", "quest-story" ],
   },
 
   //

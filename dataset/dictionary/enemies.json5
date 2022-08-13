@@ -474,6 +474,12 @@
     tags: [ "enemy-boss", "liyue" ],
     notes: "世界任務「層岩巨淵深遊記」で、層岩巨淵最深部で戦う遺跡サーペントの名前",
   },
+  {
+    en: "Ruin Drake",
+    ja: "遺跡ドレイク",
+    pronunciationJa: "いせきドレイク",
+    tags: [ "enemy" ],
+  },
 
   // Abyss Order
   {
@@ -837,6 +843,12 @@
       zhCN: [ "冰树" ],
     },
     tags: [ "enemy-boss", "mondstadt" ],
+  },
+  {
+    en: "Electro Regisvine",
+    ja: "迅電樹",
+    pronunciationJa: "じんでんじゅ",
+    tags: [ "enemy-boss", "sumeru" ],
   },
 
   // Hypostasises
@@ -1267,5 +1279,22 @@
     zhCN: "浮游水蕈兽",
     tags: [ "enemy" ],
     notes: "英語の複数形は Floating Hydro Fungi。",
+  },
+  {
+    en: "Jadeplume Terrorshroom",
+    ja: "マッシュラプトル",
+    tags: [ "enemy-boss", "sumeru" ],
+  },
+
+  // TODO Check if it is really an enemy
+  {
+    en: "Sumpter Beast",
+    ja: "駄獣",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Shaggy Sumpter Beast",
+    ja: "モジャモジャ駄獣",
+    tags: [ "enemy", "sumeru" ],
   },
 ]

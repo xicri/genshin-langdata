@@ -420,6 +420,24 @@
     zhCN: "同泽之枪",
     tags: [ "item", "liyue" ],
   },
+  {
+    en: "The Boon of the Elder Tree",
+    ja: "王樹の加護",
+    pronunciationJa: "おうじゅのかご",
+    tags: [ "item" ], // TODO need check if sumeru tag required
+  },
+  {
+    en: "Ultra-Hot Burner Lamp Test Model",
+    ja: "実験型超燃ランプ",
+    pronunciationJa: "じっけんがたちょうねんランプ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Fishing Line Stabilizer",
+    ja: "釣り糸安定装置",
+    pronunciationJa: "つりいとあんていそうち",
+    tags: [ "item" ],
+  },
 
   //
   // Character EXP Material
@@ -2005,6 +2023,13 @@
     ja: "ユウトウタケ",
     zhCN: "幽灯蕈",
     tags: [ "specialty", "item", "inazuma" ],
+  },
+  // Sumeru
+  {
+    en: "Nilotpala Lotus",
+    ja: "サウマラタ蓮",
+    // TODO check if it is really a specialty
+    tags: [ "specialty", "item", "sumeru" ],
   },
 
   //

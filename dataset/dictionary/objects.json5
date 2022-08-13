@@ -460,4 +460,33 @@
     zhCN: "浪船锚点",
     tags: [ "object" ],
   },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "Divine Tree",
+    ja: "聖樹",
+    pronunciationJa: "せいじゅ",
+    tags: [ "object" ],
+  },
+  {
+    en: "Tri-Lakshana Creature",
+    ja: "トライステート生物",
+    pronunciationJa: "トライステートせいぶつ",
+    tags: [ "object" ],
+  },
+  // TODO Check if it is an enemy after v3.0 release
+  {
+    en: "Dusk Bird",
+    ja: "瞑彩鳥",
+    tags: [ "object" ],
+  },
+  {
+    en: "Irminsul",
+    ja: "世界樹",
+    pronunciationJa: "せかいじゅ",
+    tags: [ "object" ],
+    notes: "Irminsul の訳は安定していないようであり、「古樹」や「地脈の」などのように訳されている箇所もある。[参考: Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Irminsul#Localization)",
+  },
 ]

@@ -316,6 +316,11 @@
   // Sumeru
   //
   {
+    en: "Six Darshans",
+    ja: "六大学派",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "Amurta",
     ja: "生論派",
     zhCN: "生论派",
@@ -331,6 +336,29 @@
     en: "Akasha",
     ja: "アーカーシャ",
     zhCN: "虚空",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Akasha Terminal",
+    ja: "アーカーシャ端末",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Sabzeruz Festival",
+    ja: "花神誕日",
+    pronunciationJa: "かしんたんじつ",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Padisarah",
+    ja: "パティサラ",
+    tags: [ "sumeru" ],
+    notes: "英語版では Pa\"d\"isarah と D の音になっていることに注意。",
+  },
+  {
+    en: "Divine Knowledge Capsule",
+    ja: "神の缶詰知識",
+    pronunciationJa: "かみのかんずめちしき",
     tags: [ "sumeru" ],
   },
 
