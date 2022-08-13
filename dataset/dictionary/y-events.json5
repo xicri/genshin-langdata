@@ -153,23 +153,9 @@
     tags: [ "event" ],
   },
   {
-    en: "Evermotion Mechanical Painting",
-    ja: "からくり械画",
-    zhCN: "恒动械画",
-    notes: "v2.8 期間限定イベント",
-    tags: [ "event" ],
-  },
-  {
     en: "Reminiscent Regimen",
     ja: "追憶練行",
     zhCN: "追想练行",
-    notes: "v2.8 期間限定イベント",
-    tags: [ "event" ],
-  },
-  {
-    en: "Hidden Strife",
-    ja: "残像暗戦",
-    zhCN: "残像暗战",
     notes: "v2.8 期間限定イベント",
     tags: [ "event" ],
   },
@@ -200,6 +186,20 @@
     zhCN: "大肉丸",
     notes: "v2.8 期間限定イベント「サマータイムオデッセイ」で登場するキャラクター",
     tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Hidden Strife",
+    ja: "残像暗戦",
+    zhCN: "残像暗战",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Evermotion Mechanical Painting",
+    ja: "からくり械画",
+    zhCN: "恒动械画",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
   },
 
   //
