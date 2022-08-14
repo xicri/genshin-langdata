@@ -117,12 +117,6 @@
     tags: [ "event" ],
   },
   {
-    en: "Rebel",
-    ja: "レンジャー",
-    notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側",
-    tags: [ "event" ],
-  },
-  {
     en: "Hunter",
     ja: "ハンター",
     notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの鬼役",

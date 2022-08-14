@@ -385,6 +385,12 @@
     notes: "英語版では v2.8 で Sumeru Academia から変更された。",
   },
   {
+    en: "Forest Rangers / Rebel",
+    ja: "レンジャー",
+    notes: "Forest Rangers は、ティナリをリーダーとするスメールの組織。Rebel は、不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側。どちらも日本語では「レンジャー」となっている。",
+    tags: [ "sumeru", "organization", "event" ],
+  },
+  {
     en: "The Eremites",
     ja: "エルマイト旅団",
     zhCN: "镀金旅团",
