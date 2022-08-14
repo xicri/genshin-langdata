@@ -1595,6 +1595,10 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Film Kamera",
+    ja: "映影機",
+  },
+  {
     en: "Ruu",
     ja: "ルー",
     zhCN: "阿瑠",
@@ -1811,10 +1815,22 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Forest Watcher",
+    ja: "レンジャー長",
+    notes: "[ティナリ](/tighnari/)の役職",
+    tags: [ "sumeru", "title" ],
+  },
+  {
     en: "Collei",
     ja: "コレイ",
     zhCN: "柯莱",
+    notes: "中国語の発音は「クライ」に近い",
     tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Cuilein-Anbar",
+    ja: "コレアンバー",
+    tags: [ "sumeru" ],
   },
   {
     en: "Dori",
@@ -1841,6 +1857,12 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Dance of Sabzeruz",
+    ja: "花神の舞",
+    pronunciationJa: "かしんのまい",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "Nahida",
     ja: "ナヒーダ",
     zhCN: "纳西妲",
@@ -1850,6 +1872,12 @@
     en: "Lesser Load Kusanali",
     ja: "クラクサナリデビ",
     zhCN: "小吉祥草王",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Goddess of Flowers",
+    ja: "花神",
+    pronunciationJa: "かしん",
     tags: [ "sumeru", "title" ],
   },
   {

@@ -331,4 +331,13 @@
     tags: [ "inazuma", "domain" ],
     notes: "禍津御建鳴神命戦の秘境名。",
   },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "Spire of Solitary Enlightenment",
+    ja: "縁覚の塔",
+    tags: [ "sumeru", "domain" ],
+  },
 ]

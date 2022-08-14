@@ -430,35 +430,35 @@
     ja: "遺跡機兵",
     zhCN: "遗迹机兵",
     pronunciationJa: "いせききへい",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Ruin Cruiser",
     ja: "遺跡巡視者",
     zhCN: "遗迹巡弋者",
     pronunciationJa: "いせきじゅんししゃ",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Ruin Scout",
     ja: "遺跡偵察者",
     zhCN: "遗迹侦察者",
     pronunciationJa: "いせきていさつしゃ",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Ruin Defender",
     ja: "遺跡防衛者",
     zhCN: "遗迹防卫者",
     pronunciationJa: "いせきぼうえいしゃ",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Ruin Destroyer",
     ja: "遺跡殲滅者",
     zhCN: "遗迹歼击者",
     pronunciationJa: "いせきせんめつしゃ",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Ruin Serpent",
@@ -473,6 +473,12 @@
     zhCN: "七嗣之虫",
     tags: [ "enemy-boss", "liyue" ],
     notes: "世界任務「層岩巨淵深遊記」で、層岩巨淵最深部で戦う遺跡サーペントの名前",
+  },
+  {
+    en: "Ruin Drake",
+    ja: "遺跡ドレイク",
+    pronunciationJa: "いせきドレイク",
+    tags: [ "enemy" ],
   },
 
   // Abyss Order
@@ -759,14 +765,14 @@
     en: "Snezhnayan Maiden",
     ja: "冬国の仕女",
     zhCN: "冬国仕女",
-    tags: [ "snezhnaya", "inazuma", "enemy" ],
+    tags: [ "snezhnaya", "enemy" ],
     notes: "ミラーメイデン (Mirror Maiden) の一般名",
   },
   {
     en: "Mirror Maiden",
     ja: "ミラーメイデン",
     zhCN: "愚人众·藏镜仕女",
-    tags: [ "snezhnaya", "inazuma", "enemy" ],
+    tags: [ "snezhnaya", "enemy" ],
   },
 
   {
@@ -837,6 +843,12 @@
       zhCN: [ "冰树" ],
     },
     tags: [ "enemy-boss", "mondstadt" ],
+  },
+  {
+    en: "Electro Regisvine",
+    ja: "迅電樹",
+    pronunciationJa: "じんでんじゅ",
+    tags: [ "enemy-boss", "sumeru" ],
   },
 
   // Hypostasises
@@ -1192,7 +1204,7 @@
     ja: "黄金王獣",
     zhCN: "黄金王兽",
     pronunciationJa: "おうごんおうじゅう",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy-boss", "inazuma" ],
   },
   {
     en: "Wolves of the Rift",
@@ -1267,5 +1279,22 @@
     zhCN: "浮游水蕈兽",
     tags: [ "enemy" ],
     notes: "英語の複数形は Floating Hydro Fungi。",
+  },
+  {
+    en: "Jadeplume Terrorshroom",
+    ja: "マッシュラプトル",
+    tags: [ "enemy-boss", "sumeru" ],
+  },
+
+  // TODO Check if it is really an enemy
+  {
+    en: "Sumpter Beast",
+    ja: "駄獣",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Shaggy Sumpter Beast",
+    ja: "モジャモジャ駄獣",
+    tags: [ "enemy", "sumeru" ],
   },
 ]

@@ -46,6 +46,12 @@
     tags: [ "event" ],
   },
   {
+    en: "Ulman",
+    ja: "ウルマン",
+    notes: "不定期開催の期間限定イベント「秘宝の行方」で登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "Treasure-Seeking Seelie",
     ja: "宝探し仙霊",
     pronunciationJa: "たからさがしせんれい",
@@ -117,12 +123,6 @@
     tags: [ "event" ],
   },
   {
-    en: "Rebel",
-    ja: "レンジャー",
-    notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側",
-    tags: [ "event" ],
-  },
-  {
     en: "Hunter",
     ja: "ハンター",
     notes: "不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの鬼役",
@@ -143,6 +143,42 @@
   },
 
   //
+  // v3.0
+  //
+  {
+    en: "Graven Innocence",
+    ja: "イノセンスの彫刻",
+    pronunciationJa: "イノセンスのちょうこく",
+    notes: "v3.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Fayz Trials",
+    ja: "フェーイズの論証",
+    pronunciationJa: "フェーイズのろんしょう",
+    notes: "v3.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Tablet Analytics",
+    ja: "タブレットスタディー",
+    notes: "v3.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Hajanad",
+    ja: "ハジャナド",
+    notes: "v3.0 期間限定イベント「タブレットスタディー」に登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Remelting Tablets",
+    ja: "リメルトタブレット",
+    notes: "v3.0 期間限定イベント「タブレットスタディー」におけるハジャナドの研究対象",
+    tags: [ "event" ],
+  },
+
+  //
   // v2.8
   //
   {
@@ -153,23 +189,9 @@
     tags: [ "event" ],
   },
   {
-    en: "Evermotion Mechanical Painting",
-    ja: "からくり械画",
-    zhCN: "恒动械画",
-    notes: "v2.8 期間限定イベント",
-    tags: [ "event" ],
-  },
-  {
     en: "Reminiscent Regimen",
     ja: "追憶練行",
     zhCN: "追想练行",
-    notes: "v2.8 期間限定イベント",
-    tags: [ "event" ],
-  },
-  {
-    en: "Hidden Strife",
-    ja: "残像暗戦",
-    zhCN: "残像暗战",
     notes: "v2.8 期間限定イベント",
     tags: [ "event" ],
   },
@@ -199,6 +221,26 @@
     ja: "御肉丸",
     zhCN: "大肉丸",
     notes: "v2.8 期間限定イベント「サマータイムオデッセイ」で登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Hidden Strife",
+    ja: "残像暗戦",
+    zhCN: "残像暗战",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Evermotion Mechanical Painting",
+    ja: "からくり械画",
+    zhCN: "恒动械画",
+    notes: "v2.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Félix Yogue",
+    ja: "フェリックス・ユーグ",
+    notes: "v2.8 期間限定イベント「からくり械画」に登場するキャラクター",
     tags: [ "event", "character-sub" ],
   },
 

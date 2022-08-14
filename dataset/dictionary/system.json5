@@ -501,6 +501,10 @@
     pronunciationJa: "わびいし",
     notes: "apology (謝罪) と gem (宝石) の合成語。日本語の「詫び石」同様、他のゲームでも使われる。通例複数形で apologems。",
   },
+
+  //
+  // Inazuma
+  //
   {
     en: "Balethunder",
     ja: "雷禍",
@@ -520,5 +524,16 @@
     ja: "常夜",
     zhCN: "常夜",
     tags: [ "inazuma" ],
+  },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "The Withering / Withering Zone",
+    ja: "死域",
+    pronunciationJa: "しいき",
+    notes: "The Withering の場合は死域現象のことを指し、Withering Zone(s) は死域現象に侵された場所のことを指すと思われる。wither は「枯れる」の意。",
+    tags: [ "sumeru" ],
   },
 ]

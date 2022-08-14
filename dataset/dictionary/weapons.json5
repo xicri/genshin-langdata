@@ -202,6 +202,12 @@
     zhCN: "笼钓瓶一心",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Sapwood Blade",
+    ja: "原木刀",
+    pronunciationJa: "げんぼくとう",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -425,7 +431,14 @@
   {
     en: "Akuoumaru",
     ja: "惡王丸",
+    pronunciationJa: "あくおうまる",
     zhCN: "恶王丸",
+    tags: [ "weapon", "claymore" ],
+  },
+  {
+    en: "Forest Regalia",
+    ja: "森林のレガリア",
+    pronunciationJa: "しんりんのレガリア",
     tags: [ "weapon", "claymore" ],
   },
   // ★5
@@ -611,6 +624,11 @@
     variants: {
       ja: [ "斬波" ],
     },
+  },
+  {
+    en: "Moonpiercer",
+    ja: "ムーンピアサー",
+    tags: [ "weapon", "polearm" ],
   },
   // ★5
   {
@@ -837,6 +855,18 @@
     pronunciationJa: "らっか",
     tags: [ "weapon", "bow" ],
   },
+  {
+    en: "End of the Line",
+    ja: "竭沢", // TODO 弓・竭沢 is correct name?
+    pronunciationJa: "けったく", // Source: https://twitter.com/genshin_kanji/status/1558431572407504896
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "King's Squire",
+    ja: "王の近侍",
+    pronunciationJa: "おうのきんじ",
+    tags: [ "weapon", "bow" ],
+  },
   // ★5
   {
     en: "Skyward Harp",
@@ -894,6 +924,12 @@
     en: "Aqua Simulacra",
     ja: "若水",
     zhCN: "若水",
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "Hunter's Path",
+    ja: "狩人の道", // TODO "弓・狩人の道" is correct?
+    pronunciationJa: "かりゅうどのみち",
     tags: [ "weapon", "bow" ],
   },
 
@@ -1064,6 +1100,12 @@
     ja: "明目の油剤",
     zhCN: "明目之油膏",
     tags: [ "item" ],
+  },
+  {
+    en: "Fruit of Fulfillment",
+    ja: "満悦の実",
+    pronunciationJa: "まんえつのみ",
+    tags: [ "weapon", "catalyst" ],
   },
   // ★5
   {
