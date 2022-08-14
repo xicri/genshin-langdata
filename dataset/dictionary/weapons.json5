@@ -425,6 +425,7 @@
   {
     en: "Akuoumaru",
     ja: "惡王丸",
+    pronunciationJa: "あくおうまる",
     zhCN: "恶王丸",
     tags: [ "weapon", "claymore" ],
   },
