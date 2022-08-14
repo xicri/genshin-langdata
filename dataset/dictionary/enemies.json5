@@ -1192,7 +1192,7 @@
     ja: "黄金王獣",
     zhCN: "黄金王兽",
     pronunciationJa: "おうごんおうじゅう",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy-boss", "inazuma" ],
   },
   {
     en: "Wolves of the Rift",
