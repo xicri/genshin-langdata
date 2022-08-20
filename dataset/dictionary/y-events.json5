@@ -224,6 +224,11 @@
     tags: [ "event", "character-sub" ],
   },
   {
+    en: "Kosekimaru",
+    ja: "越石丸",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "Hidden Strife",
     ja: "残像暗戦",
     zhCN: "残像暗战",
