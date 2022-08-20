@@ -1913,6 +1913,34 @@
     zhCN: "琳妮特",
     tags: [ "character-main" ],
   },
+  {
+    en: "Garcia",
+    ja: "ガルシア",
+    tags: [ "character-sub" ],
+    notes: "空想クラブの一員",
+  },
+  {
+    en: "Numbering Machine",
+    ja: "ナンバリングマシン",
+    notes: "がルシアの研究対象",
+  },
+  {
+    en: "Mécantre",
+    ja: "メカントル",
+    tags: [ "character-sub" ],
+    notes: "空想クラブの一員",
+  },
+  {
+    en: "Babisse",
+    ja: "バビス",
+    tags: [ "character-sub" ],
+    notes: "空想クラブの一員",
+  },
+  {
+    en: "super-sized cannon",
+    ja: "スーパーキャノン",
+    notes: "メカントルとバビスの研究対象",
+  },
 
   //
   // Natlan

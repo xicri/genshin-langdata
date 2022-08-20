@@ -239,10 +239,42 @@
     tags: [ "element" ],
   },
   {
+    en: "Dendro Core",
+    ja: "草原核",
+    tags: [ "element" ],
+  },
+  {
+    en: "Burgeon",
+    ja: "烈開花",
+    tags: [ "element" ],
+    notes: "burgeon の原義は「新芽」「発芽する」",
+  },
+  {
+    en: "Sprawling Shot",
+    ja: "ヴァインショット",
+    tags: [ "element" ],
+  },
+  {
     en: "Catalyze",
     ja: "激化",
     zhCN: "激化",
     pronunciationJa: "げきか",
+    tags: [ "element" ],
+  },
+  {
+    en: "Quicken",
+    ja: "原激化",
+    tags: [ "element" ],
+  },
+  {
+    en: "Aggravate",
+    ja: "超激化",
+    tags: [ "element" ],
+    notes: "aggravate の原義は「更に悪くする」",
+  },
+  {
+    en: "Spread",
+    ja: "草激化",
     tags: [ "element" ],
   },
   {

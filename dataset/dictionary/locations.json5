@@ -1086,6 +1086,11 @@
     pronunciationJa: "オルモスこう",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Daharma Forest",
+    ja: "諸法の森",
+    tags: [ "sumeru", "location" ],
+  },
 
   //
   // Fontaine
@@ -1100,6 +1105,12 @@
     en: "Court of Fontaine",
     ja: "フォンテーヌ廷",
     tags: [ "location" ],
+  },
+  {
+    en: "Petrichor",
+    ja: "ペトリコール",
+    tags: [ "location" ],
+    notes: "恐らくフォンテーヌの地名。v2.8 期間限定イベント「からくり械画」でフェリックス・ユーグが言及。",
   },
 
   //
