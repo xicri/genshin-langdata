@@ -155,6 +155,13 @@
     tags: [ "object", "inazuma" ],
   },
   {
+    en: "Dendrogranum / Dendrograna",
+    ja: "草の種",
+    pronunciationJa: "くさのたね",
+    notes: "Dendrogranum は単数形、Dendrograna は複数形。granum はラテン語で「種」の意?",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Thunder Sphere",
     ja: "雷極",
     zhCN: "雷极",
@@ -476,6 +483,21 @@
     pronunciationJa: "トライステートせいぶつ",
     tags: [ "object", "sumeru" ],
   },
+  {
+    en: "Tri-Yana Seed",
+    ja: "トライマウントシード",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Four-Leaf Sigil",
+    ja: "クローバーマーク",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Clusterleaf of Cultivation",
+    ja: "リーフコア",
+    tags: [ "object", "sumeru" ],
+  },
   // TODO Check if it is an enemy after v3.0 release
   {
     en: "Dusk Bird",
@@ -496,10 +518,33 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Rishboland Tiger",
+    ja: "リシュボラン虎",
+    pronunciationJa: "リシュボランとら",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Spinocrocodile",
+    ja: "スピノクロコ",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Shroomboar",
+    ja: "キノシシ",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Irminsul",
     ja: "世界樹",
     pronunciationJa: "せかいじゅ",
     tags: [ "object", "sumeru" ],
     notes: "Irminsul の訳は安定していないようであり、「古樹」や「地脈の」などのように訳されている箇所もある。[参考: Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Irminsul#Localization)",
+  },
+  // TODO This word might be deleted if it is not worth adding
+  {
+    en: "Energy Extraction Device",
+    ja: "エネルギー抽出装置",
+    pronunciationJa: "エネルギーちゅうしゅつそうち",
+    tags: [ "object", "sumeru" ],
   },
 ]
