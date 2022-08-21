@@ -482,6 +482,19 @@
     ja: "瞑彩鳥",
     tags: [ "object" ],
   },
+  // TODO Sumpter Beast might be removed. I might keep only Shaggy Sumpter Beast.
+  {
+    en: "Sumpter Beast",
+    ja: "駄獣",
+    pronunciationJa: "だじゅう",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Shaggy Sumpter Beast",
+    ja: "モジャモジャ駄獣",
+    pronunciationJa: "モジャモジャだじゅう",
+    tags: [ "object", "sumeru" ],
+  },
   {
     en: "Irminsul",
     ja: "世界樹",

@@ -1286,20 +1286,6 @@
     tags: [ "enemy-boss", "sumeru" ],
   },
 
-  // TODO Check if it is really an enemy
-  {
-    en: "Sumpter Beast",
-    ja: "駄獣",
-    pronunciationJa: "だじゅう",
-    tags: [ "enemy", "sumeru" ],
-  },
-  {
-    en: "Shaggy Sumpter Beast",
-    ja: "モジャモジャ駄獣",
-    pronunciationJa: "モジャモジャだじゅう",
-    tags: [ "enemy", "sumeru" ],
-  },
-
   {
     en: "The Eremites",
     ja: "エルマイト旅団",
