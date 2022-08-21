@@ -2025,10 +2025,20 @@
     tags: [ "specialty", "item", "inazuma" ],
   },
   // Sumeru
+  // TODO check if these are really specialties
+  {
+    en: "Zaytun Peach",
+    ja: "ザイトゥン桃",
+    tags: [ "specialty", "item", "sumeru" ],
+  },
+  {
+    en: "Kalpalata Lotus",
+    ja: "カルパラタ蓮",
+    tags: [ "specialty", "item", "sumeru" ],
+  },
   {
     en: "Nilotpala Lotus",
     ja: "サウマラタ蓮",
-    // TODO check if it is really a specialty
     tags: [ "specialty", "item", "sumeru" ],
   },
 

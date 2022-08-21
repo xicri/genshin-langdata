@@ -480,6 +480,16 @@
     pronunciationJa: "いせきドレイク",
     tags: [ "enemy" ],
   },
+  {
+    en: "Ruin Drake: Earthguard",
+    ja: "遺跡ドレイク・陸行",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Ruin Drake: Skywatch",
+    ja: "遺跡ドレイク・飛空",
+    tags: [ "enemy" ],
+  },
 
   // Abyss Order
   {
@@ -1281,20 +1291,56 @@
     notes: "英語の複数形は Floating Hydro Fungi。",
   },
   {
+    en: "Floating Dendro Fungus",
+    ja: "プカプカ草キノコン",
+    tags: [ "enemy", "sumeru" ],
+    notes: "英語の複数形は Floating Dendro Fungi。",
+  },
+  {
+    en: "Stretchy Anemo Fungus",
+    ja: "ボヨヨン風キノコン",
+    tags: [ "enemy", "sumeru" ],
+    notes: "英語の複数形は Stretchy Anemo Fungi と思われる。",
+  },
+  {
+    en: "Whirling Electro Fungus",
+    ja: "グルグル雷キノコン",
+    tags: [ "enemy", "sumeru" ],
+    notes: "英語の複数形は Whirling Electro Fungi と思われる。",
+  },
+  {
+    en: "Grounded Hydroshroom",
+    ja: "トコトコ水マッシュロン",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Winged Dendroshroom",
+    ja: "パタパタ草マッシュロン",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
     en: "Jadeplume Terrorshroom",
     ja: "マッシュラプトル",
     tags: [ "enemy-boss", "sumeru" ],
   },
 
-  // TODO Check if it is really an enemy
   {
-    en: "Sumpter Beast",
-    ja: "駄獣",
-    tags: [ "enemy", "sumeru" ],
+    en: "The Eremites",
+    ja: "エルマイト旅団",
+    zhCN: "镀金旅团",
+    pronunciationJa: "エルマイトりょだん",
+    tags: [ "sumeru", "organization", "enemy" ],
   },
   {
-    en: "Shaggy Sumpter Beast",
-    ja: "モジャモジャ駄獣",
-    tags: [ "enemy", "sumeru" ],
+    en: "Eremite Desert Clearwater",
+    ja: "エルマイト旅団 サンドウォーター",
+    pronunciationJa: "エルマイトりょだん サンドウォーター",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Eremite Sunfrost",
+    ja: "エルマイト旅団 サンフロスト",
+    pronunciationJa: "エルマイトりょだん サンフロスト",
+    tags: [ "sumeru", "enemy" ],
   },
 ]
