@@ -391,13 +391,6 @@
     tags: [ "sumeru", "organization", "event" ],
   },
   {
-    en: "The Eremites",
-    ja: "エルマイト旅団",
-    zhCN: "镀金旅团",
-    pronunciationJa: "エルマイトりょだん",
-    tags: [ "sumeru", "organization" ],
-  },
-  {
     en: "Zubayr Theater",
     ja: "ズバイルシアター",
     tags: [ "sumeru", "organization" ],

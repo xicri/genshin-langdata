@@ -1299,4 +1299,12 @@
     pronunciationJa: "モジャモジャだじゅう",
     tags: [ "enemy", "sumeru" ],
   },
+
+  {
+    en: "The Eremites",
+    ja: "エルマイト旅団",
+    zhCN: "镀金旅团",
+    pronunciationJa: "エルマイトりょだん",
+    tags: [ "sumeru", "organization", "enemy" ],
+  },
 ]
