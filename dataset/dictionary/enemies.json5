@@ -1290,11 +1290,13 @@
   {
     en: "Sumpter Beast",
     ja: "駄獣",
+    pronunciationJa: "だじゅう",
     tags: [ "enemy", "sumeru" ],
   },
   {
     en: "Shaggy Sumpter Beast",
     ja: "モジャモジャ駄獣",
+    pronunciationJa: "モジャモジャだじゅう",
     tags: [ "enemy", "sumeru" ],
   },
 ]
