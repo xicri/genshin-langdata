@@ -1809,6 +1809,16 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "General Mahamatra",
+    ja: "大マハマトラ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Mahamatra",
+    ja: "マハマトラ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
     en: "Tighnari",
     ja: "ティナリ",
     zhCN: "提纳里",
@@ -1862,6 +1872,11 @@
     ja: "花神の舞",
     pronunciationJa: "かしんのまい",
     tags: [ "sumeru" ],
+  },
+  {
+    en: "Candace",
+    ja: "キャンディス",
+    tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Nahida",

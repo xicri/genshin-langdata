@@ -163,6 +163,11 @@
     zhCN: "火漂浮灵",
     tags: [ "enemy" ],
   },
+  {
+    en: "Dendro Specter",
+    ja: "草フライム",
+    tags: [ "enemy" ],
+  },
 
   // Hilichurls
   {
