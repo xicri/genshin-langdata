@@ -336,8 +336,38 @@
   // Sumeru
   //
   {
+    en: "Tower of Abject Pride",
+    ja: "有頂の塔",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Steeple of Ignorance",
+    ja: "無学の塔",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
     en: "Spire of Solitary Enlightenment",
     ja: "縁覚の塔",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Under the Umbrella's Shade",
+    ja: "傘蓋の庇護",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Fragment of Childhood Dreams",
+    ja: "幼夢の欠片",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "The Coordinates of Sun and Rain",
+    ja: "晴雨の経緯",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "The Dark Valley",
+    ja: "河谷の闇路",
     tags: [ "sumeru", "domain" ],
   },
 ]

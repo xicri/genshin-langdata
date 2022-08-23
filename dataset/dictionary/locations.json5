@@ -1087,6 +1087,40 @@
     tags: [ "sumeru", "location" ],
   },
   {
+    en: "Aaru Village",
+    ja: "アアル村",
+    pronunciationJa: "アアルむら",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Lokapala Jungle",
+    ja: "ローカパーラ密林",
+    pronunciationJa: "ローカパーラみつりん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Ardravi Valley",
+    ja: "アルダラビ河谷",
+    pronunciationJa: "アルダラビかこく",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Ashavan Realm",
+    ja: "アシャヴァンレルム",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Vissudha Field",
+    ja: "ヴィシュッダ辺土",
+    pronunciationJa: "ヴィシュッダへんど",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Vanarana",
+    ja: "ヴァナラーナ",
+    tags: [ "sumeru", "location" ],
+  },
+  {
     en: "Dharma Forest",
     ja: "諸法の森",
     tags: [ "sumeru", "location" ],

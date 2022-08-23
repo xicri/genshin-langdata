@@ -472,6 +472,12 @@
   // Sumeru
   //
   {
+    en: "Tree of Dreams, Vanarana",
+    ja: "ヴァナラーナの夢の樹",
+    pronunciationJa: "ヴァナラーナのゆめのき",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Divine Tree",
     ja: "聖樹",
     pronunciationJa: "せいじゅ",
