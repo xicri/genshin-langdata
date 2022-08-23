@@ -150,42 +150,6 @@
     zhCN: "绯红玉髓",
     tags: [ "item", "dragonspine" ],
   },
-  // TODO Need Check
-  {
-    en: "Crystalfly",
-    ja: "晶蝶",
-    zhCN: "晶蝶",
-    pronunciationJa: "しょうちょう",
-    tags: [ "item" ],
-  },
-  {
-    en: "Anemo Crystalfly",
-    ja: "風晶蝶",
-    zhCN: "风晶蝶",
-    pronunciationJa: "かぜしょうちょう",
-    tags: [ "item", "mondstadt" ],
-  },
-  {
-    en: "Geo Crystalfly",
-    ja: "岩晶蝶",
-    zhCN: "岩晶蝶",
-    pronunciationJa: "いわしょうちょう",
-    tags: [ "item", "liyue" ],
-  },
-  {
-    en: "Cryo Crystalfly",
-    ja: "氷晶蝶",
-    zhCN: "冰晶蝶",
-    pronunciationJa: "こおりしょうちょう",
-    tags: [ "item", "dragonspine" ],
-  },
-  {
-    en: "Electro Crystalfly",
-    ja: "雷晶蝶",
-    zhCN: "雷晶蝶",
-    pronunciationJa: "かみなりしょうちょう",
-    tags: [ "item", "inazuma" ],
-  },
   {
     en: "Crystal Core",
     ja: "晶核",
@@ -1995,7 +1959,7 @@
     en: "Onikabuto",
     ja: "オニカブトムシ",
     zhCN: "鬼兜虫",
-    tags: [ "specialty", "item", "inazuma" ],
+    tags: [ "specialty", "item", "living-being", "inazuma" ],
   },
   {
     en: "Crystal Marrow",

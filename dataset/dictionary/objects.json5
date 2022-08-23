@@ -168,100 +168,6 @@
     pronunciationJa: "らいきょく",
     tags: [ "object", "inazuma" ],
   },
-  {
-    en: "Seelie",
-    ja: "仙霊",
-    zhCN: "仙灵",
-    pronunciationJa: "せんれい",
-    tags: [ "object" ],
-  },
-  {
-    en: "Seelie Court",
-    ja: "仙霊の庭",
-    zhCN: "仙灵之庭",
-    pronunciationJa: "せんれいのにわ",
-    tags: [ "object" ],
-  },
-  {
-    en: "Warming Seelie",
-    ja: "温暖仙霊",
-    zhCN: "温暖仙灵",
-    pronunciationJa: "おんだんせんれい",
-    tags: [ "object", "dragonspine" ],
-  },
-  {
-    en: "Electro Seelie",
-    ja: "雷霊",
-    zhCN: "雷灵",
-    pronunciationJa: "らいれい",
-    tags: [ "object", "inazuma" ],
-  },
-  {
-    en: "Luminous Seelie",
-    ja: "光彩仙霊",
-    zhCN: "发光仙灵", // TODO Need Check
-    tags: [ "object", "liyue" ],
-  },
-  {
-    en: "Forest Boar",
-    ja: "イノシシ",
-    zhCN: "野林猪",
-    variants: {
-      zhCN: [ "野猪" ],
-    },
-    tags: [ "object" ],
-  },
-  {
-    en: "Snowboar",
-    ja: "雪のイノシシ",
-    zhCN: "雪猪",
-    pronunciationJa: "ゆきのイノシシ",
-    tags: [ "object" ],
-  },
-  {
-    en: "Great Snowboar King",
-    ja: "雪のイノシシ王",
-    zhCN: "大雪猪王",
-    pronunciationJa: "ゆきのイノシシおう",
-    tags: [ "object", "enemy" ],
-    variants: {
-      ja: [ "イノシシ王" ],
-    },
-  },
-  {
-    en: "Weasel Thief",
-    ja: "宝盗イタチ",
-    zhCN: "盗宝鼬",
-    pronunciationJa: "ほうとうイタチ",
-    tags: [ "object" ],
-  },
-  {
-    en: "Amateur Weasel Thief",
-    ja: "宝盗イタチ・新米",
-    zhCN: "新手盗宝鼬",
-    pronunciationJa: "ほうとうイタチ・しんまい",
-    tags: [ "object" ],
-  },
-  {
-    en: "Hoarder Weasel Thief",
-    ja: "宝盗イタチ・中堅",
-    zhCN: "藏金盗宝鼬",
-    pronunciationJa: "ほうとうイタチ・ちゅうけん",
-    tags: [ "object" ],
-  },
-  {
-    en: "Golden Weasel Thief",
-    ja: "宝盗イタチ・黄金",
-    zhCN: "大黄金盗宝鼬",
-    pronunciationJa: "ほうとうイタチ・おうごん",
-    tags: [ "object" ],
-  },
-  {
-    en: "Bluethunder Weasel",
-    ja: "青雷イタチ",
-    zhCN: "青雷鼬",
-    tags: [ "object", "liyue" ],
-  },
 
   //
   // Dragonspine
@@ -308,12 +214,6 @@
     en: "Bedrock Keys",
     ja: "磐鍵",
     zhCN: "磐键",
-    tags: [ "object", "liyue" ],
-  },
-  {
-    en: "Lucklight Fly",
-    ja: "吉光虫",
-    zhCN: "吉光虫",
     tags: [ "object", "liyue" ],
   },
   {
@@ -422,13 +322,6 @@
     tags: [ "object", "inazuma" ],
   },
   {
-    en: "Bake-Danuki",
-    ja: "妖狸",
-    zhCN: "妖狸",
-    pronunciationJa: "ばけだぬき",
-    tags: [ "object", "inazuma" ],
-  },
-  {
     en: "Stormstones",
     ja: "雷石",
     zhCN: "雷石",
@@ -446,13 +339,6 @@
     ja: "珍奇な宝箱",
     zhCN: "奇馈宝箱",
     pronunciationJa: "ちんきなたからばこ",
-    tags: [ "object", "inazuma" ],
-  },
-  {
-    en: "Ghostfish",
-    ja: "冥魚",
-    zhCN: "冥鱼",
-    pronunciationJa: "めいぎょ", // TODO Need Check
     tags: [ "object", "inazuma" ],
   },
   {
@@ -502,41 +388,6 @@
   {
     en: "Clusterleaf of Cultivation",
     ja: "リーフコア",
-    tags: [ "object", "sumeru" ],
-  },
-  // TODO Check if it is an enemy after v3.0 release
-  {
-    en: "Dusk Bird",
-    ja: "瞑彩鳥",
-    tags: [ "object", "sumeru" ],
-  },
-  // TODO Sumpter Beast might be removed. I might keep only Shaggy Sumpter Beast.
-  {
-    en: "Sumpter Beast",
-    ja: "駄獣",
-    pronunciationJa: "だじゅう",
-    tags: [ "object", "sumeru" ],
-  },
-  {
-    en: "Shaggy Sumpter Beast",
-    ja: "モジャモジャ駄獣",
-    pronunciationJa: "モジャモジャだじゅう",
-    tags: [ "object", "sumeru" ],
-  },
-  {
-    en: "Rishboland Tiger",
-    ja: "リシュボラン虎",
-    pronunciationJa: "リシュボランとら",
-    tags: [ "object", "sumeru" ],
-  },
-  {
-    en: "Spinocrocodile",
-    ja: "スピノクロコ",
-    tags: [ "object", "sumeru" ],
-  },
-  {
-    en: "Shroomboar",
-    ja: "キノシシ",
     tags: [ "object", "sumeru" ],
   },
   {
