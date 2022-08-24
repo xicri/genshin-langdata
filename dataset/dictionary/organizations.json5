@@ -29,7 +29,7 @@
     ja: "西風教会",
     zhCN: "西风教会",
     pronunciationJa: "セピュロスきょうかい",
-    tags: [ "mondstadt", "organization" ],
+    tags: [ "mondstadt", "organization", "facility" ],
     variants: {
       en: [ "Church of Favonious" ],
     },
@@ -51,24 +51,6 @@
     ja: "ローレンス家",
     zhCN: "劳伦斯家族",
     tags: [ "organization" ],
-  },
-  {
-    en: "Angel's Share",
-    ja: "エンジェルズシェア",
-    zhCN: "天使的馈赠",
-    tags: [ "mondstadt", "organization" ],
-  },
-  {
-    en: "Cat's Tail",
-    ja: "キャッツテール",
-    zhCN: "猫尾酒馆",
-    tags: [ "mondstadt", "organization" ],
-  },
-  {
-    en: "Good Hunter",
-    ja: "鹿狩り",
-    zhCN: "猎鹿人",
-    tags: [ "mondstadt", "organization" ],
   },
   {
     en: "Benny's Adventure Team",
@@ -122,65 +104,10 @@
     tags: [ "liyue", "organization" ],
   },
   {
-    en: "Wangsheng Funeral Parlor",
-    ja: "往生堂",
-    zhCN: "往生堂",
-    pronunciationJa: "おうじょうどう",
-    tags: [ "liyue", "organization" ],
-  },
-  {
-    en: "Wanmin Restaurant",
-    ja: "万民堂",
-    zhCN: "万名堂",
-    pronunciationJa: "ばんみんどう",
-    tags: [ "liyue", "organization" ],
-  },
-  {
-    en: "Bubu Pharmacy",
-    ja: "不卜廬",
-    zhCN: "不卜庐",
-    pronunciationJa: "ふぼくろ",
-    tags: [ "liyue", "organization" ],
-    variants: {
-      ja: [ "不卜盧" ],
-    },
-  },
-  {
-    en: "Liuli Pavilion",
-    ja: "琉璃亭",
-    zhCN: "琉璃亭",
-    pronunciationJa: "るりてい",
-    tags: [ "liyue", "organization" ],
-    variants: {
-      ja: [ "瑠璃亭" ],
-    },
-  },
-  {
-    en: "Xinyue Kiosk",
-    ja: "新月軒",
-    zhCN: "新月轩",
-    pronunciationJa: "しんげつけん",
-    tags: [ "liyue", "organization" ],
-  },
-  {
-    en: "Third-Round Knockout",
-    ja: "三杯酔",
-    zhCN: "三碗不过港",
-    pronunciationJa: "さんばいよい",
-    tags: [ "liyue", "organization" ],
-  },
-  {
     en: "Guhua Clan",
     ja: "古華派",
     zhCN: "古华派",
     pronunciationJa: "こかは",
-    tags: [ "liyue", "organization" ],
-  },
-  {
-    en: "Wanwen Bookhouse",
-    ja: "万文集舎",
-    zhCN: "万文集舍",
-    pronunciationJa: "まんぶんしゅうしゃ",
     tags: [ "liyue", "organization" ],
   },
   {
@@ -203,7 +130,7 @@
     ja: "死兆星号",
     zhCN: "死兆星号",
     pronunciationJa: "しちょうせいごう",
-    tags: [ "liyue", "organization", "location" ],
+    tags: [ "liyue", "organization", "location", "facility" ],
     notes: "Alcor は北斗七星の近くにある星で、日本ではカタカナでアルコルと記されるが、異称として死兆星とも呼ばれる。",
   },
   {
@@ -211,26 +138,6 @@
     ja: "雲翰社",
     zhCN: "云翰社",
     pronunciationJa: "うんかんしゃ",
-    tags: [ "liyue", "organization" ],
-  },
-  {
-    en: "Hanfeng's Ironmongers",
-    ja: "寒鋒鉄器",
-    zhCN: "寒锋铁器",
-    pronunciationJa: "かんほうてっき",
-    tags: [ "liyue", "organization" ],
-  },
-  {
-    en: "Heyu Tea House",
-    ja: "和裕茶館",
-    zhCN: "和裕茶馆",
-    tags: [ "liyue", "organization" ],
-  },
-  {
-    en: "Yanshang Teahouse",
-    ja: "岩上茶室",
-    pronunciationJa: "がんじょうちゃしつ",
-    zhCN: "岩上茶室",
     tags: [ "liyue", "organization" ],
   },
 
@@ -242,7 +149,7 @@
     ja: "鳴神大社",
     zhCN: "鸣神大社",
     pronunciationJa: "なるかみおおやしろ",
-    tags: [ "inazuma", "organization", "location" ],
+    tags: [ "inazuma", "organization", "location", "facility" ],
   },
   {
     en: "Tri-Commission",
@@ -287,27 +194,6 @@
     tags: [ "organization" ],
   },
   {
-    en: "Naganohara Fireworks",
-    ja: "長野原花火屋",
-    zhCN: "长野原烟花店",
-    pronunciationJa: "ながのはらはなびや",
-    tags: [ "inazuma", "organization" ],
-  },
-  {
-    en: "Komore Teahouse",
-    ja: "木漏茶屋",
-    zhCN: "木漏茶室",
-    pronunciationJa: "こもれちゃや",
-    tags: [ "inazuma", "organization" ],
-  },
-  {
-    en: "Yae Publishing House",
-    ja: "八重堂",
-    zhCN: "八重堂",
-    pronunciationJa: "やえどう",
-    tags: [ "inazuma", "organization" ],
-  },
-  {
     en: "Shogunate",
     ja: "幕府",
     zhCN: "幕府",
@@ -335,50 +221,16 @@
     pronunciationJa: "ぜんのうグルメチーム",
     tags: [ "inazuma", "organization" ],
   },
-  {
-    en: "Bantan Sango Detective Agency",
-    ja: "万端珊瑚探偵所",
-    zhCN: "万端珊瑚侦探社",
-    pronunciationJa: "ばんたんさんごたんていしょ",
-    tags: [ "inazuma", "organization" ],
-  },
-  {
-    en: "Amenoma Smithy",
-    ja: "天目鍛冶屋",
-    zhCN: "天目锻冶屋",
-    pronunciationJa: "あめのまかじや",
-    tags: [ "inazuma", "organization" ],
-  },
-  {
-    en: "Uyuu Restaurant",
-    ja: "烏有亭",
-    zhCN: "乌有亭",
-    pronunciationJa: "うゆうてい",
-    tags: [ "inazuma", "organization" ],
-  },
-  {
-    en: "Syavushi Bakshesh Shoppe",
-    ja: "豊穣の願い",
-    zhCN: "葱茏之愿",
-    pronunciationJa: "ほうじょうのねがい",
-    tags: [ "inazuma", "organization" ],
-  },
-  {
-    en: "Sailing Breeze",
-    ja: "セーリングブリーズ",
-    zhCN: "远航之风",
-    tags: [ "inazuma", "organization" ],
-  },
 
   //
   // Sumeru
   //
   {
-    en: "Sumeru Akademiya", // TODO Need confirmation
+    en: "Sumeru Akademiya",
     ja: "スメール教令院",
     zhCN: "须弥教令院",
     pronunciationJa: "スメールきょうれいいん",
-    tags: [ "sumeru", "organization" ],
+    tags: [ "sumeru", "organization" ], // TODO add facility tag?
     variants: {
       en: [ "Sumeru Academia" ],
     },
@@ -389,21 +241,6 @@
     ja: "レンジャー",
     notes: "Forest Rangers は、ティナリをリーダーとするスメールの組織。Rebel は、不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側。どちらも日本語では「レンジャー」となっている。",
     tags: [ "sumeru", "organization", "event" ],
-  },
-  {
-    en: "Zubayr Theater",
-    ja: "ズバイルシアター",
-    tags: [ "sumeru", "organization" ],
-  },
-  {
-    en: "Puspa Café",
-    ja: "プスパカフェ",
-    tags: [ "sumeru", "organization" ],
-  },
-  {
-    en: "Acara Crafts",
-    ja: "アジャンタ彫刻店",
-    tags: [ "sumeru", "organization" ],
   },
 
   //
@@ -424,13 +261,5 @@
     ja: "ファデュイ / 愚人衆",
     zhCN: "愚人众",
     tags: [ "snezhnaya", "organization" ],
-  },
-  // TODO need check
-  {
-    en: "Northland Bank",
-    ja: "北国銀行",
-    zhCN: "北国银行",
-    pronunciationJa: "きたくにぎんこう",
-    tags: [ "snezhnaya", "liyue", "organization" ],
   },
 ]

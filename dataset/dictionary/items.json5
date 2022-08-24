@@ -150,42 +150,6 @@
     zhCN: "绯红玉髓",
     tags: [ "item", "dragonspine" ],
   },
-  // TODO Need Check
-  {
-    en: "Crystalfly",
-    ja: "晶蝶",
-    zhCN: "晶蝶",
-    pronunciationJa: "しょうちょう",
-    tags: [ "item" ],
-  },
-  {
-    en: "Anemo Crystalfly",
-    ja: "風晶蝶",
-    zhCN: "风晶蝶",
-    pronunciationJa: "かぜしょうちょう",
-    tags: [ "item", "mondstadt" ],
-  },
-  {
-    en: "Geo Crystalfly",
-    ja: "岩晶蝶",
-    zhCN: "岩晶蝶",
-    pronunciationJa: "いわしょうちょう",
-    tags: [ "item", "liyue" ],
-  },
-  {
-    en: "Cryo Crystalfly",
-    ja: "氷晶蝶",
-    zhCN: "冰晶蝶",
-    pronunciationJa: "こおりしょうちょう",
-    tags: [ "item", "dragonspine" ],
-  },
-  {
-    en: "Electro Crystalfly",
-    ja: "雷晶蝶",
-    zhCN: "雷晶蝶",
-    pronunciationJa: "かみなりしょうちょう",
-    tags: [ "item", "inazuma" ],
-  },
   {
     en: "Crystal Core",
     ja: "晶核",
@@ -577,7 +541,7 @@
     zhCN: "符文之齿",
     tags: [ "levelup-material", "item" ],
   },
-  // 風魔龍トワリン
+  // Dvalin
   {
     en: "Dvalin's Plume",
     ja: "東風の羽根",
@@ -599,7 +563,7 @@
     pronunciationJa: "とうふうのといき",
     tags: [ "levelup-material", "item" ],
   },
-  // 奔狼の領主アンドリアス
+  // Andrius
   {
     en: "Tail of Boreas",
     ja: "北風のしっぽ",
@@ -620,7 +584,7 @@
     zhCN: "北风的魂匣",
     tags: [ "levelup-material", "item" ],
   },
-  // 公子タルタリヤ
+  // Childe
   {
     en: "Tusk of Monoceros Caeli",
     ja: "呑天の鯨・只角",
@@ -642,7 +606,7 @@
     pronunciationJa: "ぶれんのたましい・こえい",
     tags: [ "levelup-material", "item" ],
   },
-  // 若陀龍王
+  // Azhdaha
   {
     en: "Dragon Load's Crown",
     ja: "龍王の冠",
@@ -664,7 +628,7 @@
     pronunciationJa: "ときんのうろこ",
     tags: [ "levelup-material", "item" ],
   },
-  // 淑女シニョーラ
+  // La Signora
   {
     en: "Ashen Heart",
     ja: "灰燼の心",
@@ -686,7 +650,7 @@
     pronunciationJa: "ようめつのとき",
     tags: [ "levelup-material", "item" ],
   },
-  // 禍津御建鳴神命
+  // Magatsu Mitake Narukami no Mikoto
   {
     en: "Mudra of the Malefic General",
     ja: "凶将の手眼",
@@ -1995,7 +1959,7 @@
     en: "Onikabuto",
     ja: "オニカブトムシ",
     zhCN: "鬼兜虫",
-    tags: [ "specialty", "item", "inazuma" ],
+    tags: [ "specialty", "item", "living-being", "inazuma" ],
   },
   {
     en: "Crystal Marrow",

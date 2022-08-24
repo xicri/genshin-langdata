@@ -1,0 +1,212 @@
+[
+  //
+  // Mondstadt
+  //
+  {
+    en: "Angel's Share",
+    ja: "エンジェルズシェア",
+    zhCN: "天使的馈赠",
+    tags: [ "mondstadt", "facility" ],
+  },
+  {
+    en: "Cat's Tail",
+    ja: "キャッツテール",
+    zhCN: "猫尾酒馆",
+    tags: [ "mondstadt", "facility" ],
+  },
+  {
+    en: "Good Hunter",
+    ja: "鹿狩り",
+    zhCN: "猎鹿人",
+    tags: [ "mondstadt", "facility" ],
+  },
+
+  //
+  // Liyue
+  //
+  {
+    en: "Yujing Terrace",
+    ja: "玉京台",
+    zhCN: "玉京台",
+    pronunciationJa: "ぎょくけいだい",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Yuehai Pavilion",
+    ja: "月海亭",
+    zhCN: "月海亭",
+    pronunciationJa: "げつかいてい",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Wangsheng Funeral Parlor",
+    ja: "往生堂",
+    zhCN: "往生堂",
+    pronunciationJa: "おうじょうどう",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Wanmin Restaurant",
+    ja: "万民堂",
+    zhCN: "万名堂",
+    pronunciationJa: "ばんみんどう",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Bubu Pharmacy",
+    ja: "不卜廬",
+    zhCN: "不卜庐",
+    pronunciationJa: "ふぼくろ",
+    tags: [ "liyue", "facility" ],
+    variants: {
+      ja: [ "不卜盧" ],
+    },
+  },
+  {
+    en: "Wanwen Bookhouse",
+    ja: "万文集舎",
+    zhCN: "万文集舍",
+    pronunciationJa: "まんぶんしゅうしゃ",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Yanshang Teahouse",
+    ja: "岩上茶室",
+    pronunciationJa: "がんじょうちゃしつ",
+    zhCN: "岩上茶室",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Liuli Pavilion",
+    ja: "琉璃亭",
+    zhCN: "琉璃亭",
+    pronunciationJa: "るりてい",
+    tags: [ "liyue", "facility" ],
+    variants: {
+      ja: [ "瑠璃亭" ],
+    },
+  },
+  {
+    en: "Xinyue Kiosk",
+    ja: "新月軒",
+    zhCN: "新月轩",
+    pronunciationJa: "しんげつけん",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Third-Round Knockout",
+    ja: "三杯酔",
+    zhCN: "三碗不过港",
+    pronunciationJa: "さんばいよい",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Hanfeng's Ironmongers",
+    ja: "寒鋒鉄器",
+    zhCN: "寒锋铁器",
+    pronunciationJa: "かんほうてっき",
+    tags: [ "liyue", "facility" ],
+  },
+  {
+    en: "Heyu Tea House",
+    ja: "和裕茶館",
+    zhCN: "和裕茶馆",
+    tags: [ "liyue", "facility" ],
+  },
+
+  //
+  // Inazuma
+  //
+  {
+    en: "Naganohara Fireworks",
+    ja: "長野原花火屋",
+    zhCN: "长野原烟花店",
+    pronunciationJa: "ながのはらはなびや",
+    tags: [ "inazuma", "facility" ],
+  },
+  {
+    en: "Komore Teahouse",
+    ja: "木漏茶屋",
+    zhCN: "木漏茶室",
+    pronunciationJa: "こもれちゃや",
+    tags: [ "inazuma", "facility" ],
+  },
+  {
+    en: "Yae Publishing House",
+    ja: "八重堂",
+    zhCN: "八重堂",
+    pronunciationJa: "やえどう",
+    tags: [ "inazuma", "organization", "facility" ],
+  },
+  {
+    en: "Bantan Sango Detective Agency",
+    ja: "万端珊瑚探偵所",
+    zhCN: "万端珊瑚侦探社",
+    pronunciationJa: "ばんたんさんごたんていしょ",
+    tags: [ "inazuma", "facility" ],
+  },
+  {
+    en: "Amenoma Smithy",
+    ja: "天目鍛冶屋",
+    zhCN: "天目锻冶屋",
+    pronunciationJa: "あめのまかじや",
+    tags: [ "inazuma", "facility" ],
+  },
+  {
+    en: "Uyuu Restaurant",
+    ja: "烏有亭",
+    zhCN: "乌有亭",
+    pronunciationJa: "うゆうてい",
+    tags: [ "inazuma", "facility" ],
+  },
+  {
+    en: "Syavushi Bakshesh Shoppe",
+    ja: "豊穣の願い",
+    zhCN: "葱茏之愿",
+    pronunciationJa: "ほうじょうのねがい",
+    tags: [ "inazuma", "facility" ],
+  },
+  {
+    en: "Sailing Breeze",
+    ja: "セーリングブリーズ",
+    zhCN: "远航之风",
+    tags: [ "inazuma", "facility" ],
+  },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "Grand Bazaar",
+    ja: "グランドバザール",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Zubayr Theater",
+    ja: "ズバイルシアター",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
+    en: "Puspa Café",
+    ja: "プスパカフェ",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
+    en: "Acara Crafts",
+    ja: "アジャンタ彫刻店",
+    tags: [ "sumeru", "facility" ],
+  },
+
+  //
+  // Snezhnaya & Fatui
+  //
+
+  // TODO need check
+  {
+    en: "Northland Bank",
+    ja: "北国銀行",
+    zhCN: "北国银行",
+    pronunciationJa: "きたくにぎんこう",
+    tags: [ "snezhnaya", "liyue", "facility" ],
+  },
+]
