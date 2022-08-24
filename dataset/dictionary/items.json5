@@ -1991,7 +1991,6 @@
     tags: [ "specialty", "item", "inazuma" ],
   },
   // Sumeru
-  // TODO check if these are really specialties
   {
     en: "Kalpalata Lotus",
     ja: "カルパラタ蓮",
