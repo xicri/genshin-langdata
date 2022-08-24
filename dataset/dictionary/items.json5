@@ -1993,11 +1993,6 @@
   // Sumeru
   // TODO check if these are really specialties
   {
-    en: "Zaytun Peach",
-    ja: "ザイトゥン桃",
-    tags: [ "specialty", "item", "sumeru" ],
-  },
-  {
     en: "Kalpalata Lotus",
     ja: "カルパラタ蓮",
     pronunciationJa: "カルパラタはす",

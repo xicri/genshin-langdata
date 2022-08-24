@@ -1234,4 +1234,9 @@
     zhCN: "星茸",
     tags: [ "food", "liyue" ],
   },
+  {
+    en: "Zaytun Peach",
+    ja: "ザイトゥン桃",
+    tags: [ "specialty", "item", "sumeru" ],
+  },
 ]
