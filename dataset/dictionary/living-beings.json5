@@ -167,8 +167,6 @@
   //
   // Sumeru
   //
-
-  // TODO Check if it is an enemy after v3.0 release
   {
     en: "Dusk Bird",
     ja: "瞑彩鳥",
@@ -179,23 +177,23 @@
     en: "Sumpter Beast",
     ja: "駄獣",
     pronunciationJa: "だじゅう",
-    tags: [ "living-being", "sumeru" ],
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Shaggy Sumpter Beast",
     ja: "モジャモジャ駄獣",
     pronunciationJa: "モジャモジャだじゅう",
-    tags: [ "living-being", "sumeru" ],
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Rishboland Tiger",
     ja: "リシュボラン虎",
     pronunciationJa: "リシュボランとら",
-    tags: [ "living-being", "sumeru" ],
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Spinocrocodile",
     ja: "スピノクロコ",
-    tags: [ "living-being", "sumeru" ],
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
 ]
