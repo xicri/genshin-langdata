@@ -4,7 +4,7 @@
     ja: "仙霊",
     zhCN: "仙灵",
     pronunciationJa: "せんれい",
-    tags: [ "object" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Seelie Court",
@@ -18,20 +18,20 @@
     ja: "温暖仙霊",
     zhCN: "温暖仙灵",
     pronunciationJa: "おんだんせんれい",
-    tags: [ "object", "dragonspine" ],
+    tags: [ "living-being", "dragonspine" ],
   },
   {
     en: "Electro Seelie",
     ja: "雷霊",
     zhCN: "雷灵",
     pronunciationJa: "らいれい",
-    tags: [ "object", "inazuma" ],
+    tags: [ "living-being", "inazuma" ],
   },
   {
     en: "Luminous Seelie",
     ja: "光彩仙霊",
     zhCN: "发光仙灵", // TODO Need Check
-    tags: [ "object", "liyue" ],
+    tags: [ "living-being", "liyue" ],
   },
   // TODO Need Check
   {
@@ -39,35 +39,35 @@
     ja: "晶蝶",
     zhCN: "晶蝶",
     pronunciationJa: "しょうちょう",
-    tags: [ "item" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Anemo Crystalfly",
     ja: "風晶蝶",
     zhCN: "风晶蝶",
     pronunciationJa: "かぜしょうちょう",
-    tags: [ "item", "mondstadt" ],
+    tags: [ "living-being", "mondstadt" ],
   },
   {
     en: "Geo Crystalfly",
     ja: "岩晶蝶",
     zhCN: "岩晶蝶",
     pronunciationJa: "いわしょうちょう",
-    tags: [ "item", "liyue" ],
+    tags: [ "living-being", "liyue" ],
   },
   {
     en: "Cryo Crystalfly",
     ja: "氷晶蝶",
     zhCN: "冰晶蝶",
     pronunciationJa: "こおりしょうちょう",
-    tags: [ "item", "dragonspine" ],
+    tags: [ "living-being", "dragonspine" ],
   },
   {
     en: "Electro Crystalfly",
     ja: "雷晶蝶",
     zhCN: "雷晶蝶",
     pronunciationJa: "かみなりしょうちょう",
-    tags: [ "item", "inazuma" ],
+    tags: [ "living-being", "inazuma" ],
   },
   {
     en: "Forest Boar",
@@ -76,21 +76,21 @@
     variants: {
       zhCN: [ "野猪" ],
     },
-    tags: [ "object" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Snowboar",
     ja: "雪のイノシシ",
     zhCN: "雪猪",
     pronunciationJa: "ゆきのイノシシ",
-    tags: [ "object" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Great Snowboar King",
     ja: "雪のイノシシ王",
     zhCN: "大雪猪王",
     pronunciationJa: "ゆきのイノシシおう",
-    tags: [ "object", "enemy" ],
+    tags: [ "living-being", "enemy" ],
     variants: {
       ja: [ "イノシシ王" ],
     },
@@ -98,41 +98,41 @@
   {
     en: "Shroomboar",
     ja: "キノシシ",
-    tags: [ "object", "sumeru" ],
+    tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Weasel Thief",
     ja: "宝盗イタチ",
     zhCN: "盗宝鼬",
     pronunciationJa: "ほうとうイタチ",
-    tags: [ "object" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Amateur Weasel Thief",
     ja: "宝盗イタチ・新米",
     zhCN: "新手盗宝鼬",
     pronunciationJa: "ほうとうイタチ・しんまい",
-    tags: [ "object" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Hoarder Weasel Thief",
     ja: "宝盗イタチ・中堅",
     zhCN: "藏金盗宝鼬",
     pronunciationJa: "ほうとうイタチ・ちゅうけん",
-    tags: [ "object" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Golden Weasel Thief",
     ja: "宝盗イタチ・黄金",
     zhCN: "大黄金盗宝鼬",
     pronunciationJa: "ほうとうイタチ・おうごん",
-    tags: [ "object" ],
+    tags: [ "living-being" ],
   },
   {
     en: "Bluethunder Weasel",
     ja: "青雷イタチ",
     zhCN: "青雷鼬",
-    tags: [ "object", "liyue" ],
+    tags: [ "living-being", "liyue" ],
   },
 
   //
@@ -142,7 +142,7 @@
     en: "Lucklight Fly",
     ja: "吉光虫",
     zhCN: "吉光虫",
-    tags: [ "object", "liyue" ],
+    tags: [ "living-being", "liyue" ],
   },
 
   //
@@ -153,7 +153,7 @@
     ja: "妖狸",
     zhCN: "妖狸",
     pronunciationJa: "ばけだぬき",
-    tags: [ "object", "inazuma" ],
+    tags: [ "living-being", "inazuma" ],
   },
   // Enkanomiya
   {
@@ -161,7 +161,7 @@
     ja: "冥魚",
     zhCN: "冥鱼",
     pronunciationJa: "めいぎょ", // TODO Need Check
-    tags: [ "object", "inazuma" ],
+    tags: [ "living-being", "inazuma" ],
   },
 
   //
@@ -172,30 +172,30 @@
   {
     en: "Dusk Bird",
     ja: "瞑彩鳥",
-    tags: [ "object", "sumeru" ],
+    tags: [ "living-being", "sumeru" ],
   },
   // TODO Sumpter Beast might be removed. I might keep only Shaggy Sumpter Beast.
   {
     en: "Sumpter Beast",
     ja: "駄獣",
     pronunciationJa: "だじゅう",
-    tags: [ "object", "sumeru" ],
+    tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Shaggy Sumpter Beast",
     ja: "モジャモジャ駄獣",
     pronunciationJa: "モジャモジャだじゅう",
-    tags: [ "object", "sumeru" ],
+    tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Rishboland Tiger",
     ja: "リシュボラン虎",
     pronunciationJa: "リシュボランとら",
-    tags: [ "object", "sumeru" ],
+    tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Spinocrocodile",
     ja: "スピノクロコ",
-    tags: [ "object", "sumeru" ],
+    tags: [ "living-being", "sumeru" ],
   },
 ]

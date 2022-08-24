@@ -124,6 +124,14 @@
       "ja": "原神に登場するオブジェクトの英語表記一覧"
     }
   },
+  "living-being": {
+    "en": "Living-Being",
+    "ja": "生物",
+    "title": {
+      "en": "Japanese translations for living-beings in Genshin Impact",
+      "ja": "原神に登場する生物の英語表記一覧"
+    }
+  },
   "organization": {
     "en": "Organization",
     "ja": "組織",
