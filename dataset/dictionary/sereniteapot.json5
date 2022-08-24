@@ -198,6 +198,16 @@
     pronunciationJa: "おとぎざい",
     tags: [ "sereniteapot", "inazuma" ],
   },
+  {
+    en: "Karmaphala Wood",
+    ja: "業果材",
+    tags: [ "sereniteapot", "sumeru" ],
+  },
+  {
+    en: "Adhigama Wood",
+    ja: "証悟材",
+    tags: [ "sereniteapot", "sumeru" ],
+  },
 
   //
   // Furnishing (調度品)
