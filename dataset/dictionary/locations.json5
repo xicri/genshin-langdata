@@ -1048,6 +1048,7 @@
     ja: "スメールシティ",
     tags: [ "sumeru", "location" ],
   },
+
   {
     en: "Avidya Forest",
     ja: "アビディアの森",
@@ -1060,11 +1061,44 @@
     pronunciationJa: "ガンダルヴァむら",
     tags: [ "sumeru", "location" ],
   },
+
+  {
+    en: "Ardravi Valley",
+    ja: "アルダラビ河谷",
+    pronunciationJa: "アルダラビかこく",
+    tags: [ "sumeru", "location" ],
+  },
   {
     en: "Port Ormos",
     ja: "オルモス港",
     zhCN: "奥摩斯港",
     pronunciationJa: "オルモスこう",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Lokapala Jungle",
+    ja: "ローカパーラ密林",
+    pronunciationJa: "ローカパーラみつりん",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Ashavan Realm",
+    ja: "アシャヴァンレルム",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Vissudha Field",
+    ja: "ヴィシュッダ辺土",
+    pronunciationJa: "ヴィシュッダへんど",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Vanarana",
+    ja: "ヴァナラーナ",
     tags: [ "sumeru", "location" ],
   },
   {
@@ -1073,34 +1107,7 @@
     pronunciationJa: "アアルむら",
     tags: [ "sumeru", "location" ],
   },
-  {
-    en: "Lokapala Jungle",
-    ja: "ローカパーラ密林",
-    pronunciationJa: "ローカパーラみつりん",
-    tags: [ "sumeru", "location" ],
-  },
-  {
-    en: "Ardravi Valley",
-    ja: "アルダラビ河谷",
-    pronunciationJa: "アルダラビかこく",
-    tags: [ "sumeru", "location" ],
-  },
-  {
-    en: "Ashavan Realm",
-    ja: "アシャヴァンレルム",
-    tags: [ "sumeru", "location" ],
-  },
-  {
-    en: "Vissudha Field",
-    ja: "ヴィシュッダ辺土",
-    pronunciationJa: "ヴィシュッダへんど",
-    tags: [ "sumeru", "location" ],
-  },
-  {
-    en: "Vanarana",
-    ja: "ヴァナラーナ",
-    tags: [ "sumeru", "location" ],
-  },
+  // TODO this word might be deleted
   {
     en: "Dharma Forest",
     ja: "諸法の森",
