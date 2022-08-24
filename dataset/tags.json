@@ -140,6 +140,14 @@
       "ja": "原神に登場する組織の英語表記一覧"
     }
   },
+  "facility": {
+    "en": "Shop & Facility",
+    "ja": "店舗・施設等",
+    "title": {
+      "en": "Japanese translations for shops & facilities in Genshin Impact",
+      "ja": "原神に登場する店舗・施設等の英語表記一覧"
+    }
+  },
   "quest-archon": {
     "en": "Archon Quest",
     "ja": "魔神任務",

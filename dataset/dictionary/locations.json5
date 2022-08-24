@@ -301,7 +301,7 @@
     ja: "群玉閣",
     zhCN: "群玉阁",
     pronunciationJa: "ぐんぎょくかく",
-    tags: [ "liyue", "location" ],
+    tags: [ "liyue", "location", "facility" ],
   },
   {
     en: "Blackcliff Forge",
@@ -314,14 +314,14 @@
     en: "Pearl Galley",
     ja: "珠鈿舫",
     zhCN: "珠钿舫",
-    tags: [ "liyue", "location", "organization" ],
+    tags: [ "liyue", "facility" ],
   },
   {
     en: "Golden House",
     ja: "黄金屋",
     zhCN: "黄金屋",
     pronunciationJa: "おうごんや",
-    tags: [ "liyue", "location", "domain" ],
+    tags: [ "liyue", "location", "domain", "facility" ],
   },
 
   {
@@ -482,7 +482,7 @@
     ja: "望舒旅館",
     zhCN: "望舒客栈",
     pronunciationJa: "ぼうじょりょかん",
-    tags: [ "liyue", "location", "organization" ],
+    tags: [ "liyue", "location", "facility" ],
   },
   {
     en: "Dihua Marsh",
@@ -729,7 +729,7 @@
     ja: "神里屋敷",
     zhCN: "神里屋敷",
     pronunciationJa: "かみさとやしき",
-    tags: [ "inazuma", "location" ],
+    tags: [ "inazuma", "location", "facility" ],
   },
   {
     en: "Ritou",
@@ -779,7 +779,7 @@
     ja: "九条陣屋",
     zhCN: "九条阵屋",
     pronunciationJa: "くじょうじんや",
-    tags: [ "inazuma", "location" ],
+    tags: [ "inazuma", "location", "facility" ],
   },
 
   {
@@ -812,7 +812,7 @@
     ja: "藤兜砦",
     zhCN: "藤兜砦",
     pronunciationJa: "ふじとうとりで",
-    tags: [ "inazuma", "location" ],
+    tags: [ "inazuma", "location", "facility" ],
   },
   {
     en: "Fort Mumei",
@@ -855,7 +855,7 @@
     ja: "珊瑚宮",
     zhCN: "珊瑚宫",
     pronunciationJa: "さんごのみや",
-    tags: [ "inazuma", "location" ],
+    tags: [ "inazuma", "location", "facility" ],
     _meta: {
       translator: {
         enToJa: true,
@@ -966,7 +966,7 @@
     ja: "浅瀬神社",
     zhCN: "浅濑神社",
     pronunciationJa: "あさせじんじゃ",
-    tags: [ "inazuma", "location" ],
+    tags: [ "inazuma", "location", "facility" ],
   },
   {
     en: "Amakumo Peak",
@@ -1151,7 +1151,7 @@
     en: "Zapolyarny Palace",
     ja: "スネージナヤパレス",
     zhCN: "至冬宫",
-    tags: [ "snezhnaya", "location" ],
+    tags: [ "snezhnaya", "location", "facility" ],
     notes: "Zapolyarny はロシア北西部に実在する町の名前",
   },
 

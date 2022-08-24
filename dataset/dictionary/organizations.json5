@@ -29,7 +29,7 @@
     ja: "西風教会",
     zhCN: "西风教会",
     pronunciationJa: "セピュロスきょうかい",
-    tags: [ "mondstadt", "organization" ],
+    tags: [ "mondstadt", "organization", "facility" ],
     variants: {
       en: [ "Church of Favonious" ],
     },
@@ -130,7 +130,7 @@
     ja: "死兆星号",
     zhCN: "死兆星号",
     pronunciationJa: "しちょうせいごう",
-    tags: [ "liyue", "organization", "location" ],
+    tags: [ "liyue", "organization", "location", "facility" ],
     notes: "Alcor は北斗七星の近くにある星で、日本ではカタカナでアルコルと記されるが、異称として死兆星とも呼ばれる。",
   },
   {
@@ -149,7 +149,7 @@
     ja: "鳴神大社",
     zhCN: "鸣神大社",
     pronunciationJa: "なるかみおおやしろ",
-    tags: [ "inazuma", "organization", "location" ],
+    tags: [ "inazuma", "organization", "location", "facility" ],
   },
   {
     en: "Tri-Commission",
@@ -230,7 +230,7 @@
     ja: "スメール教令院",
     zhCN: "须弥教令院",
     pronunciationJa: "スメールきょうれいいん",
-    tags: [ "sumeru", "organization" ],
+    tags: [ "sumeru", "organization" ], // TODO add facility tag?
     variants: {
       en: [ "Sumeru Academia" ],
     },
