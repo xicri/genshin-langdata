@@ -289,20 +289,6 @@
     tags: [ "liyue", "location" ],
   },
   {
-    en: "Yujing Terrace",
-    ja: "玉京台",
-    zhCN: "玉京台",
-    pronunciationJa: "ぎょくけいだい",
-    tags: [ "liyue", "location" ],
-  },
-  {
-    en: "Yuehai Pavilion",
-    ja: "月海亭",
-    zhCN: "月海亭",
-    pronunciationJa: "げつかいてい",
-    tags: [ "liyue", "location" ],
-  },
-  {
     en: "Chihu Rock",
     ja: "チ虎岩",
     zhCN: "吃虎岩 / 螭虎岩",
@@ -1060,11 +1046,6 @@
   {
     en: "Sumeru City",
     ja: "スメールシティ",
-    tags: [ "sumeru", "location" ],
-  },
-  {
-    en: "Grand Bazaar",
-    ja: "グランドバザール",
     tags: [ "sumeru", "location" ],
   },
   {
