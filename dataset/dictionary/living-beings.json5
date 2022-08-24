@@ -168,6 +168,11 @@
   // Sumeru
   //
   {
+    en: "Aranara",
+    ja: "アランナラ",
+    tags: [ "living-being", "sumeru" ],
+  },
+  {
     en: "Dusk Bird",
     ja: "瞑彩鳥",
     tags: [ "living-being", "sumeru" ],

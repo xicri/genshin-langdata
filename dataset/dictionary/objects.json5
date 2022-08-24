@@ -162,6 +162,12 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Auspicious Branches",
+    ja: "クサナリの枝",
+    pronunciationJa: "クサナリのえだ",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Thunder Sphere",
     ja: "雷極",
     zhCN: "雷极",
@@ -373,6 +379,11 @@
     en: "Tri-Lakshana Creature",
     ja: "トライステート生物",
     pronunciationJa: "トライステートせいぶつ",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Bouncy Mushroom",
+    ja: "ぴょんぴょんキノコ",
     tags: [ "object", "sumeru" ],
   },
   {

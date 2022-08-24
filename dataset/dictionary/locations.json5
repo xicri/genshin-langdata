@@ -1048,6 +1048,11 @@
     ja: "スメールシティ",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Treasures Street",
+    ja: "トレジャーストリート",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Avidya Forest",
@@ -1059,6 +1064,24 @@
     en: "Gandharva Ville",
     ja: "ガンダルヴァ村",
     pronunciationJa: "ガンダルヴァむら",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Gandha Hill",
+    ja: "ガンダ丘",
+    pronunciationJa: "ガンダおか",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Chinvat Ravine",
+    ja: "チンワト峡谷",
+    pronunciationJa: "チンワトきょうこく",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Yazadaha Pool",
+    ja: "ヤザダハ池",
+    pronunciationJa: "ヤザダハいけ",
     tags: [ "sumeru", "location" ],
   },
 
@@ -1075,6 +1098,18 @@
     pronunciationJa: "オルモスこう",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Vimara Village",
+    ja: "ヴィマラ村",
+    pronunciationJa: "ヴィマラむら",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Devantaka Mountain",
+    ja: "デーヴァーンタカ山",
+    pronunciationJa: "デーヴァーンタカやま",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Lokapala Jungle",
@@ -1082,10 +1117,56 @@
     pronunciationJa: "ローカパーラみつりん",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Mawtiyima Forest",
+    ja: "マウティーマ稠林",
+    pronunciationJa: "マウティーマちゅうりん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Palace of Alcazarzaray",
+    ja: "アルカサルザライパレス",
+    tags: [ "sumeru", "location", "facility" ],
+  },
+  {
+    en: "Chatrakam Cave",
+    ja: "チャトラカム洞窟",
+    pronunciationJa: "チャトラカムどうくつ",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Ashavan Realm",
     ja: "アシャヴァンレルム",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Pardis Dhyai",
+    ja: "パルディスディアイ",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Yasna Monument",
+    ja: "ヤスナ幽境",
+    pronunciationJa: "ヤスナゆうきょう",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Apam Woods",
+    ja: "アパーム叢林",
+    pronunciationJa: "アパームそうりん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Ruins of Dahri",
+    ja: "ダーリ遺跡",
+    pronunciationJa: "ダーリいせき",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Caravan Ribat",
+    ja: "キャラバン宿駅",
+    pronunciationJa: "キャラバンしゅくえき",
     tags: [ "sumeru", "location" ],
   },
 

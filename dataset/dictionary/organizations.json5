@@ -242,6 +242,11 @@
     notes: "Forest Rangers は、ティナリをリーダーとするスメールの組織。Rebel は、不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側。どちらも日本語では「レンジャー」となっている。",
     tags: [ "sumeru", "organization", "event" ],
   },
+  {
+    en: "Corps of Thirty",
+    ja: "三十人団",
+    tags: [ "sumeru", "organization" ],
+  },
 
   //
   // Fontaine

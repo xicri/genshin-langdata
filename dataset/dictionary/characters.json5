@@ -1800,7 +1800,7 @@
   },
 
   //
-  // Sumeru
+  // Sumeru - Playable Characters
   //
   {
     en: "Cyno",
@@ -1911,6 +1911,30 @@
     variants: {
       ja: [ "そうじん", "くさかみ", "くさがみ" ],
     },
+  },
+
+  //
+  // Sumeru - NPCs
+  //
+  {
+    en: "Haypasia",
+    ja: "ハイパシア",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Rohawi",
+    ja: "ロハウェイ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Ahangar",
+    ja: "アハンガル",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Scarlet King",
+    ja: "スカーレットキング",
+    tags: [ "sumeru", "character-sub" ],
   },
 
   //

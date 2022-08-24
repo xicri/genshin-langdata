@@ -649,6 +649,16 @@
     pronunciationJa: "しおんうんげい",
     tags: [ "food", "event" ],
   },
+  {
+    en: "Pita Pocket",
+    ja: "ピタ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Butter Chicken",
+    ja: "バターチキン",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -1237,6 +1247,16 @@
   {
     en: "Zaytun Peach",
     ja: "ザイトゥン桃",
+    tags: [ "food", "sumeru" ],
+  },
+  {
+    en: "Sumeru Rose",
+    ja: "スメールローズ",
+    tags: [ "food", "sumeru" ],
+  },
+  {
+    en: "Harra Fruit",
+    ja: "ハッラの実",
     tags: [ "food", "sumeru" ],
   },
 ]

@@ -124,6 +124,13 @@
     notes: "oculus はラテン語で「目」の意",
   },
   {
+    en: "Dendroculus",
+    ja: "失われた草神の瞳",
+    pronunciationJa: "うしなわれたそうしんのひとみ",
+    tags: [ "item", "sumeru" ],
+    notes: "oculus はラテン語で「目」の意",
+  },
+  {
     en: "Anemoculus Resonance Stone",
     ja: "風神の瞳の共鳴石",
     zhCN: "风神瞳共鸣石",
@@ -157,6 +164,13 @@
     pronunciationJa: "しょうかく",
     tags: [ "item" ],
   },
+  {
+    en: "City States Sigil",
+    ja: "七国の印",
+    pronunciationJa: "しちこくのしるし",
+    notes: "「(元素)の印」の総称",
+    tags: [ "item" ],
+  },
   // TODO Need Check
   {
     en: "Anemo Sigil",
@@ -178,6 +192,12 @@
     zhCN: "雷之印",
     pronunciationJa: "かみなりのしるし",
     tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Dendro Sigil",
+    ja: "草の印",
+    pronunciationJa: "くさのしるし",
+    tags: [ "item", "sumeru" ],
   },
   {
     en: "Liyue Shrine of Depths Key",
@@ -539,6 +559,11 @@
     en: "Runic Fang",
     ja: "符文の歯車",
     zhCN: "符文之齿",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Thunderclap Fruitcore",
+    ja: "隠雷の実",
     tags: [ "levelup-material", "item" ],
   },
   // Dvalin
@@ -1689,6 +1714,12 @@
     tags: [ "item" ],
   },
   {
+    en: "Robust Fungal Nucleus",
+    ja: "キノコンの壮菌核",
+    pronunciationJa: "キノコンのそうきんかく", // No reference
+    tags: [ "item" ],
+  },
+  {
     en: "Gloomy Statuette",
     ja: "暗晦の彫刻",
     zhCN: "晦暗刻像",
@@ -1707,6 +1738,22 @@
     ja: "幽邃なる彫刻",
     zhCN: "幽邃刻像",
     pronunciationJa: "ゆうすいなるちょうこく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Faded Red Satin",
+    ja: "色褪せた赤い絹",
+    pronunciationJa: "いろあせたあかいきぬ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Trimmed Red Silk",
+    ja: "縁飾の赤い絹",
+    tags: [ "item" ],
+  },
+  {
+    en: "Rich Red Brocade",
+    ja: "金織の赤い絹",
     tags: [ "item" ],
   },
 
@@ -2001,6 +2048,11 @@
     en: "Nilotpala Lotus",
     ja: "サウマラタ蓮",
     pronunciationJa: "サウマラタはす",
+    tags: [ "specialty", "item", "sumeru" ],
+  },
+  {
+    en: "Rukkhashava Mushrooms",
+    ja: "ルッカデヴァタダケ",
     tags: [ "specialty", "item", "sumeru" ],
   },
 
