@@ -577,7 +577,7 @@
     zhCN: "符文之齿",
     tags: [ "levelup-material", "item" ],
   },
-  // 風魔龍トワリン
+  // Dvalin
   {
     en: "Dvalin's Plume",
     ja: "東風の羽根",
@@ -599,7 +599,7 @@
     pronunciationJa: "とうふうのといき",
     tags: [ "levelup-material", "item" ],
   },
-  // 奔狼の領主アンドリアス
+  // Andrius
   {
     en: "Tail of Boreas",
     ja: "北風のしっぽ",
@@ -620,7 +620,7 @@
     zhCN: "北风的魂匣",
     tags: [ "levelup-material", "item" ],
   },
-  // 公子タルタリヤ
+  // Childe
   {
     en: "Tusk of Monoceros Caeli",
     ja: "呑天の鯨・只角",
@@ -642,7 +642,7 @@
     pronunciationJa: "ぶれんのたましい・こえい",
     tags: [ "levelup-material", "item" ],
   },
-  // 若陀龍王
+  // Azhdaha
   {
     en: "Dragon Load's Crown",
     ja: "龍王の冠",
@@ -664,7 +664,7 @@
     pronunciationJa: "ときんのうろこ",
     tags: [ "levelup-material", "item" ],
   },
-  // 淑女シニョーラ
+  // La Signora
   {
     en: "Ashen Heart",
     ja: "灰燼の心",
@@ -686,7 +686,7 @@
     pronunciationJa: "ようめつのとき",
     tags: [ "levelup-material", "item" ],
   },
-  // 禍津御建鳴神命
+  // Magatsu Mitake Narukami no Mikoto
   {
     en: "Mudra of the Malefic General",
     ja: "凶将の手眼",
