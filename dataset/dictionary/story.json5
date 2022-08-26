@@ -322,15 +322,17 @@
   },
   {
     en: "Amurta",
-    ja: "生論派",
-    zhCN: "生论派",
+    ja: "生論派 / アムリタ学院",
+    // zhCN: "生论派", // TODO zh-translation for アムリタ学院
     tags: [ "sumeru" ],
+    notes: "英語版では「生論派」と「アムリタ学院」は区別されていないようである。\"Amurta Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もある",
   },
   {
     en: "Haravatat",
-    ja: "知論派",
-    zhCN: "知论派",
+    ja: "知論派 / ハルヴァタット学院",
+    // zhCN: "知论派", // TODO zh-translation for ハルヴァタット学院
     tags: [ "sumeru" ],
+    notes: "英語版では「知論派」と「ハルヴァタット学院」は区別されていないようである。\"Haravatat Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もあると思われる",
   },
   {
     en: "Akasha",
