@@ -2055,6 +2055,12 @@
     ja: "ルッカデヴァタダケ",
     tags: [ "specialty", "item", "sumeru" ],
   },
+  {
+    en: "Padisarah",
+    ja: "パティサラ",
+    tags: [ "specialty", "item", "sumeru" ],
+    notes: "英語版では Pa\"d\"isarah と D の音になっていることに注意。",
+  },
 
   //
   // Plants
