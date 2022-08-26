@@ -355,8 +355,9 @@
   },
   {
     en: "Sabzeruz Festival",
-    ja: "花神誕日",
-    pronunciationJa: "かしんたんじつ",
+    ja: "花神誕日 / 花神誕祭",
+    pronunciationJa: "かしんたんじつ / かしんたんさい",
+    notes: "英語版では両者は区別されていないように思われる",
     tags: [ "sumeru" ],
   },
   {
