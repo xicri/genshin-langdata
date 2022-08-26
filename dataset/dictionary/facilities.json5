@@ -189,6 +189,7 @@
   {
     en: "Acara Crafts",
     ja: "アジャンタ彫刻店",
+    pronunciationJa: "アジャンタちょうこくてん",
     tags: [ "sumeru", "facility" ],
   },
 
