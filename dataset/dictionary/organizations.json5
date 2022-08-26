@@ -237,6 +237,13 @@
     notes: "英語版では v2.8 で Sumeru Academia から変更された。",
   },
   {
+    en: "The Akademiya",
+    ja: "教令院",
+    pronunciationJa: "きょうれいいん",
+    tags: [ "sumeru", "organization", "location", "facility" ],
+    notes: "スメール教令院のマップ上の表記",
+  },
+  {
     en: "Forest Rangers / Rebel",
     ja: "レンジャー",
     notes: "Forest Rangers は、ティナリをリーダーとするスメールの組織。Rebel は、不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側。どちらも日本語では「レンジャー」となっている。",
@@ -245,6 +252,11 @@
   {
     en: "Corps of Thirty",
     ja: "三十人団",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Ayn Al-Ahmar",
+    ja: "アフマルの目",
     tags: [ "sumeru", "organization" ],
   },
 

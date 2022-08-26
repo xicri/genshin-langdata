@@ -187,6 +187,27 @@
     tags: [ "sumeru", "facility" ],
   },
   {
+    en: "Citadel of Regzar",
+    ja: "レグザー庁",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
+    en: "Bimarstan",
+    ja: "ビマリスタン",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
+    en: "Djafar Tavern",
+    ja: "ジャファータバーン",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
+    en: "Wikala Funduq",
+    ja: "ウィカラ隊商宿",
+    pronunciationJa: "ウィカラたいしょうやど", // Need Confirmation
+    tags: [ "sumeru", "facility" ],
+  },
+  {
     en: "Acara Crafts",
     ja: "アジャンタ彫刻店",
     pronunciationJa: "アジャンタちょうこくてん",

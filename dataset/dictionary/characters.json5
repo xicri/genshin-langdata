@@ -586,6 +586,11 @@
     tags: [ "mondstadt", "character-sub" ],
   },
   {
+    en: "Tsarevich",
+    ja: "ツァレーヴィチ",
+    tags: [ "mondstadt", "snezhnaya", "character-sub" ],
+  },
+  {
     en: "Nantuck",
     ja: "ナンタック",
     zhCN: "楠塔克",
@@ -1844,6 +1849,13 @@
     tags: [ "sumeru" ],
   },
   {
+    en: "Eleazar",
+    ja: "魔鱗病",
+    pronunciationJa: "まりんびょう",
+    tags: [ "sumeru" ],
+    notes: "Eleazar の原義はユダヤ人の男性名で、聖書にも Eleazar という司教が登場する。意味は「神が助けた」",
+  },
+  {
     en: "Dori",
     ja: "ドリー",
     zhCN: "多莉",
@@ -1918,8 +1930,51 @@
     tags: [ "sumeru", "title" ],
   },
   {
+    en: "Azar",
+    ja: "アザール",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Grand Sage",
+    ja: "大賢者",
+    pronunciationJa: "だいけんじゃ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "sage",
+    ja: "賢者",
+    pronunciationJa: "けんじゃ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "The Six Great Sages",
+    ja: "六大賢者",
+    pronunciationJa: "ろくだいけんじゃ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Khajeh",
+    ja: "カジェ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Sangemah Bay",
+    ja: "サングマハベイ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
     en: "Haypasia",
     ja: "ハイパシア",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Dunyarzad",
+    ja: "ドニアザード",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Asfand",
+    ja: "アスファンド",
     tags: [ "sumeru", "character-sub" ],
   },
   {

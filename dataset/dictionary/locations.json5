@@ -1058,6 +1058,11 @@
     ja: "グランドバザール",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Sanctuary of Surasthana",
+    ja: "スラサタンナ聖処",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Avidya Forest",
