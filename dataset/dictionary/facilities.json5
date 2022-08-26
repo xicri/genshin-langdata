@@ -177,11 +177,6 @@
   // Sumeru
   //
   {
-    en: "Grand Bazaar",
-    ja: "グランドバザール",
-    tags: [ "sumeru", "location" ],
-  },
-  {
     en: "Zubayr Theater",
     ja: "ズバイルシアター",
     tags: [ "sumeru", "facility" ],

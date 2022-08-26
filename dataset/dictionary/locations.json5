@@ -1053,6 +1053,11 @@
     ja: "トレジャーストリート",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Grand Bazaar",
+    ja: "グランドバザール",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Avidya Forest",
