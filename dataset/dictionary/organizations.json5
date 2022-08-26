@@ -230,7 +230,7 @@
     ja: "スメール教令院",
     zhCN: "须弥教令院",
     pronunciationJa: "スメールきょうれいいん",
-    tags: [ "sumeru", "organization" ], // TODO add facility tag?
+    tags: [ "sumeru", "organization", "location", "facility" ],
     variants: {
       en: [ "Sumeru Academia" ],
     },
