@@ -1891,12 +1891,6 @@
     tags: [ "sumeru", "title" ],
   },
   {
-    en: "Goddess of Flowers",
-    ja: "花神",
-    pronunciationJa: "かしん",
-    tags: [ "sumeru", "title" ],
-  },
-  {
     en: "Greater Load Rukkhadevata",
     ja: "マハールッカデヴァタ",
     zhCN: "大慈树王",
@@ -1916,6 +1910,12 @@
   //
   // Sumeru - NPCs
   //
+  {
+    en: "Goddess of Flowers",
+    ja: "花神",
+    pronunciationJa: "かしん",
+    tags: [ "sumeru", "title" ],
+  },
   {
     en: "Haypasia",
     ja: "ハイパシア",
