@@ -1165,10 +1165,10 @@
     tags: [ "liyue", "character-sub" ],
   },
   {
-    en: "Khedive",
-    ja: "ヘディーヴ",
-    zhCN: "海迪夫",
-    tags: [ "liyue", "character-sub" ],
+    en: "Khedive Pursina",
+    ja: "ヘディーヴ・プルシナ",
+    // zhCN: "海迪夫", // TODO zh-translation for Pursina
+    tags: [ "liyue", "sumeru", "character-sub" ],
   },
   {
     en: "Clitopho",
