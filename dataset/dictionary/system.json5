@@ -320,11 +320,12 @@
     tags: [ "element" ],
   },
   {
-    en: "RES",
+    en: "Elemental RES",
     ja: "元素耐性",
     zhCN: "元素抗性",
     pronunciationJa: "げんそたいせい",
     tags: [ "element" ],
+    notes: "\"(元素名) RES\" で「○元素耐性」。「物理耐性」は \"Physical RES\"",
     examples: [{
       en: "Electro RES increased by 40%",
       ja: "雷元素耐性+40%",
