@@ -586,6 +586,11 @@
     tags: [ "mondstadt", "character-sub" ],
   },
   {
+    en: "Tsarevich",
+    ja: "ツァレーヴィチ",
+    tags: [ "mondstadt", "snezhnaya", "character-sub" ],
+  },
+  {
     en: "Nantuck",
     ja: "ナンタック",
     zhCN: "楠塔克",
@@ -1129,7 +1134,7 @@
   {
     en: "Soraya",
     ja: "ソラヤー",
-    tags: [ "liyue", "character-sub" ],
+    tags: [ "liyue", "sumeru", "character-sub" ],
   },
   // The Chasm
   {
@@ -1165,10 +1170,10 @@
     tags: [ "liyue", "character-sub" ],
   },
   {
-    en: "Khedive",
-    ja: "ヘディーヴ",
-    zhCN: "海迪夫",
-    tags: [ "liyue", "character-sub" ],
+    en: "Khedive Pursina",
+    ja: "ヘディーヴ・プルシナ",
+    // zhCN: "海迪夫", // TODO zh-translation for Pursina
+    tags: [ "liyue", "sumeru", "character-sub" ],
   },
   {
     en: "Clitopho",
@@ -1814,7 +1819,7 @@
     tags: [ "sumeru", "title" ],
   },
   {
-    en: "Mahamatra",
+    en: "matra",
     ja: "マハマトラ",
     tags: [ "sumeru", "title" ],
   },
@@ -1842,6 +1847,13 @@
     en: "Cuilein-Anbar",
     ja: "コレアンバー",
     tags: [ "sumeru" ],
+  },
+  {
+    en: "Eleazar",
+    ja: "魔鱗病",
+    pronunciationJa: "まりんびょう",
+    tags: [ "sumeru" ],
+    notes: "Eleazar の原義はユダヤ人の男性名で、聖書にも Eleazar という司教が登場する。意味は「神が助けた」",
   },
   {
     en: "Dori",
@@ -1891,16 +1903,11 @@
     tags: [ "sumeru", "title" ],
   },
   {
-    en: "Goddess of Flowers",
-    ja: "花神",
-    pronunciationJa: "かしん",
-    tags: [ "sumeru", "title" ],
-  },
-  {
     en: "Greater Load Rukkhadevata",
     ja: "マハールッカデヴァタ",
     zhCN: "大慈树王",
     tags: [ "sumeru", "title" ],
+    notes: "日本語において、表記上は「マハールッカデ**ヴァ**タ」となっているが、発音する際は日本語でも「マハールッカデ**ヴァー**タ」のようにヴァの音を伸ばして発音する。",
   },
   {
     en: "Dendro Archon",
@@ -1917,8 +1924,57 @@
   // Sumeru - NPCs
   //
   {
+    en: "Goddess of Flowers",
+    ja: "花神",
+    pronunciationJa: "かしん",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Azar",
+    ja: "アザール",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Grand Sage",
+    ja: "大賢者",
+    pronunciationJa: "だいけんじゃ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "sage",
+    ja: "賢者",
+    pronunciationJa: "けんじゃ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "The Six Great Sages",
+    ja: "六大賢者",
+    pronunciationJa: "ろくだいけんじゃ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Khajeh",
+    ja: "カジェ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Sangemah Bay",
+    ja: "サングマハベイ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
     en: "Haypasia",
     ja: "ハイパシア",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Dunyarzad",
+    ja: "ドニアザード",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Asfand",
+    ja: "アスファンド",
     tags: [ "sumeru", "character-sub" ],
   },
   {

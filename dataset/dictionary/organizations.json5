@@ -230,11 +230,18 @@
     ja: "スメール教令院",
     zhCN: "须弥教令院",
     pronunciationJa: "スメールきょうれいいん",
-    tags: [ "sumeru", "organization" ], // TODO add facility tag?
+    tags: [ "sumeru", "organization", "location", "facility" ],
     variants: {
       en: [ "Sumeru Academia" ],
     },
     notes: "英語版では v2.8 で Sumeru Academia から変更された。",
+  },
+  {
+    en: "The Akademiya",
+    ja: "教令院",
+    pronunciationJa: "きょうれいいん",
+    tags: [ "sumeru", "organization", "location", "facility" ],
+    notes: "スメール教令院のマップ上の表記",
   },
   {
     en: "Forest Rangers / Rebel",
@@ -245,6 +252,11 @@
   {
     en: "Corps of Thirty",
     ja: "三十人団",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Ayn Al-Ahmar",
+    ja: "アフマルの目",
     tags: [ "sumeru", "organization" ],
   },
 

@@ -863,6 +863,30 @@
     pronunciationJa: "けんろうなトパーズ・さいせつ",
     tags: [ "levelup-material", "item" ],
   },
+  {
+    en: "Nagadus Emerald Gemstone",
+    ja: "成長のエメラルド",
+    pronunciationJa: "せいちょうのエメラルド",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Nagadus Emerald Chunk",
+    ja: "成長のエメラルド・塊",
+    pronunciationJa: "せいちょうのエメラルド・かたまり",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Nagadus Emerald Fragment",
+    ja: "成長のエメラルド・欠片",
+    pronunciationJa: "せいちょうのエメラルド・かけら",
+    tags: [ "levelup-material", "item" ],
+  },
+  {
+    en: "Nagadus Emerald Sliver",
+    ja: "成長のエメラルド・砕屑",
+    pronunciationJa: "せいちょうのエメラルド・さいせつ",
+    tags: [ "levelup-material", "item" ],
+  },
 
   //
   // Talent Level-Up Material
@@ -1055,6 +1079,60 @@
     zhCN: "「天光」的哲学",
     pronunciationJa: "てんこうのてつがく",
     tags: [ "talent-material", "item", "inazuma" ],
+  },
+  {
+    en: "Teachings of Admonition",
+    ja: "「忠言」の教え",
+    pronunciationJa: "ちゅうげんのおしえ",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Guide to Admonition",
+    ja: "「忠言」の導き",
+    pronunciationJa: "ちゅうげんのみちびき",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Philosophies of Admonition",
+    ja: "「忠言」の哲学",
+    pronunciationJa: "ちゅうげんのてつがく",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Teachings of Ingenuity",
+    ja: "「創意」の教え",
+    pronunciationJa: "そういのおしえ",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Guide to Ingenuity",
+    ja: "「創意」の導き",
+    pronunciationJa: "そういのみちびき",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Philosophies of Ingenuity",
+    ja: "「創意」の哲学",
+    pronunciationJa: "そういのてつがく",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Teachings of Praxis",
+    ja: "「篤行」の教え",
+    pronunciationJa: "とっこうのおしえ",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Guide to Praxis",
+    ja: "「篤行」の導き",
+    pronunciationJa: "とっこうのみちびき",
+    tags: [ "talent-material", "item", "sumeru" ],
+  },
+  {
+    en: "Philosophies of Praxis",
+    ja: "「篤行」の哲学",
+    pronunciationJa: "とっこうのてつがく",
+    tags: [ "talent-material", "item", "sumeru" ],
   },
   {
     en: "Crown of Insight",
@@ -1389,6 +1467,24 @@
     ja: "混沌の機関",
     zhCN: "混沌机关",
     pronunciationJa: "こんとんのきかん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Bolt",
+    ja: "混沌ボルト",
+    pronunciationJa: "こんとんボルト",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Module",
+    ja: "混沌モジュール",
+    pronunciationJa: "こんとんモジュール",
+    tags: [ "item" ],
+  },
+  {
+    en: "Chaos Storage",
+    ja: "混沌ストレージ",
+    pronunciationJa: "こんとんストレージ",
     tags: [ "item" ],
   },
   {
@@ -2055,6 +2151,12 @@
     ja: "ルッカデヴァタダケ",
     tags: [ "specialty", "item", "sumeru" ],
   },
+  {
+    en: "Padisarah",
+    ja: "パティサラ",
+    tags: [ "specialty", "item", "sumeru" ],
+    notes: "英語版では Pa\"d\"isarah と D の音になっていることに注意。",
+  },
 
   //
   // Plants
@@ -2086,6 +2188,11 @@
     zhCN: "烈焰花花蕊",
     pronunciationJa: "れつえんばなのかずい",
     tags: [ "item" ],
+  },
+  {
+    en: "Viparyas",
+    ja: "ヴィパリャス",
+    tags: [ "item", "sumeru" ],
   },
 
   //
@@ -2466,11 +2573,28 @@
     tags: [ "item", "inazuma" ],
   },
   {
+    en: "Divine Bridle",
+    ja: "神輿手綱",
+    pronunciationJa: "みこしたづな",
+    tags: [ "item", "inazuma" ],
+  },
+  {
     en: "Archaic Stone",
     ja: "老石",
     zhCN: "老石",
     pronunciationJa: "ろうせき",
     tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Vasmrti",
+    ja: "ヴァスミリティ",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Lost Energy Block",
+    ja: "失われたエネルギーブロック",
+    pronunciationJa: "うしなわれたエネルギーブロック",
+    tags: [ "item", "sumeru" ],
   },
 
   //

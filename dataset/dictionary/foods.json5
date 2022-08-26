@@ -344,6 +344,12 @@
     pronunciationJa: "だんごぎゅうにゅう",
     tags: [ "food" ],
   },
+  {
+    en: "Selva Salad",
+    ja: "雨林サラダ",
+    pronunciationJa: "うりんサラダ",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -1242,6 +1248,11 @@
     en: "Starshroom",
     ja: "星茸",
     zhCN: "星茸",
+    tags: [ "food" ],
+  },
+  {
+    en: "Activated Starshroom",
+    ja: "みなぎる星茸",
     tags: [ "food" ],
   },
   {
