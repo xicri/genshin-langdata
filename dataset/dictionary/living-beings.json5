@@ -170,35 +170,41 @@
   {
     en: "Aranara",
     ja: "アランナラ",
+    zhCN: "兰那罗",
     tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Dusk Bird",
     ja: "瞑彩鳥",
+    zhCN: "暝彩鸟",
     tags: [ "living-being", "sumeru" ],
   },
   // TODO Sumpter Beast might be removed. I might keep only Shaggy Sumpter Beast.
   {
     en: "Sumpter Beast",
     ja: "駄獣",
+    zhCN: "驮兽",
     pronunciationJa: "だじゅう",
     tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Shaggy Sumpter Beast",
     ja: "モジャモジャ駄獣",
+    zhCN: "牦牦驮兽",
     pronunciationJa: "モジャモジャだじゅう",
     tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Rishboland Tiger",
     ja: "リシュボラン虎",
+    zhCN: "长鬓虎",
     pronunciationJa: "リシュボランとら",
     tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Spinocrocodile",
     ja: "スピノクロコ",
+    zhCN: "棘冠鳄",
     tags: [ "living-being", "enemy", "sumeru" ],
   },
 ]
