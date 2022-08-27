@@ -1243,11 +1243,13 @@
   {
     en: "Court of Fontaine",
     ja: "フォンテーヌ廷",
+    zhCN: "枫丹廷",
     tags: [ "location" ],
   },
   {
     en: "Petrichor",
     ja: "ペトリコール",
+    zhCN: "佩特莉可",
     tags: [ "location" ],
     notes: "恐らくフォンテーヌの地名。v2.8 期間限定イベント「からくり械画」でフェリックス・ユーグが言及。",
   },

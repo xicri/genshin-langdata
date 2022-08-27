@@ -876,7 +876,7 @@
   {
     en: "Nagadus Emerald Chunk",
     ja: "成長のエメラルド・塊",
-    zhCN: 生长碧翡块"",
+    zhCN: "生长碧翡块",
     pronunciationJa: "せいちょうのエメラルド・かたまり",
     tags: [ "levelup-material", "item" ],
   },
