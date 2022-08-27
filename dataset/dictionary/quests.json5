@@ -150,12 +150,14 @@
   {
     en: "Through Mists of Smoke and Forests Dark",
     ja: "煙霧のベールと暗き森を抜けて",
+    zhCN: "穿越烟帷与暗林",
     pronunciationJa: "えんむのベールとくらきもりをぬけて",
     tags: [ "sumeru", "quest-archon" ],
   },
   {
     en: "The Morn a Thousand Roses Brings",
     ja: "黎明を告げる千の薔薇",
+    zhCN: "千朵玫瑰带来的黎明",
     pronunciationJa: "れいめいをつげるせんのばら",
     tags: [ "sumeru", "quest-archon" ],
   },
