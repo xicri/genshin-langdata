@@ -323,55 +323,62 @@
   {
     en: "Darshan",
     ja: "学派 / 学院",
+    zhCN: "学派 / 学院",
     tags: [ "sumeru" ],
     notes: "英語版では学派も学院も区別されずに Darshan と呼ばれているようである。原義はサンスクリット語で (特に聖人や神像などを) 見ること",
   },
   {
     en: "six Darshans",
     ja: "六大学派",
+    zhCN: "六大学派",
     tags: [ "sumeru" ],
   },
   {
     en: "Amurta",
     ja: "生論派 / アムリタ学院",
-    // zhCN: "生论派", // TODO zh-translation for アムリタ学院
+    zhCN: "生论派 / 阿弥利多学院",
     tags: [ "sumeru" ],
     notes: "英語版では「生論派」と「アムリタ学院」は区別されていないようである。\"Amurta Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もある",
   },
   {
     en: "Rtawahist",
     ja: "明論派 / ルタワヒスト学院",
+    zhCN: "明论派 / 梨多梵谛学院",
     tags: [ "sumeru" ],
     notes: "英語版では「明論派」と「ルタワヒスト学院」は区別されていないようである。\"Rtawahist Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もある",
   },
   {
     en: "Spantamad",
     ja: "素論派 / スパンタマッド学院",
+    zhCN: "素论派 / 悉般多摩学院",
     tags: [ "sumeru" ],
     notes: "英語版では「素論派」と「スパンタマッド学院」は区別されていないようである。\"Spantamad Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もあると思われる",
   },
   {
     en: "Driyosh",
     ja: "ダリオッシュ",
+    zhCN: "游学者", // TODO: Need check
     tags: [ "sumeru", "title" ],
     notes: "遊学者を意味する言葉。スメール教令院の素論派に多いとされる",
   },
   {
     en: "Haravatat",
     ja: "知論派 / ハルヴァタット学院",
-    // zhCN: "知论派", // TODO zh-translation for ハルヴァタット学院
+    zhCN: "知论派 / 室罗婆耽学院", //
     tags: [ "sumeru" ],
     notes: "英語版では「知論派」と「ハルヴァタット学院」は区別されていないようである。\"Haravatat Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もあると思われる",
   },
   {
     en: "Vahumana",
     ja: "因論派 / ヴァフマナ学院",
+    zhCN: "因论派 / 伐护末那学院",
     tags: [ "sumeru" ],
     notes: "英語版では「因論派」と「ヴァフマナ学院」は区別されていないようである。\"Vahumana Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もあると思われる",
   },
   {
     en: "Kshahrewar",
     ja: "妙論派 / クシャレワー学院",
+    zhCN: "妙论派 / 刹诃伐罗学院",
     tags: [ "sumeru" ],
     notes: "英語版では「妙論派」と「クシャレワー学院」は区別されていないようである。\"Kshahrewar Darshan\" と Darshan (学派 / 学院) を付けて表記される場合もあると思われる",
   },
@@ -384,31 +391,37 @@
   {
     en: "Akasha Terminal",
     ja: "アーカーシャ端末",
+    zhCN: "虚空终端",
     tags: [ "sumeru" ],
   },
   {
     en: "Mahamata",
     ja: "教令官",
+    zhCN: "教令官",
     tags: [ "title", "sumeru" ],
   },
   {
     en: "Spirit Borneol",
     ja: "パラハァム",
+    zhCN: "灵酚香",
     tags: [ "sumeru" ],
   },
   {
     en: "Satyavada Life",
     ja: "サティアワダライフ",
+    zhCN: "林居狂语期",
     tags: [ "sumeru" ],
   },
   {
     en: "Paripurna Life",
     ja: "パリプーナライフ",
+    zhCN: "寂静圆满期",
     tags: [ "sumeru" ],
   },
   {
     en: "Sabzeruz Festival",
     ja: "花神誕日 / 花神誕祭",
+    zhCN: "花神诞日 / 花神诞祭",
     pronunciationJa: "かしんたんじつ / かしんたんさい",
     notes: "英語版では両者は区別されていないように思われる",
     tags: [ "sumeru" ],
@@ -416,18 +429,21 @@
   {
     en: "Knowledge Capsule / Canned Knowledge",
     ja: "缶詰知識",
+    zhCN: "罐装知识",
     pronunciationJa: "かんずめちしき",
     tags: [ "sumeru" ],
   },
   {
     en: "Divine Knowledge Capsule",
     ja: "神の缶詰知識",
+    zhCN: "神明罐装知识",
     pronunciationJa: "かみのかんずめちしき",
     tags: [ "sumeru" ],
   },
   {
     en: "Mourning Flower",
     ja: "悼霊花",
+    zhCN: "悼灵花",
     tags: [ "sumeru" ],
   },
 
