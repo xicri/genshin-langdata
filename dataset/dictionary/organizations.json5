@@ -239,6 +239,7 @@
   {
     en: "The Akademiya",
     ja: "教令院",
+    zhCN: "教令院",
     pronunciationJa: "きょうれいいん",
     tags: [ "sumeru", "organization", "location", "facility" ],
     notes: "スメール教令院のマップ上の表記",
@@ -246,17 +247,20 @@
   {
     en: "Forest Rangers / Rebel",
     ja: "レンジャー",
+    zhCN: "巡林小队",
     notes: "Forest Rangers は、ティナリをリーダーとするスメールの組織。Rebel は、不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側。どちらも日本語では「レンジャー」となっている。",
     tags: [ "sumeru", "organization", "event" ],
   },
   {
     en: "Corps of Thirty",
     ja: "三十人団",
+    zhCN: "三十人团",
     tags: [ "sumeru", "organization" ],
   },
   {
     en: "Ayn Al-Ahmar",
     ja: "アフマルの目",
+    zhCN: "阿赫玛尔之眼",
     tags: [ "sumeru", "organization" ],
   },
 
@@ -266,6 +270,7 @@
   {
     en: "Daydream Club",
     ja: "空想クラブ",
+    zhCN: "空想俱乐部",
     pronunciationJa: "くうそうクラブ",
     tags: [ "organization" ],
   },
