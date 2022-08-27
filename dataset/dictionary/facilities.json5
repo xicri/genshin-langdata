@@ -179,37 +179,44 @@
   {
     en: "Zubayr Theater",
     ja: "ズバイルシアター",
+    zhCN: "祖拜尔剧场",
     tags: [ "sumeru", "facility" ],
   },
   {
     en: "Puspa Café",
     ja: "プスパカフェ",
+    zhCN: "普斯帕咖啡馆",
     tags: [ "sumeru", "facility" ],
   },
   {
     en: "Citadel of Regzar",
     ja: "レグザー庁",
+    zhCN: "聚砂厅",
     tags: [ "sumeru", "facility" ],
   },
   {
     en: "Bimarstan",
     ja: "ビマリスタン",
+    zhCN: "健康之家",
     tags: [ "sumeru", "facility" ],
   },
   {
     en: "Djafar Tavern",
     ja: "ジャファータバーン",
+    zhCN: "迪亚法饭店",
     tags: [ "sumeru", "facility" ],
   },
   {
     en: "Wikala Funduq",
     ja: "ウィカラ隊商宿",
+    zhCN: "维卡拉商栈",
     pronunciationJa: "ウィカラたいしょうやど", // Need Confirmation
     tags: [ "sumeru", "facility" ],
   },
   {
     en: "Acara Crafts",
     ja: "アジャンタ彫刻店",
+    zhCN: "阿折罗造像",
     pronunciationJa: "アジャンタちょうこくてん",
     tags: [ "sumeru", "facility" ],
   },

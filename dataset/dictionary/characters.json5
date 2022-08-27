@@ -217,6 +217,7 @@
   {
     en: "Darknight Hero",
     ja: "闇夜の英雄",
+    zhCN: "暗夜英雄",
     tags: [ "mondstadt", "title" ],
   },
   {
@@ -541,6 +542,7 @@
   {
     en: "Eroch",
     ja: "イロック",
+    zhCN: "伊洛克",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -588,6 +590,7 @@
   {
     en: "Tsarevich",
     ja: "ツァレーヴィチ",
+    zhCN: "查耶维奇",
     tags: [ "mondstadt", "snezhnaya", "character-sub" ],
   },
   {
@@ -1172,7 +1175,7 @@
   {
     en: "Khedive Pursina",
     ja: "ヘディーヴ・プルシナ",
-    // zhCN: "海迪夫", // TODO zh-translation for Pursina
+    zhCN: "海迪夫·普尔希纳",
     tags: [ "liyue", "sumeru", "character-sub" ],
   },
   {
@@ -1603,6 +1606,7 @@
   {
     en: "Film Kamera",
     ja: "映影機",
+    zhCN: "电影机",
   },
   {
     en: "Ruu",
@@ -1789,17 +1793,20 @@
   {
     en: "Gendou Ringo",
     ja: "玄冬林檎",
+    zhCN: "玄冬林檎",
     pronunciationJa: "げんどうりんご",
     tags: [ "inazuma", "character-sub" ],
   },
   {
     en: "Lyudochka Snezhevna",
     ja: "リュドヒカ・シュナイツェフナ",
+    zhCN: "柳达希卡·雪奈茨芙娜",
     tags: [ "inazuma", "snezhnaya", "character-sub", "enemy" ],
   },
   {
     en: "Momoyo",
     ja: "百代",
+    zhCN: "百代",
     pronunciationJa: "ももよ",
     tags: [ "inazuma", "character-sub" ],
   },
@@ -1816,11 +1823,13 @@
   {
     en: "General Mahamatra",
     ja: "大マハマトラ",
+    zhCN: "大风纪官",
     tags: [ "sumeru", "title" ],
   },
   {
     en: "matra",
     ja: "マハマトラ",
+    zhCN: "风纪官",
     tags: [ "sumeru", "title" ],
   },
   {
@@ -1833,6 +1842,7 @@
   {
     en: "Forest Watcher",
     ja: "レンジャー長",
+    zhCN: "巡林官",
     notes: "[ティナリ](/tighnari/)の役職",
     tags: [ "sumeru", "title" ],
   },
@@ -1846,11 +1856,13 @@
   {
     en: "Cuilein-Anbar",
     ja: "コレアンバー",
+    zhCN: "柯里安巴",
     tags: [ "sumeru" ],
   },
   {
     en: "Eleazar",
     ja: "魔鱗病",
+    zhCN: "魔鳞病",
     pronunciationJa: "まりんびょう",
     tags: [ "sumeru" ],
     notes: "Eleazar の原義はユダヤ人の男性名で、聖書にも Eleazar という司教が登場する。意味は「神が助けた」",
@@ -1882,12 +1894,14 @@
   {
     en: "Dance of Sabzeruz",
     ja: "花神の舞",
+    zhCN: "花神之舞",
     pronunciationJa: "かしんのまい",
     tags: [ "sumeru" ],
   },
   {
     en: "Candace",
     ja: "キャンディス",
+    zhCN: "坎蒂丝",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -1926,70 +1940,83 @@
   {
     en: "Goddess of Flowers",
     ja: "花神",
+    zhCN: "花神",
     pronunciationJa: "かしん",
     tags: [ "sumeru", "title" ],
   },
   {
     en: "Azar",
     ja: "アザール",
+    zhCN: "阿扎尔",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Grand Sage",
     ja: "大賢者",
+    zhCN: "大贤者",
     pronunciationJa: "だいけんじゃ",
     tags: [ "sumeru", "title" ],
   },
   {
     en: "sage",
     ja: "賢者",
+    zhCN: "贤者",
     pronunciationJa: "けんじゃ",
     tags: [ "sumeru", "title" ],
   },
   {
     en: "The Six Great Sages",
     ja: "六大賢者",
+    zhCN: "六大贤者",
     pronunciationJa: "ろくだいけんじゃ",
     tags: [ "sumeru", "title" ],
   },
   {
     en: "Khajeh",
     ja: "カジェ",
+    zhCN: "卡瓦贾",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Sangemah Bay",
     ja: "サングマハベイ",
+    zhCN: "桑歌玛哈巴依",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Haypasia",
     ja: "ハイパシア",
+    zhCN: "海芭夏",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Dunyarzad",
     ja: "ドニアザード",
+    zhCN: "迪娜泽黛",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Asfand",
     ja: "アスファンド",
+    zhCN: "阿斯法德",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Rohawi",
     ja: "ロハウェイ",
+    zhCN: "鲁哈维",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Ahangar",
     ja: "アハンガル",
+    zhCN: "阿汉格尔",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Scarlet King",
     ja: "スカーレットキング",
+    zhCN: "赤王",
     tags: [ "sumeru", "character-sub" ],
   },
 
@@ -2337,6 +2364,7 @@
   {
     en: "Irmin",
     ja: "エルミン",
+    zhCN: "伊尔明",
     tags: [ "character-sub" ],
   },
 ]

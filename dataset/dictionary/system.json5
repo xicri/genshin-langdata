@@ -620,6 +620,7 @@
   {
     en: "The Withering / Withering Zone",
     ja: "死域",
+    zhCN: "死域",
     pronunciationJa: "しいき",
     notes: "Withering Zone(s) は死域現象に侵された場所のことを指す一方、The Withering の場合は場所を意味する他に、死域現象のことを指す場合もあると思われる。wither は「枯れる」の意。",
     tags: [ "sumeru" ],
@@ -627,36 +628,42 @@
   {
     en: "Withering Branch",
     ja: "死域の枝",
+    zhCN: "死域枝节",
     pronunciationJa: "しいきのえだ",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Tumor of the Withering",
     ja: "死域の腫瘍",
+    zhCN: "死域瘤",
     pronunciationJa: "しいきのしゅよう",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Seed Mirror",
     ja: "種のレンズ",
+    zhCN: "种子镜",
     pronunciationJa: "たねのレンズ",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Decay",
     ja: "零落",
+    zhCN: "凋零",
     pronunciationJa: "れいらく",
     tags: [ "sumeru" ],
   },
   {
     en: "Candle of Life",
     ja: "生命の灯",
+    zhCN: "生之烛",
     pronunciationJa: "せいめいのあかり",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Flames of Life",
     ja: "生命の火光",
+    zhCN: "生之火光",
     tags: [ "object", "sumeru" ],
   },
 ]

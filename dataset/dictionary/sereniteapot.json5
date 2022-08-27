@@ -201,11 +201,13 @@
   {
     en: "Karmaphala Wood",
     ja: "業果材",
+    zhCN: "业果木",
     tags: [ "sereniteapot", "sumeru" ],
   },
   {
     en: "Adhigama Wood",
     ja: "証悟材",
+    zhCN: "证悟木",
     tags: [ "sereniteapot", "sumeru" ],
   },
 

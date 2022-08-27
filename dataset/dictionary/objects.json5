@@ -366,44 +366,52 @@
   {
     en: "Tree of Dreams, Vanarana",
     ja: "ヴァナラーナの夢の樹",
+    zhCN: "桓那兰那的梦之树",
     pronunciationJa: "ヴァナラーナのゆめのき",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Divine Tree",
     ja: "聖樹",
+    zhCN: "圣树", // TODO: Need check
     pronunciationJa: "せいじゅ",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Tri-Lakshana Creature",
     ja: "トライステート生物",
+    zhCN: "三相众物",
     pronunciationJa: "トライステートせいぶつ",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Bouncy Mushroom",
     ja: "ぴょんぴょんキノコ",
+    zhCN: "弹弹菇",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Tri-Yana Seed",
     ja: "トライマウントシード",
+    zhCN: "三乘种子",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Four-Leaf Sigil",
     ja: "クローバーマーク",
+    zhCN: "四叶印",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Clusterleaf of Cultivation",
     ja: "リーフコア",
+    zhCN: "众叶觉蕊",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Irminsul",
     ja: "世界樹",
+    zhCN: "世界树",
     pronunciationJa: "せかいじゅ",
     tags: [ "object", "sumeru" ],
     notes: "Irminsul の訳は安定していないようであり、「古樹」や「地脈の」などのように訳されている箇所もある。[参考: Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Irminsul#Localization)",
@@ -412,6 +420,7 @@
   {
     en: "Energy Extraction Device",
     ja: "エネルギー抽出装置",
+    zhCN: "能量提取装置",
     pronunciationJa: "エネルギーちゅうしゅつそうち",
     tags: [ "object", "sumeru" ],
   },

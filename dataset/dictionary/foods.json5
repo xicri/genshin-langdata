@@ -347,6 +347,7 @@
   {
     en: "Selva Salad",
     ja: "雨林サラダ",
+    zhCN: "雨林沙拉",
     pronunciationJa: "うりんサラダ",
     tags: [ "food" ],
   },
@@ -658,11 +659,13 @@
   {
     en: "Pita Pocket",
     ja: "ピタ",
+    zhCN: "口袋饼",
     tags: [ "food" ],
   },
   {
     en: "Butter Chicken",
     ja: "バターチキン",
+    zhCN: "黄油鸡",
     tags: [ "food" ],
   },
 
@@ -1253,21 +1256,25 @@
   {
     en: "Activated Starshroom",
     ja: "みなぎる星茸",
+    zhCN: "活化星茸", // TODO: Need check
     tags: [ "food" ],
   },
   {
     en: "Zaytun Peach",
     ja: "ザイトゥン桃",
+    zhCN: "墩墩桃",
     tags: [ "food", "sumeru" ],
   },
   {
     en: "Sumeru Rose",
     ja: "スメールローズ",
+    zhCN: "须弥蔷薇",
     tags: [ "food", "sumeru" ],
   },
   {
     en: "Harra Fruit",
     ja: "ハッラの実",
+    zhCN: "香辛果",
     tags: [ "food", "sumeru" ],
   },
 ]
