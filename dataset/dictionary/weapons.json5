@@ -205,6 +205,7 @@
   {
     en: "Sapwood Blade",
     ja: "原木刀",
+    zhCN: "原木刀",
     pronunciationJa: "げんぼくとう",
     tags: [ "weapon", "sword" ],
   },
@@ -438,6 +439,7 @@
   {
     en: "Forest Regalia",
     ja: "森林のレガリア",
+    zhCN: "森林王器",
     pronunciationJa: "しんりんのレガリア",
     tags: [ "weapon", "claymore" ],
   },
@@ -628,6 +630,7 @@
   {
     en: "Moonpiercer",
     ja: "ムーンピアサー",
+    zhCN: "贯月矢",
     tags: [ "weapon", "polearm" ],
   },
   // ★5
@@ -858,12 +861,14 @@
   {
     en: "End of the Line",
     ja: "竭沢", // TODO 弓・竭沢 is correct name?
+    zhCN: "竭泽",
     pronunciationJa: "けったく", // Source: https://twitter.com/genshin_kanji/status/1558431572407504896
     tags: [ "weapon", "bow" ],
   },
   {
     en: "King's Squire",
     ja: "王の近侍",
+    zhCN: "王下近侍",
     pronunciationJa: "おうのきんじ",
     tags: [ "weapon", "bow" ],
   },
@@ -929,6 +934,7 @@
   {
     en: "Hunter's Path",
     ja: "狩人の道", // TODO "弓・狩人の道" is correct?
+    zhCN: "猎人之径",
     pronunciationJa: "かりゅうどのみち",
     tags: [ "weapon", "bow" ],
   },
@@ -1104,6 +1110,7 @@
   {
     en: "Fruit of Fulfillment",
     ja: "満悦の実",
+    zhCN: "盈满之实",
     pronunciationJa: "まんえつのみ",
     tags: [ "weapon", "catalyst" ],
   },
