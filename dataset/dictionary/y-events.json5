@@ -148,6 +148,7 @@
   {
     en: "Graven Innocence",
     ja: "イノセンスの彫刻",
+    zhCN: "雕琢童心",
     pronunciationJa: "イノセンスのちょうこく",
     notes: "v3.0 期間限定イベント",
     tags: [ "event" ],
@@ -155,6 +156,7 @@
   {
     en: "Fayz Trials",
     ja: "フェーイズの論証",
+    zhCN: "溢神的论证",
     pronunciationJa: "フェーイズのろんしょう",
     notes: "v3.0 期間限定イベント",
     tags: [ "event" ],
@@ -162,18 +164,21 @@
   {
     en: "Tablet Analytics",
     ja: "タブレットスタディー",
+    zhCN: "片剂深研",
     notes: "v3.0 期間限定イベント",
     tags: [ "event" ],
   },
   {
     en: "Hajanad",
     ja: "ハジャナド",
+    zhCN: "哈贾娜德",
     notes: "v3.0 期間限定イベント「タブレットスタディー」に登場するキャラクター",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Remelting Tablets",
     ja: "リメルトタブレット",
+    zhCN: "重熔片剂",
     notes: "v3.0 期間限定イベント「タブレットスタディー」におけるハジャナドの研究対象",
     tags: [ "event" ],
   },
