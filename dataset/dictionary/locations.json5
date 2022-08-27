@@ -1151,13 +1151,13 @@
   {
     en: "The Palace of Alcazarzaray",
     ja: "アルカサルザライパレス",
-    zhCN: "",
+    zhCN: "卡萨扎莱宫",
     tags: [ "sumeru", "location", "facility" ],
   },
   {
     en: "Chatrakam Cave",
     ja: "チャトラカム洞窟",
-    zhCN: "卡萨扎莱宫",
+    zhCN: "茸蕈窟",
     pronunciationJa: "チャトラカムどうくつ",
     tags: [ "sumeru", "location" ],
   },

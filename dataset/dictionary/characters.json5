@@ -1175,8 +1175,7 @@
   {
     en: "Khedive Pursina",
     ja: "ヘディーヴ・プルシナ",
-    // zhCN: "海迪夫", // TODO zh-translation for Pursina
-    // PS: It seems that official translation of Pursina is not provided in the game.
+    // zhCN: "海迪夫·普尔希纳",
     tags: [ "liyue", "sumeru", "character-sub" ],
   },
   {
