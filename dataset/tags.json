@@ -2,7 +2,7 @@
   "mondstadt": {
     "en": "Mondstadt",
     "ja": "モンド",
-    "zh-CN": "Mondstadt",
+    "zh-CN": "蒙德",
     "title": {
       "en": "Chinese & Japanese translations for words related to Mondstadt",
       "ja": "モンドに関する言葉の英語表記一覧",
@@ -12,7 +12,7 @@
   "dragonspine": {
     "en": "Dragonspine",
     "ja": "ドラゴンスパイン",
-    "zh-CN": "Dragonspine",
+    "zh-CN": "龙脊雪山",
     "title": {
       "en": "Chinese & Japanese translations for words related to Dragonspine",
       "ja": "ドラゴンスパインに関する言葉の英語表記一覧",
@@ -22,7 +22,7 @@
   "liyue": {
     "en": "Liyue",
     "ja": "璃月",
-    "zh-CN": "Liyue",
+    "zh-CN": "璃月",
     "title": {
       "en": "Chinese & Japanese translations for words related to Liyue",
       "ja": "璃月に関する言葉の英語表記一覧",
@@ -32,7 +32,7 @@
   "inazuma": {
     "en": "Inazuma",
     "ja": "稲妻",
-    "zh-CN": "Inazuma",
+    "zh-CN": "稻妻",
     "title": {
       "en": "Chinese & Japanese translations for words related to Inazuma",
       "ja": "稲妻に関する言葉の英語表記一覧",
@@ -42,7 +42,7 @@
   "sumeru": {
     "en": "Sumeru",
     "ja": "スメール",
-    "zh-CN": "Sumeru",
+    "zh-CN": "须弥",
     "title": {
       "en": "Chinese & Japanese translations for words related to Sumeru",
       "ja": "スメールに関する言葉の英語表記一覧",
@@ -52,7 +52,7 @@
   "snezhnaya": {
     "en": "Snezhnaya / Fatui",
     "ja": "スネージナヤ・ファデュイ",
-    "zh-CN": "Snezhnaya・Fatui",
+    "zh-CN": "至冬·愚人众",
     "title": {
       "en": "Chinese & Japanese translations for words related to Snezhnaya & Fatui",
       "ja": "スネージナヤ・ファデュイに関する言葉の英語表記一覧",
@@ -132,7 +132,7 @@
   "domain": {
     "en": "Domain",
     "ja": "秘境",
-    "zh-CN": "Domain",
+    "zh-CN": "秘境",
     "title": {
       "en": "Chinese & Japanese translations for domains in Genshin Impact",
       "ja": "原神の秘境の英語表記一覧",
@@ -192,7 +192,7 @@
   "quest-archon": {
     "en": "Archon Quest",
     "ja": "魔神任務",
-    "zh-CN": "Archon Quest",
+    "zh-CN": "魔神任务",
     "title": {
       "en": "Chinese & Japanese translations for the Archon Quests in Genshin Impact",
       "ja": "原神の魔神任務の英語表記一覧",
@@ -292,7 +292,7 @@
   "artifact": {
     "en": "Artifact",
     "ja": "聖遺物",
-    "zh-CN": "Artifact",
+    "zh-CN": "圣遗物",
     "title": {
       "en": "Chinese & Japanese translations for the artifacts in Genshin Impact",
       "ja": "原神の聖遺物の英語表記一覧",
@@ -322,7 +322,7 @@
   "element": {
     "en": "Element",
     "ja": "元素",
-    "zh-CN": "Element",
+    "zh-CN": "元素",
     "title": {
       "en": "Chinese & Japanese translations for words related to the element",
       "ja": "原神の元素に関する言葉の英語表記一覧",
@@ -332,7 +332,7 @@
   "sereniteapot": {
     "en": "Serenitea Pot",
     "ja": "塵歌壺",
-    "zh-CN": "Serenitea Pot",
+    "zh-CN": "尘歌壶",
     "title": {
       "en": "Chinese & Japanese translations for words related to Serenitea Pot",
       "ja": "塵歌壺 (じんかつぼ) に関する言葉の英語表記一覧",
@@ -352,7 +352,7 @@
   "sword": {
     "en": "Sword",
     "ja": "片手剣",
-    "zh-CN": "Sword",
+    "zh-CN": "单手剑",
     "title": {
       "en": "Chinese & Japanese translations for swords in Genshin Impact",
       "ja": "原神に登場する片手剣の英語表記一覧",
@@ -362,7 +362,7 @@
   "claymore": {
     "en": "Claymore",
     "ja": "両手剣",
-    "zh-CN": "Claymore",
+    "zh-CN": "双手剑",
     "title": {
       "en": "Chinese & Japanese translations for claymores in Genshin Impact",
       "ja": "原神に登場する両手剣の英語表記一覧",
@@ -372,7 +372,7 @@
   "polearm": {
     "en": "Polearm",
     "ja": "長柄武器",
-    "zh-CN": "Polearm",
+    "zh-CN": "长柄武器",
     "title": {
       "en": "Chinese & Japanese translations for polearms in Genshin Impact",
       "ja": "原神に登場する長柄武器の英語表記一覧",
@@ -382,7 +382,7 @@
   "bow": {
     "en": "Bow",
     "ja": "弓",
-    "zh-CN": "Bow",
+    "zh-CN": "弓",
     "title": {
       "en": "Chinese & Japanese translations for bows in Genshin Impact",
       "ja": "原神に登場する弓の英語表記一覧",
@@ -392,7 +392,7 @@
   "catalyst": {
     "en": "Catalyst",
     "ja": "法器",
-    "zh-CN": "Catalyst",
+    "zh-CN": "法器",
     "title": {
       "en": "Chinese & Japanese translations for catalysts in Genshin Impact",
       "ja": "原神に登場する法器の英語表記一覧",
