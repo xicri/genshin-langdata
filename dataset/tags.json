@@ -2,321 +2,401 @@
   "mondstadt": {
     "en": "Mondstadt",
     "ja": "モンド",
+    "zh-CN": "Mondstadt",
     "title": {
       "en": "Chinese & Japanese translations for words related to Mondstadt",
-      "ja": "モンドに関する言葉の英語表記一覧"
+      "ja": "モンドに関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to Mondstadt"
     }
   },
   "dragonspine": {
     "en": "Dragonspine",
     "ja": "ドラゴンスパイン",
+    "zh-CN": "Dragonspine",
     "title": {
       "en": "Chinese & Japanese translations for words related to Dragonspine",
-      "ja": "ドラゴンスパインに関する言葉の英語表記一覧"
+      "ja": "ドラゴンスパインに関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to Dragonspine"
     }
   },
   "liyue": {
     "en": "Liyue",
     "ja": "璃月",
+    "zh-CN": "Liyue",
     "title": {
       "en": "Chinese & Japanese translations for words related to Liyue",
-      "ja": "璃月に関する言葉の英語表記一覧"
+      "ja": "璃月に関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to Liyue"
     }
   },
   "inazuma": {
     "en": "Inazuma",
     "ja": "稲妻",
+    "zh-CN": "Inazuma",
     "title": {
       "en": "Chinese & Japanese translations for words related to Inazuma",
-      "ja": "稲妻に関する言葉の英語表記一覧"
+      "ja": "稲妻に関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to Inazuma"
     }
   },
   "sumeru": {
     "en": "Sumeru",
     "ja": "スメール",
+    "zh-CN": "Sumeru",
     "title": {
       "en": "Chinese & Japanese translations for words related to Sumeru",
-      "ja": "スメールに関する言葉の英語表記一覧"
+      "ja": "スメールに関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to Sumeru"
     }
   },
   "snezhnaya": {
     "en": "Snezhnaya / Fatui",
     "ja": "スネージナヤ・ファデュイ",
+    "zh-CN": "Snezhnaya・Fatui",
     "title": {
       "en": "Chinese & Japanese translations for words related to Snezhnaya & Fatui",
-      "ja": "スネージナヤ・ファデュイに関する言葉の英語表記一覧"
+      "ja": "スネージナヤ・ファデュイに関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to Snezhnaya & Fatui"
     }
   },
   "character-main": {
     "en": "Character (Playable)",
     "ja": "キャラ (プレイアブル)",
+    "zh-CN": "Character (Playable)",
     "title": {
       "en": "Chinese & Japanese translations for playable characters in Genshin Impact",
-      "ja": "原神のプレイアブルキャラクターの英語表記一覧"
+      "ja": "原神のプレイアブルキャラクターの英語表記一覧",
+      "zh-CN": "English translations for playable characters in Genshin Impact"
     }
   },
   "character-sub": {
     "en": "Character (NPC)",
     "ja": "キャラ (NPC)",
+    "zh-CN": "Character (NPC)",
     "title": {
       "en": "Chinese & Japanese translations for NPCs in Genshin Impact",
-      "ja": "原神のキャラクター (NPC) の英語表記一覧"
+      "ja": "原神のキャラクター (NPC) の英語表記一覧",
+      "zh-CN": "English translations for NPCs in Genshin Impact"
     }
   },
   "how-to-call": {
     "en": "How to call",
     "ja": "呼び方",
+    "zh-CN": "How to call",
     "title": {
       "en": "How to call characters each other in Chinese & Japanese in Genshin Impact",
-      "ja": "原神のキャラ同士の呼び方の英語一覧"
+      "ja": "原神のキャラ同士の呼び方の英語一覧",
+      "zh-CN": "How to call characters each other in English in Genshin Impact"
     }
   },
   "title": {
     "en": "Title / Other name",
     "ja": "称号・職名・別名等",
+    "zh-CN": "Title・Job name・Other name etc.",
     "title": {
       "en": "Chinese & Japanese translations for titles and other names in Genshin Impact",
-      "ja": "原神における称号・職名・別名等の英語表記一覧"
+      "ja": "原神における称号・職名・別名等の英語表記一覧",
+      "zh-CN": "English translations for titles and other names in Genshin Impact"
     }
   },
   "enemy": {
     "en": "Enemy",
     "ja": "敵",
+    "zh-CN": "Enemy",
     "title": {
       "en": "Chinese & Japanese translations for enemies in Genshin Impact",
-      "ja": "原神の敵の英語表記一覧"
+      "ja": "原神の敵の英語表記一覧",
+      "zh-CN": "English translations for enemies in Genshin Impact"
     }
   },
   "enemy-boss": {
     "en": "Boss",
     "ja": "ボス",
+    "zh-CN": "Boss",
     "title": {
       "en": "Chinese & Japanese translations for bosses in Genshin Impact",
-      "ja": "原神のボスの英語表記一覧"
+      "ja": "原神のボスの英語表記一覧",
+      "zh-CN": "English translations for bosses in Genshin Impact"
     }
   },
   "location": {
     "en": "Location",
     "ja": "地名",
+    "zh-CN": "Location",
     "title": {
       "en": "Chinese & Japanese translations for locations in Genshin Impact",
-      "ja": "原神の地名の英語表記一覧"
+      "ja": "原神の地名の英語表記一覧",
+      "zh-CN": "English translations for locations in Genshin Impact"
     }
   },
   "domain": {
     "en": "Domain",
     "ja": "秘境",
+    "zh-CN": "Domain",
     "title": {
       "en": "Chinese & Japanese translations for domains in Genshin Impact",
-      "ja": "原神の秘境の英語表記一覧"
+      "ja": "原神の秘境の英語表記一覧",
+      "zh-CN": "English translations for domains in Genshin Impact"
     }
   },
   "event": {
     "en": "Event",
     "ja": "イベント",
+    "zh-CN": "Event",
     "title": {
       "en": "Chinese & Japanese translations for the events for Genshin Impact",
-      "ja": "原神のイベントの英語表記一覧"
+      "ja": "原神のイベントの英語表記一覧",
+      "zh-CN": "English translations for the events in Genshin Impact"
     }
   },
   "object": {
     "en": "Object",
     "ja": "オブジェクト",
+    "zh-CN": "Object",
     "title": {
       "en": "Chinese & Japanese translations for objects in Genshin Impact",
-      "ja": "原神に登場するオブジェクトの英語表記一覧"
+      "ja": "原神に登場するオブジェクトの英語表記一覧",
+      "zh-CN": "English translations for objects in Genshin Impact"
     }
   },
   "living-being": {
     "en": "Living-Being",
     "ja": "生物",
+    "zh-CN": "Living-Being",
     "title": {
       "en": "Chinese & Japanese translations for living-beings in Genshin Impact",
-      "ja": "原神に登場する生物の英語表記一覧"
+      "ja": "原神に登場する生物の英語表記一覧",
+      "zh-CN": "English translations for living-beings in Genshin Impact"
     }
   },
   "organization": {
     "en": "Organization",
     "ja": "組織",
+    "zh-CN": "Organization",
     "title": {
       "en": "Chinese & Japanese translations for organizations in Genshin Impact",
-      "ja": "原神に登場する組織の英語表記一覧"
+      "ja": "原神に登場する組織の英語表記一覧",
+      "zh-CN": "English translations for organizations in Genshin Impact"
     }
   },
   "facility": {
     "en": "Shop & Facility",
     "ja": "店舗・施設等",
+    "zh-CN": "Shop & Facility",
     "title": {
       "en": "Chinese & Japanese translations for shops & facilities in Genshin Impact",
-      "ja": "原神に登場する店舗・施設等の英語表記一覧"
+      "ja": "原神に登場する店舗・施設等の英語表記一覧",
+      "zh-CN": "English translations for shop & facilities in Genshin Impact"
     }
   },
   "quest-archon": {
     "en": "Archon Quest",
     "ja": "魔神任務",
+    "zh-CN": "Archon Quest",
     "title": {
       "en": "Chinese & Japanese translations for the Archon Quests in Genshin Impact",
-      "ja": "原神の魔神任務の英語表記一覧"
+      "ja": "原神の魔神任務の英語表記一覧",
+      "zh-CN": "English translations for the Archon Quests in Genshin Impact"
     }
   },
   "quest-world": {
     "en": "World Quest",
     "ja": "世界任務",
+    "zh-CN": "World Quest",
     "title": {
       "en": "Chinese & Japanese translations for the World Quests in Genshin Impact",
-      "ja": "原神の世界任務の英語表記一覧"
+      "ja": "原神の世界任務の英語表記一覧",
+      "zh-CN": "English translations for the World Quests in Genshin Impact"
     }
   },
   "quest-random": {
     "en": "Random Quest",
     "ja": "ランダムクエスト",
+    "zh-CN": "Random Quest",
     "title": {
       "en": "Chinese & Japanese translations for the Random Quests in Genshin Impact",
-      "ja": "原神のランダムクエストの英語表記一覧"
+      "ja": "原神のランダムクエストの英語表記一覧",
+      "zh-CN": "English translations for the Random Quests in Genshin Impact"
     }
   },
   "quest-story": {
     "en": "Story Quest",
     "ja": "伝説任務",
+    "zh-CN": "Story Quest",
     "title": {
       "en": "Chinese & Japanese translations for the Story Quests in Genshin Impact",
-      "ja": "原神の伝説任務の英語表記一覧"
+      "ja": "原神の伝説任務の英語表記一覧",
+      "zh-CN": "English translations for the Story Quests in Genshin Impact"
     }
   },
   "quest-daily": {
     "en": "Daily Commission",
     "ja": "デイリー依頼",
+    "zh-CN": "Daily Commission",
     "title": {
       "en": "Chinese & Japanese translations for the Daily Commissions in Genshin Impact",
-      "ja": "原神のデイリー依頼の英語表記一覧"
+      "ja": "原神のデイリー依頼の英語表記一覧",
+      "zh-CN": "English translations for the Daily Commissions in Genshin Impact"
     }
   },
   "item": {
     "en": "Item",
     "ja": "アイテム",
+    "zh-CN": "Item",
     "title": {
       "en": "Chinese & Japanese translations for items in Genshin Impact",
-      "ja": "原神のアイテムの英語表記一覧"
+      "ja": "原神のアイテムの英語表記一覧",
+      "zh-CN": "English translations for items in Genshin Impact"
     }
   },
   "specialty": {
     "en": "Local Specialty",
     "ja": "特産品",
+    "zh-CN": "Local Specialty",
     "title": {
       "en": "Chinese & Japanese translations for local specialties in Genshin Impact",
-      "ja": "原神の特産品の英語表記一覧"
+      "ja": "原神の特産品の英語表記一覧",
+      "zh-CN": "English translations for local specialties in Genshin Impact"
     }
   },
   "levelup-material": {
     "en": "Character Level-Up Material",
     "ja": "キャラクター育成素材",
+    "zh-CN": "Character Level-Up Material",
     "title": {
       "en": "Chinese & Japanese translations for character level-up materials in Genshin Impact",
-      "ja": "原神のキャラクター育成素材の英語表記一覧"
+      "ja": "原神のキャラクター育成素材の英語表記一覧",
+      "zh-CN": "English translations for character level-up materials in Genshin Impact"
     }
   },
   "talent-material": {
     "en": "Talent Level-Up Material",
     "ja": "天賦育成素材",
+    "zh-CN": "Talent Level-Up Material",
     "title": {
       "en": "Chinese & Japanese translations for talent level-up materials in Genshin Impact",
-      "ja": "原神の天賦育成素材の英語表記一覧"
+      "ja": "原神の天賦育成素材の英語表記一覧",
+      "zh-CN": "English translations for talent level-up materials in Genshin Impact"
     }
   },
   "food": {
     "en": "Food",
     "ja": "料理・食べ物",
+    "zh-CN": "Food",
     "title": {
       "en": "Chinese & Japanese translations for foods in Genshin Impact",
-      "ja": "原神の料理・食べ物の英語表記一覧"
+      "ja": "原神の料理・食べ物の英語表記一覧",
+      "zh-CN": "English translations for foods in Genshin Impact"
     }
   },
   "artifact": {
     "en": "Artifact",
     "ja": "聖遺物",
+    "zh-CN": "Artifact",
     "title": {
       "en": "Chinese & Japanese translations for the artifacts in Genshin Impact",
-      "ja": "原神の聖遺物の英語表記一覧"
+      "ja": "原神の聖遺物の英語表記一覧",
+      "zh-CN": "English translations for the artifacts in Genshin Impact"
     }
   },
   "artifact-piece": {
     "en": "A Piece of Artifacts",
     "ja": "聖遺物（個別名）",
+    "zh-CN": "A Piece of Artifacts",
     "title": {
       "en": "Chinese & Japanese translations for the pieces of artifacts in Genshin Impact",
-      "ja": "原神の聖遺物の個別名の英語表記一覧"
+      "ja": "原神の聖遺物の個別名の英語表記一覧",
+      "zh-CN": "English translations for the piece of artifacts in Genshin Impact"
     }
   },
   "dialogue": {
     "en": "Dialogue",
     "ja": "セリフ",
+    "zh-CN": "Dialogue",
     "title": {
       "en": "Chinese & Japanese translations for the dialogues in Genshin Impact",
-      "ja": "原神のセリフの英訳"
+      "ja": "原神のセリフの英訳",
+      "zh-CN": "English translations for the dialogues in Genshin Impact"
     }
   },
   "element": {
     "en": "Element",
     "ja": "元素",
+    "zh-CN": "Element",
     "title": {
       "en": "Chinese & Japanese translations for words related to the element",
-      "ja": "原神の元素に関する言葉の英語表記一覧"
+      "ja": "原神の元素に関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to the element"
     }
   },
   "sereniteapot": {
     "en": "Serenitea Pot",
     "ja": "塵歌壺",
+    "zh-CN": "Serenitea Pot",
     "title": {
       "en": "Chinese & Japanese translations for words related to Serenitea Pot",
-      "ja": "塵歌壺 (じんかつぼ) に関する言葉の英語表記一覧"
+      "ja": "塵歌壺 (じんかつぼ) に関する言葉の英語表記一覧",
+      "zh-CN": "English translations for words related to Serenitea Pot"
     }
   },
   "weapon": {
     "en": "Weapon",
     "ja": "武器",
+    "zh-CN": "Weapon",
     "title": {
       "en": "Chinese & Japanese translations for weapons in Genshin Impact",
-      "ja": "原神の武器の英語表記一覧"
+      "ja": "原神の武器の英語表記一覧",
+      "zh-CN": "English translations for weapons in Genshin Impact"
     }
   },
   "sword": {
     "en": "Sword",
     "ja": "片手剣",
+    "zh-CN": "Sword",
     "title": {
       "en": "Chinese & Japanese translations for swords in Genshin Impact",
-      "ja": "原神に登場する片手剣の英語表記一覧"
+      "ja": "原神に登場する片手剣の英語表記一覧",
+      "zh-CN": "English translations for swords in Genshin Impact"
     }
   },
   "claymore": {
     "en": "Claymore",
     "ja": "両手剣",
+    "zh-CN": "Claymore",
     "title": {
       "en": "Chinese & Japanese translations for claymores in Genshin Impact",
-      "ja": "原神に登場する両手剣の英語表記一覧"
+      "ja": "原神に登場する両手剣の英語表記一覧",
+      "zh-CN": "English translations for claymores in Genshin Impact"
     }
   },
   "polearm": {
     "en": "Polearm",
     "ja": "長柄武器",
+    "zh-CN": "Polearm",
     "title": {
       "en": "Chinese & Japanese translations for polearms in Genshin Impact",
-      "ja": "原神に登場する長柄武器の英語表記一覧"
+      "ja": "原神に登場する長柄武器の英語表記一覧",
+      "zh-CN": "English translations for polearms in Genshin Impact"
     }
   },
   "bow": {
     "en": "Bow",
     "ja": "弓",
+    "zh-CN": "Bow",
     "title": {
       "en": "Chinese & Japanese translations for bows in Genshin Impact",
-      "ja": "原神に登場する弓の英語表記一覧"
+      "ja": "原神に登場する弓の英語表記一覧",
+      "zh-CN": "English translations for bows in Genshin Impact"
     }
   },
   "catalyst": {
     "en": "Catalyst",
     "ja": "法器",
+    "zh-CN": "Catalyst",
     "title": {
       "en": "Chinese & Japanese translations for catalysts in Genshin Impact",
-      "ja": "原神に登場する法器の英語表記一覧"
+      "ja": "原神に登場する法器の英語表記一覧",
+      "zh-CN": "English translations for catalysts in Genshin Impact"
     }
   }
 }
