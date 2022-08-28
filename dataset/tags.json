@@ -3,7 +3,7 @@
     "en": "Mondstadt",
     "ja": "モンド",
     "title": {
-      "en": "Japanese translations for words related to Mondstadt",
+      "en": "Chinese & Japanese translations for words related to Mondstadt",
       "ja": "モンドに関する言葉の英語表記一覧"
     }
   },
@@ -11,7 +11,7 @@
     "en": "Dragonspine",
     "ja": "ドラゴンスパイン",
     "title": {
-      "en": "Japanese translations for words related to Dragonspine",
+      "en": "Chinese & Japanese translations for words related to Dragonspine",
       "ja": "ドラゴンスパインに関する言葉の英語表記一覧"
     }
   },
@@ -19,7 +19,7 @@
     "en": "Liyue",
     "ja": "璃月",
     "title": {
-      "en": "Japanese translations for words related to Liyue",
+      "en": "Chinese & Japanese translations for words related to Liyue",
       "ja": "璃月に関する言葉の英語表記一覧"
     }
   },
@@ -27,7 +27,7 @@
     "en": "Inazuma",
     "ja": "稲妻",
     "title": {
-      "en": "Japanese translations for words related to Inazuma",
+      "en": "Chinese & Japanese translations for words related to Inazuma",
       "ja": "稲妻に関する言葉の英語表記一覧"
     }
   },
@@ -35,7 +35,7 @@
     "en": "Sumeru",
     "ja": "スメール",
     "title": {
-      "en": "Japanese translations for words related to Sumeru",
+      "en": "Chinese & Japanese translations for words related to Sumeru",
       "ja": "スメールに関する言葉の英語表記一覧"
     }
   },
@@ -43,7 +43,7 @@
     "en": "Snezhnaya / Fatui",
     "ja": "スネージナヤ・ファデュイ",
     "title": {
-      "en": "Japanese translations for words related to Snezhnaya & Fatui",
+      "en": "Chinese & Japanese translations for words related to Snezhnaya & Fatui",
       "ja": "スネージナヤ・ファデュイに関する言葉の英語表記一覧"
     }
   },
@@ -51,7 +51,7 @@
     "en": "Character (Playable)",
     "ja": "キャラ (プレイアブル)",
     "title": {
-      "en": "Japanese translations for playable characters in Genshin Impact",
+      "en": "Chinese & Japanese translations for playable characters in Genshin Impact",
       "ja": "原神のプレイアブルキャラクターの英語表記一覧"
     }
   },
@@ -59,7 +59,7 @@
     "en": "Character (NPC)",
     "ja": "キャラ (NPC)",
     "title": {
-      "en": "Japanese translations for NPCs in Genshin Impact",
+      "en": "Chinese & Japanese translations for NPCs in Genshin Impact",
       "ja": "原神のキャラクター (NPC) の英語表記一覧"
     }
   },
@@ -75,7 +75,7 @@
     "en": "Title / Other name",
     "ja": "称号・職名・別名等",
     "title": {
-      "en": "Japanese translations for titles and other names in Genshin Impact",
+      "en": "Chinese & Japanese translations for titles and other names in Genshin Impact",
       "ja": "原神における称号・職名・別名等の英語表記一覧"
     }
   },
@@ -83,7 +83,7 @@
     "en": "Enemy",
     "ja": "敵",
     "title": {
-      "en": "Japanese translations for enemies in Genshin Impact",
+      "en": "Chinese & Japanese translations for enemies in Genshin Impact",
       "ja": "原神の敵の英語表記一覧"
     }
   },
@@ -91,7 +91,7 @@
     "en": "Boss",
     "ja": "ボス",
     "title": {
-      "en": "Japanese translations for bosses in Genshin Impact",
+      "en": "Chinese & Japanese translations for bosses in Genshin Impact",
       "ja": "原神のボスの英語表記一覧"
     }
   },
@@ -99,7 +99,7 @@
     "en": "Location",
     "ja": "地名",
     "title": {
-      "en": "Japanese translations for locations in Genshin Impact",
+      "en": "Chinese & Japanese translations for locations in Genshin Impact",
       "ja": "原神の地名の英語表記一覧"
     }
   },
@@ -107,7 +107,7 @@
     "en": "Domain",
     "ja": "秘境",
     "title": {
-      "en": "Japanese translations for domains in Genshin Impact",
+      "en": "Chinese & Japanese translations for domains in Genshin Impact",
       "ja": "原神の秘境の英語表記一覧"
     }
   },
@@ -115,7 +115,7 @@
     "en": "Event",
     "ja": "イベント",
     "title": {
-      "en": "Japanese translations for the events for Genshin Impact",
+      "en": "Chinese & Japanese translations for the events for Genshin Impact",
       "ja": "原神のイベントの英語表記一覧"
     }
   },
@@ -123,7 +123,7 @@
     "en": "Object",
     "ja": "オブジェクト",
     "title": {
-      "en": "Japanese translations for objects in Genshin Impact",
+      "en": "Chinese & Japanese translations for objects in Genshin Impact",
       "ja": "原神に登場するオブジェクトの英語表記一覧"
     }
   },
@@ -131,7 +131,7 @@
     "en": "Living-Being",
     "ja": "生物",
     "title": {
-      "en": "Japanese translations for living-beings in Genshin Impact",
+      "en": "Chinese & Japanese translations for living-beings in Genshin Impact",
       "ja": "原神に登場する生物の英語表記一覧"
     }
   },
@@ -139,7 +139,7 @@
     "en": "Organization",
     "ja": "組織",
     "title": {
-      "en": "Japanese translations for organizations in Genshin Impact",
+      "en": "Chinese & Japanese translations for organizations in Genshin Impact",
       "ja": "原神に登場する組織の英語表記一覧"
     }
   },
@@ -147,7 +147,7 @@
     "en": "Shop & Facility",
     "ja": "店舗・施設等",
     "title": {
-      "en": "Japanese translations for shops & facilities in Genshin Impact",
+      "en": "Chinese & Japanese translations for shops & facilities in Genshin Impact",
       "ja": "原神に登場する店舗・施設等の英語表記一覧"
     }
   },
@@ -155,7 +155,7 @@
     "en": "Archon Quest",
     "ja": "魔神任務",
     "title": {
-      "en": "Japanese translations for the Archon Quests in Genshin Impact",
+      "en": "Chinese & Japanese translations for the Archon Quests in Genshin Impact",
       "ja": "原神の魔神任務の英語表記一覧"
     }
   },
@@ -163,7 +163,7 @@
     "en": "World Quest",
     "ja": "世界任務",
     "title": {
-      "en": "Japanese translations for the World Quests in Genshin Impact",
+      "en": "Chinese & Japanese translations for the World Quests in Genshin Impact",
       "ja": "原神の世界任務の英語表記一覧"
     }
   },
@@ -171,7 +171,7 @@
     "en": "Random Quest",
     "ja": "ランダムクエスト",
     "title": {
-      "en": "Japanese translations for the Random Quests in Genshin Impact",
+      "en": "Chinese & Japanese translations for the Random Quests in Genshin Impact",
       "ja": "原神のランダムクエストの英語表記一覧"
     }
   },
@@ -179,7 +179,7 @@
     "en": "Story Quest",
     "ja": "伝説任務",
     "title": {
-      "en": "Japanese translations for the Story Quests in Genshin Impact",
+      "en": "Chinese & Japanese translations for the Story Quests in Genshin Impact",
       "ja": "原神の伝説任務の英語表記一覧"
     }
   },
@@ -187,7 +187,7 @@
     "en": "Daily Commission",
     "ja": "デイリー依頼",
     "title": {
-      "en": "Japanese translations for the Daily Commissions in Genshin Impact",
+      "en": "Chinese & Japanese translations for the Daily Commissions in Genshin Impact",
       "ja": "原神のデイリー依頼の英語表記一覧"
     }
   },
@@ -195,7 +195,7 @@
     "en": "Item",
     "ja": "アイテム",
     "title": {
-      "en": "Japanese translations for items in Genshin Impact",
+      "en": "Chinese & Japanese translations for items in Genshin Impact",
       "ja": "原神のアイテムの英語表記一覧"
     }
   },
@@ -203,7 +203,7 @@
     "en": "Local Specialty",
     "ja": "特産品",
     "title": {
-      "en": "Japanese translations for local specialties in Genshin Impact",
+      "en": "Chinese & Japanese translations for local specialties in Genshin Impact",
       "ja": "原神の特産品の英語表記一覧"
     }
   },
@@ -211,7 +211,7 @@
     "en": "Character Level-Up Material",
     "ja": "キャラクター育成素材",
     "title": {
-      "en": "Japanese translations for character level-up materials in Genshin Impact",
+      "en": "Chinese & Japanese translations for character level-up materials in Genshin Impact",
       "ja": "原神のキャラクター育成素材の英語表記一覧"
     }
   },
@@ -219,7 +219,7 @@
     "en": "Talent Level-Up Material",
     "ja": "天賦育成素材",
     "title": {
-      "en": "Japanese translations for talent level-up materials in Genshin Impact",
+      "en": "Chinese & Japanese translations for talent level-up materials in Genshin Impact",
       "ja": "原神の天賦育成素材の英語表記一覧"
     }
   },
@@ -227,7 +227,7 @@
     "en": "Food",
     "ja": "料理・食べ物",
     "title": {
-      "en": "Japanese translations for foods in Genshin Impact",
+      "en": "Chinese & Japanese translations for foods in Genshin Impact",
       "ja": "原神の料理・食べ物の英語表記一覧"
     }
   },
@@ -235,7 +235,7 @@
     "en": "Artifact",
     "ja": "聖遺物",
     "title": {
-      "en": "Japanese translations for the artifacts in Genshin Impact",
+      "en": "Chinese & Japanese translations for the artifacts in Genshin Impact",
       "ja": "原神の聖遺物の英語表記一覧"
     }
   },
@@ -243,7 +243,7 @@
     "en": "A Piece of Artifacts",
     "ja": "聖遺物（個別名）",
     "title": {
-      "en": "Japanese translations for the pieces of artifacts in Genshin Impact",
+      "en": "Chinese & Japanese translations for the pieces of artifacts in Genshin Impact",
       "ja": "原神の聖遺物の個別名の英語表記一覧"
     }
   },
@@ -251,7 +251,7 @@
     "en": "Dialogue",
     "ja": "セリフ",
     "title": {
-      "en": "Japanese translations for the dialogues in Genshin Impact",
+      "en": "Chinese & Japanese translations for the dialogues in Genshin Impact",
       "ja": "原神のセリフの英訳"
     }
   },
@@ -259,7 +259,7 @@
     "en": "Element",
     "ja": "元素",
     "title": {
-      "en": "Japanese translations for words related to the element",
+      "en": "Chinese & Japanese translations for words related to the element",
       "ja": "原神の元素に関する言葉の英語表記一覧"
     }
   },
@@ -267,7 +267,7 @@
     "en": "Serenitea Pot",
     "ja": "塵歌壺",
     "title": {
-      "en": "Japanese translations for words related to Serenitea Pot",
+      "en": "Chinese & Japanese translations for words related to Serenitea Pot",
       "ja": "塵歌壺 (じんかつぼ) に関する言葉の英語表記一覧"
     }
   },
@@ -275,7 +275,7 @@
     "en": "Weapon",
     "ja": "武器",
     "title": {
-      "en": "Japanese translations for weapons in Genshin Impact",
+      "en": "Chinese & Japanese translations for weapons in Genshin Impact",
       "ja": "原神の武器の英語表記一覧"
     }
   },
@@ -283,7 +283,7 @@
     "en": "Sword",
     "ja": "片手剣",
     "title": {
-      "en": "Japanese translations for swords in Genshin Impact",
+      "en": "Chinese & Japanese translations for swords in Genshin Impact",
       "ja": "原神に登場する片手剣の英語表記一覧"
     }
   },
@@ -291,7 +291,7 @@
     "en": "Claymore",
     "ja": "両手剣",
     "title": {
-      "en": "Japanese translations for claymores in Genshin Impact",
+      "en": "Chinese & Japanese translations for claymores in Genshin Impact",
       "ja": "原神に登場する両手剣の英語表記一覧"
     }
   },
@@ -299,7 +299,7 @@
     "en": "Polearm",
     "ja": "長柄武器",
     "title": {
-      "en": "Japanese translations for polearms in Genshin Impact",
+      "en": "Chinese & Japanese translations for polearms in Genshin Impact",
       "ja": "原神に登場する長柄武器の英語表記一覧"
     }
   },
@@ -307,7 +307,7 @@
     "en": "Bow",
     "ja": "弓",
     "title": {
-      "en": "Japanese translations for bows in Genshin Impact",
+      "en": "Chinese & Japanese translations for bows in Genshin Impact",
       "ja": "原神に登場する弓の英語表記一覧"
     }
   },
@@ -315,7 +315,7 @@
     "en": "Catalyst",
     "ja": "法器",
     "title": {
-      "en": "Japanese translations for catalysts in Genshin Impact",
+      "en": "Chinese & Japanese translations for catalysts in Genshin Impact",
       "ja": "原神に登場する法器の英語表記一覧"
     }
   }
