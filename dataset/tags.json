@@ -66,7 +66,10 @@
   "how-to-call": {
     "en": "How to call",
     "ja": "呼び方",
-    "title": "原神のキャラ同士の呼び方の英語一覧"
+    "title": {
+      "en": "How to call characters each other in Chinese & Japanese in Genshin Impact",
+      "ja": "原神のキャラ同士の呼び方の英語一覧"
+    }
   },
   "title": {
     "en": "Title / Other name",
