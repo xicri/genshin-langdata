@@ -345,7 +345,7 @@
     ja: "珍奇な宝箱",
     zhCN: "奇馈宝箱",
     pronunciationJa: "ちんきなたからばこ",
-    tags: [ "object", "inazuma" ],
+    tags: [ "object" ],
   },
   {
     en: "Waverider",
