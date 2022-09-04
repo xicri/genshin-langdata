@@ -1868,9 +1868,9 @@
     notes: "Eleazar の原義はユダヤ人の男性名で、聖書にも Eleazar という司教が登場する。意味は「神が助けた」",
   },
   {
-    en: "Dori",
-    ja: "ドリー",
-    zhCN: "多莉",
+    en: "Dori Sangemah Bay",
+    ja: "ドリー・サングマハベイ",
+    zhCN: "多莉·桑歌玛哈巴依",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -1975,12 +1975,6 @@
     en: "Khajeh",
     ja: "カジェ",
     zhCN: "卡瓦贾",
-    tags: [ "sumeru", "character-sub" ],
-  },
-  {
-    en: "Sangemah Bay",
-    ja: "サングマハベイ",
-    zhCN: "桑歌玛哈巴依",
     tags: [ "sumeru", "character-sub" ],
   },
   {
