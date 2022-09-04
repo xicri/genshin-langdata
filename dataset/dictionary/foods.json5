@@ -351,6 +351,12 @@
     pronunciationJa: "うりんサラダ",
     tags: [ "food" ],
   },
+  {
+    en: "Mushroom Hodgepodge",
+    ja: "山盛りキノコ",
+    pronunciationJa: "やまもりキノコ",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -730,6 +736,12 @@
     ja: "カニのバター添え",
     zhCN: "黄油蟹蟹",
     pronunciationJa: "カニのバターぞえ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Biryani",
+    ja: "獣肉のビリヤニ",
+    pronunciationJa: "けものにくのビリヤニ",
     tags: [ "food" ],
   },
 
@@ -1257,6 +1269,11 @@
     en: "Activated Starshroom",
     ja: "みなぎる星茸",
     zhCN: "活化星茸", // TODO: Need check
+    tags: [ "food" ],
+  },
+  {
+    en: "Scorched Starshroom",
+    ja: "ひからびた星茸",
     tags: [ "food" ],
   },
   {

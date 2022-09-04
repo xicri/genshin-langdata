@@ -446,6 +446,43 @@
     zhCN: "悼灵花",
     tags: [ "sumeru" ],
   },
+  // Aranaras' language
+  {
+    en: "Nara",
+    ja: "ナラ",
+    tags: [ "sumeru" ],
+    notes: "アランナラの言葉で「人」",
+  },
+  {
+    en: "Festival Utsava",
+    ja: "ウツァヴ祭",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Big Iron Chunks",
+    ja: "大鉄塊",
+    tags: [ "sumeru" ],
+    notes: "アランナラの言葉で遺跡機械のこと",
+  },
+  {
+    en: "Marana",
+    ja: "マラーナ",
+    tags: [ "sumeru" ],
+    notes: "アランナラの言葉で死域のこと",
+  },
+  {
+    en: "Vana",
+    ja: "ヴァーナ",
+    tags: [ "sumeru" ],
+    notes: "アランナラの言葉で「森」",
+  },
+  {
+    en: "Valuka",
+    ja: "ワルカ",
+    tags: [ "sumeru" ],
+    notes: "アランナラの言葉で「砂」",
+  },
+
 
   //
   // Snezhnaya / Fatui

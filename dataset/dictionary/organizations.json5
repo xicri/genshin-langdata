@@ -268,6 +268,12 @@
   // Fontaine
   //
   {
+    en: "The Steambird",
+    ja: "スチームバード新聞",
+    pronunciationJa: "スチームバードしんぶん",
+    tags: [ "organization" ],
+  },
+  {
     en: "Daydream Club",
     ja: "空想クラブ",
     zhCN: "空想俱乐部",

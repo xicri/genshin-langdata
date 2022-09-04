@@ -371,6 +371,24 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Vasara Tree",
+    ja: "ヴァサラの樹",
+    pronunciationJa: "ヴァサラのき",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Varuna Contraption",
+    ja: "ヴァルナ神器",
+    pronunciationJa: "ヴァルナしんき",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Varunastra",
+    ja: "ヴァルナ秘宝",
+    pronunciationJa: "ヴァルナひほう",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Divine Tree",
     ja: "聖樹",
     zhCN: "圣树", // TODO: Need check
@@ -406,6 +424,16 @@
     en: "Clusterleaf of Cultivation",
     ja: "リーフコア",
     zhCN: "众叶觉蕊",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Phantasmal Gate",
+    ja: "幻夢ノ扉",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Phantasmal Seeds",
+    ja: "幻夢ノ種",
     tags: [ "object", "sumeru" ],
   },
   {

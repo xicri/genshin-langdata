@@ -569,6 +569,11 @@
     ja: "隠雷の実",
     tags: [ "levelup-material", "item" ],
   },
+  {
+    en: "Majestic Hooked Beak",
+    ja: "茸王の鉤状のくちばし",
+    tags: [ "levelup-material", "item" ],
+  },
   // Dvalin
   {
     en: "Dvalin's Plume",
@@ -1396,6 +1401,73 @@
     ja: "今昔劇画の鬼人",
     zhCN: "今昔剧画之鬼人",
     pronunciationJa: "こんじゃくげきがのきじん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Olden Days of Scorching Might",
+    ja: "烈日権威の往日",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dream of Scorching Might",
+    ja: "烈日権威の夢想",
+    tags: [ "item" ],
+  },
+  {
+    en: "Remnant Glow of Scorching Might",
+    ja: "烈日権威の残光",
+    tags: [ "item" ],
+  },
+  {
+    en: "Echo of Scorching Might",
+    ja: "烈日権威の残響",
+    tags: [ "item" ],
+  },
+  {
+    en: "Oasis Garden's Truth",
+    ja: "オアシスガーデンの真諦",
+    pronunciationJa: "オアシスガーデンのしんたい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Oasis Garden's Mourning",
+    ja: "オアシスガーデンの哀思",
+    pronunciationJa: "オアシスガーデンのあいし",
+    tags: [ "item" ],
+  },
+  {
+    en: "Oasis Garden's Kindness",
+    ja: "オアシスガーデンの恩恵",
+    pronunciationJa: "オアシスガーデンのおんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Oasis Garden's Reminiscence",
+    ja: "オアシスガーデンの追憶",
+    pronunciationJa: "オアシスガーデンのついおく",
+    tags: [ "item" ],
+  },
+  {
+    en: "Golden Talisman of the Forest Dew",
+    ja: "静謐な森のしずくの金符",
+    pronunciationJa: "せいひつなもりのしずくのきんぷ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Silver Talisman of the Forest Dew",
+    ja: "静謐な森のしずくの銀符",
+    pronunciationJa: "せいひつなもりのしずくのぎんぷ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Iron Talisman of the Forest Dew",
+    ja: "静謐な森のしずくの鉄符",
+    pronunciationJa: "せいひつなもりのしずくのてっぷ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Copper Talisman of the Forest Dew",
+    ja: "静謐な森のしずくの銅符",
     tags: [ "item" ],
   },
 
@@ -2256,6 +2328,12 @@
     pronunciationJa: "ほくりくほうきのげんけい",
     tags: [ "item" ],
   },
+  {
+    en: "Midlander Sword Billet",
+    ja: "中央大陸片手剣の原型",
+    pronunciationJa: "ちゅうおうたいりくかたてけんのげんけい",
+    tags: [ "item" ],
+  },
 
 
   //
@@ -2579,6 +2657,17 @@
   },
 
   //
+  // Gadgets
+  //
+  {
+    en: "Aranyaka",
+    ja: "森林書",
+    pronunciationJa: "しんりんしょ",
+    tags: [ "item", "quest-world", "sumeru" ],
+    notes: "スメールの世界任務名、及びその中で手に入る同名のアイテム名",
+  },
+
+  //
   // Quest Items
   //
   {
@@ -2611,6 +2700,16 @@
   {
     en: "Vasmrti",
     ja: "ヴァスミリティ",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Vasoma Fruit",
+    ja: "ヴァソマの実",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Bija",
+    ja: "ビージャの実",
     tags: [ "item", "sumeru" ],
   },
   {
