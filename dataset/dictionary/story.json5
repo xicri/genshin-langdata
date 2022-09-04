@@ -430,14 +430,14 @@
     en: "Knowledge Capsule / Canned Knowledge",
     ja: "缶詰知識",
     zhCN: "罐装知识",
-    pronunciationJa: "かんずめちしき",
+    pronunciationJa: "かんづめちしき",
     tags: [ "sumeru" ],
   },
   {
     en: "Divine Knowledge Capsule",
     ja: "神の缶詰知識",
     zhCN: "神明罐装知识",
-    pronunciationJa: "かみのかんずめちしき",
+    pronunciationJa: "かみのかんづめちしき",
     tags: [ "sumeru" ],
   },
   {
