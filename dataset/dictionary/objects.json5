@@ -345,7 +345,7 @@
     ja: "珍奇な宝箱",
     zhCN: "奇馈宝箱",
     pronunciationJa: "ちんきなたからばこ",
-    tags: [ "object", "inazuma" ],
+    tags: [ "object" ],
   },
   {
     en: "Waverider",
@@ -368,6 +368,24 @@
     ja: "ヴァナラーナの夢の樹",
     zhCN: "桓那兰那的梦之树",
     pronunciationJa: "ヴァナラーナのゆめのき",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Vasara Tree",
+    ja: "ヴァサラの樹",
+    pronunciationJa: "ヴァサラのき",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Varuna Contraption",
+    ja: "ヴァルナ神器",
+    pronunciationJa: "ヴァルナしんき",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Varunastra",
+    ja: "ヴァルナ秘宝",
+    pronunciationJa: "ヴァルナひほう",
     tags: [ "object", "sumeru" ],
   },
   {
@@ -406,6 +424,16 @@
     en: "Clusterleaf of Cultivation",
     ja: "リーフコア",
     zhCN: "众叶觉蕊",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Phantasmal Gate",
+    ja: "幻夢ノ扉",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Phantasmal Seeds",
+    ja: "幻夢ノ種",
     tags: [ "object", "sumeru" ],
   },
   {

@@ -1868,9 +1868,9 @@
     notes: "Eleazar の原義はユダヤ人の男性名で、聖書にも Eleazar という司教が登場する。意味は「神が助けた」",
   },
   {
-    en: "Dori",
-    ja: "ドリー",
-    zhCN: "多莉",
+    en: "Dori Sangemah Bay",
+    ja: "ドリー・サングマハベイ",
+    zhCN: "多莉·桑歌玛哈巴依",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -1978,12 +1978,6 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
-    en: "Sangemah Bay",
-    ja: "サングマハベイ",
-    zhCN: "桑歌玛哈巴依",
-    tags: [ "sumeru", "character-sub" ],
-  },
-  {
     en: "Haypasia",
     ja: "ハイパシア",
     zhCN: "海芭夏",
@@ -2008,6 +2002,11 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Alrani",
+    ja: "アラニ",
+    tags: [ "sumeru", "inazuma", "character-sub" ],
+  },
+  {
     en: "Ahangar",
     ja: "アハンガル",
     zhCN: "阿汉格尔",
@@ -2017,6 +2016,83 @@
     en: "Scarlet King",
     ja: "スカーレットキング",
     zhCN: "赤王",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  // Aranaras & related
+  {
+    en: "Rana",
+    ja: "ラナ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Varuna",
+    ja: "ヴァルナ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "アランナラが過去に出会ったもう1人の金色の髪の人間。通例 Nara (人間) を付けて Nara Varuna。",
+  },
+  {
+    en: "Arana",
+    ja: "アランラナ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arama",
+    ja: "アランマ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Araja",
+    ja: "アランラジャ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arapacati",
+    ja: "アランパカティ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aranakula",
+    ja: "アランナクラ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arakunti",
+    ja: "アランコンティ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arabalika",
+    ja: "アランバリカ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arapandu",
+    ja: "アランパンドゥ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arakara",
+    ja: "アランカラ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arachanda",
+    ja: "アランチャントラ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Arasaka",
+    ja: "アランサカ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aramuhukunda",
+    ja: "アランムフクンダ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aradasha",
+    ja: "アランダーシャ",
     tags: [ "sumeru", "character-sub" ],
   },
 

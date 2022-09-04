@@ -1067,6 +1067,11 @@
     zhCN: "净善宫",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Razan Garden",
+    ja: "ラザンガーデン",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Avidya Forest",
@@ -1202,6 +1207,18 @@
     pronunciationJa: "キャラバンしゅくえき",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Grove of Dreams",
+    ja: "夢の林",
+    pronunciationJa: "ゆめのはやし",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Rain's End",
+    ja: "雨の果て",
+    pronunciationJa: "あめのはて",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Vissudha Field",
@@ -1210,11 +1227,22 @@
     pronunciationJa: "ヴィシュッダへんど",
     tags: [ "sumeru", "location" ],
   },
-
   {
     en: "Vanarana",
     ja: "ヴァナラーナ",
     zhCN: "桓那兰那",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Mahavanaranapna",
+    ja: "マハヴァナラーナパナ",
+    tags: [ "sumeru", "location" ],
+    notes: "アランナラの言葉で、夢の中のヴァナラーナを指す",
+  },
+
+  {
+    en: "Ashvattha's Concourses",
+    ja: "アシュヴァッタ堂",
     tags: [ "sumeru", "location" ],
   },
   {

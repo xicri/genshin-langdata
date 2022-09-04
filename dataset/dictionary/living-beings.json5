@@ -70,6 +70,12 @@
     tags: [ "living-being", "inazuma" ],
   },
   {
+    en: "Dendro Crystalfly",
+    ja: "草晶蝶",
+    pronunciationJa: "くさしょうちょう",
+    tags: [ "living-being", "sumeru" ],
+  },
+  {
     en: "Forest Boar",
     ja: "イノシシ",
     zhCN: "野林猪",
