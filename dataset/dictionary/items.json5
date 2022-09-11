@@ -567,11 +567,13 @@
   {
     en: "Thunderclap Fruitcore",
     ja: "隠雷の実",
+    zhCN: "藏雷野实",
     tags: [ "levelup-material", "item" ],
   },
   {
     en: "Majestic Hooked Beak",
     ja: "茸王の鉤状のくちばし",
+    zhCN: "蕈王钩喙",
     tags: [ "levelup-material", "item" ],
   },
   // Dvalin
@@ -1406,68 +1408,80 @@
   {
     en: "Olden Days of Scorching Might",
     ja: "烈日権威の往日",
+    zhCN: "烈日威权的旧日",
     tags: [ "item" ],
   },
   {
     en: "Dream of Scorching Might",
     ja: "烈日権威の夢想",
+    zhCN: "烈日威权的梦想",
     tags: [ "item" ],
   },
   {
     en: "Remnant Glow of Scorching Might",
     ja: "烈日権威の残光",
+    zhCN: "烈日威权的余光",
     tags: [ "item" ],
   },
   {
     en: "Echo of Scorching Might",
     ja: "烈日権威の残響",
+    zhCN: "烈日威权的残响",
     tags: [ "item" ],
   },
   {
     en: "Oasis Garden's Truth",
     ja: "オアシスガーデンの真諦",
+    zhCN: "绿洲花园的真谛",
     pronunciationJa: "オアシスガーデンのしんたい",
     tags: [ "item" ],
   },
   {
     en: "Oasis Garden's Mourning",
     ja: "オアシスガーデンの哀思",
+    zhCN: "绿洲花园的哀思",
     pronunciationJa: "オアシスガーデンのあいし",
     tags: [ "item" ],
   },
   {
     en: "Oasis Garden's Kindness",
     ja: "オアシスガーデンの恩恵",
+    zhCN: "绿洲花园的恩惠",
     pronunciationJa: "オアシスガーデンのおんけい",
     tags: [ "item" ],
   },
   {
     en: "Oasis Garden's Reminiscence",
     ja: "オアシスガーデンの追憶",
+    zhCN: "绿洲花园的追忆",
     pronunciationJa: "オアシスガーデンのついおく",
     tags: [ "item" ],
   },
   {
     en: "Golden Talisman of the Forest Dew",
     ja: "静謐な森のしずくの金符",
+    zhCN: "谧林涓露的金符",
     pronunciationJa: "せいひつなもりのしずくのきんぷ",
     tags: [ "item" ],
   },
   {
     en: "Silver Talisman of the Forest Dew",
     ja: "静謐な森のしずくの銀符",
+    zhCN: "谧林涓露的银符",
     pronunciationJa: "せいひつなもりのしずくのぎんぷ",
     tags: [ "item" ],
   },
   {
     en: "Iron Talisman of the Forest Dew",
     ja: "静謐な森のしずくの鉄符",
+    zhCN: "谧林涓露的铁符",
     pronunciationJa: "せいひつなもりのしずくのてっぷ",
     tags: [ "item" ],
   },
   {
     en: "Copper Talisman of the Forest Dew",
     ja: "静謐な森のしずくの銅符",
+    zhCN: "谧林涓露的铜符",
     tags: [ "item" ],
   },
 
@@ -2331,6 +2345,7 @@
   {
     en: "Midlander Sword Billet",
     ja: "中央大陸片手剣の原型",
+    zhCN: "央陆单手剑原胚",
     pronunciationJa: "ちゅうおうたいりくかたてけんのげんけい",
     tags: [ "item" ],
   },
@@ -2662,6 +2677,7 @@
   {
     en: "Aranyaka",
     ja: "森林書",
+    zhCN: "森林书",
     pronunciationJa: "しんりんしょ",
     tags: [ "item", "quest-world", "sumeru" ],
     notes: "スメールの世界任務名、及びその中で手に入る同名のアイテム名",
@@ -2687,6 +2703,7 @@
   {
     en: "Divine Bridle",
     ja: "神輿手綱",
+    zhCN: "神舆之辔",
     pronunciationJa: "みこしたづな",
     tags: [ "item", "inazuma" ],
   },
@@ -2700,21 +2717,25 @@
   {
     en: "Vasmrti",
     ja: "ヴァスミリティ",
+    zhCN: "桓斯弥利底",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "Vasoma Fruit",
     ja: "ヴァソマの実",
+    zhCN: "恒素果",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "Bija",
     ja: "ビージャの実",
+    zhCN: "惟耶之实",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "Lost Energy Block",
     ja: "失われたエネルギーブロック",
+    zhCN: "遗落的能量块",
     pronunciationJa: "うしなわれたエネルギーブロック",
     tags: [ "item", "sumeru" ],
   },
