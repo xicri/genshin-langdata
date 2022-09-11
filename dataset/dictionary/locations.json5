@@ -1070,6 +1070,7 @@
   {
     en: "Razan Garden",
     ja: "ラザンガーデン",
+    zhCN: "寂静园",
     tags: [ "sumeru", "location" ],
   },
 
@@ -1210,12 +1211,14 @@
   {
     en: "Grove of Dreams",
     ja: "夢の林",
+    zhCN: "梦景林莽",
     pronunciationJa: "ゆめのはやし",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "The Rain's End",
     ja: "雨の果て",
+    zhCN: "雨的尽头",
     pronunciationJa: "あめのはて",
     tags: [ "sumeru", "location" ],
   },
@@ -1236,6 +1239,7 @@
   {
     en: "Mahavanaranapna",
     ja: "マハヴァナラーナパナ",
+    zhCN: "玛哈桓那兰那薜那",
     tags: [ "sumeru", "location" ],
     notes: "アランナラの言葉で、夢の中のヴァナラーナを指す",
   },
@@ -1243,6 +1247,7 @@
   {
     en: "Ashvattha's Concourses",
     ja: "アシュヴァッタ堂",
+    zhCN: "觉树之堂",
     tags: [ "sumeru", "location" ],
   },
   {
