@@ -373,18 +373,21 @@
   {
     en: "Vasara Tree",
     ja: "ヴァサラの樹",
+    zhCN: "莎兰树",
     pronunciationJa: "ヴァサラのき",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Varuna Contraption",
     ja: "ヴァルナ神器",
+    zhCN: "法留纳神机",
     pronunciationJa: "ヴァルナしんき",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Varunastra",
     ja: "ヴァルナ秘宝",
+    zhCN: "法留纳法宝",
     pronunciationJa: "ヴァルナひほう",
     tags: [ "object", "sumeru" ],
   },
@@ -429,11 +432,13 @@
   {
     en: "Phantasmal Gate",
     ja: "幻夢ノ扉",
+    zhCN: "幻梦之门",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Phantasmal Seeds",
     ja: "幻夢ノ種",
+    zhCN: "幻梦之种",
     tags: [ "object", "sumeru" ],
   },
   {
