@@ -270,6 +270,7 @@
   {
     en: "The Steambird",
     ja: "スチームバード新聞",
+    zhCN: "蒸汽鸟报",
     pronunciationJa: "スチームバードしんぶん",
     tags: [ "organization" ],
   },
