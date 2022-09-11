@@ -168,6 +168,7 @@
   {
     en: "World Quest",
     ja: "世界任務",
+    zhCN: "世界任务",
     pronunciationJa: "せかいにんむ",
     tags: [ "quest-world" ],
   },
@@ -1024,6 +1025,7 @@
   {
     en: "Story Quest",
     ja: "伝説任務",
+    zhCN: "传说任务",
     pronunciationJa: "でんせつにんむ",
     tags: [ "quest-story" ],
   },
@@ -1217,12 +1219,14 @@
   {
     en: "Daily Commission",
     ja: "デイリー依頼",
+    zhCN: "每日委托",
     pronunciationJa: "デイリーいらい",
     tags: [ "quest-daily" ],
   },
   {
     en: "Commission Quest",
     ja: "依頼任務",
+    zhCN: "委托任务",
     pronunciationJa: "いらいにんむ",
     tags: [ "quest-daily" ],
     variants: {
@@ -1673,28 +1677,33 @@
   {
     en: "Expedition",
     ja: "探索派遣",
+    zhCN: "探索派遣",
     pronunciationJa: "たんさくはけん",
   },
   {
     en: "Reputation Quest",
     ja: "評判任務",
+    zhCN: "声望任务",
     pronunciationJa: "ひょうばんにんむ",
   },
   {
     en: "Bounties",
     ja: "討伐懸賞",
+    zhCN: "讨伐悬赏",
     pronunciationJa: "とうばつけんしょう",
     notes: "評判任務の1つ",
   },
   {
     en: "Requests",
     ja: "住民リクエスト",
+    zhCN: "居民请求",
     pronunciationJa: "じゅうみんリクエスト",
     notes: "評判任務の1つ",
   },
   {
     en: "Hangout Event",
     ja: "デートイベント",
+    zhCN: "邀约任务",
     variants: {
       en: [ "Hangout" ],
     },

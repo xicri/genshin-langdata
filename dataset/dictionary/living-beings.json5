@@ -72,6 +72,7 @@
   {
     en: "Dendro Crystalfly",
     ja: "草晶蝶",
+    zhCN: "草晶蝶",
     pronunciationJa: "くさしょうちょう",
     tags: [ "living-being", "sumeru" ],
   },
