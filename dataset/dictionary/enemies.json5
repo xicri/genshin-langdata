@@ -1379,18 +1379,21 @@
   {
     en: "Eremite Axe Vanguard",
     ja: "エルマイト旅団・アックス",
+    zhCN: "镀金旅团·阵前斧手",
     pronunciationJa: "エルマイトりょだん・アックス",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Eremite Crossbow",
     ja: "エルマイト旅団・クロスボウ",
+    zhCN: "镀金旅团·机弩兵",
     pronunciationJa: "エルマイトりょだん・クロスボウ",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Eremite Ravenbeak Halberdier",
     ja: "エルマイト旅団・ベクドコルバン",
+    zhCN: "镀金旅团·鸦喙戟手",
     pronunciationJa: "エルマイトりょだん・ベクドコルバン",
     tags: [ "sumeru", "enemy" ],
   },
