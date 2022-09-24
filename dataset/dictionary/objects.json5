@@ -449,7 +449,6 @@
     tags: [ "object", "sumeru" ],
     notes: "Irminsul の訳は安定していないようであり、「古樹」や「地脈の」などのように訳されている箇所もある。[参考: Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Irminsul#Localization)",
   },
-  // TODO This word might be deleted if it is not worth adding
   {
     en: "Energy Extraction Device",
     ja: "エネルギー抽出装置",
