@@ -374,6 +374,18 @@
     },
   },
   {
+    en: "Mika",
+    ja: "ミカ",
+    tags: [ "mondstadt", "character-main" ],
+  },
+  {
+    en: "surveyor of the Reconnaissance Company",
+    ja: "遊撃小隊の測量士",
+    pronunciationJa: "ゆうげきしょうたいのそくりょうし",
+    tags: [ "mondstadt", "title" ],
+    notes: "ミカの西風騎士団における職名",
+  },
+  {
     en: "Barbatos",
     ja: "バルバトス",
     zhCN: "巴巴托斯",
@@ -532,6 +544,19 @@
     ja: "ファルカ",
     zhCN: "法尓伽",
     tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Grand Master",
+    ja: "大団長",
+    pronunciationJa: "だいだんちょう",
+    tags: [ "mondstadt", "title" ],
+    notes: "ファルカの西風騎士団における職名。",
+    examples: [{
+      en: "I will now be reading Grand Master Varka's letter aloud for you all.",
+      ja: "ファルカ大団長からの手紙を読ませていただきます。",
+      ref: "ミカ, Ver3.1 公式 PV 「赤砂の王と三人の巡礼者」",
+      refURL: "https://www.youtube.com/watch?v=owxvZ9-0JE0&t=221s",
+    }],
   },
   {
     en: "Vennessa",
@@ -2018,6 +2043,11 @@
     zhCN: "赤王",
     tags: [ "sumeru", "character-sub" ],
   },
+  {
+    en: "King Deshret",
+    ja: "キングデシェレト",
+    tags: [ "sumeru", "character-sub" ],
+  },
   // Aranaras & related
   {
     en: "Rana",
@@ -2100,6 +2130,38 @@
     zhCN: "兰萨卡",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
+  },
+  {
+    en: "Arapas",
+    ja: "アランパス",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "料理修行をしていたアランナラの1体",
+  },
+  {
+    en: "Araphala",
+    ja: "アランファラ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "料理修行をしていたアランナラの1体",
+  },
+  {
+    en: "Ararycan",
+    ja: "アランラキャ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aradasa",
+    ja: "アランダサ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aranakin",
+    ja: "アランナキン",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aragita",
+    ja: "アランハドゥ",
+    tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aramuhukunda",

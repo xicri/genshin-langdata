@@ -972,6 +972,24 @@
     tags: [ "inazuma", "quest-world" ],
   },
 
+  // Sumeru
+
+  // Aranyaka and related
+  {
+    en: "Agnihotra Sutra",
+    ja: "アグニホトラ経",
+    pronunciationJa: "アグニホトラきょう",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "森林書から連なる世界任務の1つ",
+  },
+  {
+    en: "Vimana Agama",
+    ja: "ヴィマナ聖典",
+    pronunciationJa: "ヴィマナせいてん",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "森林書から連なる世界任務の1つ",
+  },
+
   //
   // World Quests - Random Quests
   //
@@ -1667,6 +1685,20 @@
     ja: "冬への回帰",
     pronunciationJa: "ふゆへのかいき",
     tags: [ "quest-daily" ],
+  },
+  // ▲▲ added on v2.4 ▲▲
+
+  {
+    en: "Touring Light Show",
+    ja: "遊光示現",
+    pronunciationJa: "ゆうこうじげん",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Hammer of the Mushrooms",
+    ja: "キノコ叩き・ハンマーはなし!",
+    pronunciationJa: "キノコたたき・ハンマーはなし",
+    tags: [ "quest-daily", "sumeru" ],
   },
 
   //

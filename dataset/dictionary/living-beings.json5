@@ -141,6 +141,12 @@
     zhCN: "青雷鼬",
     tags: [ "living-being", "liyue" ],
   },
+  {
+    en: "Quicksand Unagi",
+    ja: "流砂ウナギ",
+    tags: [ "living-being", "sumeru" ],
+  },
+
 
   //
   // Liyue ― The Casm
@@ -201,6 +207,12 @@
     tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
+    en: "Desert Sumpter Beast",
+    ja: "ラクラク駄獣",
+    pronunciationJa: "ラクラクだじゅう",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
+  },
+  {
     en: "Rishboland Tiger",
     ja: "リシュボラン虎",
     zhCN: "长鬓虎",
@@ -212,5 +224,31 @@
     ja: "スピノクロコ",
     zhCN: "棘冠鳄",
     tags: [ "living-being", "enemy", "sumeru" ],
+  },
+  {
+    en: "Scorpion",
+    ja: "サソリ",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
+  },
+  {
+    en: "Red Vulture",
+    ja: "赤鷲",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
+  },
+
+  {
+    en: "Gator Raja",
+    ja: "ゲーターキング",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
+  },
+  {
+    en: "Rishboland Raja",
+    ja: "リシュボラン虎のラージャ",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
+  },
+  {
+    en: "Sumpter Beastlord",
+    ja: "駄獣大王",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
   },
 ]

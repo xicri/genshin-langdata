@@ -209,6 +209,12 @@
     pronunciationJa: "げんぼくとう",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Xiphos' Moonlight",
+    ja: "サイフォスの月明かり",
+    pronunciationJa: "サイフォスのつきあかり",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -272,6 +278,12 @@
       ja: [ "波乱" ],
       zhCN: [ "波波津" ],
     },
+  },
+  {
+    en: "Key of Khaj-Nisut",
+    ja: "聖顕の鍵",
+    pronunciationJa: "せいけんのかぎ",
+    tags: [ "weapon", "sword" ],
   },
 
   //
@@ -441,6 +453,12 @@
     ja: "森林のレガリア",
     zhCN: "森林王器",
     pronunciationJa: "しんりんのレガリア",
+    tags: [ "weapon", "claymore" ],
+  },
+  {
+    en: "Makhaira Aquamarine",
+    ja: "マカイラの水色",
+    pronunciationJa: "マカイラのみずいろ",
     tags: [ "weapon", "claymore" ],
   },
   // ★5
@@ -633,6 +651,11 @@
     zhCN: "贯月矢",
     tags: [ "weapon", "polearm" ],
   },
+  {
+    en: "Missive Windspear",
+    ja: "風信の矛",
+    tags: [ "weapon", "polearm" ],
+  },
   // ★5
   {
     en: "Primordial Jade Winged-Spear",
@@ -691,6 +714,11 @@
     ja: "息災",
     zhCN: "息灾",
     pronunciationJa: "そくさい",
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Staff of the Scarlet Sands",
+    ja: "赤砂の杖",
     tags: [ "weapon", "polearm" ],
   },
 
@@ -1112,6 +1140,12 @@
     ja: "満悦の実",
     zhCN: "盈满之实",
     pronunciationJa: "まんえつのみ",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Wandering Evenstar",
+    ja: "彷徨える星",
+    pronunciationJa: "さまよえるほし",
     tags: [ "weapon", "catalyst" ],
   },
   // ★5

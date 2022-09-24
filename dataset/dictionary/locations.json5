@@ -1139,6 +1139,11 @@
     pronunciationJa: "デーヴァーンタカやま",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Dev's Cavern",
+    ja: "ディフ旧窟",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Lokapala Jungle",
@@ -1242,6 +1247,12 @@
     zhCN: "玛哈桓那兰那薜那",
     tags: [ "sumeru", "location" ],
     notes: "アランナラの言葉で、夢の中のヴァナラーナを指す",
+  },
+
+  {
+    en: "Great Red Sand",
+    ja: "大赤砂海",
+    tags: [ "sumeru", "location" ],
   },
 
   {

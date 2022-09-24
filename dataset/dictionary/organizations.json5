@@ -252,6 +252,11 @@
     tags: [ "sumeru", "organization", "event" ],
   },
   {
+    en: "Temple of Silence",
+    ja: "沈黙の殿",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
     en: "Corps of Thirty",
     ja: "三十人団",
     zhCN: "三十人团",
