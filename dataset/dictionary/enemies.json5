@@ -371,7 +371,7 @@
     zhCN: "丘丘岩盔王",
     pronunciationJa: "ヒルチャール・いわかぶとのおう",
     notes: "通称「デカチャール」",
-    tags: [ "enemy", "liyue" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Frostarm Lawachurl",
@@ -387,7 +387,7 @@
     zhCN: "丘丘雷兜王",
     pronunciationJa: "ヒルチャール・かみなりかぶとのおう",
     notes: "通称「デカチャール」",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Hilichurl Chieftain",
