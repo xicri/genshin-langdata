@@ -1251,12 +1251,6 @@
     pronunciationJa: "アアルむら",
     tags: [ "sumeru", "location" ],
   },
-  // TODO this word might be deleted
-  {
-    en: "Dharma Forest",
-    ja: "諸法の森",
-    tags: [ "sumeru", "location" ],
-  },
 
   //
   // Fontaine
