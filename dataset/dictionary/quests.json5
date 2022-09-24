@@ -966,12 +966,11 @@
     tags: [ "inazuma", "quest-world" ],
   },
 
-  // added on v2.4 ― TODO add location tag
   {
     en: "The Very Special Fortune Slip",
     ja: "特別なおみくじ",
     pronunciationJa: "とくべつなおみくじ",
-    tags: [ "quest-world" ],
+    tags: [ "quest-world", "inazuma" ],
   },
 
   //
