@@ -762,6 +762,12 @@
     pronunciationJa: "ここうのグルメ",
     tags: [ "inazuma", "quest-world" ],
   },
+  {
+    en: "The Very Special Fortune Slip",
+    ja: "特別なおみくじ",
+    pronunciationJa: "とくべつなおみくじ",
+    tags: [ "quest-world", "inazuma" ],
+  },
   // Watatsumi Island
   {
     en: "\"Fang of Watatsumi\"",
@@ -964,13 +970,6 @@
     ja: "パエトーンたちはみな踊る",
     pronunciationJa: "パエトーンたちはみなおどる",
     tags: [ "inazuma", "quest-world" ],
-  },
-
-  {
-    en: "The Very Special Fortune Slip",
-    ja: "特別なおみくじ",
-    pronunciationJa: "とくべつなおみくじ",
-    tags: [ "quest-world", "inazuma" ],
   },
 
   //

@@ -442,6 +442,12 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Ashvattha's Concourses",
+    ja: "アシュヴァッタ堂",
+    zhCN: "觉树之堂",
+    tags: [ "sumeru", "object" ],
+  },
+  {
     en: "Irminsul",
     ja: "世界樹",
     zhCN: "世界树",
