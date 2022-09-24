@@ -2055,6 +2055,7 @@
     ja: "アランパカティ",
     zhCN: "兰帕卡提",
     tags: [ "sumeru", "character-sub" ],
+    notes: "料理修行をしていたアランナラたちの妹",
   },
   {
     en: "Aranakula",
@@ -2091,12 +2092,14 @@
     ja: "アランチャントラ",
     zhCN: "兰阐荼",
     tags: [ "sumeru", "character-sub" ],
+    notes: "料理修行をしていたアランナラの1体",
   },
   {
     en: "Arasaka",
     ja: "アランサカ",
     zhCN: "兰萨卡",
     tags: [ "sumeru", "character-sub" ],
+    notes: "料理修行をしていたアランナラの1体",
   },
   {
     en: "Aramuhukunda",
