@@ -430,6 +430,12 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Primeval Rosin",
+    ja: "原始松脂",
+    pronunciationJa: "げんししょうし",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Phantasmal Gate",
     ja: "幻夢ノ扉",
     zhCN: "幻梦之门",
@@ -442,6 +448,29 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Ashvattha's Concourses",
+    ja: "アシュヴァッタ堂",
+    zhCN: "觉树之堂",
+    tags: [ "sumeru", "object" ],
+  },
+  {
+    en: "Claustroflora",
+    ja: "幽閉花",
+    tags: [ "object", "sumeru" ],
+    notes: "ライアーの演奏により障害物を取り除くことができる花",
+  },
+  {
+    en: "Vamadha",
+    ja: "ヴァマッダ",
+    tags: [ "object", "sumeru" ],
+    notes: "洞窟などの入り口を塞いでおり、ライアーの演奏と攻撃により回転して道を開けることができる球状のオブジェクト",
+  },
+  {
+    en: "Zohrah Mushroom",
+    ja: "ゾーラ茸",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Irminsul",
     ja: "世界樹",
     zhCN: "世界树",
@@ -449,12 +478,66 @@
     tags: [ "object", "sumeru" ],
     notes: "Irminsul の訳は安定していないようであり、「古樹」や「地脈の」などのように訳されている箇所もある。[参考: Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Irminsul#Localization)",
   },
-  // TODO This word might be deleted if it is not worth adding
   {
     en: "Energy Extraction Device",
     ja: "エネルギー抽出装置",
     zhCN: "能量提取装置",
     pronunciationJa: "エネルギーちゅうしゅつそうち",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Plinth of the Secret Rites",
+    ja: "秘儀台座",
+    pronunciationJa: "ひぎだいざ",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Primal Ember",
+    ja: "プライマル火種",
+    pronunciationJa: "プライマルひだね",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Primal Torch",
+    ja: "プライマル炬火",
+    pronunciationJa: "プライマルきょか",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Primal Beam",
+    ja: "プライマルビーム",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Primal Sandglass",
+    ja: "プライマル砂時計",
+    pronunciationJa: "プライマルすなどけい",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Forged Primal Light",
+    ja: "プライマル光錐",
+    pronunciationJa: "プライマルこうすい",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Replicator Keystone",
+    ja: "擬造基石",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Primal Obelisk",
+    ja: "プライマルオベリスク",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Sacred Seal",
+    ja: "ヒエログリフタブレット",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Verity Cell",
+    ja: "正体ユニット",
     tags: [ "object", "sumeru" ],
   },
 ]

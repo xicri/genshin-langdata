@@ -371,7 +371,7 @@
     zhCN: "丘丘岩盔王",
     pronunciationJa: "ヒルチャール・いわかぶとのおう",
     notes: "通称「デカチャール」",
-    tags: [ "enemy", "liyue" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Frostarm Lawachurl",
@@ -387,7 +387,7 @@
     zhCN: "丘丘雷兜王",
     pronunciationJa: "ヒルチャール・かみなりかぶとのおう",
     notes: "通称「デカチャール」",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Hilichurl Chieftain",
@@ -501,6 +501,43 @@
     en: "Ruin Drake: Skywatch",
     ja: "遺跡ドレイク・飛空",
     tags: [ "enemy" ],
+  },
+  {
+    en: "Aeonblight Drake",
+    ja: "兆載永劫ドレイク",
+    pronunciationJa: "ちょうさいえいごうドレイク",
+    tags: [ "enemy-boss", "sumeru" ],
+  },
+
+  {
+    en: "Primal Construct",
+    ja: "プライマル構造体",
+    pronunciationJa: "プライマルこうぞうたい",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Primal Construct: Prospector",
+    ja: "プライマル構造体・探査機",
+    pronunciationJa: "プライマルこうぞうたい・たんさき",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Primal Construct: Reshaper",
+    ja: "プライマル構造体・再構築",
+    pronunciationJa: "プライマルこうぞうたい・さいこうちく",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Primal Construct: Repulsor",
+    ja: "プライマル構造体・重力場発生器",
+    pronunciationJa: "プライマルこうぞうたい・じゅうりょくばはっせいき",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Algorithm of Semi-Intransient Matrix of Overseer Network",
+    ja: "半永久統制マトリックス",
+    pronunciationJa: "はんえいきゅうとうせいマトリックス",
+    tags: [ "enemy-boss", "sumeru" ],
   },
 
   // Abyss Order
@@ -1429,6 +1466,18 @@
     ja: "エルマイト旅団・ラインブレイカー",
     zhCN: "镀金旅团·破阵者",
     pronunciationJa: "エルマイトりょだん・ラインブレイカー",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Eremite Stone Enchanter",
+    ja: "エルマイト旅団・ストーンエンチャンター",
+    pronunciationJa: "エルマイトりょだん・ストーンエンチャンター",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Eremite Galehunter",
+    ja: "エルマイト旅団・ゲイルハンター",
+    pronunciationJa: "エルマイトりょだん・ゲイルハンター",
     tags: [ "sumeru", "enemy" ],
   },
 ]

@@ -93,6 +93,13 @@
     notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できる通貨",
     tags: [ "event" ],
   },
+  {
+    en: "Ancient Iron Coin",
+    ja: "古鉄銭",
+    pronunciationJa: "こてっせん",
+    notes: "v3.0 で開催された「秘宝の行方」で、鉄銭の代わりに獲得できる通貨",
+    tags: [ "event" ],
+  },
 
   {
     en: "Lantern Rite",
@@ -140,6 +147,61 @@
     ja: "ホッセイニ",
     notes: "いくつかの期間限定イベントで登場するキャラクター",
     tags: [ "event", "character-sub" ],
+  },
+
+  //
+  // v3.1
+  //
+  {
+    en: "Star-Seeker's Sojourn",
+    ja: "星探しの旅",
+    pronunciationJa: "ほしさがしのたび",
+    notes: "v3.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Wind Chaser",
+    ja: "五風巡察",
+    pronunciationJa: "ごふうじゅんさつ",
+    notes: "v3.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Weinlesefest",
+    ja: "ブリーズブリュー祭",
+    notes: "モンドの祭りの1つ。v3.1 期間限定イベント「杯の中のバラッド」の中で開催。",
+    tags: [ "event" ],
+  },
+  {
+    en: "Of Ballads and Brews",
+    ja: "杯の中のバラッド",
+    notes: "v3.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Autumn Crisis",
+    ja: "秋野防災誌",
+    notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Highwind Trial",
+    ja: "高風の演練",
+    notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Charity and Creativity",
+    ja: "チャリティー&クリエイティブ",
+    notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Fecund Blessings",
+    ja: "豊穣の祝福",
+    pronunciationJa: "ほうじょうのしゅくふく",
+    notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
+    tags: [ "event" ],
   },
 
   //
@@ -641,7 +703,7 @@
     en: "Hyakunin Ikki",
     ja: "百人一揆",
     pronunciationJa: "ひゃくにんいっき",
-    notes: "v2.1 及び v2.5 期間限定イベント",
+    notes: "v2.1、v2.5、及び v3.1 期間限定イベント",
     tags: [ "event" ],
   },
   {

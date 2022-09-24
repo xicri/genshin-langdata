@@ -1139,6 +1139,11 @@
     pronunciationJa: "デーヴァーンタカやま",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Dev's Cavern",
+    ja: "ディフ旧窟",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Lokapala Jungle",
@@ -1245,22 +1250,16 @@
   },
 
   {
-    en: "Ashvattha's Concourses",
-    ja: "アシュヴァッタ堂",
-    zhCN: "觉树之堂",
+    en: "Great Red Sand",
+    ja: "大赤砂海",
     tags: [ "sumeru", "location" ],
   },
+
   {
     en: "Aaru Village",
     ja: "アアル村",
     zhCN: "阿如村",
     pronunciationJa: "アアルむら",
-    tags: [ "sumeru", "location" ],
-  },
-  // TODO this word might be deleted
-  {
-    en: "Dharma Forest",
-    ja: "諸法の森",
     tags: [ "sumeru", "location" ],
   },
 

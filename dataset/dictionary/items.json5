@@ -2266,6 +2266,11 @@
     tags: [ "specialty", "item", "sumeru" ],
     notes: "英語版では Pa\"d\"isarah と D の音になっていることに注意。",
   },
+  {
+    en: "Scarab",
+    ja: "聖金虫",
+    tags: [ "specialty", "item", "living-being", "sumeru" ], // TODO Check if it is really a specialty
+  },
 
   //
   // Plants
@@ -2302,6 +2307,16 @@
     en: "Viparyas",
     ja: "ヴィパリャス",
     tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Ajilenakh Nut",
+    ja: "デーツ",
+    tags: [ "item", "sumeru" ], // TODO check if it is specialty
+  },
+  {
+    en: "Redcrest",
+    ja: "赤念の実",
+    tags: [ "item", "sumeru" ], // TODO check if it is specialty
   },
 
   //
@@ -2681,6 +2696,16 @@
     pronunciationJa: "しんりんしょ",
     tags: [ "item", "quest-world", "sumeru" ],
     notes: "スメールの世界任務名、及びその中で手に入る同名のアイテム名",
+  },
+  {
+    en: "Vintage Lyre",
+    ja: "古びたライアー",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Kusava",
+    ja: "クサヴァ",
+    tags: [ "item", "sumeru" ],
   },
 
   //
