@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "dotenv": "^16.0.0",
-    "eslint": "latest",
+    "eslint": "8.23.0",
     "eslint-config-xicri": "latest",
     "form-data": "^4.0.0",
     "iconv-lite": "^0.6.3",
