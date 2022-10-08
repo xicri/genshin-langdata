@@ -1252,16 +1252,16 @@
   },
 
   {
-    en: "Great Red Sand",
-    ja: "大赤砂海",
-    tags: [ "sumeru", "location" ],
-  },
-
-  {
     en: "Aaru Village",
     ja: "アアル村",
     zhCN: "阿如村",
     pronunciationJa: "アアルむら",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Great Red Sand",
+    ja: "大赤砂海",
     tags: [ "sumeru", "location" ],
   },
 
