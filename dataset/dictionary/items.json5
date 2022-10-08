@@ -2271,6 +2271,11 @@
     ja: "聖金虫",
     tags: [ "specialty", "item", "living-being", "sumeru" ], // TODO Check if it is really a specialty
   },
+  {
+    en: "Redcrest",
+    ja: "赤念の実",
+    tags: [ "specialty", "item", "sumeru" ],
+  },
 
   //
   // Plants
@@ -2307,11 +2312,6 @@
     en: "Viparyas",
     ja: "ヴィパリャス",
     tags: [ "item", "sumeru" ],
-  },
-  {
-    en: "Redcrest",
-    ja: "赤念の実",
-    tags: [ "item", "sumeru" ], // TODO check if it is specialty
   },
 
   //
