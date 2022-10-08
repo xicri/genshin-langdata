@@ -1083,11 +1083,13 @@
   },
   {
     en: "Gandharva Ville",
-    ja: "ガンダルヴァ村",
+    ja: "ガンダルヴァー村",
     zhCN: "化城郭",
-    pronunciationJa: "ガンダルヴァむら",
+    pronunciationJa: "ガンダルヴァーむら",
     tags: [ "sumeru", "location" ],
-    notes: "日本語において、表記上は「ガンダル**ヴァ**」となっているが、発音する際は日本語でも「ガンダル**ヴァー**」のようにヴァの音を伸ばして発音する。",
+    variants: {
+      ja: [ "ガンダルヴァ村" ],
+    },
   },
   {
     en: "Gandha Hill",
