@@ -2309,11 +2309,6 @@
     tags: [ "item", "sumeru" ],
   },
   {
-    en: "Ajilenakh Nut",
-    ja: "デーツ",
-    tags: [ "item", "sumeru" ], // TODO check if it is specialty
-  },
-  {
     en: "Redcrest",
     ja: "赤念の実",
     tags: [ "item", "sumeru" ], // TODO check if it is specialty

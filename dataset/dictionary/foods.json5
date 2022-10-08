@@ -1308,4 +1308,9 @@
     zhCN: "香辛果",
     tags: [ "food", "sumeru" ],
   },
+  {
+    en: "Ajilenakh Nut",
+    ja: "デーツ",
+    tags: [ "food", "sumeru" ],
+  },
 ]
