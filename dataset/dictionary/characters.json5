@@ -1653,6 +1653,11 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Kapatcir",
+    ja: "カパッチリ",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
     en: "Thunderbird",
     ja: "雷鳥",
     zhCN: "雷鸟",
@@ -1943,10 +1948,12 @@
   },
   {
     en: "Greater Load Rukkhadevata",
-    ja: "マハールッカデヴァタ",
+    ja: "マハールッカデヴァータ",
     zhCN: "大慈树王",
     tags: [ "sumeru", "title" ],
-    notes: "日本語において、表記上は「マハールッカデ**ヴァ**タ」となっているが、発音する際は日本語でも「マハールッカデ**ヴァー**タ」のようにヴァの音を伸ばして発音する。",
+    variants: {
+      ja: [ "マハールッカデヴァタ" ],
+    },
   },
   {
     en: "Dendro Archon",
@@ -2036,6 +2043,12 @@
     ja: "アハンガル",
     zhCN: "阿汉格尔",
     tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Nabiya",
+    ja: "ナビヤ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "スメールシティ内にいる占い師の少女",
   },
   {
     en: "Scarlet King",
@@ -2149,13 +2162,28 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Aralohita",
+    ja: "アランロヒタ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
     en: "Aradasa",
     ja: "アランダサ",
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Aranaga",
+    ja: "アランナガ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
     en: "Aranakin",
     ja: "アランナキン",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aragaru",
+    ja: "アランガル",
     tags: [ "sumeru", "character-sub" ],
   },
   {

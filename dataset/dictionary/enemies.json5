@@ -1480,4 +1480,11 @@
     pronunciationJa: "エルマイトりょだん・ゲイルハンター",
     tags: [ "sumeru", "enemy" ],
   },
+
+  {
+    en: "Marana's Avatar",
+    ja: "マラーナの化身",
+    pronunciationJa: "マラーナのけしん",
+    tags: [ "sumeru", "enemy" ],
+  },
 ]

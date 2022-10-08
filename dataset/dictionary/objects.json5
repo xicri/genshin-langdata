@@ -448,9 +448,14 @@
     tags: [ "object", "sumeru" ],
   },
   {
-    en: "Ashvattha's Concourses",
+    en: "Ashvattha's Concourse",
     ja: "アシュヴァッタ堂",
     zhCN: "觉树之堂",
+    tags: [ "sumeru", "object" ],
+  },
+  {
+    en: "Ashvattha Tree",
+    ja: "アシュヴァッタの樹",
     tags: [ "sumeru", "object" ],
   },
   {
@@ -471,12 +476,28 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Jamikayomars",
+    ja: "ジャミカヨマール",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Mawtiyima",
+    ja: "マウティイェマ",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "Irminsul",
     ja: "世界樹",
     zhCN: "世界树",
     pronunciationJa: "せかいじゅ",
     tags: [ "object", "sumeru" ],
     notes: "Irminsul の訳は安定していないようであり、「古樹」や「地脈の」などのように訳されている箇所もある。[参考: Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Irminsul#Localization)",
+  },
+  {
+    en: "tumbleweed",
+    ja: "タンブルウィード",
+    tags: [ "object", "sumeru" ],
+    notes: "砂漠で転がっている丸い草の塊のこと",
   },
   {
     en: "Energy Extraction Device",

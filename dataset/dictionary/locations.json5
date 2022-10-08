@@ -1083,11 +1083,13 @@
   },
   {
     en: "Gandharva Ville",
-    ja: "ガンダルヴァ村",
+    ja: "ガンダルヴァー村",
     zhCN: "化城郭",
-    pronunciationJa: "ガンダルヴァむら",
+    pronunciationJa: "ガンダルヴァーむら",
     tags: [ "sumeru", "location" ],
-    notes: "日本語において、表記上は「ガンダル**ヴァ**」となっているが、発音する際は日本語でも「ガンダル**ヴァー**」のようにヴァの音を伸ばして発音する。",
+    variants: {
+      ja: [ "ガンダルヴァ村" ],
+    },
   },
   {
     en: "Gandha Hill",
@@ -1236,6 +1238,13 @@
     tags: [ "sumeru", "location" ],
   },
   {
+    en: "Fane of Ashvattha",
+    ja: "アシュヴァッタ神殿",
+    pronunciationJa: "アシュヴァッタしんでん",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
     en: "Vanarana",
     ja: "ヴァナラーナ",
     zhCN: "桓那兰那",
@@ -1250,16 +1259,110 @@
   },
 
   {
-    en: "Great Red Sand",
-    ja: "大赤砂海",
+    en: "Lost Nursery",
+    ja: "失われた苗畑",
+    pronunciationJa: "うしなわれたなえはた",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Old Vanarana",
+    ja: "かつてのヴァナラーナ",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Sand-Embraced Home",
+    ja: "砂に埋もれし故郷",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Land of Grounded Dreams",
+    ja: "失夢の国土",
     tags: [ "sumeru", "location" ],
   },
 
+  {
+    en: "Land of Lower Setekh",
+    ja: "下風蝕地",
+    pronunciationJa: "しもふうしょくち",
+    tags: [ "sumeru", "location" ],
+  },
   {
     en: "Aaru Village",
     ja: "アアル村",
     zhCN: "阿如村",
     pronunciationJa: "アアルむら",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Eye of the Sands",
+    ja: "砂ノ目",
+    pronunciationJa: "すなノめ",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Abdju Road",
+    ja: "捨身の道",
+    pronunciationJa: "しゃしんのみち",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Dar al-Shifa",
+    ja: "ダールアルシファ",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Land of Upper Setekh",
+    ja: "上風蝕地",
+    pronunciationJa: "かみふうしょくち",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Valley of Dahri",
+    ja: "ダーリの谷",
+    pronunciationJa: "ダーリのたに",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Sobek Oasis",
+    ja: "ソベクオアシス",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Hypostyle Desert",
+    ja: "列柱砂原",
+    pronunciationJa: "れっちゅうすなはら",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Dune of Carouses",
+    ja: "飽飲の丘",
+    pronunciationJa: "ほういんのおか",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Dune of Elusion",
+    ja: "避譲の丘",
+    pronunciationJa: "ひじょうのおか",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Dune of Magma",
+    ja: "鑠石の丘",
+    pronunciationJa: "しゃくせきのおか",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Mausoleum of King Deshret",
+    ja: "キングデシェレトの霊廟",
+    pronunciationJa: "キングデシェレトのれいびょう",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Great Red Sand",
+    ja: "大赤砂海",
     tags: [ "sumeru", "location" ],
   },
 

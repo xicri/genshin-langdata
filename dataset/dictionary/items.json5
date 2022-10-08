@@ -1961,6 +1961,25 @@
     zhCN: "织金红绸",
     tags: [ "item" ],
   },
+  {
+    en: "Damaged Prism",
+    ja: "壊れたプリズム",
+    tags: [ "item" ],
+    notes: "プライマル構造体のドロップアイテム (★2)",
+  },
+  {
+    en: "Turbid Prism",
+    ja: "濁ったプリズム",
+    tags: [ "item" ],
+    notes: "プライマル構造体のドロップアイテム (★3)",
+  },
+  {
+    en: "Radiant Prism",
+    ja: "輝くプリズム",
+    tags: [ "item" ],
+    notes: "プライマル構造体のドロップアイテム (★4)",
+  },
+
 
   //
   // Potion
@@ -2269,7 +2288,12 @@
   {
     en: "Scarab",
     ja: "聖金虫",
-    tags: [ "specialty", "item", "living-being", "sumeru" ], // TODO Check if it is really a specialty
+    tags: [ "specialty", "item", "living-being", "sumeru" ],
+  },
+  {
+    en: "Redcrest",
+    ja: "赤念の実",
+    tags: [ "specialty", "item", "sumeru" ],
   },
 
   //
@@ -2307,16 +2331,6 @@
     en: "Viparyas",
     ja: "ヴィパリャス",
     tags: [ "item", "sumeru" ],
-  },
-  {
-    en: "Ajilenakh Nut",
-    ja: "デーツ",
-    tags: [ "item", "sumeru" ], // TODO check if it is specialty
-  },
-  {
-    en: "Redcrest",
-    ja: "赤念の実",
-    tags: [ "item", "sumeru" ], // TODO check if it is specialty
   },
 
   //
@@ -2752,9 +2766,27 @@
     tags: [ "item", "sumeru" ],
   },
   {
+    en: "Barsam Flower",
+    ja: "バルサムフラワー",
+    tags: [ "item", "sumeru" ],
+    notes: "世界任務「アグニホトラ経」終章で作るアランハオマの原料の1つ",
+  },
+  {
+    en: "Arahaoma",
+    ja: "アランハオマ",
+    tags: [ "item", "sumeru" ],
+    notes: "世界任務「アグニホトラ経」終章で、ジャミカヨマールに対して使用するアランナラの霊薬",
+  },
+  {
     en: "Bija",
     ja: "ビージャの実",
     zhCN: "惟耶之实",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Unsealed Parchment",
+    ja: "封の開かれた羊皮紙",
+    pronunciationJa: "ふうのひらかれたようひし",
     tags: [ "item", "sumeru" ],
   },
   {
