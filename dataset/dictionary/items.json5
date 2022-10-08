@@ -2269,7 +2269,7 @@
   {
     en: "Scarab",
     ja: "聖金虫",
-    tags: [ "specialty", "item", "living-being", "sumeru" ], // TODO Check if it is really a specialty
+    tags: [ "specialty", "item", "living-being", "sumeru" ],
   },
   {
     en: "Redcrest",
