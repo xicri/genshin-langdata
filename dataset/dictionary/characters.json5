@@ -1653,6 +1653,11 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Kapatcir",
+    ja: "カパッチリ",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
     en: "Thunderbird",
     ja: "雷鳥",
     zhCN: "雷鸟",
@@ -2040,6 +2045,12 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Nabiya",
+    ja: "ナビヤ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "スメールシティ内にいる占い師の少女",
+  },
+  {
     en: "Scarlet King",
     ja: "スカーレットキング",
     zhCN: "赤王",
@@ -2151,13 +2162,28 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Aralohita",
+    ja: "アランロヒタ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
     en: "Aradasa",
     ja: "アランダサ",
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Aranaga",
+    ja: "アランナガ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
     en: "Aranakin",
     ja: "アランナキン",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Aragaru",
+    ja: "アランガル",
     tags: [ "sumeru", "character-sub" ],
   },
   {

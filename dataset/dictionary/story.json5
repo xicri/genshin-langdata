@@ -488,6 +488,12 @@
     tags: [ "sumeru" ],
     notes: "アランナラの言葉で「砂」",
   },
+  {
+    en: "Ararakalari",
+    ja: "アランラカラリ",
+    tags: [ "sumeru" ],
+    notes: "アランナラの持つ技",
+  },
 
 
   //

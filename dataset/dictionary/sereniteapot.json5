@@ -199,6 +199,11 @@
     tags: [ "sereniteapot", "inazuma" ],
   },
   {
+    en: "Brightwood",
+    ja: "輝光材",
+    tags: [ "sereniteapot", "sumeru" ],
+  },
+  {
     en: "Karmaphala Wood",
     ja: "業果材",
     zhCN: "业果木",
@@ -208,6 +213,11 @@
     en: "Adhigama Wood",
     ja: "証悟材",
     zhCN: "证悟木",
+    tags: [ "sereniteapot", "sumeru" ],
+  },
+  {
+    en: "Athel Wood",
+    ja: "タマリスク材",
     tags: [ "sereniteapot", "sumeru" ],
   },
 

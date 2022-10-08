@@ -654,6 +654,12 @@
     tags: [ "sumeru" ],
   },
   {
+    en: "Decay Projectile",
+    ja: "零落弾",
+    pronunciationJa: "れいらくだん",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "Candle of Life",
     ja: "生命の灯",
     zhCN: "生之烛",

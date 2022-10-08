@@ -326,6 +326,11 @@
     tags: [ "food" ],
   },
   {
+    en: "Apple Cider",
+    ja: "アップルサイダー",
+    tags: [ "food" ],
+  },
+  {
     en: "Berry & Mint Burst",
     ja: "ミントベリージュース",
     zhCN: "薄荷树莓饮",
@@ -335,6 +340,11 @@
     en: "Wolfhook Juice",
     ja: "ググプラムのジュース",
     zhCN: "冰钩钩果汁",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sparkling Berry Juice",
+    ja: "スパークリングベリージュース",
     tags: [ "food" ],
   },
   {
@@ -471,6 +481,11 @@
     ja: "モンド風ハッシュドポテト",
     zhCN: "蒙德土豆饼",
     pronunciationJa: "モンドふうハッシュドポテト",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fruits of the Festival",
+    ja: "バケーションサイダー",
     tags: [ "food" ],
   },
   {

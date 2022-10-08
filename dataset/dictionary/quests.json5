@@ -976,6 +976,13 @@
 
   // Aranyaka and related
   {
+    en: "Nursery of Lost Dreams",
+    ja: "夢を失った苗畑",
+    pronunciationJa: "ゆめをうしなったなえはた",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "森林書 第三章",
+  },
+  {
     en: "Agnihotra Sutra",
     ja: "アグニホトラ経",
     pronunciationJa: "アグニホトラきょう",
@@ -988,6 +995,21 @@
     pronunciationJa: "ヴィマナせいてん",
     tags: [ "sumeru", "quest-world" ],
     notes: "森林書から連なる世界任務の1つ",
+  },
+  {
+    en: "Until Vana is Healed",
+    ja: "「ヴァーナ」が完治するまで",
+    pronunciationJa: "ヴァーナがかんちするまで",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "森林書から連なる世界任務の1つ",
+  },
+  // ▲▲ Aranyaka and related
+
+  {
+    en: "Golden Slumber",
+    ja: "黄金の眠り",
+    pronunciationJa: "おうごんのねむり",
+    tags: [ "sumeru", "quest-world" ],
   },
 
   //
@@ -1698,6 +1720,12 @@
     en: "Hammer of the Mushrooms",
     ja: "キノコ叩き・ハンマーはなし!",
     pronunciationJa: "キノコたたき・ハンマーはなし",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "King of Invokations",
+    ja: "『召喚王』",
+    pronunciationJa: "しょうかんおう",
     tags: [ "quest-daily", "sumeru" ],
   },
 

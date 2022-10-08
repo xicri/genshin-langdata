@@ -377,4 +377,19 @@
     zhCN: "河谷的黯道",
     tags: [ "sumeru", "domain" ],
   },
+  {
+    en: "Red Desert Threshold",
+    ja: "赤砂の檻",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Altar of Mirages",
+    ja: "ミラージュ祭場",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Garden of Endless Pillars",
+    ja: "千柱の花園",
+    tags: [ "sumeru", "domain" ],
+  },
 ]
