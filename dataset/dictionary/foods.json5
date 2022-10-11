@@ -371,11 +371,13 @@
   {
     en: "Shawarma Wrap",
     ja: "シャワルマサンド",
+    zhCN: "烤肉卷",
     tags: [ "food" ],
   },
   {
     en: "Fish With Cream Sauce",
     ja: "魚のクリームソース",
+    zhCN: "奶酱鲜鱼",
     tags: [ "food" ],
   },
 
