@@ -2265,34 +2265,40 @@
   {
     en: "Kalpalata Lotus",
     ja: "カルパラタ蓮",
+    zhCN: "劫波莲",
     pronunciationJa: "カルパラタはす",
     tags: [ "specialty", "item", "sumeru" ],
   },
   {
     en: "Nilotpala Lotus",
     ja: "サウマラタ蓮",
+    zhCN: "月莲",
     pronunciationJa: "サウマラタはす",
     tags: [ "specialty", "item", "sumeru" ],
   },
   {
     en: "Rukkhashava Mushrooms",
     ja: "ルッカデヴァタダケ",
+    zhCN: "树王圣体菇",
     tags: [ "specialty", "item", "sumeru" ],
   },
   {
     en: "Padisarah",
     ja: "パティサラ",
+    zhCN: "帕蒂沙兰",
     tags: [ "specialty", "item", "sumeru" ],
     notes: "英語版では Pa\"d\"isarah と D の音になっていることに注意。",
   },
   {
     en: "Scarab",
     ja: "聖金虫",
+    zhCN: "圣金虫",
     tags: [ "specialty", "item", "living-being", "sumeru" ],
   },
   {
     en: "Redcrest",
     ja: "赤念の実",
+    zhCN: "赤念果",
     tags: [ "specialty", "item", "sumeru" ],
   },
 
@@ -2330,6 +2336,7 @@
   {
     en: "Viparyas",
     ja: "ヴィパリャス",
+    zhCN: "毗波耶",
     tags: [ "item", "sumeru" ],
   },
 
@@ -2714,11 +2721,13 @@
   {
     en: "Vintage Lyre",
     ja: "古びたライアー",
+    zhCN: "老旧的诗琴",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "Kusava",
     ja: "クサヴァ",
+    zhCN: "苦舍桓",
     tags: [ "item", "sumeru" ],
   },
 
