@@ -54,6 +54,7 @@
   {
     en: "Treasure-Seeking Seelie",
     ja: "宝探し仙霊",
+    zhCN: "寻宝仙灵",
     pronunciationJa: "たからさがしせんれい",
     notes: "不定期開催の期間限定イベント「秘宝の行方」で用いるアイテム",
     tags: [ "event", "item" ],
@@ -61,6 +62,7 @@
   {
     en: "Mini Seelie: Dayflower",
     ja: "小さな仙霊・露草",
+    zhCN: "迷你仙灵・露草",
     pronunciationJa: "ちいさなせんれい・つゆくさ",
     notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
     tags: [ "event", "item" ],
@@ -68,6 +70,7 @@
   {
     en: "Mini Seelie: Rosé",
     ja: "小さな仙霊・薄紅",
+    zhCN: "迷你仙灵・薄红",
     pronunciationJa: "ちいさなせんれい・うすべに",
     notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
     tags: [ "event", "item" ],
@@ -75,6 +78,7 @@
   {
     en: "Mini Seelie: Curcuma",
     ja: "小さな仙霊・鬱金",
+    zhCN: "迷你仙灵・郁金",
     pronunciationJa: "ちいさなせんれい・うこん",
     notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
     tags: [ "event", "item" ],
@@ -82,6 +86,7 @@
   {
     en: "Mini Seelie: Viola",
     ja: "小さな仙霊・紫苑",
+    zhCN: "迷你仙灵・紫苑",
     pronunciationJa: "ちいさなせんれい・しおん",
     notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できるアイテム",
     tags: [ "event", "item" ],
@@ -89,6 +94,7 @@
   {
     en: "Iron Coin",
     ja: "鉄銭",
+    zhCN: "铁钱",
     pronunciationJa: "てっせん",
     notes: "不定期開催の期間限定イベント「秘宝の行方」で獲得できる通貨",
     tags: [ "event" ],
@@ -96,6 +102,7 @@
   {
     en: "Ancient Iron Coin",
     ja: "古鉄銭",
+    zhCN: "古铁钱",
     pronunciationJa: "こてっせん",
     notes: "v3.0 で開催された「秘宝の行方」で、鉄銭の代わりに獲得できる通貨",
     tags: [ "event" ],
@@ -104,6 +111,7 @@
   {
     en: "Lantern Rite",
     ja: "海灯祭",
+    zhCN: "海灯节",
     pronunciationJa: "かいとうさい",
     notes: "v1.3 及び v2.4 期間限定イベント。璃月の祭り。",
     tags: [ "liyue", "event" ],
@@ -111,6 +119,7 @@
   {
     en: "Happy Lantern Rite!",
     ja: "海灯祭を祝して!",
+    zhCN: "海灯节快乐！",
     pronunciationJa: "かいとうさいをしゅくして",
     tags: [ "liyue", "event", "dialogue" ],
   },
@@ -169,36 +178,42 @@
   {
     en: "Weinlesefest",
     ja: "ブリーズブリュー祭",
+    zhCN: "佳酿节",
     notes: "モンドの祭りの1つ。v3.1 期間限定イベント「杯の中のバラッド」の中で開催。",
     tags: [ "event" ],
   },
   {
     en: "Of Ballads and Brews",
     ja: "杯の中のバラッド",
+    zhCN: "杯中遥吟之诗",
     notes: "v3.1 期間限定イベント",
     tags: [ "event" ],
   },
   {
     en: "Autumn Crisis",
     ja: "秋野防災誌",
+    zhCN: "秋野防灾记",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
     tags: [ "event" ],
   },
   {
     en: "Highwind Trial",
     ja: "高風の演練",
+    zhCN: "高风的演练",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
     tags: [ "event" ],
   },
   {
     en: "Charity and Creativity",
     ja: "チャリティー&クリエイティブ",
+    zhCN: "义卖与妙想",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
     tags: [ "event" ],
   },
   {
     en: "Fecund Blessings",
     ja: "豊穣の祝福",
+    zhCN: "丰饶的祝愿",
     pronunciationJa: "ほうじょうのしゅくふく",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
     tags: [ "event" ],
