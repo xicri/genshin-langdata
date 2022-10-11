@@ -376,11 +376,13 @@
   {
     en: "Mika",
     ja: "ミカ",
+    zhCN: "米卡",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "surveyor of the Reconnaissance Company",
     ja: "遊撃小隊の測量士",
+    zhCN: "游击小队测绘员",
     pronunciationJa: "ゆうげきしょうたいのそくりょうし",
     tags: [ "mondstadt", "title" ],
     notes: "ミカの西風騎士団における職名",
@@ -548,6 +550,7 @@
   {
     en: "Grand Master",
     ja: "大団長",
+    zhCN: "大团长",
     pronunciationJa: "だいだんちょう",
     tags: [ "mondstadt", "title" ],
     notes: "ファルカの西風騎士団における職名。",
@@ -2059,6 +2062,7 @@
   {
     en: "King Deshret",
     ja: "キングデシェレト",
+    // According to this [wiki](https://genshin-impact.fandom.com/wiki/Scarlet_King), it shares the same name in Chinese with the Scarlet King.
     tags: [ "sumeru", "character-sub" ],
   },
   // Aranaras & related
@@ -2147,48 +2151,57 @@
   {
     en: "Arapas",
     ja: "アランパス",
+    zhCN: "兰阿帕斯",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
   },
   {
     en: "Araphala",
     ja: "アランファラ",
+    zhCN: "兰非拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
   },
   {
     en: "Ararycan",
     ja: "アランラキャ",
+    zhCN: "兰利遮",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aralohita",
     ja: "アランロヒタ",
+    zhCN: "兰罗希陀",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aradasa",
     ja: "アランダサ",
+    zhCN: "兰陀娑",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aranaga",
     ja: "アランナガ",
+    zhCN: "兰纳迦",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aranakin",
     ja: "アランナキン",
+    zhCN: "兰纳真",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aragaru",
     ja: "アランガル",
+    zhCN: "兰迦鲁",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aragita",
     ja: "アランハドゥ",
+    zhCN: "兰耆都",
     tags: [ "sumeru", "character-sub" ],
   },
   {
