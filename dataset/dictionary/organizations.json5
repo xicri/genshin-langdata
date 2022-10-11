@@ -254,6 +254,7 @@
   {
     en: "Temple of Silence",
     ja: "沈黙の殿",
+    zhCN: "缄默之殿",
     tags: [ "sumeru", "organization" ],
   },
   {
