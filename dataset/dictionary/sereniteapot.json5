@@ -201,6 +201,7 @@
   {
     en: "Brightwood",
     ja: "輝光材",
+    zhCN: "辉木",
     tags: [ "sereniteapot", "sumeru" ],
   },
   {
@@ -218,6 +219,7 @@
   {
     en: "Athel Wood",
     ja: "タマリスク材",
+    zhCN: "柽木",
     tags: [ "sereniteapot", "sumeru" ],
   },
 
