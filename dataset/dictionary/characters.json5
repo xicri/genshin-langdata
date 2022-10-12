@@ -1658,6 +1658,7 @@
   {
     en: "Kapatcir",
     ja: "カパッチリ",
+    zhCN: "卡帕奇莉",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -2039,6 +2040,7 @@
   {
     en: "Alrani",
     ja: "アラニ",
+    zhCN: "爱拉尼",
     tags: [ "sumeru", "inazuma", "character-sub" ],
   },
   {
@@ -2050,6 +2052,7 @@
   {
     en: "Nabiya",
     ja: "ナビヤ",
+    zhCN: "娜比雅",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女",
   },
