@@ -1964,18 +1964,21 @@
   {
     en: "Damaged Prism",
     ja: "壊れたプリズム",
+    zhCN: "破缺棱晶",
     tags: [ "item" ],
     notes: "プライマル構造体のドロップアイテム (★2)",
   },
   {
     en: "Turbid Prism",
     ja: "濁ったプリズム",
+    zhCN: "混浊棱晶",
     tags: [ "item" ],
     notes: "プライマル構造体のドロップアイテム (★3)",
   },
   {
     en: "Radiant Prism",
     ja: "輝くプリズム",
+    zhCN: "辉光棱晶",
     tags: [ "item" ],
     notes: "プライマル構造体のドロップアイテム (★4)",
   },
@@ -2777,12 +2780,14 @@
   {
     en: "Barsam Flower",
     ja: "バルサムフラワー",
+    zhCN: "钵参花",
     tags: [ "item", "sumeru" ],
     notes: "世界任務「アグニホトラ経」終章で作るアランハオマの原料の1つ",
   },
   {
     en: "Arahaoma",
     ja: "アランハオマ",
+    zhCN: "兰赫玛",
     tags: [ "item", "sumeru" ],
     notes: "世界任務「アグニホトラ経」終章で、ジャミカヨマールに対して使用するアランナラの霊薬",
   },
@@ -2795,6 +2800,7 @@
   {
     en: "Unsealed Parchment",
     ja: "封の開かれた羊皮紙",
+    zhCN: "启封的羊皮卷",
     pronunciationJa: "ふうのひらかれたようひし",
     tags: [ "item", "sumeru" ],
   },
