@@ -656,6 +656,7 @@
   {
     en: "Decay Projectile",
     ja: "零落弾",
+    zhCN: "凋零弹", // TODO: need check
     pronunciationJa: "れいらくだん",
     tags: [ "sumeru" ],
   },
