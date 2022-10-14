@@ -496,7 +496,7 @@
   {
     en: "Song of Broken Pines",
     ja: "松韻の響く頃",
-    zhCN: "忪籁响起之时",
+    zhCN: "松籁响起之时",
     pronunciationJa: "しょういんのひびくころ",
     tags: [ "weapon", "claymore" ],
     variants: {
@@ -877,7 +877,7 @@
   {
     en: "Mouun's Moon",
     ja: "曚雲の月",
-    zhCN: "矇云之月",
+    zhCN: "曚云之月",
     pronunciationJa: "もううんのつき",
     tags: [ "weapon", "bow" ],
     variants: {
