@@ -126,6 +126,7 @@
   {
     en: "Dendroculus",
     ja: "失われた草神の瞳",
+    zhCN: "散失的草神瞳",
     pronunciationJa: "うしなわれたそうしんのひとみ",
     tags: [ "item", "sumeru" ],
     notes: "oculus はラテン語で「目」の意",
@@ -167,6 +168,7 @@
   {
     en: "City States Sigil",
     ja: "七国の印",
+    zhCN: "七国之印",
     pronunciationJa: "しちこくのしるし",
     notes: "「(元素)の印」の総称",
     tags: [ "item" ],
@@ -196,6 +198,7 @@
   {
     en: "Dendro Sigil",
     ja: "草の印",
+    zhCN: "草之印",
     pronunciationJa: "くさのしるし",
     tags: [ "item", "sumeru" ],
   },
@@ -306,7 +309,7 @@
   {
     en: "Memento Lens",
     ja: "追憶のレンズ",
-    zhCN: "「留恋镜」",
+    zhCN: "「留念镜」",
     pronunciationJa: "ついおくのレンズ",
     tags: [ "item", "inazuma" ],
   },
@@ -365,7 +368,7 @@
   {
     en: "Orb of the Blue Depths",
     ja: "青淵宝珠",
-    zhCN: "青渊宝珠",
+    zhCN: "渊青宝珠",
     tags: [ "item", "liyue" ],
   },
   {
@@ -395,7 +398,7 @@
   {
     en: "Helm of Warding",
     ja: "加護の冠",
-    zhCN: "加护之冠",
+    zhCN: "庇佑之冠",
     tags: [ "item", "liyue" ],
   },
   {
@@ -2228,6 +2231,7 @@
   {
     en: "Lycoris",
     ja: "赤蕊",
+    zhCN: "赤蕊",
     tags: [ "specialty", "item", "inazuma" ],
     notes: "血石華の別名。",
   },

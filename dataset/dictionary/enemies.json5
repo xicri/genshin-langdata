@@ -172,6 +172,7 @@
   {
     en: "Dendro Specter",
     ja: "草フライム",
+    zhCN: "草漂浮灵",
     pronunciationJa: "くさフライム",
     tags: [ "enemy" ],
   },
@@ -705,14 +706,14 @@
   {
     en: "Electro Cicin Mage",
     ja: "雷蛍術師",
-    zhCN: "雷萤术师",
+    zhCN: "雷萤术士",
     pronunciationJa: "らいけいじゅつし",
     tags: [ "snezhnaya", "enemy" ],
   },
   {
     en: "Cryo Cicin Mage",
     ja: "氷蛍術師",
-    zhCN: "冰萤术师",
+    zhCN: "冰萤术士",
     pronunciationJa: "ひょうけいじゅつし",
     tags: [ "snezhnaya", "enemy" ],
   },
@@ -915,6 +916,7 @@
   {
     en: "Electro Regisvine",
     ja: "迅電樹",
+    zhCN: "掣电树",
     pronunciationJa: "じんでんじゅ",
     tags: [ "enemy-boss", "sumeru" ],
   },
@@ -1460,6 +1462,7 @@
   {
     en: "Eremite Daythunder",
     ja: "エルマイト旅団・デイサンダー",
+    zhCN: "镀金旅团·白日鸣雷",
     pronunciationJa: "エルマイトりょだん・デイサンダー",
     tags: [ "sumeru", "enemy" ],
   },

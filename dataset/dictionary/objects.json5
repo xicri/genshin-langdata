@@ -157,6 +157,7 @@
   {
     en: "Dendrogranum / Dendrograna",
     ja: "草の種",
+    zhCN: "草种子",
     pronunciationJa: "くさのたね",
     notes: "Dendrogranum は単数形、Dendrograna は複数形。granum はラテン語で「種」の意?",
     tags: [ "object", "sumeru" ],
@@ -164,6 +165,7 @@
   {
     en: "Auspicious Branches",
     ja: "クサナリの枝",
+    zhCN: "祥草杨枝",
     pronunciationJa: "クサナリのえだ",
     tags: [ "object", "sumeru" ],
   },
@@ -337,6 +339,7 @@
   {
     en: "Specific paths",
     ja: "特定の道",
+    zhCN: "特定的道路",
     pronunciationJa: "とくていのみち",
     tags: [ "object", "inazuma" ],
   },

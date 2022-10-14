@@ -172,7 +172,7 @@
   {
     en: "Festering Desire",
     ja: "腐植の剣",
-    zhCN: "腐植之剑",
+    zhCN: "腐殖之剑",
     pronunciationJa: "ふしょくのけん",
     tags: [ "weapon", "sword" ],
   },
@@ -657,7 +657,7 @@
   {
     en: "Missive Windspear",
     ja: "風信の矛",
-    zhCN: "风信之矛",
+    zhCN: "风信之锋",
     tags: [ "weapon", "polearm" ],
   },
   // ★5
@@ -723,7 +723,7 @@
   {
     en: "Staff of the Scarlet Sands",
     ja: "赤砂の杖",
-    zhCN: "赤砂之杖",
+    zhCN: "赤沙之杖",
     tags: [ "weapon", "polearm" ],
   },
 
@@ -1131,7 +1131,7 @@
   {
     en: "Oathsworn Eye",
     ja: "誓いの明瞳",
-    zhCN: "正誓之明瞳",
+    zhCN: "证誓之明瞳",
     tags: [ "weapon", "catalyst" ],
   },
   {

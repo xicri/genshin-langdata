@@ -241,17 +241,20 @@
   {
     en: "Dendro Core",
     ja: "草原核",
+    zhCN: "草原核",
     tags: [ "element" ],
   },
   {
     en: "Burgeon",
     ja: "烈開花",
+    zhCN: "烈绽放",
     tags: [ "element" ],
     notes: "burgeon の原義は「新芽」「発芽する」",
   },
   {
     en: "Sprawling Shot",
     ja: "ヴァインショット",
+    zhCN: "蔓生弹",
     tags: [ "element" ],
   },
   {
@@ -264,17 +267,20 @@
   {
     en: "Quicken",
     ja: "原激化",
+    zhCN: "原激化",
     tags: [ "element" ],
   },
   {
     en: "Aggravate",
     ja: "超激化",
+    zhCN: "超激化",
     tags: [ "element" ],
     notes: "aggravate の原義は「更に悪くする」",
   },
   {
     en: "Spread",
     ja: "草激化",
+    zhCN: "蔓激化",
     tags: [ "element" ],
   },
   {
@@ -308,6 +314,7 @@
   {
     en: "Enduring Rock",
     ja: "不動の岩",
+    zhCN: "坚定之岩",
     pronunciationJa: "ふどうのいわ",
     tags: [ "element" ],
     notes: "岩元素のメンバーが2名以上いる際に発動する元素共鳴",
@@ -315,12 +322,14 @@
   {
     en: "Fervent Flames",
     ja: "熱誠の炎",
+    zhCN: "热诚之火",
     tags: [ "element" ],
     notes: "炎元素のメンバーが2名以上いる際に発動する元素共鳴",
   },
   {
     en: "Soothing Water",
     ja: "治療の水",
+    zhCN: "愈疗之水",
     pronunciationJa: "ちりょうのみず",
     tags: [ "element" ],
     notes: "水元素のメンバーが2名以上いる際に発動する元素共鳴",
@@ -335,6 +344,7 @@
   {
     en: "High Voltage",
     ja: "強権の雷",
+    zhCN: "强能之雷",
     pronunciationJa: "きょうけんのかみなり",
     tags: [ "element" ],
     notes: "雷元素のメンバーが2名以上いる際に発動する元素共鳴",
@@ -342,6 +352,7 @@
   {
     en: "Shattering Ice",
     ja: "粉砕の氷",
+    zhCN: "粉碎之冰",
     pronunciationJa: "ふんさいのこおり",
     tags: [ "element" ],
     notes: "氷元素のメンバーが2名以上いる際に発動する元素共鳴",
@@ -356,6 +367,7 @@
   {
     en: "Protective Canopy",
     ja: "交錯の護り",
+    zhCN: "交织之护",
     pronunciationJa: "こうさくのまもり",
     tags: [ "element" ],
     notes: "異なる元素のメンバー4名のパーティで発動する元素共鳴",
@@ -483,7 +495,7 @@
   {
     en: "lose 50/50",
     ja: "(ガチャで) すり抜ける",
-    zhCN: "歪了",
+    zhCN: "（小保底）歪了",
     pronunciationJa: "すりぬける",
     notes: "ピックアップキャラではない★5キャラが当たることを意味する。原神では★5キャラが当たった際、50%の確率でピックアップキャラが当たることから、50%の勝負に負ける、という表現。",
   },

@@ -302,7 +302,7 @@
   {
     en: "Chief Alchemist",
     ja: "首席錬金術師",
-    zhCN: "首席炼金术师",
+    zhCN: "首席炼金术士",
     pronunciationJa: "しゅせきれんきんじゅつし",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドの西風騎士団における職名",
@@ -445,7 +445,7 @@
   {
     en: "Andrius",
     ja: "アンドリアス",
-    zhCN: "安德鲁斯",
+    zhCN: "安德留斯",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
     notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
     variants: {
@@ -472,7 +472,7 @@
   {
     en: "Alice",
     ja: "アリス",
-    zhCN: "艾丽丝",
+    zhCN: "艾莉丝",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -484,6 +484,7 @@
   {
     en: "Adelinde",
     ja: "アデリン",
+    zhCN: "爱德琳",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -544,7 +545,7 @@
   {
     en: "Varka",
     ja: "ファルカ",
-    zhCN: "法尓伽",
+    zhCN: "法尓迦",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -1165,6 +1166,7 @@
   {
     en: "Soraya",
     ja: "ソラヤー",
+    zhCN: "索拉雅",
     tags: [ "liyue", "sumeru", "character-sub" ],
   },
   // The Chasm
@@ -1607,7 +1609,7 @@
   {
     en: "Hiiragi Hiroshi",
     ja: "柊弘嗣",
-    zhCN: "柊轰嗣",
+    zhCN: "柊弘嗣",
     pronunciationJa: "ひいらぎひろし",
     tags: [ "inazuma", "character-sub" ],
   },
@@ -2238,17 +2240,20 @@
   {
     en: "Garcia",
     ja: "ガルシア",
+    zhCN: "加尔恰",
     tags: [ "character-sub" ],
     notes: "空想クラブの一員",
   },
   {
     en: "Numbering Machine",
     ja: "ナンバリングマシン",
+    zhCN: "推数机",
     notes: "がルシアの研究対象",
   },
   {
     en: "Mécantre",
     ja: "メカントル",
+    zhCN: "梅康顿",
     tags: [ "character-sub" ],
     notes: "空想クラブの一員",
   },
@@ -2261,6 +2266,7 @@
   {
     en: "super-sized cannon",
     ja: "スーパーキャノン",
+    zhCN: "超级大炮",
     notes: "メカントルとバビスの研究対象",
   },
 
@@ -2436,6 +2442,7 @@
   {
     en: "Columbina",
     ja: "コロンビーナ",
+    zhCN: "哥伦比娅",
     notes: "[少女](/damselette/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
     tags: [ "snezhnaya", "character-sub" ],
   },

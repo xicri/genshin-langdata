@@ -686,7 +686,7 @@
   {
     en: "Rainbow Aster",
     ja: "紫苑雲霓",
-    zhCN: "紫苑云霞",
+    zhCN: "紫苑云霓",
     pronunciationJa: "しおんうんげい",
     tags: [ "food", "event" ],
   },
@@ -893,7 +893,7 @@
   {
     en: "Der Weisheit Letzter Schluss (Life)",
     ja: "最高の知恵・生活",
-    zhCN: "最高的智慧（生活）",
+    zhCN: "至高的智慧（生活）",
     pronunciationJa: "さいこうのちえ・せいかつ",
     tags: [ "food", "mondstadt" ],
     notes: "モナのオリジナル料理",
@@ -1291,19 +1291,19 @@
   {
     en: "Starshroom",
     ja: "星茸",
-    zhCN: "星茸",
+    zhCN: "星蕈",
     tags: [ "food" ],
   },
   {
     en: "Activated Starshroom",
     ja: "みなぎる星茸",
-    zhCN: "活化的星茸",
+    zhCN: "活化的星蕈",
     tags: [ "food" ],
   },
   {
     en: "Scorched Starshroom",
     ja: "ひからびた星茸",
-    zhCN: "枯焦的星茸",
+    zhCN: "枯焦的星蕈",
     tags: [ "food" ],
   },
   {
@@ -1328,6 +1328,7 @@
   {
     en: "Ajilenakh Nut",
     ja: "デーツ",
+    zhCN: "枣椰",
     tags: [ "food", "sumeru" ],
   },
 ]
