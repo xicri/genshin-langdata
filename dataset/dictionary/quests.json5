@@ -161,6 +161,17 @@
     pronunciationJa: "れいめいをつげるせんのばら",
     tags: [ "sumeru", "quest-archon" ],
   },
+  {
+    en: "Dreams, Emptiness, Deception",
+    ja: "迷夢と虚幻と欺瞞",
+    pronunciationJa: "めいむときょげんとぎまん",
+    tags: [ "sumeru", "quest-archon" ],
+  },
+  {
+    en: "King Deshret and the Three Magi",
+    ja: "赤砂の王と三人の巡礼者",
+    tags: [ "sumeru", "quest-archon" ],
+  },
 
   //
   // World Quests
@@ -1416,6 +1427,20 @@
     pronunciationJa: "フェネックのしょう",
     zhCN: "郭狐之章",
     notes: "ティナリの伝説任務",
+    tags: [ "sumeru", "quest-story" ],
+  },
+  {
+    en: "Lupus Aureus Chapter",
+    ja: "金狼の章",
+    pronunciationJa: "きんろうのしょう",
+    notes: "セノの伝説任務",
+    tags: [ "sumeru", "quest-story" ],
+  },
+  {
+    en: "Lotos Somno Chapter",
+    ja: "睡蓮の章",
+    pronunciationJa: "すいれんのしょう",
+    notes: "ニィロウの伝説任務",
     tags: [ "sumeru", "quest-story" ],
   },
 

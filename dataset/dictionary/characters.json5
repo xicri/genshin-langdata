@@ -1922,6 +1922,13 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Flame-Mane",
+    ja: "熾鬣の獅子",
+    pronunciationJa: "しりょうのしし",
+    tags: [ "sumeru", "title" ],
+    notes: "直訳は「炎の鬣 (たてがみ)」",
+  },
+  {
     en: "Nilou",
     ja: "ニィロウ",
     zhCN: "妮露",
@@ -1938,6 +1945,11 @@
     en: "Candace",
     ja: "キャンディス",
     zhCN: "坎蒂丝",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Layla",
+    ja: "レイラ",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -2037,6 +2049,31 @@
     en: "Rohawi",
     ja: "ロハウェイ",
     zhCN: "鲁哈维",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Setaria",
+    ja: "セタレ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Rahman",
+    ja: "ラフマン",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Karkata",
+    ja: "カカタ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Mechanical Crab",
+    ja: "機械ガニ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Abattouy",
+    ja: "アバッドイ",
     tags: [ "sumeru", "character-sub" ],
   },
   {

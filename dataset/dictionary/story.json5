@@ -428,6 +428,12 @@
     tags: [ "sumeru" ],
   },
   {
+    en: "Jnagarbha Day",
+    ja: "ジュニャーナガルバの日",
+    pronunciationJa: "ジュニャーナガルバのひ",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "Knowledge Capsule / Canned Knowledge",
     ja: "缶詰知識",
     zhCN: "罐装知识",
@@ -447,7 +453,7 @@
     zhCN: "悼灵花",
     tags: [ "sumeru" ],
   },
-  // Aranaras' language
+  // ▼▼ Aranaras' language ▼▼
   {
     en: "Nara",
     ja: "ナラ",
@@ -495,6 +501,13 @@
     zhCN: "兰迦拉梨",
     tags: [ "sumeru" ],
     notes: "アランナラの持つ技",
+  },
+  // ▲▲ Aranaras' language ▲▲
+  {
+    en: "Village Keeper",
+    ja: "グラマパラ",
+    tags: [ "sumeru" ],
+    notes: "アアル村に追放された、精神に異常をきたした学者のこと",
   },
 
 

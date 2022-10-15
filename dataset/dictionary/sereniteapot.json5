@@ -222,6 +222,11 @@
     zhCN: "柽木",
     tags: [ "sereniteapot", "sumeru" ],
   },
+  {
+    en: "Mountain Date Wood",
+    ja: "ヤシ材",
+    tags: [ "sereniteapot", "sumeru" ],
+  },
 
   //
   // Furnishing (調度品)

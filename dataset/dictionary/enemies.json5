@@ -1393,9 +1393,20 @@
     notes: "英語の複数形は Whirling Cryo Fungi と思われる。",
   },
   {
+    en: "Whirling Pyro Fungus",
+    ja: "グルグル炎キノコン",
+    tags: [ "enemy", "sumeru" ],
+    notes: "英語の複数形は Whirling Pyro Fungi と思われる",
+  },
+  {
     en: "Grounded Hydroshroom",
     ja: "トコトコ水マッシュロン",
     zhCN: "陆行水本真蕈",
+    tags: [ "enemy", "sumeru" ],
+  },
+  {
+    en: "Grounded Geoshroom",
+    ja: "トコトコ岩マッシュロン",
     tags: [ "enemy", "sumeru" ],
   },
   {
