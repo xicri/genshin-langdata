@@ -2285,9 +2285,12 @@
   },
   {
     en: "Rukkhashava Mushrooms",
-    ja: "ルッカデヴァタダケ",
+    ja: "ルッカデヴァータダケ",
     zhCN: "树王圣体菇",
     tags: [ "specialty", "item", "sumeru" ],
+    variants: {
+      ja: [ "ルッカデヴァタダケ" ],
+    },
   },
   {
     en: "Padisarah",
