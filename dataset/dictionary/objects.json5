@@ -157,6 +157,7 @@
   {
     en: "Dendrogranum / Dendrograna",
     ja: "草の種",
+    zhCN: "草种子",
     pronunciationJa: "くさのたね",
     notes: "Dendrogranum は単数形、Dendrograna は複数形。granum はラテン語で「種」の意?",
     tags: [ "object", "sumeru" ],
@@ -164,6 +165,7 @@
   {
     en: "Auspicious Branches",
     ja: "クサナリの枝",
+    zhCN: "祥草杨枝",
     pronunciationJa: "クサナリのえだ",
     tags: [ "object", "sumeru" ],
   },
@@ -337,6 +339,7 @@
   {
     en: "Specific paths",
     ja: "特定の道",
+    zhCN: "特定的道路",
     pronunciationJa: "とくていのみち",
     tags: [ "object", "inazuma" ],
   },
@@ -432,6 +435,7 @@
   {
     en: "Primeval Rosin",
     ja: "原始松脂",
+    zhCN: "原始松脂",
     pronunciationJa: "げんししょうし",
     tags: [ "object", "sumeru" ],
   },
@@ -456,33 +460,39 @@
   {
     en: "Ashvattha Tree",
     ja: "アシュヴァッタの樹",
+    zhCN: "觉王之树",
     tags: [ "sumeru", "object" ],
   },
   {
     en: "Claustroflora",
     ja: "幽閉花",
+    zhCN: "幽闭花",
     tags: [ "object", "sumeru" ],
     notes: "ライアーの演奏により障害物を取り除くことができる花",
   },
   {
     en: "Vamadha",
     ja: "ヴァマッダ",
+    zhCN: "桓摩达",
     tags: [ "object", "sumeru" ],
     notes: "洞窟などの入り口を塞いでおり、ライアーの演奏と攻撃により回転して道を開けることができる球状のオブジェクト",
   },
   {
     en: "Zohrah Mushroom",
     ja: "ゾーラ茸",
+    zhCN: "须罗蕈",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Jamikayomars",
     ja: "ジャミカヨマール",
+    zhCN: "阎迦由玛",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Mawtiyima",
     ja: "マウティイェマ",
+    zhCN: "无郁夷摩",
     tags: [ "sumeru" ],
   },
   {
@@ -496,6 +506,7 @@
   {
     en: "tumbleweed",
     ja: "タンブルウィード",
+    zhCN: "风滚草",
     tags: [ "object", "sumeru" ],
     notes: "砂漠で転がっている丸い草の塊のこと",
   },
@@ -509,56 +520,66 @@
   {
     en: "Plinth of the Secret Rites",
     ja: "秘儀台座",
+    zhCN: "秘仪台座",
     pronunciationJa: "ひぎだいざ",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Primal Ember",
     ja: "プライマル火種",
+    zhCN: "元能火种",
     pronunciationJa: "プライマルひだね",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Primal Torch",
     ja: "プライマル炬火",
+    zhCN: "元能火炬",
     pronunciationJa: "プライマルきょか",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Primal Beam",
     ja: "プライマルビーム",
+    zhCN: "元能光束",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Primal Sandglass",
     ja: "プライマル砂時計",
+    zhCN: "元能沙钟",
     pronunciationJa: "プライマルすなどけい",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Forged Primal Light",
     ja: "プライマル光錐",
+    zhCN: "元能光锥",
     pronunciationJa: "プライマルこうすい",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Replicator Keystone",
     ja: "擬造基石",
+    zhCN: "拟构基石",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Primal Obelisk",
     ja: "プライマルオベリスク",
+    zhCN: "元能尖碑",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Sacred Seal",
     ja: "ヒエログリフタブレット",
+    zhCN: "圣章石",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Verity Cell",
     ja: "正体ユニット",
+    zhCN: "本相元件",
     tags: [ "object", "sumeru" ],
   },
 ]

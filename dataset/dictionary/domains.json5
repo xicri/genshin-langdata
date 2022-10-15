@@ -380,16 +380,19 @@
   {
     en: "Red Desert Threshold",
     ja: "赤砂の檻",
+    zhCN: "赤沙之槛",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Altar of Mirages",
     ja: "ミラージュ祭場",
+    zhCN: "蜃景祭场",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Garden of Endless Pillars",
     ja: "千柱の花園",
+    zhCN: "千柱的花园",
     tags: [ "sumeru", "domain" ],
   },
 ]

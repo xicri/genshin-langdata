@@ -134,7 +134,7 @@
   {
     en: "Echoes of an Offering",
     ja: "来歆の余響",
-    zhCN: "来韵余响",
+    zhCN: "来歆余响",
     pronunciationJa: "らいきんのよきょう", // Source: https://twitter.com/genshin_kanji/status/1504796434021101568
     tags: [ "artifact" ],
     variants: {
@@ -158,6 +158,7 @@
   {
     en: "Gilded Dreams",
     ja: "金メッキの夢",
+    zhCN: "饰金之梦",
     pronunciationJa: "きんメッキのゆめ",
     tags: [ "artifact" ],
   },

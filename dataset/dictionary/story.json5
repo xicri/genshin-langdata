@@ -66,6 +66,7 @@
   {
     en: "Ley Line",
     ja: "地脈",
+    zhCN: "地脉",
     pronunciationJa: "ちみゃく",
   },
   {
@@ -491,6 +492,7 @@
   {
     en: "Ararakalari",
     ja: "アランラカラリ",
+    zhCN: "兰迦拉梨",
     tags: [ "sumeru" ],
     notes: "アランナラの持つ技",
   },

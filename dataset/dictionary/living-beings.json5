@@ -105,6 +105,7 @@
   {
     en: "Shroomboar",
     ja: "キノシシ",
+    zhCN: "蕈猪",
     tags: [ "living-being", "sumeru" ],
   },
   {
@@ -144,6 +145,7 @@
   {
     en: "Quicksand Unagi",
     ja: "流砂ウナギ",
+    zhCN: "流沙鳗鳗",
     tags: [ "living-being", "sumeru" ],
   },
 
@@ -209,6 +211,7 @@
   {
     en: "Desert Sumpter Beast",
     ja: "ラクラク駄獣",
+    zhCN: "骆骆驮兽",
     pronunciationJa: "ラクラクだじゅう",
     tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
   },
@@ -228,27 +231,32 @@
   {
     en: "Scorpion",
     ja: "サソリ",
+    zhCN: "毒蝎",
     tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
   },
   {
     en: "Red Vulture",
     ja: "赤鷲",
+    zhCN: "赤鹫",
     tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
   },
 
   {
     en: "Gator Raja",
     ja: "ゲーターキング",
+    zhCN: "鳄鱼大王",
     tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
   },
   {
     en: "Rishboland Raja",
     ja: "リシュボラン虎のラージャ",
+    zhCN: "长鬓虎罗阇",
     tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
   },
   {
     en: "Sumpter Beastlord",
     ja: "駄獣大王",
+    zhCN: "驮兽大王",
     tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
   },
 ]

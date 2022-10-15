@@ -302,7 +302,7 @@
   {
     en: "Chief Alchemist",
     ja: "首席錬金術師",
-    zhCN: "首席炼金术师",
+    zhCN: "首席炼金术士",
     pronunciationJa: "しゅせきれんきんじゅつし",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドの西風騎士団における職名",
@@ -376,11 +376,13 @@
   {
     en: "Mika",
     ja: "ミカ",
+    zhCN: "米卡",
     tags: [ "mondstadt", "character-main" ],
   },
   {
     en: "surveyor of the Reconnaissance Company",
     ja: "遊撃小隊の測量士",
+    zhCN: "游击小队测绘员",
     pronunciationJa: "ゆうげきしょうたいのそくりょうし",
     tags: [ "mondstadt", "title" ],
     notes: "ミカの西風騎士団における職名",
@@ -443,7 +445,7 @@
   {
     en: "Andrius",
     ja: "アンドリアス",
-    zhCN: "安德鲁斯",
+    zhCN: "安德留斯",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
     notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
     variants: {
@@ -470,7 +472,7 @@
   {
     en: "Alice",
     ja: "アリス",
-    zhCN: "艾丽丝",
+    zhCN: "艾莉丝",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -482,6 +484,7 @@
   {
     en: "Adelinde",
     ja: "アデリン",
+    zhCN: "爱德琳",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -542,12 +545,13 @@
   {
     en: "Varka",
     ja: "ファルカ",
-    zhCN: "法尓伽",
+    zhCN: "法尓迦",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
     en: "Grand Master",
     ja: "大団長",
+    zhCN: "大团长",
     pronunciationJa: "だいだんちょう",
     tags: [ "mondstadt", "title" ],
     notes: "ファルカの西風騎士団における職名。",
@@ -1162,6 +1166,7 @@
   {
     en: "Soraya",
     ja: "ソラヤー",
+    zhCN: "索拉雅",
     tags: [ "liyue", "sumeru", "character-sub" ],
   },
   // The Chasm
@@ -1604,7 +1609,7 @@
   {
     en: "Hiiragi Hiroshi",
     ja: "柊弘嗣",
-    zhCN: "柊轰嗣",
+    zhCN: "柊弘嗣",
     pronunciationJa: "ひいらぎひろし",
     tags: [ "inazuma", "character-sub" ],
   },
@@ -1655,6 +1660,7 @@
   {
     en: "Kapatcir",
     ja: "カパッチリ",
+    zhCN: "卡帕奇莉",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -2036,6 +2042,7 @@
   {
     en: "Alrani",
     ja: "アラニ",
+    zhCN: "爱拉尼",
     tags: [ "sumeru", "inazuma", "character-sub" ],
   },
   {
@@ -2047,6 +2054,7 @@
   {
     en: "Nabiya",
     ja: "ナビヤ",
+    zhCN: "娜比雅",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女",
   },
@@ -2059,6 +2067,7 @@
   {
     en: "King Deshret",
     ja: "キングデシェレト",
+    // According to this [wiki](https://genshin-impact.fandom.com/wiki/Scarlet_King), it shares the same name in Chinese with the Scarlet King.
     tags: [ "sumeru", "character-sub" ],
   },
   // Aranaras & related
@@ -2147,48 +2156,57 @@
   {
     en: "Arapas",
     ja: "アランパス",
+    zhCN: "兰阿帕斯",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
   },
   {
     en: "Araphala",
     ja: "アランファラ",
+    zhCN: "兰非拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
   },
   {
     en: "Ararycan",
     ja: "アランラキャ",
+    zhCN: "兰利遮",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aralohita",
     ja: "アランロヒタ",
+    zhCN: "兰罗希陀",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aradasa",
     ja: "アランダサ",
+    zhCN: "兰陀娑",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aranaga",
     ja: "アランナガ",
+    zhCN: "兰纳迦",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aranakin",
     ja: "アランナキン",
+    zhCN: "兰纳真",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aragaru",
     ja: "アランガル",
+    zhCN: "兰迦鲁",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Aragita",
     ja: "アランハドゥ",
+    zhCN: "兰耆都",
     tags: [ "sumeru", "character-sub" ],
   },
   {
@@ -2222,17 +2240,20 @@
   {
     en: "Garcia",
     ja: "ガルシア",
+    zhCN: "加尔恰",
     tags: [ "character-sub" ],
     notes: "空想クラブの一員",
   },
   {
     en: "Numbering Machine",
     ja: "ナンバリングマシン",
+    zhCN: "推数机",
     notes: "がルシアの研究対象",
   },
   {
     en: "Mécantre",
     ja: "メカントル",
+    zhCN: "梅康顿",
     tags: [ "character-sub" ],
     notes: "空想クラブの一員",
   },
@@ -2245,6 +2266,7 @@
   {
     en: "super-sized cannon",
     ja: "スーパーキャノン",
+    zhCN: "超级大炮",
     notes: "メカントルとバビスの研究対象",
   },
 
@@ -2420,6 +2442,7 @@
   {
     en: "Columbina",
     ja: "コロンビーナ",
+    zhCN: "哥伦比娅",
     notes: "[少女](/damselette/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
     tags: [ "snezhnaya", "character-sub" ],
   },
