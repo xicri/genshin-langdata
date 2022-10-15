@@ -504,6 +504,12 @@
     notes: "Irminsul の訳は安定していないようであり、「古樹」や「地脈の」などのように訳されている箇所もある。[参考: Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Irminsul#Localization)",
   },
   {
+    en: "Wall of Samiel",
+    ja: "防砂壁",
+    tags: [ "object", "sumeru" ],
+    notes: "samiel とは アフリカのサハラ砂漠、イスラエル、パレスチナ、ヨルダン、イラク、シリアなどで見られる砂嵐を指す (参照: [Wikipedia](https://en.wikipedia.org/wiki/Simoom))",
+  },
+  {
     en: "tumbleweed",
     ja: "タンブルウィード",
     zhCN: "风滚草",

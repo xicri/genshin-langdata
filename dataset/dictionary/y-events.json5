@@ -191,7 +191,7 @@
   },
   {
     en: "Weinlesefest",
-    ja: "ブリーズブリュー祭",
+    ja: "ブリュー祭 / ブリーズブリュー祭",
     zhCN: "佳酿节 / 归风佳酿节",
     notes: "モンドの祭りの1つ。v3.1 期間限定イベント「杯の中のバラッド」の中で開催。",
     tags: [ "event" ],
@@ -230,6 +230,19 @@
     zhCN: "丰饶的祝愿",
     pronunciationJa: "ほうじょうのしゅくふく",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」の子イベントの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Epsilon-Series Tetrasweet Sunsettia, Variation 63",
+    ja: "五式夕暮れの実改六三号甘さ四倍版",
+    pronunciationJa: "ごしきゆうぐれのみかいろくさんごうあまさよんばいばん",
+    notes: "v3.1 期間限定イベント「杯の中のバラッド」でスクロースとノエルからもらえるサウザンドウィンドブリューの材料",
+    tags: [ "event" ],
+  },
+  {
+    en: "Thousand-Wind Wine",
+    ja: "サウザンドウィンドブリュー",
+    notes: "v3.1 期間限定イベント「杯の中のバラッド」で作るお酒",
     tags: [ "event" ],
   },
 

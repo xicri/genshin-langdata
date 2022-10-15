@@ -1922,6 +1922,13 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Flame-Mane",
+    ja: "熾鬣の獅子",
+    pronunciationJa: "しりょうのしし",
+    tags: [ "sumeru", "title" ],
+    notes: "直訳は「炎の鬣 (たてがみ)」",
+  },
+  {
     en: "Nilou",
     ja: "ニィロウ",
     zhCN: "妮露",
@@ -1938,6 +1945,11 @@
     en: "Candace",
     ja: "キャンディス",
     zhCN: "坎蒂丝",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Layla",
+    ja: "レイラ",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -2040,6 +2052,31 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Setaria",
+    ja: "セタレ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Rahman",
+    ja: "ラフマン",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Karkata",
+    ja: "カカタ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Mechanical Crab",
+    ja: "機械ガニ",
+    tags: [ "sumeru", "title" ],
+  },
+  {
+    en: "Abattouy",
+    ja: "アバッドイ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
     en: "Alrani",
     ja: "アラニ",
     zhCN: "爱拉尼",
@@ -2059,16 +2096,11 @@
     notes: "スメールシティ内にいる占い師の少女",
   },
   {
-    en: "Scarlet King",
-    ja: "スカーレットキング",
+    en: "King Deshret / Scarlet King",
+    ja: "キングデシェレト / スカーレットキング",
     zhCN: "赤王",
     tags: [ "sumeru", "character-sub" ],
-  },
-  {
-    en: "King Deshret",
-    ja: "キングデシェレト",
-    // According to this [wiki](https://genshin-impact.fandom.com/wiki/Scarlet_King), it shares the same name in Chinese with the Scarlet King.
-    tags: [ "sumeru", "character-sub" ],
+    notes: "日本語版と英語版においては、v3.1 から Scarlet King (King Deshret) / スカーレットキング (キングデシェレト) などのような表記が行われているが、中国語版では特に変更はないようである",
   },
   // Aranaras & related
   {
@@ -2248,7 +2280,7 @@
     en: "Numbering Machine",
     ja: "ナンバリングマシン",
     zhCN: "推数机",
-    notes: "がルシアの研究対象",
+    notes: "ガルシアの研究対象",
   },
   {
     en: "Mécantre",
