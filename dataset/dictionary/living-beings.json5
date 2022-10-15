@@ -232,13 +232,13 @@
     en: "Scorpion",
     ja: "サソリ",
     zhCN: "毒蝎",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Red Vulture",
     ja: "赤鷲",
     zhCN: "赤鹫",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
 
   {
