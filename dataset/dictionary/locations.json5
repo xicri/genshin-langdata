@@ -1307,9 +1307,9 @@
     tags: [ "sumeru", "location" ],
   },
   {
-    en: "Abdju Road",
-    ja: "捨身の道",
-    zhCN: "舍身步道",
+    en: "Abdju Pit",
+    ja: "捨身の坑",
+    zhCN: "舍身步道", // TODO Check if it is renamed
     pronunciationJa: "しゃしんのみち",
     tags: [ "sumeru", "location" ],
   },
@@ -1346,6 +1346,12 @@
     ja: "列柱砂原",
     zhCN: "列柱沙原",
     pronunciationJa: "れっちゅうすなはら",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Khemenu Temple",
+    ja: "秘儀聖殿",
+    pronunciationJa: "ひぎせいでん",
     tags: [ "sumeru", "location" ],
   },
   {
