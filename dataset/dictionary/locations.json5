@@ -1307,9 +1307,9 @@
     tags: [ "sumeru", "location" ],
   },
   {
-    en: "Abdju Pit",
-    ja: "捨身の坑",
-    zhCN: "舍身步道", // TODO Check if it is renamed
+    en: "Abdju Road",
+    ja: "捨身の道",
+    zhCN: "舍身步道",
     pronunciationJa: "しゃしんのみち",
     tags: [ "sumeru", "location" ],
   },
