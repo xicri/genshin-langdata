@@ -531,6 +531,23 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "clearance",
+    ja: "権能",
+    pronunciationJa: "けんのう",
+    tags: [ "sumeru" ],
+    examples: [
+      {
+        en: "You do not have enough clearance",
+        ja: "必要な「権能」が足りないようです",
+      },
+      {
+        en: "Increase Clearance Level",
+        ja: "権能ランクアップ",
+        ref: "ゲーム内チュートリアル",
+      },
+    ],
+  },
+  {
     en: "Primal Ember",
     ja: "プライマル火種",
     zhCN: "元能火种",

@@ -1349,6 +1349,12 @@
     tags: [ "sumeru", "location" ],
   },
   {
+    en: "Khemenu Temple",
+    ja: "秘儀聖殿",
+    pronunciationJa: "ひぎせいでん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
     en: "The Dune of Carouses",
     ja: "飽飲の丘",
     zhCN: "饱饮之丘",

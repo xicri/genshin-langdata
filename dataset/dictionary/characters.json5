@@ -2096,6 +2096,42 @@
     notes: "スメールシティ内にいる占い師の少女",
   },
   {
+    en: "Harut",
+    ja: "ハールート",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
+  },
+  {
+    en: "Marut",
+    ja: "マールート",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
+  },
+  {
+    en: "Jeht",
+    ja: "ジェイド",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「黄金の眠り」に登場するキャラクター",
+  },
+  {
+    en: "Jebrael",
+    ja: "ジェブライラ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「黄金の眠り」に登場するキャラクター",
+  },
+  {
+    en: "Tirzad",
+    ja: "ティルザード",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「黄金の眠り」に登場するキャラクター",
+  },
+  {
+    en: "Benben",
+    ja: "ブンブン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「黄金の眠り」に登場するキャラクター",
+  },
+  {
     en: "King Deshret / Scarlet King",
     ja: "キングデシェレト / スカーレットキング",
     zhCN: "赤王",
