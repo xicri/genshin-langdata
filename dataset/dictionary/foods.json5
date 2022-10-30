@@ -380,6 +380,16 @@
     zhCN: "奶酱鲜鱼",
     tags: [ "food" ],
   },
+  {
+    en: "Aaru Mixed Rice",
+    ja: "アアルコシャリ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Masala Cheese Balls",
+    ja: "マサラチーズボール",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -488,6 +498,12 @@
   {
     en: "Fruits of the Festival",
     ja: "バケーションサイダー",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sunset Berry Tea",
+    ja: "夕暮れベリーティー",
+    pronunciationJa: "ゆうぐれベリーティー",
     tags: [ "food" ],
   },
   {
@@ -702,6 +718,11 @@
     zhCN: "黄油鸡",
     tags: [ "food" ],
   },
+  {
+    en: "Milky Mushroom Crisp Tower",
+    ja: "ミルキーキノコクリスプタワー",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -771,6 +792,12 @@
     ja: "獣肉のビリヤニ",
     zhCN: "兽米香香",
     pronunciationJa: "けものにくのビリヤニ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Meat Lovers' Mushroom Pizza",
+    ja: "焼きキノコミートピザ",
+    pronunciationJa: "やきキノコミートピザ",
     tags: [ "food" ],
   },
 

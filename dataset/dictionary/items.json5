@@ -579,6 +579,13 @@
     zhCN: "蕈王钩喙",
     tags: [ "levelup-material", "item" ],
   },
+  {
+    en: "Perpetual Caliber",
+    ja: "永続コア",
+    pronunciationJa: "えいぞくコア",
+    tags: [ "levelup-material", "item" ],
+    notes: "兆載永劫ドレイクのドロップアイテム",
+  },
   // Dvalin
   {
     en: "Dvalin's Plume",
