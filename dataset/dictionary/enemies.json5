@@ -1024,6 +1024,15 @@
     tags: [ "enemy-boss", "inazuma" ],
     notes: "無相の水のコードネーム",
   },
+  {
+    en: "Dendro Hypostasis",
+    ja: "無相の草",
+    pronunciationJa: "むそうのくさ",
+    tags: [ "enemy-boss", "sumeru" ],
+    variants: {
+      ja: [ "無双の草", "無想の草" ],
+    },
+  },
 
   // Vishaps
   {

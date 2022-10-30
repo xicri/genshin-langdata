@@ -517,6 +517,19 @@
     notes: "砂漠で転がっている丸い草の塊のこと",
   },
   {
+    en: "Suda's Flow",
+    ja: "須陀流心",
+    tags: [ "object", "sumeru" ],
+    notes: "攻撃で破ることができる、ツル草の障害物",
+  },
+  {
+    en: "Ruin Golem",
+    ja: "遺跡巨像",
+    pronunciationJa: "いせききょぞう",
+    tags: [ "object", "sumeru" ],
+    notes: "ダーリの谷で砲撃をしてくる巨像",
+  },
+  {
     en: "Energy Extraction Device",
     ja: "エネルギー抽出装置",
     zhCN: "能量提取装置",
@@ -603,6 +616,17 @@
     en: "Verity Cell",
     ja: "正体ユニット",
     zhCN: "本相元件",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Obscuring Cell",
+    ja: "秘匿ユニット",
+    pronunciationJa: "ひとくユニット",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Prism of Khaj-Nisut",
+    ja: "聖顕角柱",
     tags: [ "object", "sumeru" ],
   },
 ]

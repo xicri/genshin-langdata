@@ -1308,6 +1308,12 @@
     notes: "世界任務「黄金の眠り」の途中で、聖顕殿に変化する。",
   },
   {
+    en: "Khaj-Nisut",
+    ja: "聖顕殿",
+    tags: [ "sumeru", "location" ],
+    notes: "世界任務「黄金の眠り」の途中で、砂の目から変化する。",
+  },
+  {
     en: "Abdju Road",
     ja: "捨身の道",
     zhCN: "舍身步道",
@@ -1389,6 +1395,18 @@
     ja: "キングデシェレトの霊廟",
     zhCN: "赤王陵",
     pronunciationJa: "キングデシェレトのれいびょう",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Opet Hall",
+    ja: "祝祭殿",
+    pronunciationJa: "しゅくさいでん",
+    tags: [ "sumeru", "location" ],
+    notes: "Opet の原義はエジプトの祭り。参照: [ブリタニカ](https://www.britannica.com/topic/Opet-Egyptian-festival)",
+  },
+  {
+    en: "Great Hall of Truths",
+    ja: "秤罪主殿",
     tags: [ "sumeru", "location" ],
   },
 

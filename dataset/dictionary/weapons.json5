@@ -1197,4 +1197,10 @@
       zhCN: [ "神乐铃" ],
     },
   },
+  {
+    en: "A Thousand Floating Dreams",
+    ja: "千夜に浮かぶ夢",
+    pronunciationJa: "せんやにうかぶゆめ",
+    tags: [ "weapon", "catalyst" ],
+  },
 ]

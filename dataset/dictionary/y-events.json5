@@ -170,6 +170,35 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v3.2
+  {
+    en: "Fabulous Fungus Frenzy",
+    ja: "ワンダフルキノコンピック",
+    notes: "v3.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Adventurer's Trials",
+    ja: "冒険者試練",
+    pronunciationJa: "ぼうけんしゃしれん",
+    notes: "v3.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Hypostatic Symphony: Dissonant Verse",
+    ja: "無相の交響詩・トニックピリオド",
+    pronunciationJa: "むそうのこうきょうし・トニックピリオド",
+    notes: "v3.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Outside the Canvas, Inside the Lens: Greenery Chapter",
+    ja: "旅の写真に閃きを・緑葉編",
+    pronunciationJa: "たびのしゃしんにひらめきを・りょくようへん",
+    notes: "v3.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+
   //
   // v3.1
   //

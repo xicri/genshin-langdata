@@ -172,6 +172,11 @@
     ja: "赤砂の王と三人の巡礼者",
     tags: [ "sumeru", "quest-archon" ],
   },
+  {
+    en: "Akasha Pulses, the Kalpa Flame Rises",
+    ja: "虚空の鼓動、熾盛の劫火",
+    tags: [ "sumeru", "quest-archon" ],
+  },
 
   //
   // World Quests
@@ -1443,6 +1448,13 @@
     notes: "ニィロウの伝説任務",
     tags: [ "sumeru", "quest-story" ],
   },
+  {
+    en: "Sapientia Oromasdis Chapter",
+    ja: "知恵の主の章",
+    pronunciationJa: "ちえのあるじのしょう",
+    notes: "ナヒーダの伝説任務",
+    tags: [ "sumeru", "quest-story" ],
+  },
 
   //
   // Commission Quests
@@ -1987,9 +1999,21 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "The Measure of a Mushroom",
+    ja: "キノコの高さ測定",
+    pronunciationJa: "キノコのたかさそくてい",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "King of Invokations",
     ja: "『召喚王』",
     pronunciationJa: "しょうかんおう",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Garcia's Paean: Substitutes",
+    ja: "ガルシアの賛歌・代替品",
+    pronunciationJa: "ガルシアのさんか・だいたいひん",
     tags: [ "quest-daily", "sumeru" ],
   },
 

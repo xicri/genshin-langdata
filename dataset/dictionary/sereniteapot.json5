@@ -77,8 +77,6 @@
     pronunciationJa: "ちょうどひん",
     tags: [ "sereniteapot" ],
   },
-
-
   {
     en: "Radiant Spincrystal",
     ja: "旋曜玉帛",
@@ -88,6 +86,13 @@
     variants: {
       ja: [ "パイン飴", "パインアメ" ],
     },
+  },
+  {
+    en: "Replication",
+    ja: "模本",
+    pronunciationJa: "もほん",
+    tags: [ "sereniteapot" ],
+    notes: "他のプレイヤーの塵歌壺をコピーする機能",
   },
 
   //
