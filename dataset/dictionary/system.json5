@@ -601,6 +601,12 @@
     pronunciationJa: "わびいし",
     notes: "apology (謝罪) と gem (宝石) の合成語。日本語の「詫び石」同様、他のゲームでも使われる。通例複数形で apologems。",
   },
+  {
+    en: "Genius Invokation TCG",
+    ja: "七聖召喚",
+    pronunciationJa: "しちせいしょうかん",
+    notes: "英語では「召喚」は Invo\"c\"ation とつづるが、ここでは Invo\"k\"ation となっていることに注意。このつづりはマルタ語などに見られる。TCG は Trading Card Game の略。",
+  },
 
   //
   // Inazuma

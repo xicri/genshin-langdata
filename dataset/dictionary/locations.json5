@@ -1409,6 +1409,12 @@
     ja: "秤罪主殿",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Duat Hall",
+    ja: "冥途殿",
+    tags: [ "sumeru", "location" ],
+    notes: "Duat はエジプト神話における死後の世界を指す。参照: [Wikipedia](https://en.wikipedia.org/wiki/Duat)",
+  },
 
   {
     en: "Great Red Sand",

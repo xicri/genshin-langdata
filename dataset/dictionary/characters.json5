@@ -1954,6 +1954,11 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Faruzan",
+    ja: "ファルザン",
+    tags: [ "sumeru", "character-main" ],
+  },
+  {
     en: "Nahida",
     ja: "ナヒーダ",
     zhCN: "纳西妲",
@@ -1983,6 +1988,11 @@
     variants: {
       ja: [ "そうじん", "くさかみ", "くさがみ" ],
     },
+  },
+  {
+    en: "Buer",
+    ja: "ブエル",
+    tags: [ "sumeru", "title" ],
   },
 
   //
@@ -2107,6 +2117,12 @@
     ja: "マールート",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
+  },
+  {
+    en: "Effendi",
+    ja: "エフェンディ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "スメール評判任務の受付キャラクター",
   },
   {
     en: "Jeht",
@@ -2443,6 +2459,23 @@
     ja: "国崩",
     zhCN: "国崩",
     pronunciationJa: "くにくずし",
+    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
+  },
+  {
+    en: "Everlasting Lord of Arcane Wisdom",
+    ja: "七葉寂照秘密主",
+    tags: [ "snezhnaya", "inazuma", "sumeru", "enemy-boss" ],
+  },
+  {
+    en: "Shouki no Kami, the Prodigal",
+    ja: "正機の神",
+    pronunciationJa: "しょうきのかみ",
+    tags: [ "snezhnaya", "inazuma", "sumeru", "enemy-boss" ],
+  },
+  {
+    en: "Wanderer",
+    ja: "放浪者",
+    pronunciationJa: "ほうろうしゃ",
     tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
   },
   {

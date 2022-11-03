@@ -1033,6 +1033,12 @@
       ja: [ "無双の草", "無想の草" ],
     },
   },
+  {
+    en: "Zayin",
+    ja: "ザイン",
+    tags: [ "enemy-boss", "sumeru" ],
+    notes: "無相の草のコードネーム",
+  },
 
   // Vishaps
   {
