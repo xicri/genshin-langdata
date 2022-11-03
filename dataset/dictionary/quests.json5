@@ -1156,6 +1156,12 @@
     pronunciationJa: "おうごんのねむり",
     tags: [ "sumeru", "quest-world" ],
   },
+  {
+    en: "Old Notes and New Friends",
+    ja: "古き物語と新しき友人",
+    pronunciationJa: "ふるきものがたりとあたらしきゆうじん",
+    tags: [ "sumeru", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -2008,6 +2014,12 @@
     en: "King of Invokations",
     ja: "『召喚王』",
     pronunciationJa: "しょうかんおう",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "The Great Tree: Rooted State",
+    ja: "大樹・根を張る",
+    pronunciationJa: "たいじゅ・ねをはる",
     tags: [ "quest-daily", "sumeru" ],
   },
   {

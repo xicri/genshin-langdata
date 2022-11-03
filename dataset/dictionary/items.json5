@@ -146,11 +146,17 @@
     tags: [ "item", "liyue" ],
   },
   {
-    en: "Electroculous Resonance Stone",
+    en: "Electroculus Resonance Stone",
     ja: "雷神の瞳の共鳴石",
     zhCN: "雷神瞳共鸣石",
     pronunciationJa: "らいじんのひとみのきょうめいせき",
     tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Dendroculus Resonance Stone",
+    ja: "草神の瞳の共鳴石",
+    pronunciationJa: "そうしんのひとみのきょうめいせき",
+    tags: [ "item", "sumeru" ],
   },
   {
     en: "Crimson Agate",
@@ -250,6 +256,12 @@
     zhCN: "雷之寻宝罗盘",
     pronunciationJa: "かみなりのトレジャーコンパス",
     tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Dendro Treasure Compass",
+    ja: "草のトレジャーコンパス",
+    pronunciationJa: "くさのトレジャーコンパス",
+    tags: [ "item", "sumeru" ],
   },
   {
     en: "NRE (Menu 30)",
@@ -470,6 +482,7 @@
     zhCN: "常燃火种",
     pronunciationJa: "じょうねんのひだね",
     tags: [ "levelup-material", "item" ],
+    notes: "爆炎樹のドロップアイテム",
   },
   {
     en: "Cleansing Heart",
@@ -477,6 +490,7 @@
     zhCN: "净水之心",
     pronunciationJa: "じょうすいのこころ",
     tags: [ "levelup-material", "item" ],
+    notes: "純水精霊ローデシアのドロップアイテム",
   },
   {
     en: "Lightning Prism",
@@ -484,6 +498,7 @@
     zhCN: "雷光棱镜",
     pronunciationJa: "らいこうのプリズム",
     tags: [ "levelup-material", "item" ],
+    notes: "無相の雷のドロップアイテム",
   },
   {
     en: "Hurricane Seed",
@@ -491,6 +506,7 @@
     zhCN: "飓风之种",
     pronunciationJa: "ぼうふうのたね",
     tags: [ "levelup-material", "item" ],
+    notes: "無相の風のドロップアイテム",
   },
   {
     en: "Hoarfrost Core",
@@ -498,6 +514,7 @@
     zhCN: "极寒之核",
     pronunciationJa: "ごっかんのコア",
     tags: [ "levelup-material", "item" ],
+    notes: "急凍樹のドロップアイテム",
   },
   {
     en: "Basalt Pillar",
@@ -505,6 +522,7 @@
     zhCN: "玄岩之塔",
     pronunciationJa: "げんがんのとう",
     tags: [ "levelup-material", "item" ],
+    notes: "無相の岩のドロップアイテム",
   },
   {
     en: "Juvenile Jade",
@@ -512,6 +530,7 @@
     zhCN: "未熟之玉",
     pronunciationJa: "みじゅくのぎょくせき",
     tags: [ "levelup-material", "item" ],
+    notes: "エンシェントヴィシャップ・岩のドロップアイテム",
   },
   {
     en: "Crystalline Bloom",
@@ -519,6 +538,7 @@
     zhCN: "晶凝之华",
     pronunciationJa: "ぎょうけつのはな",
     tags: [ "levelup-material", "item" ],
+    notes: "無相の氷のドロップアイテム",
   },
   {
     en: "Smoldering Pearl",
@@ -526,6 +546,7 @@
     zhCN: "阴燃之珠",
     pronunciationJa: "いんねんのたま",
     tags: [ "levelup-material", "item" ],
+    notes: "無相の炎のドロップアイテム",
   },
   {
     en: "Marionette Core",
@@ -533,6 +554,7 @@
     zhCN: "魔偶机芯",
     pronunciationJa: "まぐうのしん",
     tags: [ "levelup-material", "item" ],
+    notes: "魔偶剣鬼のドロップアイテム",
   },
   {
     en: "Perpetual Heart",
@@ -540,6 +562,7 @@
     zhCN: "恒常机关之芯",
     pronunciationJa: "こうじょうからくりのしん",
     tags: [ "levelup-material", "item" ],
+    notes: "恒常からくり陣形のドロップアイテム",
   },
   {
     en: "Storm Beads",
@@ -547,6 +570,7 @@
     zhCN: "雷霆数珠",
     pronunciationJa: "らいていのねんじゅ",
     tags: [ "levelup-material", "item" ],
+    notes: "雷音権現のドロップアイテム",
   },
   {
     en: "Dew of Repudiation",
@@ -554,30 +578,42 @@
     zhCN: "排异之露",
     pronunciationJa: "はいたのつゆ",
     tags: [ "levelup-material", "item" ],
+    notes: "無相の水のドロップアイテム",
+  },
+  {
+    en: "Riftborn Regalia",
+    ja: "獣域王器",
+    pronunciationJa: "じゅういきおうき",
+    tags: [ "levelup-material", "item" ],
+    notes: "黄金王獣のドロップアイテム",
   },
   {
     en: "Dragonheir's False Fin",
     ja: "ドラゴエアのニセヒレ",
     zhCN: "龙嗣伪鳍",
     tags: [ "levelup-material", "item" ],
+    notes: "アビサルヴィシャップの群れのドロップアイテム",
   },
   {
     en: "Runic Fang",
     ja: "符文の歯車",
     zhCN: "符文之齿",
     tags: [ "levelup-material", "item" ],
+    notes: "遺跡サーペントのドロップアイテム",
   },
   {
     en: "Thunderclap Fruitcore",
     ja: "隠雷の実",
     zhCN: "藏雷野实",
     tags: [ "levelup-material", "item" ],
+    notes: "迅電樹のドロップアイテム",
   },
   {
     en: "Majestic Hooked Beak",
     ja: "茸王の鉤状のくちばし",
     zhCN: "蕈王钩喙",
     tags: [ "levelup-material", "item" ],
+    notes: "マッシュラプトルのドロップアイテム",
   },
   {
     en: "Perpetual Caliber",
@@ -586,6 +622,20 @@
     tags: [ "levelup-material", "item" ],
     notes: "兆載永劫ドレイクのドロップアイテム",
   },
+  {
+    en: "Light Guiding Tetrahedron",
+    ja: "導光四面体",
+    pronunciationJa: "どうこうしめんたい",
+    tags: [ "levelup-material", "item" ],
+    notes: "半永久統制マトリックスのドロップアイテム",
+  },
+  {
+    en: "Quelled Creeper",
+    ja: "滅諍の蔓",
+    pronunciationJa: "めつじょうのつる",
+    tags: [ "levelup-material", "item" ],
+    notes: "無相の草のドロップアイテム。滅諍とは仏教の戒律の一種で、僧団内での裁判規定のようなもの。参照: [Wikipedia](https://ja.wikipedia.org/wiki/%E6%BB%85%E8%AB%8D)",
+  },
   // Dvalin
   {
     en: "Dvalin's Plume",
@@ -593,6 +643,7 @@
     zhCN: "东风之翎",
     pronunciationJa: "とうふうのはね",
     tags: [ "levelup-material", "item" ],
+    notes: "風魔龍トワリンのドロップアイテム",
   },
   {
     en: "Dvalin's Claw",
@@ -600,6 +651,7 @@
     zhCN: "东风之爪",
     pronunciationJa: "とうふうのつめ",
     tags: [ "levelup-material", "item" ],
+    notes: "風魔龍トワリンのドロップアイテム",
   },
   {
     en: "Dvalin's Sigh",
@@ -607,6 +659,7 @@
     zhCN: "东风的吐息",
     pronunciationJa: "とうふうのといき",
     tags: [ "levelup-material", "item" ],
+    notes: "風魔龍トワリンのドロップアイテム",
   },
   // Andrius
   {
@@ -615,6 +668,7 @@
     zhCN: "北风之尾",
     pronunciationJa: "きたかぜのしっぽ",
     tags: [ "levelup-material", "item" ],
+    notes: "アンドリアスのドロップアイテム",
   },
   {
     en: "Ring of Boreas",
@@ -622,12 +676,14 @@
     zhCN: "北风之环",
     pronunciationJa: "きたかぜのリング",
     tags: [ "levelup-material", "item" ],
+    notes: "アンドリアスのドロップアイテム",
   },
   {
     en: "Spirit Locket of Boreas",
     ja: "北風の魂箱",
     zhCN: "北风的魂匣",
     tags: [ "levelup-material", "item" ],
+    notes: "アンドリアスのドロップアイテム",
   },
   // Childe
   {
@@ -636,6 +692,7 @@
     zhCN: "吞天之鲸·只角",
     pronunciationJa: "どんてんのくじら・しかく",
     tags: [ "levelup-material", "item" ],
+    notes: "公子タルタリヤのドロップアイテム",
   },
   {
     en: "Shard of a Foul Legacy",
@@ -643,6 +700,7 @@
     zhCN: "魔王之刃·残片",
     pronunciationJa: "まおうのやいば・ざんぺん",
     tags: [ "levelup-material", "item" ],
+    notes: "公子タルタリヤのドロップアイテム",
   },
   {
     en: "Shadow of the Warrior",
@@ -650,6 +708,7 @@
     zhCN: "武炼之魂·孤影",
     pronunciationJa: "ぶれんのたましい・こえい",
     tags: [ "levelup-material", "item" ],
+    notes: "公子タルタリヤのドロップアイテム",
   },
   // Azhdaha
   {
@@ -658,6 +717,7 @@
     zhCN: "龙王之冕",
     pronunciationJa: "りゅうおうのかんむり",
     tags: [ "levelup-material", "item" ],
+    notes: "若陀龍王のドロップアイテム",
   },
   {
     en: "Bloodjade Branch",
@@ -665,6 +725,7 @@
     zhCN: "血玉之枝",
     pronunciationJa: "けつぎょくのえだ",
     tags: [ "levelup-material", "item" ],
+    notes: "若陀龍王のドロップアイテム",
   },
   {
     en: "Gilded Scale",
@@ -672,6 +733,7 @@
     zhCN: "鎏金之鳞",
     pronunciationJa: "ときんのうろこ",
     tags: [ "levelup-material", "item" ],
+    notes: "若陀龍王のドロップアイテム",
   },
   // La Signora
   {
@@ -680,6 +742,7 @@
     zhCN: "灰烬之心",
     pronunciationJa: "かいじんのこころ",
     tags: [ "levelup-material", "item" ],
+    notes: "淑女のドロップアイテム",
   },
   {
     en: "Hellfire Butterfly",
@@ -687,6 +750,7 @@
     zhCN: "狱火之蝶",
     pronunciationJa: "ごくえんのちょう",
     tags: [ "levelup-material", "item" ],
+    notes: "淑女のドロップアイテム",
   },
   {
     en: "Molten Moment",
@@ -694,6 +758,7 @@
     zhCN: "熔毁之刻",
     pronunciationJa: "ようめつのとき",
     tags: [ "levelup-material", "item" ],
+    notes: "淑女のドロップアイテム",
   },
   // Magatsu Mitake Narukami no Mikoto
   {
@@ -701,18 +766,21 @@
     ja: "凶将の手眼",
     zhCN: "凶将之手眼",
     tags: [ "levelup-material", "item" ],
+    notes: "禍津御建鳴神命のドロップアイテム",
   },
   {
     en: "Tears of the Calamitous God",
     ja: "禍神の禊涙",
     zhCN: "祸神之禊泪",
     tags: [ "levelup-material", "item" ],
+    notes: "禍津御建鳴神命のドロップアイテム",
   },
   {
     en: "The Meaning of Aeons",
     ja: "万劫の真意",
     zhCN: "万劫之真意",
     tags: [ "levelup-material", "item" ],
+    notes: "禍津御建鳴神命のドロップアイテム",
   },
 
   {

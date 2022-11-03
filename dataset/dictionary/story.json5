@@ -396,6 +396,11 @@
     tags: [ "sumeru" ],
   },
   {
+    en: "Neo Akasha Terminal",
+    ja: "新型アーカーシャ端末",
+    tags: [ "object", "sumeru" ],
+  },
+  {
     en: "Mahamata",
     ja: "教令官",
     zhCN: "教令官",

@@ -723,6 +723,16 @@
     ja: "ミルキーキノコクリスプタワー",
     tags: [ "food" ],
   },
+  {
+    en: "Charcoal-Baked Ajilenakh Cake",
+    ja: "デーツナン",
+    tags: [ "food" ],
+  },
+  {
+    en: "Tahchin",
+    ja: "タフチーン",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
