@@ -2428,7 +2428,7 @@
     ja: "スカラマシュ",
     zhCN: "斯卡拉姆齐",
     notes: "中国のプレイヤーの間では「スカラマシュ」(斯卡拉姆齐) よりも「散兵」の名で呼ばれることが多い。",
-    tags: [ "snezhnaya", "inazuma", "character-sub" ],
+    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main" ],
   },
   {
     en: "Balladeer",
@@ -2436,14 +2436,14 @@
     zhCN: "散兵",
     pronunciationJa: "ざんひょう",
     notes: "中国のプレイヤーの間では「スカラマシュ」(丑角) よりも「散兵」の名で呼ばれることが多い。",
-    tags: [ "snezhnaya", "inazuma", "character-sub", "title" ],
+    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
   },
   {
     en: "Kunikuzushi",
     ja: "国崩",
     zhCN: "国崩",
     pronunciationJa: "くにくずし",
-    tags: [ "snezhnaya", "inazuma", "title" ],
+    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
   },
   {
     en: "Pantalone",
