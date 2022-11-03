@@ -400,6 +400,7 @@
     zhCN: "圣树", // TODO: Need check
     pronunciationJa: "せいじゅ",
     tags: [ "object", "sumeru" ],
+    notes: "スメール教令院を支える大樹のこと",
   },
   {
     en: "Tri-Lakshana Creature",
