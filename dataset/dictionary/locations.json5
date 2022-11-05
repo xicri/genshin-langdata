@@ -1310,6 +1310,7 @@
   {
     en: "Khaj-Nisut",
     ja: "聖顕殿",
+    zhCN: "圣显厅",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、砂の目から変化する。",
   },
@@ -1324,6 +1325,7 @@
   {
     en: "Abdju Pit",
     ja: "捨身の坑",
+    zhCN: "舍身陷坑",
     pronunciationJa: "しゃしんのみち",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、捨身の道から変化する。",
@@ -1366,6 +1368,7 @@
   {
     en: "Khemenu Temple",
     ja: "秘儀聖殿",
+    zhCN: "秘仪圣殿",
     pronunciationJa: "ひぎせいでん",
     tags: [ "sumeru", "location" ],
   },
@@ -1407,11 +1410,13 @@
   {
     en: "Great Hall of Truths",
     ja: "秤罪主殿",
+    zhCN: "衡准大厅",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Duat Hall",
     ja: "冥途殿",
+    zhCN: "渡厄厅",
     tags: [ "sumeru", "location" ],
     notes: "Duat はエジプト神話における死後の世界を指す。参照: [Wikipedia](https://en.wikipedia.org/wiki/Duat)",
   },

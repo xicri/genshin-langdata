@@ -174,12 +174,14 @@
   {
     en: "Fabulous Fungus Frenzy",
     ja: "ワンダフルキノコンピック",
+    zhCN: "智巧灵蕈大竞逐",
     notes: "v3.2 期間限定イベント",
     tags: [ "event" ],
   },
   {
     en: "Adventurer's Trials",
     ja: "冒険者試練",
+    zhCN: "冒险家试炼",
     pronunciationJa: "ぼうけんしゃしれん",
     notes: "v3.2 期間限定イベント",
     tags: [ "event" ],
@@ -187,6 +189,7 @@
   {
     en: "Hypostatic Symphony: Dissonant Verse",
     ja: "無相の交響詩・トニックピリオド",
+    zhCN: "无相交响诗・离调乐段",
     pronunciationJa: "むそうのこうきょうし・トニックピリオド",
     notes: "v3.2 期間限定イベント",
     tags: [ "event" ],
@@ -194,6 +197,7 @@
   {
     en: "Outside the Canvas, Inside the Lens: Greenery Chapter",
     ja: "旅の写真に閃きを・緑葉編",
+    zhCN: "画外旅照・青植之篇",
     pronunciationJa: "たびのしゃしんにひらめきを・りょくようへん",
     notes: "v3.2 期間限定イベント",
     tags: [ "event" ],
@@ -264,6 +268,7 @@
   {
     en: "Epsilon-Series Tetrasweet Sunsettia, Variation 63",
     ja: "五式夕暮れの実改六三号甘さ四倍版",
+    zhCN: "伍式日落果改陆叁号四倍甜版",
     pronunciationJa: "ごしきゆうぐれのみかいろくさんごうあまさよんばいばん",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」でスクロースとノエルからもらえるサウザンドウィンドブリューの材料",
     tags: [ "event" ],
@@ -271,6 +276,7 @@
   {
     en: "Thousand-Wind Wine",
     ja: "サウザンドウィンドブリュー",
+    zhCN: "千风佳酿",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」で作るお酒",
     tags: [ "event" ],
   },

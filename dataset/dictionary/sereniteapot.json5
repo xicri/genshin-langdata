@@ -90,6 +90,7 @@
   {
     en: "Replication",
     ja: "模本",
+    zhCN: "模本",
     pronunciationJa: "もほん",
     tags: [ "sereniteapot" ],
     notes: "他のプレイヤーの塵歌壺をコピーする機能",
@@ -230,6 +231,7 @@
   {
     en: "Mountain Date Wood",
     ja: "ヤシ材",
+    zhCN: "刺葵木",
     tags: [ "sereniteapot", "sumeru" ],
   },
 

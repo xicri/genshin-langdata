@@ -164,17 +164,20 @@
   {
     en: "Dreams, Emptiness, Deception",
     ja: "迷夢と虚幻と欺瞞",
+    zhCN: "迷梦与空幻与欺骗",
     pronunciationJa: "めいむときょげんとぎまん",
     tags: [ "sumeru", "quest-archon" ],
   },
   {
     en: "King Deshret and the Three Magi",
     ja: "赤砂の王と三人の巡礼者",
+    zhCN: "赤土之王与三朝圣者",
     tags: [ "sumeru", "quest-archon" ],
   },
   {
     en: "Akasha Pulses, the Kalpa Flame Rises",
     ja: "虚空の鼓動、熾盛の劫火",
+    zhCN: "虚空鼓动，劫火高扬",
     tags: [ "sumeru", "quest-archon" ],
   },
 
@@ -1144,6 +1147,7 @@
   {
     en: "Until Vana is Healed",
     ja: "「ヴァーナ」が完治するまで",
+    zhCN: "直到「桓那」痊愈",
     pronunciationJa: "ヴァーナがかんちするまで",
     tags: [ "sumeru", "quest-world" ],
     notes: "森林書から連なる世界任務の1つ",
@@ -1153,12 +1157,14 @@
   {
     en: "Golden Slumber",
     ja: "黄金の眠り",
+    zhCN: "黄金梦乡",
     pronunciationJa: "おうごんのねむり",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Old Notes and New Friends",
     ja: "古き物語と新しき友人",
+    zhCN: "旧语新知",
     pronunciationJa: "ふるきものがたりとあたらしきゆうじん",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -1443,6 +1449,7 @@
   {
     en: "Lupus Aureus Chapter",
     ja: "金狼の章",
+    zhCN: "金狼之章",
     pronunciationJa: "きんろうのしょう",
     notes: "セノの伝説任務",
     tags: [ "sumeru", "quest-story" ],
@@ -1450,6 +1457,7 @@
   {
     en: "Lotos Somno Chapter",
     ja: "睡蓮の章",
+    zhCN: "睡莲之章",
     pronunciationJa: "すいれんのしょう",
     notes: "ニィロウの伝説任務",
     tags: [ "sumeru", "quest-story" ],
@@ -1457,6 +1465,7 @@
   {
     en: "Sapientia Oromasdis Chapter",
     ja: "知恵の主の章",
+    zhCN: "智慧主之章",
     pronunciationJa: "ちえのあるじのしょう",
     notes: "ナヒーダの伝説任務",
     tags: [ "sumeru", "quest-story" ],
@@ -2001,30 +2010,35 @@
   {
     en: "Hammer of the Mushrooms",
     ja: "キノコ叩き・ハンマーはなし!",
+    zhCN: "无槌敲菇法",
     pronunciationJa: "キノコたたき・ハンマーはなし",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "The Measure of a Mushroom",
     ja: "キノコの高さ測定",
+    zhCN: "菇测高度",
     pronunciationJa: "キノコのたかさそくてい",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "King of Invokations",
     ja: "『召喚王』",
+    zhCN: "《召唤王》",
     pronunciationJa: "しょうかんおう",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "The Great Tree: Rooted State",
     ja: "大樹・根を張る",
+    zhCN: "大树·扎根态",
     pronunciationJa: "たいじゅ・ねをはる",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "Garcia's Paean: Substitutes",
     ja: "ガルシアの賛歌・代替品",
+    zhCN: "加尔恰的赞歌·替代物",
     pronunciationJa: "ガルシアのさんか・だいたいひん",
     tags: [ "quest-daily", "sumeru" ],
   },

@@ -383,11 +383,13 @@
   {
     en: "Aaru Mixed Rice",
     ja: "アアルコシャリ",
+    zhCN: "阿如拌饭",
     tags: [ "food" ],
   },
   {
     en: "Masala Cheese Balls",
     ja: "マサラチーズボール",
+    zhCN: "马萨拉芝士球",
     tags: [ "food" ],
   },
 
@@ -503,6 +505,7 @@
   {
     en: "Sunset Berry Tea",
     ja: "夕暮れベリーティー",
+    zhCN: "日落莓莓茶",
     pronunciationJa: "ゆうぐれベリーティー",
     tags: [ "food" ],
   },
@@ -721,16 +724,19 @@
   {
     en: "Milky Mushroom Crisp Tower",
     ja: "ミルキーキノコクリスプタワー",
+    zhCN: "奶香菌菇脆塔",
     tags: [ "food" ],
   },
   {
     en: "Charcoal-Baked Ajilenakh Cake",
     ja: "デーツナン",
+    zhCN: "椰炭饼",
     tags: [ "food" ],
   },
   {
     en: "Tahchin",
     ja: "タフチーン",
+    zhCN: "米圆塔",
     tags: [ "food" ],
   },
 
@@ -807,6 +813,7 @@
   {
     en: "Meat Lovers' Mushroom Pizza",
     ja: "焼きキノコミートピザ",
+    zhCN: "肉肉烤蘑菇披萨",
     pronunciationJa: "やきキノコミートピザ",
     tags: [ "food" ],
   },

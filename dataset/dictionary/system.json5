@@ -604,6 +604,7 @@
   {
     en: "Genius Invokation TCG",
     ja: "七聖召喚",
+    zhCN: "七圣召唤",
     pronunciationJa: "しちせいしょうかん",
     notes: "英語では「召喚」は Invo\"c\"ation とつづるが、ここでは Invo\"k\"ation となっていることに注意。このつづりはマルタ語などに見られる。TCG は Trading Card Game の略。",
   },

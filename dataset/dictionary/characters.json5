@@ -1925,6 +1925,7 @@
   {
     en: "Flame-Mane",
     ja: "熾鬣の獅子",
+    zhCN: "炽鬃之狮",
     pronunciationJa: "しりょうのしし",
     tags: [ "sumeru", "title" ],
     notes: "直訳は「炎の鬣 (たてがみ)」",
@@ -1951,11 +1952,13 @@
   {
     en: "Layla",
     ja: "レイラ",
+    zhCN: "莱依拉",
     tags: [ "sumeru", "character-main" ],
   },
   {
     en: "Faruzan",
     ja: "ファルザン",
+    zhCN: "珐露珊",
     tags: [ "sumeru", "character-main" ],
   },
   {
@@ -1992,6 +1995,7 @@
   {
     en: "Buer",
     ja: "ブエル",
+    zhCN: "布耶尔",
     tags: [ "sumeru", "title" ],
   },
 
@@ -2065,26 +2069,31 @@
   {
     en: "Setaria",
     ja: "セタレ",
+    zhCN: "塞塔蕾",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Rahman",
     ja: "ラフマン",
+    zhCN: "拉赫曼",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Karkata",
     ja: "カカタ",
+    zhCN: "卡卡塔",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Mechanical Crab",
     ja: "機械ガニ",
+    zhCN: "机械螃蟹",
     tags: [ "sumeru", "title" ],
   },
   {
     en: "Abattouy",
     ja: "アバッドイ",
+    zhCN: "阿巴图伊",
     tags: [ "sumeru", "character-sub" ],
   },
   {
@@ -2109,42 +2118,49 @@
   {
     en: "Harut",
     ja: "ハールート",
+    zhCN: "哈鲁特",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
   },
   {
     en: "Marut",
     ja: "マールート",
+    zhCN: "玛鲁特",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
   },
   {
     en: "Effendi",
     ja: "エフェンディ",
+    zhCN: "阿芬迪",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメール評判任務の受付キャラクター",
   },
   {
     en: "Jeht",
     ja: "ジェイド",
+    zhCN: "婕德",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
   },
   {
     en: "Jebrael",
     ja: "ジェブライラ",
+    zhCN: "哲伯莱勒",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
   },
   {
     en: "Tirzad",
     ja: "ティルザード",
+    zhCN: "提尔扎德",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
   },
   {
     en: "Benben",
     ja: "ブンブン",
+    zhCN: "奔奔",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
   },

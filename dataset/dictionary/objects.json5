@@ -397,7 +397,7 @@
   {
     en: "Divine Tree",
     ja: "聖樹",
-    zhCN: "圣树", // TODO: Need check
+    zhCN: "圣树",
     pronunciationJa: "せいじゅ",
     tags: [ "object", "sumeru" ],
     notes: "スメール教令院を支える大樹のこと",
@@ -507,6 +507,7 @@
   {
     en: "Wall of Samiel",
     ja: "防砂壁",
+    zhCN: "防沙壁",
     tags: [ "object", "sumeru" ],
     notes: "samiel とは アフリカのサハラ砂漠、イスラエル、パレスチナ、ヨルダン、イラク、シリアなどで見られる砂嵐を指す (参照: [Wikipedia](https://en.wikipedia.org/wiki/Simoom))",
   },
@@ -520,12 +521,14 @@
   {
     en: "Suda's Flow",
     ja: "須陀流心",
+    zhCN: "须陀流心",
     tags: [ "object", "sumeru" ],
     notes: "攻撃で破ることができる、ツル草の障害物",
   },
   {
     en: "Ruin Golem",
     ja: "遺跡巨像",
+    zhCN: "遗迹巨像",
     pronunciationJa: "いせききょぞう",
     tags: [ "object", "sumeru" ],
     notes: "ダーリの谷で砲撃をしてくる巨像",
@@ -547,6 +550,7 @@
   {
     en: "clearance",
     ja: "権能",
+    zhCN: "权能",
     pronunciationJa: "けんのう",
     tags: [ "sumeru" ],
     examples: [
@@ -622,12 +626,14 @@
   {
     en: "Obscuring Cell",
     ja: "秘匿ユニット",
+    zhCN: "隐视元件",
     pronunciationJa: "ひとくユニット",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Prism of Khaj-Nisut",
     ja: "聖顕角柱",
+    zhCN: "圣显棱柱",
     tags: [ "object", "sumeru" ],
   },
 ]

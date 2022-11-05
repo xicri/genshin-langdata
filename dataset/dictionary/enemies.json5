@@ -1027,6 +1027,7 @@
   {
     en: "Dendro Hypostasis",
     ja: "無相の草",
+    zhCN: "无相之草",
     pronunciationJa: "むそうのくさ",
     tags: [ "enemy-boss", "sumeru" ],
     variants: {
@@ -1036,6 +1037,7 @@
   {
     en: "Zayin",
     ja: "ザイン",
+    zhCN: "扎因",
     tags: [ "enemy-boss", "sumeru" ],
     notes: "無相の草のコードネーム",
   },
@@ -1410,6 +1412,7 @@
   {
     en: "Whirling Pyro Fungus",
     ja: "グルグル炎キノコン",
+    zhCN: "旋转火蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Pyro Fungi と思われる",
   },
@@ -1422,6 +1425,7 @@
   {
     en: "Grounded Geoshroom",
     ja: "トコトコ岩マッシュロン",
+    zhCN: "陆行岩本真蕈",
     tags: [ "enemy", "sumeru" ],
   },
   {
