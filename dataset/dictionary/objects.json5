@@ -626,6 +626,7 @@
   {
     en: "Obscuring Cell",
     ja: "秘匿ユニット",
+    zhCN: "隐视元件",
     pronunciationJa: "ひとくユニット",
     tags: [ "object", "sumeru" ],
   },
