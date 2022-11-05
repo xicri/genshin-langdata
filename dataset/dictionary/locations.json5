@@ -1366,6 +1366,7 @@
   {
     en: "Khemenu Temple",
     ja: "秘儀聖殿",
+    zhCN: "秘仪圣殿",
     pronunciationJa: "ひぎせいでん",
     tags: [ "sumeru", "location" ],
   },
