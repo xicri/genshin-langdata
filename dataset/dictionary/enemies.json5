@@ -1410,6 +1410,7 @@
   {
     en: "Whirling Pyro Fungus",
     ja: "グルグル炎キノコン",
+    zhCN: "旋转火蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Pyro Fungi と思われる",
   },
@@ -1422,6 +1423,7 @@
   {
     en: "Grounded Geoshroom",
     ja: "トコトコ岩マッシュロン",
+    zhCN: "陆行岩本真蕈",
     tags: [ "enemy", "sumeru" ],
   },
   {
