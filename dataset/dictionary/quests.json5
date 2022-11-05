@@ -164,17 +164,20 @@
   {
     en: "Dreams, Emptiness, Deception",
     ja: "迷夢と虚幻と欺瞞",
+    zhCN: "迷梦与空幻与欺骗",
     pronunciationJa: "めいむときょげんとぎまん",
     tags: [ "sumeru", "quest-archon" ],
   },
   {
     en: "King Deshret and the Three Magi",
     ja: "赤砂の王と三人の巡礼者",
+    zhCN: "赤土之王与三朝圣者",
     tags: [ "sumeru", "quest-archon" ],
   },
   {
     en: "Akasha Pulses, the Kalpa Flame Rises",
     ja: "虚空の鼓動、熾盛の劫火",
+    zhCN: "虚空鼓动，劫火高扬",
     tags: [ "sumeru", "quest-archon" ],
   },
 
@@ -1443,6 +1446,7 @@
   {
     en: "Lupus Aureus Chapter",
     ja: "金狼の章",
+    zhCN: "金狼之章",
     pronunciationJa: "きんろうのしょう",
     notes: "セノの伝説任務",
     tags: [ "sumeru", "quest-story" ],
@@ -1450,6 +1454,7 @@
   {
     en: "Lotos Somno Chapter",
     ja: "睡蓮の章",
+    zhCN: "睡莲之章",
     pronunciationJa: "すいれんのしょう",
     notes: "ニィロウの伝説任務",
     tags: [ "sumeru", "quest-story" ],
@@ -1457,6 +1462,7 @@
   {
     en: "Sapientia Oromasdis Chapter",
     ja: "知恵の主の章",
+    zhCN: "智慧主之章",
     pronunciationJa: "ちえのあるじのしょう",
     notes: "ナヒーダの伝説任務",
     tags: [ "sumeru", "quest-story" ],
