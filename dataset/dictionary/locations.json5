@@ -1310,6 +1310,7 @@
   {
     en: "Khaj-Nisut",
     ja: "聖顕殿",
+    zhCN: "圣显厅",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、砂の目から変化する。",
   },
