@@ -397,7 +397,7 @@
   {
     en: "Divine Tree",
     ja: "聖樹",
-    zhCN: "圣树", // TODO: Need check
+    zhCN: "圣树",
     pronunciationJa: "せいじゅ",
     tags: [ "object", "sumeru" ],
     notes: "スメール教令院を支える大樹のこと",
