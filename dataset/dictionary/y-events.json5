@@ -264,6 +264,7 @@
   {
     en: "Epsilon-Series Tetrasweet Sunsettia, Variation 63",
     ja: "五式夕暮れの実改六三号甘さ四倍版",
+    zhCN: "伍式日落果改陆叁号四倍甜版",
     pronunciationJa: "ごしきゆうぐれのみかいろくさんごうあまさよんばいばん",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」でスクロースとノエルからもらえるサウザンドウィンドブリューの材料",
     tags: [ "event" ],
@@ -271,6 +272,7 @@
   {
     en: "Thousand-Wind Wine",
     ja: "サウザンドウィンドブリュー",
+    zhCN: "千风佳酿",
     notes: "v3.1 期間限定イベント「杯の中のバラッド」で作るお酒",
     tags: [ "event" ],
   },
