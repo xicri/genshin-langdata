@@ -1200,6 +1200,7 @@
   {
     en: "A Thousand Floating Dreams",
     ja: "千夜に浮かぶ夢",
+    zhCN: "千夜浮梦",
     pronunciationJa: "せんやにうかぶゆめ",
     tags: [ "weapon", "catalyst" ],
   },
