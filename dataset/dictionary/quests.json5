@@ -1147,6 +1147,7 @@
   {
     en: "Until Vana is Healed",
     ja: "「ヴァーナ」が完治するまで",
+    zhCN: "直到「桓那」痊愈",
     pronunciationJa: "ヴァーナがかんちするまで",
     tags: [ "sumeru", "quest-world" ],
     notes: "森林書から連なる世界任務の1つ",
@@ -1156,12 +1157,14 @@
   {
     en: "Golden Slumber",
     ja: "黄金の眠り",
+    zhCN: "黄金梦乡",
     pronunciationJa: "おうごんのねむり",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Old Notes and New Friends",
     ja: "古き物語と新しき友人",
+    zhCN: "旧语新知",
     pronunciationJa: "ふるきものがたりとあたらしきゆうじん",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -2007,30 +2010,35 @@
   {
     en: "Hammer of the Mushrooms",
     ja: "キノコ叩き・ハンマーはなし!",
+    zhCN: "无槌敲菇法",
     pronunciationJa: "キノコたたき・ハンマーはなし",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "The Measure of a Mushroom",
     ja: "キノコの高さ測定",
+    zhCN: "菇测高度",
     pronunciationJa: "キノコのたかさそくてい",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "King of Invokations",
     ja: "『召喚王』",
+    zhCN: "《召唤王》",
     pronunciationJa: "しょうかんおう",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "The Great Tree: Rooted State",
     ja: "大樹・根を張る",
+    zhCN: "大树·扎根态",
     pronunciationJa: "たいじゅ・ねをはる",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "Garcia's Paean: Substitutes",
     ja: "ガルシアの賛歌・代替品",
+    zhCN: "加尔恰的赞歌·替代物",
     pronunciationJa: "ガルシアのさんか・だいたいひん",
     tags: [ "quest-daily", "sumeru" ],
   },
