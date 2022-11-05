@@ -155,6 +155,7 @@
   {
     en: "Dendroculus Resonance Stone",
     ja: "草神の瞳の共鳴石",
+    zhCN: "草神瞳共鸣石",
     pronunciationJa: "そうしんのひとみのきょうめいせき",
     tags: [ "item", "sumeru" ],
   },
@@ -260,6 +261,7 @@
   {
     en: "Dendro Treasure Compass",
     ja: "草のトレジャーコンパス",
+    zhCN: "草之寻宝罗盘",
     pronunciationJa: "くさのトレジャーコンパス",
     tags: [ "item", "sumeru" ],
   },
