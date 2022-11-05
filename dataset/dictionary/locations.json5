@@ -1410,11 +1410,13 @@
   {
     en: "Great Hall of Truths",
     ja: "秤罪主殿",
+    zhCN: "衡准大厅",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Duat Hall",
     ja: "冥途殿",
+    zhCN: "渡厄厅",
     tags: [ "sumeru", "location" ],
     notes: "Duat はエジプト神話における死後の世界を指す。参照: [Wikipedia](https://en.wikipedia.org/wiki/Duat)",
   },
