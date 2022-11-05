@@ -583,6 +583,7 @@
   {
     en: "Riftborn Regalia",
     ja: "獣域王器",
+    zhCN: "兽境王器",
     pronunciationJa: "じゅういきおうき",
     tags: [ "levelup-material", "item" ],
     notes: "黄金王獣のドロップアイテム",
@@ -618,6 +619,7 @@
   {
     en: "Perpetual Caliber",
     ja: "永続コア",
+    zhCN: "永续机芯",
     pronunciationJa: "えいぞくコア",
     tags: [ "levelup-material", "item" ],
     notes: "兆載永劫ドレイクのドロップアイテム",
@@ -625,6 +627,7 @@
   {
     en: "Light Guiding Tetrahedron",
     ja: "導光四面体",
+    zhCN: "导光四面体",
     pronunciationJa: "どうこうしめんたい",
     tags: [ "levelup-material", "item" ],
     notes: "半永久統制マトリックスのドロップアイテム",
@@ -632,6 +635,7 @@
   {
     en: "Quelled Creeper",
     ja: "滅諍の蔓",
+    zhCN: "灭诤草蔓",
     pronunciationJa: "めつじょうのつる",
     tags: [ "levelup-material", "item" ],
     notes: "無相の草のドロップアイテム。滅諍とは仏教の戒律の一種で、僧団内での裁判規定のようなもの。参照: [Wikipedia](https://ja.wikipedia.org/wiki/%E6%BB%85%E8%AB%8D)",
