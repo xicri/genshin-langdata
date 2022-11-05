@@ -1027,6 +1027,7 @@
   {
     en: "Dendro Hypostasis",
     ja: "無相の草",
+    zhCN: "无相之草",
     pronunciationJa: "むそうのくさ",
     tags: [ "enemy-boss", "sumeru" ],
     variants: {
@@ -1036,6 +1037,7 @@
   {
     en: "Zayin",
     ja: "ザイン",
+    zhCN: "扎因",
     tags: [ "enemy-boss", "sumeru" ],
     notes: "無相の草のコードネーム",
   },
