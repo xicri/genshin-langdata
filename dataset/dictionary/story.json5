@@ -434,6 +434,13 @@
     tags: [ "sumeru" ],
   },
   {
+    en: "samsara cycle",
+    ja: "輪廻",
+    pronunciationJa: "りんね",
+    notes: "現実の仏教・ジャイナ教における「輪廻」も \"Saṃsāra\" と呼ばれる",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "Jnagarbha Day",
     ja: "ジュニャーナガルバの日",
     zhCN: "识藏日",
@@ -452,6 +459,11 @@
     ja: "神の缶詰知識",
     zhCN: "神明罐装知识",
     pronunciationJa: "かみのかんづめちしき",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Grand Conservator",
+    ja: "グランドキュレーター",
     tags: [ "sumeru" ],
   },
   {

@@ -155,6 +155,11 @@
     tags: [ "mondstadt", "character-main" ],
   },
   {
+    en: "Lupical",
+    ja: "ルピカ",
+    tags: [ "mondstadt" ],
+  },
+  {
     en: "Bennett",
     ja: "ベネット",
     zhCN: "班尼特",
@@ -1961,6 +1966,23 @@
     zhCN: "珐露珊",
     tags: [ "sumeru", "character-main" ],
   },
+  {
+    en: "Kaveh",
+    ja: "カーヴェ",
+    tags: [ "sumeru", "character-main" ],
+  },
+  // ▼▼ perhaps they will be a playable character? ▼▼
+  {
+    en: "Vikram",
+    ja: "ヴィクラム",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Rifaet",
+    ja: "リファエット",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  // ▲▲ perhaps they will be a playable character? ▲▲
   {
     en: "Nahida",
     ja: "ナヒーダ",

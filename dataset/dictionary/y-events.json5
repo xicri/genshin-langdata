@@ -179,6 +179,26 @@
     tags: [ "event" ],
   },
   {
+    en: "Nilotpala Cup Beast Tamers Tournament",
+    ja: "サウマラタ蓮杯",
+    pronunciationJa: "サウマラタはすはい",
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」で開催される大会の名前",
+    tags: [ "event" ],
+  },
+  {
+    en: "Wisdom Orb",
+    ja: "叡智宝珠",
+    pronunciationJa: "えいちほうじゅ",
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」でキノコンを捕まえるために使うアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Kautilya",
+    ja: "カウトリヤ",
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会主催者の1人",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "Adventurer's Trials",
     ja: "冒険者試練",
     zhCN: "冒险家试炼",

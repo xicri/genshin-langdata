@@ -195,6 +195,16 @@
     tags: [ "sumeru", "facility" ],
   },
   {
+    en: "Lambad's Tavern",
+    ja: "ランバド酒場",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
+    en: "Menakeri's Treasure Shop",
+    ja: "メナケリーショップ",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
     en: "Bimarstan",
     ja: "ビマリスタン",
     zhCN: "健康之家",
