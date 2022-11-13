@@ -1119,6 +1119,24 @@
   },
 
   // Sumeru
+  {
+    en: "A Short Encounter with a Rare Bird",
+    ja: "珍しき鳥との短い出会い",
+    pronunciationJa: "めずらしきとりとのみじかいであい",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "For a Dream I Tarry",
+    ja: "夢の気配がまだある内に",
+    pronunciationJa: "ゆめのけはいがまだあるうちに",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Event Beasts Stumble",
+    ja: "獣も足を踏み外す",
+    pronunciationJa: "けものもあしをふみはずす",
+    tags: [ "sumeru", "quest-world" ],
+  },
 
   // Aranyaka and related
   {
@@ -1218,7 +1236,7 @@
     en: "Click!",
     ja: "カシャッ!",
     zhCN: "咔嚓！",
-    tags: [ "inazuma", "quest-random" ],
+    tags: [ "inazuma", "sumeru", "quest-random" ],
   },
 
   //
@@ -2040,6 +2058,11 @@
     ja: "ガルシアの賛歌・代替品",
     zhCN: "加尔恰的赞歌·替代物",
     pronunciationJa: "ガルシアのさんか・だいたいひん",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Concresoil",
+    ja: "セメン土",
     tags: [ "quest-daily", "sumeru" ],
   },
 
