@@ -788,6 +788,25 @@
     tags: [ "levelup-material", "item" ],
     notes: "禍津御建鳴神命のドロップアイテム",
   },
+  // Shouki no Kami
+  {
+    en: "Puppet Strings",
+    ja: "傀儡の糸",
+    tags: [ "levelup-material", "item" ],
+    notes: "正機の神 (スカラマシュ) のドロップアイテム",
+  },
+  {
+    en: "Mirror of Mushin",
+    ja: "無心の淵鏡",
+    tags: [ "levelup-material", "item" ],
+    notes: "正機の神 (スカラマシュ) のドロップアイテム",
+  },
+  {
+    en: "Daka's Bell",
+    ja: "空行の虚鈴",
+    tags: [ "levelup-material", "item" ],
+    notes: "正機の神 (スカラマシュ) のドロップアイテム",
+  },
 
   {
     en: "Agnidus Agate Gemstone",
@@ -2474,6 +2493,30 @@
     ja: "中央大陸片手剣の原型",
     zhCN: "央陆单手剑原胚",
     pronunciationJa: "ちゅうおうたいりくかたてけんのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Midlander Bow Billet",
+    ja: "中央大陸弓の原型",
+    pronunciationJa: "ちゅうおうたいりくゆみのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Midlander Claymore Billet",
+    ja: "中央大陸両手剣の原型",
+    pronunciationJa: "ちゅうおうたいりくりょうてけんのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Midlander Polearm Billet",
+    ja: "中央大陸長柄武器の原型",
+    pronunciationJa: "ちゅうおうたいりくながえぶきのげんけい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Midlander Catalyst Billet",
+    ja: "中央大陸法器の原型",
+    pronunciationJa: "ちゅうおうたいりくほうきのげんけい",
     tags: [ "item" ],
   },
 

@@ -32,6 +32,12 @@
     tags: [ "dialogue" ],
   },
   {
+    en: "Dodge this!",
+    ja: "こいつはどうだ?",
+    notes: "ガイアの元素スキル発動時のセリフ",
+    tags: [ "dialogue" ],
+  },
+  {
     en: "Cool it!",
     ja: "おとなしくしやがれ!",
     zhCN: "冻结吧！",
@@ -117,6 +123,13 @@
     zhCN: "审判——喝啊！",
     pronunciationJa: "はんけつをくだす",
     notes: "ディルックの元素爆発発動時のセリフ。verdict は、裁判での陪審員の評決の意。",
+    tags: [ "dialogue" ],
+  },
+  {
+    en: "Time for ― retribution!",
+    ja: "裁きを、受けよ!",
+    pronunciationJa: "さばきをうけよ",
+    notes: "ディルックの元素爆発発動時のセリフ",
     tags: [ "dialogue" ],
   },
   {

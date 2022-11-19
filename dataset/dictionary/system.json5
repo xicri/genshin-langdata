@@ -252,6 +252,11 @@
     notes: "burgeon の原義は「新芽」「発芽する」",
   },
   {
+    en: "Hyperbloom",
+    ja: "超開花",
+    tags: [ "element" ],
+  },
+  {
     en: "Sprawling Shot",
     ja: "ヴァインショット",
     zhCN: "蔓生弹",

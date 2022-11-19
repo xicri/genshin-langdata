@@ -2040,6 +2040,11 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "Operation Halberd Breaker",
+    ja: "折剣一掃",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "King of Invokations",
     ja: "『召喚王』",
     zhCN: "《召唤王》",
@@ -2063,6 +2068,11 @@
   {
     en: "Concresoil",
     ja: "セメン土",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Price Comparison",
+    ja: "価格比較",
     tags: [ "quest-daily", "sumeru" ],
   },
 

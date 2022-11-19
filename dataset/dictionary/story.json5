@@ -116,6 +116,12 @@
     pronunciationJa: "ちえ",
     tags: [ "sumeru" ],
   },
+  {
+    en: "justice",
+    ja: "正義",
+    pronunciationJa: "せいぎ",
+    tags: [ "sumeru" ],
+  },
 
   //
   // Mondstadt
@@ -581,5 +587,9 @@
     en: "the Calamity of Darkness",
     ja: "漆黒の災い",
     zhCN: "漆黑的灾难",
+  },
+  {
+    en: "Descenders",
+    ja: "降臨者",
   },
 ]

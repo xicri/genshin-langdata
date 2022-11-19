@@ -392,6 +392,16 @@
     zhCN: "马萨拉芝士球",
     tags: [ "food" ],
   },
+  {
+    en: "Panipuri",
+    ja: "パニプリ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Curry Shrimp",
+    ja: "カレーシュリムプ",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -737,6 +747,11 @@
     en: "Tahchin",
     ja: "タフチーン",
     zhCN: "米圆塔",
+    tags: [ "food" ],
+  },
+  {
+    en: "Potato Boat",
+    ja: "ポテトボート",
     tags: [ "food" ],
   },
 
