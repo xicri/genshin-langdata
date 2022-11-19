@@ -1993,15 +1993,6 @@
     tags: [ "sumeru", "title" ],
   },
   {
-    en: "Greater Load Rukkhadevata",
-    ja: "マハールッカデヴァータ",
-    zhCN: "大慈树王",
-    tags: [ "sumeru", "character-sub" ],
-    variants: {
-      ja: [ "マハールッカデヴァタ" ],
-    },
-  },
-  {
     en: "Dendro Archon",
     ja: "草神",
     zhCN: "草神",
@@ -2027,6 +2018,15 @@
     zhCN: "花神",
     pronunciationJa: "かしん",
     tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Greater Load Rukkhadevata",
+    ja: "マハールッカデヴァータ",
+    zhCN: "大慈树王",
+    tags: [ "sumeru", "character-sub" ],
+    variants: {
+      ja: [ "マハールッカデヴァタ" ],
+    },
   },
   {
     en: "Azar",
