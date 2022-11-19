@@ -1987,6 +1987,12 @@
     tags: [ "sumeru", "character-main" ],
   },
   {
+    en: "Shrine of Maya",
+    ja: "摩耶の宮殿",
+    tags: [ "sumeru" ],
+    notes: "ナヒーダの元素爆発で展開される領域",
+  },
+  {
     en: "Lesser Load Kusanali",
     ja: "クラクサナリデビ",
     zhCN: "小吉祥草王",
@@ -2123,6 +2129,18 @@
     zhCN: "阿巴图伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "ティナリの伝説任務に登場するキャラクター",
+  },
+  {
+    en: "Inayah",
+    ja: "イナヤ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ニィロウの伝説任務に登場するキャラクター",
+  },
+  {
+    en: "Sheikh Zubayr",
+    ja: "シェイクズバイル",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ニィロウが所属するズバイルシアターのマネージャー",
   },
   {
     en: "Alrani",
@@ -2352,7 +2370,7 @@
   },
 
   //
-  // Fontaine
+  // Fontaine ― Playable Characters
   //
   {
     en: "Lyney",
@@ -2366,6 +2384,26 @@
     zhCN: "琳妮特",
     tags: [ "character-main" ],
   },
+  {
+    en: "Chief Justice",
+    ja: "最高審判官",
+    tags: [ "title" ],
+  },
+  {
+    en: "Focalors",
+    ja: "フォカロルス",
+    tags: [ "title" ],
+  },
+  {
+    en: "Hydro Archon",
+    ja: "水神",
+    // TODO pronunciationJa: "すいじん? すいしん?",
+    tags: [ "title" ],
+  },
+
+  //
+  // Fontaine ― NPCs
+  //
   {
     en: "Garcia",
     ja: "ガルシア",
