@@ -2033,6 +2033,7 @@
     ja: "アザール",
     zhCN: "阿扎尔",
     tags: [ "sumeru", "character-sub" ],
+    notes: "スメール教令院の大賢者",
   },
   {
     en: "Grand Sage",
@@ -2040,6 +2041,7 @@
     zhCN: "大贤者",
     pronunciationJa: "だいけんじゃ",
     tags: [ "sumeru", "title" ],
+    notes: "アザールのスメール教令院における職位",
   },
   {
     en: "sage",
@@ -2066,12 +2068,14 @@
     ja: "ハイパシア",
     zhCN: "海芭夏",
     tags: [ "sumeru", "character-sub" ],
+    notes: "スメールの魔神任務に登場",
   },
   {
     en: "Dunyarzad",
     ja: "ドニアザード",
     zhCN: "迪娜泽黛",
     tags: [ "sumeru", "character-sub" ],
+    notes: "スメールの魔神任務に登場するキャラクター",
   },
   {
     en: "Asfand",
@@ -2090,30 +2094,35 @@
     ja: "セタレ",
     zhCN: "塞塔蕾",
     tags: [ "sumeru", "character-sub" ],
+    notes: "スメールの魔神任務に登場するキャラクター",
   },
   {
     en: "Rahman",
     ja: "ラフマン",
     zhCN: "拉赫曼",
     tags: [ "sumeru", "character-sub" ],
+    notes: "スメールの魔神任務に登場するキャラクター",
   },
   {
     en: "Karkata",
     ja: "カカタ",
     zhCN: "卡卡塔",
     tags: [ "sumeru", "character-sub" ],
+    notes: "ティナリの伝説任務に登場するキャラクター",
   },
   {
     en: "Mechanical Crab",
     ja: "機械ガニ",
     zhCN: "机械螃蟹",
     tags: [ "sumeru", "title" ],
+    notes: "ティナリの伝説任務に登場するキャラクター",
   },
   {
     en: "Abattouy",
     ja: "アバッドイ",
     zhCN: "阿巴图伊",
     tags: [ "sumeru", "character-sub" ],
+    notes: "ティナリの伝説任務に登場するキャラクター",
   },
   {
     en: "Alrani",
