@@ -2502,6 +2502,8 @@
   {
     en: "Everlasting Lord of Arcane Wisdom",
     ja: "七葉寂照秘密主",
+    // Source: https://twitter.com/genshin_kanji/status/1588074644778627072
+    pronunciationJa: "しちようじゃくしょうひみつしゅ",
     tags: [ "snezhnaya", "inazuma", "sumeru", "enemy-boss" ],
   },
   {
