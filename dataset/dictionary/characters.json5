@@ -1996,7 +1996,7 @@
     en: "Greater Load Rukkhadevata",
     ja: "マハールッカデヴァータ",
     zhCN: "大慈树王",
-    tags: [ "sumeru", "title" ],
+    tags: [ "sumeru", "character-sub" ],
     variants: {
       ja: [ "マハールッカデヴァタ" ],
     },
@@ -2026,7 +2026,7 @@
     ja: "花神",
     zhCN: "花神",
     pronunciationJa: "かしん",
-    tags: [ "sumeru", "title" ],
+    tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Azar",
