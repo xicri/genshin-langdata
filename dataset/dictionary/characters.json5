@@ -460,12 +460,9 @@
   {
     en: "Boreas",
     ja: "ボレアス",
+    zhCN: "玻瑞亚斯",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
-    notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる。中国語版では「ボレアス」という名前はゲーム中に登場しない。英語版の \"Lupus Boreas, Dominator of Wolves\" (日本語では「北風の王狼、奔狼の領主」) を元にしていると思われる。",
-    // MARK:
-    // This Chinese word is not appeared in Chinese Game. This is the transliteration of Boreas.
-    // The original English \"Lupus Boreas, Dominator of Wolves\" is corresponding to
-    // \"北风的狼王，奔狼的领主\" in Chinese, and Boreas does not have a completely corresponded word in Chinese.
+    notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
   },
   {
     en: "Dominator of Wolves",
