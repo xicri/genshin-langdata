@@ -10,6 +10,7 @@
   "scripts": {
     "build": "node scripts/build.js",
     "status": "node scripts/status.js",
+    "todo": "node scripts/todo.js",
     "test": "npm run build && NODE_OPTIONS=--experimental-vm-modules jest",
     "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
     "release": "node scripts/release.js"
