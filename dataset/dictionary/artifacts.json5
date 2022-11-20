@@ -110,6 +110,7 @@
   {
     en: "Deepwood Memories",
     ja: "深林の記憶",
+    zhCN: "深林的记忆",
     pronunciationJa: "しんりんのきおく",
     tags: [ "artifact" ],
   },
