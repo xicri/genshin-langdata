@@ -197,11 +197,13 @@
   {
     en: "Lambad's Tavern",
     ja: "ランバド酒場",
+    zhCN: "兰巴德酒馆",
     tags: [ "sumeru", "facility" ],
   },
   {
     en: "Menakeri's Treasure Shop",
     ja: "メナケリーショップ",
+    zhCN: "梅娜卡里商铺",
     tags: [ "sumeru", "facility" ],
   },
   {
