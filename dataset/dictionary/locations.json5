@@ -1241,6 +1241,7 @@
   {
     en: "Fane of Ashvattha",
     ja: "アシュヴァッタ神殿",
+    zhCN: "觉王之殿",
     pronunciationJa: "アシュヴァッタしんでん",
     tags: [ "sumeru", "location" ],
   },
@@ -1403,6 +1404,7 @@
   {
     en: "Opet Hall",
     ja: "祝祭殿",
+    zhCN: "祝祭厅",
     pronunciationJa: "しゅくさいでん",
     tags: [ "sumeru", "location" ],
     notes: "Opet の原義はエジプトの祭り。参照: [ブリタニカ](https://www.britannica.com/topic/Opet-Egyptian-festival)",
