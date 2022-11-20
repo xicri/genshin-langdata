@@ -34,6 +34,7 @@
   {
     en: "Dodge this!",
     ja: "こいつはどうだ?",
+    zhCN: "这个如何？",
     notes: "ガイアの元素スキル発動時のセリフ",
     tags: [ "dialogue" ],
   },
@@ -128,6 +129,7 @@
   {
     en: "Time for ― retribution!",
     ja: "裁きを、受けよ!",
+    zhCN: "在此——宣判！",
     pronunciationJa: "さばきをうけよ",
     notes: "ディルックの元素爆発発動時のセリフ",
     tags: [ "dialogue" ],

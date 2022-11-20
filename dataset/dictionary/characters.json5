@@ -157,6 +157,7 @@
   {
     en: "Lupical",
     ja: "ルピカ",
+    zhCN: "卢皮卡",
     tags: [ "mondstadt" ],
   },
   {
@@ -1966,17 +1967,20 @@
   {
     en: "Kaveh",
     ja: "カーヴェ",
+    zhCN: "卡维",
     tags: [ "sumeru", "character-main" ],
   },
   // ▼▼ perhaps they will be a playable character? ▼▼
   {
     en: "Vikram",
     ja: "ヴィクラム",
+    zhCN: "维克拉姆",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Rifaet",
     ja: "リファエット",
+    zhCN: "里法特",
     tags: [ "sumeru", "character-sub" ],
   },
   // ▲▲ perhaps they will be a playable character? ▲▲
@@ -1989,6 +1993,7 @@
   {
     en: "Shrine of Maya",
     ja: "摩耶の宮殿",
+    zhCN: "摩耶之殿",
     tags: [ "sumeru" ],
     notes: "ナヒーダの元素爆発で展開される領域",
   },
@@ -2133,12 +2138,14 @@
   {
     en: "Inayah",
     ja: "イナヤ",
+    zhCN: "阿娜耶",
     tags: [ "sumeru", "character-sub" ],
     notes: "ニィロウの伝説任務に登場するキャラクター",
   },
   {
     en: "Sheikh Zubayr",
     ja: "シェイクズバイル",
+    zhCN: "谢赫祖拜尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "ニィロウが所属するズバイルシアターのマネージャー",
   },
@@ -2387,16 +2394,19 @@
   {
     en: "Chief Justice",
     ja: "最高審判官",
+    zhCN: "最高审判官",
     tags: [ "title" ],
   },
   {
     en: "Focalors",
     ja: "フォカロルス",
+    zhCN: "芙卡洛斯",
     tags: [ "title" ],
   },
   {
     en: "Hydro Archon",
     ja: "水神",
+    zhCN: "水神",
     // TODO pronunciationJa: "すいじん? すいしん?",
     tags: [ "title" ],
   },
@@ -2546,6 +2556,7 @@
   {
     en: "Everlasting Lord of Arcane Wisdom",
     ja: "七葉寂照秘密主",
+    zhCN: "七叶寂照秘密主",
     // Source: https://twitter.com/genshin_kanji/status/1588074644778627072
     pronunciationJa: "しちようじゃくしょうひみつしゅ",
     tags: [ "snezhnaya", "inazuma", "sumeru", "enemy-boss" ],
@@ -2553,12 +2564,14 @@
   {
     en: "Shouki no Kami, the Prodigal",
     ja: "正機の神",
+    zhCN: "正机之神",
     pronunciationJa: "しょうきのかみ",
     tags: [ "snezhnaya", "inazuma", "sumeru", "enemy-boss" ],
   },
   {
     en: "Wanderer",
     ja: "放浪者",
+    zhCN: "流浪者",
     pronunciationJa: "ほうろうしゃ",
     tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
   },

@@ -2006,6 +2006,7 @@
   {
     en: "Owe Mora, Pay Mora",
     ja: "払うべきものはすべて払う",
+    zhCN: "应付尽付",
     pronunciationJa: "はらうべきものはすべてはらう",
     tags: [ "quest-daily", "mondstadt" ],
   },
@@ -2042,6 +2043,7 @@
   {
     en: "Operation Halberd Breaker",
     ja: "折剣一掃",
+    zhCN: "抹金折戟",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
@@ -2068,11 +2070,13 @@
   {
     en: "Concresoil",
     ja: "セメン土",
+    zhCN: "凝成泥土",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "Price Comparison",
     ja: "価格比較",
+    zhCN: "货比两价",
     tags: [ "quest-daily", "sumeru" ],
   },
 

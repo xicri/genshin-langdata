@@ -14,6 +14,7 @@
   {
     en: "Overflowing Mastery",
     ja: "熟知の奔流",
+    zhCN: "精通移涌",
     pronunciationJa: "じゅくちのほんりゅう",
     notes: "不定期開催の期間限定イベント",
     tags: [ "event" ],
@@ -181,6 +182,7 @@
   {
     en: "Nilotpala Cup Beast Tamers Tournament",
     ja: "サウマラタ蓮杯",
+    zhCN: "「月莲杯」驯兽师大赛",
     pronunciationJa: "サウマラタはすはい",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」で開催される大会の名前",
     tags: [ "event" ],
@@ -188,6 +190,7 @@
   {
     en: "Wisdom Orb",
     ja: "叡智宝珠",
+    zhCN: "意智宝珠",
     pronunciationJa: "えいちほうじゅ",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」でキノコンを捕まえるために使うアイテム",
     tags: [ "event", "item" ],
@@ -195,30 +198,35 @@
   {
     en: "Elchingen",
     ja: "エルヒンゲン",
+    zhCN: "埃尔欣根",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会主催者の1人",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Kautilya",
     ja: "カウトリヤ",
+    zhCN: "考特里亚",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会主催者の1人",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Haniyyah",
     ja: "ハニヤー",
+    zhCN: "海妮耶",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会出場者の1人",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Bongo-Head",
     ja: "ポコポコビーニー",
+    zhCN: "咚咚小圆帽",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」で仲間にできるキノコン",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Twirly-Whirly",
     ja: "テンテンヨーヨー獣",
+    zhCN: "转转悠悠兽",
     pronunciationJa: "テンテンヨーヨーじゅう",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」でレイラが仲間にしたキノコン",
     tags: [ "event", "character-sub" ],
@@ -226,6 +234,7 @@
   {
     en: "Blitzara",
     ja: "百雷遮羅",
+    zhCN: "百雷遮罗",
     pronunciationJa: "ひゃくらいしゃら",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」で八重神子が仲間にしたキノコン",
     tags: [ "event", "character-sub" ],
@@ -233,6 +242,7 @@
   {
     en: "Pyro-1",
     ja: "炎1",
+    zhCN: "火一",
     pronunciationJa: "ほのおいち",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」でハニヤーが仲間にしたキノコン",
     tags: [ "event", "character-sub" ],
@@ -240,6 +250,7 @@
   {
     en: "Kindlejoy",
     ja: "喜炎",
+    zhCN: "欢腾之火",
     pronunciationJa: "きえん",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」でハニヤーが仲間にしたキノコン。英語の発音は「キンドルジョイ」",
     tags: [ "event", "character-sub" ],
@@ -507,6 +518,7 @@
   {
     en: "Arataki's Great and Glorious Drum",
     ja: "荒瀧・盛世豪鼓",
+    zhCN: "荒泷・盛世豪鼓",
     notes: "v2.7 期間限定イベント「荒瀧極上盛世豪鼓大祭典」で入手できる、演奏用の太鼓。",
     tags: [ "event", "item" ],
   },
@@ -577,6 +589,7 @@
   {
     en: "Fragrant ○○",
     ja: "香り高い〇〇",
+    zhCN: "香气四溢的〇〇",
     pronunciationJa: "かおりたかい〇〇",
     tags: [ "food" ],
     notes: "v2.6〜v2.7 期間限定イベント「西より届く香り」で作った調味料を加えてできた料理。",
@@ -643,6 +656,7 @@
   {
     en: "Light Realm Sigil",
     ja: "光界の印",
+    zhCN: "光界之印",
     pronunciationJa: "こうかいのしるし", // TODO Need Check
     notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
     tags: [ "event", "item" ],
@@ -680,6 +694,7 @@
   {
     en: "Divine Ingenuity",
     ja: "鬼斧神工",
+    zhCN: "神工天巧",
     pronunciationJa: "きふしんこう",
     notes: "v2.5 期間限定イベント",
     tags: [ "event" ],
@@ -719,6 +734,7 @@
   {
     en: "A Study in Potions",
     ja: "ポーションスタディー",
+    zhCN: "魔药研析",
     notes: "v2.4 期間限定イベント",
     tags: [ "event" ],
   },

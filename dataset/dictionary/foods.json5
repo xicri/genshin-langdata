@@ -328,6 +328,7 @@
   {
     en: "Apple Cider",
     ja: "アップルサイダー",
+    zhCN: "苹果酿",
     tags: [ "food" ],
   },
   {
@@ -345,6 +346,7 @@
   {
     en: "Sparkling Berry Juice",
     ja: "スパークリングベリージュース",
+    zhCN: "气泡酸莓汁",
     tags: [ "food" ],
   },
   {
@@ -395,11 +397,13 @@
   {
     en: "Panipuri",
     ja: "パニプリ",
+    zhCN: "绿汁脆球",
     tags: [ "food" ],
   },
   {
     en: "Curry Shrimp",
     ja: "カレーシュリムプ",
+    zhCN: "咖喱虾",
     tags: [ "food" ],
   },
 
@@ -510,6 +514,7 @@
   {
     en: "Fruits of the Festival",
     ja: "バケーションサイダー",
+    zhCN: "假日果酿",
     tags: [ "food" ],
   },
   {
@@ -752,6 +757,7 @@
   {
     en: "Potato Boat",
     ja: "ポテトボート",
+    zhCN: "土豆船",
     tags: [ "food" ],
   },
 
