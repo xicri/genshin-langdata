@@ -254,6 +254,7 @@
   {
     en: "Hyperbloom",
     ja: "超開花",
+    zhCN: "超绽放",
     tags: [ "element" ],
   },
   {
@@ -342,6 +343,7 @@
   {
     en: "Impetuous Winds",
     ja: "迅速の風",
+    zhCN: "迅捷之风",
     pronunciationJa: "じんそくのかぜ",
     tags: [ "element" ],
     notes: "風元素のメンバーが2名以上いる際に発動する元素共鳴",
@@ -365,6 +367,7 @@
   {
     en: "Sprawling Greenery",
     ja: "蔓生の草",
+    zhCN: "蔓生之草",
     pronunciationJa: "まんせいのくさ",
     tags: [ "element" ],
     notes: "草元素のメンバーが2名以上いる際に発動する元素共鳴",
