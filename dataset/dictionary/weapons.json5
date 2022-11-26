@@ -216,6 +216,12 @@
     pronunciationJa: "サイフォスのつきあかり",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Toukabou Shigure",
+    ja: "東花坊時雨",
+    pronunciationJa: "とうかぼうしぐれ",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -1202,6 +1208,12 @@
     ja: "千夜に浮かぶ夢",
     zhCN: "千夜浮梦",
     pronunciationJa: "せんやにうかぶゆめ",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Tulaytullah's Remembrance",
+    ja: "トゥライトゥーラの記憶",
+    pronunciationJa: "トゥライトゥーラのきおく",
     tags: [ "weapon", "catalyst" ],
   },
 ]

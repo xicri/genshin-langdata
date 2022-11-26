@@ -181,6 +181,14 @@
     tags: [ "sumeru", "quest-archon" ],
   },
 
+  // Interlude
+  {
+    en: "Inversion of Genesis",
+    ja: "伽藍に落ちて",
+    pronunciationJa: "がらんにおちて",
+    tags: [ "sumeru", "quest-archon" ],
+  },
+
   //
   // World Quests
   //
