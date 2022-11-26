@@ -1098,6 +1098,24 @@
     tags: [ "liyue", "title" ],
   },
   {
+    en: "Baiwen",
+    ja: "百聞",
+    tags: [ "liyue", "character-sub" ],
+    notes: "群玉閣の秘書の1人",
+  },
+  {
+    en: "Baishi",
+    ja: "百識",
+    tags: [ "liyue", "character-sub" ],
+    notes: "群玉閣の秘書の1人",
+  },
+  {
+    en: "Baixiao",
+    ja: "百暁",
+    tags: [ "liyue", "character-sub" ],
+    notes: "群玉閣の秘書の1人",
+  },
+  {
     en: "Verr Goldet",
     ja: "ヴェル・ゴレット",
     zhCN: "菲尔戈黛特",

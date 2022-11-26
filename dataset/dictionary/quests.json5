@@ -137,7 +137,7 @@
     tags: [ "liyue", "quest-archon" ],
   },
 
-  // Interrude
+  // Interlude
   {
     en: "Perilous Trail",
     ja: "険路怪跡",
@@ -178,6 +178,14 @@
     en: "Akasha Pulses, the Kalpa Flame Rises",
     ja: "虚空の鼓動、熾盛の劫火",
     zhCN: "虚空鼓动，劫火高扬",
+    tags: [ "sumeru", "quest-archon" ],
+  },
+
+  // Interlude
+  {
+    en: "Inversion of Genesis",
+    ja: "伽藍に落ちて",
+    pronunciationJa: "がらんにおちて",
     tags: [ "sumeru", "quest-archon" ],
   },
 

@@ -616,6 +616,53 @@
     pronunciationJa: "しちせいしょうかん",
     notes: "英語では「召喚」は Invo\"c\"ation とつづるが、ここでは Invo\"k\"ation となっていることに注意。このつづりはマルタ語などに見られる。TCG は Trading Card Game の略。",
   },
+  {
+    en: "Character Card",
+    ja: "キャラカード",
+    notes: "七聖召喚のカードの種類の1つ",
+  },
+  {
+    en: "Equipment Card",
+    ja: "装備カード",
+    pronunciationJa: "そうびカード",
+    notes: "七聖召喚のカードの種類の1つ",
+  },
+  {
+    en: "Support Card",
+    ja: "支援カード",
+    pronunciationJa: "しえんカード",
+    notes: "七聖召喚のカードの種類の1つ",
+  },
+  {
+    en: "Event Card",
+    ja: "イベントカード",
+    notes: "七聖召喚のカードの種類の1つ",
+  },
+  {
+    en: "Elemental Dice",
+    ja: "元素サイコロ",
+    notes: "七聖召喚のカードで用いるサイコロ",
+  },
+  {
+    en: "roll",
+    ja: "ロールする",
+    notes: "七聖召喚で元素サイコロを振ること",
+  },
+  {
+    en: "reroll",
+    ja: "リロール",
+    notes: "七聖召喚で元素サイコロを振り直すこと",
+  },
+  {
+    en: "Lucky Coin",
+    ja: "ラッキーカードコイン",
+    notes: "七聖召喚のカードなどグッズを購入するために必要なコイン",
+  },
+  {
+    en: "dynamic skin",
+    ja: "幻影カードスキン",
+    notes: "七聖召喚のカードの絵が動くようになるスキン",
+  },
 
   //
   // Inazuma

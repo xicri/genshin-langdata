@@ -122,6 +122,12 @@
     tags: [ "artifact" ],
   },
   {
+    en: "Desert Pavilion Chronicle",
+    ja: "砂上の楼閣の史話",
+    pronunciationJa: "さじょうのろうかくのしわ",
+    tags: [ "artifact" ],
+  },
+  {
     en: "Emblem of Severed Fate",
     ja: "絶縁の旗印",
     zhCN: "绝缘之旗印",
@@ -147,6 +153,11 @@
     ja: "亡命者",
     zhCN: "流放者",
     pronunciationJa: "ぼうめいしゃ",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Flower of Paradise Lost",
+    ja: "楽園の絶花",
     tags: [ "artifact" ],
   },
   {

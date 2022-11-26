@@ -137,7 +137,7 @@
     ja: "風の行方",
     zhCN: "风行迷踪",
     pronunciationJa: "かぜのゆくえ",
-    notes: "不定期開催 (v1.5、v2.4) の期間限定イベント",
+    notes: "不定期開催 (v1.5、v2.4、v3.3) の期間限定イベント",
     tags: [ "event" ],
   },
   {
@@ -169,6 +169,36 @@
     zhCN: "胡塞尼",
     notes: "いくつかの期間限定イベントで登場するキャラクター",
     tags: [ "event", "character-sub" ],
+  },
+
+  // v3.3
+  {
+    en: "Akitsu Kimodameshi",
+    ja: "秋津ノ夜森肝試し大会",
+    pronunciationJa: "あきつノよもりきもだめしたいかい",
+    notes: "v3.3 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Across the Wilderness",
+    ja: "野を超えた追跡",
+    pronunciationJa: "のをこえたついせき",
+    notes: "v3.3 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Wilderness Balloons",
+    ja: "野跡風船",
+    pronunciationJa: "のせきふうせん",
+    notes: "v3.3 期間限定イベント「野を超えた追跡」で収集するオブジェクト",
+    tags: [ "event", "object" ],
+  },
+  {
+    en: "Misty Dungeon: Realm of Sand",
+    ja: "迷城戦線・砂域編",
+    pronunciationJa: "めいじょうせんせん・さいきへん",
+    notes: "v3.3 期間限定イベント",
+    tags: [ "event" ],
   },
 
   // v3.2

@@ -2871,6 +2871,11 @@
     zhCN: "苦舍桓",
     tags: [ "item", "sumeru" ],
   },
+  {
+    en: "Scarlet Sand Slate",
+    ja: "赤砂の石板",
+    tags: [ "item", "sumeru" ],
+  },
 
   //
   // Quest Items
