@@ -889,6 +889,12 @@
     pronunciationJa: "とくべつなおみくじ",
     tags: [ "quest-world", "inazuma" ],
   },
+  {
+    en: "Film Notes",
+    ja: "映影が残す思い出",
+    pronunciationJa: "えいえいがのこすおもいで",
+    tags: [ "quest-world", "inazuma" ],
+  },
   // Watatsumi Island
   {
     en: "\"Fang of Watatsumi\"",
@@ -1143,6 +1149,11 @@
     en: "Event Beasts Stumble",
     ja: "獣も足を踏み外す",
     pronunciationJa: "けものもあしをふみはずす",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Next Time, On King of Invokations...",
+    ja: "『召喚王・下! って…』",
     tags: [ "sumeru", "quest-world" ],
   },
 
@@ -1697,6 +1708,12 @@
     tags: [ "quest-daily", "mondstadt" ],
   },
   {
+    en: "Long Distance Love",
+    ja: "触れられない恋人",
+    pronunciationJa: "ふれられないこいびと",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
     en: "Business in a Marsh",
     ja: "荻花洲の旅館",
     zhCN: "花洲有客栈",
@@ -2055,6 +2072,16 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "Operation Graze",
+    ja: "掠草終着",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Hey, Come Out!",
+    ja: "おい、出てこい!",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "King of Invokations",
     ja: "『召喚王』",
     zhCN: "《召唤王》",
@@ -2085,6 +2112,26 @@
     en: "Price Comparison",
     ja: "価格比較",
     zhCN: "货比两价",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "The Flowers That Won't Grow",
+    ja: "育たない花",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Problem Conversion: The Underpinning Factor",
+    ja: "問題の転換・肝心な点",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Gold Devouring and Mora Gathering",
+    ja: "千金と蓄財",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Meow... Meow meow? Meow! Meow.",
+    ja: "ニャ…ニャニャ? ニャ! ニャオ。",
     tags: [ "quest-daily", "sumeru" ],
   },
 

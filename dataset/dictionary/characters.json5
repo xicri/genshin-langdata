@@ -620,6 +620,11 @@
     tags: [ "mondstadt", "character-sub" ],
   },
   {
+    en: "Godwin",
+    ja: "グッドウィン",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
     en: "Tsarevich",
     ja: "ツァレーヴィチ",
     zhCN: "查耶维奇",
