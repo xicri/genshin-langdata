@@ -2756,6 +2756,11 @@
     pronunciationJa: "ハエのぎじえ",
     tags: [ "item" ],
   },
+  {
+    en: "Sugardew Bait",
+    ja: "甘露餌",
+    tags: [ "item" ],
+  },
 
   //
   // Books

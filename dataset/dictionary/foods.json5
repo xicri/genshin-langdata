@@ -406,6 +406,11 @@
     zhCN: "咖喱虾",
     tags: [ "food" ],
   },
+  {
+    en: "Rose Custard",
+    ja: "ローズシュリカンド",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -760,6 +765,21 @@
     zhCN: "土豆船",
     tags: [ "food" ],
   },
+  {
+    en: "Padisarah Pudding",
+    ja: "パティサラプリン",
+    tags: [ "food" ],
+  },
+  {
+    en: "Candied Ajilenakh Nut",
+    ja: "ナツメヤシキャンディ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Baklava",
+    ja: "バクラヴァ",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -836,6 +856,11 @@
     ja: "焼きキノコミートピザ",
     zhCN: "肉肉烤蘑菇披萨",
     pronunciationJa: "やきキノコミートピザ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Tandoori Roast Chicken",
+    ja: "タンドリーチキン",
     tags: [ "food" ],
   },
 

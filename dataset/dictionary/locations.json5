@@ -1422,6 +1422,17 @@
     tags: [ "sumeru", "location" ],
     notes: "Duat はエジプト神話における死後の世界を指す。参照: [Wikipedia](https://en.wikipedia.org/wiki/Duat)",
   },
+  {
+    en: "Sekhem Hall",
+    ja: "権杖殿",
+    tags: [ "sumeru", "location" ],
+    notes: "sekhem scepter という、古代エジプトの権力者が持っていた儀式用の杖が存在する。参考: [Wikipedia](https://en.wikipedia.org/wiki/Sekhem_scepter)",
+  },
+  {
+    en: "Aaru's Shut",
+    ja: "アアルの影",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Great Red Sand",

@@ -403,4 +403,11 @@
     tags: [ "sumeru", "domain" ],
     notes: "正機の神 (スカラマシュ) 戦の秘境名",
   },
+  {
+    en: "Court of Desolation",
+    ja: "帰元ノ庭",
+    pronunciationJa: "きげんノにわ",
+    tags: [ "sumeru", "domain" ],
+    notes: "セノの伝説任務で登場する秘境",
+  },
 ]
