@@ -622,6 +622,7 @@
   {
     en: "Godwin",
     ja: "グッドウィン",
+    zhCN: "古德温",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -1105,18 +1106,21 @@
   {
     en: "Baiwen",
     ja: "百聞",
+    zhCN: "百闻",
     tags: [ "liyue", "character-sub" ],
     notes: "群玉閣の秘書の1人",
   },
   {
     en: "Baishi",
     ja: "百識",
+    zhCN: "百识",
     tags: [ "liyue", "character-sub" ],
     notes: "群玉閣の秘書の1人",
   },
   {
     en: "Baixiao",
     ja: "百暁",
+    zhCN: "百晓",
     tags: [ "liyue", "character-sub" ],
     notes: "群玉閣の秘書の1人",
   },
