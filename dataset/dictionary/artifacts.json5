@@ -124,6 +124,7 @@
   {
     en: "Desert Pavilion Chronicle",
     ja: "砂上の楼閣の史話",
+    zhCN: "沙上楼阁史话",
     pronunciationJa: "さじょうのろうかくのしわ",
     tags: [ "artifact" ],
   },
@@ -158,6 +159,7 @@
   {
     en: "Flower of Paradise Lost",
     ja: "楽園の絶花",
+    zhCN: "乐园遗落之花",
     tags: [ "artifact" ],
   },
   {
