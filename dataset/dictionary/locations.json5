@@ -1425,12 +1425,14 @@
   {
     en: "Sekhem Hall",
     ja: "権杖殿",
+    zhCN: "权杖厅",
     tags: [ "sumeru", "location" ],
     notes: "sekhem scepter という、古代エジプトの権力者が持っていた儀式用の杖が存在する。参考: [Wikipedia](https://en.wikipedia.org/wiki/Sekhem_scepter)",
   },
   {
     en: "Aaru's Shut",
     ja: "アアルの影",
+    zhCN: "阿如的倒影",
     tags: [ "sumeru", "location" ],
   },
 
