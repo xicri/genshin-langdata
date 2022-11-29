@@ -409,6 +409,7 @@
   {
     en: "Rose Custard",
     ja: "ローズシュリカンド",
+    zhCN: "蔷薇奶糊",
     tags: [ "food" ],
   },
 
@@ -768,16 +769,19 @@
   {
     en: "Padisarah Pudding",
     ja: "パティサラプリン",
+    zhCN: "帕蒂沙兰布丁",
     tags: [ "food" ],
   },
   {
     en: "Candied Ajilenakh Nut",
     ja: "ナツメヤシキャンディ",
+    zhCN: "枣椰蜜糖",
     tags: [ "food" ],
   },
   {
     en: "Baklava",
     ja: "バクラヴァ",
+    zhCN: "千层酥酥",
     tags: [ "food" ],
   },
 
@@ -861,6 +865,7 @@
   {
     en: "Tandoori Roast Chicken",
     ja: "タンドリーチキン",
+    zhCN: "唐杜尔烤鸡",
     tags: [ "food" ],
   },
 
