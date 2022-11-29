@@ -406,6 +406,7 @@
   {
     en: "Court of Desolation",
     ja: "帰元ノ庭",
+    zhCN: "归寂之庭",
     pronunciationJa: "きげんノにわ",
     tags: [ "sumeru", "domain" ],
     notes: "セノの伝説任務で登場する秘境",
