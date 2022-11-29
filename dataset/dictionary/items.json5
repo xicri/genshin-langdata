@@ -2759,6 +2759,7 @@
   {
     en: "Sugardew Bait",
     ja: "甘露餌",
+    zhCN: "甘露饵",
     tags: [ "item" ],
   },
 
@@ -2879,6 +2880,7 @@
   {
     en: "Scarlet Sand Slate",
     ja: "赤砂の石板",
+    zhCN: "赤沙石板",
     tags: [ "item", "sumeru" ],
   },
 
