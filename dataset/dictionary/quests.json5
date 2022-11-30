@@ -2117,21 +2117,25 @@
   {
     en: "The Flowers That Won't Grow",
     ja: "育たない花",
+    zhCN: "生不出的花",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "Problem Conversion: The Underpinning Factor",
     ja: "問題の転換・肝心な点",
+    zhCN: "问题的转化·关键在何？",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "Gold Devouring and Mora Gathering",
     ja: "千金と蓄財",
+    zhCN: "吞金和蓄财",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "Meow... Meow meow? Meow! Meow.",
     ja: "ニャ…ニャニャ? ニャ! ニャオ。",
+    zhCN: "喵…喵喵？喵！喵。",
     tags: [ "quest-daily", "sumeru" ],
   },
 
