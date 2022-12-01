@@ -219,6 +219,7 @@
   {
     en: "Toukabou Shigure",
     ja: "東花坊時雨",
+    zhCN: "东花坊时雨",
     pronunciationJa: "とうかぼうしぐれ",
     tags: [ "weapon", "sword" ],
   },
@@ -1213,6 +1214,7 @@
   {
     en: "Tulaytullah's Remembrance",
     ja: "トゥライトゥーラの記憶",
+    zhCN: "图莱杜拉的回忆",
     pronunciationJa: "トゥライトゥーラのきおく",
     tags: [ "weapon", "catalyst" ],
   },
