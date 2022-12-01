@@ -191,7 +191,7 @@
   {
     en: "Wilderness Balloons",
     ja: "野跡風船",
-    zhCN: "风行迷踪",
+    zhCN: "野踪气球",
     pronunciationJa: "のせきふうせん",
     notes: "v3.3 期間限定イベント「野を超えた追跡」で収集するオブジェクト",
     tags: [ "event", "object" ],
