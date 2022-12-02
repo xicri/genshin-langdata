@@ -175,6 +175,7 @@
   {
     en: "Akitsu Kimodameshi",
     ja: "秋津ノ夜森肝試し大会",
+    zhCN: "秋津森夜试胆会",
     pronunciationJa: "あきつノよもりきもだめしたいかい",
     notes: "v3.3 期間限定イベント。「肝試し」は Test of Courage と訳されている",
     tags: [ "event" ],
@@ -182,6 +183,7 @@
   {
     en: "Across the Wilderness",
     ja: "野を超えた追跡",
+    zhCN: "跨野寻踪",
     pronunciationJa: "のをこえたついせき",
     notes: "v3.3 期間限定イベント",
     tags: [ "event" ],
@@ -189,6 +191,7 @@
   {
     en: "Wilderness Balloons",
     ja: "野跡風船",
+    zhCN: "野踪气球",
     pronunciationJa: "のせきふうせん",
     notes: "v3.3 期間限定イベント「野を超えた追跡」で収集するオブジェクト",
     tags: [ "event", "object" ],
@@ -196,6 +199,7 @@
   {
     en: "Misty Dungeon: Realm of Sand",
     ja: "迷城戦線・砂域編",
+    zhCN: "迷城战线·沙域篇",
     pronunciationJa: "めいじょうせんせん・さいきへん",
     notes: "v3.3 期間限定イベント",
     tags: [ "event" ],
