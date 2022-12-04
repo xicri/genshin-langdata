@@ -279,11 +279,7 @@
     ja: "バーバラ・ペッチ / バーバラ・ペイジ",
     zhCN: "芭芭拉·佩奇",
     tags: [ "mondstadt", "character-main" ],
-    notes: "姓については表記揺れあり。英語版の発音は「バーバラ・ペッグ」。中国では姓は「ペッチ」「ペイジ」ではなく「グンヒルド」とする説が有力。",
-    // MARK:
-    // Barbara is considered as Barbara Gunnhildr in Chinese players
-    // as her full name seemly didn't appear in game and she describes Jean has her sister
-    // But here I use 佩奇, which is the translation of Pegg
+    notes: "姓については、日本語では表記揺れあり。英語版の発音は「バーバラ・ペッグ」",
   },
   {
     en: "Sucrose",
