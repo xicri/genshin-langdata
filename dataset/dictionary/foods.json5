@@ -67,6 +67,11 @@
     tags: [ "food" ],
   },
   {
+    en: "Mint Jelly",
+    ja: "ミントゼリー",
+    tags: [ "food" ],
+  },
+  {
     en: "Mora Meat",
     ja: "モラミート",
     zhCN: "摩拉肉",
@@ -1248,6 +1253,15 @@
     pronunciationJa: "ゆいいつのしんそう",
     tags: [ "food", "inazuma" ],
     notes: "鹿野院平蔵のオリジナル料理",
+  },
+
+  // Sumeru
+  {
+    en: "Swirling Steps",
+    ja: "ひらめく踊り",
+    pronunciationJa: "ひらめくおどり",
+    tags: [ "food", "sumeru" ],
+    notes: "ニィロウのオリジナル料理",
   },
 
   //

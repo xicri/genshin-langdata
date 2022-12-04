@@ -1327,7 +1327,6 @@
     en: "Abdju Pit",
     ja: "捨身の坑",
     zhCN: "舍身陷坑",
-    pronunciationJa: "しゃしんのみち",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、捨身の道から変化する。",
   },
@@ -1335,6 +1334,11 @@
     en: "Dar al-Shifa",
     ja: "ダールアルシファ",
     zhCN: "活力之家",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Lamb-Devourer Rock",
+    ja: "羊呑の岩",
     tags: [ "sumeru", "location" ],
   },
 
