@@ -1205,6 +1205,18 @@
     pronunciationJa: "ふるきものがたりとあたらしきゆうじん",
     tags: [ "sumeru", "quest-world" ],
   },
+  {
+    en: "Blooming Sands",
+    ja: "砂の上の花",
+    pronunciationJa: "すなのうえのはな",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Join the Eremites and Embrace a Wonderful New Life!",
+    ja: "エルマイト旅団に入って、素晴らしい生活を!",
+    pronunciationJa: "エルマイトりょだんにはいって、すばらしいせいかつを",
+    tags: [ "sumeru", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -1711,6 +1723,12 @@
     en: "Long Distance Love",
     ja: "触れられない恋人",
     pronunciationJa: "ふれられないこいびと",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
+    en: "Lost Key",
+    ja: "よくなくなる鍵",
+    pronunciationJa: "よくなくなるかぎ",
     tags: [ "quest-daily", "mondstadt" ],
   },
   {

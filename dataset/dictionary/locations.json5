@@ -1336,6 +1336,11 @@
     zhCN: "活力之家",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Lamb-Devourer Rock",
+    ja: "羊呑の岩",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Land of Upper Setekh",
