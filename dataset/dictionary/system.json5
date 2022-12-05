@@ -619,48 +619,57 @@
   {
     en: "Character Card",
     ja: "キャラカード",
+    zhCN: "角色牌",
     notes: "七聖召喚のカードの種類の1つ",
   },
   {
     en: "Equipment Card",
     ja: "装備カード",
+    zhCN: "装备牌",
     pronunciationJa: "そうびカード",
     notes: "七聖召喚のカードの種類の1つ",
   },
   {
     en: "Support Card",
     ja: "支援カード",
+    zhCN: "支援牌",
     pronunciationJa: "しえんカード",
     notes: "七聖召喚のカードの種類の1つ",
   },
   {
     en: "Event Card",
     ja: "イベントカード",
+    zhCN: "事件牌",
     notes: "七聖召喚のカードの種類の1つ",
   },
   {
     en: "Elemental Dice",
     ja: "元素サイコロ",
+    zhCN: "元素骰",
     notes: "七聖召喚のカードで用いるサイコロ",
   },
   {
     en: "roll",
     ja: "ロールする",
+    zhCN: "投掷（元素骰）",
     notes: "七聖召喚で元素サイコロを振ること",
   },
   {
     en: "reroll",
     ja: "リロール",
+    zhCN: "重投（元素骰）",
     notes: "七聖召喚で元素サイコロを振り直すこと",
   },
   {
     en: "Lucky Coin",
     ja: "ラッキーカードコイン",
+    zhCN: "幸运牌币",
     notes: "七聖召喚のカードなどグッズを購入するために必要なコイン",
   },
   {
     en: "dynamic skin",
     ja: "幻影カードスキン",
+    zhCN: "幻影卡面",
     notes: "七聖召喚のカードの絵が動くようになるスキン",
   },
 
