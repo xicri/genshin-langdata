@@ -69,6 +69,7 @@
   {
     en: "Mint Jelly",
     ja: "ミントゼリー",
+    zhCN: "薄荷果冻",
     tags: [ "food" ],
   },
   {
@@ -1259,6 +1260,7 @@
   {
     en: "Swirling Steps",
     ja: "ひらめく踊り",
+    zhCN: "婆娑一舞",
     pronunciationJa: "ひらめくおどり",
     tags: [ "food", "sumeru" ],
     notes: "ニィロウのオリジナル料理",
