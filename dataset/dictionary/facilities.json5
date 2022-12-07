@@ -215,6 +215,7 @@
   {
     en: "House of Daena",
     ja: "知恵の殿堂",
+    zhCN: "智慧宫",
     tags: [ "sumeru", "facility" ],
     notes: "スメール教令院の奥にある図書館",
   },

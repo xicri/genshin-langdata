@@ -1339,6 +1339,7 @@
   {
     en: "Lamb-Devourer Rock",
     ja: "羊呑の岩",
+    zhCN: "吞羊岩",
     tags: [ "sumeru", "location" ],
   },
 
