@@ -1524,6 +1524,54 @@
     pronunciationJa: "エルマイトりょだん・ゲイルハンター",
     tags: [ "sumeru", "enemy" ],
   },
+  {
+    en: "Eremite Scorching Loremaster",
+    ja: "エルマイト旅団・サンドロアマスター",
+    pronunciationJa: "エルマイトりょだん・サンドロアマスター",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Eremite Floral Ring-Dancer",
+    ja: "エルマイト旅団・フローラルリングダンサー",
+    pronunciationJa: "エルマイトりょだん・フローラルリングダンサー",
+    tags: [ "sumeru", "enemy" ],
+  },
+
+  {
+    en: "Consecrated Beast",
+    ja: "聖骸獣",
+    pronunciationJa: "せいがいじゅう",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Consecrated Flying Serpent",
+    ja: "聖骸トビヘビ",
+    pronunciationJa: "せいがいトビヘビ",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Consecrated Scorpion",
+    ja: "聖骸サソリ",
+    pronunciationJa: "せいがいサソリ",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Consecrated Red Vulture",
+    ja: "聖骸赤鷲",
+    pronunciationJa: "せいがいあかわし",
+    tags: [ "sumeru", "enemy" ],
+  },
+
+  {
+    en: "Wenut",
+    ja: "ウェネト",
+    tags: [ "sumeru", "enemy" ],
+  },
+  {
+    en: "Setekh Wenut",
+    ja: "風蝕ウェネト",
+    tags: [ "sumeru", "enemy" ],
+  },
 
   {
     en: "Marana's Avatar",

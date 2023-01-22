@@ -672,6 +672,12 @@
     zhCN: "幻影卡面",
     notes: "七聖召喚のカードの絵が動くようになるスキン",
   },
+  {
+    en: "Heated Battle Mode",
+    ja: "熱闘モード",
+    notes: "v3.4 期間限定で七星召喚に導入される特殊ルール",
+    tags: [ "event" ],
+  },
 
   //
   // Inazuma

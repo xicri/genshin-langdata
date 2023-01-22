@@ -1512,6 +1512,13 @@
     tags: [ "sumeru", "quest-story" ],
   },
   {
+    en: "Vultur Volans Chapter",
+    ja: "隼の章",
+    pronunciationJa: "はやぶさのしょう",
+    notes: "アルハイゼンの伝説任務",
+    tags: [ "sumeru", "quest-story" ],
+  },
+  {
     en: "Sapientia Oromasdis Chapter",
     ja: "知恵の主の章",
     zhCN: "智慧主之章",

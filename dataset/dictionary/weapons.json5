@@ -294,6 +294,11 @@
     pronunciationJa: "せいけんのかぎ",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Light of Foliar Incision",
+    ja: "萃光の裁葉",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores

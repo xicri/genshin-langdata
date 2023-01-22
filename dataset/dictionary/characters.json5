@@ -248,6 +248,12 @@
     tags: [ "mondstadt" ],
   },
   {
+    en: "Sparks 'n' Splash",
+    ja: "ドッカン花火",
+    pronunciationJa: "ドッカンはなび",
+    tags: [ "mondstadt" ],
+  },
+  {
     en: "Dodoco",
     ja: "ドドコ",
     zhCN: "嘟嘟可",
@@ -882,6 +888,13 @@
     tags: [ "liyue", "character-main" ],
   },
   {
+    en: "Yuegui",
+    ja: "月桂",
+    pronunciationJa: "ユェーグェイ",
+    tags: [ "liyue", "object" ],
+    notes: "ヨォーヨの持っている人形 (?)",
+  },
+  {
     en: "Morax",
     ja: "モラクス",
     zhCN: "摩拉克斯",
@@ -915,6 +928,12 @@
     tags: [ "liyue", "character-sub", "sereniteapot" ],
   },
   {
+    en: "Streetward Rambler",
+    ja: "歌塵浪市真君",
+    tags: [ "liyue", "character-sub", "sereniteapot" ],
+    notes: "ピンばあやの称号",
+  },
+  {
     en: "Uncle Tian",
     ja: "天おじ",
     zhCN: "天叔",
@@ -944,11 +963,25 @@
     tags: [ "liyue", "character-sub" ],
   },
   {
+    en: "Uncle Mountain Shaper",
+    ja: "理水おじちゃん",
+    pronunciationJa: "りすいおじちゃん",
+    tags: [ "liyue", "how-to-call" ],
+    notes: "ヨォーヨの理水畳山真君に対する呼び方",
+  },
+  {
     en: "Cloud Retainer",
     ja: "留雲借風真君",
     zhCN: "留云借风真君",
     pronunciationJa: "りゅううんしゃくふうしんくん",
     tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Aunty Cloud Retainer",
+    ja: "留雲おばちゃん",
+    pronunciationJa: "りゅううんおばちゃん",
+    tags: [ "liyue", "how-to-call" ],
+    notes: "ヨォーヨの留雲借風真君に対する呼び方",
   },
   {
     en: "Azhdaha",
@@ -1985,6 +2018,12 @@
     ja: "ファルザン",
     zhCN: "珐露珊",
     tags: [ "sumeru", "character-main" ],
+  },
+  {
+    en: "Madam Faruzan",
+    ja: "ファルザン先輩",
+    tags: [ "sumeru", "how-to-call" ],
+    notes: "ファルザンが、自身をこのように呼ぶよう他人に求める呼び方",
   },
   {
     en: "Kaveh",
