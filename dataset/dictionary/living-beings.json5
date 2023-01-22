@@ -240,6 +240,11 @@
     zhCN: "赤鹫",
     tags: [ "living-being", "enemy", "sumeru" ],
   },
+  {
+    en: "Flying Serpent",
+    ja: "トビヘビ",
+    tags: [ "living-being", "enemy", "sumeru" ],
+  },
 
   {
     en: "Gator Raja",

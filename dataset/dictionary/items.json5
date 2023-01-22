@@ -3004,4 +3004,15 @@
     zhCN: "极夜真梦",
     notes: "フィッシュルのコスチューム",
   },
+  {
+    en: "Springbloom Missive",
+    ja: "花時に訪れた手紙",
+    notes: "神里綾華のコスチューム",
+  },
+  {
+    en: "A Sobriquet Under Shade",
+    ja: "葉に隠れし芳名",
+    pronunciationJa: "はにかくれしほうめい",
+    notes: "リサのコスチューム",
+  },
 ]

@@ -121,7 +121,7 @@
     ja: "海灯祭",
     zhCN: "海灯节",
     pronunciationJa: "かいとうさい",
-    notes: "v1.3 及び v2.4 期間限定イベント。璃月の祭り。",
+    notes: "v1.3、v2.4、及び v3.4 期間限定イベント。璃月の祭り。",
     tags: [ "liyue", "event" ],
   },
   {
@@ -164,11 +164,78 @@
   },
 
   {
+    en: "May Fortune Find You",
+    ja: "富貴登門",
+    notes: "不定期に期間限定で行われるログインボーナス",
+    tags: [ "event" ],
+  },
+
+  {
     en: "Hosseini",
     ja: "ホッセイニ",
     zhCN: "胡塞尼",
     notes: "いくつかの期間限定イベントで登場するキャラクター",
     tags: [ "event", "character-sub" ],
+  },
+
+  // v3.4
+  {
+    en: "The Exquisite Night Chimes",
+    ja: "華舞う夜の旋律",
+    pronunciationJa: "はなまうよるのせんりつ",
+    notes: "v3.4 期間限定イベント。海灯祭のイベント名",
+    tags: [ "event" ],
+  },
+  {
+    en: "Radiant Sparks",
+    ja: "光焔踊躍",
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "A Few Words in the Foreground",
+    ja: "幕前二言三言",
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Vigilance at Sea",
+    ja: "煙海巡廻",
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Behind the Scenes",
+    ja: "灯後労績",
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Iridescent Splendor",
+    ja: "彩虹華章",
+    notes: "v3.4 期間中、海灯祭後に配布されるログインボーナス",
+    tags: [ "event" ],
+  },
+  {
+    en: "Warrior's Spirit",
+    ja: "演舞伝心",
+    pronunciationJa: "えんぶでんしん",
+    notes: "v3.4 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl",
+    ja: "荒瀧極意堂々虫相撲大試合",
+    pronunciationJa: "あらたきごくいどうどうむしずもうおおじあい",
+    notes: "v3.4 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Second Blooming",
+    ja: "薔薇が返り咲く頃",
+    pronunciationJa: "ばらがかえりざくころ",
+    notes: "v3.4 期間限定イベント",
+    tags: [ "event" ],
   },
 
   // v3.3
