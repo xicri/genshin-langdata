@@ -839,12 +839,6 @@
     notes: "七七などからの白朮の呼び名",
   },
   {
-    en: "Yaoyao",
-    ja: "ヨォーヨ",
-    zhCN: "瑶瑶",
-    tags: [ "liyue", "character-sub" ],
-  },
-  {
     en: "Xingyan",
     ja: "星燕",
     zhCN: "星燕",
@@ -881,6 +875,12 @@
     zhCN: "夜兰",
     pronunciationJa: "イェラン",
     tags: [ "liyue", "character-main" ],
+  },
+  {
+    en: "Yaoyao",
+    ja: "ヨォーヨ",
+    zhCN: "瑶瑶",
+    tags: [ "liyue", "character-sub" ],
   },
   {
     en: "Morax",
