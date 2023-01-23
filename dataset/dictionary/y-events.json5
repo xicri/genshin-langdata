@@ -166,6 +166,7 @@
   {
     en: "May Fortune Find You",
     ja: "富貴登門",
+    zhCN: "富贵登门",
     notes: "不定期に期間限定で行われるログインボーナス",
     tags: [ "event" ],
   },
@@ -182,6 +183,7 @@
   {
     en: "The Exquisite Night Chimes",
     ja: "華舞う夜の旋律",
+    zhCN: "磬弦奏华夜",
     pronunciationJa: "はなまうよるのせんりつ",
     notes: "v3.4 期間限定イベント。海灯祭のイベント名",
     tags: [ "event" ],
@@ -189,36 +191,49 @@
   {
     en: "Radiant Sparks",
     ja: "光焔踊躍",
+    zhCN: "光焰蹈跃",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
     tags: [ "event" ],
   },
   {
     en: "A Few Words in the Foreground",
     ja: "幕前二言三言",
+    zhCN: "幕前二三言",
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Paper Theater",
+    ja: "紙映演戯",
+    zhCN: "纸映成戏",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
     tags: [ "event" ],
   },
   {
     en: "Vigilance at Sea",
     ja: "煙海巡廻",
+    zhCN: "烟海梭巡",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
     tags: [ "event" ],
   },
   {
     en: "Behind the Scenes",
     ja: "灯後労績",
+    zhCN: "灯后勤绩",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」の子イベント",
     tags: [ "event" ],
   },
   {
     en: "Iridescent Splendor",
     ja: "彩虹華章",
+    zhCN: "虹彩华章",
     notes: "v3.4 期間中、海灯祭後に配布されるログインボーナス",
     tags: [ "event" ],
   },
   {
     en: "Warrior's Spirit",
     ja: "演舞伝心",
+    zhCN: "演武传心",
     pronunciationJa: "えんぶでんしん",
     notes: "v3.4 期間限定イベント",
     tags: [ "event" ],
@@ -226,6 +241,7 @@
   {
     en: "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl",
     ja: "荒瀧極意堂々虫相撲大試合",
+    zhCN: "荒泷极意堂堂斗虫大试合",
     pronunciationJa: "あらたきごくいどうどうむしずもうおおじあい",
     notes: "v3.4 期間限定イベント",
     tags: [ "event" ],
@@ -233,6 +249,7 @@
   {
     en: "Second Blooming",
     ja: "薔薇が返り咲く頃",
+    zhCN: "蔷薇再开时",
     pronunciationJa: "ばらがかえりざくころ",
     notes: "v3.4 期間限定イベント",
     tags: [ "event" ],
