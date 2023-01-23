@@ -243,6 +243,7 @@
   {
     en: "Flying Serpent",
     ja: "トビヘビ",
+    zhCN: "飞蛇",
     tags: [ "living-being", "enemy", "sumeru" ],
   },
 
