@@ -640,22 +640,26 @@
   {
     en: "Rune Mechanism",
     ja: "符文装置",
+    zhCN: "符文机关",
     tags: [ "object", "sumeru" ],
   },
 
   {
     en: "Cascade Pool",
     ja: "受水槽",
+    zhCN: "蓄水阶池",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Cascade Spout",
     ja: "水の注ぎ口",
+    zhCN: "蓄水喷口",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Sand Grease Pupa",
     ja: "砂脂蛹",
+    zhCN: "沙脂蛹",
     tags: [ "object", "sumeru" ],
   },
 ]
