@@ -1458,9 +1458,6 @@
     en: "Yae Miko",
     ja: "八重神子",
     zhCN: "八重神子",
-    variants: {
-      zhCN: [ "八重寄子" ],
-    },
     pronunciationJa: "やえみこ",
     tags: [ "inazuma", "character-main" ],
   },
