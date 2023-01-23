@@ -185,6 +185,7 @@
   {
     en: "Inversion of Genesis",
     ja: "伽藍に落ちて",
+    zhCN: "倾落伽蓝",
     pronunciationJa: "がらんにおちて",
     tags: [ "sumeru", "quest-archon" ],
   },
@@ -892,6 +893,7 @@
   {
     en: "Film Notes",
     ja: "映影が残す思い出",
+    zhCN: "映影书写札记",
     pronunciationJa: "えいえいがのこすおもいで",
     tags: [ "quest-world", "inazuma" ],
   },
@@ -1136,24 +1138,28 @@
   {
     en: "A Short Encounter with a Rare Bird",
     ja: "珍しき鳥との短い出会い",
+    zhCN: "与珍稀之鸟的短暂邂逅",
     pronunciationJa: "めずらしきとりとのみじかいであい",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "For a Dream I Tarry",
     ja: "夢の気配がまだある内に",
+    zhCN: "趁梦想气息逗留",
     pronunciationJa: "ゆめのけはいがまだあるうちに",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Event Beasts Stumble",
     ja: "獣も足を踏み外す",
+    zhCN: "兽有失蹄",
     pronunciationJa: "けものもあしをふみはずす",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Next Time, On King of Invokations...",
     ja: "『召喚王・下! って…』",
+    zhCN: "《召唤王·下集！是…》",
     tags: [ "sumeru", "quest-world" ],
   },
 
@@ -1161,6 +1167,7 @@
   {
     en: "Nursery of Lost Dreams",
     ja: "夢を失った苗畑",
+    zhCN: "失梦的苗圃",
     pronunciationJa: "ゆめをうしなったなえはた",
     tags: [ "sumeru", "quest-world" ],
     notes: "森林書 第三章",
@@ -1208,12 +1215,14 @@
   {
     en: "Blooming Sands",
     ja: "砂の上の花",
+    zhCN: "沙上花",
     pronunciationJa: "すなのうえのはな",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Join the Eremites and Embrace a Wonderful New Life!",
     ja: "エルマイト旅団に入って、素晴らしい生活を!",
+    zhCN: "加入镀金旅团，拥抱美好生活！",
     pronunciationJa: "エルマイトりょだんにはいって、すばらしいせいかつを",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -1514,6 +1523,7 @@
   {
     en: "Vultur Volans Chapter",
     ja: "隼の章",
+    zhCN: "天隼之章",
     pronunciationJa: "はやぶさのしょう",
     notes: "アルハイゼンの伝説任務",
     tags: [ "sumeru", "quest-story" ],
@@ -1729,12 +1739,14 @@
   {
     en: "Long Distance Love",
     ja: "触れられない恋人",
+    zhCN: "触不可及的恋人",
     pronunciationJa: "ふれられないこいびと",
     tags: [ "quest-daily", "mondstadt" ],
   },
   {
     en: "Lost Key",
     ja: "よくなくなる鍵",
+    zhCN: "钥匙是易丢品",
     pronunciationJa: "よくなくなるかぎ",
     tags: [ "quest-daily", "mondstadt" ],
   },
@@ -2099,11 +2111,13 @@
   {
     en: "Operation Graze",
     ja: "掠草終着",
+    zhCN: "掠草行动",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
     en: "Hey, Come Out!",
     ja: "おい、出てこい!",
+    zhCN: "喂，出来！",
     tags: [ "quest-daily", "sumeru" ],
   },
   {

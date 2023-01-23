@@ -264,6 +264,7 @@
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "蒼古" ],
+      zhCN: [ "苍古" ],
     },
   },
   {
@@ -284,7 +285,7 @@
     tags: [ "weapon", "sword" ],
     variants: {
       ja: [ "波乱" ],
-      zhCN: [ "波波津" ],
+      zhCN: [ "波波津", "波波刀" ],
     },
   },
   {
@@ -297,6 +298,7 @@
   {
     en: "Light of Foliar Incision",
     ja: "萃光の裁葉",
+    zhCN: "裁叶萃光",
     tags: [ "weapon", "sword" ],
   },
 
@@ -513,6 +515,7 @@
     tags: [ "weapon", "claymore" ],
     variants: {
       ja: [ "松韻" ],
+      zhCN: [ "松籁" ],
     },
   },
   {
@@ -520,6 +523,9 @@
     ja: "赤角石塵滅砕",
     zhCN: "赤角石溃杵",
     // source: https://mobile.twitter.com/_GEN_K_/status/1460757357953052674
+    variants: {
+      zhCN: [ "赤角" ],
+    },
     pronunciationJa: "せきかくせきじんめっさい",
     tags: [ "weapon", "claymore" ],
   },
@@ -711,7 +717,7 @@
     tags: [ "weapon", "polearm" ],
     variants: {
       ja: [ "護摩" ],
-      zhCN: [ "护摩" ],
+      zhCN: [ "护摩", "护膜" ],
     },
   },
   {
@@ -968,6 +974,7 @@
     tags: [ "weapon", "bow" ],
     variants: {
       ja: [ "冬極" ],
+      zhCN: [ "冬极" ],
     },
   },
   {
@@ -1173,7 +1180,7 @@
     zhCN: "天空之卷",
     pronunciationJa: "てんくうのまき",
     variants: {
-      zhCN: [ "天空书" ],
+      zhCN: [ "天空书", "厕纸" ],
     },
     tags: [ "weapon", "catalyst" ],
   },

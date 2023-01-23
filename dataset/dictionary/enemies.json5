@@ -1231,6 +1231,9 @@
     ja: "恒常からくり陣形",
     zhCN: "恒常机关阵列",
     pronunciationJa: "こうじょうからくりじんけい",
+    variants: {
+      zhCN: [ "无相之铁", "无相铁" ],
+    },
     tags: [ "enemy-boss", "inazuma" ],
     notes: "perpetual とは「永久の」「永遠に続く」の意。\"perpetual motion machine\" で「永久機関」",
   },
@@ -1527,12 +1530,14 @@
   {
     en: "Eremite Scorching Loremaster",
     ja: "エルマイト旅団・サンドロアマスター",
+    zhCN: "镀金旅团·炽沙叙事人",
     pronunciationJa: "エルマイトりょだん・サンドロアマスター",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Eremite Floral Ring-Dancer",
     ja: "エルマイト旅団・フローラルリングダンサー",
+    zhCN: "镀金旅团·叶轮舞者",
     pronunciationJa: "エルマイトりょだん・フローラルリングダンサー",
     tags: [ "sumeru", "enemy" ],
   },
@@ -1540,24 +1545,28 @@
   {
     en: "Consecrated Beast",
     ja: "聖骸獣",
+    zhCN: "圣骸兽",
     pronunciationJa: "せいがいじゅう",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Consecrated Flying Serpent",
     ja: "聖骸トビヘビ",
+    zhCN: "圣骸飞蛇",
     pronunciationJa: "せいがいトビヘビ",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Consecrated Scorpion",
     ja: "聖骸サソリ",
+    zhCN: "圣骸毒蝎",
     pronunciationJa: "せいがいサソリ",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Consecrated Red Vulture",
     ja: "聖骸赤鷲",
+    zhCN: "圣骸赤鹫",
     pronunciationJa: "せいがいあかわし",
     tags: [ "sumeru", "enemy" ],
   },
@@ -1565,11 +1574,13 @@
   {
     en: "Wenut",
     ja: "ウェネト",
+    zhCN: "沙虫",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Setekh Wenut",
     ja: "風蝕ウェネト",
+    zhCN: "风蚀沙虫",
     tags: [ "sumeru", "enemy" ],
   },
 

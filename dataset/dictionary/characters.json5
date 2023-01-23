@@ -250,6 +250,7 @@
   {
     en: "Sparks 'n' Splash",
     ja: "ドッカン花火",
+    zhCN: "轰轰火花",
     pronunciationJa: "ドッカンはなび",
     tags: [ "mondstadt" ],
   },
@@ -890,6 +891,7 @@
   {
     en: "Yuegui",
     ja: "月桂",
+    zhCN: "月桂",
     pronunciationJa: "ユェーグェイ",
     tags: [ "liyue", "object" ],
     notes: "ヨォーヨの持っている人形 (?)",
@@ -930,6 +932,7 @@
   {
     en: "Streetward Rambler",
     ja: "歌塵浪市真君",
+    zhCN: "歌尘浪市真君",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
     notes: "ピンばあやの称号",
   },
@@ -965,6 +968,7 @@
   {
     en: "Uncle Mountain Shaper",
     ja: "理水おじちゃん",
+    zhCN: "理水叔叔",
     pronunciationJa: "りすいおじちゃん",
     tags: [ "liyue", "how-to-call" ],
     notes: "ヨォーヨの理水畳山真君に対する呼び方",
@@ -979,6 +983,7 @@
   {
     en: "Aunty Cloud Retainer",
     ja: "留雲おばちゃん",
+    zhCN: "留云阿姨",
     pronunciationJa: "りゅううんおばちゃん",
     tags: [ "liyue", "how-to-call" ],
     notes: "ヨォーヨの留雲借風真君に対する呼び方",
@@ -2022,6 +2027,7 @@
   {
     en: "Madam Faruzan",
     ja: "ファルザン先輩",
+    zhCN: "珐露珊前辈",
     tags: [ "sumeru", "how-to-call" ],
     notes: "ファルザンが、自身をこのように呼ぶよう他人に求める呼び方",
   },

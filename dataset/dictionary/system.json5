@@ -669,12 +669,16 @@
   {
     en: "dynamic skin",
     ja: "幻影カードスキン",
-    zhCN: "幻影卡面",
+    zhCN: "影幻牌面",
+    variants: {
+      zhCN: [ "幻影牌面", "幻影卡面", "影幻卡面" ],
+    },
     notes: "七聖召喚のカードの絵が動くようになるスキン",
   },
   {
     en: "Heated Battle Mode",
     ja: "熱闘モード",
+    zhCN: "热斗模式",
     notes: "v3.4 期間限定で七星召喚に導入される特殊ルール",
     tags: [ "event" ],
   },

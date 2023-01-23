@@ -3007,11 +3007,13 @@
   {
     en: "Springbloom Missive",
     ja: "花時に訪れた手紙",
+    zhCN: "花时来信",
     notes: "神里綾華のコスチューム",
   },
   {
     en: "A Sobriquet Under Shade",
     ja: "葉に隠れし芳名",
+    zhCN: "叶隐芳名",
     pronunciationJa: "はにかくれしほうめい",
     notes: "リサのコスチューム",
   },
