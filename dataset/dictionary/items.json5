@@ -2088,7 +2088,21 @@
     tags: [ "item" ],
     notes: "プライマル構造体のドロップアイテム (★4)",
   },
-
+  {
+    en: "Desiccated Shell",
+    ja: "毀れた背骨",
+    pronunciationJa: "やぶれたはいこつ",
+    tags: [ "item" ],
+    notes: "聖骸獣のドロップアイテム (★2)",
+  },
+  {
+    en: "Sturdy Shell",
+    ja: "堅固な背骨",
+    pronunciationJa: "けんごなはいこつ",
+    tags: [ "item" ],
+    notes: "聖骸獣のドロップアイテム (★3)",
+  },
+  // TODO ★4 drop item for Consecrated Beasts
 
   //
   // Potion

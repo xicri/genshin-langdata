@@ -751,11 +751,11 @@
   },
   {
     en: "Mr. Zhongli",
-    ja: "鍾離先生",
+    ja: "鍾離先生 / 鍾離さん",
     zhCN: "钟离先生",
     pronunciationJa: "しょうりせんせい",
     tags: [ "liyue", "how-to-call" ],
-    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。また、英語版で Mr. Zhongli と呼んでいても、日本語では「鍾離さん」となっている時もある: 鍾離のエピソード動画「想定外の支出」における香菱の発言 ([日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80)) など。",
+    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。香菱などは、英語版では Mr. Zhongli、日本語では「鍾離さん」と呼ぶ。(鍾離のエピソード動画「想定外の支出」など [日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80))",
   },
   {
     en: "Xiao",
@@ -932,6 +932,7 @@
   {
     en: "Streetward Rambler",
     ja: "歌塵浪市真君",
+    pronunciationJa: "かじんろういちしんくん",
     zhCN: "歌尘浪市真君",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
     notes: "ピンばあやの称号",
@@ -1137,8 +1138,16 @@
     tags: [ "liyue", "title" ],
   },
   {
+    en: "Sea Gazer",
+    ja: "鳴海栖霞真君",
+    pronunciationJa: "なるみせいかしんくん",
+    tags: [ "liyue", "character-sub" ],
+    notes: "璃月の仙人の一人",
+  },
+  {
     en: "Baiwen",
     ja: "百聞",
+    pronunciationJa: "ひゃくぶん",
     zhCN: "百闻",
     tags: [ "liyue", "character-sub" ],
     notes: "群玉閣の秘書の1人",
@@ -1890,6 +1899,16 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Hanbei",
+    ja: "範兵衛",
+    tags: [ "inazuma", "sumeru", "character-sub" ],
+  },
+  {
+    en: "foreign attaché",
+    ja: "遠国御用",
+    tags: [ "inazuma", "sumeru", "title" ],
+  },
+  {
     en: "Gendou Ringo",
     ja: "玄冬林檎",
     zhCN: "玄冬林檎",
@@ -2261,7 +2280,7 @@
     ja: "ジェイド",
     zhCN: "婕德",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「黄金の眠り」に登場するキャラクター",
+    notes: "世界任務「黄金の眠り」や「ビルキースの哀歌」に登場するキャラクター",
   },
   {
     en: "Jebrael",
@@ -2283,6 +2302,24 @@
     zhCN: "奔奔",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
+  },
+  {
+    en: "Babel Tanit",
+    ja: "バベル・タニット",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+  },
+  {
+    en: "Matriarch",
+    ja: "主母",
+    tags: [ "sumeru", "title" ],
+    notes: "バベル・タニットの役職名",
+  },
+  {
+    en: "Azariq",
+    ja: "アザリク",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
   },
   {
     en: "King Deshret / Scarlet King",
@@ -2694,7 +2731,7 @@
     en: "Il Capitano",
     ja: "カピターノ",
     zhCN: "卡皮塔诺",
-    notes: "[隊長](/the-captain/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[隊長](/the-captain/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2709,7 +2746,7 @@
     en: "Columbina",
     ja: "コロンビーナ",
     zhCN: "哥伦比娅",
-    notes: "[少女](/damselette/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[少女](/damselette/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2724,7 +2761,7 @@
     en: "Arlecchino",
     ja: "アルレッキーノ",
     zhCN: "阿蕾奇诺",
-    notes: "[召使](/the-knave/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[召使](/the-knave/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2739,7 +2776,7 @@
     en: "Sandrone",
     ja: "サンドローネ",
     zhCN: "桑多涅",
-    notes: "[傀儡](/marionette/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[傀儡](/marionette/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2754,7 +2791,7 @@
     en: "Pierro",
     ja: "ピエロ",
     zhCN: "皮耶罗",
-    notes: "[道化](/the-jester/)の通称。以前はペドロリーノという名前だったが変更されたという情報もある。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[道化](/the-jester/)の通称。以前はペドロリーノという名前だったが変更されたという情報もある",
     tags: [ "snezhnaya", "character-sub" ],
     variants: {
       ja: [ "ペドロリーノ" ],

@@ -418,6 +418,11 @@
     zhCN: "蔷薇奶糊",
     tags: [ "food" ],
   },
+  {
+    en: "Crocodile Jerky",
+    ja: "ワニの干し肉",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -560,6 +565,7 @@
   {
     en: "Bamboo Shoot Soup",
     ja: "腌篤鮮",
+    pronunciationJa: "イェンドゥシェン",
     zhCN: "腌笃鲜",
     tags: [ "food" ],
   },
@@ -1113,6 +1119,7 @@
   {
     en: "Slow-Cooked Bamboo Shoot Soup",
     ja: "とろ火で煮込んだ腌篤鮮",
+    pronunciationJa: "とろびでにこんだイェンドゥシェン",
     zhCN: "文火慢炖腌笃鲜",
     tags: [ "food", "liyue" ],
     notes: "鍾離のオリジナル料理",
@@ -1265,6 +1272,13 @@
     tags: [ "food", "sumeru" ],
     notes: "ニィロウのオリジナル料理",
   },
+  {
+    en: "Extravagant Slumber",
+    ja: "安眠へのデザイア",
+    pronunciationJa: "あんみんへのデザイア",
+    tags: [ "food", "sumeru" ],
+    notes: "レイラのオリジナル料理",
+  },
 
   //
   // Ingredients (食材)
@@ -1327,6 +1341,7 @@
   {
     en: "Seagrass",
     ja: "海草",
+    pronunciationJa: "かいそう",
     zhCN: "海草",
     tags: [ "food", "inazuma" ],
   },
@@ -1433,6 +1448,7 @@
   {
     en: "Harra Fruit",
     ja: "ハッラの実",
+    pronunciationJa: "ハッラのみ",
     zhCN: "香辛果",
     tags: [ "food", "sumeru" ],
   },
@@ -1440,6 +1456,12 @@
     en: "Ajilenakh Nut",
     ja: "デーツ",
     zhCN: "枣椰",
+    tags: [ "food", "sumeru" ],
+  },
+  {
+    en: "Mysterious Meat",
+    ja: "謎の肉",
+    pronunciationJa: "なぞのにく",
     tags: [ "food", "sumeru" ],
   },
 ]

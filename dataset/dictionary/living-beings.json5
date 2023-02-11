@@ -251,18 +251,24 @@
     en: "Gator Raja",
     ja: "ゲーターキング",
     zhCN: "鳄鱼大王",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Rishboland Raja",
     ja: "リシュボラン虎のラージャ",
     zhCN: "长鬓虎罗阇",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Sumpter Beastlord",
     ja: "駄獣大王",
     zhCN: "驮兽大王",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Is it an enemy?
+    tags: [ "living-being", "enemy", "sumeru" ],
+  },
+
+  {
+    en: "Jinni",
+    ja: "ジンニー",
+    tags: [ "living-being", "sumeru" ],
   },
 ]

@@ -249,6 +249,12 @@
     tags: [ "mondstadt", "location" ],
     notes: "日本語版ではドーンマンポート (モンド城外のジョーンズが言及) と荊夫港 (千風の神殿南のヘンリーモートンが言及) と表記揺れがある。",
   },
+  {
+    en: "The Mare Jivari",
+    ja: "燼寂海",
+    pronunciationJa: "じんじゃくかい",
+    tags: [ "mondstadt", "location" ],
+  },
 
   {
     en: "Musk Reef",
@@ -525,6 +531,13 @@
     ja: "孤雲閣",
     zhCN: "孤云阁",
     pronunciationJa: "こうんかく",
+    tags: [ "liyue", "location" ],
+  },
+
+  {
+    en: "Qiaoying Village",
+    ja: "翹英荘",
+    pronunciationJa: "ぎょうえいそう",
     tags: [ "liyue", "location" ],
   },
 
@@ -1311,6 +1324,7 @@
   {
     en: "Khaj-Nisut",
     ja: "聖顕殿",
+    pronunciationJa: "せいけんでん",
     zhCN: "圣显厅",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、砂の目から変化する。",
@@ -1326,6 +1340,7 @@
   {
     en: "Abdju Pit",
     ja: "捨身の坑",
+    pronunciationJa: "しゃしんのこう",
     zhCN: "舍身陷坑",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、捨身の道から変化する。",
@@ -1446,6 +1461,92 @@
     ja: "大赤砂海",
     zhCN: "大赤沙海",
     pronunciationJa: "だいせきさかい",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Desert of Hadramaveth",
+    ja: "千尋の砂漠",
+    pronunciationJa: "せんじんのさばく",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Tanit Camps",
+    ja: "タニット露営地",
+    pronunciationJa: "タニットろえいち",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Wadi Al-Majuj",
+    ja: "アル・マジュジ峡谷",
+    pronunciationJa: "アル・マジュジきょうこく",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Temples Forsaken",
+    ja: "神に捨てられた殿閣",
+    pronunciationJa: "かみにすてられたでんかく",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Passage of Ghouls",
+    ja: "亡者狭路",
+    pronunciationJa: "もうじゃきょうろ",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Sands of Al-Azif",
+    ja: "アル・アジフの砂",
+    pronunciationJa: "アル・アジフのすな",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Qusayr Al-Inkhida'",
+    ja: "アル・インキダの行宮",
+    pronunciationJa: "アル・インキダのあんぐう",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Dunes of Steel",
+    ja: "精鋼の砂丘",
+    pronunciationJa: "せいこうのさきゅう",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Mt. Damavand",
+    ja: "ダマーヴァンド山",
+    pronunciationJa: "ダマーヴァンドさん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Wounded Shin Valley",
+    ja: "失脚の谷",
+    pronunciationJa: "しっきゃくのたに",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "The Sands of Three Canals",
+    ja: "「三運河の地」",
+    pronunciationJa: "さんうんがのち",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Debris of Panjvahe",
+    ja: "「五大オアシス」の遺構",
+    pronunciationJa: "ごだいオアシスのいこう",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Gurabad's Ruin - Temple of Deshret",
+    ja: "ジュラバド廃都・キングデシェレト神殿",
+    pronunciationJa: "ジュラバドはいと・キングデシェレトしんでん",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
+    en: "Eternal Oasis",
+    ja: "永遠のオアシス",
+    pronunciationJa: "えいえんのオアシス",
     tags: [ "sumeru", "location" ],
   },
 

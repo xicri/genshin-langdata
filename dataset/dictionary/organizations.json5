@@ -248,7 +248,7 @@
     en: "Forest Rangers / Rebel",
     ja: "レンジャー",
     zhCN: "巡林小队",
-    notes: "Forest Rangers は、ティナリの所属するスメールの組織。Rebel は、不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側。どちらも日本語では「レンジャー」となっている。",
+    notes: "Forest Rangers は、ティナリやコレイの所属するスメールの組織。Rebel は、不定期開催の期間限定イベント「風の行方」(Windtrace) におけるかくれんぼの隠れる側。どちらも日本語では「レンジャー」となっている。",
     tags: [ "sumeru", "organization", "event" ],
   },
   {
@@ -260,13 +260,26 @@
   {
     en: "Corps of Thirty",
     ja: "三十人団",
+    pronunciationJa: "さんじゅうにんだん",
     zhCN: "三十人团",
     tags: [ "sumeru", "organization" ],
   },
   {
     en: "Ayn Al-Ahmar",
     ja: "アフマルの目",
+    pronunciationJa: "アフマルのめ",
     zhCN: "阿赫玛尔之眼",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Gilded Journey",
+    ja: "金砂の旅",
+    tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Tanit tribe",
+    ja: "タニット部族",
+    pronunciationJa: "タニットぶぞく",
     tags: [ "sumeru", "organization" ],
   },
 

@@ -131,6 +131,12 @@
     pronunciationJa: "かいとうさいをしゅくして",
     tags: [ "liyue", "event", "dialogue" ],
   },
+  {
+    en: "Mingxiao Lantern",
+    ja: "明霄の灯",
+    tags: [ "liyue", "object", "event" ],
+    notes: "海灯祭で飛ばされる巨大な仙人を模した像",
+  },
 
   {
     en: "Windtrace",
@@ -180,6 +186,32 @@
   },
 
   // v3.4
+  {
+    en: "Iridescence Tour",
+    ja: "イリデッセンスツアー",
+    notes: "ドヴォルザークらが主催する音楽イベントの名称",
+    tags: [ "event" ],
+  },
+  {
+    en: "Lantern Rite Grand Concert / Lantern Rite music festival",
+    ja: "海灯音楽祭",
+    pronunciationJa: "かいとうおんがくさい",
+    notes: "v3.4 の海灯祭で行われた音楽イベントの名称",
+    tags: [ "event" ],
+  },
+  {
+    en: "Dvorak",
+    ja: "ドヴォルザーク",
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) に登場する人物",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Nascent Bamboo Shoot",
+    ja: "萌蘖のタケノコ",
+    pronunciationJa: "ほうげつのタケノコ",
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) で、鍾離から取ってくるよう言われるタケノコ",
+    tags: [ "event", "item" ],
+  },
   {
     en: "The Exquisite Night Chimes",
     ja: "華舞う夜の旋律",

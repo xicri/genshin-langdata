@@ -344,6 +344,19 @@
     tags: [ "dragonspine", "quest-world" ],
   },
 
+  {
+    en: "Battlefield of Dice, Cats, and Cards",
+    ja: "サイコロ、猫とカードの戦場",
+    pronunciationJa: "サイコロ、ねことカードのせんじょう",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Come Try Genius Invokation TCG!",
+    ja: "「七聖召喚」をやってみよう!",
+    pronunciationJa: "しちせいしょうかんをやってみよう",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+
   // Liyue
   {
     en: "...What Do Adventurers Do Again?",
@@ -1162,6 +1175,18 @@
     zhCN: "《召唤王·下集！是…》",
     tags: [ "sumeru", "quest-world" ],
   },
+  {
+    en: "Gourmet Supremos: Within Our Duties", // TODO Check if "The" is prepended after I checked this quest name
+    ja: "全能グルメチーム・責務の範囲内",
+    pronunciationJa: "ぜんのうグルメチーム・せきむのはんいない",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "The Gourmet Supremos: Cleanup",
+    ja: "全能グルメチーム・収束",
+    pronunciationJa: "ぜんのうグルメチーム・しゅうそく",
+    tags: [ "sumeru", "quest-world" ],
+  },
 
   // Aranyaka and related
   {
@@ -1210,6 +1235,12 @@
     ja: "古き物語と新しき友人",
     zhCN: "旧语新知",
     pronunciationJa: "ふるきものがたりとあたらしきゆうじん",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "The Dirge of Bilqis",
+    ja: "ビルキースの哀歌",
+    pronunciationJa: "ビルキースのあいか",
     tags: [ "sumeru", "quest-world" ],
   },
   {
@@ -1871,6 +1902,12 @@
     tags: [ "inazuma", "quest-daily" ],
   },
   {
+    en: "O Shrine, Show Your Power Once Again!",
+    ja: "祠よ、もう一度姿を現してください!",
+    pronunciationJa: "ほこらよ、もういちどすがたをあらわしてください",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
     en: "Playing With Fire... Works",
     ja: "花火試し打ち計画",
     zhCN: "烟花试玩计划",
@@ -2109,6 +2146,11 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "Fungi Buster",
+    ja: "絶対に許さない!",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "Operation Graze",
     ja: "掠草終着",
     zhCN: "掠草行动",
@@ -2132,6 +2174,12 @@
     ja: "大樹・根を張る",
     zhCN: "大树·扎根态",
     pronunciationJa: "たいじゅ・ねをはる",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Doctor's Orders",
+    ja: "医者の言うことは絶対",
+    pronunciationJa: "いしゃのいうことはぜったい",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
@@ -2172,9 +2220,21 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "Attaché in Another Land",
+    ja: "異国の御用掛",
+    pronunciationJa: "いこくのごようがかり",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "Meow... Meow meow? Meow! Meow.",
     ja: "ニャ…ニャニャ? ニャ! ニャオ。",
     zhCN: "喵…喵喵？喵！喵。",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Good Medicine Is Hard to Come By",
+    ja: "良薬は得がたい",
+    pronunciationJa: "りょうやくはえがたい",
     tags: [ "quest-daily", "sumeru" ],
   },
 

@@ -682,6 +682,12 @@
     notes: "v3.4 期間限定で七星召喚に導入される特殊ルール",
     tags: [ "event" ],
   },
+  {
+    en: "Casket of Tomes",
+    ja: "秘典の箱",
+    notes: "七聖召喚のプレイヤーを探知できるアイテム",
+    tags: [ "item" ],
+  },
 
   //
   // Inazuma
