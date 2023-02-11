@@ -2694,7 +2694,7 @@
     en: "Il Capitano",
     ja: "カピターノ",
     zhCN: "卡皮塔诺",
-    notes: "[隊長](/the-captain/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[隊長](/the-captain/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2709,7 +2709,7 @@
     en: "Columbina",
     ja: "コロンビーナ",
     zhCN: "哥伦比娅",
-    notes: "[少女](/damselette/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[少女](/damselette/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2724,7 +2724,7 @@
     en: "Arlecchino",
     ja: "アルレッキーノ",
     zhCN: "阿蕾奇诺",
-    notes: "[召使](/the-knave/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[召使](/the-knave/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2739,7 +2739,7 @@
     en: "Sandrone",
     ja: "サンドローネ",
     zhCN: "桑多涅",
-    notes: "[傀儡](/marionette/)の通称。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[傀儡](/marionette/)の通称",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -2754,7 +2754,7 @@
     en: "Pierro",
     ja: "ピエロ",
     zhCN: "皮耶罗",
-    notes: "[道化](/the-jester/)の通称。以前はペドロリーノという名前だったが変更されたという情報もある。日本語表記の公式情報は未確認であり、誤りの可能性がある。",
+    notes: "[道化](/the-jester/)の通称。以前はペドロリーノという名前だったが変更されたという情報もある",
     tags: [ "snezhnaya", "character-sub" ],
     variants: {
       ja: [ "ペドロリーノ" ],
