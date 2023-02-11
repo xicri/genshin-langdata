@@ -751,11 +751,11 @@
   },
   {
     en: "Mr. Zhongli",
-    ja: "鍾離先生",
+    ja: "鍾離先生 / 鍾離さん",
     zhCN: "钟离先生",
     pronunciationJa: "しょうりせんせい",
     tags: [ "liyue", "how-to-call" ],
-    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。また、英語版で Mr. Zhongli と呼んでいても、日本語では「鍾離さん」となっている時もある: 鍾離のエピソード動画「想定外の支出」における香菱の発言 ([日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80)) など。",
+    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。香菱などは、英語版では Mr. Zhongli、日本語では「鍾離さん」と呼ぶ。(鍾離のエピソード動画「想定外の支出」など [日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80))",
   },
   {
     en: "Xiao",
