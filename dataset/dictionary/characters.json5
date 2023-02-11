@@ -932,6 +932,7 @@
   {
     en: "Streetward Rambler",
     ja: "歌塵浪市真君",
+    pronunciationJa: "かじんろういちしんくん",
     zhCN: "歌尘浪市真君",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
     notes: "ピンばあやの称号",
@@ -1139,6 +1140,7 @@
   {
     en: "Baiwen",
     ja: "百聞",
+    pronunciationJa: "ひゃくぶん",
     zhCN: "百闻",
     tags: [ "liyue", "character-sub" ],
     notes: "群玉閣の秘書の1人",

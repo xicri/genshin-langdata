@@ -260,12 +260,14 @@
   {
     en: "Corps of Thirty",
     ja: "三十人団",
+    pronunciationJa: "さんじゅうにんだん",
     zhCN: "三十人团",
     tags: [ "sumeru", "organization" ],
   },
   {
     en: "Ayn Al-Ahmar",
     ja: "アフマルの目",
+    pronunciationJa: "アフマルのめ",
     zhCN: "阿赫玛尔之眼",
     tags: [ "sumeru", "organization" ],
   },

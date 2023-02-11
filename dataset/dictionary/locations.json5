@@ -1311,6 +1311,7 @@
   {
     en: "Khaj-Nisut",
     ja: "聖顕殿",
+    pronunciationJa: "せいけんでん",
     zhCN: "圣显厅",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、砂の目から変化する。",
@@ -1326,6 +1327,7 @@
   {
     en: "Abdju Pit",
     ja: "捨身の坑",
+    pronunciationJa: "しゃしんのこう",
     zhCN: "舍身陷坑",
     tags: [ "sumeru", "location" ],
     notes: "世界任務「黄金の眠り」の途中で、捨身の道から変化する。",

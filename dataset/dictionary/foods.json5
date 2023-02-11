@@ -560,6 +560,7 @@
   {
     en: "Bamboo Shoot Soup",
     ja: "腌篤鮮",
+    pronunciationJa: "イェンドゥシェン",
     zhCN: "腌笃鲜",
     tags: [ "food" ],
   },
@@ -1113,6 +1114,7 @@
   {
     en: "Slow-Cooked Bamboo Shoot Soup",
     ja: "とろ火で煮込んだ腌篤鮮",
+    pronunciationJa: "とろびでにこんだイェンドゥシェン",
     zhCN: "文火慢炖腌笃鲜",
     tags: [ "food", "liyue" ],
     notes: "鍾離のオリジナル料理",
@@ -1327,6 +1329,7 @@
   {
     en: "Seagrass",
     ja: "海草",
+    pronunciationJa: "かいそう",
     zhCN: "海草",
     tags: [ "food", "inazuma" ],
   },
@@ -1433,6 +1436,7 @@
   {
     en: "Harra Fruit",
     ja: "ハッラの実",
+    pronunciationJa: "ハッラのみ",
     zhCN: "香辛果",
     tags: [ "food", "sumeru" ],
   },
