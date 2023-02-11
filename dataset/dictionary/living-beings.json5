@@ -265,4 +265,10 @@
     zhCN: "驮兽大王",
     tags: [ "living-being", "enemy", "sumeru" ],
   },
+
+  {
+    en: "Jinni",
+    ja: "ジンニー",
+    tags: [ "living-being", "sumeru" ],
+  },
 ]

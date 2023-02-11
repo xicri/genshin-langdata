@@ -268,4 +268,14 @@
     tags: [ "dialogue" ],
     notes: "雷電将軍の元素スキル発動時のセリフ",
   },
+
+  //
+  // Sumeru
+  //
+  {
+    en: "world... forget me...",
+    ja: "世界が…私を…忘れて…",
+    pronunciationJa: "せかいが…わたしを…わすれて…",
+    tags: [ "dialogue", "sumeru" ],
+  },
 ]

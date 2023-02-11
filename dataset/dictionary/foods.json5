@@ -418,6 +418,11 @@
     zhCN: "蔷薇奶糊",
     tags: [ "food" ],
   },
+  {
+    en: "Crocodile Jerky",
+    ja: "ワニの干し肉",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -1267,6 +1272,13 @@
     tags: [ "food", "sumeru" ],
     notes: "ニィロウのオリジナル料理",
   },
+  {
+    en: "Extravagant Slumber",
+    ja: "安眠へのデザイア",
+    pronunciationJa: "あんみんへのデザイア",
+    tags: [ "food", "sumeru" ],
+    notes: "レイラのオリジナル料理",
+  },
 
   //
   // Ingredients (食材)
@@ -1444,6 +1456,12 @@
     en: "Ajilenakh Nut",
     ja: "デーツ",
     zhCN: "枣椰",
+    tags: [ "food", "sumeru" ],
+  },
+  {
+    en: "Mysterious Meat",
+    ja: "謎の肉",
+    pronunciationJa: "なぞのにく",
     tags: [ "food", "sumeru" ],
   },
 ]

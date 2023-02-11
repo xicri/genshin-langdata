@@ -396,6 +396,11 @@
     tags: [ "sumeru", "domain" ],
   },
   {
+    en: "City of Gold",
+    ja: "赤金の廃城",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
     en: "Joururi Workshop",
     ja: "淨琉璃工房",
     zhCN: "净琉璃工坊",

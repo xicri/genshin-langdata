@@ -1138,6 +1138,13 @@
     tags: [ "liyue", "title" ],
   },
   {
+    en: "Sea Gazer",
+    ja: "鳴海栖霞真君",
+    pronunciationJa: "なるみせいかしんくん",
+    tags: [ "liyue", "character-sub" ],
+    notes: "璃月の仙人の一人",
+  },
+  {
     en: "Baiwen",
     ja: "百聞",
     pronunciationJa: "ひゃくぶん",
@@ -1892,6 +1899,16 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Hanbei",
+    ja: "範兵衛",
+    tags: [ "inazuma", "sumeru", "character-sub" ],
+  },
+  {
+    en: "foreign attaché",
+    ja: "遠国御用",
+    tags: [ "inazuma", "sumeru", "title" ],
+  },
+  {
     en: "Gendou Ringo",
     ja: "玄冬林檎",
     zhCN: "玄冬林檎",
@@ -2285,6 +2302,24 @@
     zhCN: "奔奔",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
+  },
+  {
+    en: "Babel Tanit",
+    ja: "バベル・タニット",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+  },
+  {
+    en: "Matriarch",
+    ja: "主母",
+    tags: [ "sumeru", "title" ],
+    notes: "バベル・タニットの役職名",
+  },
+  {
+    en: "Azariq",
+    ja: "アザリク",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
   },
   {
     en: "King Deshret / Scarlet King",
