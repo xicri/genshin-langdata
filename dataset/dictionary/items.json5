@@ -2902,6 +2902,13 @@
   // Quest Items
   //
   {
+    en: "Cleansing Bell",
+    ja: "洗塵の鈴",
+    pronunciationJa: "せんじんのすず",
+    tags: [ "liyue" ],
+    notes: "ピンばあやが持っているベル",
+  },
+  {
     en: "Key of the Moon-bathed Deep",
     ja: "月浴淵の鍵",
     zhCN: "月浴渊之钥",

@@ -1279,6 +1279,13 @@
     tags: [ "food", "sumeru" ],
     notes: "レイラのオリジナル料理",
   },
+  {
+    en: "Ideal Circumstance",
+    ja: "「理想的状況」",
+    pronunciationJa: "りそうてきじょうきょう",
+    tags: [ "food", "sumeru" ],
+    notes: "アルハイゼンのオリジナル料理",
+  },
 
   //
   // Ingredients (食材)
