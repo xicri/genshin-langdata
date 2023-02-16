@@ -1487,6 +1487,14 @@
     ja: "神に捨てられた殿閣",
     pronunciationJa: "かみにすてられたでんかく",
     tags: [ "sumeru", "location" ],
+    notes: "世界任務「ビルキースの哀歌」の途中で「神の碁盤」に変化する",
+  },
+  {
+    en: "Safhe Shatranj",
+    ja: "「神の碁盤」",
+    pronunciationJa: "かみのごばん",
+    tags: [ "sumeru", "location" ],
+    notes: "世界任務「ビルキースの哀歌」の途中で神に捨てられた殿閣から変化する",
   },
   {
     en: "Passage of Ghouls",

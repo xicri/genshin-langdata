@@ -160,6 +160,11 @@
     tags: [ "inazuma", "facility" ],
   },
   {
+    en: "Outlander Affairs Agency",
+    ja: "遠国監察",
+    tags: [ "inazuma", "facility", "organization" ],
+  },
+  {
     en: "Syavushi Bakshesh Shoppe",
     ja: "豊穣の願い",
     zhCN: "葱茏之愿",
