@@ -162,6 +162,7 @@
   {
     en: "Outlander Affairs Agency",
     ja: "遠国監察",
+    zhCN: "远国监司",
     tags: [ "inazuma", "facility", "organization" ],
   },
   {
