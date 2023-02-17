@@ -685,6 +685,7 @@
   {
     en: "Casket of Tomes",
     ja: "秘典の箱",
+    zhCN: "秘典之盒",
     notes: "七聖召喚のプレイヤーを探知できるアイテム",
     tags: [ "item" ],
   },
