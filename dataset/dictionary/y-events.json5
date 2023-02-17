@@ -134,6 +134,7 @@
   {
     en: "Mingxiao Lantern",
     ja: "明霄の灯",
+    zhCN: "明霄灯",
     tags: [ "liyue", "object", "event" ],
     notes: "海灯祭で飛ばされる巨大な仙人を模した像",
   },
@@ -189,12 +190,14 @@
   {
     en: "Iridescence Tour",
     ja: "イリデッセンスツアー",
+    zhCN: "虹色巡回",
     notes: "ドヴォルザークらが主催する音楽イベントの名称",
     tags: [ "event" ],
   },
   {
     en: "Lantern Rite Grand Concert / Lantern Rite music festival",
     ja: "海灯音楽祭",
+    zhCN: "海灯音乐节",
     pronunciationJa: "かいとうおんがくさい",
     notes: "v3.4 の海灯祭で行われた音楽イベントの名称",
     tags: [ "event" ],
@@ -202,12 +205,14 @@
   {
     en: "Dvorak",
     ja: "ドヴォルザーク",
+    zhCN: "德沃沙克",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) に登場する人物",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Nascent Bamboo Shoot",
     ja: "萌蘖のタケノコ",
+    zhCN: "萌蘖的竹笋",
     pronunciationJa: "ほうげつのタケノコ",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) で、鍾離から取ってくるよう言われるタケノコ",
     tags: [ "event", "item" ],
