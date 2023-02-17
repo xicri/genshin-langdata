@@ -1140,6 +1140,7 @@
   {
     en: "Sea Gazer",
     ja: "鳴海栖霞真君",
+    zhCN: "鸣海栖霞真君",
     pronunciationJa: "なるみせいかしんくん",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月の仙人の一人",
@@ -1901,11 +1902,13 @@
   {
     en: "Hanbei",
     ja: "範兵衛",
+    zhCN: "范兵卫",
     tags: [ "inazuma", "sumeru", "character-sub" ],
   },
   {
     en: "foreign attaché",
     ja: "遠国御用",
+    zhCN: "远国御用",
     tags: [ "inazuma", "sumeru", "title" ],
   },
   {
@@ -2306,18 +2309,21 @@
   {
     en: "Babel Tanit",
     ja: "バベル・タニット",
+    zhCN: "芭别尔·塔尼特",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
   },
   {
     en: "Matriarch",
     ja: "主母",
+    zhCN: "主母",
     tags: [ "sumeru", "title" ],
     notes: "バベル・タニットの役職名",
   },
   {
     en: "Azariq",
     ja: "アザリク",
+    zhCN: "阿萨里格",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
   },
