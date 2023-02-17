@@ -274,11 +274,13 @@
   {
     en: "Gilded Journey",
     ja: "金砂の旅",
+    zhCN: "金砂之旅",
     tags: [ "sumeru", "organization" ],
   },
   {
     en: "Tanit tribe",
     ja: "タニット部族",
+    zhCN: "塔尼特部族",
     pronunciationJa: "タニットぶぞく",
     tags: [ "sumeru", "organization" ],
   },

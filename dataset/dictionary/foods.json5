@@ -421,6 +421,7 @@
   {
     en: "Crocodile Jerky",
     ja: "ワニの干し肉",
+    zhCN: "鳄鱼肉干",
     tags: [ "food" ],
   },
 
@@ -1275,6 +1276,7 @@
   {
     en: "Extravagant Slumber",
     ja: "安眠へのデザイア",
+    zhCN: "安眠奢想",
     pronunciationJa: "あんみんへのデザイア",
     tags: [ "food", "sumeru" ],
     notes: "レイラのオリジナル料理",
@@ -1282,6 +1284,7 @@
   {
     en: "Ideal Circumstance",
     ja: "「理想的状況」",
+    zhCN: "「理想情况」",
     pronunciationJa: "りそうてきじょうきょう",
     tags: [ "food", "sumeru" ],
     notes: "アルハイゼンのオリジナル料理",
@@ -1468,6 +1471,7 @@
   {
     en: "Mysterious Meat",
     ja: "謎の肉",
+    zhCN: "神秘的肉",
     pronunciationJa: "なぞのにく",
     tags: [ "food", "sumeru" ],
   },

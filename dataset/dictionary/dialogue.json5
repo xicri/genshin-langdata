@@ -275,6 +275,7 @@
   {
     en: "world... forget me...",
     ja: "世界が…私を…忘れて…",
+    zhCN: "…世界…遗忘我…",
     pronunciationJa: "せかいが…わたしを…わすれて…",
     tags: [ "dialogue", "sumeru" ],
   },

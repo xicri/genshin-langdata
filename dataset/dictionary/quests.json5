@@ -347,12 +347,14 @@
   {
     en: "Battlefield of Dice, Cats, and Cards",
     ja: "サイコロ、猫とカードの戦場",
+    zhCN: "骰子、猫与卡牌的战场",
     pronunciationJa: "サイコロ、ねことカードのせんじょう",
     tags: [ "mondstadt", "quest-world" ],
   },
   {
     en: "Come Try Genius Invokation TCG!",
     ja: "「七聖召喚」をやってみよう!",
+    zhCN: "来试试「七圣召唤」吧！",
     pronunciationJa: "しちせいしょうかんをやってみよう",
     tags: [ "mondstadt", "quest-world" ],
   },
@@ -1178,12 +1180,14 @@
   {
     en: "Gourmet Supremos: Within Our Duties", // TODO Check if "The" is prepended after I checked this quest name
     ja: "全能グルメチーム・責務の範囲内",
+    zhCN: "全能美食队·职责之内",
     pronunciationJa: "ぜんのうグルメチーム・せきむのはんいない",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "The Gourmet Supremos: Cleanup",
     ja: "全能グルメチーム・収束",
+    zhCN: "全能美食队·收束",
     pronunciationJa: "ぜんのうグルメチーム・しゅうそく",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -1240,6 +1244,7 @@
   {
     en: "The Dirge of Bilqis",
     ja: "ビルキースの哀歌",
+    zhCN: "比勒琪丝的哀歌",
     pronunciationJa: "ビルキースのあいか",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -1904,6 +1909,7 @@
   {
     en: "O Shrine, Show Your Power Once Again!",
     ja: "祠よ、もう一度姿を現してください!",
+    zhCN: "神龛啊，再次显灵吧！",
     pronunciationJa: "ほこらよ、もういちどすがたをあらわしてください",
     tags: [ "inazuma", "quest-daily" ],
   },
@@ -2148,6 +2154,7 @@
   {
     en: "Fungi Buster",
     ja: "絶対に許さない!",
+    zhCN: "绝不菇息！",
     tags: [ "quest-daily", "sumeru" ],
   },
   {
@@ -2179,6 +2186,7 @@
   {
     en: "Doctor's Orders",
     ja: "医者の言うことは絶対",
+    zhCN: "谨遵医嘱",
     pronunciationJa: "いしゃのいうことはぜったい",
     tags: [ "quest-daily", "sumeru" ],
   },
@@ -2222,6 +2230,7 @@
   {
     en: "Attaché in Another Land",
     ja: "異国の御用掛",
+    zhCN: "御用在他乡",
     pronunciationJa: "いこくのごようがかり",
     tags: [ "quest-daily", "sumeru" ],
   },
@@ -2234,6 +2243,7 @@
   {
     en: "Good Medicine Is Hard to Come By",
     ja: "良薬は得がたい",
+    zhCN: "良药难求",
     pronunciationJa: "りょうやくはえがたい",
     tags: [ "quest-daily", "sumeru" ],
   },

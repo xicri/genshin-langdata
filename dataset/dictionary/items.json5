@@ -2091,6 +2091,7 @@
   {
     en: "Desiccated Shell",
     ja: "毀れた背骨",
+    zhCN: "残毁的横脊",
     pronunciationJa: "やぶれたはいこつ",
     tags: [ "item" ],
     notes: "聖骸獣のドロップアイテム (★2)",
@@ -2098,6 +2099,7 @@
   {
     en: "Sturdy Shell",
     ja: "堅固な背骨",
+    zhCN: "密固的横脊",
     pronunciationJa: "けんごなはいこつ",
     tags: [ "item" ],
     notes: "聖骸獣のドロップアイテム (★3)",
@@ -2904,6 +2906,7 @@
   {
     en: "Cleansing Bell",
     ja: "洗塵の鈴",
+    zhCN: "涤尘铃",
     pronunciationJa: "せんじんのすず",
     tags: [ "liyue" ],
     notes: "ピンばあやが持っているベル",
