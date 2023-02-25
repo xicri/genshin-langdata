@@ -190,6 +190,14 @@
     tags: [ "sumeru", "quest-archon" ],
   },
 
+  // Traveler
+  {
+    en: "Caribert",
+    ja: "カリベルト",
+    tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務 第三章第六幕",
+  },
+
   //
   // World Quests
   //
@@ -242,6 +250,12 @@
     ja: "暴風の後の問題",
     zhCN: "风暴后遗症",
     pronunciationJa: "ぼうふうのあとのもんだい",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Leaves on the Wind",
+    ja: "落ちた葉は風となる",
+    pronunciationJa: "おちたははかぜとなる",
     tags: [ "mondstadt", "quest-world" ],
   },
   {

@@ -186,6 +186,57 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v3.5
+  {
+    en: "Windblume's Breath",
+    ja: "風花の吐息",
+    pronunciationJa: "ウィンドブルームのといき",
+    notes: "v3.5 期間限定イベント。風花祭。",
+    tags: [ "event" ],
+  },
+  {
+    en: "Floral Pursuit",
+    ja: "ブロッサムを追い求めて",
+    pronunciationJa: "ブロッサムをおいもとめて",
+    notes: "v3.5 期間限定イベント「風花の吐息」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Ballads of Breeze",
+    ja: "そよ風のバラッド",
+    pronunciationJa: "そよかぜのバラッド",
+    notes: "v3.5 期間限定イベント「風花の吐息」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Breezy Snapshots",
+    ja: "風吹きのスナップ",
+    pronunciationJa: "かぜふきのスナップ",
+    notes: "v3.5 期間限定イベント「風花の吐息」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Fungus Mechanicus",
+    ja: "チエキノコン布陣",
+    pronunciationJa: "チエキノコンふじん",
+    notes: "v3.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Vibro-Crystal Verification",
+    ja: "振晶の照合実験",
+    pronunciationJa: "しんしょうのしょうごうじっけん",
+    notes: "v3.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Spices From the West: Northerly Search",
+    ja: "西より届く香り・北地のグルメ",
+    pronunciationJa: "にしよりとどくかおり・ほくちのグルメ",
+    notes: "v3.5 期間限定イベント",
+    tags: [ "event" ],
+  },
+
   // v3.4
   {
     en: "Iridescence Tour",
@@ -279,9 +330,28 @@
     en: "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl",
     ja: "荒瀧極意堂々虫相撲大試合",
     zhCN: "荒泷极意堂堂斗虫大试合",
-    pronunciationJa: "あらたきごくいどうどうむしずもうおおじあい",
+    pronunciationJa: "あらたきごくいどうどうむしずもうだいじあい",
     notes: "v3.4 期間限定イベント",
     tags: [ "event" ],
+  },
+  {
+    en: "Grandmaster Hanakado",
+    ja: "花角玉将",
+    pronunciationJa: "はなかどぎょくしょう",
+    notes: "v3.4 期間限定イベント「荒瀧極意堂々虫相撲大試合」に登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Bona-Fide Beetle Battle King",
+    ja: "真剣虫相撲大鬼王",
+    notes: "v3.4 期間限定イベント「荒瀧極意堂々虫相撲大試合」で荒瀧一斗が自称する称号",
+    tags: [ "event", "title" ],
+  },
+  {
+    en: "Crimson Staff",
+    ja: "赤紅一杵",
+    notes: "v3.4 期間限定イベント「荒瀧極意堂々虫相撲大試合」で荒瀧一斗らプレイヤー側が戦わせるオニカブトムシ",
+    tags: [ "event", "character-sub" ],
   },
   {
     en: "Second Blooming",
@@ -1300,7 +1370,7 @@
     ja: "風花祭",
     zhCN: "风花节",
     pronunciationJa: "ウインドブルームさい",
-    notes: "v1.4 期間限定イベント。モンドの祭り。",
+    notes: "v1.4 及び v3.5 期間限定イベント。モンドの祭り。",
     tags: [ "mondstadt", "event" ],
   },
   {

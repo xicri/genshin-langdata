@@ -478,6 +478,18 @@
     pronunciationJa: "マカイラのみずいろ",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "Mailed Flower",
+    ja: "鉄彩の花",
+    tags: [ "weapon", "claymore" ],
+  },
+  {
+    en: "Unfading Silky Grace",
+    ja: "枯れぬ絹の花",
+    pronunciationJa: "かれぬきぬのはな",
+    tags: [ "weapon" ],
+    notes: "鉄彩の花の精錬素材",
+  },
   // ★5
   {
     en: "Skyward Pride",
@@ -527,6 +539,12 @@
       zhCN: [ "赤角" ],
     },
     pronunciationJa: "せきかくせきじんめっさい",
+    tags: [ "weapon", "claymore" ],
+  },
+  {
+    en: "Beacon of the Reed Sea",
+    ja: "葦海の標",
+    pronunciationJa: "いかいのしらべ",
     tags: [ "weapon", "claymore" ],
   },
 

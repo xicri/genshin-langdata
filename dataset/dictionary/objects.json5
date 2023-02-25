@@ -657,9 +657,9 @@
     tags: [ "object", "sumeru" ],
   },
   {
-    en: "Sand Grease Pupa",
-    ja: "砂脂蛹",
-    zhCN: "沙脂蛹",
+    en: "Pipe Diverter Valve",
+    ja: "パイプのステアリングバルブ",
     tags: [ "object", "sumeru" ],
+    notes: "千尋の砂漠の地下遺跡にある、砂が通るパイプの繋がり方を変えるためのバルブ",
   },
 ]

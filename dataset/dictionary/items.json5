@@ -2104,7 +2104,12 @@
     tags: [ "item" ],
     notes: "聖骸獣のドロップアイテム (★3)",
   },
-  // TODO ★4 drop item for Consecrated Beasts
+  {
+    en: "Marked Shell",
+    ja: "刻紋の背骨",
+    tags: [ "item" ],
+    notes: "聖骸獣のドロップアイテム (★4)",
+  },
 
   //
   // Potion
@@ -2428,6 +2433,12 @@
     en: "Redcrest",
     ja: "赤念の実",
     zhCN: "赤念果",
+    tags: [ "specialty", "item", "sumeru" ],
+  },
+  {
+    en: "Sand Grease Pupa",
+    ja: "砂脂蛹",
+    zhCN: "沙脂蛹",
     tags: [ "specialty", "item", "sumeru" ],
   },
 
