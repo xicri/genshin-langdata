@@ -390,6 +390,7 @@
   {
     en: "Front-Line Surveyor",
     ja: "前進測量士",
+    zhCN: "前进测绘员",
     pronunciationJa: "ぜんしんそくりょうし",
     tags: [ "mondstadt", "title" ],
     notes: "ミカの西風騎士団における職名",
@@ -1511,6 +1512,7 @@
   {
     en: "beetle fighting",
     ja: "虫相撲",
+    zhCN: "斗虫",
     pronunciationJa: "むしずもう",
     tags: [ "inazuma" ],
   },
@@ -1563,6 +1565,7 @@
   {
     en: "Captain of Swordfish Ⅱ",
     ja: "メカジキ二番隊隊長",
+    zhCN: "剑鱼二番队队长",
     pronunciationJa: "メカジキにばんたいたいちょう",
     tags: [ "inazuma", "title" ],
   },
@@ -2328,6 +2331,7 @@
   {
     en: "Samail",
     ja: "サミエル",
+    zhCN: "萨梅尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
   },
@@ -2348,6 +2352,7 @@
   {
     en: "Liloupar",
     ja: "リルパァール",
+    zhCN: "利露帕尔",
     tags: [ "sumeru", "character-sub", "item" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
   },
@@ -2361,6 +2366,7 @@
   {
     en: "Aderfi",
     ja: "アデルフィ",
+    zhCN: "阿德菲",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
   },
