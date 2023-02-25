@@ -388,6 +388,13 @@
     tags: [ "mondstadt", "character-main" ],
   },
   {
+    en: "Front-Line Surveyor",
+    ja: "前進測量士",
+    pronunciationJa: "ぜんしんそくりょうし",
+    tags: [ "mondstadt", "title" ],
+    notes: "ミカの西風騎士団における職名",
+  },
+  {
     en: "surveyor of the Reconnaissance Company",
     ja: "遊撃小隊の測量士",
     zhCN: "游击小队测绘员",
@@ -1502,6 +1509,12 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "beetle fighting",
+    ja: "虫相撲",
+    pronunciationJa: "むしずもう",
+    tags: [ "inazuma" ],
+  },
+  {
     en: "Kuki Shinobu",
     ja: "久岐忍",
     zhCN: "久岐忍",
@@ -1546,6 +1559,12 @@
         ref: "ゴロー, 第二章 第三幕 千手百目の浮世",
       },
     ],
+  },
+  {
+    en: "Captain of Swordfish Ⅱ",
+    ja: "メカジキ二番隊隊長",
+    pronunciationJa: "メカジキにばんたいたいちょう",
+    tags: [ "inazuma", "title" ],
   },
   {
     en: "Kujou Sara",
@@ -2307,6 +2326,12 @@
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
   },
   {
+    en: "Samail",
+    ja: "サミエル",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「黄金の眠り」に登場するキャラクター",
+  },
+  {
     en: "Babel Tanit",
     ja: "バベル・タニット",
     zhCN: "芭别尔·塔尼特",
@@ -2321,9 +2346,21 @@
     notes: "バベル・タニットの役職名",
   },
   {
+    en: "Liloupar",
+    ja: "リルパァール",
+    tags: [ "sumeru", "character-sub", "item" ],
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+  },
+  {
     en: "Azariq",
     ja: "アザリク",
     zhCN: "阿萨里格",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+  },
+  {
+    en: "Aderfi",
+    ja: "アデルフィ",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
   },

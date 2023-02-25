@@ -538,7 +538,11 @@
     tags: [ "sumeru" ],
     notes: "アアル村に追放された、精神に異常をきたした学者のこと",
   },
-
+  {
+    en: "Great Vayuvyastra",
+    ja: "大マッハマシン",
+    tags: [ "sumeru" ],
+  },
 
   //
   // Snezhnaya / Fatui

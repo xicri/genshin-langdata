@@ -2104,7 +2104,12 @@
     tags: [ "item" ],
     notes: "聖骸獣のドロップアイテム (★3)",
   },
-  // TODO ★4 drop item for Consecrated Beasts
+  {
+    en: "Marked Shell",
+    ja: "刻紋の背骨",
+    tags: [ "item" ],
+    notes: "聖骸獣のドロップアイテム (★4)",
+  },
 
   //
   // Potion

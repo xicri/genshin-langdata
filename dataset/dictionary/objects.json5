@@ -656,4 +656,10 @@
     zhCN: "蓄水喷口",
     tags: [ "object", "sumeru" ],
   },
+  {
+    en: "Pipe Diverter Valve",
+    ja: "パイプのステアリングバルブ",
+    tags: [ "object", "sumeru" ],
+    notes: "千尋の砂漠の地下遺跡にある、砂が通るパイプの繋がり方を変えるためのバルブ",
+  },
 ]

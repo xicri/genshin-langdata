@@ -1566,6 +1566,30 @@
     pronunciationJa: "ジュラバドはいと・キングデシェレトしんでん",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Liloupar's Cell",
+    ja: "ジンニー牢獄",
+    pronunciationJa: "ジンニーろうごく",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Bayt Al-Hayah",
+    ja: "アル・ハヤー宮殿",
+    pronunciationJa: "アル・ハヤーきゅうでん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Bayt Al-Muazzam",
+    ja: "アル・ムアザン宮殿",
+    pronunciationJa: "アル・ムアザンきゅうでん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Deshret's Glass Goblet",
+    ja: "「キングデシェレトの水晶杯」",
+    pronunciationJa: "キングデシェレトのすいしょうはい",
+    tags: [ "sumeru", "location" ],
+  },
 
   {
     en: "Eternal Oasis",
