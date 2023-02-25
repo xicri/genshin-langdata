@@ -656,10 +656,4 @@
     zhCN: "蓄水喷口",
     tags: [ "object", "sumeru" ],
   },
-  {
-    en: "Sand Grease Pupa",
-    ja: "砂脂蛹",
-    zhCN: "沙脂蛹",
-    tags: [ "object", "sumeru" ],
-  },
 ]
