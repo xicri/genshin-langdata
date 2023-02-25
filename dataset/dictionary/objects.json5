@@ -659,6 +659,7 @@
   {
     en: "Pipe Diverter Valve",
     ja: "パイプのステアリングバルブ",
+    zhCN: "管道转向阀",
     tags: [ "object", "sumeru" ],
     notes: "千尋の砂漠の地下遺跡にある、砂が通るパイプの繋がり方を変えるためのバルブ",
   },
