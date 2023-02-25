@@ -1300,7 +1300,7 @@
     ja: "風花祭",
     zhCN: "风花节",
     pronunciationJa: "ウインドブルームさい",
-    notes: "v1.4 期間限定イベント。モンドの祭り。",
+    notes: "v1.4 及び v3.5 期間限定イベント。モンドの祭り。",
     tags: [ "mondstadt", "event" ],
   },
   {
