@@ -194,6 +194,7 @@
   {
     en: "Caribert",
     ja: "カリベルト",
+    zhCN: "卡利贝尔",
     tags: [ "sumeru", "quest-archon" ],
     notes: "魔神任務 第三章第六幕",
   },
@@ -255,6 +256,7 @@
   {
     en: "Leaves on the Wind",
     ja: "落ちた葉は風となる",
+    zhCN: "落叶归风",
     pronunciationJa: "おちたははかぜとなる",
     tags: [ "mondstadt", "quest-world" ],
   },

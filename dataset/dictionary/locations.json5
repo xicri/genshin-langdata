@@ -1569,24 +1569,28 @@
   {
     en: "Liloupar's Cell",
     ja: "ジンニー牢獄",
+    zhCN: "镇灵监牢",
     pronunciationJa: "ジンニーろうごく",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Bayt Al-Hayah",
     ja: "アル・ハヤー宮殿",
+    zhCN: "生命之殿",
     pronunciationJa: "アル・ハヤーきゅうでん",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Bayt Al-Muazzam",
     ja: "アル・ムアザン宮殿",
+    zhCN: "君王之殿",
     pronunciationJa: "アル・ムアザンきゅうでん",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Deshret's Glass Goblet",
     ja: "「キングデシェレトの水晶杯」",
+    zhCN: "「赤王的水晶杯」",
     pronunciationJa: "キングデシェレトのすいしょうはい",
     tags: [ "sumeru", "location" ],
   },

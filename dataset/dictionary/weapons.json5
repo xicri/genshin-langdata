@@ -481,11 +481,13 @@
   {
     en: "Mailed Flower",
     ja: "鉄彩の花",
+    zhCN: "饰铁之花",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Unfading Silky Grace",
     ja: "枯れぬ絹の花",
+    zhCN: "不凋的绢华",
     pronunciationJa: "かれぬきぬのはな",
     tags: [ "weapon" ],
     notes: "鉄彩の花の精錬素材",
@@ -544,6 +546,7 @@
   {
     en: "Beacon of the Reed Sea",
     ja: "葦海の標",
+    zhCN: "苇海信标",
     pronunciationJa: "いかいのしらべ",
     tags: [ "weapon", "claymore" ],
   },
