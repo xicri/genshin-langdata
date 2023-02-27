@@ -602,6 +602,12 @@
     tags: [ "enemy" ],
   },
   {
+    en: "Abyss Herald: Frost Fall",
+    ja: "アビスの使徒・落霜",
+    pronunciationJa: "あびすのしと・らくそう", // TODO Need Check
+    tags: [ "enemy" ],
+  },
+  {
     en: "Abyss Lector: Violet Lightning",
     ja: "アビスの詠唱者・紫電",
     zhCN: "深渊咏者·紫电",
@@ -1346,6 +1352,12 @@
     ja: "黒蛇騎士・斬風の剣",
     zhCN: "黑蛇骑士·斩风之剑",
     pronunciationJa: "こくじゃきし・ざんぷうのけん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Black Serpent Knight: Rockbreaker Ax",
+    ja: "黒蛇騎士・砕岩の斧",
+    pronunciationJa: "こくじゃきし・さいがんのおの", // TODO Need Check
     tags: [ "enemy" ],
   },
   {

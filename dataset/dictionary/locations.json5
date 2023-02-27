@@ -1560,6 +1560,11 @@
     tags: [ "sumeru", "location" ],
   },
   {
+    en: "Wenut Tunnels",
+    ja: "ウェネトトンネル",
+    tags: [ "sumeru", "location" ],
+  },
+  {
     en: "Gurabad's Ruin - Temple of Deshret",
     ja: "ジュラバド廃都・キングデシェレト神殿",
     zhCN: "居尔城墟·赤王神殿",
@@ -1585,6 +1590,12 @@
     ja: "アル・ムアザン宮殿",
     zhCN: "君王之殿",
     pronunciationJa: "アル・ムアザンきゅうでん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Bayt Al-Sukr",
+    ja: "アル・スークル宮殿",
+    pronunciationJa: "アル・スークルきゅうでん",
     tags: [ "sumeru", "location" ],
   },
   {
