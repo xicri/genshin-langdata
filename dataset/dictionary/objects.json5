@@ -663,4 +663,28 @@
     tags: [ "object", "sumeru" ],
     notes: "千尋の砂漠の地下遺跡にある、砂が通るパイプの繋がり方を変えるためのバルブ",
   },
+  {
+    en: "Dual-Phase Neverlight Cell",
+    ja: "二相減光ユニット",
+    pronunciationJa: "にそうげんこうユニット",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Dual-Phase Everlight Cell",
+    ja: "二相常光ユニット",
+    pronunciationJa: "にそうじょうこうユニット",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Jinn Shrine",
+    ja: "ジンニーの祠",
+    pronunciationJa: "ジンニーのほこら",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Jinn Branch",
+    ja: "ジンニーの枝",
+    pronunciationJa: "ジンニーのえだ",
+    tags: [ "object", "sumeru" ],
+  },
 ]

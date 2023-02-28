@@ -424,6 +424,11 @@
     zhCN: "鳄鱼肉干",
     tags: [ "food" ],
   },
+  {
+    en: "Samosa",
+    ja: "サモサ",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {

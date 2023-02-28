@@ -1581,6 +1581,13 @@
     tags: [ "sumeru", "quest-story" ],
   },
   {
+    en: "Mantichora Chapter",
+    ja: "マンティコアの章",
+    pronunciationJa: "マンティコアのしょう",
+    notes: "ディシアの伝説任務",
+    tags: [ "sumeru", "quest-story" ],
+  },
+  {
     en: "Sapientia Oromasdis Chapter",
     ja: "知恵の主の章",
     zhCN: "智慧主之章",

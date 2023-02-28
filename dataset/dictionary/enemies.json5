@@ -444,6 +444,7 @@
     zhCN: "遗迹机兵",
     pronunciationJa: "いせききへい",
     tags: [ "enemy" ],
+    notes: "遺跡巡視者・遺跡偵察者・遺跡防衛者・遺跡殲滅者の総称",
   },
   {
     en: "Ruin Cruiser",
@@ -598,6 +599,12 @@
     ja: "アビスの使徒・激流",
     zhCN: "深渊使徒·激流",
     pronunciationJa: "アビスのしと・げきりゅう",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Abyss Herald: Frost Fall",
+    ja: "アビスの使徒・落霜",
+    pronunciationJa: "あびすのしと・らくそう", // TODO Need Check
     tags: [ "enemy" ],
   },
   {
@@ -1345,6 +1352,12 @@
     ja: "黒蛇騎士・斬風の剣",
     zhCN: "黑蛇骑士·斩风之剑",
     pronunciationJa: "こくじゃきし・ざんぷうのけん",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Black Serpent Knight: Rockbreaker Ax",
+    ja: "黒蛇騎士・砕岩の斧",
+    pronunciationJa: "こくじゃきし・さいがんのおの", // TODO Need Check
     tags: [ "enemy" ],
   },
   {

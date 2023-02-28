@@ -1560,6 +1560,11 @@
     tags: [ "sumeru", "location" ],
   },
   {
+    en: "Wenut Tunnels",
+    ja: "ウェネトトンネル",
+    tags: [ "sumeru", "location" ],
+  },
+  {
     en: "Gurabad's Ruin - Temple of Deshret",
     ja: "ジュラバド廃都・キングデシェレト神殿",
     zhCN: "居尔城墟·赤王神殿",
@@ -1588,19 +1593,25 @@
     tags: [ "sumeru", "location" ],
   },
   {
+    en: "Bayt Al-Sukr",
+    ja: "アル・スークル宮殿",
+    pronunciationJa: "アル・スークルきゅうでん",
+    tags: [ "sumeru", "location" ],
+  },
+  {
     en: "Deshret's Glass Goblet",
     ja: "「キングデシェレトの水晶杯」",
     zhCN: "「赤王的水晶杯」",
     pronunciationJa: "キングデシェレトのすいしょうはい",
     tags: [ "sumeru", "location" ],
   },
-
   {
-    en: "Eternal Oasis",
-    ja: "永遠のオアシス",
+    en: "The Orchard of Pairidaeza / Eternal Oasis",
+    ja: "「永遠のオアシス」",
     zhCN: "永恒绿洲",
     pronunciationJa: "えいえんのオアシス",
     tags: [ "sumeru", "location" ],
+    notes: "マップ上の表記としては The Orchard of Pairidaeza となっているが、一部テキストにおいては Eternal Oasis と表記されている箇所もある",
   },
 
   //

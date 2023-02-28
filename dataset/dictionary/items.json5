@@ -642,6 +642,12 @@
     tags: [ "levelup-material", "item" ],
     notes: "無相の草のドロップアイテム。滅諍とは仏教の戒律の一種で、僧団内での裁判規定のようなもの。参照: [Wikipedia](https://ja.wikipedia.org/wiki/%E6%BB%85%E8%AB%8D)",
   },
+  {
+    en: "Pseudo-Stamens",
+    ja: "蒼礫蕊羽",
+    tags: [ "levelup-material", "item" ],
+    notes: "風蝕ウェネトのドロップアイテム",
+  },
   // Dvalin
   {
     en: "Dvalin's Plume",
@@ -1600,6 +1606,7 @@
     zhCN: "黑晶号角",
     pronunciationJa: "こくしょうのつのぶえ",
     tags: [ "item" ],
+    notes: "ヒルチャール暴徒・ヒルチャール王者のドロップアイテム (★4)",
   },
   {
     en: "Black Bronze Horn",
@@ -1607,6 +1614,7 @@
     zhCN: "黑铜号角",
     pronunciationJa: "こくどうのつのぶえ",
     tags: [ "item" ],
+    notes: "ヒルチャール暴徒・ヒルチャール王者のドロップアイテム (★3)",
   },
   {
     en: "Heavy Horn",
@@ -1614,6 +1622,7 @@
     zhCN: "沉重号角",
     pronunciationJa: "おもいつのぶえ",
     tags: [ "item" ],
+    notes: "ヒルチャール暴徒・ヒルチャール王者のドロップアイテム (★2)",
   },
   {
     en: "Lay Line Sprout",
@@ -1621,6 +1630,7 @@
     zhCN: "地脉的新芽",
     pronunciationJa: "ちみゃくのしんめ",
     tags: [ "item" ],
+    notes: "アビスの魔術師のドロップアイテム (★4)",
   },
   {
     en: "Dead Lay Line Leaves",
@@ -1628,12 +1638,14 @@
     zhCN: "地脉的枯叶",
     pronunciationJa: "ちみゃくのかれは",
     tags: [ "item" ],
+    notes: "アビスの魔術師のドロップアイテム (★3)",
   },
   {
     en: "Dead Lay Line Branch",
     ja: "地脈の旧枝",
     zhCN: "地脉的旧枝",
     tags: [ "item" ],
+    notes: "アビスの魔術師のドロップアイテム (★2)",
   },
   {
     en: "Chaos Core",
@@ -1641,6 +1653,7 @@
     zhCN: "混沌炉心",
     pronunciationJa: "こんとんのろしん",
     tags: [ "item" ],
+    notes: "遺跡守衛・遺跡ハンター・遺跡重機のドロップアイテム (★4)",
   },
   {
     en: "Chaos Circuit",
@@ -1648,6 +1661,7 @@
     zhCN: "混沌回路",
     pronunciationJa: "こんとんのかいろ",
     tags: [ "item" ],
+    notes: "遺跡守衛・遺跡ハンター・遺跡重機のドロップアイテム (★3)",
   },
   {
     en: "Chaos Device",
@@ -1655,6 +1669,7 @@
     zhCN: "混沌装置",
     pronunciationJa: "こんとんのそうち",
     tags: [ "item" ],
+    notes: "遺跡守衛・遺跡ハンター・遺跡重機のドロップアイテム (★2)",
   },
   {
     en: "Chaos Oculus",
@@ -1662,6 +1677,7 @@
     zhCN: "混沌真眼",
     pronunciationJa: "こんとんのしんがん",
     tags: [ "item" ],
+    notes: "遺跡機兵のドロップアイテム (★4)",
   },
   {
     en: "Chaos Axis",
@@ -1669,6 +1685,7 @@
     zhCN: "混沌枢纽",
     pronunciationJa: "こんとんのちゅうすう",
     tags: [ "item" ],
+    notes: "遺跡機兵のドロップアイテム (★3)",
   },
   {
     en: "Chaos Gear",
@@ -1676,6 +1693,7 @@
     zhCN: "混沌机关",
     pronunciationJa: "こんとんのきかん",
     tags: [ "item" ],
+    notes: "遺跡機兵のドロップアイテム (★2)",
   },
   {
     en: "Chaos Bolt",
@@ -1683,6 +1701,7 @@
     zhCN: "混沌锚栓",
     pronunciationJa: "こんとんボルト",
     tags: [ "item" ],
+    notes: "遺跡ドレイクのドロップアイテム (★4)",
   },
   {
     en: "Chaos Module",
@@ -1690,6 +1709,7 @@
     zhCN: "混沌模块",
     pronunciationJa: "こんとんモジュール",
     tags: [ "item" ],
+    notes: "遺跡ドレイクのドロップアイテム (★3)",
   },
   {
     en: "Chaos Storage",
@@ -1697,6 +1717,7 @@
     zhCN: "混沌容器",
     pronunciationJa: "こんとんストレージ",
     tags: [ "item" ],
+    notes: "遺跡ドレイクのドロップアイテム (★2)",
   },
   {
     en: "Mist Grass Wick",
@@ -1704,6 +1725,7 @@
     zhCN: "雾虚灯芯",
     pronunciationJa: "きりうつろのとうしん",
     tags: [ "item" ],
+    notes: "蛍術師のドロップアイテム (★4)",
   },
   {
     en: "Mist Grass",
@@ -1711,6 +1733,7 @@
     zhCN: "雾虚草囊",
     pronunciationJa: "きりうつろのそうのう",
     tags: [ "item" ],
+    notes: "蛍術師のドロップアイテム (★3)",
   },
   {
     en: "Mist Grass Pollen",
@@ -1718,6 +1741,7 @@
     zhCN: "雾虚花粉",
     pronunciationJa: "きりうつろのかふん",
     tags: [ "item" ],
+    notes: "蛍術師のドロップアイテム (★2)",
   },
   {
     en: "Inspector's Sacrificial Knife",
@@ -1725,6 +1749,7 @@
     zhCN: "督察长祭刀",
     pronunciationJa: "けんさかんのかたな",
     tags: [ "item" ],
+    notes: "デットエージェントのドロップアイテム (★4)",
   },
   {
     en: "Agent's Sacrificial Knife",
@@ -1732,6 +1757,7 @@
     zhCN: "特工祭刀",
     pronunciationJa: "エージェントのかたな",
     tags: [ "item" ],
+    notes: "デットエージェントのドロップアイテム (★3)",
   },
   {
     en: "Hunter's Sacrificial Knife",
@@ -1739,6 +1765,7 @@
     zhCN: "猎兵祭刀",
     pronunciationJa: "りょうへいのかたな",
     tags: [ "item" ],
+    notes: "デットエージェントのドロップアイテム (★2)",
   },
   {
     en: "Polarizing Prism",
@@ -1746,6 +1773,7 @@
     zhCN: "偏光棱镜",
     pronunciationJa: "へんこうプリズム",
     tags: [ "item" ],
+    notes: "ミラーメイデンのドロップアイテム (★4)",
   },
   {
     en: "Crystal Prism",
@@ -1753,6 +1781,7 @@
     zhCN: "水晶棱镜",
     pronunciationJa: "すいしょうプリズム",
     tags: [ "item" ],
+    notes: "ミラーメイデンのドロップアイテム (★3)",
   },
   {
     en: "Dismal Prism",
@@ -1760,6 +1789,7 @@
     zhCN: "黯淡棱镜",
     pronunciationJa: "あんしょくプリズム",
     tags: [ "item" ],
+    notes: "ミラーメイデンのドロップアイテム (★2)",
   },
   {
     en: "Fossilized Bone Shard",
@@ -1767,6 +1797,7 @@
     zhCN: "石化的骨片",
     pronunciationJa: "せきかしたこっぺん",
     tags: [ "item" ],
+    notes: "ヴィシャップのドロップアイテム (★4)",
   },
   {
     en: "Sturdy Bone Shard",
@@ -1774,6 +1805,7 @@
     zhCN: "结实的骨片",
     pronunciationJa: "じょうぶなこっぺん",
     tags: [ "item" ],
+    notes: "ヴィシャップのドロップアイテム (★3)",
   },
   {
     en: "Fragile Bone Shard",
@@ -1781,12 +1813,14 @@
     zhCN: "脆弱的骨片",
     pronunciationJa: "もろいこっぺん",
     tags: [ "item" ],
+    notes: "ヴィシャップのドロップアイテム (★2)",
   },
   {
     en: "Slime Concentrate",
     ja: "スライムのピュレ",
     zhCN: "史莱姆原浆",
     tags: [ "item" ],
+    notes: "スライムのドロップアイテム (★3)",
   },
   {
     en: "Slime Secretions",
@@ -1794,6 +1828,7 @@
     zhCN: "史莱姆清",
     pronunciationJa: "スライムのぶんぴつぶつ",
     tags: [ "item" ],
+    notes: "スライムのドロップアイテム (★2)",
   },
   {
     en: "Slime Condensate",
@@ -1801,6 +1836,7 @@
     zhCN: "史莱姆凝液",
     pronunciationJa: "スライムのえきたい",
     tags: [ "item" ],
+    notes: "スライムのドロップアイテム (★1)",
   },
   {
     en: "Spectral Nucleus",
@@ -1808,6 +1844,7 @@
     zhCN: "浮游晶化核",
     pronunciationJa: "フライムのしょうかかく",
     tags: [ "item" ],
+    notes: "フライムのドロップアイテム (★3)",
   },
   {
     en: "Spectral Heart",
@@ -1815,6 +1852,7 @@
     zhCN: "浮游幽核",
     pronunciationJa: "フライムのゆうかく",
     tags: [ "item" ],
+    notes: "フライムのドロップアイテム (★2)",
   },
   {
     en: "Spectral Husk",
@@ -1822,6 +1860,7 @@
     zhCN: "浮游干核",
     pronunciationJa: "フライムのかんかく",
     tags: [ "item" ],
+    notes: "フライムのドロップアイテム (★1)",
   },
   {
     en: "Ominous Mask",
@@ -1829,6 +1868,7 @@
     zhCN: "不祥的面具",
     pronunciationJa: "ふきつなかめん",
     tags: [ "item" ],
+    notes: "ヒルチャールのドロップアイテム (★3)",
   },
   {
     en: "Stained Mask",
@@ -1836,6 +1876,7 @@
     zhCN: "污秽的面具",
     pronunciationJa: "よごれたかめん",
     tags: [ "item" ],
+    notes: "ヒルチャールのドロップアイテム (★2)",
   },
   {
     en: "Damaged Mask",
@@ -1843,6 +1884,7 @@
     zhCN: "破损的面具",
     pronunciationJa: "はそんしたかめん",
     tags: [ "item" ],
+    notes: "ヒルチャールのドロップアイテム (★1)",
   },
   {
     en: "Forbidden Curse Scroll",
@@ -1850,6 +1892,7 @@
     zhCN: "禁咒绘卷",
     pronunciationJa: "きんじゅのえまき",
     tags: [ "item" ],
+    notes: "ヒルチャールシャーマンのドロップアイテム (★3)",
   },
   {
     en: "Sealed Scroll",
@@ -1857,6 +1900,7 @@
     zhCN: "封魔绘卷",
     pronunciationJa: "ふうまのえまき",
     tags: [ "item" ],
+    notes: "ヒルチャールシャーマンのドロップアイテム (★2)",
   },
   {
     en: "Divining Scroll",
@@ -1864,6 +1908,7 @@
     zhCN: "导能绘卷",
     pronunciationJa: "うらないのえまき",
     tags: [ "item" ],
+    notes: "ヒルチャールシャーマンのドロップアイテム (★1)",
   },
   {
     en: "Weathered Arrowhead",
@@ -1871,6 +1916,7 @@
     zhCN: "历战的箭簇",
     pronunciationJa: "れきせんのやさき",
     tags: [ "item" ],
+    notes: "ヒルチャール・射手のドロップアイテム (★3)",
   },
   {
     en: "Sharp Arrowhead",
@@ -1878,6 +1924,7 @@
     zhCN: "锐利的箭簇",
     pronunciationJa: "えいりなやさき",
     tags: [ "item" ],
+    notes: "ヒルチャール・射手のドロップアイテム (★2)",
   },
   {
     en: "Firm Arrowhead",
@@ -1885,6 +1932,7 @@
     zhCN: "牢固的箭簇",
     pronunciationJa: "ろうこなやさき",
     tags: [ "item" ],
+    notes: "ヒルチャール・射手のドロップアイテム (★1)",
   },
   {
     en: "Lieutenant's Insignia",
@@ -1892,6 +1940,7 @@
     zhCN: "尉官的徽记",
     pronunciationJa: "いかんのきしょう",
     tags: [ "item" ],
+    notes: "ファデュイのドロップアイテム (★3)",
   },
   {
     en: "Sergeant's Insignia",
@@ -1899,6 +1948,7 @@
     zhCN: "士官的徽记",
     pronunciationJa: "しかんのきしょう",
     tags: [ "item" ],
+    notes: "ファデュイのドロップアイテム (★2)",
   },
   {
     en: "Recruit's Insignia",
@@ -1906,6 +1956,7 @@
     zhCN: "新兵的徽记",
     pronunciationJa: "しんぺいのきしょう",
     tags: [ "item" ],
+    notes: "ファデュイのドロップアイテム (★1)",
   },
   {
     en: "Golden Raven Insignia",
@@ -1913,6 +1964,7 @@
     zhCN: "擢金鸦印",
     pronunciationJa: "ゴールドのカラスマーク",
     tags: [ "item" ],
+    notes: "宝盗団のドロップアイテム (★3)",
   },
   {
     en: "Silver Raven Insignia",
@@ -1920,6 +1972,7 @@
     zhCN: "藏银鸦印",
     pronunciationJa: "シルバーのカラスマーク",
     tags: [ "item" ],
+    notes: "宝盗団のドロップアイテム (★2)",
   },
   {
     en: "Treasure Hoarder Insignia",
@@ -1927,6 +1980,7 @@
     zhCN: "寻宝鸦印",
     pronunciationJa: "たからさがしのカラスマーク",
     tags: [ "item" ],
+    notes: "宝盗団のドロップアイテム (★1)",
   },
   {
     en: "Energy Nectar",
@@ -1934,12 +1988,14 @@
     zhCN: "原素花蜜",
     pronunciationJa: "げんそばなのみつ",
     tags: [ "item" ],
+    notes: "トリックフラワーのドロップアイテム (★3)",
   },
   {
     en: "Shimmering Nectar",
     ja: "微光花の蜜",
     zhCN: "微光花蜜",
     tags: [ "item" ],
+    notes: "トリックフラワーのドロップアイテム (★2)",
   },
   {
     en: "Whopperflower Nectar",
@@ -1947,6 +2003,7 @@
     zhCN: "骗骗花蜜",
     pronunciationJa: "トリックフラワーのみつ",
     tags: [ "item" ],
+    notes: "トリックフラワーのドロップアイテム (★1)",
   },
   {
     en: "Old Handguard",
@@ -1954,6 +2011,7 @@
     zhCN: "破旧的刀镡",
     pronunciationJa: "ふるびたつば",
     tags: [ "item" ],
+    notes: "野伏衆のドロップアイテム (★1)",
   },
   {
     en: "Kageuchi Handguard",
@@ -1961,6 +2019,7 @@
     zhCN: "影打刀镡",
     pronunciationJa: "かげうちのつば",
     tags: [ "item" ],
+    notes: "野伏衆のドロップアイテム (★2)",
   },
   {
     en: "Famed Handguard",
@@ -1968,24 +2027,28 @@
     zhCN: "名刀镡",
     pronunciationJa: "めいとうのつば",
     tags: [ "item" ],
+    notes: "野伏衆のドロップアイテム (★3)",
   },
   {
     en: "Concealed Claw",
     ja: "隠獣の指爪",
     zhCN: "隐兽指爪",
     tags: [ "item" ],
+    notes: "獣域ウルブズのドロップアイテム (★2)",
   },
   {
     en: "Concealed Unguis",
     ja: "隠獣の利爪",
     zhCN: "隐兽利爪",
     tags: [ "item" ],
+    notes: "獣域ウルブズのドロップアイテム (★3)",
   },
   {
     en: "Concealed Talon",
     ja: "隠獣の鬼爪",
     zhCN: "隐兽鬼爪",
     tags: [ "item" ],
+    notes: "獣域ウルブズのドロップアイテム (★4)",
   },
   {
     en: "Fungal Spores",
@@ -1993,18 +2056,21 @@
     zhCN: "蕈兽孢子",
     pronunciationJa: "キノコンのほうし",
     tags: [ "item" ],
+    notes: "キノコンのドロップアイテム (★1)",
   },
   {
     en: "Luminescent Pollen",
     ja: "キノコンの蛍胞子",
     zhCN: "荧光孢粉",
     tags: [ "item" ],
+    notes: "キノコンのドロップアイテム (★2)",
   },
   {
     en: "Crystalline Cyst Dust",
     ja: "キノコンの晶胞子",
     zhCN: "孢囊晶尘",
     tags: [ "item" ],
+    notes: "キノコンのドロップアイテム (★3)",
   },
   {
     en: "Inactivated Fungal Nucleus",
@@ -2012,6 +2078,7 @@
     pronunciationJa: "キノコンのすいきんかく", // No reference
     zhCN: "失活菌核",
     tags: [ "item" ],
+    notes: "活発・枯燥状態のキノコンのドロップアイテム (★2)",
   },
   {
     en: "Dormant Fungal Nucleus",
@@ -2019,6 +2086,7 @@
     pronunciationJa: "キノコンのみんきんかく", // No reference
     zhCN: "休眠菌核",
     tags: [ "item" ],
+    notes: "活発・枯燥状態のキノコンのドロップアイテム (★3)",
   },
   {
     en: "Robust Fungal Nucleus",
@@ -2026,6 +2094,7 @@
     zhCN: "茁壮菌核",
     pronunciationJa: "キノコンのそうきんかく", // No reference
     tags: [ "item" ],
+    notes: "活発・枯燥状態のキノコンのドロップアイテム (★4)",
   },
   {
     en: "Gloomy Statuette",
@@ -2033,6 +2102,7 @@
     zhCN: "晦暗刻像",
     pronunciationJa: "あんかいのちょうこく",
     tags: [ "item" ],
+    notes: "黒蛇衆のドロップアイテム (★2)",
   },
   {
     en: "Dark Statuette",
@@ -2040,6 +2110,7 @@
     zhCN: "夤夜刻像",
     pronunciationJa: "こくやのちょうこく",
     tags: [ "item" ],
+    notes: "黒蛇衆のドロップアイテム (★3)",
   },
   {
     en: "Deathly Statuette",
@@ -2047,6 +2118,7 @@
     zhCN: "幽邃刻像",
     pronunciationJa: "ゆうすいなるちょうこく",
     tags: [ "item" ],
+    notes: "黒蛇衆のドロップアイテム (★4)",
   },
   {
     en: "Faded Red Satin",
@@ -2054,18 +2126,21 @@
     zhCN: "褪色红绸",
     pronunciationJa: "いろあせたあかいきぬ",
     tags: [ "item" ],
+    notes: "エルマイト旅団のドロップアイテム (★1)",
   },
   {
     en: "Trimmed Red Silk",
     ja: "縁飾の赤い絹",
     zhCN: "镶边红绸",
     tags: [ "item" ],
+    notes: "エルマイト旅団のドロップアイテム (★2)",
   },
   {
     en: "Rich Red Brocade",
     ja: "金織の赤い絹",
     zhCN: "织金红绸",
     tags: [ "item" ],
+    notes: "エルマイト旅団のドロップアイテム (★3)",
   },
   {
     en: "Damaged Prism",
