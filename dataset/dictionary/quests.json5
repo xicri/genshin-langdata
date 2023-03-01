@@ -1583,6 +1583,7 @@
   {
     en: "Mantichora Chapter",
     ja: "マンティコアの章",
+    zhCN: "蝎尾鬃狮之章",
     pronunciationJa: "マンティコアのしょう",
     notes: "ディシアの伝説任務",
     tags: [ "sumeru", "quest-story" ],
