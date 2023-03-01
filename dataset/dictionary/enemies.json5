@@ -604,6 +604,7 @@
   {
     en: "Abyss Herald: Frost Fall",
     ja: "アビスの使徒・落霜",
+    zhCN: "深渊使徒·霜落",
     pronunciationJa: "あびすのしと・らくそう", // TODO Need Check
     tags: [ "enemy" ],
   },
@@ -1357,6 +1358,7 @@
   {
     en: "Black Serpent Knight: Rockbreaker Ax",
     ja: "黒蛇騎士・砕岩の斧",
+    zhCN: "黑蛇骑士·摧岩之钺",
     pronunciationJa: "こくじゃきし・さいがんのおの", // TODO Need Check
     tags: [ "enemy" ],
   },
