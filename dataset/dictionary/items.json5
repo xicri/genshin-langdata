@@ -645,6 +645,7 @@
   {
     en: "Pseudo-Stamens",
     ja: "蒼礫蕊羽",
+    zhCN: "苍砾蕊羽",
     tags: [ "levelup-material", "item" ],
     notes: "風蝕ウェネトのドロップアイテム",
   },
