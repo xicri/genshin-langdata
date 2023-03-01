@@ -666,24 +666,28 @@
   {
     en: "Dual-Phase Neverlight Cell",
     ja: "二相減光ユニット",
+    zhCN: "二相噬光元件",
     pronunciationJa: "にそうげんこうユニット",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Dual-Phase Everlight Cell",
     ja: "二相常光ユニット",
+    zhCN: "二相恒光元件",
     pronunciationJa: "にそうじょうこうユニット",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Jinn Shrine",
     ja: "ジンニーの祠",
+    zhCN: "镇灵神龛",
     pronunciationJa: "ジンニーのほこら",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Jinn Branch",
     ja: "ジンニーの枝",
+    zhCN: "镇灵之枝",
     pronunciationJa: "ジンニーのえだ",
     tags: [ "object", "sumeru" ],
   },
