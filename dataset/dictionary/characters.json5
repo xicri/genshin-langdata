@@ -2567,12 +2567,14 @@
   {
     en: "Ilyas",
     ja: "イリヤース",
+    zhCN: "伊利亚斯",
     tags: [ "sumeru", "character-sub" ],
     notes: "アルハイゼンの伝説任務に登場するキャラクター",
   },
   {
     en: "Siraj",
     ja: "シラージ",
+    zhCN: "西拉杰",
     tags: [ "sumeru", "character-sub" ],
     notes: "アルハイゼンの伝説任務に登場するキャラクター",
   },
@@ -2580,18 +2582,21 @@
   {
     en: "Eide",
     ja: "エデ",
+    zhCN: "埃德",
     tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
   },
   {
     en: "Chlothar Alberich",
     ja: "コロタール・アルベリヒ",
+    zhCN: "克洛达尔·亚尔伯里奇",
     tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
   },
   {
     en: "Sinner",
     ja: "罪人",
+    zhCN: "罪人",
     pronunciationJa: "つみびと",
     tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",

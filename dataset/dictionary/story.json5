@@ -547,12 +547,14 @@
   {
     en: "the Hive",
     ja: "蜂の巣",
+    zhCN: "蜂巢",
     tags: [ "sumeru" ],
     notes: "アルハイゼンの伝説任務で、シラージが構築した集団",
   },
   {
     en: "collective consciousness",
     ja: "ハイブマインド",
+    zhCN: "集群意识",
     tags: [ "sumeru" ],
     notes: "アルハイゼンの伝説任務で、シラージが開発した仕組み",
   },
@@ -596,6 +598,7 @@
   {
     en: "curse of immortality",
     ja: "不死の呪い",
+    zhCN: "不死诅咒",
     notes: "ダインスレイヴなど一部のカーンルイア人が掛けられた呪い",
   },
 
