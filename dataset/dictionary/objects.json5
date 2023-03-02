@@ -183,6 +183,7 @@
   {
     en: "Defiled Statue",
     ja: "穢れた逆さ神像",
+    zhCN: "污秽逆位神像",
     pronunciationJa: "けがれたさかさしんぞう",
     tags: [ "object", "mondstadt" ],
   },
