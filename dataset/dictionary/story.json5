@@ -544,6 +544,18 @@
     zhCN: "大风机关",
     tags: [ "sumeru" ],
   },
+  {
+    en: "the Hive",
+    ja: "蜂の巣",
+    tags: [ "sumeru" ],
+    notes: "アルハイゼンの伝説任務で、シラージが構築した集団",
+  },
+  {
+    en: "collective consciousness",
+    ja: "ハイブマインド",
+    tags: [ "sumeru" ],
+    notes: "アルハイゼンの伝説任務で、シラージが開発した仕組み",
+  },
 
   //
   // Snezhnaya / Fatui
@@ -574,12 +586,17 @@
     en: "Loom of Fate",
     ja: "運命の織機",
     zhCN: "命运的织机",
-    pronunciationJa: "うんめいのおりき",
+    pronunciationJa: "うんめいのしょっき",
   },
   {
     en: "Inteyvat",
     ja: "インテイワット",
     zhCN: "因提瓦特",
+  },
+  {
+    en: "curse of immortality",
+    ja: "不死の呪い",
+    notes: "ダインスレイヴなど一部のカーンルイア人が掛けられた呪い",
   },
 
   //
