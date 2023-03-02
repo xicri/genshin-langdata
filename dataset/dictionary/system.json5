@@ -411,6 +411,7 @@
   {
     en: "Activated",
     ja: "活発状態",
+    zhCN: "活化状态",
     pronunciationJa: "かっぱつじょうたい",
     tags: [ "element" ],
     notes: "キノコンやトライステート生物などに雷元素を与えた場合に変化する状態",
@@ -418,6 +419,7 @@
   {
     en: "Scorched",
     ja: "枯燥状態",
+    zhCN: "枯焦状态",
     pronunciationJa: "こそうじょうたい",
     tags: [ "element" ],
     notes: "キノコンやトライステート生物などに炎元素を与えた場合に変化する状態",
