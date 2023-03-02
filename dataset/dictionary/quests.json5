@@ -1813,6 +1813,7 @@
   {
     en: "Floral Fresh",
     ja: "香りが残っているうちに",
+    zhCN: "趁鲜花气息逗留",
     pronunciationJa: "かおりがのこっているうちに",
     tags: [ "quest-daily", "mondstadt" ],
   },
