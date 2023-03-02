@@ -2317,6 +2317,7 @@
   {
     en: "Ufairah",
     ja: "ユフィ",
+    zhCN: "优菲",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」や「ビルキースの哀歌」で言及されるキャラクター",
   },
@@ -2379,22 +2380,26 @@
   {
     en: "Parvezravan",
     ja: "パーヴェズラヴァン",
+    zhCN: "帕维兹拉万",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」で言及されるキャラクター。「パーヴェズラヴァン陛下」は \"His Majesty Parvezravan\"",
     examples: [{
       en: "...It is hard to believe that His Majesty Parvezravan may be bewitched by spectacles conjured by Jinn slaves, and yet he cannot see the foundations of the very earth coming loose under his feet...",
       ja: "…信じられない。パーヴェズラヴァン陛下は知恵のないジンニーの奴隷たちが作った奇観に夢中になり、足元で緩くなっていく地盤に少しも気づかないとは…",
+      zhCN: "…难以置信，帕维兹拉万陛下沉迷于无智的镇灵奴隶们所搭建的奇观，但却对脚下已然松动的地基毫无察觉… ",
       ref: "ダマーヴァンド山の古事・3 (Records of Mt. Damavand: Part Ⅲ)",
     }],
   },
   {
     en: "Ferigees",
     ja: "フェリギス",
+    zhCN: "菲莉吉丝",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。「フェリギス殿下」は \"Lady Ferigees\"",
     examples: [{
       en: "...And Lady Ferigees now lacks even the strength for wrath...",
       ja: "…フェリギス殿下も怒る気力を失ったようだ…",
+      zhCN: "…菲莉吉丝殿下连震怒的力气也没有了…",
       ref: "ダマーヴァンド山の古事・3 (Records of Mt. Damavand: Part Ⅲ)",
     }],
   },

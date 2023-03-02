@@ -764,6 +764,9 @@
     ja: "赤砂の杖",
     zhCN: "赤沙之杖",
     tags: [ "weapon", "polearm" ],
+    variants: {
+      zhCN: [ "赤沙", "船桨" ],
+    },
   },
 
   //

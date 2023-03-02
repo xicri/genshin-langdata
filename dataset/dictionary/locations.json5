@@ -1562,6 +1562,7 @@
   {
     en: "Wenut Tunnels",
     ja: "ウェネトトンネル",
+    zhCN: "沙虫隧道",
     tags: [ "sumeru", "location" ],
   },
   {
@@ -1595,6 +1596,7 @@
   {
     en: "Bayt Al-Sukr",
     ja: "アル・スークル宮殿",
+    zhCN: "酣乐之殿",
     pronunciationJa: "アル・スークルきゅうでん",
     tags: [ "sumeru", "location" ],
   },
