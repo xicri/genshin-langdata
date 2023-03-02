@@ -195,8 +195,8 @@
     en: "Caribert",
     ja: "カリベルト",
     zhCN: "卡利贝尔",
-    tags: [ "sumeru", "quest-archon" ],
-    notes: "魔神任務 第三章第六幕",
+    tags: [ "sumeru", "quest-archon", "character-sub" ],
+    notes: "魔神任務 第三章第六幕の任務名、並びに同任務に登場するキャラクター名",
   },
 
   //
