@@ -178,6 +178,16 @@
   },
 
   //
+  // Mondstadt
+  //
+  {
+    en: "Defiled Statue",
+    ja: "穢れた逆さ神像",
+    pronunciationJa: "けがれたさかさしんぞう",
+    tags: [ "object", "mondstadt" ],
+  },
+
+  //
   // Dragonspine
   //
   {

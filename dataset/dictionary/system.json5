@@ -408,6 +408,20 @@
       ref: "雷を鎮める尊者",
     }],
   },
+  {
+    en: "Activated",
+    ja: "活発状態",
+    pronunciationJa: "かっぱつじょうたい",
+    tags: [ "element" ],
+    notes: "キノコンやトライステート生物などに雷元素を与えた場合に変化する状態",
+  },
+  {
+    en: "Scorched",
+    ja: "枯燥状態",
+    pronunciationJa: "こそうじょうたい",
+    tags: [ "element" ],
+    notes: "キノコンやトライステート生物などに炎元素を与えた場合に変化する状態",
+  },
 
   //
   // Battle System

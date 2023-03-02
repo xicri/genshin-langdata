@@ -2411,7 +2411,7 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "日本語版と英語版においては、v3.1 から Scarlet King (King Deshret) / スカーレットキング (キングデシェレト) などのような表記が行われているが、中国語版では特に変更はないようである",
   },
-  // Aranaras & related
+  // ▼▼ Aranaras & related ▼▼
   {
     en: "Rana",
     ja: "ラナ",
@@ -2561,6 +2561,40 @@
     ja: "アランダーシャ",
     zhCN: "兰帝裟",
     tags: [ "sumeru", "character-sub" ],
+  },
+  // ▲▲ Aranaras & related ▲▲
+
+  {
+    en: "Ilyas",
+    ja: "イリヤース",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "アルハイゼンの伝説任務に登場するキャラクター",
+  },
+  {
+    en: "Siraj",
+    ja: "シラージ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "アルハイゼンの伝説任務に登場するキャラクター",
+  },
+
+  {
+    en: "Eide",
+    ja: "エデ",
+    tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
+    notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
+  },
+  {
+    en: "Chlothar Alberich",
+    ja: "コロタール・アルベリヒ",
+    tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
+    notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
+  },
+  {
+    en: "Sinner",
+    ja: "罪人",
+    pronunciationJa: "つみびと",
+    tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
+    notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
   },
 
   //

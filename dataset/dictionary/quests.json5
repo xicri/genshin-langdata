@@ -1811,6 +1811,12 @@
     tags: [ "quest-daily", "mondstadt" ],
   },
   {
+    en: "Floral Fresh",
+    ja: "香りが残っているうちに",
+    pronunciationJa: "かおりがのこっているうちに",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
     en: "Business in a Marsh",
     ja: "荻花洲の旅館",
     zhCN: "花洲有客栈",
