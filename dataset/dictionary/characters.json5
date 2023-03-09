@@ -396,14 +396,6 @@
     notes: "ミカの西風騎士団における職名",
   },
   {
-    en: "surveyor of the Reconnaissance Company",
-    ja: "遊撃小隊の測量士",
-    zhCN: "游击小队测绘员",
-    pronunciationJa: "ゆうげきしょうたいのそくりょうし",
-    tags: [ "mondstadt", "title" ],
-    notes: "ミカの西風騎士団における職名",
-  },
-  {
     en: "Barbatos",
     ja: "バルバトス",
     zhCN: "巴巴托斯",
