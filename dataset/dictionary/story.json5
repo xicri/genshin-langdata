@@ -45,10 +45,12 @@
     notes: "delusion の原義は「欺くこと」「妄想」",
   },
   {
-    en: "Archon",
+    en: "God",
     ja: "魔神",
     zhCN: "魔神",
     pronunciationJa: "まじん",
+    tags: [ "title" ],
+    notes: "七神を「(元素名)神」(例: 風神) と呼ぶ場合に関しては Archon (例: Anemo Archon) と God (例: Anemo God, God of Anemo) の両表記が混在している一方で、それ以外の魔神については God でのみ表記され、Archon は用いられない。(例: 塩の魔神/God of Salt, 塵の魔神/God of Dust) そのため、God は七神を含めた魔神全般を指すのに対し、Archon は七神のみを指す言葉であると推測される。但し、「魔神戦争」(Archon War) や「魔神任務」(Archon Quest) など、「魔神」が \"Archon\" と訳されている箇所もある。Archon が七神のみを指しているという前提に基づけば、これらは英語版では「七神を決めるための戦争」「七神を訪ねる任務」というニュアンスが込められていると解釈することも可能である。",
   },
   {
     en: "Archon War",
