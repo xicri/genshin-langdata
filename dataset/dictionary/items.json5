@@ -2896,6 +2896,11 @@
     tags: [ "item", "mondstadt" ],
   },
   {
+    en: "The Boar Princess",
+    ja: "イノシシプリンセス",
+    tags: [ "item" ],
+  },
+  {
     en: "Princess Mina of the Fallen Nation",
     ja: "亡国の美奈姫",
     zhCN: "亡国的美奈姬",

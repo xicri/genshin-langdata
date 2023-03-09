@@ -204,6 +204,12 @@
     tags: [ "event" ],
   },
   {
+    en: "Floral Chess",
+    ja: "フローラルチェス",
+    notes: "v3.5 期間限定イベント「ブロッサムを追い求めて」で開催されるゲーム名",
+    tags: [ "event" ],
+  },
+  {
     en: "Ballads of Breeze",
     ja: "そよ風のバラッド",
     zhCN: "风物之歌",

@@ -483,6 +483,12 @@
     zhCN: "悼灵花",
     tags: [ "sumeru" ],
   },
+  {
+    en: "Hermanubis",
+    ja: "ヘルマヌビス",
+    tags: [ "sumeru" ],
+    notes: "英語の発音はハーマニュビス",
+  },
   // ▼▼ Aranaras' language ▼▼
   {
     en: "Nara",

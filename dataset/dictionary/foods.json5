@@ -1148,6 +1148,13 @@
     notes: "雲菫のオリジナル料理",
   },
   {
+    en: "Qingce Household Dish",
+    ja: "軽策家庭料理",
+    pronunciationJa: "けいさくかていりょうり",
+    tags: [ "food", "liyue" ],
+    notes: "ヨォーヨのオリジナル料理",
+  },
+  {
     en: "A Prize Catch",
     ja: "極みの一釣り",
     zhCN: "极致一钓",

@@ -1265,6 +1265,13 @@
     tags: [ "sumeru", "quest-world" ],
   },
   {
+    en: "Rejoice With Me, for What Was Lost Is Now Found",
+    ja: "失せ者を取り返す喜びをともに",
+    pronunciationJa: "うせものをとりかえすよろこびをともに",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "「ビルキースの哀歌」の後日譚的な世界任務",
+  },
+  {
     en: "Blooming Sands",
     ja: "砂の上の花",
     zhCN: "沙上花",
@@ -2189,6 +2196,11 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "Vine Collector",
+    ja: "蔓草収集家",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "Operation Graze",
     ja: "掠草終着",
     zhCN: "掠草行动",
@@ -2276,6 +2288,18 @@
     ja: "良薬は得がたい",
     zhCN: "良药难求",
     pronunciationJa: "りょうやくはえがたい",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "When Flowers Bloom",
+    ja: "花開く時",
+    pronunciationJa: "はなひらくとき",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Desert Bloom",
+    ja: "砂の中の花",
+    pronunciationJa: "すなのなかのはな",
     tags: [ "quest-daily", "sumeru" ],
   },
 
