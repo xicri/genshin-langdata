@@ -32,6 +32,11 @@
     tags: [ "dialogue" ],
   },
   {
+    en: "May the Anemo Archon protect you.",
+    ja: "風神のご加護があらんことを。",
+    tags: [ "dialogue" ],
+  },
+  {
     en: "Dodge this!",
     ja: "こいつはどうだ?",
     zhCN: "这个如何？",

@@ -59,6 +59,13 @@
     pronunciationJa: "ベニーぼうけんだん",
     tags: [ "mondstadt", "organization" ],
   },
+  {
+    en: "Hexenzirkel",
+    ja: "魔女会",
+    pronunciationJa: "まじょかい",
+    tags: [ "mondstadt", "organization" ],
+  },
+
 
   //
   // Liyue

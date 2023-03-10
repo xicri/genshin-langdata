@@ -396,14 +396,6 @@
     notes: "ミカの西風騎士団における職名",
   },
   {
-    en: "surveyor of the Reconnaissance Company",
-    ja: "遊撃小隊の測量士",
-    zhCN: "游击小队测绘员",
-    pronunciationJa: "ゆうげきしょうたいのそくりょうし",
-    tags: [ "mondstadt", "title" ],
-    notes: "ミカの西風騎士団における職名",
-  },
-  {
     en: "Barbatos",
     ja: "バルバトス",
     zhCN: "巴巴托斯",
@@ -487,12 +479,55 @@
     ja: "アリス",
     zhCN: "艾莉丝",
     tags: [ "mondstadt", "character-sub" ],
+    notes: "クレーの母。魔女会・コードA",
+  },
+  {
+    en: "Rhinedottir",
+    ja: "レインドット",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "アルベドの創造者。魔女会・コードR。英語における発音は「ラインドッタァ」",
+  },
+  {
+    en: "Barbeloth",
+    ja: "バーべロス",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "魔女会・コードB。バーベロスがモナの師匠 (おばば) という説もあるが明言されておらず、おばばはバーベロスの後継者という説もある。",
+  },
+  {
+    en: "the old hag",
+    ja: "おばば",
+    tags: [ "mondstadt", "how-to-call" ],
+    notes: "モナの自身の師匠に対する呼び方。old hag は、一般には意地悪な高齢女性を揶揄して呼ぶ言葉。",
+  },
+  {
+    en: "I. Ivanovna N.",
+    ja: "I・イヴァノヴナ・N",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "魔女会・コードJ",
+  },
+  {
+    en: "Andersdotter",
+    ja: "アンデシュドッテル",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "魔女会・コードM。イノシシプリンセスの作者。",
+  },
+  {
+    en: "Nicole",
+    ja: "ニコ",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "魔女会・コードN。英語版における発音は「ニコル」",
   },
   {
     en: "Timaeus",
     ja: "ティマイオス",
     zhCN: "蒂玛乌斯",
     tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Cyrus",
+    ja: "サイリュス / ジュライセン",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "サイリュスはモンドの冒険者協会の支部長。ジュライセンはスメール教令院におけるリサとセノの師。英語版ではどちらも Cyrus と表記される。発音も同じで、どちらも「サイラス」。",
   },
   {
     en: "Adelinde",
@@ -1133,6 +1168,19 @@
     notes: "発音は「グウェィヂョン」([参考動画](https://youtu.be/p10yiwULJA8?t=179))",
   },
   {
+    en: "Haagentus",
+    ja: "ハーゲントゥス",
+    tags: [ "liyue", "title" ],
+    notes: "帰終の異名",
+  },
+  {
+    en: "God of Dust",
+    ja: "塵の魔神",
+    pronunciationJa: "ちりのまじん",
+    tags: [ "liyue", "title" ],
+    notes: "帰終の魔神としての称号",
+  },
+  {
     en: "Havria",
     ja: "ヘウリア",
     zhCN: "赫乌利亚",
@@ -1207,6 +1255,20 @@
     ja: "シャオユウ",
     zhCN: "小雨",
     tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Ying'er",
+    ja: "鶯",
+    pronunciationJa: "うぐいす",
+    tags: [ "liyue", "character-sub" ],
+    notes: "英語版における発音は「インガー」",
+  },
+  {
+    en: "Lan",
+    ja: "嵐姉",
+    pronunciationJa: "あらしねえ",
+    tags: [ "liyue", "character-sub" ],
+
   },
   {
     en: "Hanfeng, \"Cold Blade\"",
@@ -2126,6 +2188,12 @@
     },
   },
   {
+    en: "God of Wisdom",
+    ja: "知恵の神",
+    tags: [ "sumeru", "title" ],
+    pronunciationJa: "ちえのかみ",
+  },
+  {
     en: "Buer",
     ja: "ブエル",
     zhCN: "布耶尔",
@@ -2390,6 +2458,12 @@
       zhCN: "…难以置信，帕维兹拉万陛下沉迷于无智的镇灵奴隶们所搭建的奇观，但却对脚下已然松动的地基毫无察觉… ",
       ref: "ダマーヴァンド山の古事・3 (Records of Mt. Damavand: Part Ⅲ)",
     }],
+  },
+  {
+    en: "Froderock Fronkonsteen",
+    ja: "フロドラッカー・フランケンシュタイン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター",
   },
   {
     en: "Ferigees",

@@ -113,6 +113,12 @@
     zhCN: "和裕茶馆",
     tags: [ "liyue", "facility" ],
   },
+  {
+    en: "Scent of Spring",
+    ja: "春香窯",
+    tags: [ "liyue", "facility" ],
+    notes: "鶯の店",
+  },
 
   //
   // Inazuma
