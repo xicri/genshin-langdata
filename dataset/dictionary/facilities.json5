@@ -116,6 +116,7 @@
   {
     en: "Scent of Spring",
     ja: "春香窯",
+    zhCN: "春香窑",
     tags: [ "liyue", "facility" ],
     notes: "鶯の店",
   },
