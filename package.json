@@ -4,8 +4,8 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "type": "module",
   "engines": {
-    "node": ">=16.0.0",
-    "npm": ">= 8.0.0"
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
   },
   "scripts": {
     "build": "node scripts/build.js",
@@ -13,7 +13,9 @@
     "todo": "node scripts/todo.js",
     "test": "npm run build && NODE_OPTIONS=--experimental-vm-modules jest",
     "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
-    "release": "node scripts/release.js",
+    "release": "run-p release:*",
+    "release:pages": "scripts/release-pages.sh",
+    "release:minhon": "node scripts/release-minhon.js",
     "prepare": "if npm list husky > /dev/null; then husky install; fi"
   },
   "dependencies": {
@@ -28,7 +30,9 @@
     "lodash-es": "^4.17.21",
     "luxon": "^3.2.1",
     "marked": "^4.0.12",
-    "node-fetch": "^3.2.4"
+    "node-fetch": "^3.2.4",
+    "npm-run-all": "^4.1.5",
+    "wrangler": "^2.12.2"
   },
   "devDependencies": {
     "husky": "^8.0.3",
