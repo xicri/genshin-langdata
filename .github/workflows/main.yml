@@ -19,6 +19,9 @@ jobs:
     timeout-minutes: 5
     env:
       NODE_ENV: preview
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_PAGES_BRANCH: ${{ github.head_ref }}
       MINHON_API_KEY: ${{ secrets.MINHON_API_KEY }}
       MINHON_API_SECRET: ${{ secrets.MINHON_API_SECRET }}
       MINHON_LOGIN_ID: ${{ secrets.MINHON_LOGIN_ID }}
@@ -42,6 +45,8 @@ jobs:
     timeout-minutes: 5
     env:
       NODE_ENV: production
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       MINHON_API_KEY: ${{ secrets.MINHON_API_KEY }}
       MINHON_API_SECRET: ${{ secrets.MINHON_API_SECRET }}
       MINHON_LOGIN_ID: ${{ secrets.MINHON_LOGIN_ID }}
