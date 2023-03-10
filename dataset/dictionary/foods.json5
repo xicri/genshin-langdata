@@ -1150,6 +1150,7 @@
   {
     en: "Qingce Household Dish",
     ja: "軽策家庭料理",
+    zhCN: "轻策家常菜",
     pronunciationJa: "けいさくかていりょうり",
     tags: [ "food", "liyue" ],
     notes: "ヨォーヨのオリジナル料理",
