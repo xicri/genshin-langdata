@@ -484,36 +484,42 @@
   {
     en: "Rhinedottir",
     ja: "レインドット",
+    zhCN: "莱茵多特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "アルベドの創造者。魔女会・コードR。英語における発音は「ラインドッタァ」",
   },
   {
     en: "Barbeloth",
     ja: "バーべロス",
+    zhCN: "芭比洛斯",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードB。バーベロスがモナの師匠 (おばば) という説もあるが明言されておらず、おばばはバーベロスの後継者という説もある。",
   },
   {
     en: "the old hag",
     ja: "おばば",
+    zhCN: "老太婆",
     tags: [ "mondstadt", "how-to-call" ],
     notes: "モナの自身の師匠に対する呼び方。old hag は、一般には意地悪な高齢女性を揶揄して呼ぶ言葉。",
   },
   {
     en: "I. Ivanovna N.",
     ja: "I・イヴァノヴナ・N",
+    zhCN: "I・伊万诺夫娜・N",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードJ",
   },
   {
     en: "Andersdotter",
     ja: "アンデシュドッテル",
+    zhCN: "安德斯多特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードM。イノシシプリンセスの作者。",
   },
   {
     en: "Nicole",
     ja: "ニコ",
+    zhCN: "尼可",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードN。英語版における発音は「ニコル」",
   },
@@ -526,6 +532,7 @@
   {
     en: "Cyrus",
     ja: "サイリュス / ジュライセン",
+    zhCN: "塞琉斯 / 居勒什",
     tags: [ "mondstadt", "character-sub" ],
     notes: "サイリュスはモンドの冒険者協会の支部長。ジュライセンはスメール教令院におけるリサとセノの師。英語版ではどちらも Cyrus と表記される。発音も同じで、どちらも「サイラス」。",
   },
@@ -1170,12 +1177,14 @@
   {
     en: "Haagentus",
     ja: "ハーゲントゥス",
+    zhCN: "哈艮图斯",
     tags: [ "liyue", "title" ],
     notes: "帰終の異名",
   },
   {
     en: "God of Dust",
     ja: "塵の魔神",
+    zhCN: "尘之魔神",
     pronunciationJa: "ちりのまじん",
     tags: [ "liyue", "title" ],
     notes: "帰終の魔神としての称号",
@@ -1259,6 +1268,7 @@
   {
     en: "Ying'er",
     ja: "鶯",
+    zhCN: "莺儿",
     pronunciationJa: "うぐいす",
     tags: [ "liyue", "character-sub" ],
     notes: "英語版における発音は「インガー」",
@@ -1266,6 +1276,7 @@
   {
     en: "Lan",
     ja: "嵐姉",
+    zhCN: "岚姐",
     pronunciationJa: "あらしねえ",
     tags: [ "liyue", "character-sub" ],
 
@@ -2190,6 +2201,7 @@
   {
     en: "God of Wisdom",
     ja: "知恵の神",
+    zhCN: "智慧之神",
     tags: [ "sumeru", "title" ],
     pronunciationJa: "ちえのかみ",
   },
@@ -2462,6 +2474,7 @@
   {
     en: "Froderock Fronkonsteen",
     ja: "フロドラッカー・フランケンシュタイン",
+    zhCN: "佛罗德洛克·弗朗孔斯汀",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター",
   },

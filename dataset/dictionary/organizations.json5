@@ -62,6 +62,7 @@
   {
     en: "Hexenzirkel",
     ja: "魔女会",
+    zhCN: "魔女会",
     pronunciationJa: "まじょかい",
     tags: [ "mondstadt", "organization" ],
   },
