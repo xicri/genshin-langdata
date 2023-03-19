@@ -382,10 +382,14 @@
     },
   },
   {
-    en: "Mika",
-    ja: "ミカ",
-    zhCN: "米卡",
+    en: "Mika Schmidt",
+    ja: "ミカ・シュミット",
+    zhCN: "米卡·施密特",
     tags: [ "mondstadt", "character-main" ],
+    variants: {
+      en: [ "Mika", "Schmidt" ],
+      ja: [ "ミカ", "シュミット" ],
+    },
   },
   {
     en: "Front-Line Surveyor",
