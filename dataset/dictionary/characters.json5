@@ -2295,11 +2295,15 @@
     notes: "スメールの魔神任務に登場",
   },
   {
-    en: "Dunyarzad",
-    ja: "ドニアザード",
+    en: "Dunyarzad Homayani",
+    ja: "ドニアザード・フーマイ",
     zhCN: "迪娜泽黛",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務に登場するキャラクター",
+    variants: {
+      en: [ "Dunyarzad", "Homayani" ],
+      ja: [ "ドニアザード", "フーマイ" ],
+    },
   },
   {
     en: "Asfand",
