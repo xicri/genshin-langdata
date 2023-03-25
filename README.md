@@ -54,3 +54,28 @@ $ npm ci
 $ npm test
 $ npm run lint
 ```
+
+### Utility scripts
+
+`npm run todo` lists the words without Chinese translation.
+
+Example:
+
+```shell
+$ npm run todo
+
+> todo
+> node scripts/todo.js
+
+# Words without Chinese translation
+
+  ## characters.json5
+    - Snezhevna (シュナイツェフナ)
+    - Snezhevich (シュナイツェビッチ)
+    ...
+
+  ## quests.json5
+    - Break the Sword Cemetery Seal (剣塚封印を探索)
+    - Fishing For Jade (海上拾玉)
+    ...
+```
