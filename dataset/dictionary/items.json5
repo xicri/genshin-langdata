@@ -1063,7 +1063,7 @@
     ja: "洗塵の鈴",
     zhCN: "涤尘铃",
     pronunciationJa: "せんじんのすず",
-    tags: [ "liyue" ],
+    tags: [ "item", "liyue" ],
     notes: "ピンばあやが持っているベル",
   },
   {
