@@ -572,6 +572,12 @@
     tags: [ "sumeru" ],
     notes: "アルハイゼンの伝説任務で、シラージが開発した仕組み",
   },
+  {
+    en: "The Wall of Hope",
+    ja: "希望の壁",
+    tags: [ "sumeru" ],
+    notes: "ディシアが孤児院に寄付した資金に付けた名前",
+  },
 
   //
   // Snezhnaya / Fatui
