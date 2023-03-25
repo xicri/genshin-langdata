@@ -1,4 +1,5 @@
 {
   "artifact-set": "artifact",
-  "event-limited": "event"
+  "event-limited": "event",
+  "levelup-material": "drop-boss"
 }
