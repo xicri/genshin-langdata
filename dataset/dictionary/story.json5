@@ -554,6 +554,11 @@
     tags: [ "sumeru" ],
   },
   {
+    en: "Gurabad",
+    ja: "ジュラバド",
+    tags: [ "sumeru" ],
+  },
+  {
     en: "the Hive",
     ja: "蜂の巣",
     zhCN: "蜂巢",

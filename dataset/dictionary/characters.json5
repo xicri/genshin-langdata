@@ -583,6 +583,16 @@
     tags: [ "mondstadt", "character-sub" ],
   },
   {
+    en: "Huffman Schmidt",
+    ja: "ホフマン・シュミット",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "ミカの兄",
+    variants: {
+      en: [ "Huffman", "Schmidt" ],
+      ja: [ "ホフマン", "シュミット" ],
+    },
+  },
+  {
     en: "Reckless Pallad",
     ja: "うっかりパラド",
     zhCN: "冒失的帕拉德",
@@ -1557,6 +1567,13 @@
     tags: [ "inazuma", "character-main" ],
   },
   {
+    en: "Lady Yae",
+    ja: "八重様",
+    pronunciationJa: "やえさま",
+    tags: [ "inazuma", "how-to-call" ],
+    notes: "八重神子が部下などから呼ばれる際の敬称",
+  },
+  {
     en: "Arataki Itto",
     ja: "荒瀧一斗",
     zhCN: "荒泷一斗",
@@ -2463,6 +2480,30 @@
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。タニット部族の1人。",
   },
   {
+    en: "Yuften",
+    ja: "ユフトゥン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」などに登場するキャラクター。タニット部族の1人。",
+  },
+  {
+    en: "Tadhla",
+    ja: "タッドラー",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。マシーラの娘。",
+  },
+  {
+    en: "Masseira",
+    ja: "マシーラ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。タッドラーの父親。",
+  },
+  {
+    en: "Zoya Snezhevna",
+    ja: "ゾーヤ・シュナイツェフナ",
+    tags: [ "sumeru", "snezhnaya", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。", // TODO: ファデュイの大尉 = Captain of Fatui
+  },
+  {
     en: "Parvezravan",
     ja: "パーヴェズラヴァン",
     zhCN: "帕维兹拉万",
@@ -2653,6 +2694,12 @@
     zhCN: "兰帝裟",
     tags: [ "sumeru", "character-sub" ],
   },
+  {
+    en: "Arashakun",
+    ja: "アランシャクン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「勇気を心につけて」に登場するアランナラ",
+  },
   // ▲▲ Aranaras & related ▲▲
 
   {
@@ -2731,6 +2778,12 @@
   //
   // Fontaine ― NPCs
   //
+  {
+    en: "Alain Guillotin",
+    ja: "アラン・ギヨタン",
+    tags: [ "character-sub" ],
+    notes: "フォンテーヌ科学院の創立者",
+  },
   {
     en: "Garcia",
     ja: "ガルシア",
@@ -3049,6 +3102,18 @@
     zhCN: "丝柯克",
     tags: [ "snezhnaya", "character-sub" ],
     notes: "タルタリヤの師匠",
+  },
+  {
+    en: "Snezhevna",
+    ja: "シュナイツェフナ",
+    tags: [ "snezhnaya" ],
+    notes: "召使の孤児院出身の女性が名乗る姓",
+  },
+  {
+    en: "Snezhevich",
+    ja: "シュナイツェビッチ",
+    tags: [ "snezhnaya" ],
+    notes: "召使の孤児院出身の男性が名乗る姓",
   },
 
 

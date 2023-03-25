@@ -235,12 +235,42 @@
     tags: [ "event" ],
   },
   {
+    en: "Lil' Fungus / Lil' Fungi",
+    ja: "ちびチエキノコン",
+    notes: "v3.5 期間限定イベント「チエキノコン布陣」で用いる、チエキノコンをモチーフにした駒。Lil' Fungus が単数形、Lil' Fungi が複数形。",
+    tags: [ "event" ],
+  },
+  {
+    en: "Marvelous Gel",
+    ja: "マーベラスゼリー",
+    notes: "v3.5 期間限定イベント「チエキノコン布陣」でキノコンたちに与える食べ物、又はゲーム中でスキルを利用するために必要なメーター",
+    tags: [ "event" ],
+  },
+  {
     en: "Vibro-Crystal Verification",
     ja: "振晶の照合実験",
     zhCN: "振晶的复核实验",
     pronunciationJa: "しんしょうのしょうごうじっけん",
     notes: "v3.5 期間限定イベント",
     tags: [ "event" ],
+  },
+  {
+    en: "Anatole",
+    ja: "アナトール",
+    notes: "v3.5 期間限定イベント「振晶の照合実験」に登場するキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Edwin Eastinghouse",
+    ja: "エドウィン・イースティングハウス",
+    notes: "v3.5 期間限定イベント「振晶の照合実験」で言及されるキャラクター",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Arkhium",
+    ja: "アルケウム",
+    notes: "v3.5 期間限定イベント「振晶の照合実験」で言及される物質? エドウィン・イースティングハウスが実験のために用いたとされる。",
+    tags: [ "event", "character-sub" ],
   },
   {
     en: "Spices From the West: Northerly Search",
@@ -459,6 +489,18 @@
     tags: [ "event", "character-sub" ],
   },
   {
+    en: "Souka",
+    ja: "左右加",
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会出場者の1人",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Balfour",
+    ja: "バルフォア",
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会運営スタッフの1人",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "Bongo-Head",
     ja: "ポコポコビーニー",
     zhCN: "咚咚小圆帽",
@@ -498,6 +540,12 @@
     tags: [ "event", "character-sub" ],
   },
   {
+    en: "Stormstress",
+    ja: "信風舞姫",
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」で左右加が仲間にしたキノコン",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "Coolit",
     ja: "コイツハドウダケ",
     zhCN: "老实一点菇",
@@ -510,6 +558,18 @@
     zhCN: "审判火焰菇",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」で仲間にできるキノコンに対し、選択によってはこの名前をつけることができる。ディルックの元素爆発発動時のセリフ[「判決を―下す!」(Your verdict is...! / 审判——喝啊！)](/your-verdict-is/) 及び[「裁きを、受けよ!」(Time for ― retribution! / 在此——宣判！)](/time-for-retribution/)に由来すると思われる。",
     tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Golden Comet",
+    ja: "ゴールド流星",
+    tags: [ "event", "title" ],
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」における主人公の称号",
+  },
+  {
+    en: "Silver Companion",
+    ja: "シルバー伴星",
+    tags: [ "event", "title" ],
+    notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」におけるパイモンの称号",
   },
   {
     en: "Adventurer's Trials",
@@ -844,6 +904,12 @@
     zhCN: "振晶的研究",
     notes: "v2.6 期間限定イベント",
     tags: [ "event" ],
+  },
+  {
+    en: "Patrice",
+    ja: "パトリック",
+    notes: "v2.6 期間限定イベント「振晶の研究」に登場するキャラクター",
+    tags: [ "event", "character-sub" ],
   },
   {
     en: "Outside the Canvas, Inside the Lens",

@@ -3079,6 +3079,20 @@
     pronunciationJa: "うしなわれたエネルギーブロック",
     tags: [ "item", "sumeru" ],
   },
+  {
+    en: "Chess Piece",
+    ja: "駒",
+    pronunciationJa: "こま",
+    tags: [ "object", "sumeru" ],
+    notes: "「神の碁盤」に配置するアイテム",
+  },
+  {
+    en: "Activation Device",
+    ja: "活性化デバイス",
+    pronunciationJa: "かっせいかデバイス",
+    tags: [ "item", "sumeru" ],
+    notes: "「神の碁盤」に配置するアイテム",
+  },
 
   //
   // コスチューム
