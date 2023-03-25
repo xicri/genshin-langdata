@@ -285,12 +285,37 @@
     pronunciationJa: "アフマルのめ",
     zhCN: "阿赫玛尔之眼",
     tags: [ "sumeru", "organization" ],
+    notes: "神王のレリクス傘下のエルマイト旅団の1つ",
   },
   {
     en: "Gilded Journey",
     ja: "金砂の旅",
     zhCN: "金砂之旅",
     tags: [ "sumeru", "organization" ],
+  },
+  {
+    en: "Blazing Beasts",
+    ja: "熾光の猟獣",
+    pronunciationJa: "しこうのりょうじゅう",
+    tags: [ "sumeru", "organization" ],
+    notes: "ディシアの所属するエルマイト旅団",
+  },
+  {
+    en: "Deshret's Relics",
+    ja: "神王のレリクス",
+    pronunciationJa: "しんのうのレリクス",
+    tags: [ "sumeru", "organization" ],
+    notes: "ディシアの伝説任務に登場するエルマイト旅団の1つ",
+  },
+  {
+    en: "Dakan Al-Ahmar",
+    ja: "アフマルの鬚",
+    pronunciationJa: "アフマルのひげ",
+    tags: [ "sumeru", "organization" ],
+    notes: "神王のレリクス傘下のエルマイト旅団の1つ",
+    variants: {
+      ja: [ "アフマルの髭", "アフマルの髯" ],
+    },
   },
   {
     en: "Tanit tribe",

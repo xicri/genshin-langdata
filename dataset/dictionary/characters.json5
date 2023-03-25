@@ -961,6 +961,20 @@
     notes: "ヨォーヨの持っている人形 (?)",
   },
   {
+    en: "Jade Radish",
+    ja: "白玉大根",
+    pronunciationJa: "しらたまだいこん", // need confirmation
+    tags: [ "liyue" ],
+    notes: "月桂が投げる武器",
+  },
+  {
+    en: "Mega Radish",
+    ja: "超スゴイ! 大根",
+    pronunciationJa: "ちょうスゴイだいこん",
+    tags: [ "liyue" ],
+    notes: "ヨォーヨが完凸している場合に月桂が投げる武器",
+  },
+  {
     en: "Morax",
     ja: "モラクス",
     zhCN: "摩拉克斯",
@@ -2295,11 +2309,15 @@
     notes: "スメールの魔神任務に登場",
   },
   {
-    en: "Dunyarzad",
-    ja: "ドニアザード",
+    en: "Dunyarzad Homayani",
+    ja: "ドニアザード・フーマイ",
     zhCN: "迪娜泽黛",
     tags: [ "sumeru", "character-sub" ],
-    notes: "スメールの魔神任務に登場するキャラクター",
+    notes: "スメールの魔神任務等に登場するキャラクター。ディシアの雇い主の家の娘",
+    variants: {
+      en: [ "Dunyarzad", "Homayani" ],
+      ja: [ "ドニアザード", "フーマイ" ],
+    },
   },
   {
     en: "Asfand",
@@ -2715,6 +2733,46 @@
     zhCN: "西拉杰",
     tags: [ "sumeru", "character-sub" ],
     notes: "アルハイゼンの伝説任務に登場するキャラクター",
+  },
+  {
+    en: "Kusayla",
+    ja: "クセラ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ディシアの父。アフマルの鬚のリーダー",
+  },
+  {
+    en: "Shahzaman Homayani",
+    ja: "サッザマン・フーマイ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ドニアザードの父",
+    variants: {
+      en: [ "Shahzaman", "Homayani" ],
+      ja: [ "サッザマン", "フーマイ" ],
+    },
+  },
+  {
+    en: "Idrisi",
+    ja: "イドリシ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
+  },
+  {
+    en: "Bashar",
+    ja: "バシャール",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
+  },
+  {
+    en: "Tikriti",
+    ja: "ティクリッティ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
+  },
+  {
+    en: "Mishal",
+    ja: "ミジャール",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ディシアの伝説任務に登場するキャラクター。神王のレリクスの首領",
   },
 
   {
