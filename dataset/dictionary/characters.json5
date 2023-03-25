@@ -2299,7 +2299,7 @@
     ja: "ドニアザード・フーマイ",
     zhCN: "迪娜泽黛",
     tags: [ "sumeru", "character-sub" ],
-    notes: "スメールの魔神任務に登場するキャラクター",
+    notes: "スメールの魔神任務等に登場するキャラクター。ディシアの雇い主の家の娘",
     variants: {
       en: [ "Dunyarzad", "Homayani" ],
       ja: [ "ドニアザード", "フーマイ" ],
