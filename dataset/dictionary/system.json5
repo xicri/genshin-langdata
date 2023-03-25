@@ -453,6 +453,10 @@
     pronunciationJa: "げんそチャージこうりつ",
   },
   {
+    en: "Cooldown / CD",
+    ja: "クールタイム",
+  },
+  {
     en: "DMG",
     ja: "ダメージ",
     zhCN: "伤害",

@@ -1241,6 +1241,12 @@
     tags: [ "sumeru", "quest-world" ],
     notes: "森林書から連なる世界任務の1つ",
   },
+  {
+    en: "Courage is in the Heart",
+    ja: "勇気を心につけて",
+    pronunciationJa: "ゆうきをこころにつけて",
+    tags: [ "sumeru", "quest-world" ],
+  },
   // ▲▲ Aranyaka and related
 
   {
@@ -1270,7 +1276,42 @@
     zhCN: "失而复得者一同欢喜",
     pronunciationJa: "うせものをとりかえすよろこびをともに",
     tags: [ "sumeru", "quest-world" ],
-    notes: "「ビルキースの哀歌」の後日譚的な世界任務",
+    notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
+  },
+  {
+    en: "Tadhla the Falcon",
+    ja: "「猟鷹」タッドラー",
+    pronunciationJa: "りょうようタッドラー", // TODO needs confirmation
+    tags: [ "sumeru", "quest-world" ],
+    notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
+  },
+  {
+    en: "\"The Falcon's Hunt\"",
+    ja: "「鷹猟」",
+    pronunciationJa: "たかりょう",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
+  },
+  {
+    en: "The Fallen Falcon",
+    ja: "翼の折れた猟鷹",
+    pronunciationJa: "つばさのおれたりょうよう", // TODO needs confirmation
+    tags: [ "sumeru", "quest-world" ],
+    notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
+  },
+  {
+    en: "Apocalypse Lost",
+    ja: "過ぎ去りし終末",
+    pronunciationJa: "すぎさりししゅうまつ",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
+  },
+  {
+    en: "Her Foes Rage Like Great Waters...",
+    ja: "仇敵は沸き返る水の如く…",
+    pronunciationJa: "きゅうてきはわきかえるみずのごとく",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
   },
   {
     en: "Blooming Sands",

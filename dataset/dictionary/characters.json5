@@ -382,10 +382,14 @@
     },
   },
   {
-    en: "Mika",
-    ja: "ミカ",
-    zhCN: "米卡",
+    en: "Mika Schmidt",
+    ja: "ミカ・シュミット",
+    zhCN: "米卡·施密特",
     tags: [ "mondstadt", "character-main" ],
+    variants: {
+      en: [ "Mika", "Schmidt" ],
+      ja: [ "ミカ", "シュミット" ],
+    },
   },
   {
     en: "Front-Line Surveyor",
@@ -577,6 +581,16 @@
     ja: "イーディス博士",
     zhCN: "艾迪丝博士",
     tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Huffman Schmidt",
+    ja: "ホフマン・シュミット",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "ミカの兄",
+    variants: {
+      en: [ "Huffman", "Schmidt" ],
+      ja: [ "ホフマン", "シュミット" ],
+    },
   },
   {
     en: "Reckless Pallad",
@@ -803,7 +817,7 @@
     en: "Mr. Zhongli",
     ja: "鍾離先生 / 鍾離さん",
     zhCN: "钟离先生",
-    pronunciationJa: "しょうりせんせい",
+    pronunciationJa: "しょうりせんせい / しょうりさん",
     tags: [ "liyue", "how-to-call" ],
     notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。香菱などは、英語版では Mr. Zhongli、日本語では「鍾離さん」と呼ぶ。(鍾離のエピソード動画「想定外の支出」など [日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80))",
   },
@@ -1551,6 +1565,13 @@
     zhCN: "八重神子",
     pronunciationJa: "やえみこ",
     tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Lady Yae",
+    ja: "八重様",
+    pronunciationJa: "やえさま",
+    tags: [ "inazuma", "how-to-call" ],
+    notes: "八重神子が部下などから呼ばれる際の敬称",
   },
   {
     en: "Arataki Itto",
@@ -2428,7 +2449,7 @@
     ja: "バベル・タニット",
     zhCN: "芭别尔·塔尼特",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。タニット部族の主母。",
   },
   {
     en: "Matriarch",
@@ -2442,21 +2463,45 @@
     ja: "リルパァール",
     zhCN: "利露帕尔",
     tags: [ "sumeru", "character-sub", "item" ],
-    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。ジンニー。",
   },
   {
     en: "Azariq",
     ja: "アザリク",
     zhCN: "阿萨里格",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。タニット部族の1人。",
   },
   {
     en: "Aderfi",
     ja: "アデルフィ",
     zhCN: "阿德菲",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター",
+    notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。タニット部族の1人。",
+  },
+  {
+    en: "Yuften",
+    ja: "ユフトゥン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」などに登場するキャラクター。タニット部族の1人。",
+  },
+  {
+    en: "Tadhla",
+    ja: "タッドラー",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。マシーラの娘。",
+  },
+  {
+    en: "Masseira",
+    ja: "マシーラ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。タッドラーの父親。",
+  },
+  {
+    en: "Zoya Snezhevna",
+    ja: "ゾーヤ・シュナイツェフナ",
+    tags: [ "sumeru", "snezhnaya", "character-sub" ],
+    notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。", // TODO: ファデュイの大尉 = Captain of Fatui
   },
   {
     en: "Parvezravan",
@@ -2649,6 +2694,12 @@
     zhCN: "兰帝裟",
     tags: [ "sumeru", "character-sub" ],
   },
+  {
+    en: "Arashakun",
+    ja: "アランシャクン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「勇気を心につけて」に登場するアランナラ",
+  },
   // ▲▲ Aranaras & related ▲▲
 
   {
@@ -2727,6 +2778,12 @@
   //
   // Fontaine ― NPCs
   //
+  {
+    en: "Alain Guillotin",
+    ja: "アラン・ギヨタン",
+    tags: [ "character-sub" ],
+    notes: "フォンテーヌ科学院の創立者",
+  },
   {
     en: "Garcia",
     ja: "ガルシア",
@@ -3045,6 +3102,18 @@
     zhCN: "丝柯克",
     tags: [ "snezhnaya", "character-sub" ],
     notes: "タルタリヤの師匠",
+  },
+  {
+    en: "Snezhevna",
+    ja: "シュナイツェフナ",
+    tags: [ "snezhnaya" ],
+    notes: "召使の孤児院出身の女性が名乗る姓",
+  },
+  {
+    en: "Snezhevich",
+    ja: "シュナイツェビッチ",
+    tags: [ "snezhnaya" ],
+    notes: "召使の孤児院出身の男性が名乗る姓",
   },
 
 

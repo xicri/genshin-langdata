@@ -266,6 +266,13 @@
     tags: [ "sumeru", "organization" ],
   },
   {
+    en: "Alliance of the Twenty-Nine Ocean Deys",
+    ja: "二十九オーシャンデイズ連盟",
+    pronunciationJa: "にじゅうきゅうオーシャンデイズれんめい",
+    tags: [ "sumeru", "organization" ],
+    notes: "Dey とは、史実ではオスマン帝国支配下のアルジェリア、リビア、チュニジアなどの支配者に与えられた称号のこと。参考: [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4_(%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E5%B8%9D%E5%9B%BD))",
+  },
+  {
     en: "Corps of Thirty",
     ja: "三十人団",
     pronunciationJa: "さんじゅうにんだん",
@@ -296,6 +303,19 @@
   //
   // Fontaine
   //
+  {
+    en: "Fontaine Research Institute",
+    ja: "フォンテーヌ科学院",
+    pronunciationJa: "フォンテーヌかがくいん",
+    tags: [ "organization" ],
+  },
+  {
+    en: "Fontaine Research Institute of Kinetic Energy Engineering",
+    ja: "フォンテーヌ運動エネルギー工学科学研究院",
+    pronunciationJa: "フォンテーヌうんどうエネルギーこうがくかがくけんきゅういん",
+    tags: [ "organization" ],
+    notes: "フォンテーヌ科学院の正式名称",
+  },
   {
     en: "The Steambird",
     ja: "スチームバード新聞",
