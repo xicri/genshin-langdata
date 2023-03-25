@@ -259,14 +259,34 @@
       "zh-CN": "原神中的地区特产的英语和日语翻译"
     }
   },
-  "levelup-material": {
-    "en": "Character Level-Up Material",
-    "ja": "キャラクター育成素材",
-    "zh-CN": "角色养成素材",
+  "drop": {
+    "en": "Drop",
+    "ja": "ドロップアイテム",
+    "zh-CN": "TBD",
     "title": {
-      "en": "Chinese & Japanese translations for character level-up materials in Genshin Impact",
-      "ja": "原神のキャラクター育成素材の英語表記一覧",
-      "zh-CN": "原神中的角色养成素材的英语和日语翻译"
+      "en": "Chinese & Japanese translations for the drops in Genshin Impact",
+      "ja": "原神のドロップアイテムの英語・中国語表記一覧",
+      "zh-CN": "TBD"
+    }
+  },
+  "drop-boss": {
+    "en": "Boss Drop",
+    "ja": "ボスドロップ",
+    "zh-CN": "TBD",
+    "title": {
+      "en": "Chinese & Japanese translations for the boss-drops in Genshin Impact",
+      "ja": "原神のボスドロップアイテムの英語・中国語表記一覧",
+      "zh-CN": "TBD"
+    }
+  },
+  "gemstone": {
+    "en": "Gemstone",
+    "ja": "宝石",
+    "zh-CN": "TBD",
+    "title": {
+      "en": "Chinese & Japanese translations for the gemstones in Genshin Impact",
+      "ja": "原神の宝石素材の英語・中国語表記一覧",
+      "zh-CN": "TBD"
     }
   },
   "talent-material": {
@@ -277,6 +297,16 @@
       "en": "Chinese & Japanese translations for talent level-up materials in Genshin Impact",
       "ja": "原神の天賦育成素材の英語表記一覧",
       "zh-CN": "原神中的天赋养成素材的英语和日语翻译"
+    }
+  },
+  "weapon-material": {
+    "en": "Weapon Ascension Material",
+    "ja": "武器突破素材",
+    "zh-CN": "TBD",
+    "title": {
+      "en": "Chinese & Japanese translations for weapon ascension materials in Genshin Impact",
+      "ja": "原神の武器突破素材の英語・中国語表記一覧",
+      "zh-CN": "TBD"
     }
   },
   "food": {
