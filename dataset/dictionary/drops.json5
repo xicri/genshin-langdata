@@ -123,7 +123,7 @@
     ja: "霧虚ろの灯芯",
     zhCN: "雾虚灯芯",
     pronunciationJa: "きりうつろのとうしん",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "蛍術師のドロップアイテム (★4)",
   },
   {
@@ -131,7 +131,7 @@
     ja: "霧虚ろの草嚢",
     zhCN: "雾虚草囊",
     pronunciationJa: "きりうつろのそうのう",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "蛍術師のドロップアイテム (★3)",
   },
   {
@@ -139,7 +139,7 @@
     ja: "霧虚ろの花粉",
     zhCN: "雾虚花粉",
     pronunciationJa: "きりうつろのかふん",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "蛍術師のドロップアイテム (★2)",
   },
   {
@@ -147,7 +147,7 @@
     ja: "検査官の刀",
     zhCN: "督察长祭刀",
     pronunciationJa: "けんさかんのかたな",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "デットエージェントのドロップアイテム (★4)",
   },
   {
@@ -155,7 +155,7 @@
     ja: "エージェントの刀",
     zhCN: "特工祭刀",
     pronunciationJa: "エージェントのかたな",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "デットエージェントのドロップアイテム (★3)",
   },
   {
@@ -163,7 +163,7 @@
     ja: "猟兵の刀",
     zhCN: "猎兵祭刀",
     pronunciationJa: "りょうへいのかたな",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "デットエージェントのドロップアイテム (★2)",
   },
   {
@@ -171,7 +171,7 @@
     ja: "偏光プリズム",
     zhCN: "偏光棱镜",
     pronunciationJa: "へんこうプリズム",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "ミラーメイデンのドロップアイテム (★4)",
   },
   {
@@ -179,7 +179,7 @@
     ja: "水晶プリズム",
     zhCN: "水晶棱镜",
     pronunciationJa: "すいしょうプリズム",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "ミラーメイデンのドロップアイテム (★3)",
   },
   {
@@ -187,7 +187,7 @@
     ja: "暗色プリズム",
     zhCN: "黯淡棱镜",
     pronunciationJa: "あんしょくプリズム",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "ミラーメイデンのドロップアイテム (★2)",
   },
   {
@@ -338,7 +338,7 @@
     ja: "尉官の記章",
     zhCN: "尉官的徽记",
     pronunciationJa: "いかんのきしょう",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "ファデュイのドロップアイテム (★3)",
   },
   {
@@ -346,7 +346,7 @@
     ja: "士官の記章",
     zhCN: "士官的徽记",
     pronunciationJa: "しかんのきしょう",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "ファデュイのドロップアイテム (★2)",
   },
   {
@@ -354,7 +354,7 @@
     ja: "新兵の記章",
     zhCN: "新兵的徽记",
     pronunciationJa: "しんぺいのきしょう",
-    tags: [ "drop" ],
+    tags: [ "drop", "snezhnaya" ],
     notes: "ファデュイのドロップアイテム (★1)",
   },
   {
@@ -409,7 +409,7 @@
     ja: "古びた鍔",
     zhCN: "破旧的刀镡",
     pronunciationJa: "ふるびたつば",
-    tags: [ "drop" ],
+    tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★1)",
   },
   {
@@ -417,7 +417,7 @@
     ja: "影打の鍔",
     zhCN: "影打刀镡",
     pronunciationJa: "かげうちのつば",
-    tags: [ "drop" ],
+    tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★2)",
   },
   {
@@ -425,7 +425,7 @@
     ja: "名刀の鍔",
     zhCN: "名刀镡",
     pronunciationJa: "めいとうのつば",
-    tags: [ "drop" ],
+    tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★3)",
   },
   {
@@ -454,21 +454,21 @@
     ja: "キノコンの胞子",
     zhCN: "蕈兽孢子",
     pronunciationJa: "キノコンのほうし",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "キノコンのドロップアイテム (★1)",
   },
   {
     en: "Luminescent Pollen",
     ja: "キノコンの蛍胞子",
     zhCN: "荧光孢粉",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "キノコンのドロップアイテム (★2)",
   },
   {
     en: "Crystalline Cyst Dust",
     ja: "キノコンの晶胞子",
     zhCN: "孢囊晶尘",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "キノコンのドロップアイテム (★3)",
   },
   {
@@ -476,7 +476,7 @@
     ja: "キノコンの衰菌核",
     pronunciationJa: "キノコンのすいきんかく", // No reference
     zhCN: "失活菌核",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "活発・枯燥状態のキノコンのドロップアイテム (★2)",
   },
   {
@@ -484,7 +484,7 @@
     ja: "キノコンの眠菌核",
     pronunciationJa: "キノコンのみんきんかく", // No reference
     zhCN: "休眠菌核",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "活発・枯燥状態のキノコンのドロップアイテム (★3)",
   },
   {
@@ -492,7 +492,7 @@
     ja: "キノコンの壮菌核",
     zhCN: "茁壮菌核",
     pronunciationJa: "キノコンのそうきんかく", // No reference
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "活発・枯燥状態のキノコンのドロップアイテム (★4)",
   },
   {
@@ -524,42 +524,42 @@
     ja: "色褪せた赤い絹",
     zhCN: "褪色红绸",
     pronunciationJa: "いろあせたあかいきぬ",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "エルマイト旅団のドロップアイテム (★1)",
   },
   {
     en: "Trimmed Red Silk",
     ja: "縁飾の赤い絹",
     zhCN: "镶边红绸",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "エルマイト旅団のドロップアイテム (★2)",
   },
   {
     en: "Rich Red Brocade",
     ja: "金織の赤い絹",
     zhCN: "织金红绸",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "エルマイト旅団のドロップアイテム (★3)",
   },
   {
     en: "Damaged Prism",
     ja: "壊れたプリズム",
     zhCN: "破缺棱晶",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "プライマル構造体のドロップアイテム (★2)",
   },
   {
     en: "Turbid Prism",
     ja: "濁ったプリズム",
     zhCN: "混浊棱晶",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "プライマル構造体のドロップアイテム (★3)",
   },
   {
     en: "Radiant Prism",
     ja: "輝くプリズム",
     zhCN: "辉光棱晶",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ],
     notes: "プライマル構造体のドロップアイテム (★4)",
   },
   {
@@ -567,7 +567,7 @@
     ja: "毀れた背骨",
     zhCN: "残毁的横脊",
     pronunciationJa: "やぶれたはいこつ",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
     notes: "聖骸獣のドロップアイテム (★2)",
   },
   {
@@ -575,14 +575,14 @@
     ja: "堅固な背骨",
     zhCN: "密固的横脊",
     pronunciationJa: "けんごなはいこつ",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
     notes: "聖骸獣のドロップアイテム (★3)",
   },
   {
     en: "Marked Shell",
     ja: "刻紋の背骨",
     zhCN: "锲纹的横脊",
-    tags: [ "drop" ],
+    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
     notes: "聖骸獣のドロップアイテム (★4)",
   },
 ]
