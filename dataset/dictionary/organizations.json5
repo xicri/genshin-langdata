@@ -268,6 +268,7 @@
   {
     en: "Alliance of the Twenty-Nine Ocean Deys",
     ja: "二十九オーシャンデイズ連盟",
+    zhCN: "二十九海洋代伊联盟",
     pronunciationJa: "にじゅうきゅうオーシャンデイズれんめい",
     tags: [ "sumeru", "organization" ],
     notes: "Dey とは、史実ではオスマン帝国支配下のアルジェリア、リビア、チュニジアなどの支配者に与えられた称号のこと。参考: [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4_(%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E5%B8%9D%E5%9B%BD))",
@@ -296,6 +297,7 @@
   {
     en: "Blazing Beasts",
     ja: "熾光の猟獣",
+    zhCN: "炽光猎兽",
     pronunciationJa: "しこうのりょうじゅう",
     tags: [ "sumeru", "organization" ],
     notes: "ディシアの所属するエルマイト旅団",
@@ -303,6 +305,7 @@
   {
     en: "Deshret's Relics",
     ja: "神王のレリクス",
+    zhCN: "神王之遗",
     pronunciationJa: "しんのうのレリクス",
     tags: [ "sumeru", "organization" ],
     notes: "ディシアの伝説任務に登場するエルマイト旅団の1つ",
@@ -310,6 +313,7 @@
   {
     en: "Dakan Al-Ahmar",
     ja: "アフマルの鬚",
+    zhCN: "阿赫玛尔之须",
     pronunciationJa: "アフマルのひげ",
     tags: [ "sumeru", "organization" ],
     notes: "神王のレリクス傘下のエルマイト旅団の1つ",
@@ -331,12 +335,14 @@
   {
     en: "Fontaine Research Institute",
     ja: "フォンテーヌ科学院",
+    zhCN: "枫丹科学院",
     pronunciationJa: "フォンテーヌかがくいん",
     tags: [ "organization" ],
   },
   {
     en: "Fontaine Research Institute of Kinetic Energy Engineering",
     ja: "フォンテーヌ運動エネルギー工学科学研究院",
+    zhCN: "枫丹动能工程科学研究院",
     pronunciationJa: "フォンテーヌうんどうエネルギーこうがくかがくけんきゅういん",
     tags: [ "organization" ],
     notes: "フォンテーヌ科学院の正式名称",
