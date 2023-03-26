@@ -3082,6 +3082,7 @@
   {
     en: "Chess Piece",
     ja: "駒",
+    zhCN: "棋子",
     pronunciationJa: "こま",
     tags: [ "object", "sumeru" ],
     notes: "「神の碁盤」に配置するアイテム",
@@ -3089,6 +3090,7 @@
   {
     en: "Activation Device",
     ja: "活性化デバイス",
+    zhCN: "激活器件",
     pronunciationJa: "かっせいかデバイス",
     tags: [ "item", "sumeru" ],
     notes: "「神の碁盤」に配置するアイテム",

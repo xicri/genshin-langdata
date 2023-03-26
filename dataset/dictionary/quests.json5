@@ -291,6 +291,7 @@
   {
     en: "Break the Sword Cemetery Seal",
     ja: "剣塚封印を探索",
+    zhCN: "探索剑冢封印",
     pronunciationJa: "けんづかふういんをたんさく",
     tags: [ "mondstadt", "quest-world" ],
   },
@@ -607,6 +608,7 @@
   {
     en: "Fishing For Jade",
     ja: "海上拾玉",
+    zhCN: "海上拾玉",
     pronunciationJa: "かいじょうしゅうぎょく",
     tags: [ "liyue", "quest-world" ],
   },
@@ -676,6 +678,7 @@
   {
     en: "The Chasm Charters",
     ja: "層岩巨淵尋訪記",
+    zhCN: "层岩巨渊寻访记",
     tags: [ "liyue", "quest-world" ],
   },
   {
@@ -687,11 +690,13 @@
   {
     en: "Chasm Spelunkers",
     ja: "巨淵初探査",
+    zhCN: "方入巨渊初探勘",
     tags: [ "liyue", "quest-world" ],
   },
   {
     en: "First Miasmic Contact",
     ja: "深淵瘴気と初の対面",
+    zhCN: "初识暗渊毒瘴现",
     tags: [ "liyue", "quest-world" ],
   },
   {
@@ -1077,6 +1082,7 @@
   {
     en: "Serpent's Heart Inquiry",
     ja: "蛇心を訪ねる",
+    zhCN: "蛇心的叩问",
     pronunciationJa: "じゃしんをたずねる",
     tags: [ "inazuma", "quest-world" ],
   },
@@ -1098,13 +1104,14 @@
   {
     en: "Relics of Seirai",
     ja: "セイライの遺宝",
-    zhCN: "清籁旧忆",
+    zhCN: "清籁旧宝",
     pronunciationJa: "セイライのいほう",
     tags: [ "inazuma", "quest-world" ],
   },
   {
     en: "Reminiscence of Seirai",
     ja: "セイライの旧事",
+    zhCN: "清籁旧忆",
     pronunciationJa: "セイライのきゅうじ",
     tags: [ "inazuma", "quest-world" ],
   },
@@ -1244,6 +1251,7 @@
   {
     en: "Courage is in the Heart",
     ja: "勇気を心につけて",
+    zhCN: "勇气戴于心上",
     pronunciationJa: "ゆうきをこころにつけて",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -1281,6 +1289,7 @@
   {
     en: "Tadhla the Falcon",
     ja: "「猟鷹」タッドラー",
+    zhCN: "「猎鹰」塔德菈",
     pronunciationJa: "りょうようタッドラー", // TODO needs confirmation
     tags: [ "sumeru", "quest-world" ],
     notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
@@ -1288,6 +1297,7 @@
   {
     en: "\"The Falcon's Hunt\"",
     ja: "「鷹猟」",
+    zhCN: "「鹰猎」",
     pronunciationJa: "たかりょう",
     tags: [ "sumeru", "quest-world" ],
     notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
@@ -1295,6 +1305,7 @@
   {
     en: "The Fallen Falcon",
     ja: "翼の折れた猟鷹",
+    zhCN: "翅膀折断的猎鹰",
     pronunciationJa: "つばさのおれたりょうよう", // TODO needs confirmation
     tags: [ "sumeru", "quest-world" ],
     notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
@@ -1302,6 +1313,7 @@
   {
     en: "Apocalypse Lost",
     ja: "過ぎ去りし終末",
+    zhCN: "已逝去的末日",
     pronunciationJa: "すぎさりししゅうまつ",
     tags: [ "sumeru", "quest-world" ],
     notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
@@ -1309,6 +1321,7 @@
   {
     en: "Her Foes Rage Like Great Waters...",
     ja: "仇敵は沸き返る水の如く…",
+    zhCN: "仇敌仿佛众水翻腾…",
     pronunciationJa: "きゅうてきはわきかえるみずのごとく",
     tags: [ "sumeru", "quest-world" ],
     notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
@@ -1697,6 +1710,7 @@
   {
     en: "Big Pudgy Problem!",
     ja: "まるい群れ騒動!",
+    zhCN: "圆滚滚的大团骚乱！",
     pronunciationJa: "まるいむれそうどう",
     tags: [ "quest-daily" ],
   },
@@ -2107,6 +2121,7 @@
   {
     en: "Archery Demonstration",
     ja: "弓術の手本",
+    zhCN: "箭术示范",
     pronunciationJa: "きゅうじゅつのてほん",
     tags: [ "inazuma", "quest-daily" ],
   },

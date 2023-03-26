@@ -455,6 +455,7 @@
   {
     en: "Cooldown / CD",
     ja: "クールタイム",
+    zhCN: "冷却时间",
   },
   {
     en: "DMG",

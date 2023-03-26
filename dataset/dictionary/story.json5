@@ -556,6 +556,7 @@
   {
     en: "Gurabad",
     ja: "ジュラバド",
+    zhCN: "居尔城",
     tags: [ "sumeru" ],
   },
   {
@@ -575,6 +576,7 @@
   {
     en: "The Wall of Hope",
     ja: "希望の壁",
+    zhCN: "希望之壁",
     tags: [ "sumeru" ],
     notes: "ディシアが孤児院に寄付した資金に付けた名前",
   },

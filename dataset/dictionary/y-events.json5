@@ -237,12 +237,14 @@
   {
     en: "Lil' Fungus / Lil' Fungi",
     ja: "ちびチエキノコン",
+    zhCN: "小小灵蕈",
     notes: "v3.5 期間限定イベント「チエキノコン布陣」で用いる、チエキノコンをモチーフにした駒。Lil' Fungus が単数形、Lil' Fungi が複数形。",
     tags: [ "event" ],
   },
   {
     en: "Marvelous Gel",
     ja: "マーベラスゼリー",
+    zhCN: "妙妙琼脂",
     notes: "v3.5 期間限定イベント「チエキノコン布陣」でキノコンたちに与える食べ物、又はゲーム中でスキルを利用するために必要なメーター",
     tags: [ "event" ],
   },
@@ -257,18 +259,21 @@
   {
     en: "Anatole",
     ja: "アナトール",
+    zhCN: "阿纳托尔",
     notes: "v3.5 期間限定イベント「振晶の照合実験」に登場するキャラクター",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Edwin Eastinghouse",
     ja: "エドウィン・イースティングハウス",
+    zhCN: "艾德温·伊斯丁豪斯",
     notes: "v3.5 期間限定イベント「振晶の照合実験」で言及されるキャラクター",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Arkhium",
     ja: "アルケウム",
+    zhCN: "始基矿",
     notes: "v3.5 期間限定イベント「振晶の照合実験」で言及される物質? エドウィン・イースティングハウスが実験のために用いたとされる。",
     tags: [ "event", "character-sub" ],
   },
@@ -491,12 +496,14 @@
   {
     en: "Souka",
     ja: "左右加",
+    zhCN: "左右加",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会出場者の1人",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Balfour",
     ja: "バルフォア",
+    zhCN: "贝尔福",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」の大会運営スタッフの1人",
     tags: [ "event", "character-sub" ],
   },
@@ -542,6 +549,7 @@
   {
     en: "Stormstress",
     ja: "信風舞姫",
+    zhCN: "信风舞姬",
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」で左右加が仲間にしたキノコン",
     tags: [ "event", "character-sub" ],
   },
@@ -562,12 +570,14 @@
   {
     en: "Golden Comet",
     ja: "ゴールド流星",
+    zhCN: "黄金流星",
     tags: [ "event", "title" ],
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」における主人公の称号",
   },
   {
     en: "Silver Companion",
     ja: "シルバー伴星",
+    zhCN: "白银伴星",
     tags: [ "event", "title" ],
     notes: "v3.2 期間限定イベント「ワンダフルキノコンピック」におけるパイモンの称号",
   },
@@ -908,6 +918,7 @@
   {
     en: "Patrice",
     ja: "パトリック",
+    zhCN: "帕特里克",
     notes: "v2.6 期間限定イベント「振晶の研究」に登場するキャラクター",
     tags: [ "event", "character-sub" ],
   },

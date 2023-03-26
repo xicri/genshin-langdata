@@ -585,6 +585,7 @@
   {
     en: "Huffman Schmidt",
     ja: "ホフマン・シュミット",
+    zhCN: "霍夫曼·施密特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "ミカの兄",
     variants: {
@@ -963,6 +964,7 @@
   {
     en: "Jade Radish",
     ja: "白玉大根",
+    zhCN: "白玉萝卜",
     pronunciationJa: "しらたまだいこん", // need confirmation
     tags: [ "liyue" ],
     notes: "月桂が投げる武器",
@@ -970,6 +972,7 @@
   {
     en: "Mega Radish",
     ja: "超スゴイ! 大根",
+    zhCN: "超厉害·大萝卜",
     pronunciationJa: "ちょうスゴイだいこん",
     tags: [ "liyue" ],
     notes: "ヨォーヨが完凸している場合に月桂が投げる武器",
@@ -1423,6 +1426,7 @@
   {
     en: "Antoha",
     ja: "アントハー",
+    zhCN: "安托哈",
     // Note: Antoha is a slang form of Anton, and there's no such difference in Chinese.
     tags: [ "liyue", "snezhnaya", "character-sub" ],
   },
@@ -1583,6 +1587,7 @@
   {
     en: "Lady Yae",
     ja: "八重様",
+    zhCN: "八重大人",
     pronunciationJa: "やえさま",
     tags: [ "inazuma", "how-to-call" ],
     notes: "八重神子が部下などから呼ばれる際の敬称",
@@ -2500,24 +2505,28 @@
   {
     en: "Yuften",
     ja: "ユフトゥン",
+    zhCN: "尤夫腾",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」などに登場するキャラクター。タニット部族の1人。",
   },
   {
     en: "Tadhla",
     ja: "タッドラー",
+    zhCN: "塔德菈",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。マシーラの娘。",
   },
   {
     en: "Masseira",
     ja: "マシーラ",
+    zhCN: "马塞拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。タッドラーの父親。",
   },
   {
     en: "Zoya Snezhevna",
     ja: "ゾーヤ・シュナイツェフナ",
+    zhCN: "佐娅·雪奈茨芙娜",
     tags: [ "sumeru", "snezhnaya", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。", // TODO: ファデュイの大尉 = Captain of Fatui
   },
@@ -2715,6 +2724,7 @@
   {
     en: "Arashakun",
     ja: "アランシャクン",
+    zhCN: "兰沙恭",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「勇気を心につけて」に登場するアランナラ",
   },
@@ -2737,12 +2747,14 @@
   {
     en: "Kusayla",
     ja: "クセラ",
+    zhCN: "库塞拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの父。アフマルの鬚のリーダー",
   },
   {
     en: "Shahzaman Homayani",
     ja: "サッザマン・フーマイ",
+    zhCN: "沙扎曼·呼玛伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "ドニアザードの父",
     variants: {
@@ -2753,24 +2765,28 @@
   {
     en: "Idrisi",
     ja: "イドリシ",
+    zhCN: "伊德里西",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
   },
   {
     en: "Bashar",
     ja: "バシャール",
+    zhCN: "巴沙尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
   },
   {
     en: "Tikriti",
     ja: "ティクリッティ",
+    zhCN: "提克里蒂",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
   },
   {
     en: "Mishal",
     ja: "ミジャール",
+    zhCN: "米沙勒",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。神王のレリクスの首領",
   },
@@ -2839,6 +2855,7 @@
   {
     en: "Alain Guillotin",
     ja: "アラン・ギヨタン",
+    zhCN: "阿兰·吉约丹",
     tags: [ "character-sub" ],
     notes: "フォンテーヌ科学院の創立者",
   },
@@ -2865,6 +2882,7 @@
   {
     en: "Babisse",
     ja: "バビス",
+    zhCN: "巴比斯",
     tags: [ "character-sub" ],
     notes: "空想クラブの一員",
   },
@@ -3164,12 +3182,14 @@
   {
     en: "Snezhevna",
     ja: "シュナイツェフナ",
+    zhCN: "雪奈茨芙娜",
     tags: [ "snezhnaya" ],
     notes: "召使の孤児院出身の女性が名乗る姓",
   },
   {
     en: "Snezhevich",
     ja: "シュナイツェビッチ",
+    zhCN: "雪奈茨维奇",
     tags: [ "snezhnaya" ],
     notes: "召使の孤児院出身の男性が名乗る姓",
   },
