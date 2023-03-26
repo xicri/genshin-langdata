@@ -5,6 +5,7 @@
     zhCN: "高塔孤王的碎梦",
     pronunciationJa: "こうとうのおうのくだけたゆめ",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Fragment of Decarabian's Epic",
@@ -12,6 +13,7 @@
     zhCN: "高塔孤王的断片",
     pronunciationJa: "こうとうのおうのだんぺん",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Debris of Decarabian's City",
@@ -19,35 +21,51 @@
     zhCN: "高塔孤王的残垣",
     pronunciationJa: "こうとうのおうのざんぺき",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★3武器突破素材",
   },
-  // Note: no Tile of Decarabian's Tower? (zhCN: "高塔孤王的破瓦")
-  // Seems that all the corresponding 2star items following until items form Inazuma are missing.
-  // I will leave the Chinese translation in the place by order.
+  {
+    en: "Tile of Decarabian's Tower",
+    ja: "高塔の王の瓦",
+    zhCN: "高塔孤王的破瓦",
+    pronunciationJa: "こうとうのおうのかわら",
+    tags: [ "weapon-material", "mondstadt" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Boreal Wolf's Nostalgia",
     ja: "凛風奔狼の郷愁",
     zhCN: "凛风奔狼的怀乡",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Boreal Wolf's Broken Fang",
     ja: "凛風奔狼の断牙",
     zhCN: "凛风奔狼的断牙",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Boreal Wolf's Cracked Tooth",
     ja: "凛風奔狼の砕牙",
     zhCN: "凛风奔狼的裂齿",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★3武器突破素材",
   },
-  // zhCN: "凛风奔狼的始龀",
+  {
+    en: "Boreal Wolf's Milk Tooth",
+    ja: "凛風奔狼の乳歯",
+    zhCN: "凛风奔狼的始龀",
+    tags: [ "weapon-material", "mondstadt" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Dream of the Dandelion Gladiator",
     ja: "獅牙戦士の理想",
     zhCN: "狮牙斗士的理想",
     pronunciationJa: "しがせんしのりそう",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Shackles of the Dandelion Gladiator",
@@ -55,6 +73,7 @@
     zhCN: "狮牙斗士的镣铐",
     pronunciationJa: "しがせんしのてじょう",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Chains of the Dandelion Gladiator",
@@ -62,14 +81,23 @@
     zhCN: "狮牙斗士的铁链",
     pronunciationJa: "しがせんしのくさり",
     tags: [ "weapon-material", "mondstadt" ],
+    notes: "★3武器突破素材",
   },
-  // zhCN: "狮牙斗士的枷锁",
+  {
+    en: "Fetters of the Dandelion Gladiator",
+    ja: "獅牙戦士の枷",
+    zhCN: "狮牙斗士的枷锁",
+    pronunciationJa: "しがせんしのかせ",
+    tags: [ "weapon-material", "mondstadt" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Divine Body from Guyun",
     ja: "孤雲寒林の神体",
     zhCN: "孤云寒林的神体",
     pronunciationJa: "こうんかんりんのしんたい",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Relic from Guyun",
@@ -77,6 +105,7 @@
     zhCN: "孤云寒林的圣骸",
     pronunciationJa: "こうんかんりんのせいがい",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Lustrous Stone from Guyun",
@@ -84,33 +113,51 @@
     zhCN: "孤云寒林的辉岩",
     pronunciationJa: "こうんかんりんのきがん",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★3武器突破素材",
   },
-  // zhCN: "孤云寒林的光砂",
+  {
+    en: "Luminous Sands from Guyun",
+    ja: "孤雲寒林の光砂",
+    zhCN: "孤云寒林的光砂",
+    pronunciationJa: "こうんかんりんのこうさ", // TODO need check
+    tags: [ "weapon-material", "liyue" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Mist Veiled Primo Elixir",
     ja: "霧海雲間の転還",
     zhCN: "雾海云间的转还",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Mist Veiled Gold Elixir",
     ja: "霧海雲間の金丹",
     zhCN: "雾海云间的金丹",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Mist Veiled Mercury Elixir",
     ja: "霧海雲間の水銀",
     zhCN: "雾海云间的汞丹",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★3武器突破素材",
   },
-  // zhCN: "雾海云间的铅丹",
+  {
+    en: "Mist Veiled Lead Elixir",
+    ja: "霧海雲間の鉛丹",
+    zhCN: "雾海云间的铅丹",
+    tags: [ "weapon-material", "liyue" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Chunk of Aerosiderite",
     ja: "漆黒の隕鉄の塊",
     zhCN: "漆黑陨铁的一块",
     pronunciationJa: "しっこくのいんてつのかたまり",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Bit of Aerosiderite",
@@ -118,6 +165,7 @@
     zhCN: "漆黑陨铁的一角",
     pronunciationJa: "しっこくのいんてつのいっかく",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Piece of Aerosiderite",
@@ -125,31 +173,43 @@
     zhCN: "漆黑陨铁的一片",
     pronunciationJa: "しっこくのいんてつのいっぺん",
     tags: [ "weapon-material", "liyue" ],
+    notes: "★3武器突破素材",
   },
-  // zhCN: "漆黑陨铁的一粒",
+  {
+    en: "Grain of Aerosiderite",
+    ja: "漆黒の隕鉄の一粒",
+    zhCN: "漆黑陨铁的一粒",
+    pronunciationJa: "しっこくのいんてつのひとつぶ",
+    tags: [ "weapon-material", "liyue" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Golden Branch of a Distant Sea",
     ja: "遠海夷地の金枝",
     zhCN: "远海夷地的金枝",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Jade Branch of a Distant Sea",
     ja: "遠海夷地の玉枝",
     zhCN: "远海夷地的玉枝",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Jeweled Branch of a Distant Sea",
     ja: "遠海夷地の石枝",
     zhCN: "远海夷地的琼枝",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★3武器突破素材",
   },
   {
     en: "Coral Branch of a Distant Sea",
     ja: "遠海夷地の瑚枝",
     zhCN: "远海夷地的瑚枝",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★2武器突破素材",
   },
   {
     en: "Narukami's Valor",
@@ -157,6 +217,7 @@
     zhCN: "鸣神御灵的勇武",
     pronunciationJa: "なるかみみたまのゆうぶ",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Narukami's Affection",
@@ -164,6 +225,7 @@
     zhCN: "鸣神御灵的亲爱",
     pronunciationJa: "なるかみみたまのしんあい",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Narukami's Joy",
@@ -171,6 +233,7 @@
     zhCN: "鸣神御灵的欢喜",
     pronunciationJa: "なるかみみたまのかんき",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★3武器突破素材",
   },
   {
     en: "Narukami's Wisdom",
@@ -178,6 +241,7 @@
     zhCN: "鸣神御灵的明惠",
     pronunciationJa: "なるかみみたまのおんけい",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★2武器突破素材",
   },
   {
     en: "Mask of the Kijin",
@@ -185,6 +249,7 @@
     zhCN: "今昔剧画之鬼人",
     pronunciationJa: "こんじゃくげきがのきじん",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Mask of the One-Horned",
@@ -192,6 +257,7 @@
     zhCN: "今昔剧画之一角",
     pronunciationJa: "こんじゃくげきがのせきかく",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Mask of the Tiger's Bite",
@@ -199,6 +265,7 @@
     zhCN: "今昔剧画之虎啮",
     pronunciationJa: "こんじゃくげきがのこが",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★3武器突破素材",
   },
   {
     en: "Mask of the Wicked Lieutenant",
@@ -206,30 +273,35 @@
     zhCN: "今昔剧画之恶尉",
     pronunciationJa: "こんじゃくげきがのあくい",
     tags: [ "weapon-material", "inazuma" ],
+    notes: "★2武器突破素材",
   },
   {
     en: "Olden Days of Scorching Might",
     ja: "烈日権威の往日",
     zhCN: "烈日威权的旧日",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Dream of Scorching Might",
     ja: "烈日権威の夢想",
     zhCN: "烈日威权的梦想",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Remnant Glow of Scorching Might",
     ja: "烈日権威の残光",
     zhCN: "烈日威权的余光",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★3武器突破素材",
   },
   {
     en: "Echo of Scorching Might",
     ja: "烈日権威の残響",
     zhCN: "烈日威权的残响",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★2武器突破素材",
   },
   {
     en: "Oasis Garden's Truth",
@@ -237,6 +309,7 @@
     zhCN: "绿洲花园的真谛",
     pronunciationJa: "オアシスガーデンのしんたい",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Oasis Garden's Mourning",
@@ -244,6 +317,7 @@
     zhCN: "绿洲花园的哀思",
     pronunciationJa: "オアシスガーデンのあいし",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Oasis Garden's Kindness",
@@ -251,6 +325,7 @@
     zhCN: "绿洲花园的恩惠",
     pronunciationJa: "オアシスガーデンのおんけい",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★3武器突破素材",
   },
   {
     en: "Oasis Garden's Reminiscence",
@@ -258,6 +333,7 @@
     zhCN: "绿洲花园的追忆",
     pronunciationJa: "オアシスガーデンのついおく",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★2武器突破素材",
   },
   {
     en: "Golden Talisman of the Forest Dew",
@@ -265,6 +341,7 @@
     zhCN: "谧林涓露的金符",
     pronunciationJa: "せいひつなもりのしずくのきんぷ",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★5武器突破素材",
   },
   {
     en: "Silver Talisman of the Forest Dew",
@@ -272,6 +349,7 @@
     zhCN: "谧林涓露的银符",
     pronunciationJa: "せいひつなもりのしずくのぎんぷ",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★4武器突破素材",
   },
   {
     en: "Iron Talisman of the Forest Dew",
@@ -279,11 +357,13 @@
     zhCN: "谧林涓露的铁符",
     pronunciationJa: "せいひつなもりのしずくのてっぷ",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★3武器突破素材",
   },
   {
     en: "Copper Talisman of the Forest Dew",
     ja: "静謐な森のしずくの銅符",
     zhCN: "谧林涓露的铜符",
     tags: [ "weapon-material", "sumeru" ],
+    notes: "★2武器突破素材",
   },
 ]
