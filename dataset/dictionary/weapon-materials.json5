@@ -23,9 +23,14 @@
     tags: [ "weapon-material", "mondstadt" ],
     notes: "★3武器突破素材",
   },
-  // Note: no Tile of Decarabian's Tower? (zhCN: "高塔孤王的破瓦")
-  // Seems that all the corresponding 2star items following until items form Inazuma are missing.
-  // I will leave the Chinese translation in the place by order.
+  {
+    en: "Tile of Decarabian's Tower",
+    ja: "高塔の王の瓦",
+    zhCN: "高塔孤王的破瓦",
+    pronunciationJa: "こうとうのおうのかわら",
+    tags: [ "weapon-material", "mondstadt" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Boreal Wolf's Nostalgia",
     ja: "凛風奔狼の郷愁",
@@ -47,7 +52,13 @@
     tags: [ "weapon-material", "mondstadt" ],
     notes: "★3武器突破素材",
   },
-  // zhCN: "凛风奔狼的始龀",
+  {
+    en: "Boreal Wolf's Milk Tooth",
+    ja: "凛風奔狼の乳歯",
+    zhCN: "凛风奔狼的始龀",
+    tags: [ "weapon-material", "mondstadt" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Dream of the Dandelion Gladiator",
     ja: "獅牙戦士の理想",
@@ -72,7 +83,14 @@
     tags: [ "weapon-material", "mondstadt" ],
     notes: "★3武器突破素材",
   },
-  // zhCN: "狮牙斗士的枷锁",
+  {
+    en: "Fetters of the Dandelion Gladiator",
+    ja: "獅牙戦士の枷",
+    zhCN: "狮牙斗士的枷锁",
+    pronunciationJa: "しがせんしのかせ",
+    tags: [ "weapon-material", "mondstadt" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Divine Body from Guyun",
     ja: "孤雲寒林の神体",
@@ -97,7 +115,14 @@
     tags: [ "weapon-material", "liyue" ],
     notes: "★3武器突破素材",
   },
-  // zhCN: "孤云寒林的光砂",
+  {
+    en: "Luminous Sands from Guyun",
+    ja: "孤雲寒林の光砂",
+    zhCN: "孤云寒林的光砂",
+    pronunciationJa: "こうんかんりんのこうさ", // TODO need check
+    tags: [ "weapon-material", "liyue" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Mist Veiled Primo Elixir",
     ja: "霧海雲間の転還",
@@ -119,7 +144,13 @@
     tags: [ "weapon-material", "liyue" ],
     notes: "★3武器突破素材",
   },
-  // zhCN: "雾海云间的铅丹",
+  {
+    en: "Mist Veiled Lead Elixir",
+    ja: "霧海雲間の鉛丹",
+    zhCN: "雾海云间的铅丹",
+    tags: [ "weapon-material", "liyue" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Chunk of Aerosiderite",
     ja: "漆黒の隕鉄の塊",
@@ -144,7 +175,14 @@
     tags: [ "weapon-material", "liyue" ],
     notes: "★3武器突破素材",
   },
-  // zhCN: "漆黑陨铁的一粒",
+  {
+    en: "Grain of Aerosiderite",
+    ja: "漆黒の隕鉄の一粒",
+    zhCN: "漆黑陨铁的一粒",
+    pronunciationJa: "しっこくのいんてつのひとつぶ",
+    tags: [ "weapon-material", "liyue" ],
+    notes: "★2武器突破素材",
+  },
   {
     en: "Golden Branch of a Distant Sea",
     ja: "遠海夷地の金枝",
