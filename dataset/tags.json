@@ -262,31 +262,31 @@
   "drop": {
     "en": "Drop",
     "ja": "ドロップアイテム",
-    "zh-CN": "TBD",
+    "zh-CN": "掉落物",
     "title": {
       "en": "Chinese & Japanese translations for the drops in Genshin Impact",
       "ja": "原神のドロップアイテムの英語・中国語表記一覧",
-      "zh-CN": "TBD"
+      "zh-CN": "原神中的掉落物的英语和日语翻译"
     }
   },
   "drop-boss": {
     "en": "Boss Drop",
     "ja": "ボスドロップ",
-    "zh-CN": "TBD",
+    "zh-CN": "Boss掉落物",
     "title": {
       "en": "Chinese & Japanese translations for the boss-drops in Genshin Impact",
       "ja": "原神のボスドロップアイテムの英語・中国語表記一覧",
-      "zh-CN": "TBD"
+      "zh-CN": "原神中的Boss的掉落物的英语和日语翻译"
     }
   },
   "gemstone": {
     "en": "Gemstone",
     "ja": "宝石",
-    "zh-CN": "TBD",
+    "zh-CN": "宝石",
     "title": {
       "en": "Chinese & Japanese translations for the gemstones in Genshin Impact",
       "ja": "原神の宝石素材の英語・中国語表記一覧",
-      "zh-CN": "TBD"
+      "zh-CN": "原神中的角色突破宝石材料的英语和日语翻译"
     }
   },
   "talent-material": {
@@ -302,11 +302,11 @@
   "weapon-material": {
     "en": "Weapon Ascension Material",
     "ja": "武器突破素材",
-    "zh-CN": "TBD",
+    "zh-CN": "武器突破素材",
     "title": {
       "en": "Chinese & Japanese translations for weapon ascension materials in Genshin Impact",
       "ja": "原神の武器突破素材の英語・中国語表記一覧",
-      "zh-CN": "TBD"
+      "zh-CN": "原神中的武器突破素材的英语和日语翻译"
     }
   },
   "food": {
