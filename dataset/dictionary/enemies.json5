@@ -1562,28 +1562,28 @@
     ja: "聖骸獣",
     zhCN: "圣骸兽",
     pronunciationJa: "せいがいじゅう",
-    tags: [ "sumeru", "enemy" ],
+    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
   },
   {
     en: "Consecrated Flying Serpent",
     ja: "聖骸トビヘビ",
     zhCN: "圣骸飞蛇",
     pronunciationJa: "せいがいトビヘビ",
-    tags: [ "sumeru", "enemy" ],
+    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
   },
   {
     en: "Consecrated Scorpion",
     ja: "聖骸サソリ",
     zhCN: "圣骸毒蝎",
     pronunciationJa: "せいがいサソリ",
-    tags: [ "sumeru", "enemy" ],
+    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
   },
   {
     en: "Consecrated Red Vulture",
     ja: "聖骸赤鷲",
     zhCN: "圣骸赤鹫",
     pronunciationJa: "せいがいあかわし",
-    tags: [ "sumeru", "enemy" ],
+    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
   },
 
   {
