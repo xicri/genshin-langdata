@@ -261,6 +261,12 @@
     },
   },
   {
+    en: "Nymph's Dream",
+    ja: "水仙の夢",
+    pronunciationJa: "すいせんのゆめ",
+    tags: [ "artifact" ],
+  },
+  {
     en: "Ocean-Hued Clam",
     ja: "海染硨磲",
     zhCN: "海染砗磲",
@@ -439,6 +445,12 @@
       en: [ "VV" ],
       zhCN: [ "风套" ],
     },
+  },
+  {
+    en: "Vourukasha's Glow",
+    ja: "花海甘露の光",
+    // pronunciationJa: "かかいかんろのひかり", // TODO Need Check
+    tags: [ "artifact" ],
   },
   {
     en: "Wanderer's Troupe",

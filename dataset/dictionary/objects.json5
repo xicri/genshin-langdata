@@ -702,4 +702,11 @@
     pronunciationJa: "ジンニーのえだ",
     tags: [ "object", "sumeru" ],
   },
+  {
+    en: "Manifestation Mechanism",
+    ja: "具現装置",
+    pronunciationJa: "ぐげんそうち",
+    tags: [ "object", "sumeru" ],
+    notes: "風の悪霊を配置するための装置",
+  },
 ]

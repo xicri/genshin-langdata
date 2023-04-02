@@ -257,6 +257,13 @@
     tags: [ "location" ],
     notes: "モンドの冒険者スタンレーがかつて訪れたという地域",
   },
+  {
+    en: "Geyser Realm",
+    ja: "泉の境",
+    pronunciationJa: "いずみのさかい",
+    tags: [ "location" ],
+    notes: "モンドの冒険者スタンレーがかつて訪れたという地域",
+  },
 
   {
     en: "Musk Reef",
@@ -1615,6 +1622,12 @@
     pronunciationJa: "えいえんのオアシス",
     tags: [ "sumeru", "location" ],
     notes: "マップ上の表記としては The Orchard of Pairidaeza となっているが、一部テキストにおいては Eternal Oasis と表記されている箇所もある",
+  },
+
+  {
+    en: "Girdle of the Sands",
+    ja: "蒼漠の囿土",
+    tags: [ "sumeru", "location" ],
   },
 
   //

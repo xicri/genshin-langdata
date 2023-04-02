@@ -594,6 +594,11 @@
     },
   },
   {
+    en: "Stanley",
+    ja: "スタンレー",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
     en: "Reckless Pallad",
     ja: "うっかりパラド",
     zhCN: "冒失的帕拉德",
@@ -703,6 +708,12 @@
     ja: "ナンタック",
     zhCN: "楠塔克",
     tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Marjorie",
+    ja: "マージョリー",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "「栄光の風」の店主",
   },
 
   //
@@ -1240,6 +1251,13 @@
     pronunciationJa: "なるみせいかしんくん",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月の仙人の一人",
+  },
+  {
+    en: "Changsheng",
+    ja: "長生",
+    pronunciationJa: "ちょうせい",
+    tags: [ "liyue", "character-sub" ],
+    notes: "白朮が連れている蛇",
   },
   {
     en: "Baiwen",
@@ -1820,6 +1838,13 @@
     zhCN: "柊弘嗣",
     pronunciationJa: "ひいらぎひろし",
     tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Wakamurasaki",
+    ja: "若紫",
+    pronunciationJa: "わかむらさき",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "四方八方の網を売ってくれる人物",
   },
   {
     en: "Ioroi",
@@ -2425,6 +2450,12 @@
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
   },
   {
+    en: "Arezo",
+    ja: "アレソ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ヴィマラ村にいるホッセイニの姉",
+  },
+  {
     en: "Effendi",
     ja: "エフェンディ",
     zhCN: "阿芬迪",
@@ -2818,6 +2849,31 @@
     pronunciationJa: "つみびと",
     tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
+  },
+
+  {
+    en: "Mehrak",
+    ja: "メラック",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "カーヴェの工具箱",
+  },
+  {
+    en: "Sorush",
+    ja: "ソルシュ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  // TODO Because I'm not sure Apep / アペプ is the name of the new weekly boss,
+  // I may update this word after v3.6 has released
+  {
+    en: "Apep",
+    ja: "アペプ",
+    tags: [ "sumeru", "character-sub", "enemy-boss" ],
+  },
+  {
+    en: "Dragon of Verdure",
+    ja: "翠の草龍",
+    tags: [ "sumeru", "title", "enemy-boss" ],
+    notes: "アペプの称号。正確な情報については確認中", // TODO
   },
 
   //
