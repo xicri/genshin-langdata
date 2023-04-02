@@ -5,7 +5,7 @@
     zhCN: "地域特产",
     pronunciationJa: "ちいきのとくさん",
     tags: [ "specialty" ],
-    notes: "単に「特産品」とも。",
+    notes: "単に「特産品」と呼ばれる場合もある。単に \"Specialty\" だと、「オリジナル料理」のことを指す場合もあるため注意",
   },
   // Mondstadt
   {
