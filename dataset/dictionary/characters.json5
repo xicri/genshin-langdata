@@ -3212,11 +3212,17 @@
     tags: [ "how-to-call" ],
   },
   {
+    en: "Bough Keeper",
+    ja: "枝を拾う者",
+    notes: "ダインスレイヴの現在の称号",
+    tags: [ "title" ],
+  },
+  {
     en: "Twilight Sword",
     ja: "末光の剣",
     zhCN: "末光之剑",
     pronunciationJa: "まっこうのつるぎ",
-    notes: "ダインスレイヴ (Dainsleif) の称号",
+    notes: "ダインスレイヴのかつての称号",
     tags: [ "title" ],
   },
 
