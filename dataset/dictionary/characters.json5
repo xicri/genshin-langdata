@@ -1879,13 +1879,19 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
-    en: "Orobaxi",
+    en: "Orobashi / Orobaxi",
     ja: "オロバシ",
     zhCN: "奥罗巴斯",
     tags: [ "inazuma", "character-sub" ],
-    notes: "v2.0では Orobashi と表記されていたが、v2.1で Orobaxi に変更されたようである。しかし Orobashi のまま変更されていないままの箇所が多数ある。「オロバシノミコト」はそのまま \"Orobashi no Mikoto\" (※未変更) と表記される。",
+    notes: "v2.1 以降、Orobashi と Orobaxi の両表記が混在している",
+  },
+  {
+    en: "Orobashi no Mikoto",
+    ja: "オロバシノミコト",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "「オロバシ」については、v2.1 以降 Orobashi と Orobaxi の両表記が混在しているが、「オロバシノミコト」については \"Orobaxi no Mikoto\" と表記されている箇所は見つかっていない",
     variants: {
-      en: [ "Orobashi" ],
+      en: [ "Orobaxi no Mikoto" ],
     },
   },
   {

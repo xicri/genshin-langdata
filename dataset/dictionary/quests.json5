@@ -742,7 +742,7 @@
     zhCN: "远吕羽氏遗事",
     pronunciationJa: "オロバシのいじ",
     tags: [ "inazuma", "quest-world" ],
-    notes: "v2.1で Orobashi は Orobaxi に表記が変更されたが、都市評判画面で確認した限り、このクエスト名では Orobashi のまま変更されていない。",
+    notes: "v2.1 以降、Orobashi と Orobaxi の両表記が混在しているが、こちらは Orobashi となっている",
   },
   {
     en: "Treatment on the Island",
