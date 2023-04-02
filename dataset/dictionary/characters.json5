@@ -1676,10 +1676,10 @@
     ],
   },
   {
-    en: "Captain of Swordfish Ⅱ",
-    ja: "メカジキ二番隊隊長",
-    zhCN: "剑鱼二番队队长",
-    pronunciationJa: "メカジキにばんたいたいちょう",
+    en: "Swordfish Ⅱ",
+    ja: "メカジキ二番隊",
+    zhCN: "剑鱼二番队",
+    pronunciationJa: "メカジキにばんたい",
     tags: [ "inazuma", "title" ],
   },
   {
