@@ -218,6 +218,7 @@
     ja: "メナケリーショップ",
     zhCN: "梅娜卡里商铺",
     tags: [ "sumeru", "facility" ],
+    notes: "草の印をアイテムと交換できる店",
   },
   {
     en: "Bimarstan",
