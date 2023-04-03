@@ -307,6 +307,20 @@
     },
   },
   {
+    en: "Raiden Gokaden",
+    ja: "雷電五箇伝",
+    pronunciationJa: "らいでんごかでん",
+    tags: [ "inazuma" ],
+    notes: "稲妻の刀鍛冶の流派5つを指す。英語版ではローマ字表記そのままのため、five schools of the craft という注釈が付く場合がある",
+  },
+  {
+    en: "Amenoma Art",
+    ja: "天目流",
+    pronunciationJa: "あめのまりゅう",
+    tags: [ "inazuma" ],
+    notes: "雷電五箇伝の1つ",
+  },
+  {
     en: "Electro Mitsudomoe",
     ja: "雷の三つ巴",
     zhCN: "雷之三重巴",

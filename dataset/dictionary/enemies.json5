@@ -409,6 +409,21 @@
       zhCN: [ "大伟丘" ],
     },
   },
+  {
+    en: "Hilichurl Rogue",
+    ja: "ヒルチャールレンジャー",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Anemo Hilichurl Rogue",
+    ja: "ヒルチャールレンジャー・風",
+    tags: [ "enemy" ],
+  },
+  {
+    en: "Hydro Hilichurl Rogue",
+    ja: "ヒルチャールレンジャー・水",
+    tags: [ "enemy" ],
+  },
 
   // Automatons
   {
@@ -621,6 +636,12 @@
     zhCN: "深渊咏者·渊火",
     pronunciationJa: "アビスのえいしょうしゃ・えんえん", // TODO Need check
     tags: [ "enemy" ],
+  },
+  {
+    en: "Iniquitous Baptist",
+    ja: "深罪の浸礼者",
+    pronunciationJa: "しんざいのしんれいしゃ", // Source: https://www.youtube.com/live/5jrz_Z3kmSk?t=1567
+    tags: [ "enemy" ], // TODO Is it Boss?
   },
 
   // Treasure Hoarders

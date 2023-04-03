@@ -272,4 +272,16 @@
     zhCN: "镇灵",
     tags: [ "living-being", "sumeru" ],
   },
+  {
+    en: "Signal Spirit",
+    ja: "風の悪霊",
+    pronunciationJa: "かぜのあくりょう",
+    tags: [ "living-being", "sumeru" ],
+  },
+  {
+    en: "Pari",
+    ja: "花霊",
+    pronunciationJa: "かれい",
+    tags: [ "living-being", "sumeru" ],
+  },
 ]

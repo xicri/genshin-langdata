@@ -1215,6 +1215,13 @@
     notes: "神里綾華のオリジナル料理",
   },
   {
+    en: "Quiet Elegance",
+    ja: "「静寂閑雅」",
+    pronunciationJa: "せいじゃくかんが",
+    tags: [ "food", "inazuma" ],
+    notes: "神里綾人のオリジナル料理",
+  },
+  {
     en: "Summer Festival Fish",
     ja: "夏祭りの游魚",
     zhCN: "夏祭游鱼",
@@ -1302,6 +1309,13 @@
     pronunciationJa: "りそうてきじょうきょう",
     tags: [ "food", "sumeru" ],
     notes: "アルハイゼンのオリジナル料理",
+  },
+  {
+    en: "Shimi Chazuke",
+    ja: "真味茶漬け",
+    pronunciationJa: "しんみちゃずけ",
+    tags: [ "food", "sumeru" ],
+    notes: "放浪者のオリジナル料理",
   },
 
   //

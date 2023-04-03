@@ -594,6 +594,11 @@
     },
   },
   {
+    en: "Stanley",
+    ja: "スタンレー",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
     en: "Reckless Pallad",
     ja: "うっかりパラド",
     zhCN: "冒失的帕拉德",
@@ -703,6 +708,12 @@
     ja: "ナンタック",
     zhCN: "楠塔克",
     tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Marjorie",
+    ja: "マージョリー",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "「栄光の風」の店主",
   },
 
   //
@@ -1242,6 +1253,13 @@
     notes: "璃月の仙人の一人",
   },
   {
+    en: "Changsheng",
+    ja: "長生",
+    pronunciationJa: "ちょうせい",
+    tags: [ "liyue", "character-sub" ],
+    notes: "白朮が連れている蛇",
+  },
+  {
     en: "Baiwen",
     ja: "百聞",
     pronunciationJa: "ひゃくぶん",
@@ -1676,10 +1694,10 @@
     ],
   },
   {
-    en: "Captain of Swordfish Ⅱ",
-    ja: "メカジキ二番隊隊長",
-    zhCN: "剑鱼二番队队长",
-    pronunciationJa: "メカジキにばんたいたいちょう",
+    en: "Swordfish Ⅱ",
+    ja: "メカジキ二番隊",
+    zhCN: "剑鱼二番队",
+    pronunciationJa: "メカジキにばんたい",
     tags: [ "inazuma", "title" ],
   },
   {
@@ -1822,6 +1840,13 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Wakamurasaki",
+    ja: "若紫",
+    pronunciationJa: "わかむらさき",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "四方八方の網を売ってくれる人物",
+  },
+  {
     en: "Ioroi",
     ja: "五百蔵",
     zhCN: "五百藏",
@@ -1879,13 +1904,19 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
-    en: "Orobaxi",
+    en: "Orobashi / Orobaxi",
     ja: "オロバシ",
     zhCN: "奥罗巴斯",
     tags: [ "inazuma", "character-sub" ],
-    notes: "v2.0では Orobashi と表記されていたが、v2.1で Orobaxi に変更されたようである。しかし Orobashi のまま変更されていないままの箇所が多数ある。「オロバシノミコト」はそのまま \"Orobashi no Mikoto\" (※未変更) と表記される。",
+    notes: "v2.1 以降、Orobashi と Orobaxi の両表記が混在している",
+  },
+  {
+    en: "Orobashi no Mikoto",
+    ja: "オロバシノミコト",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "「オロバシ」については、v2.1 以降 Orobashi と Orobaxi の両表記が混在しているが、「オロバシノミコト」については \"Orobaxi no Mikoto\" と表記されている箇所は見つかっていない",
     variants: {
-      en: [ "Orobashi" ],
+      en: [ "Orobaxi no Mikoto" ],
     },
   },
   {
@@ -2419,6 +2450,12 @@
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
   },
   {
+    en: "Arezo",
+    ja: "アレソ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ヴィマラ村にいるホッセイニの姉",
+  },
+  {
     en: "Effendi",
     ja: "エフェンディ",
     zhCN: "阿芬迪",
@@ -2812,6 +2849,31 @@
     pronunciationJa: "つみびと",
     tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
+  },
+
+  {
+    en: "Mehrak",
+    ja: "メラック",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "カーヴェの工具箱",
+  },
+  {
+    en: "Sorush",
+    ja: "ソルシュ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  // TODO Because I'm not sure Apep / アペプ is the name of the new weekly boss,
+  // I may update this word after v3.6 has released
+  {
+    en: "Apep",
+    ja: "アペプ",
+    tags: [ "sumeru", "character-sub", "enemy-boss" ],
+  },
+  {
+    en: "Dragon of Verdure",
+    ja: "翠の草龍",
+    tags: [ "sumeru", "title", "enemy-boss" ],
+    notes: "アペプの称号。正確な情報については確認中", // TODO
   },
 
   //
@@ -3212,11 +3274,17 @@
     tags: [ "how-to-call" ],
   },
   {
+    en: "Bough Keeper",
+    ja: "枝を拾う者",
+    notes: "ダインスレイヴの現在の称号",
+    tags: [ "title" ],
+  },
+  {
     en: "Twilight Sword",
     ja: "末光の剣",
     zhCN: "末光之剑",
     pronunciationJa: "まっこうのつるぎ",
-    notes: "ダインスレイヴ (Dainsleif) の称号",
+    notes: "ダインスレイヴのかつての称号",
     tags: [ "title" ],
   },
 

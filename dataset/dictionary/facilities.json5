@@ -20,6 +20,12 @@
     zhCN: "猎鹿人",
     tags: [ "mondstadt", "facility" ],
   },
+  {
+    en: "With Wind Comes Glory",
+    ja: "栄光の風",
+    tags: [ "mondstadt", "facility" ],
+    notes: "風の印をアイテムと交換できる店",
+  },
 
   //
   // Liyue
@@ -120,6 +126,12 @@
     tags: [ "liyue", "facility" ],
     notes: "鶯の店",
   },
+  {
+    en: "Mingxing Jewelry",
+    ja: "明星斎",
+    tags: [ "liyue", "facility" ],
+    notes: "岩の印をアイテムと交換できる店",
+  },
 
   //
   // Inazuma
@@ -160,10 +172,23 @@
     tags: [ "inazuma", "facility" ],
   },
   {
+    en: "Netsuke no Gen Crafts",
+    ja: "根付の源",
+    pronunciationJa: "ねつけのげん",
+    tags: [ "inazuma", "facility" ],
+    notes: "雷の印をアイテムと交換できる店",
+  },
+  {
     en: "Uyuu Restaurant",
     ja: "烏有亭",
     zhCN: "乌有亭",
     pronunciationJa: "うゆうてい",
+    tags: [ "inazuma", "facility" ],
+  },
+  {
+    en: "Shimura's",
+    ja: "志村屋",
+    pronunciationJa: "しむらや",
     tags: [ "inazuma", "facility" ],
   },
   {
@@ -218,6 +243,7 @@
     ja: "メナケリーショップ",
     zhCN: "梅娜卡里商铺",
     tags: [ "sumeru", "facility" ],
+    notes: "草の印をアイテムと交換できる店",
   },
   {
     en: "Bimarstan",

@@ -742,7 +742,7 @@
     zhCN: "远吕羽氏遗事",
     pronunciationJa: "オロバシのいじ",
     tags: [ "inazuma", "quest-world" ],
-    notes: "v2.1で Orobashi は Orobaxi に表記が変更されたが、都市評判画面で確認した限り、このクエスト名では Orobashi のまま変更されていない。",
+    notes: "v2.1 以降、Orobashi と Orobaxi の両表記が混在しているが、こちらは Orobashi となっている",
   },
   {
     en: "Treatment on the Island",
@@ -1201,6 +1201,11 @@
     tags: [ "sumeru", "quest-world" ],
   },
   {
+    en: "Cost-Effective Hook",
+    ja: "釣り針の有効活用",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
     en: "Gourmet Supremos: Within Our Duties", // TODO Check if "The" is prepended after I checked this quest name
     ja: "全能グルメチーム・責務の範囲内",
     zhCN: "全能美食队·职责之内",
@@ -1552,6 +1557,13 @@
     tags: [ "liyue", "quest-story" ],
   },
   {
+    en: "Lagenaria Chapter",
+    ja: "懸壺の章",
+    pronunciationJa: "けんこのしょう",
+    notes: "白朮の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
     en: "Carassius Auratus Chapter",
     ja: "琉金の章",
     zhCN: "琉金之章",
@@ -1879,6 +1891,12 @@
     zhCN: "趁鲜花气息逗留",
     pronunciationJa: "かおりがのこっているうちに",
     tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
+    en: "Only Half-Frozen",
+    ja: "寒さ指数・中",
+    pronunciationJa: "さむさしすう・ちゅう",
+    tags: [ "quest-daily", "dragonspine" ],
   },
   {
     en: "Business in a Marsh",
