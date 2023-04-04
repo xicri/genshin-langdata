@@ -190,6 +190,7 @@
   {
     en: "A Parade of Providence",
     ja: "盛典と慧業",
+    zhCN: "盛典与慧业",
     pronunciationJa: "せいてんとえごう",
     notes: "v3.6 期間限定イベント。スメール教令院の学院祭。",
     tags: [ "event" ],
@@ -197,6 +198,7 @@
   {
     en: "Akademiya Extravaganza",
     ja: "学院祭",
+    zhCN: "学院庆典",
     pronunciationJa: "がくいんさい",
     notes: "v3.6 期間限定イベント「盛典と慧業」で実施される、スメール教令院の学院祭",
     tags: [ "event" ],
@@ -204,6 +206,7 @@
   {
     en: "Mimetic Replication",
     ja: "生体模倣",
+    zhCN: "仿生摹行",
     pronunciationJa: "せいたいもほう",
     notes: "v3.6 期間限定イベント「盛典と慧業」の子イベント",
     tags: [ "event" ],
@@ -211,6 +214,7 @@
   {
     en: "Gathering of Stars",
     ja: "星合わせの画",
+    zhCN: "明星聚画",
     pronunciationJa: "ほしあわせのえ", // TODO Need Check
     notes: "v3.6 期間限定イベント「盛典と慧業」の子イベント",
     tags: [ "event" ],
@@ -218,6 +222,7 @@
   {
     en: "Antiquity Hunt",
     ja: "考古調査",
+    zhCN: "究古考察",
     pronunciationJa: "こうこちょうさ",
     notes: "v3.6 期間限定イベント「盛典と慧業」の子イベント",
     tags: [ "event" ],
@@ -225,6 +230,7 @@
   {
     en: "Concocted Reaction",
     ja: "ポーション対処法",
+    zhCN: "药剂应对法",
     pronunciationJa: "ポーションたいしょほう",
     notes: "v3.6 期間限定イベント「盛典と慧業」の子イベント",
     tags: [ "event" ],
@@ -232,6 +238,7 @@
   {
     en: "Project Connectivity",
     ja: "ルート構想計画",
+    zhCN: "通路计划",
     pronunciationJa: "ルートこうそうけいかく",
     notes: "v3.6 期間限定イベント「盛典と慧業」の子イベント",
     tags: [ "event" ],
@@ -239,6 +246,7 @@
   {
     en: "In Truth's Steps",
     ja: "真相究明",
+    zhCN: "追溯求真",
     pronunciationJa: "しんそうきゅうめい",
     notes: "v3.6 期間限定イベント「盛典と慧業」の子イベント",
     tags: [ "event" ],
@@ -246,6 +254,7 @@
   {
     en: "The Recollector's Path",
     ja: "憶昔巡歴の旅",
+    zhCN: "忆昔诸途巡历",
     pronunciationJa: "おくせきじゅんれきのたび",
     notes: "v3.6 期間限定イベント",
     tags: [ "event" ],
@@ -253,6 +262,7 @@
   {
     en: "Fulminating Sandstorm",
     ja: "轟々たる風砂",
+    zhCN: "风沙轰鸣",
     pronunciationJa: "ごうごうたるふうさ", // TODO Need Check: ふうさ? ふうしゃ?
     notes: "v3.6 期間限定イベント",
     tags: [ "event" ],
@@ -260,6 +270,7 @@
   {
     en: "The Wenutslayer Cannon",
     ja: "対ウェネト殺虫大砲",
+    zhCN: "对沙虫用杀虫炮",
     pronunciationJa: "たいウェネトさっちゅうたいほう",
     notes: "v3.6 期間限定イベント「轟々たる風砂」で使用する武器。情報の正確性について確認中",
     tags: [ "event", "object" ],
@@ -267,6 +278,7 @@
   {
     en: "Brewing Developments",
     ja: "調剤エボリューション",
+    zhCN: "合剂演进",
     pronunciationJa: "ちょうざいエボリューション",
     notes: "v3.6 期間限定イベント",
     tags: [ "event" ],

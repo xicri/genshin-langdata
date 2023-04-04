@@ -596,6 +596,7 @@
   {
     en: "Stanley",
     ja: "スタンレー",
+    zhCN: "斯坦利",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -712,6 +713,7 @@
   {
     en: "Marjorie",
     ja: "マージョリー",
+    zhCN: "玛乔丽",
     tags: [ "mondstadt", "character-sub" ],
     notes: "「栄光の風」の店主",
   },
@@ -1255,6 +1257,7 @@
   {
     en: "Changsheng",
     ja: "長生",
+    zhCN: "长生",
     pronunciationJa: "ちょうせい",
     tags: [ "liyue", "character-sub" ],
     notes: "白朮が連れている蛇",
@@ -1842,6 +1845,7 @@
   {
     en: "Wakamurasaki",
     ja: "若紫",
+    zhCN: "若紫",
     pronunciationJa: "わかむらさき",
     tags: [ "inazuma", "character-sub" ],
     notes: "四方八方の網を売ってくれる人物",
@@ -1913,6 +1917,7 @@
   {
     en: "Orobashi no Mikoto",
     ja: "オロバシノミコト",
+    zhCN: "远吕羽氏尊",
     tags: [ "inazuma", "character-sub" ],
     notes: "「オロバシ」については、v2.1 以降 Orobashi と Orobaxi の両表記が混在しているが、「オロバシノミコト」については \"Orobaxi no Mikoto\" と表記されている箇所は見つかっていない",
     variants: {
@@ -2452,6 +2457,7 @@
   {
     en: "Arezo",
     ja: "アレソ",
+    zhCN: "阿莲佐",
     tags: [ "sumeru", "character-sub" ],
     notes: "ヴィマラ村にいるホッセイニの姉",
   },
@@ -2854,24 +2860,29 @@
   {
     en: "Mehrak",
     ja: "メラック",
+    zhCN: "梅赫拉克",
     tags: [ "sumeru", "character-sub" ],
     notes: "カーヴェの工具箱",
   },
   {
     en: "Sorush",
     ja: "ソルシュ",
+    zhCN: "斯露莎",
     tags: [ "sumeru", "character-sub" ],
   },
   // TODO Because I'm not sure Apep / アペプ is the name of the new weekly boss,
   // I may update this word after v3.6 has released
+  // (new) アペプのオアシス守護者 is in Preview page of v3.6
   {
     en: "Apep",
     ja: "アペプ",
+    zhCN: "阿佩普",
     tags: [ "sumeru", "character-sub", "enemy-boss" ],
   },
   {
     en: "Dragon of Verdure",
     ja: "翠の草龍",
+    zhCN: "草龙(暂定)",   //TODO 中文版译名暂缺，“草龙”是俗称。
     tags: [ "sumeru", "title", "enemy-boss" ],
     notes: "アペプの称号。正確な情報については確認中", // TODO
   },
@@ -3276,6 +3287,7 @@
   {
     en: "Bough Keeper",
     ja: "枝を拾う者",
+    zhCN: "拾枝者",
     notes: "ダインスレイヴの現在の称号",
     tags: [ "title" ],
   },

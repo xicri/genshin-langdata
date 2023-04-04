@@ -1257,6 +1257,7 @@
   {
     en: "Jadefall's Splendor",
     ja: "碧落の瓏",
+    zhCN: "碧落之珑",
     // pronunciationJa: "へきらくのろう", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
   },
