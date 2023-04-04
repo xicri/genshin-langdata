@@ -2882,7 +2882,7 @@
   {
     en: "Dragon of Verdure",
     ja: "翠の草龍",
-    zhCN: "草龙(暂定)",   //TODO 中文版译名暂缺，“草龙”是俗称。
+    //zhCN: "草龙(暂定)",   // TODO 中文版译名暂缺，“草龙”是俗称。
     tags: [ "sumeru", "title", "enemy-boss" ],
     notes: "アペプの称号。正確な情報については確認中", // TODO
   },
