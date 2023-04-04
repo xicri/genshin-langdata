@@ -1203,6 +1203,7 @@
   {
     en: "Cost-Effective Hook",
     ja: "釣り針の有効活用",
+    zhCN: "鱼钩的物尽其用",
     tags: [ "sumeru", "quest-world" ],
   },
   {
@@ -1559,6 +1560,7 @@
   {
     en: "Lagenaria Chapter",
     ja: "懸壺の章",
+    zhCN: "悬壶之章",
     pronunciationJa: "けんこのしょう",
     notes: "白朮の伝説任務",
     tags: [ "liyue", "quest-story" ],
@@ -1895,6 +1897,7 @@
   {
     en: "Only Half-Frozen",
     ja: "寒さ指数・中",
+    zhCN: "中度冰寒",
     pronunciationJa: "さむさしすう・ちゅう",
     tags: [ "quest-daily", "dragonspine" ],
   },

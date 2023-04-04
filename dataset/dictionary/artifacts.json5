@@ -263,6 +263,7 @@
   {
     en: "Nymph's Dream",
     ja: "水仙の夢",
+    zhCN: "水仙之梦",
     pronunciationJa: "すいせんのゆめ",
     tags: [ "artifact" ],
   },
@@ -449,6 +450,7 @@
   {
     en: "Vourukasha's Glow",
     ja: "花海甘露の光",
+    zhCN: "花海甘露之光",
     // pronunciationJa: "かかいかんろのひかり", // TODO Need Check
     tags: [ "artifact" ],
   },

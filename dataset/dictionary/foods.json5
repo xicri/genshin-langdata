@@ -1217,6 +1217,7 @@
   {
     en: "Quiet Elegance",
     ja: "「静寂閑雅」",
+    zhCN: "「静寂闲雅」",
     pronunciationJa: "せいじゃくかんが",
     tags: [ "food", "inazuma" ],
     notes: "神里綾人のオリジナル料理",
@@ -1313,6 +1314,7 @@
   {
     en: "Shimi Chazuke",
     ja: "真味茶漬け",
+    zhCN: "真味茶泡饭",
     pronunciationJa: "しんみちゃずけ",
     tags: [ "food", "sumeru" ],
     notes: "放浪者のオリジナル料理",

@@ -23,6 +23,7 @@
   {
     en: "With Wind Comes Glory",
     ja: "栄光の風",
+    zhCN: "荣光之风",
     tags: [ "mondstadt", "facility" ],
     notes: "風の印をアイテムと交換できる店",
   },
@@ -129,6 +130,7 @@
   {
     en: "Mingxing Jewelry",
     ja: "明星斎",
+    zhCN: "明星斋",
     tags: [ "liyue", "facility" ],
     notes: "岩の印をアイテムと交換できる店",
   },
@@ -174,6 +176,7 @@
   {
     en: "Netsuke no Gen Crafts",
     ja: "根付の源",
+    zhCN: "根付之源",
     pronunciationJa: "ねつけのげん",
     tags: [ "inazuma", "facility" ],
     notes: "雷の印をアイテムと交換できる店",
@@ -188,6 +191,7 @@
   {
     en: "Shimura's",
     ja: "志村屋",
+    zhCN: "志村屋",
     pronunciationJa: "しむらや",
     tags: [ "inazuma", "facility" ],
   },
