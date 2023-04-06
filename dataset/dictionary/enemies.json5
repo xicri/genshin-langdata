@@ -413,19 +413,19 @@
     en: "Hilichurl Rogue",
     ja: "ヒルチャールレンジャー",
     zhCN: "丘丘游侠",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "sumeru" ],
   },
   {
     en: "Anemo Hilichurl Rogue",
     ja: "ヒルチャールレンジャー・風",
     zhCN: "丘丘风行游侠",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "sumeru" ],
   },
   {
     en: "Hydro Hilichurl Rogue",
     ja: "ヒルチャールレンジャー・水",
     zhCN: "丘丘水行游侠",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "sumeru" ],
   },
 
   // Automatons
@@ -645,7 +645,7 @@
     ja: "深罪の浸礼者",
     zhCN: "深罪浸礼者",
     pronunciationJa: "しんざいのしんれいしゃ", // Source: https://www.youtube.com/live/5jrz_Z3kmSk?t=1567
-    tags: [ "enemy" ], // TODO Is it Boss?
+    tags: [ "enemy", "sumeru" ], // TODO Is it Boss?
   },
 
   // Treasure Hoarders
@@ -1400,14 +1400,14 @@
     en: "Fungus",
     ja: "キノコン",
     zhCN: "蕈兽",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Fungi で、原義は「菌類」。",
   },
   {
     en: "Floating Hydro Fungus",
     ja: "プカプカ水キノコン",
     zhCN: "浮游水蕈兽",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Floating Hydro Fungi。",
   },
   {
