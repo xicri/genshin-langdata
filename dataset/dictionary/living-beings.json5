@@ -213,7 +213,7 @@
     ja: "ラクラク駄獣",
     zhCN: "骆骆驮兽",
     pronunciationJa: "ラクラクだじゅう",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if it is really an enemy
+    tags: [ "living-being", "enemy", "sumeru" ],
   },
   {
     en: "Rishboland Tiger",
@@ -285,5 +285,10 @@
     zhCN: "花灵",
     pronunciationJa: "かれい",
     tags: [ "living-being", "sumeru" ],
+  },
+  {
+    en: "Tent Tortoise",
+    ja: "テントガメ",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if they are really enemies
   },
 ]
