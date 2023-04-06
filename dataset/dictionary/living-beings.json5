@@ -286,4 +286,9 @@
     pronunciationJa: "かれい",
     tags: [ "living-being", "sumeru" ],
   },
+  {
+    en: "Tent Tortoise",
+    ja: "テントガメ",
+    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if they are really enemies
+  },
 ]

@@ -500,6 +500,11 @@
     tags: [ "sumeru" ], // TODO add item or specialty tag?
   },
   {
+    en: "Trishiraite",
+    ja: "サングイト",
+    tags: [ "sumeru" ], // TODO add item or specialty tag?
+  },
+  {
     en: "Hermanubis",
     ja: "ヘルマヌビス",
     zhCN: "赫曼努比斯",

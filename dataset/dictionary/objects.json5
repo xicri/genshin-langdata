@@ -710,4 +710,21 @@
     tags: [ "object", "sumeru" ],
     notes: "風の悪霊を配置するための装置",
   },
+
+  {
+    en: "Gray Crystals",
+    ja: "灰残晶",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Khvarena",
+    ja: "霊光",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Nirodha Fruit",
+    ja: "ニローダの実",
+    tags: [ "object", "sumeru" ],
+    notes: "ソルシュが拾って投げることのできる、爆発する実",
+  },
 ]

@@ -1610,6 +1610,18 @@
     pronunciationJa: "せいがいあかわし",
     tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
   },
+  {
+    en: "Consecrated Fanged Beast",
+    ja: "聖骸牙獣",
+    pronunciationJa: "せいがいがじゅう", // TODO Need confirmation
+    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+  },
+  {
+    en: "Consecrated Horned Crocodile",
+    ja: "聖骸ツノワニ",
+    pronunciationJa: "せいがいツノワニ",
+    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+  },
 
   {
     en: "Wenut",
