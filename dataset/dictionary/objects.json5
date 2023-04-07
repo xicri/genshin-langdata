@@ -714,16 +714,19 @@
   {
     en: "Gray Crystals",
     ja: "灰残晶",
+    zhCN: "灰余晶",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Khvarena",
     ja: "霊光",
+    zhCN: "灵光",
     tags: [ "object", "sumeru" ],
   },
   {
     en: "Nirodha Fruit",
     ja: "ニローダの実",
+    zhCN: "苦离果",
     tags: [ "object", "sumeru" ],
     notes: "ソルシュが拾って投げることのできる、爆発する実",
   },

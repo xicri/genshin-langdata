@@ -289,6 +289,7 @@
   {
     en: "Tent Tortoise",
     ja: "テントガメ",
+    zhCN: "玳龟",
     tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if they are really enemies
   },
 ]
