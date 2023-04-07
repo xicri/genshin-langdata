@@ -1613,12 +1613,14 @@
   {
     en: "Consecrated Fanged Beast",
     ja: "聖骸牙獣",
+    zhCN: "圣骸牙兽",
     pronunciationJa: "せいがいがじゅう", // TODO Need confirmation
     tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
   },
   {
     en: "Consecrated Horned Crocodile",
     ja: "聖骸ツノワニ",
+    zhCN: "圣骸角鳄",
     pronunciationJa: "せいがいツノワニ",
     tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
   },

@@ -502,6 +502,7 @@
   {
     en: "Trishiraite",
     ja: "サングイト",
+    zhCN: "万相石",
     tags: [ "sumeru" ], // TODO add item or specialty tag?
   },
   {
