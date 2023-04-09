@@ -555,6 +555,12 @@
     notes: "モンド評判任務の受付キャラクター",
   },
   {
+    en: "Margaret",
+    ja: "マーガレット",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "キャッツテールの店主", // en: Boss at Cat's Tail
+  },
+  {
     en: "Draff Kätzlein",
     ja: "ドゥラフ・カッツェレイン",
     tags: [ "mondstadt", "character-sub" ],
@@ -1972,6 +1978,20 @@
     zhCN: "乌帽子",
     pronunciationJa: "えぼし",
     tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Date",
+    ja: "伊達",
+    pronunciationJa: "だて",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "世界任務「伊達の挑戦状」に登場するキャラクター",
+  },
+  {
+    en: "Michiya",
+    ja: "宮地",
+    pronunciationJa: "みやじ",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳?",
   },
   {
     en: "Teppei",

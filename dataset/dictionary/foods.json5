@@ -115,6 +115,18 @@
     tags: [ "food" ],
   },
   {
+    en: "Bird Egg Sushi",
+    ja: "鳥の玉子寿司",
+    pronunciationJa: "とりのたまごずし",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sweet Shrimp Sushi",
+    ja: "甘エビの握り寿司",
+    pronunciationJa: "あまエビのにぎりずし",
+    tags: [ "food" ],
+  },
+  {
     en: "Dry-Braised Salted Fish",
     ja: "干物の網焼き",
     zhCN: "干烧香鱼",
@@ -289,6 +301,23 @@
     ja: "焼きそば",
     zhCN: "什锦炒面",
     pronunciationJa: "やきそば",
+    tags: [ "food" ],
+  },
+  {
+    en: "Udon Noodles",
+    ja: "うどん",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sangayaki",
+    ja: "さんが焼き",
+    pronunciationJa: "さんがやき",
+    tags: [ "food" ],
+  },
+  {
+    en: "Grilled Unagi Fillet",
+    ja: "うなぎの蒲焼",
+    pronunciationJa: "うなぎのかばやき",
     tags: [ "food" ],
   },
   {
@@ -646,10 +675,32 @@
     tags: [ "food" ],
   },
   {
+    en: "Unagi Chazuke",
+    ja: "うな茶漬け",
+    pronunciationJa: "うなちゃづけ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Omelette Rice",
+    ja: "オムライス",
+    tags: [ "food" ],
+  },
+  {
+    en: "Five Pickled Treasures",
+    ja: "五宝漬物",
+    tags: [ "food" ],
+  },
+  {
     en: "Taiyaki",
     ja: "夕暮れの鯛焼き",
     zhCN: "日落鲷鱼烧",
     pronunciationJa: "ゆうぐれのたいやき",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sakura Shrimp Crackers",
+    ja: "緋櫻えびせんべい",
+    pronunciationJa: "ひおうえびせんべい",
     tags: [ "food" ],
   },
   {
@@ -804,6 +855,11 @@
     zhCN: "千层酥酥",
     tags: [ "food" ],
   },
+  {
+    en: "Minty Fruit Tea",
+    ja: "ミントフルーツティー",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -886,6 +942,12 @@
     en: "Tandoori Roast Chicken",
     ja: "タンドリーチキン",
     zhCN: "唐杜尔烤鸡",
+    tags: [ "food" ],
+  },
+  {
+    en: "Super Magnificent Pizza",
+    ja: "超贅沢盛り合わせピザ",
+    pronunciationJa: "ちょうぜいたくもりあわせピザ",
     tags: [ "food" ],
   },
 
@@ -1320,6 +1382,13 @@
     tags: [ "food", "sumeru" ],
     notes: "放浪者のオリジナル料理",
   },
+  {
+    en: "Goldflame Tajine",
+    ja: "熾金の鍋",
+    pronunciationJa: "しきんのなべ", // Need check
+    tags: [ "food", "sumeru" ],
+    notes: "ディシアのオリジナル料理。Tajine とは、アフリカ大陸北西端部のマグリブ地域の料理で、Tajine Pot (タジン鍋) と呼ばれる鍋を用いて作られる。 / [Wikipedia:タジン鍋](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%83%B3%E9%8D%8B), [Wikipedia:Tajine](https://en.wikipedia.org/wiki/Tajine)",
+  },
 
   //
   // Ingredients (食材)
@@ -1491,6 +1560,12 @@
     ja: "ハッラの実",
     pronunciationJa: "ハッラのみ",
     zhCN: "香辛果",
+    tags: [ "food", "sumeru" ],
+  },
+  {
+    en: "Spice",
+    ja: "香辛料",
+    pronunciationJa: "こうしんりょう",
     tags: [ "food", "sumeru" ],
   },
   {
