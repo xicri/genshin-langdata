@@ -671,9 +671,9 @@
     },
   },
   {
-    en: "The Catch",
-    ja: "漁獲",
-    zhCN: "渔获",
+    en: "\"The Catch\"",
+    ja: "「漁獲」",
+    zhCN: "「渔获」",
     pronunciationJa: "ぎょかく",
     tags: [ "weapon", "polearm" ],
   },
