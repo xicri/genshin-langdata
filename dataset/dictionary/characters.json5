@@ -277,7 +277,7 @@
     en: "Diona Kätzlein",
     ja: "ディオナ・カッツェレイン",
     zhCN: "迪奥娜",
-    notes: "読みは「ダイオナ」",
+    notes: "英語版における読みは「ダイオナ」",
     tags: [ "mondstadt", "character-main" ],
   },
   {
@@ -545,12 +545,14 @@
     ja: "アデリン",
     zhCN: "爱德琳",
     tags: [ "mondstadt", "character-sub" ],
+    notes: "ラグヴィンド家のメイド長",
   },
   {
     en: "Hertha",
     ja: "ヘルター",
     zhCN: "赫塔",
     tags: [ "mondstadt", "character-sub" ],
+    notes: "モンド評判任務の受付キャラクター",
   },
   {
     en: "Draff Kätzlein",
@@ -1322,6 +1324,7 @@
     ja: "シャオユウ",
     zhCN: "小雨",
     tags: [ "liyue", "character-sub" ],
+    notes: "璃月評判任務の受付キャラクター",
   },
   {
     en: "Ying'er",

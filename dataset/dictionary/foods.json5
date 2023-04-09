@@ -13,6 +13,7 @@
     zhCN: "特殊料理",
     pronunciationJa: "オリジナルりょうり",
     tags: [ "food" ],
+    notes: "「地域の特産」も \"Local Specialty\" であるので注意",
   },
   {
     en: "Delicious ○○",
