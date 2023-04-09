@@ -953,6 +953,12 @@
     pronunciationJa: "じゃしんのち",
     tags: [ "inazuma", "location" ],
   },
+  {
+    en: "Vishap Research Lab",
+    ja: "ヴィシャップ研究所",
+    pronunciationJa: "ヴィシャップけんきゅうじょ",
+    tags: [ "inazuma", "location" ],
+  },
 
   {
     en: "Seirai Island",

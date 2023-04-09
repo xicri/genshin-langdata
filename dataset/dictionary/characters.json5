@@ -274,10 +274,10 @@
     }],
   },
   {
-    en: "Diona",
-    ja: "ディオナ",
+    en: "Diona Kätzlein",
+    ja: "ディオナ・カッツェレイン",
     zhCN: "迪奥娜",
-    notes: "読みは「ダイオナ」",
+    notes: "英語版における読みは「ダイオナ」",
     tags: [ "mondstadt", "character-main" ],
   },
   {
@@ -537,7 +537,7 @@
     en: "Cyrus",
     ja: "サイリュス / ジュライセン",
     zhCN: "塞琉斯 / 居勒什",
-    tags: [ "mondstadt", "character-sub" ],
+    tags: [ "mondstadt", "sumeru", "character-sub" ],
     notes: "サイリュスはモンドの冒険者協会の支部長。ジュライセンはスメール教令院におけるリサとセノの師。英語版ではどちらも Cyrus と表記される。発音も同じで、どちらも「サイラス」。",
   },
   {
@@ -545,12 +545,26 @@
     ja: "アデリン",
     zhCN: "爱德琳",
     tags: [ "mondstadt", "character-sub" ],
+    notes: "ラグヴィンド家のメイド長",
   },
   {
     en: "Hertha",
     ja: "ヘルター",
     zhCN: "赫塔",
     tags: [ "mondstadt", "character-sub" ],
+    notes: "モンド評判任務の受付キャラクター",
+  },
+  {
+    en: "Margaret",
+    ja: "マーガレット",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "キャッツテールの店主", // en: Boss at Cat's Tail
+  },
+  {
+    en: "Draff Kätzlein",
+    ja: "ドゥラフ・カッツェレイン",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "ディオナの父親で清泉町の狩人のリーダー", // en: Diona's father and the head of the hunters in Springvale
   },
   {
     en: "Ellin",
@@ -1316,6 +1330,7 @@
     ja: "シャオユウ",
     zhCN: "小雨",
     tags: [ "liyue", "character-sub" ],
+    notes: "璃月評判任務の受付キャラクター",
   },
   {
     en: "Ying'er",
@@ -1963,6 +1978,20 @@
     zhCN: "乌帽子",
     pronunciationJa: "えぼし",
     tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Date",
+    ja: "伊達",
+    pronunciationJa: "だて",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "世界任務「伊達の挑戦状」に登場するキャラクター",
+  },
+  {
+    en: "Michiya",
+    ja: "宮地",
+    pronunciationJa: "みやじ",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳?",
   },
   {
     en: "Teppei",

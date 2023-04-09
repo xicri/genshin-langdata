@@ -654,7 +654,7 @@
     tags: [ "weapon", "polearm" ],
   },
   {
-    en: "Lithic Lance",
+    en: "Lithic Spear",
     ja: "千岩長槍",
     zhCN: "千岩长枪",
     pronunciationJa: "せんがんながやり",
@@ -671,9 +671,9 @@
     },
   },
   {
-    en: "The Catch",
-    ja: "漁獲",
-    zhCN: "渔获",
+    en: "\"The Catch\"",
+    ja: "「漁獲」",
+    zhCN: "「渔获」",
     pronunciationJa: "ぎょかく",
     tags: [ "weapon", "polearm" ],
   },

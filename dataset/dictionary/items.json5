@@ -1024,6 +1024,29 @@
     pronunciationJa: "おねがいっ! わたしのせんこぐうじ",
     tags: [ "item", "inazuma", "event" ],
   },
+  {
+    en: "Before Sun and Moon",
+    ja: "日月前事",
+    pronunciationJa: "にちげつぜんじ", // TODO Need check
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "The Serpent and Drakes of Tokoyokoku",
+    ja: "常世国龍蛇伝",
+    pronunciationJa: "とこよのくにりゅうじゃでん", // TODO Need check
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "In the Light, Beneath the Shadow",
+    ja: "光昼影底集",
+    tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Hydrological Studies in Byakuyakoku",
+    ja: "白夜国地理水文誌",
+    pronunciationJa: "びゃくやこくちりすいもんし", // TODO Need check
+    tags: [ "item", "inazuma" ],
+  },
 
   //
   // Gadgets

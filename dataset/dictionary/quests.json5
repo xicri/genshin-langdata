@@ -1011,6 +1011,25 @@
     tags: [ "inazuma", "quest-world" ],
   },
   {
+    en: "Antigonus",
+    ja: "アンティゴノス",
+    tags: [ "inazuma", "quest-world" ],
+    notes: "龍蛇宝帰集録に連なる一連の世界任務の1つ",
+  },
+  {
+    en: "Date's Challenge",
+    ja: "伊達の挑戦状",
+    tags: [ "inazuma", "quest-world" ],
+    notes: "龍蛇宝帰集録に連なる一連の世界任務の1つ",
+  },
+  {
+    en: "Tricolor File",
+    ja: "三色の帳面",
+    pronunciationJa: "さんしょくのちょうめん",
+    tags: [ "inazuma", "quest-world" ],
+    notes: "龍蛇宝帰集録に連なる一連の世界任務の1つ",
+  },
+  {
     en: "The Heart of Ouroboros",
     ja: "ウロボロスの心",
     zhCN: "奥罗巴斯之心",
