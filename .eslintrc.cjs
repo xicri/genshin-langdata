@@ -12,6 +12,7 @@ module.exports = {
 
   rules: {
     "node/no-unpublished-import": "off",
+    "jest/valid-expect": [ "error", { maxArgs: 2 }], // jest-expect-message requires two args for `expect()`
   },
 
   overrides: [
