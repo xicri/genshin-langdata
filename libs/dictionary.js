@@ -31,6 +31,7 @@ export class Dictionary {
     this.#addIDs();
     this.#compileMarkdown();
     await this.#addTimestamps();
+    this.#reverseSortByUpdatedOn();
 
     this.#loaded = true;
   }
@@ -49,6 +50,7 @@ export class Dictionary {
 
     this.#addIDs();
     await this.#addTimestamps();
+    this.#reverseSortByUpdatedOn();
     this.#compileMarkdown();
 
     this.#loaded = true;
@@ -188,6 +190,21 @@ export class Dictionary {
       }
 
       return word;
+    });
+  }
+
+  #reverseSortByUpdatedOn() {
+    this.#words.sort((wordA, wordB) => {
+      const updatedOnA = DateTime.fromISO(wordA.updatedAt);
+      const updatedOnB = DateTime.fromISO(wordB.updatedAt);
+
+      if (updatedOnA < updatedOnB) {
+        return 1; // wordB is newer than wordA
+      } else if (updatedOnA === updatedOnB) {
+        return 0; // Keep the order as is
+      } else if (updatedOnB < updatedOnA) {
+        return -1; // wordA is newer than wordB
+      }
     });
   }
 
