@@ -274,8 +274,8 @@
     }],
   },
   {
-    en: "Diona",
-    ja: "ディオナ",
+    en: "Diona Kätzlein",
+    ja: "ディオナ・カッツェレイン",
     zhCN: "迪奥娜",
     notes: "読みは「ダイオナ」",
     tags: [ "mondstadt", "character-main" ],
@@ -551,6 +551,12 @@
     ja: "ヘルター",
     zhCN: "赫塔",
     tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Draff Kätzlein",
+    ja: "ドゥラフ・カッツェレイン",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "ディオナの父親で清泉町の狩人のリーダー", // en: Diona's father and the head of the hunters in Springvale
   },
   {
     en: "Ellin",

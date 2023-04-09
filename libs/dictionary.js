@@ -79,6 +79,7 @@ export class Dictionary {
           .toLowerCase()
           .replace(/\/.*/, "") // e.g. "anemogranum / anemograna" -> "anemogranum " (to avoid creating directory - dist/anemogranum-/anemograna/index.html)
           .replace(/['"!?(),○―]/g, "")
+          .replaceAll("ä", "a") // e.g. diona kätzlein -> diona katzlein
           .replace(/é/g, "e") // e.g. mini seelie: rosé -> mini seelie: rose
           // e.g. the great mountain survey ⅱ -> the great mountain survey 2
           .replace(/[ⅰ-ⅻ]/g, match => String.fromCharCode(match.charCodeAt() - 8511))
