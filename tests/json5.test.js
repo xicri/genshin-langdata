@@ -2,6 +2,7 @@ import { ok } from "assert";
 
 import tags from "../dataset/tags.json";
 import words from "../dist/words.json";
+import { DateTime } from "luxon";
 
 function isURL(urlStr) {
   try {
@@ -187,4 +188,16 @@ test("if property values of dictionary JSON complies the format.", async () => {
       }
     }
   }
+});
+
+test("if words are reverse-sorted by `updatedAt`", () => {
+  words.reduce((wordA, wordB) => {
+    console.log(wordA, wordB);
+    expect(
+      DateTime.fromISO(wordA.updatedAt) >= DateTime.fromISO(wordB.updatedAt),
+      `wordA: ${ JSON.stringify(wordA, null, 2) }` + "\n" + `wordB: ${ JSON.stringify(wordB, null, 2) }`
+    ).toBe(true);
+
+    return wordB;
+  });
 });

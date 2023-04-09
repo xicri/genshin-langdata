@@ -3,5 +3,6 @@ export default {
     "js",
     "json",
   ],
+  setupFilesAfterEnv: [ "jest-expect-message" ],
   transform: {},
 };
