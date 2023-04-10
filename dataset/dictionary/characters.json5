@@ -276,7 +276,7 @@
   {
     en: "Diona Kätzlein",
     ja: "ディオナ・カッツェレイン",
-    zhCN: "迪奥娜",
+    zhCN: "迪奥娜·凯茨莱茵",
     notes: "英語版における読みは「ダイオナ」",
     tags: [ "mondstadt", "character-main" ],
   },
@@ -557,12 +557,14 @@
   {
     en: "Margaret",
     ja: "マーガレット",
+    zhCN: "玛格丽特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "キャッツテールの店主", // en: Boss at Cat's Tail
   },
   {
     en: "Draff Kätzlein",
     ja: "ドゥラフ・カッツェレイン",
+    zhCN: "杜拉夫·凯茨莱茵",
     tags: [ "mondstadt", "character-sub" ],
     notes: "ディオナの父親で清泉町の狩人のリーダー", // en: Diona's father and the head of the hunters in Springvale
   },
@@ -1982,6 +1984,7 @@
   {
     en: "Date",
     ja: "伊達",
+    zhCN: "伊达",
     pronunciationJa: "だて",
     tags: [ "inazuma", "character-sub" ],
     notes: "世界任務「伊達の挑戦状」に登場するキャラクター",
@@ -1989,6 +1992,7 @@
   {
     en: "Michiya",
     ja: "宮地",
+    zhCN: "宫地",
     pronunciationJa: "みやじ",
     tags: [ "inazuma", "character-sub" ],
     notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳?",
