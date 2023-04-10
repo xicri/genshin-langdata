@@ -1027,23 +1027,27 @@
   {
     en: "Before Sun and Moon",
     ja: "日月前事",
+    zhCN: "日月前事",
     pronunciationJa: "にちげつぜんじ", // TODO Need check
     tags: [ "item", "inazuma" ],
   },
   {
     en: "The Serpent and Drakes of Tokoyokoku",
     ja: "常世国龍蛇伝",
+    zhCN: "常世国龙蛇传",
     pronunciationJa: "とこよのくにりゅうじゃでん", // TODO Need check
     tags: [ "item", "inazuma" ],
   },
   {
     en: "In the Light, Beneath the Shadow",
     ja: "光昼影底集",
+    zhCN: "光昼影底集",
     tags: [ "item", "inazuma" ],
   },
   {
     en: "Hydrological Studies in Byakuyakoku",
     ja: "白夜国地理水文誌",
+    zhCN: "白夜国地理水文考",
     pronunciationJa: "びゃくやこくちりすいもんし", // TODO Need check
     tags: [ "item", "inazuma" ],
   },

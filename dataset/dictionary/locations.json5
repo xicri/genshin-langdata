@@ -956,6 +956,7 @@
   {
     en: "Vishap Research Lab",
     ja: "ヴィシャップ研究所",
+    zhCN: "龙蜥研究所",
     pronunciationJa: "ヴィシャップけんきゅうじょ",
     tags: [ "inazuma", "location" ],
   },
