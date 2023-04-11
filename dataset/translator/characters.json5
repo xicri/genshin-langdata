@@ -63,4 +63,10 @@
   { en: "Amenoma", ja: "天目" },
   { en: "Tougo", ja: "十五" },
   { en: "Kujirai", ja: "鯨井" },
+
+  // Sumeru
+  { en: "Dunyarzad", ja: "ドニアザード" },
+  { en: "Shahzaman", ja: "サッザマン" },
+  { en: "Homayani", ja: "フーマイ" },
+
 ]
