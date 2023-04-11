@@ -1115,6 +1115,12 @@
     tags: [ "item", "inazuma" ],
   },
   {
+    en: "Waters of Lethe",
+    ja: "忘川の水",
+    tags: [ "item", "inazuma" ],
+    notes: "世界任務「ロートパゴス族」で龍骨花にやる水",
+  },
+  {
     en: "Archaic Stone",
     ja: "老石",
     zhCN: "老石",

@@ -354,6 +354,14 @@
     pronunciationJa: "とくていのみち",
     tags: [ "object", "inazuma" ],
   },
+  // Enkanomiya
+  {
+    en: "Dragonbone Flower",
+    ja: "龍骨花",
+    tags: [ "object", "inazuma" ],
+    notes: "世界任務「ロートパゴス族」に登場する巨大な花",
+  },
+
   {
     en: "Remarkable Chest",
     ja: "珍奇な宝箱",

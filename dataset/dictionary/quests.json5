@@ -1021,6 +1021,7 @@
     en: "Date's Challenge",
     ja: "伊達の挑戦状",
     zhCN: "伊达的挑战状",
+    pronunciationJa: "だてのちょうせんじょう",
     tags: [ "inazuma", "quest-world" ],
     notes: "龍蛇宝帰集録に連なる一連の世界任務の1つ",
   },
@@ -1242,6 +1243,12 @@
     pronunciationJa: "ぜんのうグルメチーム・しゅうそく",
     tags: [ "sumeru", "quest-world" ],
   },
+  {
+    en: "The Price",
+    ja: "代価",
+    pronunciationJa: "だいか",
+    tags: [ "sumeru", "quest-world" ],
+  },
 
   // Aranyaka and related
   {
@@ -1281,6 +1288,18 @@
     ja: "勇気を心につけて",
     zhCN: "勇气戴于心上",
     pronunciationJa: "ゆうきをこころにつけて",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Aranaga's Memory",
+    ja: "アランナガの思い出",
+    pronunciationJa: "アランナガのおもいで",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Memory's Final Chapter",
+    ja: "回想終章",
+    pronunciationJa: "かいそうしゅうしょう",
     tags: [ "sumeru", "quest-world" ],
   },
   // ▲▲ Aranyaka and related

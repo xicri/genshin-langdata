@@ -402,6 +402,22 @@
     tags: [ "sumeru", "domain" ],
   },
   {
+    en: "Molten Iron Fortress",
+    ja: "熔鉄の孤砦",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Somalata Inland Sea",
+    ja: "地中の香海",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Purification Spring",
+    ja: "浄罪の井戸",
+    pronunciationJa: "じょうざいのいど",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
     en: "Joururi Workshop",
     ja: "淨琉璃工房",
     zhCN: "净琉璃工坊",

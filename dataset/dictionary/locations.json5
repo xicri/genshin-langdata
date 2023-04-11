@@ -1638,6 +1638,16 @@
     zhCN: "苍漠囿土",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Gavireh Lajavard",
+    ja: "荒石の蒼漠",
+    tags: [ "sumeru", "location" ],
+  },
+  {
+    en: "Realm of Farakhkert",
+    ja: "ファラクケルトの園",
+    tags: [ "sumeru", "location" ],
+  },
 
   //
   // Fontaine

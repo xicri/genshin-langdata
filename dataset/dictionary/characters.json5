@@ -1738,6 +1738,12 @@
     tags: [ "inazuma", "character-main" ],
   },
   {
+    en: "Kirara",
+    ja: "綺良々",
+    pronunciationJa: "きらら",
+    tags: [ "inazuma", "character-main" ],
+  },
+  {
     en: "Raiden Shogun",
     ja: "雷電将軍",
     zhCN: "雷电将军",
@@ -1996,6 +2002,18 @@
     pronunciationJa: "みやじ",
     tags: [ "inazuma", "character-sub" ],
     notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳?",
+  },
+  {
+    en: "Spartacus",
+    ja: "スパルタクス",
+    tags: [ "inazuma", "character-sub" ],
+  },
+  {
+    en: "Supada no Hiko",
+    ja: "須婆達の彦",
+    pronunciationJa: "すぱだのひこ",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "スパルタクスの稲妻式の名前",
   },
   {
     en: "Teppei",
@@ -2388,10 +2406,6 @@
     zhCN: "迪娜泽黛·呼玛伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務等に登場するキャラクター。ディシアの雇い主の家の娘",
-    variants: {
-      en: [ "Dunyarzad", "Homayani" ],
-      ja: [ "ドニアザード", "フーマイ" ],
-    },
   },
   {
     en: "Asfand",
@@ -2804,6 +2818,12 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「勇気を心につけて」に登場するアランナラ",
   },
+  {
+    en: "Khayyam",
+    ja: "ハイヤーム",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「アランナガの思い出」に登場する人物",
+  },
   // ▲▲ Aranaras & related ▲▲
 
   {
@@ -2833,10 +2853,6 @@
     zhCN: "沙扎曼·呼玛伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "ドニアザードの父",
-    variants: {
-      en: [ "Shahzaman", "Homayani" ],
-      ja: [ "サッザマン", "フーマイ" ],
-    },
   },
   {
     en: "Idrisi",

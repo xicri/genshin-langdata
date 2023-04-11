@@ -239,4 +239,9 @@
     zhCN: "沙脂蛹",
     tags: [ "specialty", "sumeru" ],
   },
+  {
+    en: "A Flower Yet to Bloom",
+    ja: "何処かで摘まれた咲きかけの花",
+    tags: [ "specialty", "sumeru" ], // Check if it is really a local specialty
+  },
 ]

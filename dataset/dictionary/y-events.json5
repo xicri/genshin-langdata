@@ -263,16 +263,16 @@
     en: "Fulminating Sandstorm",
     ja: "轟々たる風砂",
     zhCN: "风沙轰鸣",
-    pronunciationJa: "ごうごうたるふうさ", // TODO Need Check: ふうさ? ふうしゃ?
+    pronunciationJa: "ごうごうたるふうしゃ",
     notes: "v3.6 期間限定イベント",
     tags: [ "event" ],
   },
   {
-    en: "The Wenutslayer Cannon",
-    ja: "対ウェネト殺虫大砲",
+    en: "Wenutslayer Cannon",
+    ja: "対ウェネト殺蟲大砲",
     zhCN: "对沙虫用杀虫炮",
     pronunciationJa: "たいウェネトさっちゅうたいほう",
-    notes: "v3.6 期間限定イベント「轟々たる風砂」で使用する武器。情報の正確性について確認中",
+    notes: "v3.6 期間限定イベント「轟々たる風砂」で使用する武器",
     tags: [ "event", "object" ],
   },
   {
