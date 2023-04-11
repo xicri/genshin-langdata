@@ -263,7 +263,7 @@
     en: "Fulminating Sandstorm",
     ja: "轟々たる風砂",
     zhCN: "风沙轰鸣",
-    pronunciationJa: "ごうごうたるふうさ", // TODO Need Check: ふうさ? ふうしゃ?
+    pronunciationJa: "ごうごうたるふうしゃ",
     notes: "v3.6 期間限定イベント",
     tags: [ "event" ],
   },
