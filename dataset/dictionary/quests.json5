@@ -1021,6 +1021,7 @@
     en: "Date's Challenge",
     ja: "伊達の挑戦状",
     zhCN: "伊达的挑战状",
+    pronunciationJa: "だてのちょうせんじょう",
     tags: [ "inazuma", "quest-world" ],
     notes: "龍蛇宝帰集録に連なる一連の世界任務の1つ",
   },
