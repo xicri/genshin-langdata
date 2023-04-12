@@ -2932,6 +2932,7 @@
   {
     en: "Dragon of Verdure",
     ja: "翠の草龍",
+    pronunciationJa: "すいのそうりゅう", // TODO Need check
     zhCN: "翠草之龙",
     tags: [ "sumeru", "title" ],
     notes: "アペプの称号",
