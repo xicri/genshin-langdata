@@ -358,6 +358,7 @@
   {
     en: "Dragonbone Flower",
     ja: "龍骨花",
+    zhCN: "龙骨花",
     tags: [ "object", "inazuma" ],
     notes: "世界任務「ロートパゴス族」に登場する巨大な花",
   },

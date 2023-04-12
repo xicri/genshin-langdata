@@ -1117,6 +1117,7 @@
   {
     en: "Waters of Lethe",
     ja: "忘川の水",
+    zhCN: "忘川之水",
     tags: [ "item", "inazuma" ],
     notes: "世界任務「ロートパゴス族」で龍骨花にやる水",
   },

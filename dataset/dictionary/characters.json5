@@ -1740,6 +1740,7 @@
   {
     en: "Kirara",
     ja: "綺良々",
+    zhCN: "绮良良",
     pronunciationJa: "きらら",
     tags: [ "inazuma", "character-main" ],
   },
@@ -2006,11 +2007,13 @@
   {
     en: "Spartacus",
     ja: "スパルタクス",
+    zhCN: "斯巴达克",
     tags: [ "inazuma", "character-sub" ],
   },
   {
     en: "Supada no Hiko",
     ja: "須婆達の彦",
+    zhCN: "须婆达之彦",
     pronunciationJa: "すぱだのひこ",
     tags: [ "inazuma", "character-sub" ],
     notes: "スパルタクスの稲妻式の名前",
@@ -2821,6 +2824,7 @@
   {
     en: "Khayyam",
     ja: "ハイヤーム",
+    zhCN: "海亚姆",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「アランナガの思い出」に登場する人物",
   },
