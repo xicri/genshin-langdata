@@ -2353,6 +2353,12 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Nabu Malikata",
+    ja: "ナブ・マリカッタ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "花神の真名",
+  },
+  {
     en: "Greater Load Rukkhadevata",
     ja: "マハールッカデヴァータ",
     zhCN: "大慈树王",
@@ -2657,11 +2663,23 @@
     }],
   },
   {
-    en: "King Deshret / Scarlet King",
-    ja: "キングデシェレト / スカーレットキング",
+    en: "King Deshret",
+    ja: "キングデシェレト",
     zhCN: "赤王",
     tags: [ "sumeru", "character-sub" ],
-    notes: "日本語版と英語版においては、v3.1 から Scarlet King (King Deshret) / スカーレットキング (キングデシェレト) などのような表記が行われているが、中国語版では特に変更はないようである",
+    notes: "日本語版と英語版においては、v3.1 以前は スカーレットキング (Scarlet King) という名前だったが変更された。中国語版では特に変更は発生していない",
+  },
+  {
+    en: "Al-Ahmar",
+    ja: "アフマル",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "キングデシェレトの真名",
+  },
+  {
+    en: "Amun",
+    ja: "アモン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "キングデシェレトの別名",
   },
   // ▼▼ Aranaras & related ▼▼
   {
@@ -2923,21 +2941,31 @@
     zhCN: "斯露莎",
     tags: [ "sumeru", "character-sub" ],
   },
-  // TODO Because I'm not sure Apep / アペプ is the name of the new weekly boss,
-  // I may update this word after v3.6 has released
-  // (new) アペプのオアシス守護者 is in Preview page of v3.6
+  {
+    en: "Nur",
+    ja: "ヌール",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ナヒーダの伝説任務第二章に登場するプカプカ水キノコン",
+  },
   {
     en: "Apep",
     ja: "アペプ",
     zhCN: "阿佩普",
-    tags: [ "sumeru", "character-sub", "enemy-boss" ],
+    tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Dragon of Verdure",
     ja: "翠の草龍",
-    // zhCN: "草龙(暂定)", TODO 中文版译名暂缺，“草龙”是俗称。
-    tags: [ "sumeru", "title", "enemy-boss" ],
-    notes: "アペプの称号。正確な情報については確認中", // TODO
+    pronunciationJa: "すいのそうりゅう", // TODO Need check
+    zhCN: "翠草之龙",
+    tags: [ "sumeru", "title" ],
+    notes: "アペプの称号",
+  },
+  {
+    en: "Dragon King",
+    ja: "龍王",
+    pronunciationJa: "りゅうおう",
+    tags: [ "sumeru", "character-sub" ],
   },
 
   //

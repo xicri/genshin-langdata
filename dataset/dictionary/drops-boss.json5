@@ -338,4 +338,26 @@
     tags: [ "drop-boss", "sumeru" ],
     notes: "正機の神 (スカラマシュ) のドロップアイテム",
   },
+  // Guardian of Apep's Oasis
+  {
+    en: "Worldspan Fern",
+    ja: "天地に生える蕨",
+    pronunciationJa: "てんちにはえるわらび",
+    tags: [ "drop-boss", "sumeru" ],
+    notes: "アペプのオアシス守護者のドロップアイテム",
+  },
+  {
+    en: "Primordial Greenbloom",
+    ja: "原初のオアシスの初咲き",
+    pronunciationJa: "げんしょのオアシスのはつざき",
+    tags: [ "drop-boss", "sumeru" ],
+    notes: "アペプのオアシス守護者のドロップアイテム",
+  },
+  {
+    en: "Everamber",
+    ja: "太古の樹海の一瞬",
+    pronunciationJa: "たいこのじゅかいのいっしゅん",
+    tags: [ "drop-boss", "sumeru" ],
+    notes: "アペプのオアシス守護者のドロップアイテム",
+  },
 ]

@@ -402,6 +402,16 @@
     tags: [ "sumeru", "domain" ],
   },
   {
+    en: "City of the Deceased",
+    ja: "「亡者の都」",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
+    en: "Fane of Panjvahe",
+    ja: "五大オアシスの殿堂",
+    tags: [ "sumeru", "domain" ],
+  },
+  {
     en: "Molten Iron Fortress",
     ja: "熔鉄の孤砦",
     zhCN: "熔铁的孤塞",
@@ -427,6 +437,13 @@
     pronunciationJa: "じょうるりこうぼう",
     tags: [ "sumeru", "domain" ],
     notes: "正機の神 (スカラマシュ) 戦の秘境名",
+  },
+  {
+    en: "The Realm of Beginnings",
+    ja: "原初の郷",
+    pronunciationJa: "げんしょのさと", // TODO Need Check
+    tags: [ "sumeru", "domain" ],
+    notes: "アペプのオアシス守護者戦の秘境名",
   },
   {
     en: "Court of Desolation",
