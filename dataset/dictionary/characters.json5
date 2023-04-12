@@ -2657,11 +2657,11 @@
     }],
   },
   {
-    en: "King Deshret / Scarlet King",
-    ja: "キングデシェレト / スカーレットキング",
+    en: "King Deshret",
+    ja: "キングデシェレト",
     zhCN: "赤王",
     tags: [ "sumeru", "character-sub" ],
-    notes: "日本語版と英語版においては、v3.1 から Scarlet King (King Deshret) / スカーレットキング (キングデシェレト) などのような表記が行われているが、中国語版では特に変更はないようである",
+    notes: "日本語版と英語版においては、v3.1 以前は スカーレットキング (Scarlet King) という名前だったが変更された。中国語版では特に変更は発生していない",
   },
   // ▼▼ Aranaras & related ▼▼
   {
