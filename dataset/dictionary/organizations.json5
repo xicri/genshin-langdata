@@ -225,6 +225,7 @@
   {
     en: "Komaniya Express",
     ja: "狛荷屋",
+    zhCN: "狛荷屋",
     pronunciationJa: "こまにや",
     tags: [ "inazuma", "organization" ],
     notes: "綺良々の所属する配達会社",

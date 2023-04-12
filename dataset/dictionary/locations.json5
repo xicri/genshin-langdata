@@ -1641,11 +1641,13 @@
   {
     en: "Gavireh Lajavard",
     ja: "荒石の蒼漠",
+    zhCN: "荒石苍漠",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Realm of Farakhkert",
     ja: "ファラクケルトの園",
+    zhCN: "浮罗囿",
     tags: [ "sumeru", "location" ],
   },
 

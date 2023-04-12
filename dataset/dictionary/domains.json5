@@ -404,16 +404,19 @@
   {
     en: "Molten Iron Fortress",
     ja: "熔鉄の孤砦",
+    zhCN: "熔铁的孤塞",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Somalata Inland Sea",
     ja: "地中の香海",
+    zhCN: "地中的香海",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Purification Spring",
     ja: "浄罪の井戸",
+    zhCN: "净罪之井",
     pronunciationJa: "じょうざいのいど",
     tags: [ "sumeru", "domain" ],
   },

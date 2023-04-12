@@ -1246,6 +1246,7 @@
   {
     en: "The Price",
     ja: "代価",
+    zhCN: "代价",
     pronunciationJa: "だいか",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -1293,12 +1294,14 @@
   {
     en: "Aranaga's Memory",
     ja: "アランナガの思い出",
+    zhCN: "兰纳迦的回忆",
     pronunciationJa: "アランナガのおもいで",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Memory's Final Chapter",
     ja: "回想終章",
+    zhCN: "回忆终章",
     pronunciationJa: "かいそうしゅうしょう",
     tags: [ "sumeru", "quest-world" ],
   },
