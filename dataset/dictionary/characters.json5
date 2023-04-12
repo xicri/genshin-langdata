@@ -2923,21 +2923,18 @@
     zhCN: "斯露莎",
     tags: [ "sumeru", "character-sub" ],
   },
-  // TODO Because I'm not sure Apep / アペプ is the name of the new weekly boss,
-  // I may update this word after v3.6 has released
-  // (new) アペプのオアシス守護者 is in Preview page of v3.6
   {
     en: "Apep",
     ja: "アペプ",
     zhCN: "阿佩普",
-    tags: [ "sumeru", "character-sub", "enemy-boss" ],
+    tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Dragon of Verdure",
     ja: "翠の草龍",
-    // zhCN: "草龙(暂定)", TODO 中文版译名暂缺，“草龙”是俗称。
-    tags: [ "sumeru", "title", "enemy-boss" ],
-    notes: "アペプの称号。正確な情報については確認中", // TODO
+    zhCN: "翠草之龙",
+    tags: [ "sumeru", "title" ],
+    notes: "アペプの称号",
   },
 
   //
