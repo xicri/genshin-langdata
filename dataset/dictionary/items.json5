@@ -1122,6 +1122,12 @@
     notes: "世界任務「ロートパゴス族」で龍骨花にやる水",
   },
   {
+    en: "Dragonbone Orb",
+    ja: "龍骨花の露玉",
+    tags: [ "item", "inazuma" ],
+    notes: "世界任務「ロートパゴス族」で、龍骨花に忘川の水を与えると手に入る龍骨花の果実",
+  },
+  {
     en: "Archaic Stone",
     ja: "老石",
     zhCN: "老石",
@@ -1192,8 +1198,14 @@
   },
 
   //
-  // コスチューム
+  // Dresesings
   //
+  {
+    en: "Wind Glider",
+    ja: "風の翼",
+    pronunciationJa: "かぜのつばさ",
+  },
+
   {
     en: "Sea Bleeze Dandelion",
     ja: "海風の夢",

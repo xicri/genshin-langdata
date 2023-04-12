@@ -1,5 +1,11 @@
 [
   {
+    en: "Elemental Lifeform",
+    ja: "元素生命",
+    pronunciationJa: "げんそせいめい",
+    tags: [ "living-being" ],
+  },
+  {
     en: "Seelie",
     ja: "仙霊",
     zhCN: "仙灵",

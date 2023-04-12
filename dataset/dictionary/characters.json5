@@ -2353,6 +2353,12 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Nabu Malikata",
+    ja: "ナブ・マリカッタ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "花神の真名",
+  },
+  {
     en: "Greater Load Rukkhadevata",
     ja: "マハールッカデヴァータ",
     zhCN: "大慈树王",
@@ -2663,6 +2669,18 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "日本語版と英語版においては、v3.1 以前は スカーレットキング (Scarlet King) という名前だったが変更された。中国語版では特に変更は発生していない",
   },
+  {
+    en: "Al-Ahmar",
+    ja: "アフマル",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "キングデシェレトの真名",
+  },
+  {
+    en: "Amun",
+    ja: "アモン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "キングデシェレトの別名",
+  },
   // ▼▼ Aranaras & related ▼▼
   {
     en: "Rana",
@@ -2924,6 +2942,12 @@
     tags: [ "sumeru", "character-sub" ],
   },
   {
+    en: "Nur",
+    ja: "ヌール",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "ナヒーダの伝説任務第二章に登場するプカプカ水キノコン",
+  },
+  {
     en: "Apep",
     ja: "アペプ",
     zhCN: "阿佩普",
@@ -2936,6 +2960,12 @@
     zhCN: "翠草之龙",
     tags: [ "sumeru", "title" ],
     notes: "アペプの称号",
+  },
+  {
+    en: "Dragon King",
+    ja: "龍王",
+    pronunciationJa: "りゅうおう",
+    tags: [ "sumeru", "character-sub" ],
   },
 
   //
