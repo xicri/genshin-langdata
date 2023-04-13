@@ -243,12 +243,12 @@
     en: "Mourning Flower",
     ja: "悼霊花",
     zhCN: "悼灵花",
-    tags: [ "sumeru" ], // TODO add item or specialty tag?
+    tags: [ "specialty", "sumeru" ],
   },
   {
     en: "Trishiraite",
     ja: "サングイト",
     zhCN: "万相石",
-    tags: [ "sumeru" ], // TODO add item or specialty tag?
+    tags: [ "specialty", "sumeru" ],
   },
 ]

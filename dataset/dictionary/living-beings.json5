@@ -297,12 +297,12 @@
     en: "Khvarena",
     ja: "霊光",
     zhCN: "灵光",
-    tags: [ "object", "sumeru" ],
+    tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Tent Tortoise",
     ja: "テントガメ",
     zhCN: "玳龟",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if they are really enemies
+    tags: [ "living-being", "sumeru" ],
   },
 ]

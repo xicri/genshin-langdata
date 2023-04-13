@@ -590,6 +590,7 @@
     ja: "何処かで摘まれた咲きかけの花",
     pronunciationJa: "どこかでつまれたさきかけのはな",
     zhCN: "来自何处的待放之花",
-    tags: [ "specialty", "sumeru" ],
+    tags: [ "drop", "sumeru" ],
+    notes: "ヒルチャールレンジャーのドロップアイテム (★2)",
   },
 ]
