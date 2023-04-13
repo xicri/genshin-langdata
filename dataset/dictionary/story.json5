@@ -494,18 +494,6 @@
     tags: [ "sumeru" ],
   },
   {
-    en: "Mourning Flower",
-    ja: "悼霊花",
-    zhCN: "悼灵花",
-    tags: [ "sumeru" ], // TODO add item or specialty tag?
-  },
-  {
-    en: "Trishiraite",
-    ja: "サングイト",
-    zhCN: "万相石",
-    tags: [ "sumeru" ], // TODO add item or specialty tag?
-  },
-  {
     en: "Hermanubis",
     ja: "ヘルマヌビス",
     zhCN: "赫曼努比斯",

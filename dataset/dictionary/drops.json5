@@ -585,4 +585,11 @@
     tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
     notes: "聖骸獣のドロップアイテム (★4)",
   },
+  {
+    en: "A Flower Yet to Bloom",
+    ja: "何処かで摘まれた咲きかけの花",
+    pronunciationJa: "どこかでつまれたさきかけのはな",
+    zhCN: "来自何处的待放之花",
+    tags: [ "specialty", "sumeru" ],
+  },
 ]
