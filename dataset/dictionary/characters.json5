@@ -2355,6 +2355,7 @@
   {
     en: "Nabu Malikata",
     ja: "ナブ・マリカッタ",
+    zhCN: "娜布·玛莉卡塔",
     tags: [ "sumeru", "character-sub" ],
     notes: "花神の真名",
   },
@@ -2672,12 +2673,14 @@
   {
     en: "Al-Ahmar",
     ja: "アフマル",
+    zhCN: "阿赫玛尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "キングデシェレトの真名",
   },
   {
     en: "Amun",
     ja: "アモン",
+    zhCN: "阿蒙",
     tags: [ "sumeru", "character-sub" ],
     notes: "キングデシェレトの別名",
   },
@@ -2944,6 +2947,7 @@
   {
     en: "Nur",
     ja: "ヌール",
+    zhCN: "努尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "ナヒーダの伝説任務第二章に登場するプカプカ水キノコン",
   },
@@ -2964,6 +2968,7 @@
   {
     en: "Dragon King",
     ja: "龍王",
+    zhCN: "龙王",
     pronunciationJa: "りゅうおう",
     tags: [ "sumeru", "character-sub" ],
   },

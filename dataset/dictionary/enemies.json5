@@ -1648,19 +1648,28 @@
   {
     en: "Guardian of Apep's Oasis",
     ja: "アペプのオアシス守護者",
+    zhCN: "阿佩普的绿洲守望者",
     pronunciationJa: "アペプのオアシスしゅごしゃ",
     tags: [ "sumeru", "enemy-boss" ],
+    variants: {
+      zhCN: ["草龙", "酸菜龙"]
+    },
   },
   {
     en: "Warden of the Last Oasis",
     ja: "終末オアシスの守護者",
+    zhCN: "终末绿洲的守望者",
     pronunciationJa: "しゅうまつオアシスのしゅごしゃ",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第1段階",
+    variants: {
+      zhCN: ["草龙", "酸菜龙"]
+    },
   },
   {
     en: "Heart of Oasis",
     ja: "オアシスの心",
+    zhCN: "绿洲之心",
     pronunciationJa: "オアシスのこころ",
     tags: [ "sumeru", "object" ],
     notes: "アペプのオアシス守護者戦の第2段階 (蘇生段階) で守る対象",
@@ -1668,6 +1677,7 @@
   {
     en: "Revitalizing Phase",
     ja: "蘇生段階",
+    zhCN: "复苏阶段",
     pronunciationJa: "そせいだんかい",
     tags: [ "sumeru" ],
     notes: "アペプのオアシス守護者戦の第2段階 (オアシスの心を魔物から守る段階)",
@@ -1675,6 +1685,7 @@
   {
     en: "Preliminary Proliferating Organism",
     ja: "基本増殖生命体",
+    zhCN: "基础增殖生命体",
     pronunciationJa: "きほんぞうしょくせいめいたい",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第2段階 (蘇生段階) でオアシスの心を攻撃する、小さな袋状の魔物",
@@ -1682,6 +1693,7 @@
   {
     en: "Predatory Proliferating Organism",
     ja: "捕食増殖生命体",
+    zhCN: "掠食性增殖生命体",
     pronunciationJa: "ほしょくぞうしょくせいめいたい",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第2段階 (蘇生段階) でオアシスの心を攻撃する、噛み付いてくる魚のような魔物",
@@ -1689,6 +1701,7 @@
   {
     en: "Protective Proliferating Organism",
     ja: "防衛増殖生命体",
+    zhCN: "守护的增殖生命体",
     pronunciationJa: "ぼうえいぞうしょくせいめいたい",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第2段階 (蘇生段階) でオアシスの心を攻撃する、小さな塔のような魔物",
@@ -1696,6 +1709,7 @@
   {
     en: "Perch Proliferating Organism",
     ja: "巣作り増殖生命体",
+    zhCN: "筑巢的增殖生命体",
     pronunciationJa: "すづくりぞうしょくせいめいたい",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第2段階 (蘇生段階) でオアシスの心を攻撃する、浮遊している魔物",
@@ -1703,6 +1717,7 @@
   {
     en: "Provender Proliferating Organism",
     ja: "飼育増殖生命体",
+    zhCN: "养育的增殖生命体",
     pronunciationJa: "しいくぞうしょくせいめいたい",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第2段階 (蘇生段階) でオアシスの心を攻撃する、花のような形の魔物",
@@ -1710,6 +1725,7 @@
   {
     en: "Pernicious Proliferating Organism",
     ja: "破壊増殖生命体",
+    zhCN: "破坏的增殖生命体",
     pronunciationJa: "はかいぞうしょくせいめいたい",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第2段階 (蘇生段階) でオアシスの心を攻撃する、タイヤ状の魔物",
@@ -1717,8 +1733,12 @@
   {
     en: "Warden of Oasis Prime",
     ja: "起源オアシスの守護者",
+    zhCN: "起源绿洲的守望者",
     pronunciationJa: "きげんオアシスのしゅごしゃ",
     tags: [ "sumeru", "enemy-boss" ],
     notes: "アペプのオアシス守護者の第3段階",
+    variants: {
+      zhCN: ["草龙", "酸菜龙"]
+    },
   },
 ]

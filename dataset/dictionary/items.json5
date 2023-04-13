@@ -1124,6 +1124,7 @@
   {
     en: "Dragonbone Orb",
     ja: "龍骨花の露玉",
+    zhCN: "龙骨花凝珠",
     tags: [ "item", "inazuma" ],
     notes: "世界任務「ロートパゴス族」で、龍骨花に忘川の水を与えると手に入る龍骨花の果実",
   },
@@ -1203,6 +1204,7 @@
   {
     en: "Wind Glider",
     ja: "風の翼",
+    zhCN: "风之翼",
     pronunciationJa: "かぜのつばさ",
   },
 

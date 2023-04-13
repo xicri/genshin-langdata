@@ -404,11 +404,13 @@
   {
     en: "City of the Deceased",
     ja: "「亡者の都」",
+    zhCN: "「亡者之城」",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Fane of Panjvahe",
     ja: "五大オアシスの殿堂",
+    zhCN: "五绿洲之殿堂",
     tags: [ "sumeru", "domain" ],
   },
   {
@@ -441,6 +443,7 @@
   {
     en: "The Realm of Beginnings",
     ja: "原初の郷",
+    zhCN: "肇始之乡",
     pronunciationJa: "げんしょのさと", // TODO Need Check
     tags: [ "sumeru", "domain" ],
     notes: "アペプのオアシス守護者戦の秘境名",

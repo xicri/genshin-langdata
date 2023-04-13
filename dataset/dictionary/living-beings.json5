@@ -2,6 +2,7 @@
   {
     en: "Elemental Lifeform",
     ja: "元素生命",
+    zhCN: "元素生命",
     pronunciationJa: "げんそせいめい",
     tags: [ "living-being" ],
   },
