@@ -723,6 +723,7 @@
   {
     en: "Gray Crystal",
     ja: "灰残晶",
+    pronunciationJa: "はいざんしょう", // TODO Need Check
     zhCN: "灰余晶",
     tags: [ "object", "sumeru" ],
   },

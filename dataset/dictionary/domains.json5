@@ -338,12 +338,14 @@
   {
     en: "Tower of Abject Pride",
     ja: "有頂の塔",
+    pronunciationJa: "うちょうのとう", // TODO Need Check
     zhCN: "有顶塔",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Steeple of Ignorance",
     ja: "無学の塔",
+    pronunciationJa: "むがくのとう",
     zhCN: "昏识塔",
     tags: [ "sumeru", "domain" ],
   },
@@ -362,30 +364,35 @@
   {
     en: "Fragment of Childhood Dreams",
     ja: "幼夢の欠片",
+    pronunciationJa: "ようむのかけら", // TODO Need Check
     zhCN: "童梦的切片",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "The Coordinates of Sun and Rain",
     ja: "晴雨の経緯",
+    // pronunciationJa: "せいうのけいい", // TODO Need Check
     zhCN: "晴雨的经纬",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "The Dark Valley",
     ja: "河谷の闇路",
+    pronunciationJa: "かこくのやみじ", // TODO Need Check
     zhCN: "河谷的黯道",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Red Desert Threshold",
     ja: "赤砂の檻",
+    pronunciationJa: "せきさのおり", // TODO Need Check
     zhCN: "赤沙之槛",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Altar of Mirages",
     ja: "ミラージュ祭場",
+    pronunciationJa: "ミラージュさいじょう",
     zhCN: "蜃景祭场",
     tags: [ "sumeru", "domain" ],
   },
@@ -404,12 +411,14 @@
   {
     en: "City of the Deceased",
     ja: "「亡者の都」",
+    pronunciationJa: "もうじゃのみやこ",
     zhCN: "「亡者之城」",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Fane of Panjvahe",
     ja: "五大オアシスの殿堂",
+    pronunciationJa: "ごだいオアシスのでんどう",
     zhCN: "五绿洲之殿堂",
     tags: [ "sumeru", "domain" ],
   },
