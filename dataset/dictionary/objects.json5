@@ -734,4 +734,71 @@
     tags: [ "object", "sumeru" ],
     notes: "ソルシュが拾って投げることのできる、爆発する実",
   },
+  {
+    en: "Fravashi Tree",
+    ja: "霊谷木",
+    tags: [ "object", "sumeru" ],
+    notes: "谷木の残霊がいる丸型の木",
+  },
+  {
+    en: "Burgeoning Spirit",
+    ja: "蔓生霊心",
+    // pronunciationJa: "まんせいれいしん", // TODO Need Check
+    tags: [ "object", "sumeru" ],
+    notes: "散らばった霊光エネルギーを球状に縛っているツル",
+  },
+  {
+    en: "Ruebright Bloom",
+    ja: "明芸花",
+    pronunciationJa: "めいげいか", // TODO Need Check
+    tags: [ "object", "sumeru" ],
+    notes: "ソルシュが開花させることで足場になる花",
+  },
+  {
+    en: "Sunyata Flower",
+    ja: "シューニャター花",
+    pronunciationJa: "シューニャターはな", // TODO Need Check
+    tags: [ "object", "sumeru" ],
+    notes: "ソルシュが触れることで開花する花",
+  },
+  {
+    en: "Amrita Seal",
+    ja: "甘露封印",
+    pronunciationJa: "かんろふういん",
+    tags: [ "object", "sumeru" ],
+    notes: "二本角の花冠を手に入れたソルシュが解除できるバリア",
+  },
+  {
+    en: "Udumbara",
+    ja: "ウドゥンバラ",
+    tags: [ "object", "sumeru" ],
+  },
+  {
+    en: "Soul Bell",
+    ja: "霊宝の鐸鈴",
+    pronunciationJa: "れいほうのたくれい",
+    tags: [ "object", "sumeru" ],
+    notes: "蒼漠の囿土に点在する、鐘のギミック",
+  },
+  {
+    en: "Bright Flame Altar",
+    ja: "光明の火壇",
+    pronunciationJa: "こうみょうのかだん", // TODO Need Check
+    tags: [ "object", "sumeru" ],
+    notes: "コリュバンテスのうちの1つを入手する際、全てに火をつける必要がある火壇",
+  },
+  {
+    en: "Khvarena Barrier",
+    ja: "霊光バリア",
+    pronunciationJa: "れいこうバリア",
+    tags: [ "object", "sumeru" ],
+    notes: "コリュバンテスのうちの1つを入手する際の戦闘で、装置からの攻撃を防げるバリア",
+  },
+  {
+    en: "Ruin Cannon",
+    ja: "遺跡重砲",
+    pronunciationJa: "いせきじゅうほう",
+    tags: [ "object", "sumeru" ],
+    notes: "コリュバンテスのうちの1つを入手する際に、巨像のエネルギーシールドを破壊するための重砲", // 重砲: heavy cannon
+  },
 ]

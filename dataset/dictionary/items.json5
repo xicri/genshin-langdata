@@ -1198,6 +1198,34 @@
     notes: "「神の碁盤」に配置するアイテム",
   },
 
+  {
+    en: "Plume of Purifying Light",
+    ja: "浄光の羽根",
+    zhCN: "净光翎",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Korybantes",
+    ja: "コリュバンテス",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Kory Drum",
+    ja: "コリュの太鼓",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Udumbara Pistil",
+    ja: "ウドゥンバラの花蕊",
+    pronunciationJa: "ウドゥンバラのかずい",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Great Song of Khvarena",
+    ja: "霊光絶唱",
+    tags: [ "item", "sumeru" ],
+  },
+
   //
   // Dresesings
   //

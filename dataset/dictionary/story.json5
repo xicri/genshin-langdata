@@ -500,6 +500,12 @@
     tags: [ "sumeru" ],
     notes: "英語の発音はハーマニュビス",
   },
+  {
+    en: "Dev",
+    ja: "ディフ",
+    tags: [ "sumeru" ],
+    notes: "スメールの言葉で、「魔物」を指す",
+  },
   // ▼▼ Aranaras' language ▼▼
   {
     en: "Nara",
@@ -551,6 +557,18 @@
   },
   // ▲▲ Aranaras' language ▲▲
   {
+    en: "rainforest",
+    ja: "雨林",
+    tags: [ "sumeru" ],
+    notes: "砂漠に対して、スメール東部の雨林エリアや、そこに住んでいる、または出身の人間を示す",
+    examples: [{
+      en: "Besides, who knows how the people in the rainforest will treat her?",
+      ja: "それに、雨林側の奴らに除け者にされないか心配だ。",
+      ref: "エピソード ディシア「砂境の晨光」(Character Teaser - \"Dehya: Dawn Over the Sand\")",
+      refURL: "https://youtu.be/mn4GqsKs9U0?t=19", // en: https://youtu.be/fmYko2bWjnI?t=17
+    }],
+  },
+  {
     en: "Village Keeper",
     ja: "グラマパラ",
     zhCN: "守村人",
@@ -589,6 +607,24 @@
     zhCN: "希望之壁",
     tags: [ "sumeru" ],
     notes: "ディシアが孤児院に寄付した資金に付けた名前",
+  },
+  {
+    en: "Sign of Apaosha",
+    ja: "焚真の天象",
+    notes: "ふんしんのてんしょう",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Amrita",
+    ja: "甘露 / 甘露活水",
+    notes: "かんろ",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Azosite",
+    ja: "アゾス物質",
+    notes: "アゾスぶっしつ",
+    tags: [ "sumeru" ],
   },
 
   //
