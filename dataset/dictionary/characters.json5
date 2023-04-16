@@ -2938,12 +2938,7 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "カーヴェの工具箱",
   },
-  {
-    en: "Sorush",
-    ja: "ソルシュ",
-    zhCN: "斯露莎",
-    tags: [ "sumeru", "character-sub" ],
-  },
+
   {
     en: "Nur",
     ja: "ヌール",
@@ -2970,6 +2965,13 @@
     ja: "龍王",
     zhCN: "龙王",
     pronunciationJa: "りゅうおう",
+    tags: [ "sumeru", "character-sub" ],
+  },
+
+  {
+    en: "Sorush",
+    ja: "ソルシュ",
+    zhCN: "斯露莎",
     tags: [ "sumeru", "character-sub" ],
   },
 
