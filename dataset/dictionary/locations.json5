@@ -34,7 +34,7 @@
     ja: "モンド人",
     zhCN: "蒙德人",
     pronunciationJa: "モンドじん",
-    notes: "Japanese など現実の「○○人」を示す言葉の中には、Japanese や Chinese など複数形にはならないものもあるが、Mondstadter は 複数形 Mondstadters をとる。Inazuman は「稲妻の」という形容詞形の意味も持つが、Mondstadter が「モンドの」という意味で使われている箇所は確認されていない。",
+    notes: "現実の「○○人」を示す言葉の中には、Japanese や Chinese など複数形にはならないものもあるが、Mondstadter は 複数形 Mondstadters をとる。Inazuman は「稲妻の」という形容詞形の意味も持つが、Mondstadter が「モンドの」という形容詞形の意味で使われている箇所は確認されていない。",
     examples: [{
       en: "Inazumans are definitely more particular about etiquette than Mondstadters!",
       ja: "モンド人よりも、稲妻人の方が礼儀に対して気を配っている。",
@@ -682,7 +682,7 @@
     zhCN: "稻妻人 / 稻妻的",
     pronunciationJa: "いなずまじん / いなずまの",
     tags: [ "inazuma" ],
-    notes: "元々 Inazuman は非公式にプレイヤーの間で使われる言葉であったが、その後トーマのキャラクター実戦紹介動画でこの語が使われ、公式な訳となった。Japanese など現実の「○○人」を示す言葉の中には、Japanese や Chinese など複数形にはならないものもあるが、Inazuman は 複数形 Inazumans をとる。",
+    notes: "元々 Inazuman は非公式にプレイヤーの間で使われる言葉であったが、その後トーマのキャラクター実戦紹介動画でこの語が使われ、公式な訳となった。現実の「○○人」を示す言葉の中には、Japanese や Chinese など複数形にはならないものもあるが、Inazuman は 複数形 Inazumans をとる。",
     examples: [
       {
         en: "Inazumans are definitely more particular about etiquette than Mondstadters!",
