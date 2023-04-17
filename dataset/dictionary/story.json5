@@ -612,19 +612,19 @@
   {
     en: "Sign of Apaosha",
     ja: "焚真の天象",
-    notes: "ふんしんのてんしょう",
+    pronunciationJa: "ふんしんのてんしょう",
     tags: [ "sumeru" ],
   },
   {
     en: "Amrita",
     ja: "甘露 / 甘露活水",
-    notes: "かんろ",
+    pronunciationJa: "かんろ",
     tags: [ "sumeru" ],
   },
   {
     en: "Azosite",
     ja: "アゾス物質",
-    notes: "アゾスぶっしつ",
+    pronunciationJa: "アゾスぶっしつ",
     tags: [ "sumeru" ],
   },
 
