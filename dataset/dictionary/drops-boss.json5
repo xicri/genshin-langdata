@@ -173,6 +173,7 @@
   {
     en: "Evergloom Ring",
     ja: "常闇の輪",
+    pronunciationJa: "とこやみのわ",
     tags: [ "drop-boss", "sumeru" ],
     notes: "深罪の浸礼者のドロップアイテム",
   },

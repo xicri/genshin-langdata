@@ -2983,12 +2983,14 @@
   {
     en: "Lady Sorush",
     ja: "ソルシュ様",
+    pronunciationJa: "ソルシュさま",
     tags: [ "sumeru", "how-to-call" ],
     notes: "スケプティック団からのソルシュに対する敬称",
   },
   {
     en: "Bloomguard of the Pari",
     ja: "花霊の「勇者」",
+    pronunciationJa: "かれいのゆうしゃ",
     tags: [ "sumeru", "title" ],
     notes: "ソルシュの称号",
   },
@@ -3014,6 +3016,7 @@
   {
     en: "Vijnanapati",
     ja: "識主",
+    pronunciationJa: "しきしゅ", // Need Check
     tags: [ "sumeru", "title" ],
     notes: "ナセジュナのスケプティック団における役職",
   },

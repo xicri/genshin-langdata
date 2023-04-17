@@ -296,12 +296,14 @@
   {
     en: "Khvarena",
     ja: "霊光",
+    pronunciationJa: "れいこう",
     zhCN: "灵光",
     tags: [ "living-being", "sumeru" ],
   },
   {
     en: "countless motes of Khvarena",
     ja: "霊光百種",
+    pronunciationJa: "れいこうひゃくしゅ",
     zhCN: "灵光百种",
     tags: [ "living-being", "sumeru" ],
     notes: "英語では霊光と区別されずに、単に Khvarena として表現される場合もある",
