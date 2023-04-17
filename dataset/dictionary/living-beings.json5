@@ -295,9 +295,16 @@
   },
   {
     en: "Khvarena",
-    ja: "霊光 / 霊光百種",
-    zhCN: "灵光 / 灵光百种",
+    ja: "霊光",
+    zhCN: "灵光",
     tags: [ "living-being", "sumeru" ],
+  },
+  {
+    en: "countless motes of Khvarena",
+    ja: "霊光百種",
+    zhCN: "灵光百种",
+    tags: [ "living-being", "sumeru" ],
+    notes: "英語では霊光と区別されずに、単に Khvarena として表現される場合もある",
   },
   {
     en: "Farrwick",
