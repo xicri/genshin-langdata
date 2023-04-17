@@ -1738,6 +1738,7 @@
   {
     en: "Dahrian",
     ja: "ダーリ人 / ダーリの",
+    pronunciationJa: "ダーリじん / ダーリの",
     tags: [ "sumeru" /* , "khaenriah" */ ],
     notes: "スメールの言葉でカーンルイアを指す言葉「ダーリ」(Dahri) の派生型",
   },
@@ -1804,6 +1805,7 @@
   {
     en: "Khaenri'ahn",
     ja: "カーンルイア人 / カーンルイアの",
+    pronunciationJa: "カーンルイアじん / カーンルイアの",
     // tags: [ "khaenriah" ],
   },
 ]

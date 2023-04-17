@@ -1201,6 +1201,7 @@
   {
     en: "Plume of Purifying Light",
     ja: "浄光の羽根",
+    pronunciationJa: "じょうこうのはね", // TODO Need Check
     zhCN: "净光翎",
     tags: [ "item", "sumeru" ],
   },
@@ -1212,6 +1213,7 @@
   {
     en: "Kory Drum",
     ja: "コリュの太鼓",
+    pronunciationJa: "コリュのたいこ",
     tags: [ "item", "sumeru" ],
   },
   {
@@ -1223,6 +1225,7 @@
   {
     en: "Great Song of Khvarena",
     ja: "霊光絶唱",
+    pronunciationJa: "れいこうぜっしょう",
     tags: [ "item", "sumeru" ],
   },
 
