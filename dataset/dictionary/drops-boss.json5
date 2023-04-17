@@ -170,6 +170,12 @@
     tags: [ "drop-boss", "sumeru" ],
     notes: "風蝕ウェネトのドロップアイテム",
   },
+  {
+    en: "Evergloom Ring",
+    ja: "常闇の輪",
+    tags: [ "drop-boss", "sumeru" ],
+    notes: "深罪の浸礼者のドロップアイテム",
+  },
   // Dvalin
   {
     en: "Dvalin's Plume",

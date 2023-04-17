@@ -645,7 +645,7 @@
     ja: "深罪の浸礼者",
     zhCN: "深罪浸礼者",
     pronunciationJa: "しんざいのしんれいしゃ", // Source: https://www.youtube.com/live/5jrz_Z3kmSk?t=1567
-    tags: [ "enemy", "sumeru" ], // TODO Is it Boss?
+    tags: [ "enemy-boss", "sumeru" ],
   },
 
   // Treasure Hoarders

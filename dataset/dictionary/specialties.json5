@@ -240,10 +240,15 @@
     tags: [ "specialty", "sumeru" ],
   },
   {
-    en: "A Flower Yet to Bloom",
-    ja: "何処かで摘まれた咲きかけの花",
-    pronunciationJa: "どこかでつまれたさきかけのはな",
-    zhCN: "来自何处的待放之花",
-    tags: [ "specialty", "sumeru" ], // Check if it is really a local specialty
+    en: "Mourning Flower",
+    ja: "悼霊花",
+    zhCN: "悼灵花",
+    tags: [ "specialty", "sumeru" ],
+  },
+  {
+    en: "Trishiraite",
+    ja: "サングイト",
+    zhCN: "万相石",
+    tags: [ "specialty", "sumeru" ],
   },
 ]

@@ -2512,6 +2512,12 @@
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
   },
   {
+    en: "Aryadeva",
+    ja: "アーリヤデーバ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "スメールシティ内にいる小説家で、元スケプティック団員。元ネタは2〜3世紀頃の僧アーリヤデーヴァか",
+  },
+  {
     en: "Arezo",
     ja: "アレソ",
     zhCN: "阿莲佐",
@@ -2938,12 +2944,7 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "カーヴェの工具箱",
   },
-  {
-    en: "Sorush",
-    ja: "ソルシュ",
-    zhCN: "斯露莎",
-    tags: [ "sumeru", "character-sub" ],
-  },
+
   {
     en: "Nur",
     ja: "ヌール",
@@ -2971,6 +2972,80 @@
     zhCN: "龙王",
     pronunciationJa: "りゅうおう",
     tags: [ "sumeru", "character-sub" ],
+  },
+
+  {
+    en: "Sorush",
+    ja: "ソルシュ",
+    zhCN: "斯露莎",
+    tags: [ "sumeru", "character-sub", "item" ],
+  },
+  {
+    en: "Lady Sorush",
+    ja: "ソルシュ様",
+    tags: [ "sumeru", "how-to-call" ],
+    notes: "スケプティック団からのソルシュに対する敬称",
+  },
+  {
+    en: "Bloomguard of the Pari",
+    ja: "花霊の「勇者」",
+    tags: [ "sumeru", "title" ],
+    notes: "ソルシュの称号",
+  },
+  {
+    en: "Twin-Horned Chaplet",
+    ja: "二本角の花冠",
+    pronunciationJa: "にほんづののかかん",
+    tags: [ "sumeru" ],
+    notes: "ソルシュが被る冠",
+  },
+  {
+    en: "Yasnapati",
+    ja: "謁賛主",
+    pronunciationJa: "えっさんしゅ", // TODO Need Check
+    tags: [ "sumeru", "title" ],
+    notes: "ソルシュが旅人に任じた記録者としての役割",
+  },
+  {
+    en: "Nasejuna",
+    ja: "ナセジュナ",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Vijnanapati",
+    ja: "識主",
+    tags: [ "sumeru", "title" ],
+    notes: "ナセジュナのスケプティック団における役職",
+  },
+  {
+    en: "Zurvan",
+    ja: "ズルヴァーン",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "最初の花霊",
+  },
+  {
+    en: "Mihir",
+    ja: "ミヒル",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "アシパトラ・ヴァナの沼に封じられていた花霊",
+  },
+  {
+    en: "Rashnu",
+    ja: "ラシュヌ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "バルソムの丘の巨木の下に眠っていた花霊",
+  },
+  {
+    en: "Simurgh",
+    ja: "シームルグ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「善悪のクヴァレナ」で言及される神鳥",
+  },
+  {
+    en: "Klingsor",
+    ja: "クリングソル",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「善悪のクヴァレナ」で言及される「巡回官」",
   },
 
   //
@@ -3024,6 +3099,12 @@
     zhCN: "加尔恰",
     tags: [ "character-sub" ],
     notes: "空想クラブの一員",
+  },
+  {
+    en: "Lutong",
+    ja: "路通",
+    tags: [ "character-sub", "liyue" ],
+    notes: "ガルシアの助手 (?)",
   },
   {
     en: "Numbering Machine",

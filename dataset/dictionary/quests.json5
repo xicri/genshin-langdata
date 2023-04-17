@@ -1391,6 +1391,20 @@
     tags: [ "sumeru", "quest-world" ],
   },
 
+  {
+    en: "Khvarena of Good and Evil",
+    ja: "善悪のクヴァレナ",
+    pronunciationJa: "ぜんあくのクヴァレナ",
+    tags: [ "sumeru", "quest-world" ],
+    notes: "クヴァレナ (Khvarena) とは、ゲーム中では霊光のことを意味する",
+  },
+  {
+    en: "Pale Fire",
+    ja: "仄暗い炎",
+    pronunciationJa: "ほのぐらいほのお",
+    tags: [ "sumeru", "quest-world" ],
+  },
+
   //
   // World Quests - Random Quests
   //

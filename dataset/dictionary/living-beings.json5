@@ -294,9 +294,47 @@
     tags: [ "living-being", "sumeru" ],
   },
   {
+    en: "Khvarena",
+    ja: "霊光",
+    zhCN: "灵光",
+    tags: [ "living-being", "sumeru" ],
+  },
+  {
+    en: "countless motes of Khvarena",
+    ja: "霊光百種",
+    zhCN: "灵光百种",
+    tags: [ "living-being", "sumeru" ],
+    notes: "英語では霊光と区別されずに、単に Khvarena として表現される場合もある",
+  },
+  {
+    en: "Farrwick",
+    ja: "霊芯",
+    pronunciationJa: "れいしん", // TODO Need Check
+    tags: [ "living-being", "sumeru" ],
+  },
+  {
+    en: "Residual Pari of the Forest",
+    ja: "谷木の残霊",
+    tags: [ "living-being", "sumeru" ],
+  },
+  {
+    en: "Khvarena Mayfly",
+    ja: "霊光カゲロウ",
+    pronunciationJa: "れいこうカゲロウ",
+    tags: [ "living-being", "sumeru" ],
+    notes: "触れると散開し、時間内に3つ集めて元の場所に戻すことで宝箱をもらえる生物",
+  },
+  {
+    en: "Amrita Mayfly",
+    ja: "甘露カゲロウ",
+    pronunciationJa: "かんろカゲロウ", // TODO Need Check
+    tags: [ "living-being", "sumeru" ],
+    notes: "夜にシューニャター花の周りにいる生物",
+  },
+  {
     en: "Tent Tortoise",
     ja: "テントガメ",
     zhCN: "玳龟",
-    tags: [ "living-being", "enemy", "sumeru" ], // TODO Check if they are really enemies
+    tags: [ "living-being", "sumeru" ],
   },
 ]

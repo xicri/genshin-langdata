@@ -585,4 +585,26 @@
     tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
     notes: "聖骸獣のドロップアイテム (★4)",
   },
+  {
+    en: "A Flower Yet to Bloom",
+    ja: "何処かで摘まれた咲きかけの花",
+    pronunciationJa: "どこかでつまれたさきかけのはな",
+    zhCN: "来自何处的待放之花",
+    tags: [ "drop", "sumeru" ],
+    notes: "ヒルチャールレンジャーのドロップアイテム (★2)",
+  },
+  {
+    en: "Treasured Flower",
+    ja: "誰かが大切にしていた花",
+    pronunciationJa: "だれかがたいせつにしていたはな",
+    tags: [ "drop", "sumeru" ],
+    notes: "ヒルチャールレンジャーのドロップアイテム (★3)",
+  },
+  {
+    en: "Wanderer's Blooming Flower",
+    ja: "流浪者の満開の花",
+    pronunciationJa: "るろうしゃのまんかいのはな",
+    tags: [ "drop", "sumeru" ],
+    notes: "ヒルチャールレンジャーのドロップアイテム (★4)",
+  },
 ]
