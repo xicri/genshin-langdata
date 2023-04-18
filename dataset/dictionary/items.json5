@@ -1208,23 +1208,27 @@
   {
     en: "Korybantes",
     ja: "コリュバンテス",
+    zhCN: "俱利般地",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "Kory Drum",
     ja: "コリュの太鼓",
+    zhCN: "俱利鼓",
     pronunciationJa: "コリュのたいこ",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "Udumbara Pistil",
     ja: "ウドゥンバラの花蕊",
+    zhCN: "忧昙花的花蕊",
     pronunciationJa: "ウドゥンバラのかずい",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "Great Song of Khvarena",
     ja: "霊光絶唱",
+    zhCN: "灵光绝唱",
     pronunciationJa: "れいこうぜっしょう",
     tags: [ "item", "sumeru" ],
   },

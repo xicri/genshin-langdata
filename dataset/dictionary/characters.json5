@@ -2514,6 +2514,7 @@
   {
     en: "Aryadeva",
     ja: "アーリヤデーバ",
+    zhCN: "阿亚德瓦",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる小説家で、元スケプティック団員。元ネタは2〜3世紀頃の僧アーリヤデーヴァか",
   },
@@ -2983,6 +2984,7 @@
   {
     en: "Lady Sorush",
     ja: "ソルシュ様",
+    zhCN: "斯露莎大人",
     pronunciationJa: "ソルシュさま",
     tags: [ "sumeru", "how-to-call" ],
     notes: "スケプティック団からのソルシュに対する敬称",
@@ -2990,6 +2992,7 @@
   {
     en: "Bloomguard of the Pari",
     ja: "花霊の「勇者」",
+    zhCN: "花灵之「勇者」",
     pronunciationJa: "かれいのゆうしゃ",
     tags: [ "sumeru", "title" ],
     notes: "ソルシュの称号",
@@ -2997,6 +3000,7 @@
   {
     en: "Twin-Horned Chaplet",
     ja: "二本角の花冠",
+    zhCN: "双角的花冠",
     pronunciationJa: "にほんづののかかん",
     tags: [ "sumeru" ],
     notes: "ソルシュが被る冠",
@@ -3004,6 +3008,7 @@
   {
     en: "Yasnapati",
     ja: "謁賛主",
+    zhCN: "谒颂主",
     pronunciationJa: "えっさんしゅ", // TODO Need Check
     tags: [ "sumeru", "title" ],
     notes: "ソルシュが旅人に任じた記録者としての役割",
@@ -3011,11 +3016,13 @@
   {
     en: "Nasejuna",
     ja: "ナセジュナ",
+    zhCN: "那先朱那",
     tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Vijnanapati",
     ja: "識主",
+    zhCN: "识主",
     pronunciationJa: "しきしゅ", // Need Check
     tags: [ "sumeru", "title" ],
     notes: "ナセジュナのスケプティック団における役職",
@@ -3023,30 +3030,35 @@
   {
     en: "Zurvan",
     ja: "ズルヴァーン",
+    zhCN: "祖尔宛",
     tags: [ "sumeru", "character-sub" ],
     notes: "最初の花霊",
   },
   {
     en: "Mihir",
     ja: "ミヒル",
+    zhCN: "米希尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "アシパトラ・ヴァナの沼に封じられていた花霊",
   },
   {
     en: "Rashnu",
     ja: "ラシュヌ",
+    zhCN: "拉沙鲁",
     tags: [ "sumeru", "character-sub" ],
     notes: "バルソムの丘の巨木の下に眠っていた花霊",
   },
   {
     en: "Simurgh",
     ja: "シームルグ",
+    zhCN: "西摩格",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「善悪のクヴァレナ」で言及される神鳥",
   },
   {
     en: "Klingsor",
     ja: "クリングソル",
+    zhCN: "克林索尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「善悪のクヴァレナ」で言及される「巡回官」",
   },
@@ -3106,6 +3118,7 @@
   {
     en: "Lutong",
     ja: "路通",
+    zhCN: "路通",
     tags: [ "character-sub", "liyue" ],
     notes: "ガルシアの助手 (?)",
   },

@@ -503,6 +503,7 @@
   {
     en: "Dev",
     ja: "ディフ",
+    zhCN: "迪弗",
     tags: [ "sumeru" ],
     notes: "スメールの言葉で、「魔物」を指す",
   },
@@ -559,12 +560,14 @@
   {
     en: "rainforest",
     ja: "雨林",
+    zhCN: "雨林",
     pronunciationJa: "うりん",
     tags: [ "sumeru" ],
     notes: "砂漠に対して、スメール東部の雨林エリアや、そこに住んでいる、または出身の人間を示す",
     examples: [{
       en: "Besides, who knows how the people in the rainforest will treat her?",
       ja: "それに、雨林側の奴らに除け者にされないか心配だ。",
+      zhCN: "而且…也不知道雨林那边的人会不会排挤她。",
       ref: "エピソード ディシア「砂境の晨光」(Character Teaser - \"Dehya: Dawn Over the Sand\")",
       refURL: "https://youtu.be/mn4GqsKs9U0?t=19", // en: https://youtu.be/fmYko2bWjnI?t=17
     }],
@@ -612,18 +615,21 @@
   {
     en: "Sign of Apaosha",
     ja: "焚真の天象",
+    zhCN: "焚真之天象",
     pronunciationJa: "ふんしんのてんしょう",
     tags: [ "sumeru" ],
   },
   {
     en: "Amrita",
     ja: "甘露 / 甘露活水",
+    zhCN: "甘露 / 甘露活水",
     pronunciationJa: "かんろ",
     tags: [ "sumeru" ],
   },
   {
     en: "Azosite",
     ja: "アゾス物質",
+    zhCN: "阿索斯物质",
     pronunciationJa: "アゾスぶっしつ",
     tags: [ "sumeru" ],
   },

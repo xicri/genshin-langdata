@@ -596,6 +596,7 @@
   {
     en: "Treasured Flower",
     ja: "誰かが大切にしていた花",
+    zhCN: "何人所珍藏之花",
     pronunciationJa: "だれかがたいせつにしていたはな",
     tags: [ "drop", "sumeru" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★3)",
@@ -603,6 +604,7 @@
   {
     en: "Wanderer's Blooming Flower",
     ja: "流浪者の満開の花",
+    zhCN: "漫游者的盛放之花",
     pronunciationJa: "るろうしゃのまんかいのはな",
     tags: [ "drop", "sumeru" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★4)",

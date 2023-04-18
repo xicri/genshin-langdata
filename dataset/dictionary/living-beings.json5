@@ -311,17 +311,20 @@
   {
     en: "Farrwick",
     ja: "霊芯",
+    zhCN: "灵芯",
     pronunciationJa: "れいしん", // TODO Need Check
     tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Residual Pari of the Forest",
     ja: "谷木の残霊",
+    zhCN: "谷木的残灵",
     tags: [ "living-being", "sumeru" ],
   },
   {
     en: "Khvarena Mayfly",
     ja: "霊光カゲロウ",
+    zhCN: "灵光游蜉",
     pronunciationJa: "れいこうカゲロウ",
     tags: [ "living-being", "sumeru" ],
     notes: "触れると散開し、時間内に3つ集めて元の場所に戻すことで宝箱をもらえる生物",
@@ -329,6 +332,7 @@
   {
     en: "Amrita Mayfly",
     ja: "甘露カゲロウ",
+    zhCN: "甘露游蜉",
     pronunciationJa: "かんろカゲロウ", // TODO Need Check
     tags: [ "living-being", "sumeru" ],
     notes: "夜にシューニャター花の周りにいる生物",
