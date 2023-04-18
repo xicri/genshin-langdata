@@ -1649,30 +1649,35 @@
   {
     en: "Temir Mountains",
     ja: "鉄和山",
+    zhCN: "铁穆山",
     pronunciationJa: "てつなざん",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Tunigi Hollow",
     ja: "トゥニギの黒淵",
+    zhCN: "荼泥黑渊",
     pronunciationJa: "トゥニギのこくえん",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Gate of Zulqarnain",
     ja: "ドゥル・カルナイン峠",
+    zhCN: "阻勒隘",
     pronunciationJa: "ドゥル・カルナインとうげ",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Samudra Coast",
     ja: "サムドラ海岸",
+    zhCN: "聚香海岸",
     pronunciationJa: "サムドラかいがん",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Hangeh Afrasiyab",
     ja: "アフラシアブ洞窟",
+    zhCN: "逾渊地墟",
     pronunciationJa: "アフラシアブどうくつ",
     tags: [ "sumeru", "location" ],
   },
@@ -1687,18 +1692,21 @@
   {
     en: "Vourukasha Oasis",
     ja: "甘露花海",
+    zhCN: "甘露花海",
     pronunciationJa: "かんろかかい",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Asipattravana Swamp",
     ja: "アシパトラ・ヴァナの沼",
+    zhCN: "锋刃林泽",
     pronunciationJa: "アシパトラ・ヴァナのぬま",
     tags: [ "sumeru", "location" ],
   },
   {
     en: "Hills of Barsom",
     ja: "バルソムの丘",
+    zhCN: "跋松顶",
     pronunciationJa: "バルソムのおか",
     tags: [ "sumeru", "location" ],
   },
@@ -1706,6 +1714,7 @@
   {
     en: "Madinat al-Nuhas",
     ja: "アル・ヌハスの都",
+    zhCN: "精石铜城",
     pronunciationJa: "アル・ヌハスのみやこ",
     tags: [ "sumeru", "location" ],
   },
@@ -1713,18 +1722,21 @@
   {
     en: "Amrita Pool",
     ja: "甘露の池",
+    zhCN: "甘露池",
     pronunciationJa: "かんろのいけ",
     tags: [ "sumeru", "location" ], // TODO Check if location is appropriate tag
   },
   {
     en: "flowery sea",
     ja: "花海",
+    zhCN: "花海",
     pronunciationJa: "かかい",
     tags: [ "sumeru", "location" ], // TODO Check if location is appropriate tag
   },
   {
     en: "Sunyata Lake",
     ja: "シューニャター湖",
+    zhCN: "净觉湖",
     pronunciationJa: "シューニャターこ",
     tags: [ "sumeru", "location" ], // TODO Check if location is appropriate tag
   },
@@ -1732,12 +1744,14 @@
   {
     en: "Dahri",
     ja: "ダーリ",
+    zhCN: "荼诃",
     tags: [ "sumeru", /* "khaenriah", */ "location" ],
     notes: "スメールの言葉でカーンルイアを指す",
   },
   {
     en: "Dahrian",
     ja: "ダーリ人 / ダーリの",
+    zhCN: "荼诃人 / 荼诃的",
     pronunciationJa: "ダーリじん / ダーリの",
     tags: [ "sumeru" /* , "khaenriah" */ ],
     notes: "スメールの言葉でカーンルイアを指す言葉「ダーリ」(Dahri) の派生型",
@@ -1805,6 +1819,7 @@
   {
     en: "Khaenri'ahn",
     ja: "カーンルイア人 / カーンルイアの",
+    zhCN: "坎瑞亚人 / 坎瑞亚的",
     pronunciationJa: "カーンルイアじん / カーンルイアの",
     // tags: [ "khaenriah" ],
   },

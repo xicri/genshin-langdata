@@ -341,6 +341,7 @@
   {
     en: "Order of Skeptics",
     ja: "スケプティック団",
+    zhCN: "矫论团",
     pronunciationJa: "スケプティックだん",
     tags: [ "sumeru", "organization" ],
     notes: "\"Order of\" を省略し、単に \"Skeptics\" でスケプティック団のことを指す場合もある",
@@ -348,12 +349,14 @@
   {
     en: "Skeptic",
     ja: "「スケプティック団」メンバー",
+    zhCN: "「矫论团」成员",
     pronunciationJa: "スケプティックだんメンバー",
     tags: [ "sumeru", "title" ],
   },
   {
     en: "Nagarjunites",
     ja: "ナガルジュナ団",
+    zhCN: "那伽朱那团",
     pronunciationJa: "ナガルジュナだん",
     tags: [ "sumeru", "organization" ],
     notes: "スケプティック団の、雨林側からの呼び方",
