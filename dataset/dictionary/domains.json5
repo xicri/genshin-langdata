@@ -178,7 +178,7 @@
       zhCN: [ "宗室本" ],
     },
     tags: [ "liyue", "domain" ],
-    pinyins: [{ char: "岫", pron: "xiu4" }]
+    pinyins: [{ char: "岫", pron: "xiu4" }],
   },
   {
     en: "Hidden Palace of Zhou Formula",

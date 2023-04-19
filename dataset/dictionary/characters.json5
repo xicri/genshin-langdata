@@ -1114,7 +1114,7 @@
     variants: {
       ja: [ "若陀竜王", "若蛇龍王", "若蛇竜王", "若陀" ],
     },
-    pinyins: [{ char: "若", pron: "re3"}],
+    pinyins: [{ char: "若", pron: "re3" }],
   },
   {
     en: "Guoba",
@@ -1218,7 +1218,7 @@
     ja: "掇星攫辰天君",
     zhCN: "掇星攫辰天君",
     tags: [ "liyue", "title" ],
-    pinyins: [{ char: "掇", pron: "duo3"}, { char: "攫", pron: "jue2"}],
+    pinyins: [{ char: "掇", pron: "duo3" }, { char: "攫", pron: "jue2" }],
   },
   {
     en: "Chef Mao",
@@ -1736,7 +1736,7 @@
       zhCN: [ "九条纱罗" ],
     },
     tags: [ "inazuma", "character-main" ],
-    pinyins: [{ char: "裟", pron: "sha1"}]
+    pinyins: [{ char: "裟", pron: "sha1" }],
   },
   {
     en: "Shikanoin Heizou",
@@ -1873,7 +1873,7 @@
     zhCN: "柊弘嗣",
     pronunciationJa: "ひいらぎひろし",
     tags: [ "inazuma", "character-sub" ],
-    pinyins: [{ char: "柊", pron: "zhong1" }]
+    pinyins: [{ char: "柊", pron: "zhong1" }],
   },
   {
     en: "Wakamurasaki",
@@ -1913,7 +1913,7 @@
     ja: "ルー",
     zhCN: "阿瑠",
     tags: [ "inazuma", "character-sub" ],
-    pinyins: [{ char: "瑠", pron: "liu4"}]
+    pinyins: [{ char: "瑠", pron: "liu4" }],
   },
   {
     en: "Kama",
@@ -2632,7 +2632,7 @@
     zhCN: "塔德菈",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。マシーラの娘。",
-    pinyins: [{ char: "菈", pron: "la1" }]
+    pinyins: [{ char: "菈", pron: "la1" }],
   },
   {
     en: "Masseira",
@@ -2840,7 +2840,7 @@
     ja: "アランハドゥ",
     zhCN: "兰耆都",
     tags: [ "sumeru", "character-sub" ],
-    pinyins: [{ char: "耆", pron: "qi2"}]
+    pinyins: [{ char: "耆", pron: "qi2" }],
   },
   {
     en: "Aramuhukunda",
@@ -3024,7 +3024,7 @@
     pronunciationJa: "えっさんしゅ", // TODO Need Check
     tags: [ "sumeru", "title" ],
     notes: "ソルシュが旅人に任じた記録者としての役割",
-    pinyins: [{char: "谒", pron: "ye4"}],
+    pinyins: [{ char: "谒", pron: "ye4" }],
   },
   {
     en: "Nasejuna",

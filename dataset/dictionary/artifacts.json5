@@ -188,7 +188,7 @@
       zhCN: [ "角斗士" ],
     },
     // Misread word
-    pinyins: [{ char: "角", pron: "jue2" }, { char: "斗", pron: "dou4" }, { char: "士", pron: "shi4" }]
+    pinyins: [{ char: "角", pron: "jue2" }, { char: "斗", pron: "dou4" }, { char: "士", pron: "shi4" }],
   },
   {
     en: "Heart of Depth",
@@ -281,7 +281,7 @@
       ja: [ "海染" ],
       zhCN: [ "海染套" ],
     },
-    pinyins: [{ char: "砗", pron: "che1" }, { char: "磲", pron: "qu2" }]
+    pinyins: [{ char: "砗", pron: "che1" }, { char: "磲", pron: "qu2" }],
   },
   {
     en: "Pale Flame",
