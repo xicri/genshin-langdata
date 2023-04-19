@@ -333,7 +333,7 @@
     pronunciationJa: "むそうらくどのけつまつ",
     tags: [ "inazuma", "domain" ],
     notes: "禍津御建鳴神命戦の秘境名。",
-    pron: [{ char: "殁", pron: "mo4" }],
+    pinyins: [{ char: "殁", pron: "mo4" }],
   },
 
   //
