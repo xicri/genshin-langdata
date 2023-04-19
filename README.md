@@ -34,6 +34,30 @@ dataset/
 
 See [API document](https://genshin-dictionary.com/opendata/). (Currently only Japanese version available. English version is planned.)
 
+#### pinyins
+
+When you add Chinese pronunciation in pinyin, you can use tone numbers (e.g. `qia3`) in source JSON5 files. It is transformed to tone letters (e.g. `qiǎ`) on build.
+
+e.g.
+
+```json5
+  {
+    // ...
+    zhCN: "天云峠",
+    pinyins: [{ char: "峠", pron: "qia3" }],
+    // ...
+  },
+```
+↓
+```json
+  {
+    // ...
+    "zhCN": "天云峠",
+    "pinyins": [{ "char": "峠", "pron": "qiǎ" }],
+    // ...
+  },
+```
+
 ### Validation
 
 JSON5 validation is not mandatory process because it automatically runs on GitHub Actions when you open a Pull Request.
