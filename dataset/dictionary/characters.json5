@@ -70,6 +70,7 @@
     ja: "エンドラー",
     zhCN: "嫣朵拉",
     tags: [ "character-sub", "item" ],
+    pinyins: [{ char: "嫣", pron: "yan1" }],
   },
   {
     en: "Dandy",
@@ -350,6 +351,7 @@
     zhCN: "优菈·劳伦斯",
     notes: "英語での発音は「ユーラ」",
     tags: [ "mondstadt", "character-main" ],
+    pinyins: [{ char: "菈", pron: "la1" }],
   },
   {
     en: "Spindrift Knight",
@@ -823,6 +825,7 @@
     zhCN: "辛焱",
     pronunciationJa: "しんえん",
     tags: [ "liyue", "character-main" ],
+    pinyins: [{ char: "焱", pron: "yan3" }],
   },
   {
     en: "Zhongli",
@@ -858,6 +861,7 @@
     pronunciationJa: "しょう",
     notes: "発音は「シァオ」([参考動画](https://youtu.be/p10yiwULJA8?t=310))",
     tags: [ "liyue", "character-main" ],
+    pinyins: [{ char: "魈", pron: "xiao1" }],
   },
   {
     en: "Conqueror of Demons",
@@ -929,6 +933,7 @@
     pronunciationJa: "びゃくじゅつ",
     tags: [ "liyue", "character-sub" ],
     notes: "英語の発音は「バイジュ」",
+    pinyins: [{ char: "术", pron: "zhu2" }],
   },
   {
     en: "Dr. Baizhu",
@@ -1109,6 +1114,7 @@
     variants: {
       ja: [ "若陀竜王", "若蛇龍王", "若蛇竜王", "若陀" ],
     },
+    pinyins: [{ char: "若", pron: "re3"}],
   },
   {
     en: "Guoba",
@@ -1212,6 +1218,7 @@
     ja: "掇星攫辰天君",
     zhCN: "掇星攫辰天君",
     tags: [ "liyue", "title" ],
+    pinyins: [{ char: "掇", pron: "duo3"}, { char: "攫", pron: "jue2"}],
   },
   {
     en: "Chef Mao",
@@ -1729,6 +1736,7 @@
       zhCN: [ "九条纱罗" ],
     },
     tags: [ "inazuma", "character-main" ],
+    pinyins: [{ char: "裟", pron: "sha1"}]
   },
   {
     en: "Shikanoin Heizou",
@@ -1865,6 +1873,7 @@
     zhCN: "柊弘嗣",
     pronunciationJa: "ひいらぎひろし",
     tags: [ "inazuma", "character-sub" ],
+    pinyins: [{ char: "柊", pron: "zhong1" }]
   },
   {
     en: "Wakamurasaki",
@@ -1904,6 +1913,7 @@
     ja: "ルー",
     zhCN: "阿瑠",
     tags: [ "inazuma", "character-sub" ],
+    pinyins: [{ char: "瑠", pron: "liu4"}]
   },
   {
     en: "Kama",
@@ -2622,6 +2632,7 @@
     zhCN: "塔德菈",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。マシーラの娘。",
+    pinyins: [{ char: "菈", pron: "la1" }]
   },
   {
     en: "Masseira",
@@ -2829,6 +2840,7 @@
     ja: "アランハドゥ",
     zhCN: "兰耆都",
     tags: [ "sumeru", "character-sub" ],
+    pinyins: [{ char: "耆", pron: "qi2"}]
   },
   {
     en: "Aramuhukunda",
@@ -3012,6 +3024,7 @@
     pronunciationJa: "えっさんしゅ", // TODO Need Check
     tags: [ "sumeru", "title" ],
     notes: "ソルシュが旅人に任じた記録者としての役割",
+    pinyins: [{char: "谒", pron: "ye4"}],
   },
   {
     en: "Nasejuna",
