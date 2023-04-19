@@ -1004,6 +1004,7 @@
     ja: "天雲峠",
     zhCN: "天云峠",
     pronunciationJa: "あまくもとうげ",
+    pinyins: [{ char: "峠", pron: "qia3" }],
     tags: [ "inazuma", "location" ],
   },
 
