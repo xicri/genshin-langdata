@@ -207,6 +207,7 @@
     ja: "靖妖儺舞",
     zhCN: "靖妖傩舞",
     pronunciationJa: "せいようなぶ",
+    pinyins: [{ char: "傩", pron: "nuo2" }],
     notes: "魈の元素爆発発動時のセリフ。「西洋鍋」という空耳で有名。",
     tags: [ "dialogue" ],
     variants: {

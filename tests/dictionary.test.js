@@ -111,3 +111,39 @@ test("addUpdateAt() adds updatedAt properly", async () => {
   expect(newWord.createdAt).toBe(today);
   expect(newWord.updatedAt).toBe(today);
 });
+
+test("Pinyin's tone numbers are converted properly", async () => {
+  const wordsLocal = [
+    {
+      en: "Amakumo Peak",
+      ja: "天雲峠",
+      zhCN: "天云峠",
+      pronunciationJa: "あまくもとうげ",
+      pinyins: [{ char: "峠", pron: "qia3" }],
+      tags: [ "inazuma", "location" ],
+    },
+  ];
+  const wordsProd = [
+    {
+      id: "amakumo-peak",
+      en: "Amakumo Peak",
+      ja: "天雲峠",
+      zhCN: "天云峠",
+      pronunciationJa: "あまくもとうげ",
+      pinyins: [{ char: "峠", pron: "qiǎ" }],
+      tags: [ "inazuma", "location" ],
+      createdAt: "2022-01-01",
+      updatedAt: "2023-04-19",
+    },
+  ];
+
+  const distDir = resolve(__dirname, "../cache/test/dic");
+  const dic = new Dictionary();
+  await dic.loadWithDummies({ wordsLocal, wordsProd });
+  await dic.buildJSON(distDir);
+
+  const jsonStr = await readFile(resolve(distDir, "words.json"), { encoding: "utf-8" });
+  const [ amakumoPeak ] = JSON.parse(jsonStr);
+
+  expect(amakumoPeak.pinyins[0].pron).toBe("qiǎ");
+});

@@ -6,6 +6,7 @@ import { DateTime } from "luxon";
 import { marked } from "marked";
 import fetch from "node-fetch";
 import { resolve } from "path";
+import pinyinTone from "pinyin-tone";
 import { fileURLToPath } from "url";
 
 import { jsonTo, loadJSONs } from "./utils.js";
@@ -30,6 +31,7 @@ export class Dictionary {
     this.#words = await loadJSONs(resolve(__dirname, "../dataset/dictionary"), { json5: true });
     this.#addIDs();
     this.#compileMarkdown();
+    this.#convertPinyinToneLetters();
     await this.#addTimestamps();
     this.#reverseSortByUpdatedOn();
 
@@ -38,7 +40,6 @@ export class Dictionary {
 
   /**
    * Load words based on dummy words for testing
-   *
    * @param {object} options - Options
    * @param {Array} options.wordsLocal - Dummy for dataset/dictionary/*.json5
    * @param {Array} options.wordsProd - Dummy for https://dataset.genshin-dictionary.com/words.json
@@ -52,6 +53,7 @@ export class Dictionary {
     await this.#addTimestamps();
     this.#reverseSortByUpdatedOn();
     this.#compileMarkdown();
+    this.#convertPinyinToneLetters();
 
     this.#loaded = true;
   }
@@ -206,6 +208,20 @@ export class Dictionary {
       } else if (updatedOnB < updatedOnA) {
         return -1; // wordA is newer than wordB
       }
+    });
+  }
+
+  #convertPinyinToneLetters() {
+    this.#words = this.#words.map(word => {
+      if (word.pinyins) {
+        word.pinyins = word.pinyins.map(pinyin => {
+          pinyin.pron = pinyinTone(pinyin.pron);
+
+          return pinyin;
+        });
+      }
+
+      return word;
     });
   }
 

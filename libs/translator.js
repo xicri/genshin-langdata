@@ -6,7 +6,6 @@ dotenv.config();
 
 /**
  * Login
- *
  * @returns {Promise<string>} access token
  */
 export const login = async () => {
@@ -46,7 +45,6 @@ export const login = async () => {
 
 /**
  * Create a glossary.
- *
  * @param {string} src - source language. "en" or "ja".
  * @param {string} target - target language. "en" or "ja".
  * @param {string} accessToken - API access token
