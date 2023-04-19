@@ -8,10 +8,10 @@ export async function loadJSON(path, options = { json5: false }) {
 
 /**
  * Load JSON files in the directory and concatenate contents to one array.
- *
  * @param {string} dirPath - path to the directory containing JSONs
  * @param {object} options - options
  * @param {boolean} options.json5 - load JSON5 instead of JSON
+ * @returns {Array} concatenated JS array object of the loaded JSONs
  */
 export async function loadJSONs(dirPath, options = { json5: false }) {
   const jsonPaths = await readdir(dirPath);
@@ -28,7 +28,6 @@ export async function loadJSONs(dirPath, options = { json5: false }) {
 
 /**
  * Convert JSON to CSV or TSV
- *
  * @param {string} format - target format. "csv" or "tsv".
  * @param {object} objs - object to convert to CSV or TSV
  * @param {object} options - options

@@ -40,7 +40,6 @@ export class Dictionary {
 
   /**
    * Load words based on dummy words for testing
-   *
    * @param {object} options - Options
    * @param {Array} options.wordsLocal - Dummy for dataset/dictionary/*.json5
    * @param {Array} options.wordsProd - Dummy for https://dataset.genshin-dictionary.com/words.json
