@@ -63,6 +63,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "ja" ||
         key === "zhCN" ||
         key === "pronunciationJa" ||
+        key === "pinyins" ||
         key === "notes" ||
         key === "tags" ||
         key === "variants" ||
@@ -72,6 +73,17 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "updatedAt",
         `"${key}" is not a valid key.`
       );
+    }
+
+    if (word.pinyins) {
+      for (const pinyin of word.pinyins) {
+        for (const pinyinKey of Object.keys(pinyin)) {
+          ok(
+            pinyinKey === "char" || pinyinKey === "pron",
+            `"pinyins[].${pinyinKey}" is not a valid key.`
+          );
+        }
+      }
     }
 
     if (word.variants) {
@@ -153,6 +165,13 @@ test("if property values of dictionary JSON complies the format.", async () => {
     if (typeof word.tags !== "undefined" && word.tags !== null) {
       for (const tag of word.tags) {
         ok(tagIDs.includes(tag), `Invalid tag ${tag} is found in the word ${word.en} (${word.ja})`);
+      }
+    }
+
+    if (word.pinyins) {
+      for (const pinyin of word.pinyins) {
+        expect(pinyin.char).toHaveLength(1);
+        expect(pinyin.pron).toMatch(/^[a-züāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜ]*$/);
       }
     }
 
