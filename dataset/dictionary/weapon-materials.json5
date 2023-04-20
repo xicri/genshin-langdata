@@ -22,6 +22,7 @@
     pronunciationJa: "こうとうのおうのざんぺき",
     tags: [ "weapon-material", "mondstadt" ],
     notes: "★3武器突破素材",
+    pinyins: [{ char: "垣", pron: "yuan2" }],
   },
   {
     en: "Tile of Decarabian's Tower",
@@ -58,6 +59,7 @@
     zhCN: "凛风奔狼的始龀",
     tags: [ "weapon-material", "mondstadt" ],
     notes: "★2武器突破素材",
+    pinyins: [{ char: "龀", pron: "he2" }],
   },
   {
     en: "Dream of the Dandelion Gladiator",
