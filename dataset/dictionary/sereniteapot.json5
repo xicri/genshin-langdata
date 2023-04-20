@@ -90,7 +90,7 @@
   {
     en: "Replication",
     ja: "模本",
-    zhCN: "模本",
+    zhCN: "摹本",
     pronunciationJa: "もほん",
     tags: [ "sereniteapot" ],
     notes: "他のプレイヤーの塵歌壺をコピーする機能",
