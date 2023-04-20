@@ -215,6 +215,7 @@
     zhCN: "璃月地灵龛之钥",
     pronunciationJa: "りーゆぇのちれいだんのかぎ",
     tags: [ "item", "liyue" ],
+    pinyins: [{ char: "龛", pron: "kan1" }],
   },
   {
     en: "Adepti Seeker's Stove",
@@ -319,6 +320,7 @@
     zhCN: "百无禁忌箓",
     pronunciationJa: "きんきめっきゃくのふだ",
     tags: [ "item", "liyue" ],
+    pinyins: [{ char: "箓", pron: "lu4" }],
   },
   {
     en: "Memento Lens",
@@ -402,6 +404,7 @@
     ja: "歳時の日時計",
     zhCN: "岁时之晷",
     tags: [ "item", "liyue" ],
+    pinyins: [{ char: "晷", pron: "gui3" }],
   },
   {
     en: "Cup of Commons",
@@ -754,18 +757,21 @@
     ja: "グッピー",
     zhCN: "花鳉",
     tags: [ "item" ],
+    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
   },
   {
     en: "Glaze Medaka",
     ja: "琉璃グッピー",
     zhCN: "琉璃花鳉",
     tags: [ "item" ],
+    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
   },
   {
     en: "Sweet-Flower Medaka",
     ja: "スイートグッピー",
     zhCN: "甜甜花鳉",
     tags: [ "item" ],
+    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
   },
   {
     en: "Aizen Medaka",
@@ -773,6 +779,7 @@
     zhCN: "蓝染花鳉",
     pronunciationJa: "あいぜんグッピー",
     tags: [ "item" ],
+    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
   },
   {
     en: "Crystalfish",
@@ -810,6 +817,7 @@
     en: "Venomspine Fish",
     zhCN: "鸩棘鱼",
     tags: [ "item" ],
+    pinyins: [{ char: "鸩", pinyin: "zhen4" }],
   },
   {
     en: "Divda Ray",
@@ -868,6 +876,7 @@
     en: "Rusty Koi",
     zhCN: "锖假龙",
     tags: [ "item" ],
+    pinyins: [{ char: "锖", pinyin: "qiang1" }],
   },
   {
     en: "Pufferfish",
@@ -1003,6 +1012,7 @@
     ja: "朱鷺町物語",
     zhCN: "鹮巷物语",
     tags: [ "item", "inazuma" ],
+    pinyins: [{ char: "鹮", pron: "huan2" }],
   },
   {
     en: "New Chronicles of the Six Kitsune",
@@ -1074,6 +1084,7 @@
     ja: "クサヴァ",
     zhCN: "苦舍桓",
     tags: [ "item", "sumeru" ],
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Scarlet Sand Slate",
@@ -1106,6 +1117,7 @@
     zhCN: "苏生之辔",
     pronunciationJa: "そせいたづな",
     tags: [ "item", "inazuma" ],
+    pinyins: [{ char: "辔", pron: "pei4" }],
   },
   {
     en: "Divine Bridle",
@@ -1113,6 +1125,7 @@
     zhCN: "神舆之辔",
     pronunciationJa: "みこしたづな",
     tags: [ "item", "inazuma" ],
+    pinyins: [{ char: "辔", pron: "pei4" }],
   },
   {
     en: "Waters of Lethe",
@@ -1140,12 +1153,14 @@
     ja: "ヴァスミリティ",
     zhCN: "桓斯弥利底",
     tags: [ "item", "sumeru" ],
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Vasoma Fruit",
     ja: "ヴァソマの実",
     zhCN: "恒素果",
     tags: [ "item", "sumeru" ],
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Barsam Flower",
@@ -1153,6 +1168,7 @@
     zhCN: "钵参花",
     tags: [ "item", "sumeru" ],
     notes: "世界任務「アグニホトラ経」終章で作るアランハオマの原料の1つ",
+    pinyins: [{ char: "钵", pron: "bo1" }],
   },
   {
     en: "Arahaoma",
@@ -1204,6 +1220,7 @@
     pronunciationJa: "じょうこうのはね", // TODO Need Check
     zhCN: "净光翎",
     tags: [ "item", "sumeru" ],
+    pinyins: [{ char: "翎", pron: "ling2" }],
   },
   {
     en: "Korybantes",
@@ -1262,6 +1279,7 @@
     zhCN: "霓裾翩跹",
     pronunciationJa: "げいきょのまい",
     notes: "刻晴のコスチューム",
+    pinyins: [{ char: "跹", pron: "xian1" }],
   },
   {
     en: "Orchid's Evening Gown",
@@ -1275,6 +1293,7 @@
     ja: "レッドデッド・オブ・ナイト",
     zhCN: "殷红终夜",
     notes: "ディルックのコスチューム",
+    pinyins: [{ char: "殷", pron: "yan1" }],
   },
   {
     en: "Ein Immernachtstraum",
