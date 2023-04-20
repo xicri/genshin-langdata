@@ -367,6 +367,7 @@
     zhCN: "骰子、猫与卡牌的战场",
     pronunciationJa: "サイコロ、ねことカードのせんじょう",
     tags: [ "mondstadt", "quest-world" ],
+    pinyins: [{ char: "骰", pron: "tou2" }],
   },
   {
     en: "Come Try Genius Invokation TCG!",
@@ -412,6 +413,7 @@
     zhCN: "海上盛珠钿",
     pronunciationJa: "かいじょうのかでん",
     tags: [ "liyue", "quest-world" ],
+    pinyins: [{ char: "钿", pron: "dian4" }],
   },
   {
     en: "A Lone Ship In Guyun",
@@ -535,6 +537,7 @@
       ja: [ "螭の話" ],
       zhCN: [ "古云有螭" ],
     },
+    pinyins: [{ char: "螭", pron: "chi1" }],
   },
   {
     en: "A Provisional Arrangement",
@@ -591,6 +594,7 @@
     zhCN: "恨繁囿兮作土",
     pronunciationJa: "さかんだくにははいどにもどる",
     tags: [ "liyue", "quest-world" ],
+    pinyins: [{ char: "囿", pron: "you4" }],
   },
   {
     en: "A Little Game",
@@ -721,6 +725,7 @@
     zhCN: "神樱大祓",
     pronunciationJa: "かみざくらおおはらい",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "祓", pron: "fu2" }],
   },
   {
     en: "Yougou Cleansing",
@@ -728,6 +733,7 @@
     zhCN: "影向祓行",
     pronunciationJa: "ようごうばらい",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "祓", pron: "fu2" }],
   },
   {
     en: "Tatara Tales",
@@ -735,6 +741,7 @@
     zhCN: "踏鞴物语",
     pronunciationJa: "たたらものがたり",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "鞴", pron: "bei4" }],
   },
   {
     en: "Orobashi's Legacy",
@@ -939,18 +946,21 @@
     ja: "「海祇の牙」",
     zhCN: "「海祇之牙」",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "祇", pron: "qi2" }],
   },
   {
     en: "\"Tail of Watatsumi\"",
     ja: "「海祇の尾」",
     zhCN: "「海祇之尾」",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "祇", pron: "qi2" }],
   },
   {
     en: "\"Heart of Watatsumi\"",
     ja: "「海祇の心」",
     zhCN: "「海祇之心」",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "祇", pron: "qi2" }],
   },
   {
     en: "Divine Plant of the Depths",
@@ -1066,6 +1076,7 @@
     zhCN: "八衢彦之试炼",
     pronunciationJa: "やちまたひこのしれん",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "衢", pron: "qu2" }],
   },
   {
     en: "Yachimatahime's Trial",
@@ -1073,6 +1084,7 @@
     zhCN: "八衢姬之试炼",
     pronunciationJa: "やちまたひめのしれん",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "衢", pron: "qu2" }],
   },
   {
     en: "Kunado's Trial",
@@ -1171,6 +1183,7 @@
     ja: "日輪とカンナ山",
     zhCN: "日轮与菅名山",
     tags: [ "inazuma", "quest-world" ],
+    pinyins: [{ char: "菅", pron: "jian2" }],
   },
   {
     en: "The Saga of Mr. Forgetful",
@@ -1283,6 +1296,7 @@
     pronunciationJa: "ヴァーナがかんちするまで",
     tags: [ "sumeru", "quest-world" ],
     notes: "森林書から連なる世界任務の1つ",
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Courage is in the Heart",
@@ -1563,6 +1577,7 @@
     pronunciationJa: "ながひしゃくのしょう",
     notes: "香菱の伝説任務",
     tags: [ "liyue", "quest-story" ],
+    pinyins: [{ char: "杓", pron: "shao2"} ]
   },
   {
     en: "Fabulae Textile Chapter",
@@ -1715,6 +1730,7 @@
     pronunciationJa: "はやぶさのしょう",
     notes: "アルハイゼンの伝説任務",
     tags: [ "sumeru", "quest-story" ],
+    pinyins: [{ char: "隼", pinyin: "sun3" }],
   },
   {
     en: "Mantichora Chapter",
@@ -2087,6 +2103,7 @@
     zhCN: "神龛啊，再次显灵吧！",
     pronunciationJa: "ほこらよ、もういちどすがたをあらわしてください",
     tags: [ "inazuma", "quest-daily" ],
+    pinyins: [{ char: "龛", pron: "kan1" }],
   },
   {
     en: "Playing With Fire... Works",
