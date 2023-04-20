@@ -470,6 +470,7 @@
     zhCN: "遗迹巡弋者",
     pronunciationJa: "いせきじゅんししゃ",
     tags: [ "enemy" ],
+    pinyins: [{ char: "弋", pron: "yi4" }],
   },
   {
     en: "Ruin Scout",
@@ -807,6 +808,7 @@
       ja: [ "炎銃" ],
       zhCN: [ "火枪" ],
     },
+    pinyins: [{ char: "铳", pinyin: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Geochanter Bracer",
@@ -829,6 +831,7 @@
       ja: [ "氷銃" ],
       zhCN: [ "冰枪" ],
     },
+    pinyins: [{ char: "铳", pinyin: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Hydrogunner Legionnaire",
@@ -840,6 +843,7 @@
       ja: [ "水銃" ],
       zhCN: [ "水胖" ],
     },
+    pinyins: [{ char: "铳", pinyin: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Anemoboxer Vanguard",
@@ -1177,6 +1181,7 @@
     zhCN: "跋掣",
     pronunciationJa: "ばっせい",
     tags: [ "enemy-boss", "liyue" ],
+    pinyins: [{ char: "跋", pinyin: "ba2" }, { char: "掣", pinyin: "che3" }],
   },
   {
     en: "The Avenger of the Vortex",
@@ -1386,6 +1391,7 @@
     zhCN: "黑蛇骑士·摧岩之钺",
     pronunciationJa: "こくじゃきし・さいがんのおの", // TODO Need Check
     tags: [ "enemy" ],
+    pinyins: [{ char: "钺", pron: "yue4" }],
   },
   {
     en: "The Black Serpents",
