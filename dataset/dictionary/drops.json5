@@ -364,6 +364,7 @@
     pronunciationJa: "ゴールドのカラスマーク",
     tags: [ "drop" ],
     notes: "宝盗団のドロップアイテム (★3)",
+    pinyins: [{ char: "擢", pinyin: "zhuo2" }],
   },
   {
     en: "Silver Raven Insignia",
@@ -411,6 +412,7 @@
     pronunciationJa: "ふるびたつば",
     tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★1)",
+    pinyins: [{ char: "镡", pron: "xin2" }],
   },
   {
     en: "Kageuchi Handguard",
@@ -419,6 +421,7 @@
     pronunciationJa: "かげうちのつば",
     tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★2)",
+    pinyins: [{ char: "镡", pron: "xin2" }],
   },
   {
     en: "Famed Handguard",
@@ -427,6 +430,7 @@
     pronunciationJa: "めいとうのつば",
     tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★3)",
+    pinyins: [{ char: "镡", pron: "xin2" }],
   },
   {
     en: "Concealed Claw",
@@ -510,6 +514,7 @@
     pronunciationJa: "こくやのちょうこく",
     tags: [ "drop" ],
     notes: "黒蛇衆のドロップアイテム (★3)",
+    pinyins: [{ char: "夤", pron: "yin2" }]
   },
   {
     en: "Deathly Statuette",
@@ -584,6 +589,7 @@
     zhCN: "锲纹的横脊",
     tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
     notes: "聖骸獣のドロップアイテム (★4)",
+    pinyins: [{ char: "锲", pron: "qie4" }],
   },
   {
     en: "A Flower Yet to Bloom",
