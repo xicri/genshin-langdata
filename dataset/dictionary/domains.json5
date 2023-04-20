@@ -288,7 +288,7 @@
     zhCN: "椛染之庭",
     pronunciationJa: "もみじノにわ",
     tags: [ "inazuma", "domain" ],
-    pinyins: [{ char: "椛", pron: "hua3" }],
+    pinyins: [{ char: "椛", pron: "hua1" }],
   },
   {
     en: "Formation Estate",

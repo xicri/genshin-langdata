@@ -608,6 +608,7 @@
     zhCN: "渌华景画",
     pronunciationJa: "ろっかのふうけいが",
     tags: [ "liyue", "quest-world" ],
+    pinyins: [{ char: "渌", pron: "lu4" }],
   },
   {
     en: "Fishing For Jade",

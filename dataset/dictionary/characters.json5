@@ -825,7 +825,7 @@
     zhCN: "辛焱",
     pronunciationJa: "しんえん",
     tags: [ "liyue", "character-main" ],
-    pinyins: [{ char: "焱", pron: "yan3" }],
+    pinyins: [{ char: "焱", pron: "yan4" }],
   },
   {
     en: "Zhongli",
@@ -1218,7 +1218,7 @@
     ja: "掇星攫辰天君",
     zhCN: "掇星攫辰天君",
     tags: [ "liyue", "title" ],
-    pinyins: [{ char: "掇", pron: "duo3" }, { char: "攫", pron: "jue2" }],
+    pinyins: [{ char: "掇", pron: "duo1" }, { char: "攫", pron: "jue2" }],
   },
   {
     en: "Chef Mao",
@@ -1913,7 +1913,7 @@
     ja: "ルー",
     zhCN: "阿瑠",
     tags: [ "inazuma", "character-sub" ],
-    pinyins: [{ char: "瑠", pron: "liu4" }],
+    pinyins: [{ char: "瑠", pron: "liu2" }],
   },
   {
     en: "Kama",

@@ -432,7 +432,7 @@
     zhCN: "渌华池",
     pronunciationJa: "ろくかのいけ",
     tags: [ "liyue", "location" ],
-    pinyins: [{ char: "渌", pron: "lu2" }],
+    pinyins: [{ char: "渌", pron: "lu4" }],
   },
   {
     en: "Tianqiu Valley",
