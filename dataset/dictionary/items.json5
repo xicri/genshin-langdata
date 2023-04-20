@@ -757,21 +757,21 @@
     ja: "グッピー",
     zhCN: "花鳉",
     tags: [ "item" ],
-    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
+    pinyins: [{ char: "鳉", pron: "jiang1" }],
   },
   {
     en: "Glaze Medaka",
     ja: "琉璃グッピー",
     zhCN: "琉璃花鳉",
     tags: [ "item" ],
-    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
+    pinyins: [{ char: "鳉", pron: "jiang1" }],
   },
   {
     en: "Sweet-Flower Medaka",
     ja: "スイートグッピー",
     zhCN: "甜甜花鳉",
     tags: [ "item" ],
-    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
+    pinyins: [{ char: "鳉", pron: "jiang1" }],
   },
   {
     en: "Aizen Medaka",
@@ -779,7 +779,7 @@
     zhCN: "蓝染花鳉",
     pronunciationJa: "あいぜんグッピー",
     tags: [ "item" ],
-    pinyins: [{ char: "鳉", pinyin: "jiang1" }],
+    pinyins: [{ char: "鳉", pron: "jiang1" }],
   },
   {
     en: "Crystalfish",
@@ -817,7 +817,7 @@
     en: "Venomspine Fish",
     zhCN: "鸩棘鱼",
     tags: [ "item" ],
-    pinyins: [{ char: "鸩", pinyin: "zhen4" }],
+    pinyins: [{ char: "鸩", pron: "zhen4" }],
   },
   {
     en: "Divda Ray",
@@ -876,7 +876,7 @@
     en: "Rusty Koi",
     zhCN: "锖假龙",
     tags: [ "item" ],
-    pinyins: [{ char: "锖", pinyin: "qiang1" }],
+    pinyins: [{ char: "锖", pron: "qiang1" }],
   },
   {
     en: "Pufferfish",
