@@ -134,6 +134,7 @@
     zhCN: "誓言岬",
     pronunciationJa: "ちかいのみさき",
     tags: [ "mondstadt", "location" ],
+    pinyins: [{ char: "岬", pron: "jia3" }],
   },
 
   {
@@ -311,6 +312,7 @@
     notes: "中国語の「螭虎岩」は古い時代の表記で、現在は簡略化されて「吃虎岩」と表記されるようになったという設定。 / 此地曾名为螭虎岩，但随着时间流逝百姓将此地简化为了吃虎岩。特此说明。",
     pronunciationJa: "ちこがん",
     tags: [ "liyue", "location" ],
+    pinyins: [{ char: "螭", pron: "chi1" }],
   },
   {
     en: "Jade Chamber",
@@ -331,6 +333,7 @@
     ja: "珠鈿舫",
     zhCN: "珠钿舫",
     tags: [ "liyue", "facility" ],
+    pinyins: [{ char: "钿", pron: "dian4" }, { char: "舫", pron: "fang3" }],
   },
   {
     en: "Golden House",
@@ -421,6 +424,7 @@
     variants: {
       ja: [ "びんりん" ],
     },
+    pinyins: [{ char: "珉", pron: "min2" }],
   },
   {
     en: "Luhua Pool",
@@ -428,6 +432,7 @@
     zhCN: "渌华池",
     pronunciationJa: "ろくかのいけ",
     tags: [ "liyue", "location" ],
+    pinyins: [{ char: "渌", pron: "lu2" }],
   },
   {
     en: "Tianqiu Valley",
@@ -442,6 +447,7 @@
     zhCN: "翠玦坡",
     pronunciationJa: "すいけつざか",
     tags: [ "liyue", "location" ],
+    pinyins: [{ char: "玦", pron: "jue2" }],
   },
   {
     en: "Jueyun Karst",
@@ -484,6 +490,7 @@
     zhCN: "奥藏山",
     pronunciationJa: "おくぞうさん",
     tags: [ "liyue", "location" ],
+    pinyins: [{ char: "藏", pron: "cang2" }],
   },
 
   {
@@ -506,6 +513,7 @@
     zhCN: "荻花洲",
     pronunciationJa: "てきかしゅう",
     tags: [ "liyue", "location" ],
+    pinyins: [{ char: "荻", pron: "di2" }],
   },
   {
     en: "Stone Gate",
@@ -719,6 +727,7 @@
     zhCN: "绀田村",
     pronunciationJa: "こんだむら",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "绀", pron: "gan4" }],
   },
   {
     en: "Byakko Plain",
@@ -790,6 +799,7 @@
     zhCN: "踏鞴砂",
     pronunciationJa: "たたらすな",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "鞴", pron: "bei4" }],
   },
   {
     en: "Mikage Furnace",
@@ -812,6 +822,7 @@
     zhCN: "名椎滩",
     pronunciationJa: "なづちのはま",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "椎", pron: "zhui1" }],
   },
 
   {
@@ -820,6 +831,7 @@
     zhCN: "八酝岛",
     pronunciationJa: "ヤシオリじま",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "酝", pron: "yun4" }],
   },
   {
     en: "Musoujin Gorge",
@@ -837,6 +849,7 @@
     zhCN: "藤兜砦",
     pronunciationJa: "ふじとうとりで",
     tags: [ "inazuma", "location", "facility" ],
+    pinyins: [{ char: "砦", pron: "zhai4" }],
   },
   {
     en: "Fort Mumei",
@@ -844,6 +857,7 @@
     zhCN: "无明砦",
     pronunciationJa: "むみょうとりで",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "砦", pron: "zhai4" }],
   },
   {
     en: "Higi Village",
@@ -873,6 +887,7 @@
     zhCN: "海祇岛",
     pronunciationJa: "わたつみじま",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "祇", pron: "qi2" }],
   },
   {
     en: "Sangonomiya Shrine",
@@ -974,6 +989,7 @@
     zhCN: "平海砦",
     pronunciationJa: "ひらうみとりで",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "砦", pron: "zhai4" }],
   },
   {
     en: "Koseki Village",
@@ -1049,6 +1065,7 @@
     zhCN: "菅名山",
     pronunciationJa: "カンナざん",
     tags: [ "inazuma", "location" ],
+    pinyins: [{ char: "菅", pron: "jian1" }],
   },
   {
     en: "Moshiri Ceremonial Site",
@@ -1226,6 +1243,7 @@
     zhCN: "谒颂幽境",
     pronunciationJa: "ヤスナゆうきょう",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "谒", pron: "ye4" }],
   },
   {
     en: "Apam Woods",
@@ -1283,6 +1301,7 @@
     ja: "ヴァナラーナ",
     zhCN: "桓那兰那",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Mahavanaranapna",
@@ -1290,6 +1309,7 @@
     zhCN: "玛哈桓那兰那薜那",
     tags: [ "sumeru", "location" ],
     notes: "アランナラの言葉で、夢の中のヴァナラーナを指す",
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
 
   {
@@ -1304,6 +1324,7 @@
     ja: "かつてのヴァナラーナ",
     zhCN: "往昔的桓那兰那",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Sand-Embraced Home",
@@ -1432,6 +1453,7 @@
     zhCN: "铄石之丘",
     pronunciationJa: "しゃくせきのおか",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "铄", pron: "shuo4" }],
   },
   {
     en: "The Mausoleum of King Deshret",
@@ -1533,6 +1555,7 @@
     zhCN: "啁哳之沙",
     pronunciationJa: "アル・アジフのすな",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "啁", pron: "zhao1" }, { char: "哳", pron: "zha1" }],
   },
   {
     en: "Qusayr Al-Inkhida'",
@@ -1547,6 +1570,7 @@
     zhCN: "镔铁沙丘",
     pronunciationJa: "せいこうのさきゅう",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "镔", pron: "bin1" }],
   },
   {
     en: "Mt. Damavand",
@@ -1616,6 +1640,7 @@
     zhCN: "酣乐之殿",
     pronunciationJa: "アル・スークルきゅうでん",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "酣", pron: "han1" }, { char: "乐", pron: "le4" }],
   },
   {
     en: "Deshret's Glass Goblet",
@@ -1638,6 +1663,7 @@
     ja: "蒼漠の囿土",
     zhCN: "苍漠囿土",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "囿", pron: "you4" }],
   },
 
   {
@@ -1689,6 +1715,7 @@
     pronunciationJa: "ファラクケルトのその",
     zhCN: "浮罗囿",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "囿", pron: "you4" }],
   },
   {
     en: "Vourukasha Oasis",
@@ -1710,6 +1737,7 @@
     zhCN: "跋松顶",
     pronunciationJa: "バルソムのおか",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "跋", pron: "ba2" }],
   },
   // Underground
   {
