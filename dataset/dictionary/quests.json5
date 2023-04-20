@@ -1730,7 +1730,7 @@
     pronunciationJa: "はやぶさのしょう",
     notes: "アルハイゼンの伝説任務",
     tags: [ "sumeru", "quest-story" ],
-    pinyins: [{ char: "隼", pinyin: "sun3" }],
+    pinyins: [{ char: "隼", pron: "sun3" }],
   },
   {
     en: "Mantichora Chapter",
