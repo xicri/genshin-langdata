@@ -514,7 +514,7 @@
     pronunciationJa: "こくやのちょうこく",
     tags: [ "drop" ],
     notes: "黒蛇衆のドロップアイテム (★3)",
-    pinyins: [{ char: "夤", pron: "yin2" }]
+    pinyins: [{ char: "夤", pron: "yin2" }],
   },
   {
     en: "Deathly Statuette",

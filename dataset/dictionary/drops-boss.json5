@@ -54,7 +54,7 @@
     pronunciationJa: "めつじょうのつる",
     tags: [ "drop-boss", "sumeru" ],
     notes: "無相の草のドロップアイテム。滅諍とは仏教の戒律の一種で、僧団内での裁判規定のようなもの。参照: [Wikipedia](https://ja.wikipedia.org/wiki/%E6%BB%85%E8%AB%8D)",
-    pinyins: [{ char: "诤", pron: "zheng4"}],
+    pinyins: [{ char: "诤", pron: "zheng4" }],
   },
   {
     en: "Hoarfrost Core",
