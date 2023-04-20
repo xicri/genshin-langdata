@@ -414,6 +414,7 @@
     pronunciationJa: "ほうげつのタケノコ",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) で、鍾離から取ってくるよう言われるタケノコ",
     tags: [ "event", "item" ],
+    pinyins: [{ char: "蘖", pron: "nie4" }],
   },
   {
     en: "The Exquisite Night Chimes",
@@ -422,6 +423,7 @@
     pronunciationJa: "はなまうよるのせんりつ",
     notes: "v3.4 期間限定イベント。海灯祭のイベント名",
     tags: [ "event" ],
+    pinyins: [{ char: "磬", pron: "qing4" }],
   },
   {
     en: "Radiant Sparks",
@@ -1039,6 +1041,7 @@
     pronunciationJa: "さんかいみちあえのまつり",
     notes: "v2.5 期間限定イベント",
     tags: [ "event" ],
+    pinyins: [{ char: "飨", pron: "xiang3" }],
   },
   {
     en: "Bokuso Box",
