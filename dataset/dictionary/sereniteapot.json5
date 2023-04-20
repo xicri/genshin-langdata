@@ -133,6 +133,7 @@
     zhCN: "杉木",
     pronunciationJa: "すぎざい",
     tags: [ "sereniteapot", "mondstadt" ],
+    pinyins: [{ char: "杉", pinyin: "sha1" }],
   },
   {
     en: "Fragrant Cedar Wood",
@@ -227,6 +228,7 @@
     ja: "タマリスク材",
     zhCN: "柽木",
     tags: [ "sereniteapot", "sumeru" ],
+    pinyins: [{ char: "柽", pron: "cheng1" }],
   },
   {
     en: "Mountain Date Wood",
@@ -249,5 +251,6 @@
     ja: "華麗なる千の響き・飄揚",
     zhCN: "千籁至音·飖扬",
     tags: [ "sereniteapot" ],
+    pinyins: [{ char: "飖", pron: "yao2" }],
   },
 ]
