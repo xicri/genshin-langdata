@@ -229,6 +229,7 @@
     pronunciationJa: "こまにや",
     tags: [ "inazuma", "organization" ],
     notes: "綺良々の所属する配達会社",
+    pinyins: [{ char: "狛", pron: "bo2" }],
   },
 
   {
