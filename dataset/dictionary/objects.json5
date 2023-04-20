@@ -392,6 +392,7 @@
     zhCN: "桓那兰那的梦之树",
     pronunciationJa: "ヴァナラーナのゆめのき",
     tags: [ "object", "sumeru" ],
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Vasara Tree",
@@ -497,6 +498,7 @@
     zhCN: "桓摩达",
     tags: [ "object", "sumeru" ],
     notes: "洞窟などの入り口を塞いでおり、ライアーの演奏と攻撃により回転して道を開けることができる球状のオブジェクト",
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Zohrah Mushroom",
@@ -703,6 +705,7 @@
     zhCN: "镇灵神龛",
     pronunciationJa: "ジンニーのほこら",
     tags: [ "object", "sumeru" ],
+    pinyins: [{ char: "龛", pron: "kan1" }],
   },
   {
     en: "Jinn Branch",
@@ -756,6 +759,7 @@
     pronunciationJa: "めいげいか", // TODO Need Check
     tags: [ "object", "sumeru" ],
     notes: "ソルシュが開花させることで足場になる花",
+    pinyins: [{ char: "芸", pron: "yun2" }],
   },
   {
     en: "Sunyata Flower",
@@ -786,6 +790,7 @@
     pronunciationJa: "れいほうのたくれい",
     tags: [ "object", "sumeru" ],
     notes: "蒼漠の囿土に点在する、鐘のギミック",
+    pinyins: [{ char: "铎", pron: "duo2" }],
   },
   {
     en: "Bright Flame Altar",
