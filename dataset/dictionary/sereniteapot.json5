@@ -133,7 +133,7 @@
     zhCN: "杉木",
     pronunciationJa: "すぎざい",
     tags: [ "sereniteapot", "mondstadt" ],
-    pinyins: [{ char: "杉", pinyin: "sha1" }],
+    pinyins: [{ char: "杉", pron: "sha1" }],
   },
   {
     en: "Fragrant Cedar Wood",
