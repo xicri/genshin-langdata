@@ -194,6 +194,7 @@
     zhCN: "「诤言」的教导",
     pronunciationJa: "ちゅうげんのおしえ",
     tags: [ "talent-material", "sumeru" ],
+    pinyins: [{ char: "诤", pron: "zheng4" }],
   },
   {
     en: "Guide to Admonition",
@@ -201,6 +202,7 @@
     zhCN: "「诤言」的指引",
     pronunciationJa: "ちゅうげんのみちびき",
     tags: [ "talent-material", "sumeru" ],
+    pinyins: [{ char: "诤", pron: "zheng4" }],
   },
   {
     en: "Philosophies of Admonition",
@@ -208,6 +210,7 @@
     zhCN: "「诤言」的哲学",
     pronunciationJa: "ちゅうげんのてつがく",
     tags: [ "talent-material", "sumeru" ],
+    pinyins: [{ char: "诤", pron: "zheng4" }],
   },
   {
     en: "Teachings of Ingenuity",
