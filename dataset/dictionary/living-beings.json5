@@ -114,6 +114,7 @@
     ja: "キノシシ",
     zhCN: "蕈猪",
     tags: [ "living-being", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Weasel Thief",
@@ -207,6 +208,7 @@
     zhCN: "驮兽",
     pronunciationJa: "だじゅう",
     tags: [ "living-being", "enemy", "sumeru" ],
+    pinyins: [{ char: "驮", pron: "tuo2" }],
   },
   {
     en: "Shaggy Sumpter Beast",
@@ -214,6 +216,7 @@
     zhCN: "牦牦驮兽",
     pronunciationJa: "モジャモジャだじゅう",
     tags: [ "living-being", "enemy", "sumeru" ],
+    pinyins: [{ char: "牦", pron: "mao2" }, { char: "驮", pron: "tuo2" }],
   },
   {
     en: "Desert Sumpter Beast",
@@ -265,6 +268,7 @@
     ja: "リシュボラン虎のラージャ",
     zhCN: "长鬓虎罗阇",
     tags: [ "living-being", "enemy", "sumeru" ],
+    pinyins: [{ char: "阇", pron: "du1" }],
   },
   {
     en: "Sumpter Beastlord",
@@ -342,5 +346,6 @@
     ja: "テントガメ",
     zhCN: "玳龟",
     tags: [ "living-being", "sumeru" ],
+    pinyins: [{ char: "玳", pron: "dai4" }],
   },
 ]

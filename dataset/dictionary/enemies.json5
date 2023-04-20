@@ -470,6 +470,7 @@
     zhCN: "遗迹巡弋者",
     pronunciationJa: "いせきじゅんししゃ",
     tags: [ "enemy" ],
+    pinyins: [{ char: "弋", pron: "yi4" }],
   },
   {
     en: "Ruin Scout",
@@ -807,6 +808,7 @@
       ja: [ "炎銃" ],
       zhCN: [ "火枪" ],
     },
+    pinyins: [{ char: "铳", pron: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Geochanter Bracer",
@@ -829,6 +831,7 @@
       ja: [ "氷銃" ],
       zhCN: [ "冰枪" ],
     },
+    pinyins: [{ char: "铳", pron: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Hydrogunner Legionnaire",
@@ -840,6 +843,7 @@
       ja: [ "水銃" ],
       zhCN: [ "水胖" ],
     },
+    pinyins: [{ char: "铳", pron: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Anemoboxer Vanguard",
@@ -1177,6 +1181,7 @@
     zhCN: "跋掣",
     pronunciationJa: "ばっせい",
     tags: [ "enemy-boss", "liyue" ],
+    pinyins: [{ char: "跋", pron: "ba2" }, { char: "掣", pron: "che3" }],
   },
   {
     en: "The Avenger of the Vortex",
@@ -1386,6 +1391,7 @@
     zhCN: "黑蛇骑士·摧岩之钺",
     pronunciationJa: "こくじゃきし・さいがんのおの", // TODO Need Check
     tags: [ "enemy" ],
+    pinyins: [{ char: "钺", pron: "yue4" }],
   },
   {
     en: "The Black Serpents",
@@ -1402,6 +1408,7 @@
     zhCN: "蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Fungi で、原義は「菌類」。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Floating Hydro Fungus",
@@ -1409,6 +1416,7 @@
     zhCN: "浮游水蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Floating Hydro Fungi。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Floating Dendro Fungus",
@@ -1416,6 +1424,7 @@
     zhCN: "浮游草蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Floating Dendro Fungi。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Stretchy Anemo Fungus",
@@ -1423,6 +1432,7 @@
     zhCN: "伸缩风蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Stretchy Anemo Fungi と思われる。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Stretchy Geo Fungus",
@@ -1430,6 +1440,7 @@
     zhCN: "伸缩岩蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Stretchy Geo Fungi と思われる。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Stretchy Pyro Fungus",
@@ -1437,6 +1448,7 @@
     zhCN: "伸缩火蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Stretchy Pyro Fungi と思われる。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Whirling Electro Fungus",
@@ -1444,6 +1456,7 @@
     zhCN: "旋转雷蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Electro Fungi と思われる。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Whirling Cryo Fungus",
@@ -1451,6 +1464,7 @@
     zhCN: "旋转冰蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Cryo Fungi と思われる。",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Whirling Pyro Fungus",
@@ -1458,36 +1472,42 @@
     zhCN: "旋转火蕈兽",
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Pyro Fungi と思われる",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Grounded Hydroshroom",
     ja: "トコトコ水マッシュロン",
     zhCN: "陆行水本真蕈",
     tags: [ "enemy", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Grounded Geoshroom",
     ja: "トコトコ岩マッシュロン",
     zhCN: "陆行岩本真蕈",
     tags: [ "enemy", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Winged Dendroshroom",
     ja: "パタパタ草マッシュロン",
     zhCN: "有翼草本真蕈",
     tags: [ "enemy", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Winged Cryoshroom",
     ja: "パタパタ氷マッシュロン",
     zhCN: "有翼冰本真蕈",
     tags: [ "enemy", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Jadeplume Terrorshroom",
     ja: "マッシュラプトル",
     zhCN: "翠翎恐蕈",
     tags: [ "enemy-boss", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
 
   {

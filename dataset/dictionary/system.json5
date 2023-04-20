@@ -668,18 +668,21 @@
     ja: "元素サイコロ",
     zhCN: "元素骰",
     notes: "七聖召喚のカードで用いるサイコロ",
+    pinyins: [{ char: "骰", pron: "tou2" }],
   },
   {
     en: "roll",
     ja: "ロールする",
     zhCN: "投掷（元素骰）",
     notes: "七聖召喚で元素サイコロを振ること",
+    pinyins: [{ char: "骰", pron: "tou2" }],
   },
   {
     en: "reroll",
     ja: "リロール",
     zhCN: "重投（元素骰）",
     notes: "七聖召喚で元素サイコロを振り直すこと",
+    pinyins: [{ char: "骰", pron: "tou2" }],
   },
   {
     en: "Lucky Coin",

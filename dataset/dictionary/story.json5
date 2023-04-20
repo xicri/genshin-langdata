@@ -174,7 +174,7 @@
   {
     en: "the mighty and illuminated adepti",
     ja: "三眼五顕仙人",
-    zhCN: "三眼无显仙人",
+    zhCN: "三眼五显仙人",
     pronunciationJa: "さんがんごけんせんにん",
     tags: [ "liyue", "title" ],
     notes: "単数の場合は the mighty and illuminated adeptus",
@@ -514,6 +514,7 @@
     zhCN: "那菈",
     tags: [ "sumeru" ],
     notes: "アランナラの言葉で「人」",
+    pinyins: [{ char: "菈", pron: "la1" }],
   },
   {
     en: "Festival Utsava",
@@ -541,6 +542,7 @@
     zhCN: "桓那",
     tags: [ "sumeru" ],
     notes: "アランナラの言葉で「森」",
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Valuka",

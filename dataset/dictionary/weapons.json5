@@ -244,6 +244,7 @@
     zhCN: "斫锋之刃",
     pronunciationJa: "ざんさんのやいば",
     tags: [ "weapon", "sword" ],
+    pinyins: [{ char: "斫", pron: "zhuo2" }],
   },
   {
     en: "Primordial Jade Cutter",
@@ -477,6 +478,7 @@
     zhCN: "玛海菈的水色",
     pronunciationJa: "マカイラのみずいろ",
     tags: [ "weapon", "claymore" ],
+    pinyins: [{ char: "菈", pron: "la1" }],
   },
   {
     en: "Mailed Flower",
@@ -583,6 +585,7 @@
     zhCN: "钺矛",
     pronunciationJa: "ほこやり",
     tags: [ "weapon", "polearm" ],
+    pinyins: [{ char: "钺", pron: "yue4" }],
   },
   {
     en: "Black Tassel",
@@ -729,6 +732,7 @@
       ja: [ "破天" ],
       zhCN: [ "贯虹" ],
     },
+    pinyins: [{ char: "槊", pron: "shuo4" }],
   },
   {
     en: "Staff of Homa",
@@ -751,6 +755,7 @@
       ja: [ "草薙" ],
       zhCN: [ "薙刀", "剃刀" ],
     },
+    pinyins: [{ char: "薙", pron: "ti4" }],
   },
   {
     en: "Calamity Queller",
@@ -859,6 +864,7 @@
     zhCN: "弓藏",
     pronunciationJa: "ゆみぞう",
     tags: [ "weapon", "bow" ],
+    pinyins: [{ char: "藏", pron: "cang2" }],
   },
   {
     en: "Prototype Crescent",
@@ -869,6 +875,7 @@
     variants: {
       ja: [ "澹月" ],
     },
+    pinyins: [{ char: "澹", pron: "dan4" }],
   },
   {
     en: "Compound Bow",
@@ -979,6 +986,7 @@
       ja: [ "終焉" ],
       zhCN: [ "终末弓" ],
     },
+    pinyins: [{ char: "嗟", pron: "jie2" }],
   },
   {
     en: "Thundering Pulse",
@@ -1073,6 +1081,7 @@
     zhCN: "甲级宝珏",
     pronunciationJa: "とっきゅうのほうぎょく",
     tags: [ "weapon", "catalyst" ],
+    pinyins: [{ char: "珏", pron: "jue2" }],
   },
   // ★4
   {
@@ -1118,6 +1127,7 @@
     variants: {
       ja: [ "金珀" ],
     },
+    pinyins: [{ char: "珀", pron: "po4" }],
   },
   {
     en: "Mappa Mare",
@@ -1260,5 +1270,6 @@
     zhCN: "碧落之珑",
     // pronunciationJa: "へきらくのろう", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
+    pinyins: [{ char: "珑", pron: "long2" }],
   },
 ]

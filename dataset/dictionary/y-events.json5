@@ -331,6 +331,7 @@
     pronunciationJa: "チエキノコンふじん",
     notes: "v3.5 期間限定イベント",
     tags: [ "event" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Lil' Fungus / Lil' Fungi",
@@ -338,6 +339,7 @@
     zhCN: "小小灵蕈",
     notes: "v3.5 期間限定イベント「チエキノコン布陣」で用いる、チエキノコンをモチーフにした駒。Lil' Fungus が単数形、Lil' Fungi が複数形。",
     tags: [ "event" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Marvelous Gel",
@@ -414,6 +416,7 @@
     pronunciationJa: "ほうげつのタケノコ",
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) で、鍾離から取ってくるよう言われるタケノコ",
     tags: [ "event", "item" ],
+    pinyins: [{ char: "蘖", pron: "nie4" }],
   },
   {
     en: "The Exquisite Night Chimes",
@@ -422,6 +425,7 @@
     pronunciationJa: "はなまうよるのせんりつ",
     notes: "v3.4 期間限定イベント。海灯祭のイベント名",
     tags: [ "event" ],
+    pinyins: [{ char: "磬", pron: "qing4" }],
   },
   {
     en: "Radiant Sparks",
@@ -553,6 +557,7 @@
     zhCN: "智巧灵蕈大竞逐",
     notes: "v3.2 期間限定イベント",
     tags: [ "event" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Nilotpala Cup Beast Tamers Tournament",
@@ -1039,6 +1044,7 @@
     pronunciationJa: "さんかいみちあえのまつり",
     notes: "v2.5 期間限定イベント",
     tags: [ "event" ],
+    pinyins: [{ char: "飨", pron: "xiang3" }],
   },
   {
     en: "Bokuso Box",

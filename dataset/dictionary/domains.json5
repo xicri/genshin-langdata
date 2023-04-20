@@ -178,6 +178,7 @@
       zhCN: [ "宗室本" ],
     },
     tags: [ "liyue", "domain" ],
+    pinyins: [{ char: "岫", pron: "xiu4" }],
   },
   {
     en: "Hidden Palace of Zhou Formula",
@@ -259,6 +260,7 @@
     zhCN: "堇色之庭",
     pronunciationJa: "すみれいろノにわ",
     tags: [ "inazuma", "domain" ],
+    pinyins: [{ char: "菫", pron: "jin3" }],
   },
   {
     en: "Court of Flowing Sand",
@@ -286,6 +288,7 @@
     zhCN: "椛染之庭",
     pronunciationJa: "もみじノにわ",
     tags: [ "inazuma", "domain" ],
+    pinyins: [{ char: "椛", pron: "hua1" }],
   },
   {
     en: "Formation Estate",
@@ -330,6 +333,7 @@
     pronunciationJa: "むそうらくどのけつまつ",
     tags: [ "inazuma", "domain" ],
     notes: "禍津御建鳴神命戦の秘境名。",
+    pinyins: [{ char: "殁", pron: "mo4" }],
   },
 
   //
