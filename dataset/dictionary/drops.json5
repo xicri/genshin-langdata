@@ -364,7 +364,7 @@
     pronunciationJa: "ゴールドのカラスマーク",
     tags: [ "drop" ],
     notes: "宝盗団のドロップアイテム (★3)",
-    pinyins: [{ char: "擢", pinyin: "zhuo2" }],
+    pinyins: [{ char: "擢", pron: "zhuo2" }],
   },
   {
     en: "Silver Raven Insignia",

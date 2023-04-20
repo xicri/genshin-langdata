@@ -808,7 +808,7 @@
       ja: [ "炎銃" ],
       zhCN: [ "火枪" ],
     },
-    pinyins: [{ char: "铳", pinyin: "chong4" }],
+    pinyins: [{ char: "铳", pron: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Geochanter Bracer",
@@ -831,7 +831,7 @@
       ja: [ "氷銃" ],
       zhCN: [ "冰枪" ],
     },
-    pinyins: [{ char: "铳", pinyin: "chong4" }],
+    pinyins: [{ char: "铳", pron: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Hydrogunner Legionnaire",
@@ -843,7 +843,7 @@
       ja: [ "水銃" ],
       zhCN: [ "水胖" ],
     },
-    pinyins: [{ char: "铳", pinyin: "chong4" }],
+    pinyins: [{ char: "铳", pron: "chong4" }],
   },
   {
     en: "Fatui Skirmisher - Anemoboxer Vanguard",
@@ -1181,7 +1181,7 @@
     zhCN: "跋掣",
     pronunciationJa: "ばっせい",
     tags: [ "enemy-boss", "liyue" ],
-    pinyins: [{ char: "跋", pinyin: "ba2" }, { char: "掣", pinyin: "che3" }],
+    pinyins: [{ char: "跋", pron: "ba2" }, { char: "掣", pron: "che3" }],
   },
   {
     en: "The Avenger of the Vortex",
