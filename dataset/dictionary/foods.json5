@@ -144,6 +144,7 @@
       zhCN: [ "味增汤" ],
     },
     tags: [ "food" ],
+    pinyins: [{ char: "噌", pron: "ceng1" }],
   },
   {
     en: "Soba Noodles",
@@ -610,6 +611,7 @@
     pronunciationJa: "イェンドゥシェン",
     zhCN: "腌笃鲜",
     tags: [ "food" ],
+    pinyins: [{ char: "笃", pron: "du3" }],
   },
   {
     en: "Come and Get It",
@@ -760,6 +762,7 @@
     zhCN: "绀田煮",
     pronunciationJa: "こんだに",
     tags: [ "food" ],
+    pinyins: [{ char: "绀", pron: "gan4" }],
   },
   {
     en: "Sakura Mochi",
@@ -1204,6 +1207,7 @@
     zhCN: "文火慢炖腌笃鲜",
     tags: [ "food", "liyue" ],
     notes: "鍾離のオリジナル料理",
+    pinyins: [{ char: "笃", pron: "du3" }],
   },
   {
     en: "Ghostly March",
