@@ -1181,7 +1181,7 @@
     zhCN: "跋掣",
     pronunciationJa: "ばっせい",
     tags: [ "enemy-boss", "liyue" ],
-    pinyins: [{ char: "跋", pron: "ba2" }, { char: "掣", pron: "che3" }],
+    pinyins: [{ char: "跋", pron: "ba2" }, { char: "掣", pron: "che4" }],
   },
   {
     en: "The Avenger of the Vortex",

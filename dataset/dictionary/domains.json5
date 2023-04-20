@@ -260,7 +260,7 @@
     zhCN: "堇色之庭",
     pronunciationJa: "すみれいろノにわ",
     tags: [ "inazuma", "domain" ],
-    pinyins: [{ char: "菫", pron: "jin3" }],
+    pinyins: [{ char: "堇", pron: "jin3" }],
   },
   {
     en: "Court of Flowing Sand",
