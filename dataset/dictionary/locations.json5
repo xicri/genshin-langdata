@@ -1223,6 +1223,7 @@
     zhCN: "茸蕈窟",
     pronunciationJa: "チャトラカムどうくつ",
     tags: [ "sumeru", "location" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
 
   {

@@ -114,6 +114,7 @@
     ja: "キノシシ",
     zhCN: "蕈猪",
     tags: [ "living-being", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Weasel Thief",

@@ -331,6 +331,7 @@
     pronunciationJa: "チエキノコンふじん",
     notes: "v3.5 期間限定イベント",
     tags: [ "event" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Lil' Fungus / Lil' Fungi",
@@ -338,6 +339,7 @@
     zhCN: "小小灵蕈",
     notes: "v3.5 期間限定イベント「チエキノコン布陣」で用いる、チエキノコンをモチーフにした駒。Lil' Fungus が単数形、Lil' Fungi が複数形。",
     tags: [ "event" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Marvelous Gel",
@@ -555,6 +557,7 @@
     zhCN: "智巧灵蕈大竞逐",
     notes: "v3.2 期間限定イベント",
     tags: [ "event" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Nilotpala Cup Beast Tamers Tournament",

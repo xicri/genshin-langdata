@@ -147,6 +147,7 @@
     zhCN: "蕈王钩喙",
     tags: [ "drop-boss", "sumeru" ],
     notes: "マッシュラプトルのドロップアイテム",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Perpetual Caliber",

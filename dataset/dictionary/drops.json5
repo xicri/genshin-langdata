@@ -460,6 +460,7 @@
     pronunciationJa: "キノコンのほうし",
     tags: [ "drop", "sumeru" ],
     notes: "キノコンのドロップアイテム (★1)",
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Luminescent Pollen",

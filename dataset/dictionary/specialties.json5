@@ -192,6 +192,7 @@
     ja: "ユウトウタケ",
     zhCN: "幽灯蕈",
     tags: [ "specialty", "inazuma" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   // Sumeru
   {

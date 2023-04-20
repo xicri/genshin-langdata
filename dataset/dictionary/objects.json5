@@ -505,6 +505,7 @@
     ja: "ゾーラ茸",
     zhCN: "须罗蕈",
     tags: [ "object", "sumeru" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Jamikayomars",

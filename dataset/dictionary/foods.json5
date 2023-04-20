@@ -1545,18 +1545,21 @@
     ja: "星茸",
     zhCN: "星蕈",
     tags: [ "food" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Activated Starshroom",
     ja: "みなぎる星茸",
     zhCN: "活化的星蕈",
     tags: [ "food" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Scorched Starshroom",
     ja: "ひからびた星茸",
     zhCN: "枯焦的星蕈",
     tags: [ "food" ],
+    pinyins: [{ char: "蕈", pron: "xun4" }],
   },
   {
     en: "Zaytun Peach",
