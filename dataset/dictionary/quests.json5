@@ -1577,7 +1577,7 @@
     pronunciationJa: "ながひしゃくのしょう",
     notes: "香菱の伝説任務",
     tags: [ "liyue", "quest-story" ],
-    pinyins: [{ char: "杓", pron: "shao2"} ]
+    pinyins: [{ char: "杓", pron: "shao2" }],
   },
   {
     en: "Fabulae Textile Chapter",
