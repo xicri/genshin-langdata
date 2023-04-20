@@ -81,6 +81,7 @@
     zhCN: "霓裳花",
     pronunciationJa: "げいしょうばな",
     tags: [ "specialty", "liyue" ],
+    pinyins: [{ char: "霓", pron: "ni2" }, { char: "裳", pron: "chang2" }],
   },
   {
     en: "Violetgrass",
@@ -102,6 +103,7 @@
     zhCN: "石珀",
     pronunciationJa: "せきはく",
     tags: [ "specialty", "liyue" ],
+    pinyins: [{ char: "珀", pron: "po4" }],
   },
   {
     en: "Noctilucous Jade",
@@ -149,6 +151,7 @@
     ja: "血石華",
     zhCN: "血斛",
     tags: [ "specialty", "inazuma" ],
+    pinyins: [{ char: "斛", pron: "hu2" }],
   },
   {
     en: "Lycoris",
