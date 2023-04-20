@@ -15,6 +15,7 @@
     zhCN: "嵯峨群峰之翼",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
+    pinyins: [{ char: "嵯", pron: "cuo2" }, { char: "峨", pron: "e2" }],
   },
   {
     en: "Sundial of Enduring Jade",
@@ -22,6 +23,7 @@
     zhCN: "星罗圭璧之晷",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
+    pinyins: [{ char: "晷", pron: "gui3" }],
   },
   {
     en: "Goblet of Chiseled Crag",
@@ -29,6 +31,7 @@
     zhCN: "巉岩琢塑之樽",
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
+    pinyins: [{ char: "巉", pron: "chan2" }],
   },
   {
     en: "Mask of Solitude Basalt",
@@ -733,6 +736,7 @@
     pronunciationJa: "きんどうのひどけい",
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
+    pinyins: [{ char: "晷", pron: "gui3" }],
   },
   {
     en: "Noble's Pledging Vessel",
@@ -749,6 +753,7 @@
     pronunciationJa: "しょうすいのかぶと",
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
+    pinyins: [{ char: "鍪", pron: "mou2" }],
   },
 
   {
@@ -1121,6 +1126,7 @@
     zhCN: "稽古·砺伏之巢床",
     notes: "モシリの殻の挑戦名",
     tags: [ "inazuma" ],
+    pinyins: [{ char: "砺", pron: "li4" }],
   },
   {
     en: "Necropolis",
