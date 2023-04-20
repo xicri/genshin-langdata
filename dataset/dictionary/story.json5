@@ -514,6 +514,7 @@
     zhCN: "那菈",
     tags: [ "sumeru" ],
     notes: "アランナラの言葉で「人」",
+    pinyins: [{ char: "菈", pron: "la1" }],
   },
   {
     en: "Festival Utsava",
@@ -541,6 +542,7 @@
     zhCN: "桓那",
     tags: [ "sumeru" ],
     notes: "アランナラの言葉で「森」",
+    pinyins: [{ char: "桓", pron: "huan2" }],
   },
   {
     en: "Valuka",
