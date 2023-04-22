@@ -65,6 +65,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "pronunciationJa" ||
         key === "pinyins" ||
         key === "notes" ||
+        key === "notesZh" ||
         key === "tags" ||
         key === "variants" ||
         key === "examples" ||
