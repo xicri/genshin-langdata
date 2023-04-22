@@ -221,3 +221,11 @@ test("if words are reverse-sorted by `updatedAt`", () => {
     return wordB;
   });
 });
+
+test("if the characters specified in `pinyins.char` exists in `zhCN`", async () => {
+  for (const word of words) {
+    for (const { char } of (word.pinyins ?? [])) {
+      expect(word.zhCN.includes(char), `Cannot add pinyin to ${word.zhCN} because it does not include "${char}"`).toBe(true);
+    }
+  }
+});
