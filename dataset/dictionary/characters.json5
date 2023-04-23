@@ -790,8 +790,8 @@
     ja: "玉衡",
     zhCN: "玉衡",
     pronunciationJa: "ユーヘン",
-    notes: "刻晴の称号、北斗七星の玉衡星に由来します。 [Wikipedia：おおぐま座イプシロン星](https://ja.wikipedia.org/wiki/おおぐま座イプシロン星)",  // @xicri I added some details according to notesZh.
-    notesZh: "刻晴的称号。该名字来自于北斗七星中的玉衡星。 [维基百科](https://zh.wikipedia.org/wiki/玉衡_(恒星)) [百度百科](https://baike.baidu.com/item/玉衡/75319)",
+    notes: "刻晴の称号。中国では、北斗七星の1つであるおおぐま座ε星が「玉衡」と呼ばれることに由来。 参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)", 
+    notesZh: "刻晴的称号。该名字来自于北斗七星中的玉衡星。 [维基百科](https://zh.wikipedia.org/wiki/%E7%8E%89%E8%A1%A1_(%E6%81%92%E6%98%9F)) [百度百科](https://baike.baidu.com/item/%E7%8E%89%E8%A1%A1/75319)",
     tags: [ "liyue", "title" ],
   },
   {
@@ -807,8 +807,8 @@
     ja: "天権",
     zhCN: "天权",
     pronunciationJa: "テンチュエン",
-    notes: "凝光の称号、北斗七星の天権星に由来します、文曲星とも呼ばれる。 [Wikipedia: おおぐま座デルタ星](https://ja.wikipedia.org/wiki/おおぐま座デルタ星)",
-    notesZh: "凝光的称号。该名字来自于北斗七星中的天权星，也被称作文曲星，掌管学问。 [维基百科](https://zh.wikipedia.org/zh-cn/天權) [百度百科](https://baike.baidu.com/item/天权/5233911)",
+    notes: "凝光の称号。中国では、北斗七星の1つであるおおぐま座δ星が「天権」と呼ばれることに由来。参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)",
+    notesZh: "凝光的称号。该名字来自于北斗七星中的天权星，也被称作文曲星，掌管学问。 [维基百科](https://zh.wikipedia.org/zh-cn/%E5%A4%A9%E6%AC%8A) [百度百科](https://baike.baidu.com/item/%E5%A4%A9%E6%9D%83/5233911)",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1107,7 +1107,7 @@
     zhCN: "天枢",
     pronunciationJa: "てんすう",
     tags: [ "liyue", "title" ],
-    notes: "天おじの称号",
+    notes: "天おじの称号。中国では、北斗七星の1つであるおおぐま座α星が「天枢」と呼ばれることに由来。参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)",
     notesZh: "天叔的称号。来自于北斗七星中的天枢星。",
   },
   {
