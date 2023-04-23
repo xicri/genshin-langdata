@@ -191,6 +191,9 @@ export class Dictionary {
       if (word.notes) {
         word.notes = marked.parse(word.notes);
       }
+      if (word.notesZh) {
+        word.notesZh = marked.parse(word.notesZh);
+      }
 
       return word;
     });
