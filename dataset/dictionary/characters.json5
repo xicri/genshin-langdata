@@ -245,7 +245,7 @@
     ja: "栄誉騎士のお姉ちゃん",
     zhCN: "荣誉骑士姐姐",
     notes: "クレーの蛍に対する呼び方",
-    notesZh: "可莉对萤的称呼",
+    notesZh: "可莉对荧的称呼",
     tags: [ "mondstadt", "how-to-call" ],
   },
   {
@@ -790,7 +790,7 @@
     ja: "玉衡",
     zhCN: "玉衡",
     pronunciationJa: "ユーヘン",
-    notes: "刻晴の称号。中国では、北斗七星の1つであるおおぐま座ε星が「玉衡」と呼ばれることに由来。 参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)", 
+    notes: "刻晴の称号。中国では、北斗七星の1つであるおおぐま座ε星が「玉衡」と呼ばれることに由来。 参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)",
     notesZh: "刻晴的称号。该名字来自于北斗七星中的玉衡星。 [维基百科](https://zh.wikipedia.org/wiki/%E7%8E%89%E8%A1%A1_(%E6%81%92%E6%98%9F)) [百度百科](https://baike.baidu.com/item/%E7%8E%89%E8%A1%A1/75319)",
     tags: [ "liyue", "title" ],
   },
@@ -2505,7 +2505,7 @@
     zhCN: "迪娜泽黛·呼玛伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務等に登場するキャラクター。ディシアの雇い主の家の娘",
-    notesZh: "在须弥的魔神任务中登场的角色。迪西雅的雇主家的女儿。",
+    notesZh: "在须弥的魔神任务中登场的角色。迪希雅的雇主家的女儿。",
   },
   {
     en: "Asfand",
@@ -2541,7 +2541,7 @@
     zhCN: "卡卡塔",
     tags: [ "sumeru", "character-sub" ],
     notes: "ティナリの伝説任務に登場するキャラクター",
-    notesZh: "迪西雅的传说任务中登场的智能机器",
+    notesZh: "提纳里的传说任务中登场的智能机器",
   },
   {
     en: "Mechanical Crab",
@@ -2549,7 +2549,7 @@
     zhCN: "机械螃蟹",
     tags: [ "sumeru", "title" ],
     notes: "ティナリの伝説任務に登場するキャラクター",
-    notesZh: "迪西雅的传说任务中登场的角色",
+    notesZh: "提纳里的传说任务中登场的角色",
   },
   {
     en: "Abattouy",
@@ -2557,7 +2557,7 @@
     zhCN: "阿巴图伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "ティナリの伝説任務に登場するキャラクター",
-    notesZh: "迪西雅的传说任务中登场的角色",
+    notesZh: "提纳里的传说任务中登场的角色",
   },
   {
     en: "Inayah",
@@ -3014,7 +3014,7 @@
     zhCN: "库塞拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの父。アフマルの鬚のリーダー",
-    notesZh: "迪西雅的父亲。阿赫玛尔之须的首领。",
+    notesZh: "迪希雅的父亲。阿赫玛尔之须的首领。",
   },
   {
     en: "Shahzaman Homayani",
@@ -3030,7 +3030,7 @@
     zhCN: "伊德里西",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
-    notesZh: "迪西雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
+    notesZh: "迪希雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
   },
   {
     en: "Bashar",
@@ -3038,7 +3038,7 @@
     zhCN: "巴沙尔",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
-    notesZh: "迪西雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
+    notesZh: "迪希雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
   },
   {
     en: "Tikriti",
@@ -3046,7 +3046,7 @@
     zhCN: "提克里蒂",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
-    notesZh: "迪西雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
+    notesZh: "迪希雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
   },
   {
     en: "Mishal",
@@ -3054,7 +3054,7 @@
     zhCN: "米沙勒",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。神王のレリクスの首領",
-    notesZh: "迪西雅的传说任务中登场的角色。神王之遗的首领。",
+    notesZh: "迪希雅的传说任务中登场的角色。神王之遗的首领。",
   },
 
   {
