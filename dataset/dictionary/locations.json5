@@ -1725,6 +1725,7 @@
     zhCN: "甘露花海",
     pronunciationJa: "かんろかかい",
     tags: [ "sumeru", "location" ],
+    notes: "Vourukasha はゾロアスター教における神話上の地名。",
   },
   {
     en: "Asipattravana Swamp",
@@ -1750,13 +1751,6 @@
     tags: [ "sumeru", "location" ],
   },
 
-  {
-    en: "Amrita Pool",
-    ja: "甘露の池",
-    zhCN: "甘露池",
-    pronunciationJa: "かんろのいけ",
-    tags: [ "sumeru", "location" ], // TODO Check if location is appropriate tag
-  },
   {
     en: "flowery sea",
     ja: "花海",

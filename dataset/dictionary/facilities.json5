@@ -27,6 +27,11 @@
     tags: [ "mondstadt", "facility" ],
     notes: "風の印をアイテムと交換できる店",
   },
+  {
+    en: "Favonius Cathedral",
+    ja: "西風大聖堂",
+    tags: [ "mondstadt", "facility" ],
+  },
 
   //
   // Liyue
@@ -280,6 +285,13 @@
     ja: "アジャンタ彫刻店",
     zhCN: "阿折罗造像",
     pronunciationJa: "アジャンタちょうこくてん",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
+    en: "Amrita Pool",
+    ja: "甘露の池",
+    zhCN: "甘露池",
+    pronunciationJa: "かんろのいけ",
     tags: [ "sumeru", "facility" ],
   },
 

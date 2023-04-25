@@ -620,6 +620,7 @@
     zhCN: "焚真之天象",
     pronunciationJa: "ふんしんのてんしょう",
     tags: [ "sumeru" ],
+    notes: "甘露花海の万種母樹の上空にできた、トゥニギの黒淵と繋がっている巨大な穴",
   },
   {
     en: "Amrita",
@@ -634,6 +635,20 @@
     zhCN: "阿索斯物质",
     pronunciationJa: "アゾスぶっしつ",
     tags: [ "sumeru" ],
+  },
+  {
+    en: "Rite of Chinvat",
+    ja: "チンワトの儀",
+    pronunciationJa: "チンワトのぎ",
+    tags: [ "sumeru" ],
+    notes: "世界任務「善悪のクヴァレナ」で執り行う、トゥニギの黒淵から万種母樹内部への道を開くための儀式",
+  },
+  {
+    en: "Rite of Ab-Zohr",
+    ja: "アブゾーアの儀",
+    pronunciationJa: "アブゾーアのぎ",
+    tags: [ "sumeru" ],
+    notes: "世界任務「善悪のクヴァレナ」で執り行う、焚真の天象を閉じるための儀式",
   },
 
   //

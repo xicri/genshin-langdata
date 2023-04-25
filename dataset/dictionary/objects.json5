@@ -732,6 +732,18 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Harvisptokhm",
+    ja: "万種母樹",
+    tags: [ "object", "sumeru" ],
+    notes: "甘露花海の中心にある巨大な植物。原義はゾロアスター教の神話において、Vourukasha という天海の中心にあるとされる「全ての種の実る樹」。参照: Wikipedia: [ヴォウルカシャ](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A9%E3%82%A6%E3%83%AB%E3%82%AB%E3%82%B7%E3%83%A3), [Cosmic ocean](https://en.wikipedia.org/wiki/Cosmic_ocean#Zoroastrianism)",
+  },
+  {
+    en: "Gaokerena",
+    ja: "ガオケレナ",
+    tags: [ "object", "sumeru" ],
+    notes: "万種母樹の中にある巨大な蓮。原義はゾロアスター教の神話に登場する巨木。参照: [Wikipedia: ガオケレナ](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%AA%E3%82%B1%E3%83%AC%E3%83%8A)",
+  },
+  {
     en: "Nirodha Fruit",
     ja: "ニローダの実",
     zhCN: "苦离果",
@@ -785,6 +797,19 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Lightcall Path",
+    ja: "浮光の道",
+    tags: [ "object", "sumeru" ],
+    notes: "ソルシュが浮遊する光の玉を展開することで、空中に出現する道",
+  },
+  {
+    en: "Floating Orb",
+    ja: "浮遊する光の玉",
+    pronunciationJa: "ふゆうするひかりのたま",
+    tags: [ "object", "sumeru" ],
+    notes: "ソルシュの力で浮光の道を開くための光の玉",
+  },
+  {
     en: "Soul Bell",
     ja: "霊宝の鐸鈴",
     zhCN: "灵宝铎",
@@ -816,5 +841,32 @@
     pronunciationJa: "いせきじゅうほう",
     tags: [ "object", "sumeru" ],
     notes: "コリュバンテスのうちの1つを入手する際に、巨像のエネルギーシールドを破壊するための重砲", // 重砲: heavy cannon
+  },
+  {
+    en: "Flower of Sanctity",
+    ja: "聖潔の花",
+    pronunciationJa: "せいけつのはな", // Need Check
+    tags: [ "object", "sumeru" ],
+    notes: "万種母樹の中に咲く花",
+  },
+  {
+    en: "Spenta Heart",
+    ja: "慈心",
+    pronunciationJa: "じしん", // Need Check
+    tags: [ "object", "sumeru" ],
+    notes: "染境の中で手に入れる、聖潔の花のために必要なもの",
+  },
+  {
+    en: "Percussive Prancing Mushroom",
+    ja: "不思議なトントンキノコ",
+    pronunciationJa: "ふしぎなトントンキノコ",
+    tags: [ "object", "sumeru" ],
+    notes: "アシパトラ・ヴァナの沼にある、楽譜通りに飛び跳ねると宝箱がもらえるトライステート生物",
+  },
+  {
+    en: "Khvarena Monument",
+    ja: "霊光碑",
+    pronunciationJa: "れいこうひ",
+    tags: [ "object", "sumeru" ],
   },
 ]

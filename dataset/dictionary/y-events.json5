@@ -276,6 +276,18 @@
     tags: [ "event", "object" ],
   },
   {
+    en: "Shriya",
+    ja: "シュリヤ",
+    notes: "v3.6 期間限定イベント「轟々たる風砂」の登場人物",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Vinayak",
+    ja: "ヴィナヤック",
+    notes: "v3.6 期間限定イベント「轟々たる風砂」の登場人物",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "Brewing Developments",
     ja: "調剤エボリューション",
     zhCN: "合剂演进",
