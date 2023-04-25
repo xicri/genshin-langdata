@@ -282,6 +282,13 @@
     pronunciationJa: "アジャンタちょうこくてん",
     tags: [ "sumeru", "facility" ],
   },
+  {
+    en: "Amrita Pool",
+    ja: "甘露の池",
+    zhCN: "甘露池",
+    pronunciationJa: "かんろのいけ",
+    tags: [ "sumeru", "facility" ],
+  },
 
   //
   // Snezhnaya & Fatui
