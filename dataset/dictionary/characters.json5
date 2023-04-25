@@ -3210,7 +3210,8 @@
     ja: "シームルグ",
     zhCN: "西摩格",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「善悪のクヴァレナ」で言及される神鳥",
+    notes: "世界任務「善悪のクヴァレナ」で言及される、霊光百種を創造した神鳥",
+    // notesEn: "A divine bird which created coutless motes of Khvarena mentioned in a world quest \"Khvarena of Good and Evil\""
     notesZh: "世界任务「善恶的赫瓦雷纳」中提到的神鸟",
   },
   {
