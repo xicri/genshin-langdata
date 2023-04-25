@@ -1241,6 +1241,12 @@
     tags: [ "food", "liyue" ],
     notes: "タルタリヤのオリジナル料理",
   },
+  {
+    en: "Dew-Dipped Shrimp",
+    ja: "美露エビ",
+    tags: [ "food", "liyue" ],
+    notes: "夜蘭のオリジナル料理",
+  },
   // ▼▼ Unconfirmed ▼▼
   {
     en: "My Way",

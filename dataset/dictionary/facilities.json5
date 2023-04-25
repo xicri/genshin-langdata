@@ -27,6 +27,11 @@
     tags: [ "mondstadt", "facility" ],
     notes: "風の印をアイテムと交換できる店",
   },
+  {
+    en: "Favonius Cathedral",
+    ja: "西風大聖堂",
+    tags: [ "mondstadt", "facility" ],
+  },
 
   //
   // Liyue

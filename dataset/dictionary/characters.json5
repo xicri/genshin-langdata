@@ -2636,6 +2636,11 @@
     notesZh: "须弥声望任务的交付角色",
   },
   {
+    en: "Desertfolk",
+    ja: "砂漠の民",
+    tags: [ "sumeru", "title" ],
+  },
+  {
     en: "Jeht",
     ja: "ジェイド",
     zhCN: "婕德",
@@ -3182,6 +3187,12 @@
     notesZh: "那先朱那在矫论团中的职位",
   },
   {
+    en: "Sosi",
+    ja: "ソシー",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「碑銘の研究」に登場するスケプティック団員",
+  },
+  {
     en: "Zurvan",
     ja: "ズルヴァーン",
     zhCN: "祖尔宛",
@@ -3221,6 +3232,18 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「善悪のクヴァレナ」で言及される「巡回官」",
     notesZh: "世界任务「善恶的赫瓦雷纳」中提到的「巡回官」",
+  },
+  {
+    en: "Jarjar",
+    ja: "ジャルジャー",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「浮光鳴召」で試練を課してくる花霊", // 試練: trial
+  },
+  {
+    en: "Fedhri",
+    ja: "フェドフ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "甘露の池の前にいる花霊",
   },
 
   //
@@ -3691,5 +3714,10 @@
     ja: "エルミン",
     zhCN: "伊尔明",
     tags: [ "character-sub" ],
+  },
+  {
+    en: "Schwanenritter",
+    ja: "白鵠騎士",
+    tags: [ "title" ],
   },
 ]
