@@ -1755,7 +1755,7 @@
     ja: "甘露の池",
     zhCN: "甘露池",
     pronunciationJa: "かんろのいけ",
-    tags: [ "sumeru", "location" ], // TODO Check if location is appropriate tag
+    tags: [ "sumeru", "facility" ],
   },
   {
     en: "flowery sea",
