@@ -260,7 +260,7 @@
     zhCN: "堇色之庭",
     pronunciationJa: "すみれいろノにわ",
     tags: [ "inazuma", "domain" ],
-    pinyins: [{ char: "菫", pron: "jin3" }],
+    pinyins: [{ char: "堇", pron: "jin3" }],
   },
   {
     en: "Court of Flowing Sand",
@@ -472,6 +472,7 @@
   {
     en: "Defiled Chamber",
     ja: "染境",
+    zhCN: "染境",
     pronunciationJa: "せんきょう", // Need Check
     tags: [ "sumeru", "domain" ],
     notes: "万種母樹の中から慈心を手に入れるために入る秘境",

@@ -278,12 +278,15 @@
   {
     en: "Shriya",
     ja: "シュリヤ",
+    zhCN: "施芮娅",
     notes: "v3.6 期間限定イベント「轟々たる風砂」の登場人物",
+    pinyins: [{ char: "芮", pron: "rui4" }],
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Vinayak",
     ja: "ヴィナヤック",
+    zhCN: "维纳亚克",
     notes: "v3.6 期間限定イベント「轟々たる風砂」の登場人物",
     tags: [ "event", "character-sub" ],
   },

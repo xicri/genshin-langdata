@@ -1424,17 +1424,20 @@
   {
     en: "Monumental Study",
     ja: "碑銘の研究",
+    zhCN: "碑铭的研究",
     pronunciationJa: "ひめいのけんきゅう",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "An Artist Adrift",
     ja: "画家漂流記",
+    zhCN: "画家漂流记",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Lightcall Resonance",
     ja: "浮光鳴召",
+    zhCN: "浮光鸣召",
     tags: [ "sumeru", "quest-world" ],
   },
 
@@ -1969,6 +1972,7 @@
   {
     en: "Stop, Albert. Stop!",
     ja: "アルバート、ストップ!",
+    zhCN: "艾伯特先生，别再冲了——！",
     tags: [ "quest-daily", "mondstadt" ],
   },
   {
@@ -2393,6 +2397,7 @@
   {
     en: "The Hook's Unexpected Adventure",
     ja: "釣り針の奇妙な時間?",
+    zhCN: "鱼钩的奇异时光？",
     tags: [ "quest-daily", "sumeru" ],
   },
   {

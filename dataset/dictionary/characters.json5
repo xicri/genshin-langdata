@@ -2638,6 +2638,7 @@
   {
     en: "Desertfolk",
     ja: "砂漠の民",
+    zhCN: "沙漠子民",
     tags: [ "sumeru", "title" ],
   },
   {
@@ -3189,6 +3190,7 @@
   {
     en: "Sosi",
     ja: "ソシー",
+    zhCN: "索希",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「碑銘の研究」に登場するスケプティック団員",
   },
@@ -3236,12 +3238,14 @@
   {
     en: "Jarjar",
     ja: "ジャルジャー",
+    zhCN: "贾尔贾",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「浮光鳴召」で試練を課してくる花霊", // 試練: trial
   },
   {
     en: "Fedhri",
     ja: "フェドフ",
+    zhCN: "菲多赫",
     tags: [ "sumeru", "character-sub" ],
     notes: "甘露の池の前にいる花霊",
   },
@@ -3718,6 +3722,8 @@
   {
     en: "Schwanenritter",
     ja: "白鵠騎士",
+    zhCN: "白鹄骑士",
     tags: [ "title" ],
+    pinyins: [{ char: "鹄", pron: "hu2" }],
   },
 ]
