@@ -1244,6 +1244,7 @@
   {
     en: "Dew-Dipped Shrimp",
     ja: "美露エビ",
+    zhCN: "沾露虾仁",
     tags: [ "food", "liyue" ],
     notes: "夜蘭のオリジナル料理",
   },

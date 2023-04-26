@@ -472,6 +472,7 @@
   {
     en: "Defiled Chamber",
     ja: "染境",
+    zhCN: "染境",
     pronunciationJa: "せんきょう", // Need Check
     tags: [ "sumeru", "domain" ],
     notes: "万種母樹の中から慈心を手に入れるために入る秘境",
