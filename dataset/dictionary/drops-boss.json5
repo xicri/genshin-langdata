@@ -319,7 +319,7 @@
     zhCN: "祸神之禊泪",
     tags: [ "drop-boss", "inazuma" ],
     notes: "禍津御建鳴神命のドロップアイテム",
-    pinyins: [{ char: "褉", pron: "xie4" }],
+    pinyins: [{ char: "禊", pron: "xi4" }],
   },
   {
     en: "The Meaning of Aeons",
