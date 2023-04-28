@@ -252,6 +252,14 @@
     tags: [ "event" ],
   },
   {
+    en: "Hat Guy",
+    ja: "笠っち",
+    zhCN: "阿帽",
+    pronunciationJa: "かさっち",
+    notes: "v3.6 期間限定イベント「盛典と慧業」で放浪者が名乗っている名前",
+    tags: [ "event", "title" ],
+  },
+  {
     en: "The Recollector's Path",
     ja: "憶昔巡歴の旅",
     zhCN: "忆昔诸途巡历",
