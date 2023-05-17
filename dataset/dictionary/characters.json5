@@ -1707,6 +1707,13 @@
     notesZh: "八重神子的部下对其的敬称",
   },
   {
+    en: "Fried Tofu With All the Frills",
+    ja: "焜焜油揚げ",
+    pronunciationJa: "こんこんあぶらあげ",
+    tags: [ "inazuma", "title" ],
+    notes: "八重神子のハンドルネーム (?)",
+  },
+  {
     en: "Arataki Itto",
     ja: "荒瀧一斗",
     zhCN: "荒泷一斗",
@@ -3254,6 +3261,12 @@
   //
   // Fontaine ― Playable Characters
   //
+  {
+    en: "Charlotte",
+    ja: "シャルロット",
+    tags: [ "character-main" ],
+    notes: "英語の発音は「シャーロット」",
+  },
   {
     en: "Lyney",
     ja: "リネ",

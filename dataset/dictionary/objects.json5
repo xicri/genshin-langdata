@@ -814,6 +814,12 @@
     notes: "ソルシュの力で浮光の道を開くための光の玉",
   },
   {
+    en: "Barsom",
+    ja: "バルソム",
+    tags: [ "object", "sumeru" ],
+    notes: "バルソムの丘にある古樹",
+  },
+  {
     en: "Soul Bell",
     ja: "霊宝の鐸鈴",
     zhCN: "灵宝铎",

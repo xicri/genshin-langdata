@@ -954,6 +954,12 @@
     pronunciationJa: "おうのきんじ",
     tags: [ "weapon", "bow" ],
   },
+  {
+    en: "Ibis Piercer",
+    ja: "トキの嘴",
+    pronunciationJa: "トキのくちばし",
+    tags: [ "weapon", "bow" ],
+  },
   // ★5
   {
     en: "Skyward Harp",
