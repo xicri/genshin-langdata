@@ -1405,6 +1405,12 @@
     pronunciationJa: "エルマイトりょだんにはいって、すばらしいせいかつを",
     tags: [ "sumeru", "quest-world" ],
   },
+  {
+    en: "A Gifted Rose: Prickly as Thorns",
+    ja: "或る人への薔薇〜荊のような刺々しさ〜",
+    pronunciationJa: "あるひとへのばら いばらのようなとげとげしさ",
+    tags: [ "sumeru", "quest-world" ],
+  },
 
   {
     en: "Khvarena of Good and Evil",
@@ -1664,6 +1670,7 @@
     en: "Carassius Auratus Chapter",
     ja: "琉金の章",
     zhCN: "琉金之章",
+    pronunciationJa: "りゅうきんのしょう",
     notes: "宵宮の伝説任務",
     tags: [ "inazuma", "quest-story" ],
   },
@@ -2490,6 +2497,11 @@
     ja: "砂の中の花",
     zhCN: "沙中花",
     pronunciationJa: "すなのなかのはな",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Eat and Learn",
+    ja: "食と学",
     tags: [ "quest-daily", "sumeru" ],
   },
 

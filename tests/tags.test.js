@@ -9,6 +9,6 @@ test("property values of tag JSON complies the format.", async () => {
     expect(typeof title.ja).toBe("string");
 
     expect(tag).toMatch(/^[a-z0-9-]+$/);
-    expect(en).toMatch(/^[A-Za-z0-9-& /()]+$/);
+    expect(en).toMatch(/^[A-Za-z0-9-& /()']+$/);
   }
 });

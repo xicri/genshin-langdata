@@ -49,6 +49,16 @@
       "zh-CN": "关于须弥的词语的英语和日语翻译"
     }
   },
+  "fontaine": {
+    "en": "Fontaine",
+    "ja": "フォンテーヌ",
+    "zh-CN": "枫丹",
+    "title": {
+      "en": "Chinese & Japanese translations for words related to Fontaine",
+      "ja": "フォンテーヌに関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于枫丹的词语的英语和日语翻译"
+    }
+  },
   "snezhnaya": {
     "en": "Snezhnaya / Fatui",
     "ja": "スネージナヤ・ファデュイ",
@@ -57,6 +67,16 @@
       "en": "Chinese & Japanese translations for words related to Snezhnaya & Fatui",
       "ja": "スネージナヤ・ファデュイに関する言葉の英語・中国語表記一覧",
       "zh-CN": "关于至冬·愚人众的词语的英语和日语翻译"
+    }
+  },
+  "khaenriah": {
+    "en": "Khaenri'ah",
+    "ja": "カーンルイア",
+    "zh-CN": "坎瑞亚",
+    "title": {
+      "en": "Chinese & Japanese translations for words related to Khaenri'ah",
+      "ja": "カーンルイアに関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于坎瑞亚的词语的英语和日语翻译"
     }
   },
   "character-main": {

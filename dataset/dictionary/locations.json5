@@ -1789,19 +1789,19 @@
     en: "Fontaine",
     ja: "フォンテーヌ",
     zhCN: "枫丹",
-    tags: [ "location" ],
+    tags: [ "fontaine", "location" ],
   },
   {
     en: "Court of Fontaine",
     ja: "フォンテーヌ廷",
     zhCN: "枫丹廷",
-    tags: [ "location" ],
+    tags: [ "fontaine", "location" ],
   },
   {
     en: "Petrichor",
     ja: "ペトリコール",
     zhCN: "佩特莉可",
-    tags: [ "location" ],
+    tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。v2.8 期間限定イベント「からくり械画」でフェリックス・ユーグが言及。",
   },
 
@@ -1839,13 +1839,13 @@
     en: "Khaenri'ah",
     ja: "カーンルイア",
     zhCN: "坎瑞亚",
-    tags: [ "location" ],
+    tags: [ "khaenriah", "location" ],
   },
   {
     en: "Khaenri'ahn",
     ja: "カーンルイア人 / カーンルイアの",
     zhCN: "坎瑞亚人 / 坎瑞亚的",
     pronunciationJa: "カーンルイアじん / カーンルイアの",
-    // tags: [ "khaenriah" ],
+    tags: [ "khaenriah" ],
   },
 ]

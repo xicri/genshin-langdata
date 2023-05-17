@@ -159,6 +159,11 @@
     pronunciationJa: "まつたけのアワビもどき",
     tags: [ "food" ],
   },
+  {
+    en: "Minty Bean Soup",
+    ja: "ミントビーンスープ",
+    tags: [ "food" ],
+  },
 
   // ★★
   {
@@ -1373,6 +1378,13 @@
 
   // Sumeru
   {
+    en: "Yearning",
+    ja: "憧れ",
+    pronunciationJa: "あこがれ",
+    tags: [ "food", "sumeru" ],
+    notes: "コレイのオリジナル料理",
+  },
+  {
     en: "Swirling Steps",
     ja: "ひらめく踊り",
     zhCN: "婆娑一舞",
@@ -1411,6 +1423,13 @@
     pronunciationJa: "しきんのなべ", // Need check
     tags: [ "food", "sumeru" ],
     notes: "ディシアのオリジナル料理。Tajine とは、アフリカ大陸北西端部のマグリブ地域の料理で、Tajine Pot (タジン鍋) と呼ばれる鍋を用いて作られる。 / [Wikipedia:タジン鍋](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%83%B3%E9%8D%8B), [Wikipedia:Tajine](https://en.wikipedia.org/wiki/Tajine)",
+  },
+  {
+    en: "Utmost Care",
+    ja: "至れり尽くせり",
+    pronunciationJa: "いたれりつくせり",
+    tags: [ "food", "sumeru" ],
+    notes: "キャンディスのオリジナル料理",
   },
 
   //

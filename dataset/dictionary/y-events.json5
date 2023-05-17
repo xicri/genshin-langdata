@@ -186,6 +186,71 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v3.7
+  {
+    en: "Duel! The Summoners' Summit!",
+    ja: "決闘! 召喚の頂!",
+    pronunciationJa: "けっとうしょうかんのいただき",
+    notes: "v3.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "King of Invokations Grand Prix",
+    ja: "召喚王グランプリ",
+    pronunciationJa: "しょうかんおうグランプリ",
+    notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」中に開催される七聖召喚の大会",
+    tags: [ "event" ],
+  },
+  {
+    en: "A Tour of Wonders",
+    ja: "諸景巡行",
+    pronunciationJa: "しょけいじゅんこう", // Need Check
+    notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Zero Hour Invokation",
+    ja: "ゼロ・アワー召喚",
+    pronunciationJa: "ゼロ・アワーしょうかん",
+    notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Evermotion Mechanical Painting: Invoker",
+    ja: "からくり械画・七聖編",
+    pronunciationJa: "からくりかいが・しちせいへん",
+    notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Heart of the Dice",
+    ja: "巧賽タクティクス",
+    pronunciationJa: "こうさいタクティクス",
+    notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Feast of the Departed Warriors",
+    ja: "離垢者の正心別宴",
+    pronunciationJa: "りくしゃのせいしんべつえん",
+    notes: "v3.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Fayz Trials: Hypothesis",
+    ja: "フェーイズの予想",
+    pronunciationJa: "フェーイズのよそう",
+    notes: "v3.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Divine Ingenuity: Collector's Chapter",
+    ja: "鬼斧神工・宝録の章",
+    pronunciationJa: "きふしんこう・ほうろくのしょう",
+    notes: "v3.7 期間限定イベント",
+    tags: [ "event" ],
+  },
+
   // v3.6
   {
     en: "A Parade of Providence",
@@ -202,6 +267,12 @@
     pronunciationJa: "がくいんさい",
     notes: "v3.6 期間限定イベント「盛典と慧業」で実施される、スメール教令院の学院祭",
     tags: [ "event" ],
+  },
+  {
+    en: "Sachin",
+    ja: "サーチェン",
+    notes: "v3.6 期間限定イベント「盛典と慧業」の登場人物",
+    tags: [ "event", "character-sub" ],
   },
   {
     en: "Mimetic Replication",
