@@ -3694,7 +3694,7 @@
     en: "Dainsleif",
     ja: "ダインスレイヴ",
     zhCN: "戴因斯雷布",
-    tags: [ "character-sub" ],
+    tags: [ "khaenriah", "character-sub" ],
   },
   {
     en: "Dain",
@@ -3702,7 +3702,7 @@
     zhCN: "戴因",
     notes: "ダインスレイヴ (Dainsleif) の呼び名",
     notesZh: "戴因斯雷布 (Dainsleif) 的称呼",
-    tags: [ "how-to-call" ],
+    tags: [ "khaenriah", "how-to-call" ],
   },
   {
     en: "Bough Keeper",
@@ -3710,7 +3710,7 @@
     zhCN: "拾枝者",
     notes: "ダインスレイヴの現在の称号",
     notesZh: "戴因斯雷布的现在的称号",
-    tags: [ "title" ],
+    tags: [ "khaenriah", "title" ],
   },
   {
     en: "Twilight Sword",
@@ -3719,27 +3719,27 @@
     pronunciationJa: "まっこうのつるぎ",
     notes: "ダインスレイヴのかつての称号",
     notesZh: "戴因斯雷布的曾经的称号",
-    tags: [ "title" ],
+    tags: [ "khaenriah", "title" ],
   },
 
   {
     en: "Halfdan",
     ja: "ハールヴダン",
     zhCN: "哈夫丹",
-    tags: [ "character-sub" ],
+    tags: [ "khaenriah", "character-sub" ],
     notes: "発音は「ハーフダン」",
   },
   {
     en: "Irmin",
     ja: "エルミン",
     zhCN: "伊尔明",
-    tags: [ "character-sub" ],
+    tags: [ "khaenriah", "character-sub" ],
   },
   {
     en: "Schwanenritter",
     ja: "白鵠騎士",
     zhCN: "白鹄骑士",
-    tags: [ "title" ],
+    tags: [ "khaenriah", "title" ],
     pinyins: [{ char: "鹄", pron: "hu2" }],
   },
 ]

@@ -1839,13 +1839,13 @@
     en: "Khaenri'ah",
     ja: "カーンルイア",
     zhCN: "坎瑞亚",
-    tags: [ "location" ],
+    tags: [ "khaenriah", "location" ],
   },
   {
     en: "Khaenri'ahn",
     ja: "カーンルイア人 / カーンルイアの",
     zhCN: "坎瑞亚人 / 坎瑞亚的",
     pronunciationJa: "カーンルイアじん / カーンルイアの",
-    // tags: [ "khaenriah" ],
+    tags: [ "khaenriah" ],
   },
 ]
