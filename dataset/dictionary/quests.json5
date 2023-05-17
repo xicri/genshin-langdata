@@ -1664,6 +1664,7 @@
     en: "Carassius Auratus Chapter",
     ja: "琉金の章",
     zhCN: "琉金之章",
+    pronunciationJa: "りゅうきんのしょう",
     notes: "宵宮の伝説任務",
     tags: [ "inazuma", "quest-story" ],
   },

@@ -2638,6 +2638,7 @@
   {
     en: "Desertfolk",
     ja: "砂漠の民",
+    pronunciationJa: "さばくのたみ",
     zhCN: "沙漠子民",
     tags: [ "sumeru", "title" ],
   },
