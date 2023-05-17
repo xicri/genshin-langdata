@@ -371,14 +371,14 @@
     ja: "フォンテーヌ科学院",
     zhCN: "枫丹科学院",
     pronunciationJa: "フォンテーヌかがくいん",
-    tags: [ "organization" ],
+    tags: [ "fontaine", "organization" ],
   },
   {
     en: "Fontaine Research Institute of Kinetic Energy Engineering",
     ja: "フォンテーヌ運動エネルギー工学科学研究院",
     zhCN: "枫丹动能工程科学研究院",
     pronunciationJa: "フォンテーヌうんどうエネルギーこうがくかがくけんきゅういん",
-    tags: [ "organization" ],
+    tags: [ "fontaine", "organization" ],
     notes: "フォンテーヌ科学院の正式名称",
   },
   {
@@ -386,14 +386,14 @@
     ja: "スチームバード新聞",
     zhCN: "蒸汽鸟报",
     pronunciationJa: "スチームバードしんぶん",
-    tags: [ "organization" ],
+    tags: [ "fontaine", "organization" ],
   },
   {
     en: "Daydream Club",
     ja: "空想クラブ",
     zhCN: "空想俱乐部",
     pronunciationJa: "くうそうクラブ",
-    tags: [ "organization" ],
+    tags: [ "fontaine", "organization" ],
   },
 
   //
