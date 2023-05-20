@@ -816,8 +816,10 @@
   {
     en: "Barsom",
     ja: "バルソム",
+    zhCN: "跋尔松",
     tags: [ "object", "sumeru" ],
     notes: "バルソムの丘にある古樹",
+    pinyins: [{ char: "跋", pron: "ba2" }],
   },
   {
     en: "Soul Bell",

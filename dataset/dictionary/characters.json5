@@ -1709,6 +1709,7 @@
   {
     en: "Fried Tofu With All the Frills",
     ja: "焜焜油揚げ",
+    zhCN: "玲珑油豆腐",
     pronunciationJa: "こんこんあぶらあげ",
     tags: [ "inazuma", "title" ],
     notes: "八重神子のハンドルネーム (?)",
@@ -3264,6 +3265,7 @@
   {
     en: "Charlotte",
     ja: "シャルロット",
+    zhCN: "夏洛蒂",
     tags: [ "fontaine", "character-main" ],
     notes: "英語の発音は「シャーロット」",
   },
