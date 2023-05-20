@@ -957,8 +957,10 @@
   {
     en: "Ibis Piercer",
     ja: "トキの嘴",
+    zhCN: "鹮穿之喙",
     pronunciationJa: "トキのくちばし",
     tags: [ "weapon", "bow" ],
+    pinyins: [{ char: "鹮", pron: "huan2" }],
   },
   // ★5
   {

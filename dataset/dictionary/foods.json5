@@ -162,6 +162,7 @@
   {
     en: "Minty Bean Soup",
     ja: "ミントビーンスープ",
+    zhCN: "薄荷豆汤",
     tags: [ "food" ],
   },
 
@@ -1380,7 +1381,9 @@
   {
     en: "Yearning",
     ja: "憧れ",
+    zhCN: "憧憬",
     pronunciationJa: "あこがれ",
+    pinyins: [{ char: "憧", pron: "chong1" }, { char: "憬", pron: "jing3" }],
     tags: [ "food", "sumeru" ],
     notes: "コレイのオリジナル料理",
   },
@@ -1427,6 +1430,7 @@
   {
     en: "Utmost Care",
     ja: "至れり尽くせり",
+    zhCN: "关怀备至",
     pronunciationJa: "いたれりつくせり",
     tags: [ "food", "sumeru" ],
     notes: "キャンディスのオリジナル料理",
