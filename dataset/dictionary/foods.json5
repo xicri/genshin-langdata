@@ -1619,6 +1619,12 @@
     tags: [ "food", "sumeru" ],
   },
   {
+    en: "Glabrous Beans",
+    ja: "ツルツル豆",
+    pronunciationJa: "ツルツルまめ",
+    tags: [ "food", "sumeru" ],
+  },
+  {
     en: "Ajilenakh Nut",
     ja: "デーツ",
     zhCN: "枣椰",

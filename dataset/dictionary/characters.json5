@@ -891,6 +891,13 @@
     notesZh: "中文版中称作「钟离先生」的地方，英语版中并非一定使用了 Mr. 的前缀。",
   },
   {
+    en: "Jade Shield",
+    ja: "玉璋シールド",
+    pronunciationJa: "ぎょくしょうシールド",
+    notes: "鍾離の元素スキルで生成されるシールド",
+    tags: [ "liyue" ],
+  },
+  {
     en: "Xiao",
     ja: "魈",
     zhCN: "魈",
@@ -1780,6 +1787,25 @@
     tags: [ "inazuma", "title" ],
   },
   {
+    en: "Sole of the Deep",
+    ja: "深海ウシノシタ",
+    pronunciationJa: "しんかいウシノシタ",
+    tags: [ "inazuma", "title" ],
+    notes: "珊瑚宮心海のハンドルネーム (?)",
+    examples: [
+      {
+        en: "You took your time. I was starting to wonder if you got lost walking on the seabed, Miss \"Sole of the Deep.\"",
+        ja: "こうもゆっくり登場するとは、海底を散歩していて迷子にでもなったのかと心配したぞ、「深海ウシノシタ」さん。",
+        ref: "八重神子, v3.7 期間限定イベント「決闘! 召喚の頂!」",
+      },
+      {
+        en: "Yes, Your Excellency!",
+        ja: "はっ、珊瑚宮様!",
+        ref: "ゴロー, 第二章 第三幕 千手百目の浮世",
+      },
+    ],
+  },
+  {
     en: "Her Excellency",
     ja: "(珊瑚宮心海や雷電将軍に対する尊称)",
     zhCN: "（对珊瑚宫心海或雷电将军的尊称）",
@@ -1830,6 +1856,19 @@
     zhCN: "绮良良",
     pronunciationJa: "きらら",
     tags: [ "inazuma", "character-main" ],
+  },
+  {
+    en: "Urgent Neko Parcel",
+    ja: "ネコ箱急便",
+    pronunciationJa: "ネコそうきゅうびん",
+    tags: [ "inazuma" ],
+    notes: "綺良々が元素スキルで変身する、ダンボールのような箱に入ったネコの状態のこと",
+  },
+  {
+    en: "Cat Grass Cardamom",
+    ja: "ニャルダモン",
+    tags: [ "inazuma" ],
+    notes: "綺良々が元素爆発で生成するネコ型の草元素爆弾のこと",
   },
   {
     en: "Raiden Shogun",

@@ -2461,6 +2461,11 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "Clean and Healthy",
+    ja: "清潔と健康",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "Gold Devouring and Mora Gathering",
     ja: "千金と蓄財",
     zhCN: "吞金和蓄财",

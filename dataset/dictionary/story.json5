@@ -494,6 +494,11 @@
     tags: [ "title", "sumeru" ],
   },
   {
+    en: "Dastur",
+    ja: "ダステア",
+    tags: [ "title", "sumeru" ],
+  },
+  {
     en: "Hermanubis",
     ja: "ヘルマヌビス",
     zhCN: "赫曼努比斯",

@@ -1154,6 +1154,31 @@
     tags: [ "enemy-boss", "liyue" ],
   },
   {
+    en: "Hydro Mimic Boar",
+    ja: "幻形イノシシ・水",
+    tags: [ "enemy", "liyue" ],
+    notes: "純水精霊ローデシアの召喚する、水でできたイノシシ",
+  },
+  {
+    en: "Hydro Mimic Crab",
+    ja: "幻形カニ・水",
+    tags: [ "enemy", "liyue" ],
+    notes: "純水精霊ローデシアの召喚する、水でできたカニ",
+  },
+  {
+    en: "Hydro Mimic Mallard",
+    ja: "幻形アヒル・水",
+    tags: [ "enemy", "liyue" ],
+    notes: "純水精霊ローデシアの召喚する、水でできたアヒル",
+  },
+  {
+    en: "Hydro Mimic Squirrel",
+    ja: "幻形リス・水",
+    tags: [ "enemy", "liyue" ],
+    notes: "純水精霊ローデシアの召喚する、水でできたリス",
+  },
+
+  {
     en: "Thunder Manifestation",
     ja: "雷音権現",
     zhCN: "雷音权现",
