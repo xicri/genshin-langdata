@@ -491,7 +491,12 @@
     en: "Grand Conservator",
     ja: "グランドキュレーター",
     zhCN: "大掌书",
-    tags: [ "sumeru" ],
+    tags: [ "title", "sumeru" ],
+  },
+  {
+    en: "Dastur",
+    ja: "ダステア",
+    tags: [ "title", "sumeru" ],
   },
   {
     en: "Hermanubis",

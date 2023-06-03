@@ -204,6 +204,18 @@
     tags: [ "event" ],
   },
   {
+    en: "Garvipidam",
+    ja: "ガルビビダム",
+    notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」に登場する人物。七聖召喚の開発者の1人",
+    tags: [ "event", "character-sub" ],
+  },
+  {
+    en: "Gulab",
+    ja: "グラーブ",
+    notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」で言及される人物。七聖召喚の開発者の1人",
+    tags: [ "event", "character-sub" ],
+  },
+  {
     en: "A Tour of Wonders",
     ja: "諸景巡行",
     zhCN: "诸景巡礼",
