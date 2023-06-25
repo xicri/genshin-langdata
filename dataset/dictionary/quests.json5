@@ -1954,7 +1954,7 @@
     ja: "不正浮遊",
     zhCN: "非法飘荡",
     pronunciationJa: "ふせいふゆう",
-    tags: [ "quest-daily" ],
+    tags: [ "quest-daily", "inazuma" ],
   },
   {
     en: "Recuperating From a Severe Illness",
