@@ -1409,7 +1409,13 @@
     en: "A Gifted Rose: Prickly as Thorns",
     ja: "或る人への薔薇〜荊のような刺々しさ〜",
     zhCN: "献给某人的蔷薇·如荆棘一般多刺",
-    pronunciationJa: "あるひとへのばら いばらのようなとげとげしさ",
+    pronunciationJa: "あるひとへのばら〜いばらのようなとげとげしさ〜",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "A Gifted Rose: Long Day Ahead",
+    ja: "或る人への薔薇〜長い一日の過ごし方〜",
+    pronunciationJa: "あるひとへのばら〜ながいいちにちのすごしかた〜",
     tags: [ "sumeru", "quest-world" ],
   },
 
@@ -1954,7 +1960,7 @@
     ja: "不正浮遊",
     zhCN: "非法飘荡",
     pronunciationJa: "ふせいふゆう",
-    tags: [ "quest-daily" ],
+    tags: [ "quest-daily", "inazuma" ],
   },
   {
     en: "Recuperating From a Severe Illness",
@@ -2255,6 +2261,12 @@
     ja: "弓術の手本",
     zhCN: "箭术示范",
     pronunciationJa: "きゅうじゅつのてほん",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Ceaseless Training",
+    ja: "止まらぬ鍛錬",
+    pronunciationJa: "とまらぬたんれん",
     tags: [ "inazuma", "quest-daily" ],
   },
   // added on v2.4 ― TODO add location tag if required

@@ -289,6 +289,12 @@
     tags: [ "sumeru", "facility" ],
   },
   {
+    en: "Pharos Lighthouse",
+    ja: "ファロス灯台",
+    pronunciationJa: "ファロスとうだい",
+    tags: [ "sumeru", "facility" ],
+  },
+  {
     en: "Amrita Pool",
     ja: "甘露の池",
     zhCN: "甘露池",

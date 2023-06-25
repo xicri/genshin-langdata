@@ -241,6 +241,12 @@
     tags: [ "mondstadt", "character-main" ],
   },
   {
+    en: "Mr. Honorary Knight",
+    ja: "栄誉騎士のお兄ちゃん",
+    notes: "クレーの空に対する呼び方",
+    tags: [ "mondstadt", "how-to-call" ],
+  },
+  {
     en: "Miss Honorary Knight",
     ja: "栄誉騎士のお姉ちゃん",
     zhCN: "荣誉骑士姐姐",
@@ -1798,11 +1804,6 @@
         ja: "こうもゆっくり登場するとは、海底を散歩していて迷子にでもなったのかと心配したぞ、「深海ウシノシタ」さん。",
         ref: "八重神子, v3.7 期間限定イベント「決闘! 召喚の頂!」",
       },
-      {
-        en: "Yes, Your Excellency!",
-        ja: "はっ、珊瑚宮様!",
-        ref: "ゴロー, 第二章 第三幕 千手百目の浮世",
-      },
     ],
   },
   {
@@ -3306,7 +3307,13 @@
     ja: "シャルロット",
     zhCN: "夏洛蒂",
     tags: [ "fontaine", "character-main" ],
-    notes: "英語の発音は「シャーロット」",
+    notes: "英語の発音は「シャーロット」。タグのプレイアブル・NPC 分類は仮。",
+  },
+  {
+    en: "Melusine",
+    ja: "メリュジーヌ",
+    tags: [ "fontaine", "character-main" ],
+    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Lyney",
