@@ -243,7 +243,9 @@
   {
     en: "Mr. Honorary Knight",
     ja: "栄誉騎士のお兄ちゃん",
+    zhCN: "荣誉骑士哥哥",
     notes: "クレーの空に対する呼び方",
+    notesZh: "可莉对空的称呼",
     tags: [ "mondstadt", "how-to-call" ],
   },
   {
@@ -285,6 +287,7 @@
     examples: [{
       en: "Yeesh, if Jean was listening to this... Klee might find herself grounded for an awful lot longer.",
       ja: "はあ、ジンがこの話を聞いたら…きっと、クレーの反省室で過ごす時間が長くなるだろうな…",
+      zhCN: "唉，要是这段话被琴团长听见了…她的禁闭时间，估计又要加长了吧…",
       ref: "パイモン, 四つ葉の章 第一幕",
     }],
   },
@@ -687,6 +690,7 @@
     examples: [{
       en: "I will now be reading Grand Master Varka's letter aloud for you all.",
       ja: "ファルカ大団長からの手紙を読ませていただきます。",
+      zhCN: "下面由我代为朗读法尔伽大团长的来信。",
       ref: "ミカ, Ver3.1 公式 PV 「赤砂の王と三人の巡礼者」",
       refURL: "https://www.youtube.com/watch?v=owxvZ9-0JE0&t=221s",
     }],
@@ -899,6 +903,7 @@
   {
     en: "Jade Shield",
     ja: "玉璋シールド",
+    zhCN: "玉璋护盾",
     pronunciationJa: "ぎょくしょうシールド",
     notes: "鍾離の元素スキルで生成されるシールド",
     tags: [ "liyue" ],
@@ -957,6 +962,7 @@
     examples: [{
       en: "The blood of the qilin, an illuminated beast, flows within her veins.",
       ja: "その身には仙獣「麒麟」の血が流れている。",
+      zhCN: "体内流淌着仙兽「麒麟」的血脉。",
       ref: "v2.4「流るる星霜、華咲きて」特設ページ ― 甘雨の紹介文",
       refURL: "https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/",
     }],
@@ -1795,6 +1801,7 @@
   {
     en: "Sole of the Deep",
     ja: "深海ウシノシタ",
+    zhCN: "深海舌鲆鱼",
     pronunciationJa: "しんかいウシノシタ",
     tags: [ "inazuma", "title" ],
     notes: "珊瑚宮心海のハンドルネーム (?)",
@@ -1802,6 +1809,7 @@
       {
         en: "You took your time. I was starting to wonder if you got lost walking on the seabed, Miss \"Sole of the Deep.\"",
         ja: "こうもゆっくり登場するとは、海底を散歩していて迷子にでもなったのかと心配したぞ、「深海ウシノシタ」さん。",
+        zhCN: "这么晚才到，我还以为是在海底散步迷路了呢，「深海舌鲆鱼」小姐。",
         ref: "八重神子, v3.7 期間限定イベント「決闘! 召喚の頂!」",
       },
     ],
@@ -1817,11 +1825,13 @@
       {
         en: "The fact we're even able to hold out is thanks to the brilliant strategic mind of Her Excellency, Sangonomiya. We're also indebted to the great courage shown by General Gorou and the resistance troops.",
         ja: "今こうしてなんとか保っているのは、 珊瑚宮様が立てた数々の妙計奇策、それとゴロー様と抵抗軍兵士たちによる奮闘のおかげさ。",
+        zhCN: "目前还能顶住压力，一方面是靠珊瑚宫大人的各种奇谋妙计，另一方面是靠五郎大人与反抗军战士们的英勇奋战。",
         ref: "哲平, 第二章 第二幕 無念無想、抱影を滅す",
       },
       {
         en: "Yes, Your Excellency!",
         ja: "はっ、珊瑚宮様!",
+        zhCN: "是，珊瑚宫大人！",
         ref: "ゴロー, 第二章 第三幕 千手百目の浮世",
       },
     ],
@@ -1861,6 +1871,7 @@
   {
     en: "Urgent Neko Parcel",
     ja: "ネコ箱急便",
+    zhCN: "猫箱急件",
     pronunciationJa: "ネコそうきゅうびん",
     tags: [ "inazuma" ],
     notes: "綺良々が元素スキルで変身する、ダンボールのような箱に入ったネコの状態のこと",
@@ -1868,6 +1879,7 @@
   {
     en: "Cat Grass Cardamom",
     ja: "ニャルダモン",
+    zhCN: "猫草豆蔻",
     tags: [ "inazuma" ],
     notes: "綺良々が元素爆発で生成するネコ型の草元素爆弾のこと",
   },
@@ -3312,6 +3324,8 @@
   {
     en: "Melusine",
     ja: "メリュジーヌ",
+    zhCN: "美露莘",
+    pinyins: [{ char: "莘", pron: "xin3" }],
     tags: [ "fontaine", "character-main" ],
     notes: "タグのプレイアブル・NPC 分類は仮",
   },
@@ -3472,6 +3486,7 @@
     examples: [{
       en: "Her name is Signora, No. 8 of the harbingers.",
       ja: "彼女は 『シニョーラ』 ― ファデュイ十一人の執行官の第8位、コードネーム『淑女』 だよ。",
+      zhCN: "她是「女士」——愚人众十一执行官的第八席，代号「女士」。",
       ref: "ウェンティ, 序章 第三幕 龍と自由の歌",
     }],
   },

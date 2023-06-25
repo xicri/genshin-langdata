@@ -1415,6 +1415,7 @@
   {
     en: "A Gifted Rose: Long Day Ahead",
     ja: "或る人への薔薇〜長い一日の過ごし方〜",
+    zhCN: "献给某人的蔷薇·度过长日的方式",
     pronunciationJa: "あるひとへのばら〜ながいいちにちのすごしかた〜",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -2265,7 +2266,8 @@
   },
   {
     en: "Ceaseless Training",
-    ja: "止まらぬ鍛錬",
+    ja: "止まらぬ鍛練",
+    zhCN: "永不停歇的修炼",
     pronunciationJa: "とまらぬたんれん",
     tags: [ "inazuma", "quest-daily" ],
   },
@@ -2475,6 +2477,7 @@
   {
     en: "Clean and Healthy",
     ja: "清潔と健康",
+    zhCN: "洁净与健康",
     tags: [ "quest-daily", "sumeru" ],
   },
   {

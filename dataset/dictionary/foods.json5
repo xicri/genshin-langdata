@@ -1390,6 +1390,7 @@
   {
     en: "Duel Soul",
     ja: "決闘の魂",
+    zhCN: "决斗之魂",
     pronunciationJa: "けっとうのたましい",
     tags: [ "food", "sumeru" ],
     notes: "セノのオリジナル料理",
@@ -1628,6 +1629,7 @@
   {
     en: "Glabrous Beans",
     ja: "ツルツル豆",
+    zhCN: "秃秃豆",
     pronunciationJa: "ツルツルまめ",
     tags: [ "food", "sumeru" ],
   },

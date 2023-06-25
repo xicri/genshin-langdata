@@ -291,6 +291,7 @@
   {
     en: "Pharos Lighthouse",
     ja: "ファロス灯台",
+    zhCN: "法逻斯灯塔",
     pronunciationJa: "ファロスとうだい",
     tags: [ "sumeru", "facility" ],
   },

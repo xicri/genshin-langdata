@@ -580,10 +580,12 @@
       {
         en: "You do not have enough clearance",
         ja: "必要な「権能」が足りないようです",
+        zhCN: "似乎未持有足够的「权能」",
       },
       {
         en: "Increase Clearance Level",
         ja: "権能ランクアップ",
+        zhCN: "权能升阶",
         ref: "ゲーム内チュートリアル",
       },
     ],

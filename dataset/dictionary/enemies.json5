@@ -1156,24 +1156,28 @@
   {
     en: "Hydro Mimic Boar",
     ja: "幻形イノシシ・水",
+    zhCN: "幻形豕兽·水",
     tags: [ "enemy", "liyue" ],
     notes: "純水精霊ローデシアの召喚する、水でできたイノシシ",
   },
   {
     en: "Hydro Mimic Crab",
     ja: "幻形カニ・水",
+    zhCN: "幻形蟹·水",
     tags: [ "enemy", "liyue" ],
     notes: "純水精霊ローデシアの召喚する、水でできたカニ",
   },
   {
     en: "Hydro Mimic Mallard",
     ja: "幻形アヒル・水",
+    zhCN: "幻形游禽·水",
     tags: [ "enemy", "liyue" ],
     notes: "純水精霊ローデシアの召喚する、水でできたアヒル",
   },
   {
     en: "Hydro Mimic Squirrel",
     ja: "幻形リス・水",
+    zhCN: "幻形花鼠·水",
     tags: [ "enemy", "liyue" ],
     notes: "純水精霊ローデシアの召喚する、水でできたリス",
   },
