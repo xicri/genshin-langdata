@@ -241,6 +241,12 @@
     tags: [ "mondstadt", "character-main" ],
   },
   {
+    en: "Mr. Honorary Knight",
+    ja: "栄誉騎士のお兄ちゃん",
+    notes: "クレーの空に対する呼び方",
+    tags: [ "mondstadt", "how-to-call" ],
+  },
+  {
     en: "Miss Honorary Knight",
     ja: "栄誉騎士のお姉ちゃん",
     zhCN: "荣誉骑士姐姐",
@@ -3302,6 +3308,12 @@
     zhCN: "夏洛蒂",
     tags: [ "fontaine", "character-main" ],
     notes: "英語の発音は「シャーロット」。タグのプレイアブル・NPC 分類は仮。",
+  },
+  {
+    en: "Melusine",
+    ja: "メリュジーヌ",
+    tags: [ "fontaine", "character-main" ],
+    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Lyney",

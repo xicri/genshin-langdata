@@ -186,6 +186,133 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v3.8
+  {
+    en: "Secret Summer Paradise",
+    ja: "涼夏! 楽園? 大秘境!",
+    pronunciationJa: "りょうか! らくえん? だいひきょう!",
+    notes: "v3.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Veluriyam Mirage",
+    ja: "ヴェルーリヤ・ミラージュ",
+    notes: "v3.8 期間限定マップ",
+    tags: [ "event", "location" ],
+  },
+  {
+    en: "Choo-Choo Cart",
+    ja: "びゅんびゅん爆速車",
+    pronunciationJa: "びゅんびゅんばくそくしゃ",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で乗ることができる乗り物",
+    tags: [ "event" ],
+  },
+  {
+    en: "Preprint",
+    ja: "先成図",
+    pronunciationJa: "せんせいず",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で登場するギミックの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Streaming Projector",
+    ja: "集流映写灯",
+    pronunciationJa: "しゅうりゅうえいしゃとう",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で登場する、先成図を映しているオブジェクト",
+    tags: [ "event", "object" ],
+  },
+  {
+    en: "Joyeux Voucher",
+    ja: "ハッピークーポン",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションで貰えるアイテム。英語名の Joyeux はフランス語で「嬉しい」「楽しい」などの意。発音は「ジョワイユ」(参考: [東京外国語大学言語モジュール](http://www.coelang.tufs.ac.jp/mt/fr/vmod/v_search_detail.php?id=1927))",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Spino Blaster",
+    ja: "スプラッシュ・ハイドロバトル",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
+    tags: [ "event" ],
+  },
+  // TODO Kanji in Japanese is unknown
+  // {
+  //   en: "The Crocomorph Vortex-Based Crocodilian-Armored Heavy Naval Battleship-Style Recreational Water Blasting Cannon",
+  //   ja: "ワニ型サイクロン仕様ワニアーマー対海戦じゅうかん方式アミューズメント用ハイドロキャノン",
+  //   pronunciationJa: "ワニがたサイクロンしようワニアーマーたいかいせんじゅうかんほうしきアミューズメントようハイドロキャノン",
+  //   notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具。ウォーターキャノンの正式名称",
+  //   tags: [ "event", "object" ],
+  // },
+  {
+    en: "water cannon",
+    ja: "ウォーターキャノン",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具",
+    tags: [ "event", "object" ],
+  },
+  {
+    en: "Ordinormie Ball",
+    ja: "平々凡々ボール",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で、ウォーターキャノンで打ち落とすボールの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Brouhaha Ball",
+    ja: "暴れん坊ボール",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で、ウォーターキャノンで打ち落とすボールの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Sojourns of the Barking Fox",
+    ja: "ヒャッホーギツネ巡空記",
+    pronunciationJa: "ヒャッホーギツネじゅんくうき",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Dance of Flashing Thought",
+    ja: "幽思閃念の旋舞",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Bing-Bang Finchball",
+    ja: "カラコロ! チュンボール",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Perilous Expedition",
+    ja: "険しき探索の道",
+    pronunciationJa: "けわしきたんさくのみち",
+    notes: "v3.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Shared Sight",
+    ja: "アニマルビジョン",
+    notes: "v3.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Inscribed Mirror",
+    ja: "すりこみの鏡",
+    pronunciationJa: "すりこみのかがみ",
+    notes: "v3.8 期間限定イベント「アニマルビジョン」で使用するアイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Adventurer's Trials: Advanced",
+    ja: "冒険者試練・上級編",
+    pronunciationJa: "ぼうけんしゃしれん・じょうきゅうへん",
+    notes: "v3.8 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "The Forge Realm's Temper: Endless Swarm",
+    ja: "鋳境の研鑽・無限疾戦",
+    pronunciationJa: "ちゅうきょうのけんさん・むげんしっせん",
+    notes: "v3.8 期間限定の七聖召喚イベント",
+    tags: [ "event" ],
+  },
+
   // v3.7
   {
     en: "Duel! The Summoners' Summit!",

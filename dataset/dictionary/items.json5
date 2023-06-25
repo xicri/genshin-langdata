@@ -1314,4 +1314,15 @@
     pronunciationJa: "はにかくれしほうめい",
     notes: "リサのコスチューム",
   },
+  {
+    en: "Blossoming Starlight",
+    ja: "星燭に揺れる爛花",
+    notes: "クレーのコスチューム",
+  },
+  {
+    en: "Sailwind Shadow",
+    ja: "帆影に戯る風",
+    pronunciationJa: "ほかげにたわむるかぜ", // TODO Need Check
+    notes: "ガイアのコスチューム",
+  },
 ]

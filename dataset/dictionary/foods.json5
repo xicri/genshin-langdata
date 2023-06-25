@@ -1388,6 +1388,13 @@
     notes: "コレイのオリジナル料理",
   },
   {
+    en: "Duel Soul",
+    ja: "決闘の魂",
+    pronunciationJa: "けっとうのたましい",
+    tags: [ "food", "sumeru" ],
+    notes: "セノのオリジナル料理",
+  },
+  {
     en: "Swirling Steps",
     ja: "ひらめく踊り",
     zhCN: "婆娑一舞",
