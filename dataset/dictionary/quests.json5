@@ -2268,6 +2268,9 @@
     en: "Ceaseless Training",
     ja: "止まらぬ鍛練",
     zhCN: "永不停歇的修炼",
+    variants: {
+      ja: [ "止まらぬ鍛錬" ],
+    },
     pronunciationJa: "とまらぬたんれん",
     tags: [ "inazuma", "quest-daily" ],
   },
