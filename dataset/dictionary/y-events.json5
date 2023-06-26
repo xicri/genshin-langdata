@@ -249,9 +249,9 @@
   //   tags: [ "event", "object" ],
   // },
   {
-    en: "Water Cannon",
+    en: "water cannon",
     ja: "ウォーターキャノン",
-    // zhCN: "水炮",
+    zhCN: "水炮",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具",
     tags: [ "event", "object" ],
   },
