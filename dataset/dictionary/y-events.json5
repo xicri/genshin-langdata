@@ -190,6 +190,7 @@
   {
     en: "Secret Summer Paradise",
     ja: "涼夏! 楽園? 大秘境!",
+    zhCN: "清夏！乐园？大秘境！",
     pronunciationJa: "りょうか! らくえん? だいひきょう!",
     notes: "v3.8 期間限定イベント",
     tags: [ "event" ],
@@ -197,12 +198,14 @@
   {
     en: "Veluriyam Mirage",
     ja: "ヴェルーリヤ・ミラージュ",
+    zhCN: "琉形蜃境",
     notes: "v3.8 期間限定マップ",
     tags: [ "event", "location" ],
   },
   {
     en: "Choo-Choo Cart",
     ja: "びゅんびゅん爆速車",
+    zhCN: "呼呼飞车",
     pronunciationJa: "びゅんびゅんばくそくしゃ",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で乗ることができる乗り物",
     tags: [ "event" ],
@@ -210,6 +213,7 @@
   {
     en: "Preprint",
     ja: "先成図",
+    zhCN: "先成图",
     pronunciationJa: "せんせいず",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で登場するギミックの1つ",
     tags: [ "event" ],
@@ -217,6 +221,7 @@
   {
     en: "Streaming Projector",
     ja: "集流映写灯",
+    zhCN: "聚流映灯",
     pronunciationJa: "しゅうりゅうえいしゃとう",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で登場する、先成図を映しているオブジェクト",
     tags: [ "event", "object" ],
@@ -224,12 +229,14 @@
   {
     en: "Joyeux Voucher",
     ja: "ハッピークーポン",
+    zhCN: "欢兴礼券",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションで貰えるアイテム。英語名の Joyeux はフランス語で「嬉しい」「楽しい」などの意。発音は「ジョワイユ」(参考: [東京外国語大学言語モジュール](http://www.coelang.tufs.ac.jp/mt/fr/vmod/v_search_detail.php?id=1927))",
     tags: [ "event", "item" ],
   },
   {
     en: "Spino Blaster",
     ja: "スプラッシュ・ハイドロバトル",
+    zhCN: "飞迸湍流大作战",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
     tags: [ "event" ],
   },
@@ -244,24 +251,28 @@
   {
     en: "water cannon",
     ja: "ウォーターキャノン",
+    zhCN: "水炮",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具",
     tags: [ "event", "object" ],
   },
   {
     en: "Ordinormie Ball",
     ja: "平々凡々ボール",
+    zhCN: "普普通通球",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で、ウォーターキャノンで打ち落とすボールの1つ",
     tags: [ "event" ],
   },
   {
     en: "Brouhaha Ball",
     ja: "暴れん坊ボール",
+    zhCN: "四处捣乱球",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で、ウォーターキャノンで打ち落とすボールの1つ",
     tags: [ "event" ],
   },
   {
     en: "Sojourns of the Barking Fox",
     ja: "ヒャッホーギツネ巡空記",
+    zhCN: "吼吼小狐巡天记",
     pronunciationJa: "ヒャッホーギツネじゅんくうき",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
     tags: [ "event" ],
@@ -269,18 +280,21 @@
   {
     en: "Dance of Flashing Thought",
     ja: "幽思閃念の旋舞",
+    zhCN: "幽思闪念旋步舞",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
     tags: [ "event" ],
   },
   {
     en: "Bing-Bang Finchball",
     ja: "カラコロ! チュンボール",
+    zhCN: "哐哐当当雀雀球",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
     tags: [ "event" ],
   },
   {
     en: "Perilous Expedition",
     ja: "険しき探索の道",
+    zhCN: "险途勘探",
     pronunciationJa: "けわしきたんさくのみち",
     notes: "v3.8 期間限定イベント",
     tags: [ "event" ],
@@ -288,12 +302,14 @@
   {
     en: "Shared Sight",
     ja: "アニマルビジョン",
+    zhCN: "传心同视",
     notes: "v3.8 期間限定イベント",
     tags: [ "event" ],
   },
   {
     en: "Inscribed Mirror",
     ja: "すりこみの鏡",
+    zhCN: "铭随流镜",
     pronunciationJa: "すりこみのかがみ",
     notes: "v3.8 期間限定イベント「アニマルビジョン」で使用するアイテム",
     tags: [ "event", "item" ],
@@ -301,6 +317,7 @@
   {
     en: "Adventurer's Trials: Advanced",
     ja: "冒険者試練・上級編",
+    zhCN: "冒险家试炼·进阶篇",
     pronunciationJa: "ぼうけんしゃしれん・じょうきゅうへん",
     notes: "v3.8 期間限定イベント",
     tags: [ "event" ],
@@ -308,6 +325,7 @@
   {
     en: "The Forge Realm's Temper: Endless Swarm",
     ja: "鋳境の研鑽・無限疾戦",
+    zhCN: "铸境研炼·无量疾战",
     pronunciationJa: "ちゅうきょうのけんさん・むげんしっせん",
     notes: "v3.8 期間限定の七聖召喚イベント",
     tags: [ "event" ],
@@ -333,12 +351,15 @@
   {
     en: "Garvipidam",
     ja: "ガルビビダム",
+    zhCN: "伽吠毗陀",
+    pinyins: [{ char: "毗", pron: "pi2" }],
     notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」に登場する人物。七聖召喚の開発者の1人",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Gulab",
     ja: "グラーブ",
+    zhCN: "古拉卜",
     notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」で言及される人物。七聖召喚の開発者の1人",
     tags: [ "event", "character-sub" ],
   },

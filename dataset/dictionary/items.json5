@@ -1317,11 +1317,13 @@
   {
     en: "Blossoming Starlight",
     ja: "星燭に揺れる爛花",
+    zhCN: "琪花星烛",
     notes: "クレーのコスチューム",
   },
   {
     en: "Sailwind Shadow",
     ja: "帆影に戯る風",
+    zhCN: "帆影游风",
     pronunciationJa: "ほかげにたわむるかぜ", // TODO Need Check
     notes: "ガイアのコスチューム",
   },

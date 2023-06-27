@@ -38,6 +38,7 @@
     examples: [{
       en: "Inazumans are definitely more particular about etiquette than Mondstadters!",
       ja: "モンド人よりも、稲妻人の方が礼儀に対して気を配っている。",
+      zhCN: "比起蒙德人，稻妻人更加在意礼节。",
       ref: "トーマ, キャラクター実戦紹介 トーマ「烈炎の守護」",
       refURL: "https://www.youtube.com/watch?v=HPoeE5PRWTw&t=15s",
     }],
@@ -696,6 +697,7 @@
       {
         en: "Inazumans are definitely more particular about etiquette than Mondstadters!",
         ja: "モンド人よりも、稲妻人の方が礼儀に対して気を配っている。",
+        zhCN: "比起蒙德人，稻妻人更加在意礼节。",
         ref: "トーマ, キャラクター実戦紹介 トーマ「烈炎の守護」",
         refURL: "https://www.youtube.com/watch?v=HPoeE5PRWTw&t=15s",
       },
