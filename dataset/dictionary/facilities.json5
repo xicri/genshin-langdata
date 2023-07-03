@@ -304,6 +304,18 @@
   },
 
   //
+  // Fontaine
+  //
+  {
+    en: "Opera Epiclese",
+    ja: "エピクレシス歌劇場",
+    pronunciationJa: "エピクレシスかげきじょう",
+    tags: [ "fontaine", "facility" ],
+    notes: "Epiclese は恐らくフランス語の Épiclèse が原義で、これは英語に訳すと Epiclesis となる。キリスト教において、ミサなど儀式での祈りを意味する言葉。参考: [Wikipedia ― エピクレーシス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%B9)",
+  },
+
+
+  //
   // Snezhnaya & Fatui
   //
 
