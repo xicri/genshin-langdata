@@ -255,4 +255,11 @@
     zhCN: "万相石",
     tags: [ "specialty", "sumeru" ],
   },
+  // Fontaine
+  {
+    en: "Romaritime Flower",
+    ja: "ロマリタイムフラワー",
+    tags: [ "specialty", "fontaine" ], // TODO need check if this is an object
+    notes: "※タグは仮で、特産品か否かは未確認",
+  },
 ]
