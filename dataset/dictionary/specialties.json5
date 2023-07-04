@@ -259,6 +259,7 @@
   {
     en: "Romaritime Flower",
     ja: "ロマリタイムフラワー",
+    zhCN: "海露花",
     tags: [ "specialty", "fontaine" ], // TODO need check if this is an object
     notes: "※タグは仮で、特産品か否かは未確認",
   },
