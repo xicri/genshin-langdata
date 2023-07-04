@@ -205,12 +205,14 @@
   {
     en: "Water Droplet",
     ja: "シズクちゃん",
+    zhCN: "小水珠",
     notes: "v3.8 期間限定マップ ヴェルーリヤ・ミラージュに登場する生物「水形幻霊」の通称",
     tags: [ "event", "living-being" ],
   },
   {
     en: "Hydro Eidolon",
     ja: "水形幻霊",
+    zhCN: "水形幻灵",
     notes: "v3.8 期間限定マップ ヴェルーリヤ・ミラージュに登場する生物「シズクちゃん」の正式名称",
     tags: [ "event", "living-being" ],
   },
@@ -225,6 +227,7 @@
   {
     en: "Jubilant Wave",
     ja: "歓呼激流",
+    zhCN: "欢呼激流",
     pronunciationJa: "かんこげきりゅう", // TODO Need Check
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で、びゅんびゅん爆速車に搭載された武装",
     tags: [ "event" ],
@@ -248,6 +251,7 @@
   {
     en: "Gleaming Lamp",
     ja: "キラキラランプ",
+    zhCN: "光斓彩镜",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で登場するギミックの1つ",
     tags: [ "event" ],
   },
