@@ -269,14 +269,13 @@
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
     tags: [ "event" ],
   },
-  // TODO Kanji in Japanese is unknown
-  // {
-  //   en: "The Crocomorph Vortex-Based Crocodilian-Armored Heavy Naval Battleship-Style Recreational Water Blasting Cannon",
-  //   ja: "ワニ型サイクロン仕様ワニアーマー対海戦じゅうかん方式アミューズメント用ハイドロキャノン",
-  //   pronunciationJa: "ワニがたサイクロンしようワニアーマーたいかいせんじゅうかんほうしきアミューズメントようハイドロキャノン",
-  //   notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具。ウォーターキャノンの正式名称",
-  //   tags: [ "event", "object" ],
-  // },
+  {
+    en: "Crocomorph Vortex-Based Crocodilian-Armored Heavy Naval Battleship-Style Recreational Water Blasting Cannon",
+    ja: "ワニ型サイクロン仕様ワニアーマー対海戦重艦砲式アミューズメント用ハイドロキャノン",
+    pronunciationJa: "ワニがたサイクロンしようワニアーマーたいかいせんじゅうかんほうしきアミューズメントようハイドロキャノン",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具。ウォーターキャノンの正式名称",
+    tags: [ "event", "object" ],
+  },
   {
     en: "water cannon",
     ja: "ウォーターキャノン",
