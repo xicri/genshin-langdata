@@ -1443,6 +1443,13 @@
     tags: [ "food", "sumeru" ],
     notes: "キャンディスのオリジナル料理",
   },
+  {
+    en: "The Endeavor",
+    ja: "丹精込めた一作",
+    pronunciationJa: "たんせいこめたいっさく",
+    tags: [ "food", "sumeru" ],
+    notes: "カーヴェのオリジナル料理",
+  },
 
   //
   // Ingredients (食材)
@@ -1632,6 +1639,12 @@
     zhCN: "秃秃豆",
     pronunciationJa: "ツルツルまめ",
     tags: [ "food", "sumeru" ],
+  },
+  {
+    en: "Coffee Beans",
+    ja: "コーヒー豆",
+    pronunciationJa: "コーヒーまめ",
+    tags: [ "food" ],
   },
   {
     en: "Ajilenakh Nut",

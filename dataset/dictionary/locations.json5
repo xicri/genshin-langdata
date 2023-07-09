@@ -1794,6 +1794,16 @@
     tags: [ "fontaine", "location" ],
   },
   {
+    en: "Fontainian",
+    ja: "フォンテーヌ人 / フォンテーヌの",
+    tags: [ "fontaine" ],
+    examples: [{
+      en: "Recollections of a Fontainian",
+      ja: "とあるフォンテーヌ人の思い出",
+      ref: "世界任務「とあるフォンテーヌ人の思い出」",
+    }],
+  },
+  {
     en: "Court of Fontaine",
     ja: "フォンテーヌ廷",
     zhCN: "枫丹廷",
