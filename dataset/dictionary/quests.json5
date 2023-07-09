@@ -1455,6 +1455,19 @@
     tags: [ "sumeru", "quest-world" ],
   },
 
+  {
+    en: "Purbiruni's Commandment",
+    ja: "プルビルニの戒め",
+    pronunciationJa: "プルビルニのいましめ",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Recollections of a Fontainian",
+    ja: "とあるフォンテーヌ人の思い出",
+    pronunciationJa: "とあるフォンテーヌじんのおもいで",
+    tags: [ "sumeru", "quest-world" ],
+  },
+
   //
   // World Quests - Random Quests
   //
@@ -2026,6 +2039,12 @@
     tags: [ "quest-daily", "liyue" ],
   },
   {
+    en: "Pirate Invasion, in Liyue Harbor!",
+    ja: "璃月港に海賊あり!",
+    pronunciationJa: "リーユェこうにかいぞくあり!",
+    tags: [ "quest-daily", "liyue" ],
+  },
+  {
     en: "Guest from Afar",
     ja: "遠くから来た客",
     zhCN: "客从远方来",
@@ -2172,6 +2191,12 @@
     ja: "万端珊瑚事件簿・迷惑行動",
     zhCN: "万端珊瑚事件簿·迷惑行动",
     pronunciationJa: "ばんたんさんごじけんぼ・めいわくこうどう",
+    tags: [ "inazuma", "quest-daily" ],
+  },
+  {
+    en: "Bantan Sango Case File: Case-Closing Time",
+    ja: "万端珊瑚事件簿・事件解決の時",
+    pronunciationJa: "ばんたんさんごじけんぼ・じけんかいけつのとき",
     tags: [ "inazuma", "quest-daily" ],
   },
   {

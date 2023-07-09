@@ -2340,6 +2340,12 @@
     tags: [ "sumeru", "title" ],
   },
   {
+    en: "Master Tighnari",
+    ja: "ティナリ師匠",
+    notes: "コレイのティナリに対する呼び方",
+    tags: [ "sumeru", "how-to-call" ],
+  },
+  {
     en: "Collei",
     ja: "コレイ",
     zhCN: "柯莱",
