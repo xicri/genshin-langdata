@@ -289,7 +289,7 @@
     zhCN: "核心轮縠", // 易错字: 轮縠 非 轮毂
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で修理する装置",
     tags: [ "event", "object" ],
-    pinyins: [{ char: "毂", pron: "hu2" }],
+    pinyins: [{ char: "縠", pron: "hu2" }],
   },
   {
     en: "Choo-Choo Cart",
