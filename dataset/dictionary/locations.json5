@@ -1796,10 +1796,12 @@
   {
     en: "Fontainian",
     ja: "フォンテーヌ人 / フォンテーヌの",
+    zhCN: "枫丹人 / 枫丹的",
     tags: [ "fontaine" ],
     examples: [{
       en: "Recollections of a Fontainian",
       ja: "とあるフォンテーヌ人の思い出",
+      zhCN: "一个枫丹人的回忆",
       ref: "世界任務「とあるフォンテーヌ人の思い出」",
     }],
   },

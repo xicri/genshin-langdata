@@ -205,6 +205,7 @@
   {
     en: "Silver Bottle Courtyard",
     ja: "銀瓶の庭",
+    zhCN: "银瓶庭院",
     pronunciationJa: "ぎんびんのにわ",
     notes: "v3.8 期間限定マップ「ヴェルーリヤ・ミラージュ」の中央エリア",
     tags: [ "event", "location" ],
@@ -212,6 +213,7 @@
   {
     en: "Overgrown Valley",
     ja: "蔓生の渓谷",
+    zhCN: "蔓生溪谷",
     pronunciationJa: "まんせいのけいこく",
     notes: "v3.8 期間限定マップ「ヴェルーリヤ・ミラージュ」の南西に位置する、びゅんびゅん爆速車のレールが多く敷かれているエリア",
     tags: [ "event", "location" ],
@@ -219,6 +221,7 @@
   {
     en: "Pavilion of Hermits",
     ja: "隠者の遊園",
+    zhCN: "隐众游园",
     pronunciationJa: "いんじゃのゆうえん",
     notes: "v3.8 期間限定マップ「ヴェルーリヤ・ミラージュ」の北東に位置する、遊園地エリア",
     tags: [ "event", "location" ],
@@ -226,6 +229,7 @@
   {
     en: "Thinkers' Theater",
     ja: "祈者の劇場",
+    zhCN: "寄想者剧场",
     pronunciationJa: "きしゃのげきじょう",
     notes: "v3.8 期間限定マップ「ヴェルーリヤ・ミラージュ」の東に位置する、劇場のあるエリア",
     tags: [ "event", "location" ],
@@ -233,30 +237,35 @@
   {
     en: "Idyia",
     ja: "イディア",
+    zhCN: "伊迪娅",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」に登場する人物",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Lessig Lawrence",
     ja: "レッシグ・ローレンス",
+    zhCN: "莱斯格·劳伦斯",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」に登場する人物。エウルアの従兄弟。元ネタは米国の情報法学者 [ローレンス・レッシグ](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%AC%E3%83%83%E3%82%B7%E3%82%B0)?",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Ferdinand",
     ja: "フェルディナンド",
+    zhCN: "费迪南德",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」に登場する3兄弟のうちの1人",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Jeroney",
     ja: "ジェローニ",
+    zhCN: "杰洛尼",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」に登場する3兄弟のうちの1人",
     tags: [ "event", "character-sub" ],
   },
   {
     en: "Haddo",
     ja: "ハッド",
+    zhCN: "哈多",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」に登場する3兄弟のうちの1人",
     tags: [ "event", "character-sub" ],
   },
@@ -277,8 +286,13 @@
   {
     en: "Central Hub",
     ja: "コアホイール",
+    zhCN: "核心轮縠", // 易错字: 轮縠 非 轮毂
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で修理する装置",
     tags: [ "event", "object" ],
+    pinyins: [{ char: "縠", pron: "hu2" }],
+    variants: {
+      zhCN: [ "核心轮毂" ],
+    },
   },
   {
     en: "Choo-Choo Cart",
@@ -329,12 +343,14 @@
   {
     en: "Flowing Joyspar",
     ja: "喜悦晶石",
+    zhCN: "流悦晶石",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で貰える、近くにあるハッピークーポンの位置を探すことができるアイテム",
     tags: [ "event", "item" ],
   },
   {
     en: "Felicitous Joyspar",
     ja: "満悦晶石",
+    zhCN: "酣悦晶石",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で貰える、全てのハッピークーポンの位置を探すことができるアイテム",
     tags: [ "event", "item" ],
   },
@@ -348,6 +364,7 @@
   {
     en: "Crocomorph Vortex-Based Crocodilian-Armored Heavy Naval Battleship-Style Recreational Water Blasting Cannon",
     ja: "ワニ型サイクロン仕様ワニアーマー対海戦重艦砲式アミューズメント用ハイドロキャノン",
+    zhCN: "鳄型涡流聚引原理鳄式外甲海战用重型舰炮式娱乐水球发射炮",
     pronunciationJa: "ワニがたサイクロンしようワニアーマーたいかいせんじゅうかんほうしきアミューズメントようハイドロキャノン",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具。ウォーターキャノンの正式名称",
     tags: [ "event", "object" ],
@@ -362,6 +379,7 @@
   {
     en: "Crococannon",
     ja: "ワニワニバンバンキャノン",
+    zhCN: "鳄鳄炮炮",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクション「スプラッシュ・ハイドロバトル」で用いる遊具。ウォーターキャノンに対してパイモンが付けた名前",
     tags: [ "event", "object" ],
   },

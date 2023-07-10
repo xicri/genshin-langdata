@@ -1458,12 +1458,14 @@
   {
     en: "Purbiruni's Commandment",
     ja: "プルビルニの戒め",
+    zhCN: "普尔比鲁尼之诫",
     pronunciationJa: "プルビルニのいましめ",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Recollections of a Fontainian",
     ja: "とあるフォンテーヌ人の思い出",
+    zhCN: "一个枫丹人的回忆",
     pronunciationJa: "とあるフォンテーヌじんのおもいで",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -2041,6 +2043,7 @@
   {
     en: "Pirate Invasion, in Liyue Harbor!",
     ja: "璃月港に海賊あり!",
+    zhCN: "璃月港，有海盗！",
     pronunciationJa: "リーユェこうにかいぞくあり!",
     tags: [ "quest-daily", "liyue" ],
   },
@@ -2196,6 +2199,7 @@
   {
     en: "Bantan Sango Case File: Case-Closing Time",
     ja: "万端珊瑚事件簿・事件解決の時",
+    zhCN: "万端珊瑚事件簿·结案时刻",
     pronunciationJa: "ばんたんさんごじけんぼ・じけんかいけつのとき",
     tags: [ "inazuma", "quest-daily" ],
   },
