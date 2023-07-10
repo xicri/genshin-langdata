@@ -1446,6 +1446,7 @@
   {
     en: "The Endeavor",
     ja: "丹精込めた一作",
+    zhCN: "悉心一作",
     pronunciationJa: "たんせいこめたいっさく",
     tags: [ "food", "sumeru" ],
     notes: "カーヴェのオリジナル料理",
@@ -1643,6 +1644,7 @@
   {
     en: "Coffee Beans",
     ja: "コーヒー豆",
+    zhCN: "咖啡豆",
     pronunciationJa: "コーヒーまめ",
     tags: [ "food" ],
   },

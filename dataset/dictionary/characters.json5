@@ -2342,6 +2342,7 @@
   {
     en: "Master Tighnari",
     ja: "ティナリ師匠",
+    zhCN: "提纳里师父",
     notes: "コレイのティナリに対する呼び方",
     tags: [ "sumeru", "how-to-call" ],
   },
