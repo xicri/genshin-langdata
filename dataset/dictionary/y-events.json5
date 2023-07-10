@@ -290,6 +290,9 @@
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で修理する装置",
     tags: [ "event", "object" ],
     pinyins: [{ char: "縠", pron: "hu2" }],
+    variants: {
+      zhCN: [ "核心轮毂" ],
+    },
   },
   {
     en: "Choo-Choo Cart",
