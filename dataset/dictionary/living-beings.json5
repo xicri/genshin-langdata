@@ -348,4 +348,18 @@
     tags: [ "living-being", "sumeru" ],
     pinyins: [{ char: "玳", pron: "dai4" }],
   },
+
+  //
+  // Fontaine
+  //
+  {
+    en: "Oceanid / Lochfolk",
+    ja: "純水精霊",
+    zhCN: "纯水精灵",
+    pronunciationJa: "じゅんすいせいれい",
+    variants: {
+      ja: [ "純粋精霊" ],
+    },
+    tags: [ "fontaine", "living-being" ],
+  },
 ]

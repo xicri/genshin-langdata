@@ -561,6 +561,12 @@
     pronunciationJa: "ぎょうえいそう",
     tags: [ "liyue", "location" ],
   },
+  {
+    en: "Chenyu Vale",
+    ja: "沈玉の谷",
+    pronunciationJa: "ちんぎょくのたに", // TODO Need Check
+    tags: [ "liyue", "location" ],
+  },
 
   {
     en: "The Chasm",
@@ -1769,6 +1775,13 @@
   },
 
   {
+    en: "Bayda Harbor",
+    ja: "バイダ港",
+    pronunciationJa: "バイダこう",
+    tags: [ "sumeru", "location" ],
+  },
+
+  {
     en: "Dahri",
     ja: "ダーリ",
     zhCN: "荼诃",
@@ -1817,6 +1830,24 @@
     zhCN: "佩特莉可",
     tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。v2.8 期間限定イベント「からくり械画」でフェリックス・ユーグが言及。",
+  },
+  {
+    en: "Romaritime Harbor",
+    ja: "ロマリタイムハーバー",
+    tags: [ "fontaine", "location" ],
+    notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
+  },
+  {
+    en: "Lumidouce Harbor",
+    ja: "ルミドゥースハーバー",
+    tags: [ "fontaine", "location" ],
+    notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
+  },
+  {
+    en: "Fortress of Meropide",
+    ja: "メロピデ要塞",
+    tags: [ "fontaine", "location" ],
+    notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
   },
 
   //

@@ -2055,6 +2055,12 @@
     tags: [ "quest-daily", "liyue" ],
   },
   {
+    en: "Diamond in the Rough",
+    ja: "石を…にする",
+    pronunciationJa: "いしを…にする",
+    tags: [ "quest-daily", "liyue" ],
+  },
+  {
     en: "A Little Raid",
     ja: "ミッション「お宝略奪」",
     zhCN: "「夺宝」小行动",

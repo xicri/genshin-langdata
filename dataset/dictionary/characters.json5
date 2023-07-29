@@ -1433,6 +1433,13 @@
     notes: "英語版における発音は「インガー」",
   },
   {
+    en: "Shitou",
+    ja: "石商",
+    pronunciationJa: "せきしょう", // TODO Need Check
+    tags: [ "liyue", "character-sub" ],
+    notes: "鉱石を売っている店「解翠行」の店主",
+  },
+  {
     en: "Lan",
     ja: "嵐姉",
     zhCN: "岚姐",
@@ -2693,6 +2700,18 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "ヴィマラ村にいるホッセイニの姉",
     notesZh: "维摩庄中的胡塞尼的姐姐",
+  },
+  {
+    en: "Sadife",
+    ja: "サディーフ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「プルビルニの戒め」に登場する人物",
+  },
+  {
+    en: "Augustus Lovelace",
+    ja: "オーガスタス・ラヴレス",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「とあるフォンテーヌ人の思い出」に登場する人物",
   },
   {
     en: "Effendi",
