@@ -1145,7 +1145,7 @@
     variants: {
       ja: [ "純粋精霊" ],
     },
-    tags: [ "enemy-boss", "liyue" ],
+    tags: [ "fontaine", "living-being" ],
   },
   {
     en: "Rhodeia",
