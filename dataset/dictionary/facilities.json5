@@ -137,6 +137,7 @@
     en: "Mingxing Jewelry",
     ja: "明星斎",
     zhCN: "明星斋",
+    pronunciationJa: "みょうじょうさい",
     tags: [ "liyue", "facility" ],
     notes: "岩の印をアイテムと交換できる店",
   },
