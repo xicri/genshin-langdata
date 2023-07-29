@@ -134,6 +134,12 @@
     notes: "鶯の店",
   },
   {
+    en: "The Jade Mystery",
+    ja: "解翠行",
+    tags: [ "liyue", "facility" ],
+    notes: "石商の鉱石店",
+  },
+  {
     en: "Mingxing Jewelry",
     ja: "明星斎",
     zhCN: "明星斋",

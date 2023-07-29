@@ -395,6 +395,23 @@
     pronunciationJa: "くうそうクラブ",
     tags: [ "fontaine", "organization" ],
   },
+  {
+    en: "Maison Gardiennage",
+    ja: "執律庭",
+    pronunciationJa: "しつりつてい", // TODO Need Check
+    tags: [ "fontaine", "organization" ], // TODO Check if tags are appropriate
+  },
+  {
+    en: "Special Security and Surveillance Patrol",
+    ja: "特巡隊",
+    pronunciationJa: "とくじゅんたい", // TODO Need Check
+    tags: [ "fontaine", "organization" ], // TODO Check if tags are appropriate
+  },
+  {
+    en: "Marechaussee Phantom",
+    ja: "マレショーセ・ファントム",
+    tags: [ "fontaine", "organization" ], // TODO Check if tags are appropriate
+  },
 
   //
   // Snezhnaya & Fatui
