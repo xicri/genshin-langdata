@@ -398,18 +398,21 @@
   {
     en: "Maison Gardiennage",
     ja: "執律庭",
+    zhCN: "执律庭",
     pronunciationJa: "しつりつてい", // TODO Need Check
     tags: [ "fontaine", "organization" ], // TODO Check if tags are appropriate
   },
   {
     en: "Special Security and Surveillance Patrol",
     ja: "特巡隊",
+    zhCN: "特巡队",
     pronunciationJa: "とくじゅんたい", // TODO Need Check
     tags: [ "fontaine", "organization" ], // TODO Check if tags are appropriate
   },
   {
     en: "Marechaussee Phantom",
     ja: "マレショーセ・ファントム",
+    zhCN: "逐影庭",
     tags: [ "fontaine", "organization" ], // TODO Check if tags are appropriate
   },
 
