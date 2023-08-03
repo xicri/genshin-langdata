@@ -1435,6 +1435,7 @@
   {
     en: "Shitou",
     ja: "石商",
+    zhCN: "石头",
     pronunciationJa: "せきしょう", // TODO Need Check
     tags: [ "liyue", "character-sub" ],
     notes: "鉱石を売っている店「解翠行」の店主",
@@ -2704,12 +2705,14 @@
   {
     en: "Sadife",
     ja: "サディーフ",
+    zhCN: "赛达菲",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「プルビルニの戒め」に登場する人物",
   },
   {
     en: "Augustus Lovelace",
     ja: "オーガスタス・ラヴレス",
+    zhCN: "奥古斯都·洛夫莱斯",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「とあるフォンテーヌ人の思い出」に登場する人物",
   },

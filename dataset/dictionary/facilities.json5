@@ -136,6 +136,7 @@
   {
     en: "The Jade Mystery",
     ja: "解翠行",
+    zhCN: "解翠行",
     tags: [ "liyue", "facility" ],
     notes: "石商の鉱石店",
   },

@@ -564,6 +564,7 @@
   {
     en: "Chenyu Vale",
     ja: "沈玉の谷",
+    zhCN: "沉玉谷",
     pronunciationJa: "ちんぎょくのたに", // TODO Need Check
     tags: [ "liyue", "location" ],
   },
@@ -1777,6 +1778,7 @@
   {
     en: "Bayda Harbor",
     ja: "バイダ港",
+    zhCN: "拜达港",
     pronunciationJa: "バイダこう",
     tags: [ "sumeru", "location" ],
   },
@@ -1834,18 +1836,21 @@
   {
     en: "Romaritime Harbor",
     ja: "ロマリタイムハーバー",
+    zhCN: "海露港",
     tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
   },
   {
     en: "Lumidouce Harbor",
     ja: "ルミドゥースハーバー",
+    zhCN: "柔灯港",
     tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
   },
   {
     en: "Fortress of Meropide",
     ja: "メロピデ要塞",
+    zhCN: "梅洛彼得堡",
     tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。煙緋が2023年のバースデーメールで言及",
   },
