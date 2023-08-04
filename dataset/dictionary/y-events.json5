@@ -272,6 +272,7 @@
   {
     en: "Zosimos",
     ja: "ゾシモス",
+    zhCN: "佐西摩斯",
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」に登場する演劇監督",
     tags: [ "event", "character-sub" ],
   },

@@ -2057,6 +2057,7 @@
   {
     en: "Diamond in the Rough",
     ja: "石を…にする",
+    zhCN: "点石成…什么",
     pronunciationJa: "いしを…にする",
     tags: [ "quest-daily", "liyue" ],
   },
