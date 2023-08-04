@@ -1160,7 +1160,7 @@
     ja: "ヴァソマの実",
     zhCN: "恒素果",
     tags: [ "item", "sumeru" ],
-    pinyins: [{ char: "桓", pron: "huan2" }],
+    pinyins: [{ char: "恒", pron: "heng2" }],
   },
   {
     en: "Barsam Flower",
