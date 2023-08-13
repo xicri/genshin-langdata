@@ -1780,4 +1780,142 @@
       zhCN: [ "草龙", "酸菜龙" ],
     },
   },
+
+  {
+    en: "Clockwork Meka",
+    ja: "クロックワーク・マシナリー",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Underwater Patrol Mek",
+    ja: "マシナリー・水中巡遊型",
+    pronunciationJa: "マシナリー・すいちゅうじゅんゆうがた",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Underwater Survey Mek",
+    ja: "マシナリー・水中観測型",
+    pronunciationJa: "マシナリー・すいちゅうかんそくがた",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Icewind Suite",
+    ja: "氷風組曲",
+    pronunciationJa: "ひょうふうくみきょく", // TODO Need Check
+    tags: [ "fontaine", "enemy-boss" ],
+  },
+
+  {
+    en: "Tainted Hydro Phantasm",
+    ja: "濁水幻霊",
+    pronunciationJa: "だくすいげんれい", // TODO Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Water-Splitting Phantasm",
+    ja: "濁水粉砕の幻霊",
+    pronunciationJa: "だくすいふんさいのげんれい", // TODO Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Water-Spouting Phantasm",
+    ja: "濁水噴出の幻霊",
+    pronunciationJa: "だくすいふんしゅつのげんれい", // TODO Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+
+  {
+    en: "Breacher Primus",
+    ja: "ブリーチャープリムス",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Shatterstone Breacher Primus",
+    ja: "瓦礫ブリーチャープリムス",
+    pronunciationJa: "がれきブリーチャープリムス",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Overgrown Breacher Primus",
+    ja: "狂蔓ブリーチャープリムス",
+    pronunciationJa: "きょうまんブリーチャープリムス", // Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+
+  {
+    en: "Fontemer Aberrant",
+    ja: "原海アベラント",
+    pronunciationJa: "げんかいアベラント", // Need Check
+    tags: [ "fontaine", "enemy", "living-being" ],
+  },
+  {
+    en: "Armored Crab",
+    ja: "重甲ヤドガニ",
+    pronunciationJa: "じゅうこうヤドガニ", // TODO Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Armored Crab Shield",
+    ja: "重甲シールド",
+    pronunciationJa: "じゅうこうシールド", // TODO Need Check
+    tags: [ "fontaine" ],
+    notes: "重甲ヤドガニ亜種から獲得できる能力",
+  },
+  {
+    en: "Hunter's Ray",
+    ja: "狩猟刀エイ",
+    pronunciationJa: "しゅりょうとうエイ", // TODO Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Water Blade",
+    ja: "水刃",
+    pronunciationJa: "すいじん",
+    tags: [ "fontaine" ],
+    notes: "狩猟刀エイ亜種から獲得できる能力",
+  },
+  {
+    en: "Blubberbeast",
+    ja: "プクプク獣",
+    pronunciationJa: "プクプクじゅう",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Ball Octopus",
+    ja: "マンマルタコ",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Hat Jellyfish",
+    ja: "ボウシクラゲ",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Bubbly Seahorse",
+    ja: "アワアワタツノコ",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Angelic Sea Hare",
+    ja: "アンジェリックアプリシア",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Leisurely Otter",
+    ja: "ノンビリラッコ",
+    tags: [ "fontaine", "living-being" ],
+  },
+  {
+    en: "Xenochromatic Creature",
+    ja: "亜種生物",
+    pronunciationJa: "あしゅせいぶつ",
+    tags: [ "fontaine", "enemy", "living-being" ],
+    notes: "原海アベラントの亜種。「○○亜種」は \"Xenochromatic ○○\" と表現できる。例: 重甲ヤドカニ亜種 = Xenochromatic Armored Crab",
+  },
+  {
+    en: "Emperor of Fire and Iron",
+    ja: "鉄甲熔炎帝王",
+    pronunciationJa: "てっこうようえんていおう",
+    tags: [ "fontaine", "enemy-boss" ],
+  },
 ]

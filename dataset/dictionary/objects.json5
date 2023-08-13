@@ -892,11 +892,55 @@
   // Fontaine
   //
   {
+    en: "aquabus",
+    ja: "巡水船",
+    pronunciationJa: "じゅんすいせん",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Recovery Orb",
+    ja: "リカバリーオーブ",
+    tags: [ "object", "fontaine" ],
+  },
+  {
     en: "Echoing Conch",
     ja: "こだまホラガイ / 余韻のホラガイ",
     zhCN: "回响海螺 / 回声海螺",
     pronunciationJa: "こだまホラガイ / よいんのホラガイ",
     notes: "こだまホラガイはフォンテーヌ海域にあるギミック装置。余韻のホラガイは金リンゴ群島 (v1.6 期間限定イベント「余韻の叙述」及び v2.8 期間限定イベント「幻声留形」) で収集するアイテム",
     tags: [ "object", "fontaine", "event", "item" ],
+  },
+  {
+    en: "Fantastical Floating Ball",
+    ja: "不思議な浮遊ボール",
+    pronunciationJa: "ふしぎなふゆうボール",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "ringed device",
+    ja: "円環装置",
+    pronunciationJa: "えんかんそうち",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Fontemer Seagrass",
+    ja: "原海海草",
+    pronunciationJa: "げんかいかいそう", // Need Check
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Pneumousia Block",
+    ja: "プネウムシアクラスター",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Pneuma Block",
+    ja: "プネウマクラスター",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Ousia Block",
+    ja: "ウーシアクラスター",
+    tags: [ "object", "fontaine" ],
   },
 ]

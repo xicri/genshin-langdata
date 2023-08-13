@@ -1092,6 +1092,18 @@
     zhCN: "赤沙石板",
     tags: [ "item", "sumeru" ],
   },
+  {
+    en: "Crystalfly Trap",
+    ja: "晶蝶トラップ装置",
+    pronunciationJa: "しょうちょうトラップそうち",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Wind-Powered Wind Generator",
+    ja: "風力ファン",
+    pronunciationJa: "ふうりょくファン",
+    tags: [ "item", "fontaine" ],
+  },
 
   //
   // Quest Items

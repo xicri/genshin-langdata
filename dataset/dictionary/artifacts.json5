@@ -191,6 +191,12 @@
     pinyins: [{ char: "角", pron: "jue2" }, { char: "斗", pron: "dou4" }, { char: "士", pron: "shi4" }],
   },
   {
+    en: "Golden Troupe",
+    ja: "黄金の劇団",
+    pronunciationJa: "おうごんのげきだん",
+    tags: [ "artifact" ],
+  },
+  {
     en: "Heart of Depth",
     ja: "沈淪の心",
     zhCN: "沉沦之心",
@@ -244,6 +250,12 @@
       ja: [ "愛され" ],
       zhCN: [ "少女套" ],
     },
+  },
+  {
+    en: "Marechaussee Hunter",
+    ja: "ファントムハンター",
+    tags: [ "artifact" ],
+    notes: "英語版にある \"Marechaussee\" は「マレショーセ・ファントム」の「マレショーセ」に同じ",
   },
   {
     en: "Martial Artist",

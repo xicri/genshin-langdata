@@ -369,4 +369,41 @@
     pinyins: [{ char: "莘", pron: "xin1" }],
     tags: [ "fontaine", "living-being" ],
   },
+  {
+    en: "Guard Poodle",
+    ja: "ガードドッグ",
+    tags: [ "fontaine", "living-being" ],
+  },
+  {
+    en: "Gentleman Poodle",
+    ja: "ジェントルドッグ",
+    tags: [ "fontaine", "living-being" ],
+  },
+  {
+    en: "Lady Poodle",
+    ja: "レディドッグ",
+    tags: [ "fontaine", "living-being" ],
+  },
+  {
+    en: "Redcrown Finch",
+    ja: "赤カンムリガラ",
+    pronunciationJa: "あかカンムリガラ",
+    tags: [ "fontaine", "living-being" ],
+  },
+  {
+    en: "Umbrellafinch",
+    ja: "カサガラ",
+    tags: [ "fontaine", "living-being" ],
+  },
+  {
+    en: "Magenta Fantail Pigeon",
+    ja: "マゼンタクジャクバト",
+    tags: [ "fontaine", "living-being" ],
+  },
+  {
+    en: "Violetgold Angler Gull",
+    ja: "紫金オオズグロカモメ",
+    pronunciationJa: "しきんオオズグロカモメ",
+    tags: [ "fontaine", "living-being" ],
+  },
 ]

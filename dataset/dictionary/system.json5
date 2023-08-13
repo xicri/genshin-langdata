@@ -797,4 +797,78 @@
     zhCN: "生之火光",
     tags: [ "object", "sumeru" ],
   },
+
+  //
+  // Fontaine
+  //
+  {
+    en: "Pneuma",
+    ja: "プネウマ / プネウマ状態",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Ousia",
+    ja: "ウーシア / ウーシア状態",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Balanced",
+    ja: "バランス状態",
+    pronunciationJa: "バランスじょうたい",
+    tags: [ "fontaine" ],
+    notes: "プネウマとウーシアのバランスが取れた装置の状態",
+  },
+  {
+    en: "mutual annihilation",
+    ja: "対消滅",
+    pronunciationJa: "ついしょうめつ",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "overload",
+    ja: "オーバーロード",
+    tags: [ "fontaine" ],
+    notes: "プネウマに対してウーシアをぶつける、またはその逆を行い、相手を無力化させること。過負荷の英訳も Overloaded だが、意味は異なる",
+  },
+  {
+    en: "Arkhe",
+    ja: "アルケー",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Transoceanic Sourcewater",
+    ja: "異海源水",
+    pronunciationJa: "いかいげんすい", // TODO Need Check
+    tags: [ "fontaine" ],
+  },
+  // {
+  //   en: "",
+  //   ja: "地上大湖",
+  //   pronunciationJa: "ちじょうたいこ", // TODO Need Check
+  //   tags: [ "fontaine" ],
+  // },
+  {
+    en: "Aquatic Stamina",
+    ja: "水中スタミナ",
+    pronunciationJa: "すいちゅうスタミナ",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Current",
+    ja: "海流",
+    pronunciationJa: "かいりゅう",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "High-Pressure Water Vent",
+    ja: "高圧水流吹き出し口",
+    pronunciationJa: "こうあつすいりゅうふきだしぐち",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Bond of Life",
+    ja: "命の契約",
+    pronunciationJa: "いのちのけいやく",
+    tags: [ "fontaine" ],
+  },
 ]

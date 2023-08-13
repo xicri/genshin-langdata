@@ -186,6 +186,55 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v4.0
+  {
+    en: "Mega Meka Melee",
+    ja: "メカニカルトイズ前哨戦",
+    pronunciationJa: "メカニカルトイズぜんしょうせん",
+    notes: "v4.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Dance Dance Resolution",
+    ja: "躍動・リズム・ビート",
+    pronunciationJa: "やくどう・リズム・ビート",
+    notes: "v4.0 期間限定イベント「メカニカルトイズ前哨戦」の子イベントの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Torrential Turbulent Charge",
+    ja: "乱流スピードレース",
+    pronunciationJa: "らんりゅうスピードレース",
+    notes: "v4.0 期間限定イベント「メカニカルトイズ前哨戦」の子イベントの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Efficacy Testing Simulation Arena",
+    ja: "性能模擬実践段階",
+    pronunciationJa: "せいのうもぎじっせんだんかい",
+    notes: "v4.0 期間限定イベント「メカニカルトイズ前哨戦」の子イベントの1つ",
+    tags: [ "event" ],
+  },
+  {
+    en: "Studies in Light and Shadow: A Fontaine of Enchantment",
+    ja: "光影研学・麗しき水中世界",
+    notes: "v4.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Relic Records: Creations of the Hydro Nation",
+    ja: "博物通史・水の国を訪ねて",
+    pronunciationJa: "はくぶつつうし・みずのくにをたずねて",
+    notes: "v4.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Verdict of Blades",
+    ja: "ヴァーディクト・ブレイド",
+    notes: "v4.0 期間限定イベント",
+    tags: [ "event" ],
+  },
+
   // v3.8
   {
     en: "Secret Summer Paradise",

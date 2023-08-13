@@ -1821,10 +1821,33 @@
     }],
   },
   {
+    en: "Court of Fontaine Region",
+    ja: "フォンテーヌ廷地区",
+    pronunciationJa: "フォンテーヌていちく",
+    tags: [ "fontaine", "location" ],
+  },
+  {
     en: "Court of Fontaine",
     ja: "フォンテーヌ廷",
     zhCN: "枫丹廷",
     pronunciationJa: "フォンテーヌてい",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Poisson Tunnel",
+    ja: "ポワソントンネル",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Beryl Region",
+    ja: "ベリル地区",
+    pronunciationJa: "ベリルちく",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Belleau Region",
+    ja: "ブロー地区",
+    pronunciationJa: "ブローちく",
     tags: [ "fontaine", "location" ],
   },
   {
@@ -1855,6 +1878,34 @@
     tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。煙緋が2023年のバースデーメールで言及",
   },
+  {
+    en: "Elynas",
+    ja: "エリナス",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "\"A Very Warm Place\"",
+    ja: "「とてもあったかい場所」",
+    pronunciationJa: "とてもあったかいばしょ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "\"A Lonely Place\"",
+    ja: "「さみしい場所」",
+    pronunciationJa: "さみしいばしょ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "West Slope of Mont Automnequi", // TODO Need Check
+    ja: "ウェスト・オトンヌキ",
+    tags: [ "fontaine", "location" ],
+  },
+  // {
+  //   en: "", // TODO
+  //   ja: "ポワソン町",
+  //   pronunciationJa: "ポワソンちょう",
+  //   tags: [ "fontaine", "location" ],
+  // },
 
   //
   // Natlan

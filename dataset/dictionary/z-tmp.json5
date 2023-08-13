@@ -1,0 +1,56 @@
+/*
+ * This file includes words which cannot be categorized for now.
+ * Move appropriate json5 file when the information is released.
+ */
+[
+  {
+    en: "Drop of Tainted Water",
+    ja: "濁水のひとしずく",
+    pronunciationJa: "だくすいのひとしずく", // TODO Need Check
+    tags: [ "item", "fontaine" ], // TODO Check if this word should be tagged as item
+  },
+  {
+    en: "Rift Core",
+    ja: "隙間のコア",
+    pronunciationJa: "すきまのコア",
+    tags: [ "item", "fontaine" ], // TODO Check if this word should be tagged as item
+  },
+  {
+    en: "Transoceanic Pearl",
+    ja: "異海の露",
+    pronunciationJa: "いかいのつゆ",
+    tags: [ "item", "fontaine" ], // TODO Check if this word should be tagged as item
+  },
+  {
+    en: "Meshing Gear",
+    ja: "整合の歯車",
+    pronunciationJa: "せいごうのはぐるま",
+    tags: [ "item", "fontaine" ], // TODO Check if this word should be tagged as item
+  },
+  {
+    en: "Marcotte",
+    ja: "マルコット草",
+    pronunciationJa: "マルコットそう",
+    tags: [ "specialty", "fontaine" ], // TODO Check if this word should be tagged as specialty
+  },
+  {
+    en: "Rainbow Rose",
+    ja: "レインボーローズ",
+    tags: [ "specialty", "fontaine" ], // TODO Check if this word should be tagged as specialty
+  },
+  {
+    en: "Lumidouce Bell",
+    ja: "ルミドゥースベル",
+    tags: [ "specialty", "fontaine" ], // TODO Check if this word should be tagged as specialty
+  },
+  {
+    en: "Tidalga",
+    ja: "タイダルガ",
+    tags: [ "specialty", "fontaine" ], // TODO Check if this word should be tagged as specialty
+  },
+  {
+    en: "Beryl Conch",
+    ja: "蒼晶螺",
+    tags: [ "specialty", "fontaine" ], // TODO Check if this word should be tagged as specialty
+  },
+]
