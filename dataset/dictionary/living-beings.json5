@@ -362,4 +362,11 @@
     },
     tags: [ "fontaine", "living-being" ],
   },
+  {
+    en: "Melusine",
+    ja: "メリュジーヌ",
+    zhCN: "美露莘",
+    pinyins: [{ char: "莘", pron: "xin1" }],
+    tags: [ "fontaine", "living-being" ],
+  },
 ]

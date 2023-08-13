@@ -3351,13 +3351,6 @@
     notes: "英語の発音は「シャーロット」。タグのプレイアブル・NPC 分類は仮。",
   },
   {
-    en: "Melusine",
-    ja: "メリュジーヌ",
-    zhCN: "美露莘",
-    pinyins: [{ char: "莘", pron: "xin1" }],
-    tags: [ "fontaine", "living-being" ],
-  },
-  {
     en: "Lyney",
     ja: "リネ",
     zhCN: "林尼",
