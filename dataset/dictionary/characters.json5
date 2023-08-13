@@ -3431,6 +3431,7 @@
     ja: "最高審判官",
     zhCN: "最高审判官",
     tags: [ "fontaine", "title" ],
+    notes: "ヌヴィレットの役職",
   },
   {
     en: "Focalors",
