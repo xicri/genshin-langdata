@@ -223,6 +223,24 @@
     pronunciationJa: "とうかぼうしぐれ",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Finale of the Deep",
+    ja: "海淵のフィナーレ",
+    pronunciationJa: "かいえんのフィナーレ",
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Wolf-Fang",
+    ja: "狼牙",
+    pronunciationJa: "ろうが", // TODO Need Check
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Fleuve Cendre Ferryman",
+    ja: "サーンドルの渡し守",
+    pronunciationJa: "サーンドルのわたしもり",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -494,6 +512,17 @@
     tags: [ "weapon" ],
     notes: "鉄彩の花の精錬素材",
   },
+  {
+    en: "Tidal Shadow",
+    ja: "タイダル・シャドー",
+    tags: [ "weapon", "claymore" ],
+  },
+  {
+    en: "Talking Stick",
+    ja: "話死合い棒",
+    pronunciationJa: "はなしあいぼう",
+    tags: [ "weapon", "claymore" ],
+  },
   // ★5
   {
     en: "Skyward Pride",
@@ -700,6 +729,18 @@
     en: "Missive Windspear",
     ja: "風信の矛",
     zhCN: "风信之锋",
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Rightful Reward",
+    ja: "正義の報酬",
+    pronunciationJa: "せいぎのほうしゅう",
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Ballad of the Fjords",
+    ja: "フィヨルドの歌",
+    pronunciationJa: "フィヨルドのうた",
     tags: [ "weapon", "polearm" ],
   },
   // ★5
@@ -942,7 +983,7 @@
   },
   {
     en: "End of the Line",
-    ja: "竭沢", // TODO 弓・竭沢 is correct name?
+    ja: "竭沢",
     zhCN: "竭泽",
     pronunciationJa: "けったく", // Source: https://twitter.com/genshin_kanji/status/1558431572407504896
     tags: [ "weapon", "bow" ],
@@ -961,6 +1002,18 @@
     pronunciationJa: "トキのくちばし",
     tags: [ "weapon", "bow" ],
     pinyins: [{ char: "鹮", pron: "huan2" }],
+  },
+  {
+    en: "Song of Stillness",
+    ja: "静寂の唄",
+    pronunciationJa: "せいじゃくのうた",
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "Scion of the Blazing Sun",
+    ja: "烈日の後嗣",
+    pronunciationJa: "れつじつのこうし", // TODO Need Check
+    tags: [ "weapon", "bow" ],
   },
   // ★5
   {
@@ -1025,9 +1078,15 @@
   },
   {
     en: "Hunter's Path",
-    ja: "狩人の道", // TODO "弓・狩人の道" is correct?
+    ja: "狩人の道",
     zhCN: "猎人之径",
     pronunciationJa: "かりゅうどのみち",
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "The First Great Magic",
+    ja: "始まりの大魔術",
+    pronunciationJa: "はじまりのだいまじゅつ",
     tags: [ "weapon", "bow" ],
   },
 
@@ -1213,6 +1272,18 @@
     ja: "彷徨える星",
     zhCN: "流浪的晚星",
     pronunciationJa: "さまよえるほし",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Flowing Purity",
+    ja: "純水流華",
+    pronunciationJa: "じゅんすいるか", // TODO Need Confirmation
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Sacrificial Jade",
+    ja: "古祠の瓏",
+    pronunciationJa: "こしのろう", // TODO Need Confirmation
     tags: [ "weapon", "catalyst" ],
   },
   // ★5
