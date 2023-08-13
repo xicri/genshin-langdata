@@ -887,4 +887,16 @@
     pronunciationJa: "れいこうひ",
     tags: [ "object", "sumeru" ],
   },
+
+  //
+  // Fontaine
+  //
+  {
+    en: "Echoing Conch",
+    ja: "余韻のホラガイ",
+    zhCN: "回声海螺",
+    pronunciationJa: "よいんのホラガイ",
+    notes: "v1.6 期間限定イベント「余韻の叙述」及び v2.8 期間限定イベント「幻声留形」で収集するアイテム",
+    tags: [ "event", "item" ],
+  },
 ]
