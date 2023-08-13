@@ -1824,6 +1824,7 @@
     en: "Court of Fontaine",
     ja: "フォンテーヌ廷",
     zhCN: "枫丹廷",
+    pronunciationJa: "フォンテーヌてい",
     tags: [ "fontaine", "location" ],
   },
   {
@@ -1850,6 +1851,7 @@
     en: "Fortress of Meropide",
     ja: "メロピデ要塞",
     zhCN: "梅洛彼得堡",
+    pronunciationJa: "メロピデようさい",
     tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。煙緋が2023年のバースデーメールで言及",
   },
