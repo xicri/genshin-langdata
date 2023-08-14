@@ -190,6 +190,7 @@
   {
     en: "Mega Meka Melee",
     ja: "メカニカルトイズ前哨戦",
+    zhCN: "机枢巧物前哨战",
     pronunciationJa: "メカニカルトイズぜんしょうせん",
     notes: "v4.0 期間限定イベント",
     tags: [ "event" ],
@@ -197,6 +198,7 @@
   {
     en: "Dance Dance Resolution",
     ja: "躍動・リズム・ビート",
+    zhCN: "跃动节拍响应法",
     pronunciationJa: "やくどう・リズム・ビート",
     notes: "v4.0 期間限定イベント「メカニカルトイズ前哨戦」の子イベントの1つ",
     tags: [ "event" ],
@@ -204,6 +206,7 @@
   {
     en: "Torrential Turbulent Charge",
     ja: "乱流スピードレース",
+    zhCN: "湍流疾行冲锋赛",
     pronunciationJa: "らんりゅうスピードレース",
     notes: "v4.0 期間限定イベント「メカニカルトイズ前哨戦」の子イベントの1つ",
     tags: [ "event" ],
@@ -211,6 +214,7 @@
   {
     en: "Efficacy Testing Simulation Arena",
     ja: "性能模擬実践段階",
+    zhCN: "效能模拟实战环",
     pronunciationJa: "せいのうもぎじっせんだんかい",
     notes: "v4.0 期間限定イベント「メカニカルトイズ前哨戦」の子イベントの1つ",
     tags: [ "event" ],
@@ -218,12 +222,14 @@
   {
     en: "Studies in Light and Shadow: A Fontaine of Enchantment",
     ja: "光影研学・麗しき水中世界",
+    zhCN: "光影研学·旖旎水界",
     notes: "v4.0 期間限定イベント",
     tags: [ "event" ],
   },
   {
     en: "Relic Records: Creations of the Hydro Nation",
     ja: "博物通史・水の国を訪ねて",
+    zhCN: "博物通志·水国寻迹",
     pronunciationJa: "はくぶつつうし・みずのくにをたずねて",
     notes: "v4.0 期間限定イベント",
     tags: [ "event" ],
@@ -231,6 +237,7 @@
   {
     en: "Verdict of Blades",
     ja: "ヴァーディクト・ブレイド",
+    zhCN: "蹈刃破决",
     notes: "v4.0 期間限定イベント",
     tags: [ "event" ],
   },

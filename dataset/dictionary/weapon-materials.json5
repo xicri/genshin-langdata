@@ -371,6 +371,7 @@
   {
     en: "Fragment of an Ancient Chord",
     ja: "悠久の弦の残章",
+    zhCN: "悠古弦音的残章",
     pronunciationJa: "ゆうきゅうのげんのざんしょう", // TODO Need Check
     tags: [ "weapon-material", "fontaine" ], // TODO Check if this word should be tagged as weapon-material
     // notes: "★2武器突破素材", // TODO Check if it is ★2
@@ -378,6 +379,7 @@
   {
     en: "Broken Goblet of the Pristine Sea",
     ja: "無垢な海の苦杯",
+    zhCN: "无垢之海的苦盏",
     pronunciationJa: "むくなうみのくはい",
     tags: [ "weapon-material", "fontaine" ], // TODO Check if this word should be tagged as weapon-material
     // notes: "★2武器突破素材", // TODO Check if it is ★2
@@ -385,6 +387,7 @@
   {
     en: "Dross of Pure Sacred Dewdrop",
     ja: "純聖な雫の濾滓",
+    zhCN: "纯圣露滴的滤渣",
     pronunciationJa: "じゅんせいなしずくのろさい",
     tags: [ "weapon-material", "fontaine" ], // TODO Check if this word should be tagged as weapon-material
     // notes: "★2武器突破素材", // TODO Check if it is ★2

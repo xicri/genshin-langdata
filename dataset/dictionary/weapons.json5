@@ -226,18 +226,21 @@
   {
     en: "Finale of the Deep",
     ja: "海淵のフィナーレ",
+    zhCN: "海渊终曲",
     pronunciationJa: "かいえんのフィナーレ",
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Wolf-Fang",
     ja: "狼牙",
+    zhCN: "狼牙",
     pronunciationJa: "ろうが", // TODO Need Check
     tags: [ "weapon", "sword" ],
   },
   {
     en: "Fleuve Cendre Ferryman",
     ja: "サーンドルの渡し守",
+    zhCN: "灰河渡手",
     pronunciationJa: "サーンドルのわたしもり",
     tags: [ "weapon", "sword" ],
   },
@@ -515,11 +518,13 @@
   {
     en: "Tidal Shadow",
     ja: "タイダル・シャドー",
+    zhCN: "浪影阔剑",
     tags: [ "weapon", "claymore" ],
   },
   {
     en: "Talking Stick",
     ja: "話死合い棒",
+    zhCN: "聊聊棒",
     pronunciationJa: "はなしあいぼう",
     tags: [ "weapon", "claymore" ],
   },
@@ -734,12 +739,14 @@
   {
     en: "Rightful Reward",
     ja: "正義の報酬",
+    zhCN: "公义的酬报",
     pronunciationJa: "せいぎのほうしゅう",
     tags: [ "weapon", "polearm" ],
   },
   {
     en: "Ballad of the Fjords",
     ja: "フィヨルドの歌",
+    zhCN: "峡湾长歌",
     pronunciationJa: "フィヨルドのうた",
     tags: [ "weapon", "polearm" ],
   },
@@ -1006,12 +1013,14 @@
   {
     en: "Song of Stillness",
     ja: "静寂の唄",
+    zhCN: "静谧之曲",
     pronunciationJa: "せいじゃくのうた",
     tags: [ "weapon", "bow" ],
   },
   {
     en: "Scion of the Blazing Sun",
     ja: "烈日の後嗣",
+    zhCN: "烈阳之嗣",
     pronunciationJa: "れつじつのこうし", // TODO Need Check
     tags: [ "weapon", "bow" ],
   },
@@ -1086,6 +1095,7 @@
   {
     en: "The First Great Magic",
     ja: "始まりの大魔術",
+    zhCN: "最初的大魔术",
     pronunciationJa: "はじまりのだいまじゅつ",
     tags: [ "weapon", "bow" ],
   },
@@ -1277,12 +1287,14 @@
   {
     en: "Flowing Purity",
     ja: "純水流華",
+    zhCN: "纯水流华",
     pronunciationJa: "じゅんすいるか", // TODO Need Confirmation
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Sacrificial Jade",
     ja: "古祠の瓏",
+    zhCN: "遗祀玉珑",
     pronunciationJa: "こしのろう", // TODO Need Confirmation
     tags: [ "weapon", "catalyst" ],
   },

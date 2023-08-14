@@ -894,12 +894,14 @@
   {
     en: "aquabus",
     ja: "巡水船",
+    zhCN: "巡轨船",
     pronunciationJa: "じゅんすいせん",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Recovery Orb",
     ja: "リカバリーオーブ",
+    zhCN: "复苏水团",
     tags: [ "object", "fontaine" ],
   },
   {
@@ -913,34 +915,40 @@
   {
     en: "Fantastical Floating Ball",
     ja: "不思議な浮遊ボール",
+    zhCN: "神奇的沉浮球",
     pronunciationJa: "ふしぎなふゆうボール",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "ringed device",
     ja: "円環装置",
+    zhCN: "圆环装置",
     pronunciationJa: "えんかんそうち",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Fontemer Seagrass",
     ja: "原海海草",
+    zhCN: "原海海草",
     pronunciationJa: "げんかいかいそう", // Need Check
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Pneumousia Block",
     ja: "プネウムシアクラスター",
+    zhCN: "芒荒能量块",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Pneuma Block",
     ja: "プネウマクラスター",
+    zhCN: "芒性能量块",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Ousia Block",
     ja: "ウーシアクラスター",
+    zhCN: "荒性能量块",
     tags: [ "object", "fontaine" ],
   },
 ]

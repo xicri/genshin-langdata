@@ -325,6 +325,7 @@
   {
     en: "Leschots Clockwork Workshop",
     ja: "レシュッツのクロックワーク工房",
+    zhCN: "莱舒的发条工坊",
     pronunciationJa: "レシュッツのクロックワークこうぼう",
     tags: [ "fontaine", "facility" ],
   },

@@ -1095,12 +1095,14 @@
   {
     en: "Crystalfly Trap",
     ja: "晶蝶トラップ装置",
+    zhCN: "晶蝶诱捕装置",
     pronunciationJa: "しょうちょうトラップそうち",
     tags: [ "item", "fontaine" ],
   },
   {
     en: "Wind-Powered Wind Generator",
     ja: "風力ファン",
+    zhCN: "借动式鼓风装置",
     pronunciationJa: "ふうりょくファン",
     tags: [ "item", "fontaine" ],
   },
