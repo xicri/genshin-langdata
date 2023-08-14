@@ -1911,7 +1911,7 @@
   {
     en: "Bubbly Seahorse",
     ja: "アワアワタツノコ",
-    zhcN: "泡泡海马",
+    zhCN: "泡泡海马",
     tags: [ "fontaine", "enemy" ],
   },
   {
@@ -1937,7 +1937,7 @@
   {
     en: "Emperor of Fire and Iron",
     ja: "鉄甲熔炎帝王",
-    znCN: "铁甲熔火帝皇",
+    zhCN: "铁甲熔火帝皇",
     pronunciationJa: "てっこうようえんていおう",
     tags: [ "fontaine", "enemy-boss" ],
     variants: {
