@@ -1823,6 +1823,7 @@
   {
     en: "Court of Fontaine Region",
     ja: "フォンテーヌ廷地区",
+    zhCN: "枫丹廷区",
     pronunciationJa: "フォンテーヌていちく",
     tags: [ "fontaine", "location" ],
   },
@@ -1836,17 +1837,20 @@
   {
     en: "Poisson Tunnel",
     ja: "ポワソントンネル",
+    zhCN: "白淞隧道",
     tags: [ "fontaine", "location" ],
   },
   {
     en: "Beryl Region",
     ja: "ベリル地区",
+    zhCN: "苍晶区",
     pronunciationJa: "ベリルちく",
     tags: [ "fontaine", "location" ],
   },
   {
     en: "Belleau Region",
     ja: "ブロー地区",
+    zhCN: "白露区",
     pronunciationJa: "ブローちく",
     tags: [ "fontaine", "location" ],
   },
@@ -1881,23 +1885,27 @@
   {
     en: "Elynas",
     ja: "エリナス",
+    zhCN: "厄里那斯",
     tags: [ "fontaine", "location" ],
   },
   {
     en: "\"A Very Warm Place\"",
     ja: "「とてもあったかい場所」",
+    zhCN: "「特别温暖的地方」",
     pronunciationJa: "とてもあったかいばしょ",
     tags: [ "fontaine", "location" ],
   },
   {
     en: "\"A Lonely Place\"",
     ja: "「さみしい場所」",
+    zhCN: "「寂寞的地方」",
     pronunciationJa: "さみしいばしょ",
     tags: [ "fontaine", "location" ],
   },
   {
     en: "West Slope of Mont Automnequi", // TODO Need Check
     ja: "ウェスト・オトンヌキ",
+    zhCN: "秋分山西侧",
     tags: [ "fontaine", "location" ],
   },
   // {
