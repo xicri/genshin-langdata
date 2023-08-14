@@ -193,8 +193,12 @@
   {
     en: "Golden Troupe",
     ja: "黄金の劇団",
+    zhCN: "黄金剧团",
     pronunciationJa: "おうごんのげきだん",
     tags: [ "artifact" ],
+    variants: {
+      zhCN: [ "剧团套" ],
+    },
   },
   {
     en: "Heart of Depth",
@@ -254,8 +258,10 @@
   {
     en: "Marechaussee Hunter",
     ja: "ファントムハンター",
+    zhCN: "逐影猎人",
     tags: [ "artifact" ],
     notes: "英語版にある \"Marechaussee\" は「マレショーセ・ファントム」の「マレショーセ」に同じ",
+    // TODO 之后会添加 variants "逐影套" 或者 "猎人套" 尚未清楚
   },
   {
     en: "Martial Artist",
