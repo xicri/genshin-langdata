@@ -3403,13 +3403,6 @@
     notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
-    en: "Furina",
-    ja: "フリーナ",
-    zhCN: "芙宁娜",
-    tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
-  },
-  {
     en: "Neuvillette",
     ja: "ヌヴィレット",
     zhCN: "那维莱特",
@@ -3421,6 +3414,13 @@
     zhCN: "最高审判官",
     tags: [ "fontaine", "title" ],
     notes: "ヌヴィレットの役職",
+  },
+  {
+    en: "Furina",
+    ja: "フリーナ",
+    zhCN: "芙宁娜",
+    tags: [ "fontaine", "character-main" ],
+    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Focalors",
