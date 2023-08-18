@@ -236,6 +236,16 @@
     zhCN: "刺葵木",
     tags: [ "sereniteapot", "sumeru" ],
   },
+  {
+    en: "Mallow Wood",
+    ja: "マロウ材",
+    tags: [ "sereniteapot", "fontaine" ],
+  },
+  {
+    en: "Cypress Wood",
+    ja: "コウハクジュ材",
+    tags: [ "sereniteapot", "fontaine" ],
+  },
 
   //
   // Furnishing (調度品)

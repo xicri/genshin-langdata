@@ -1788,6 +1788,12 @@
     tags: [ "fontaine", "enemy" ],
   },
   {
+    en: "Recon Log Mek",
+    ja: "マシナリー・偵察記録型",
+    pronunciationJa: "マシナリー・ていさつきろくがた",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
     en: "Underwater Patrol Mek",
     ja: "マシナリー・水中巡遊型",
     zhCN: "机关·水下巡游型",
@@ -1802,11 +1808,67 @@
     tags: [ "fontaine", "enemy" ],
   },
   {
+    en: "Geological Survey Mek",
+    ja: "マシナリー・地質探知型",
+    pronunciationJa: "マシナリー・ちしつたんちがた",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Nimble Harvester Mek",
+    ja: "マシナリー・機敏採集型",
+    pronunciationJa: "マシナリー・きびんさいしゅうがた",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Area Alert Mek",
+    ja: "マシナリー・区域警戒型",
+    pronunciationJa: "マシナリー・くいきけいかいがた",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Suppression Specialist Mek",
+    ja: "制圧特化型マシナリー",
+    pronunciationJa: "せいあつとっかがたマシナリー",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Annihilation Specialist Mek",
+    ja: "殲滅特化型マシナリー",
+    pronunciationJa: "せんめつとっかがたマシナリー",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
     en: "Icewind Suite",
     ja: "氷風組曲",
     zhCN: "冰风组曲",
     pronunciationJa: "ひょうふうくみきょく", // TODO Need Check
     tags: [ "fontaine", "enemy-boss" ],
+  },
+  {
+    en: "Coppelia",
+    ja: "コッペリア",
+    tags: [ "fontaine", "enemy-boss" ],
+    notes: "氷風組曲の、女性型でウーシアのエネルギー特徴を持つ方",
+  },
+  {
+    en: "Coppelius",
+    ja: "コペリウス",
+    tags: [ "fontaine", "enemy-boss" ],
+    notes: "氷風組曲の、男性型でプネウマのエネルギー特徴を持つ方",
+  },
+  {
+    en: "Dirge of Coppelia",
+    ja: "コッペリアの葬送",
+    pronunciationJa: "コッペリアのそうそう",
+    tags: [ "fontaine", "enemy-boss" ],
+    notes: "コッペリアが主演の \"公演\"",
+  },
+  {
+    en: "Nemesis of Coppelius",
+    ja: "コペリウスの劫罰",
+    pronunciationJa: "コペリウスのごうばつ",
+    tags: [ "fontaine", "enemy-boss" ],
+    notes: "コペリウスが主演の \"公演\"",
   },
 
   {
@@ -1864,6 +1926,12 @@
     ja: "重甲ヤドカニ",
     zhCN: "重甲蟹",
     pronunciationJa: "じゅうこうヤドカニ", // TODO Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Sternshield Crab",
+    ja: "堅盾重甲ヤドカニ",
+    pronunciationJa: "けんじゅんじゅうこうヤドカニ", // TODO Need Check
     tags: [ "fontaine", "enemy" ],
   },
   {
@@ -1943,5 +2011,26 @@
     variants: {
       zhCN: [ "红烧蟹" ],
     },
+  },
+
+  {
+    en: "local legend",
+    ja: "地方伝説",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌに点在する、強めの敵個体",
+  },
+  {
+    en: "Vivianne of the Lake",
+    ja: "湖辺のヴィヴィアン",
+    pronunciationJa: "こへんのヴィヴィアン",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、濁水幻霊の変異体",
+  },
+  {
+    en: "Ocean Circuit Judge",
+    ja: "オーシャン巡回法官",
+    pronunciationJa: "オーシャンじゅんかいほうかん",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、重甲ヤドカニの変異体",
   },
 ]

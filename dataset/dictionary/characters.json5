@@ -3187,6 +3187,12 @@
     notes: "カーヴェの工具箱",
     notesZh: "卡维的工具箱",
   },
+  {
+    en: "Zaha Hadi",
+    ja: "ザハハディ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "カーヴェのデートイベントに登場する人物。カーヴェの母の師",
+  },
 
   {
     en: "Nur",
@@ -3416,11 +3422,23 @@
     notes: "ヌヴィレットの役職",
   },
   {
+    en: "Monsieur Neuvillette",
+    ja: "ヌヴィレット様",
+    tags: [ "fontaine", "how-to-call" ],
+    notes: "ヌヴィレットの部下たちからの呼び方。Monsieur はフランス語で Mr. に相当する語",
+  },
+  {
     en: "Furina",
     ja: "フリーナ",
     zhCN: "芙宁娜",
     tags: [ "fontaine", "character-main" ],
     notes: "タグのプレイアブル・NPC 分類は仮",
+  },
+  {
+    en: "Lady Furina",
+    ja: "フリーナ様",
+    tags: [ "fontaine", "how-to-call" ],
+    notes: "フリーナの部下たちからの呼び方",
   },
   {
     en: "Focalors",
@@ -3448,6 +3466,13 @@
     notesZh: "枫丹科学院的创始人",
   },
   {
+    en: "Lord-Artificer",
+    ja: "奇械公",
+    pronunciationJa: "きかいこう",
+    tags: [ "fontaine", "title" ],
+    notes: "アラン・ギヨタンの称号",
+  },
+  {
     en: "Euphrasie",
     ja: "ユーフラシア",
     zhCN: "欧芙",
@@ -3460,6 +3485,60 @@
     zhCN: "伊丝黛莱",
     tags: [ "fontaine", "character-sub" ],
     notes: "フォンテーヌの鍛冶屋",
+  },
+  {
+    en: "Livre",
+    ja: "リーヴァ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "レシュッツのクロックワーク工房の店主",
+  },
+  {
+    en: "Caron",
+    ja: "カロン",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "ルポート時計店の店主",
+  },
+  {
+    en: "Maillardet",
+    ja: "マイヤルデ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "氷風組曲の戦闘開始受付キャラクター",
+  },
+  {
+    en: "Gestionnaire",
+    ja: "共律官",
+    tags: [ "fontaine", "title" ],
+    notes: "フォンテーヌの役人",
+  },
+  {
+    en: "Garde",
+    ja: "警察隊員",
+    tags: [ "fontaine", "title" ],
+    notes: "執律庭に所属する警察隊員",
+  },
+  {
+    en: "Cowell",
+    ja: "コーウェル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "魔神任務第4章第1幕に登場するキャラクター",
+  },
+  {
+    en: "Halsey",
+    ja: "ホールジー",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "魔神任務第4章第1幕に登場するキャラクター",
+  },
+  {
+    en: "Faranak",
+    ja: "ファラナク",
+    tags: [ "fontaine", "sumeru", "character-sub" ],
+    notes: "カーヴェの母",
+  },
+  {
+    en: "Lochknight",
+    ja: "純水騎士",
+    pronunciationJa: "じゅんすいきし",
+    tags: [ "fontaine", "title" ],
   },
   {
     en: "Garcia",

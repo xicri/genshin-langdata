@@ -1759,6 +1759,13 @@
     pronunciationJa: "アル・ヌハスのみやこ",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Chemin Oublie",
+    ja: "忘れられし道",
+    pronunciationJa: "わすれられしみち",
+    tags: [ "sumeru", "location" ],
+    notes: "スメールのファラクケルトの園と、フォンテーヌのロマリタイムハーバーを繋ぐトンネル。英語名は「忘れられし道」をフランス語で表現していると思われる",
+  },
 
   {
     en: "flowery sea",
@@ -1835,6 +1842,49 @@
     tags: [ "fontaine", "location" ],
   },
   {
+    en: "Palais Mermonia",
+    ja: "パレ・メルモニア",
+    tags: [ "fontaine", "location", "facility" ],
+  },
+  {
+    en: "Court Region Waterway Hub",
+    ja: "廷地区アクアロード・ターミナル",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Vasari Passage",
+    ja: "ヴァザーリ回廊",
+    pronunciationJa: "ヴァザーリかいろう",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Quartier Lyonnais",
+    ja: "リヨンエリア",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Quartier Narbonnais",
+    ja: "ナルボンヌエリア",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Erinnyes",
+    ja: "エリニュス島",
+    pronunciationJa: "エリニュスとう",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Marcotte Station",
+    ja: "ポート・マルコット",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Fountain of Lucine",
+    ja: "ルキナの泉",
+    pronunciationJa: "ルキナのいずみ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
     en: "Opera Epiclese",
     ja: "エピクレシス歌劇場",
     zhCN: "欧庇克莱歌剧院",
@@ -1842,6 +1892,14 @@
     tags: [ "fontaine", "location", "facility" ],
     notes: "Epiclese は恐らくフランス語の Épiclèse が原義で、これは英語に訳すと Epiclesis となる。キリスト教において、ミサなど儀式での祈りを意味する言葉。参考: [Wikipedia ― エピクレーシス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%B9)",
   },
+  {
+    en: "Opera House",
+    ja: "歌劇場",
+    pronunciationJa: "かげきじょう",
+    tags: [ "fontaine", "location", "facility" ],
+    notes: "エピクレシス歌劇場の略称",
+  },
+
   {
     en: "Belleau Region",
     ja: "ブロー地区",
@@ -1855,12 +1913,12 @@
     zhCN: "海露港",
     tags: [ "fontaine", "location" ],
   },
-  // {
-  //   en: "", // TODO
-  //   ja: "ポワソン町",
-  //   pronunciationJa: "ポワソンちょう",
-  //   tags: [ "fontaine", "location" ],
-  // },
+  {
+    en: "Poisson",
+    ja: "ポワソン町",
+    pronunciationJa: "ポワソンちょう",
+    tags: [ "fontaine", "location" ],
+  },
   {
     en: "West Slopes of Mont Automnequi",
     ja: "ウェスト・オトンヌキ",
@@ -1888,6 +1946,12 @@
     tags: [ "fontaine", "location" ],
   },
   {
+    en: "Merusea Village",
+    ja: "メリュシー村",
+    pronunciationJa: "メリュシーむら",
+    tags: [ "fontaine", "location" ],
+  },
+  {
     en: "\"A Very Warm Place\"",
     ja: "「とてもあったかい場所」",
     zhCN: "「特别温暖的地方」",
@@ -1899,6 +1963,24 @@
     ja: "「さみしい場所」",
     zhCN: "「寂寞的地方」",
     pronunciationJa: "さみしいばしょ",
+    tags: [ "fontaine", "location" ],
+  },
+
+  {
+    en: "Source of ALl Waters: The Great Fontaine Lake",
+    ja: "万水の源・グレート・フォンテーヌ・レイク",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Elton Trench",
+    ja: "エルトン海溝",
+    pronunciationJa: "エルトンかいこう",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Thalatta Submarine Canyon",
+    ja: "タラッタ海底谷",
+    pronunciationJa: "タラッタかいていこく",
     tags: [ "fontaine", "location" ],
   },
 

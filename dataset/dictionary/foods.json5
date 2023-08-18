@@ -472,6 +472,16 @@
     zhCN: "萨巴桑炸角",
     tags: [ "food" ],
   },
+  {
+    en: "Garlic Baguette",
+    ja: "ガーリックバゲット",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fonta",
+    ja: "フォンタ",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -877,6 +887,11 @@
     en: "Minty Fruit Tea",
     ja: "ミントフルーツティー",
     zhCN: "薄荷曼果茶",
+    tags: [ "food" ],
+  },
+  {
+    en: "Poisson Seafood Soup",
+    ja: "ポワソンシーフードスープ",
     tags: [ "food" ],
   },
 
@@ -1662,6 +1677,11 @@
     tags: [ "food", "sumeru" ],
   },
 
+  {
+    en: "Bulle Fruit",
+    ja: "バブルオレンジ",
+    tags: [ "food", "fontaine" ],
+  },
   {
     en: "Marcotte",
     ja: "マルコット草",

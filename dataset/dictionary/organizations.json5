@@ -389,6 +389,18 @@
     tags: [ "fontaine", "organization" ],
   },
   {
+    en: "The Steambird publishing house",
+    ja: "スチームバード新聞社",
+    pronunciationJa: "スチームバードしんぶんしゃ",
+    tags: [ "fontaine", "organization", "facility" ],
+  },
+  {
+    en: "Spina di Rosula",
+    ja: "棘薔薇の会",
+    pronunciationJa: "スピナ・ディ・ロースラ",
+    tags: [ "fontaine", "organization" ],
+  },
+  {
     en: "Daydream Club",
     ja: "空想クラブ",
     zhCN: "空想俱乐部",
@@ -403,6 +415,12 @@
     tags: [ "fontaine", "organization" ],
   },
   {
+    en: "Maison Ordalie",
+    ja: "検律庭",
+    pronunciationJa: "けんりつてい", // TODO Need Check
+    tags: [ "fontaine", "organization" ],
+  },
+  {
     en: "Special Security and Surveillance Patrol",
     ja: "特巡隊",
     zhCN: "特巡队",
@@ -413,6 +431,11 @@
     en: "Marechaussee Phantom",
     ja: "マレショーセ・ファントム",
     zhCN: "逐影庭",
+    tags: [ "fontaine", "organization" ],
+  },
+  {
+    en: "Liliacruces Forum",
+    ja: "十字鈴蘭学会",
     tags: [ "fontaine", "organization" ],
   },
 

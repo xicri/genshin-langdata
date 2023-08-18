@@ -626,12 +626,40 @@
     notes: "原海アベラントのドロップアイテム (★1)",
   },
   {
+    en: "Transoceanic Chunk",
+    ja: "異海の塊",
+    pronunciationJa: "いかいのかたまり", // TODO Need Check
+    tags: [ "drop", "fontaine" ],
+    notes: "原海アベラントのドロップアイテム (★2)",
+  },
+  {
+    en: "Xenochromatic Crystal",
+    ja: "色変わりの結晶",
+    pronunciationJa: "いろがわりのけっしょう",
+    tags: [ "drop", "fontaine" ],
+    notes: "原海アベラントのドロップアイテム (★3)",
+  },
+  {
     en: "Drop of Tainted Water",
     ja: "濁水のひとしずく",
     zhCN: "浊水的一滴",
     pronunciationJa: "だくすいのひとしずく", // TODO Need Check
     tags: [ "drop", "fontaine" ],
     notes: "濁水幻霊のドロップアイテム (★2)",
+  },
+  {
+    en: "Scoop of Tainted Water",
+    ja: "濁水のひとすくい",
+    pronunciationJa: "だくすいのひとすくい", // TODO Need Check
+    tags: [ "drop", "fontaine" ],
+    notes: "濁水幻霊のドロップアイテム (★3)",
+  },
+  {
+    en: "Newborn Tainted Hydro Phantasm",
+    ja: "生まれたての濁水幻霊",
+    pronunciationJa: "うまれたてのだくすいげんれい", // TODO Need Check
+    tags: [ "drop", "fontaine" ],
+    notes: "濁水幻霊のドロップアイテム (★4)",
   },
   {
     en: "Meshing Gear",
@@ -642,11 +670,39 @@
     notes: "クロックワーク・マシナリーのドロップアイテム (★1)",
   },
   {
+    en: "Mechanical Spur Gear",
+    ja: "機構の平歯車",
+    pronunciationJa: "きこうのひらはぐるま",
+    tags: [ "drop", "fontaine" ],
+    notes: "クロックワーク・マシナリーのドロップアイテム (★2)",
+  },
+  {
+    en: "Artificed Dynamic Gear",
+    ja: "奇械のコア歯車",
+    pronunciationJa: "きかいのコアはぐるま",
+    tags: [ "drop", "fontaine" ],
+    notes: "クロックワーク・マシナリーのドロップアイテム (★3)",
+  },
+  {
     en: "Rift Core",
     ja: "隙間のコア",
     zhCN: "隙间之核",
     pronunciationJa: "すきまのコア",
     tags: [ "drop", "fontaine" ],
     notes: "ブリーチャープリムスのドロップアイテム (★2)",
+  },
+  {
+    en: "Foreign Synapse",
+    ja: "外界のシナプス",
+    pronunciationJa: "がいかいのシナプス",
+    tags: [ "drop", "fontaine" ],
+    notes: "ブリーチャープリムスのドロップアイテム (★3)",
+  },
+  {
+    en: "Alien Life Core",
+    ja: "異界生命体のコア",
+    pronunciationJa: "いかいせいめいたいのコア",
+    tags: [ "drop", "fontaine" ],
+    notes: "ブリーチャープリムスのドロップアイテム (★4)",
   },
 ]

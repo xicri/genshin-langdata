@@ -180,6 +180,32 @@
     tags: [ "drop-boss", "sumeru" ],
     notes: "深罪の浸礼者のドロップアイテム",
   },
+  {
+    en: "Artificed Spare Clockwork Component ― Coppelia",
+    ja: "奇械部品・コッペリア",
+    pronunciationJa: "きかいぶひん・コッペリア",
+    tags: [ "drop-boss", "fontaine" ],
+    notes: "氷風組曲・コッペリアのドロップアイテム",
+  },
+  {
+    en: "Artificed Spare Clockwork Component ― Coppelius",
+    ja: "奇械部品・コペリウス",
+    pronunciationJa: "きかいぶひん・コペリウス",
+    tags: [ "drop-boss", "fontaine" ],
+    notes: "氷風組曲・コペリウスのドロップアイテム",
+  },
+  {
+    en: "Emperor's Resolution",
+    ja: "帝王の決断",
+    pronunciationJa: "ていおうのけつだん",
+    tags: [ "drop-boss", "fontaine" ],
+    notes: "鉄甲熔炎帝王のドロップアイテム",
+  },
+
+  //
+  // Weekly Bosses
+  //
+
   // Dvalin
   {
     en: "Dvalin's Plume",
