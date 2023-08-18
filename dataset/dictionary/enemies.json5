@@ -1861,9 +1861,9 @@
   },
   {
     en: "Armored Crab",
-    ja: "重甲ヤドガニ",
+    ja: "重甲ヤドカニ",
     zhCN: "重甲蟹",
-    pronunciationJa: "じゅうこうヤドガニ", // TODO Need Check
+    pronunciationJa: "じゅうこうヤドカニ", // TODO Need Check
     tags: [ "fontaine", "enemy" ],
   },
   {
@@ -1872,7 +1872,7 @@
     zhCN: "重甲护盾",
     pronunciationJa: "じゅうこうシールド", // TODO Need Check
     tags: [ "fontaine" ],
-    notes: "重甲ヤドガニ亜種から獲得できる能力",
+    notes: "重甲ヤドカニ亜種から獲得できる能力",
   },
   {
     en: "Hunter's Ray",
