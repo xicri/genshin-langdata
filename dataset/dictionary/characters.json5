@@ -3432,7 +3432,7 @@
     en: "Hydro Archon",
     ja: "水神",
     zhCN: "水神",
-    // TODO pronunciationJa: "すいじん? すいしん?",
+    pronunciationJa: "すいじん",
     tags: [ "fontaine", "title" ],
   },
 
