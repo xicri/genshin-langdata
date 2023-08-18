@@ -73,10 +73,11 @@
   },
   {
     en: "The Seven",
-    ja: "七神",
-    zhCN: "七神",
-    pronunciationJa: "しちしん",
+    ja: "七神 / 俗世の七執政",
+    zhCN: "七神 / 尘世七执政",
+    pronunciationJa: "しちしん / ぞくせのしちしっせい",
     tags: [ "title" ],
+    notes: "英語版には俗世の七執政に対応する訳語はなく、七神と同様に The Seven と表される",
   },
   {
     en: "erode",
