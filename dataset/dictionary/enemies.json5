@@ -413,19 +413,19 @@
     en: "Hilichurl Rogue",
     ja: "ヒルチャールレンジャー",
     zhCN: "丘丘游侠",
-    tags: [ "enemy", "sumeru" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Anemo Hilichurl Rogue",
     ja: "ヒルチャールレンジャー・風",
     zhCN: "丘丘风行游侠",
-    tags: [ "enemy", "sumeru" ],
+    tags: [ "enemy" ],
   },
   {
     en: "Hydro Hilichurl Rogue",
     ja: "ヒルチャールレンジャー・水",
     zhCN: "丘丘水行游侠",
-    tags: [ "enemy", "sumeru" ],
+    tags: [ "enemy" ],
   },
 
   // Automatons
@@ -1626,42 +1626,42 @@
     ja: "聖骸獣",
     zhCN: "圣骸兽",
     pronunciationJa: "せいがいじゅう",
-    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "enemy" ],
   },
   {
     en: "Consecrated Flying Serpent",
     ja: "聖骸トビヘビ",
     zhCN: "圣骸飞蛇",
     pronunciationJa: "せいがいトビヘビ",
-    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "enemy" ],
   },
   {
     en: "Consecrated Scorpion",
     ja: "聖骸サソリ",
     zhCN: "圣骸毒蝎",
     pronunciationJa: "せいがいサソリ",
-    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "enemy" ],
   },
   {
     en: "Consecrated Red Vulture",
     ja: "聖骸赤鷲",
     zhCN: "圣骸赤鹫",
     pronunciationJa: "せいがいあかわし",
-    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "enemy" ],
   },
   {
     en: "Consecrated Fanged Beast",
     ja: "聖骸牙獣",
     zhCN: "圣骸牙兽",
     pronunciationJa: "せいがいがじゅう", // TODO Need confirmation
-    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "enemy" ],
   },
   {
     en: "Consecrated Horned Crocodile",
     ja: "聖骸ツノワニ",
     zhCN: "圣骸角鳄",
     pronunciationJa: "せいがいツノワニ",
-    tags: [ "sumeru", "enemy" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "enemy" ],
   },
 
   {

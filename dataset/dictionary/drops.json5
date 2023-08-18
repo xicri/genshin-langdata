@@ -573,7 +573,7 @@
     ja: "毀れた背骨",
     zhCN: "残毁的横脊",
     pronunciationJa: "やぶれたはいこつ",
-    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "drop" ],
     notes: "聖骸獣のドロップアイテム (★2)",
   },
   {
@@ -581,14 +581,14 @@
     ja: "堅固な背骨",
     zhCN: "密固的横脊",
     pronunciationJa: "けんごなはいこつ",
-    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "drop" ],
     notes: "聖骸獣のドロップアイテム (★3)",
   },
   {
     en: "Marked Shell",
     ja: "刻紋の背骨",
     zhCN: "锲纹的横脊",
-    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "drop" ],
     notes: "聖骸獣のドロップアイテム (★4)",
     pinyins: [{ char: "锲", pron: "qie4" }],
   },
@@ -597,7 +597,7 @@
     ja: "何処かで摘まれた咲きかけの花",
     pronunciationJa: "どこかでつまれたさきかけのはな",
     zhCN: "来自何处的待放之花",
-    tags: [ "drop", "sumeru" ],
+    tags: [ "drop" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★2)",
   },
   {
@@ -605,7 +605,7 @@
     ja: "誰かが大切にしていた花",
     zhCN: "何人所珍藏之花",
     pronunciationJa: "だれかがたいせつにしていたはな",
-    tags: [ "drop", "sumeru" ],
+    tags: [ "drop" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★3)",
   },
   {
@@ -613,7 +613,7 @@
     ja: "流浪者の満開の花",
     zhCN: "漫游者的盛放之花",
     pronunciationJa: "るろうしゃのまんかいのはな",
-    tags: [ "drop", "sumeru" ],
+    tags: [ "drop" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★4)",
   },
 
