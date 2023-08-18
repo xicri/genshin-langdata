@@ -1667,12 +1667,12 @@
     ja: "マルコット草",
     zhCN: "茉洁草",
     pronunciationJa: "マルコットそう",
-    tags: [ "specialty", "fontaine" ],
+    tags: [ "food", "fontaine" ],
   },
   {
     en: "Tidalga",
     ja: "タイダルガ",
     zhCN: "汐藻",
-    tags: [ "specialty", "fontaine" ],
+    tags: [ "food", "fontaine" ],
   },
 ]
