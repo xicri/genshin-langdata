@@ -3367,7 +3367,6 @@
     ja: "フレミネ",
     zhCN: "菲米尼",
     tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Egeria",
@@ -3388,7 +3387,6 @@
     ja: "リオセスリ",
     zhCN: "莱欧斯利",
     tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Sigewinne",
@@ -3416,7 +3414,6 @@
     ja: "ヌヴィレット",
     zhCN: "那维莱特",
     tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Chief Justice",
