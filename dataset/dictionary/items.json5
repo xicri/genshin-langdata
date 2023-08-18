@@ -934,7 +934,7 @@
     en: "Sugardew Bait",
     ja: "甘露餌",
     zhCN: "甘露饵",
-    tags: [ "item" ],
+    tags: [ "item", "sumeru" ],
   },
 
   //
