@@ -257,10 +257,28 @@
   },
   // Fontaine
   {
+    en: "Rainbow Rose",
+    ja: "レインボーローズ",
+    zhCN: "虹彩蔷薇",
+    tags: [ "specialty", "fontaine" ],
+  },
+  {
+    en: "Lumidouce Bell",
+    ja: "ルミドゥースベル",
+    zhCN: "柔灯铃",
+    tags: [ "specialty", "fontaine" ],
+  },
+  {
     en: "Romaritime Flower",
     ja: "ロマリタイムフラワー",
     zhCN: "海露花",
     tags: [ "specialty", "fontaine" ], // TODO need check if this is an object
     notes: "※タグは仮で、特産品か否かは未確認",
+  },
+  {
+    en: "Beryl Conch",
+    ja: "蒼晶螺",
+    zhCN: "苍晶螺",
+    tags: [ "specialty", "fontaine" ],
   },
 ]
