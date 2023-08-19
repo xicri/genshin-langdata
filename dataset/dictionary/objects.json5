@@ -170,6 +170,20 @@
     tags: [ "object", "sumeru" ],
   },
   {
+    en: "Hydrogranum / Hydrograna",
+    ja: "水の種",
+    pronunciationJa: "みずのたね",
+    notes: "Hydrogranum は単数形、Hydrograna は複数形。granum はラテン語で「種」の意?",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Hydro Core",
+    ja: "水の核",
+    pronunciationJa: "みずのかく",
+    notes: "水の種を3個集めるなどした時に生成されるオブジェクト",
+    tags: [ "object", "fontaine" ],
+  },
+  {
     en: "Thunder Sphere",
     ja: "雷極",
     zhCN: "雷极",
@@ -892,6 +906,12 @@
   // Fontaine
   //
   {
+    en: "Oratrice Mecanique d'Analyse Cardinale",
+    ja: "諭示裁定カーディナル",
+    pronunciationJa: "ゆしさいていカーディナル",
+    tags: [ "object", "fontaine" ],
+  },
+  {
     en: "aquabus",
     ja: "巡水船",
     zhCN: "巡轨船",
@@ -911,6 +931,13 @@
     pronunciationJa: "こだまホラガイ / よいんのホラガイ",
     notes: "こだまホラガイはフォンテーヌ海域にあるギミック装置。余韻のホラガイは金リンゴ群島 (v1.6 期間限定イベント「余韻の叙述」及び v2.8 期間限定イベント「幻声留形」) で収集するアイテム",
     tags: [ "object", "fontaine", "event", "item" ],
+  },
+  {
+    en: "Sonar Resonance Point",
+    ja: "音波共鳴ポイント",
+    pronunciationJa: "おんぱきょうめいポイント",
+    tags: [ "object", "fontaine" ],
+    notes: "プクプク獣の音波の能力や、こだまホラガイで反応するポイント",
   },
   {
     en: "Fantastical Floating Ball",
@@ -950,5 +977,33 @@
     ja: "ウーシアクラスター",
     zhCN: "荒性能量块",
     tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Pneumousia Relay",
+    ja: "プネウムシア中継柱",
+    pronunciationJa: "プネウムシアちゅうけいちゅう",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Pneumousia Storage Box",
+    ja: "プネウムシアストレージボックス",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Water Volume Detection Crystal",
+    ja: "水量探測クリスタル",
+    pronunciationJa: "すいりょうたんそくクリスタル",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Antoine Roger Aircraft",
+    ja: "アントーン・ロジャー飛行マシナリー",
+    tags: [ "object", "fontaine" ],
+  },
+  {
+    en: "Gardemek",
+    ja: "警備ロボ",
+    tags: [ "object", "fontaine" ],
+    notes: "執律庭が用いるクロックワーク・マシナリー",
   },
 ]

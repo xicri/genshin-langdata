@@ -199,6 +199,28 @@
     notes: "魔神任務 第三章第六幕の任務名、並びに同任務に登場するキャラクター名",
   },
 
+  // Fontaine
+  {
+    en: "Prelude of Blancheur and Noirceur",
+    ja: "白露と黒潮の序詩",
+    pronunciationJa: "しらつゆとくろしおのじょし", // TODO Need Check
+    tags: [ "fontaine", "quest-archon" ],
+  },
+  {
+    en: "As Light Rain Falls Without Reason",
+    ja: "ゆえなく煙る霧雨のように",
+    pronunciationJa: "ゆえなくけむるきりさめのように",
+    tags: [ "fontaine", "quest-archon" ],
+  },
+
+  {
+    en: "Interlude",
+    ja: "間章",
+    pronunciationJa: "かんしょう", // TODO Need Check
+    tags: [ "quest-archon" ],
+    notes: "魔神任務の間章のこと",
+  },
+
   //
   // World Quests
   //
@@ -1232,6 +1254,36 @@
     tags: [ "sumeru", "quest-world" ],
   },
   {
+    en: "Where Are the Fierce Creatures?",
+    ja: "凶猛動物はどこだ",
+    pronunciationJa: "きょうもうどうぶつはどこだ", // TODO Need Check
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Garcia's Paean: A Gift of Compatibility",
+    ja: "ガルシアの賛歌・妥当な贈り物",
+    pronunciationJa: "ガルシアのさんか・だとうなおくりもの",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Treasure of Wisdom: A New Plan",
+    ja: "智にある宝・新計画",
+    pronunciationJa: "ちにあるたから・しんけいかく",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "Static Views",
+    ja: "静態的風景",
+    pronunciationJa: "せいたいてきふうけい",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
+    en: "The Foolish Fatuus",
+    ja: "騙す者は騙される",
+    pronunciationJa: "だますものはだまされる",
+    tags: [ "sumeru", "quest-world" ],
+  },
+  {
     en: "Next Time, On King of Invokations...",
     ja: "『召喚王・下! って…』",
     zhCN: "《召唤王·下集！是…》",
@@ -1468,6 +1520,38 @@
     zhCN: "一个枫丹人的回忆",
     pronunciationJa: "とあるフォンテーヌじんのおもいで",
     tags: [ "sumeru", "quest-world" ],
+  },
+
+  // Fontaine
+  {
+    en: "A Brush of Seafoam and Crimson",
+    ja: "シーフォームとクリムゾンの描染",
+    pronunciationJa: "シーフォームとクリムゾンのかきぞめ", // TODO Need Check
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "The Narzissenkreuz Adventure",
+    ja: "「水仙十字大冒険」",
+    pronunciationJa: "すいせんじゅうじだいぼうけん", // TODO Need Check
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Aqueous Tidemarks",
+    ja: "水色の潮痕",
+    pronunciationJa: "みずいろのちょうこん", // TODO Need Check
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Upon a Flowery Field of Grass",
+    ja: "花咲き誇る芝生にて",
+    pronunciationJa: "はなさきほこるしばふにて",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Semi-Automatic Forging",
+    ja: "半オート鍛造",
+    pronunciationJa: "はんオートたんぞう",
+    tags: [ "fontaine", "quest-world" ],
   },
 
   //
@@ -2045,6 +2129,12 @@
     ja: "璃月港に海賊あり!",
     zhCN: "璃月港，有海盗！",
     pronunciationJa: "リーユェこうにかいぞくあり!",
+    tags: [ "quest-daily", "liyue" ],
+  },
+  {
+    en: "Where Is the Unseen Razor?",
+    ja: "剣はいずこ?",
+    pronunciationJa: "けんはいずこ",
     tags: [ "quest-daily", "liyue" ],
   },
   {

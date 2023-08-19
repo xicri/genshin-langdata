@@ -315,18 +315,69 @@
   // Fontaine
   //
   {
-    en: "Opera Epiclese",
-    ja: "エピクレシス歌劇場",
-    zhCN: "欧庇克莱歌剧院",
-    pronunciationJa: "エピクレシスかげきじょう",
+    en: "Station Main Hall",
+    ja: "セントラルポートホール",
     tags: [ "fontaine", "facility" ],
-    notes: "Epiclese は恐らくフランス語の Épiclèse が原義で、これは英語に訳すと Epiclesis となる。キリスト教において、ミサなど儀式での祈りを意味する言葉。参考: [Wikipedia ― エピクレーシス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%B9)",
+    notes: "フォンテーヌ廷の巡水船乗り場の1F",
+  },
+  {
+    en: "Callas Line",
+    ja: "カーレス線",
+    tags: [ "fontaine", "facility" ],
+    notes: "フォンテーヌの巡水船の線の1つ",
+  },
+  {
+    en: "Clementine Line",
+    ja: "クレメンタイン線",
+    tags: [ "fontaine", "facility" ],
+    notes: "フォンテーヌの巡水船の線の1つ",
+  },
+  {
+    en: "Navia Line",
+    ja: "ナヴィア線",
+    tags: [ "fontaine", "facility" ],
+    notes: "フォンテーヌの巡水船の線の1つ",
+  },
+  {
+    en: "Hotel Debord",
+    ja: "ホテル・ドゥボール",
+    tags: [ "fontaine", "facility" ],
+  },
+  {
+    en: "Café Lucerne",
+    ja: "カフェ・ルツェルン",
+    tags: [ "fontaine", "facility" ],
+  },
+  {
+    en: "Chioriya Boutique",
+    ja: "千織屋",
+    tags: [ "fontaine", "facility" ],
+  },
+  {
+    en: "Bertin's House of Curiosities",
+    ja: "バーティンの珍奇館",
+    pronunciationJa: "バーティンのちんきかん",
+    tags: [ "fontaine", "facility" ],
+    notes: "水の印交換ショップ",
+  },
+  {
+    en: "Beaumont Workshop",
+    ja: "ボーモント工房",
+    pronunciationJa: "ボーモントこうぼう",
+    tags: [ "fontaine", "facility" ],
+    notes: "フォンテーヌの鍛冶屋",
   },
   {
     en: "Leschots Clockwork Workshop",
     ja: "レシュッツのクロックワーク工房",
     zhCN: "莱舒的发条工坊",
     pronunciationJa: "レシュッツのクロックワークこうぼう",
+    tags: [ "fontaine", "facility" ],
+  },
+  {
+    en: "Lepaute Horlogerie",
+    ja: "ルポート時計店",
+    pronunciationJa: "ルポートとけいてん",
     tags: [ "fontaine", "facility" ],
   },
 

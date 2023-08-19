@@ -168,7 +168,7 @@
     ja: "萃華材",
     zhCN: "萃华木",
     pronunciationJa: "すいかざい",
-    tags: [ "sereniteapot", "mondstadt", "liyue" ],
+    tags: [ "sereniteapot" ],
   },
   {
     en: "Birch Wood",
@@ -235,6 +235,16 @@
     ja: "ヤシ材",
     zhCN: "刺葵木",
     tags: [ "sereniteapot", "sumeru" ],
+  },
+  {
+    en: "Mallow Wood",
+    ja: "マロウ材",
+    tags: [ "sereniteapot", "fontaine" ],
+  },
+  {
+    en: "Cypress Wood",
+    ja: "コウハクジュ材",
+    tags: [ "sereniteapot", "fontaine" ],
   },
 
   //

@@ -132,6 +132,13 @@
     notes: "oculus はラテン語で「目」の意",
   },
   {
+    en: "Hydroculus",
+    ja: "失われた水神の瞳",
+    pronunciationJa: "うしなわれたすいじんのひとみ",
+    tags: [ "item", "fontaine" ],
+    notes: "oculus はラテン語で「目」の意",
+  },
+  {
     en: "Anemoculus Resonance Stone",
     ja: "風神の瞳の共鳴石",
     zhCN: "风神瞳共鸣石",
@@ -208,6 +215,12 @@
     zhCN: "草之印",
     pronunciationJa: "くさのしるし",
     tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Hydro Sigil",
+    ja: "水の印",
+    pronunciationJa: "みずのしるし",
+    tags: [ "item", "fontaine" ],
   },
   {
     en: "Liyue Shrine of Depths Key",
@@ -620,6 +633,11 @@
     zhCN: "毗波耶",
     tags: [ "item", "sumeru" ],
   },
+  {
+    en: "Pluie Lotus",
+    ja: "プリュイロータス",
+    tags: [ "item", "fontaine" ],
+  },
 
   //
   // Billets
@@ -747,6 +765,12 @@
     zhCN: "紫晶块",
     pronunciationJa: "むらさきすいしょうのかたまり",
     tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "Condessence Crystal",
+    ja: "萃凝晶",
+    pronunciationJa: "すいぎょうしょう", // TODO Need Check
+    tags: [ "item", "fontaine" ],
   },
 
   //
@@ -934,7 +958,17 @@
     en: "Sugardew Bait",
     ja: "甘露餌",
     zhCN: "甘露饵",
-    tags: [ "item" ],
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Sour Bait",
+    ja: "すっぱいオレンジの餌",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Flashing Maintenance Mek Bait",
+    ja: "メンテマシナリーの閃光釣り餌",
+    tags: [ "item", "fontaine" ],
   },
 
   //
@@ -1262,6 +1296,24 @@
     zhCN: "灵光绝唱",
     pronunciationJa: "れいこうぜっしょう",
     tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Magic Pocket",
+    ja: "マジックポケット",
+    tags: [ "item", "fontaine" ],
+    notes: "リネたちが配っている収納のためのマジック道具",
+  },
+  {
+    en: "\"Opera House Switcheroo\" Case Record",
+    ja: "「歌劇場の交換マジック」事件ファイル",
+    pronunciationJa: "かげきじょうのこうかんマジックじけんファイル",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Liliacruces Treasure",
+    ja: "十字鈴蘭秘宝",
+    pronunciationJa: "じゅうじすずらんひほう",
+    tags: [ "item", "fontaine" ],
   },
 
   //

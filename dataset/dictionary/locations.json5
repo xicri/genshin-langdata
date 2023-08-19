@@ -1759,6 +1759,13 @@
     pronunciationJa: "アル・ヌハスのみやこ",
     tags: [ "sumeru", "location" ],
   },
+  {
+    en: "Chemin Oublie",
+    ja: "忘れられし道",
+    pronunciationJa: "わすれられしみち",
+    tags: [ "sumeru", "location" ],
+    notes: "スメールのファラクケルトの園と、フォンテーヌのロマリタイムハーバーを繋ぐトンネル。英語名は「忘れられし道」をフランス語で表現していると思われる",
+  },
 
   {
     en: "flowery sea",
@@ -1835,18 +1842,64 @@
     tags: [ "fontaine", "location" ],
   },
   {
-    en: "Poisson Tunnel",
-    ja: "ポワソントンネル",
-    zhCN: "白淞隧道",
+    en: "Palais Mermonia",
+    ja: "パレ・メルモニア",
+    tags: [ "fontaine", "location", "facility" ],
+  },
+  {
+    en: "Court Region Waterway Hub",
+    ja: "廷地区アクアロード・ターミナル",
     tags: [ "fontaine", "location" ],
   },
   {
-    en: "Beryl Region",
-    ja: "ベリル地区",
-    zhCN: "苍晶区",
-    pronunciationJa: "ベリルちく",
+    en: "Vasari Passage",
+    ja: "ヴァザーリ回廊",
+    pronunciationJa: "ヴァザーリかいろう",
     tags: [ "fontaine", "location" ],
   },
+  {
+    en: "Quartier Lyonnais",
+    ja: "リヨンエリア",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Quartier Narbonnais",
+    ja: "ナルボンヌエリア",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Erinnyes",
+    ja: "エリニュス島",
+    pronunciationJa: "エリニュスとう",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Marcotte Station",
+    ja: "ポート・マルコット",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Fountain of Lucine",
+    ja: "ルキナの泉",
+    pronunciationJa: "ルキナのいずみ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Opera Epiclese",
+    ja: "エピクレシス歌劇場",
+    zhCN: "欧庇克莱歌剧院",
+    pronunciationJa: "エピクレシスかげきじょう",
+    tags: [ "fontaine", "location", "facility" ],
+    notes: "Epiclese は恐らくフランス語の Épiclèse が原義で、これは英語に訳すと Epiclesis となる。キリスト教において、ミサなど儀式での祈りを意味する言葉。参考: [Wikipedia ― エピクレーシス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%B9)",
+  },
+  {
+    en: "Opera House",
+    ja: "歌劇場",
+    pronunciationJa: "かげきじょう",
+    tags: [ "fontaine", "location", "facility" ],
+    notes: "エピクレシス歌劇場の略称",
+  },
+
   {
     en: "Belleau Region",
     ja: "ブロー地区",
@@ -1855,37 +1908,47 @@
     tags: [ "fontaine", "location" ],
   },
   {
-    en: "Petrichor",
-    ja: "ペトリコール",
-    zhCN: "佩特莉可",
-    tags: [ "fontaine", "location" ],
-    notes: "恐らくフォンテーヌの地名。v2.8 期間限定イベント「からくり械画」でフェリックス・ユーグが言及。",
-  },
-  {
     en: "Romaritime Harbor",
     ja: "ロマリタイムハーバー",
     zhCN: "海露港",
     tags: [ "fontaine", "location" ],
   },
   {
-    en: "Lumidouce Harbor",
-    ja: "ルミドゥースハーバー",
-    zhCN: "柔灯港",
+    en: "Poisson",
+    ja: "ポワソン町",
+    pronunciationJa: "ポワソンちょう",
     tags: [ "fontaine", "location" ],
-    notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
   },
   {
-    en: "Fortress of Meropide",
-    ja: "メロピデ要塞",
-    zhCN: "梅洛彼得堡",
-    pronunciationJa: "メロピデようさい",
+    en: "West Slopes of Mont Automnequi",
+    ja: "ウェスト・オトンヌキ",
+    zhCN: "秋分山西侧",
     tags: [ "fontaine", "location" ],
-    notes: "恐らくフォンテーヌの地名。煙緋が2023年のバースデーメールで言及",
+  },
+  {
+    en: "Poisson Tunnel",
+    ja: "ポワソントンネル",
+    zhCN: "白淞隧道",
+    tags: [ "fontaine", "location" ],
+  },
+
+  {
+    en: "Beryl Region",
+    ja: "ベリル地区",
+    zhCN: "苍晶区",
+    pronunciationJa: "ベリルちく",
+    tags: [ "fontaine", "location" ],
   },
   {
     en: "Elynas",
     ja: "エリナス",
     zhCN: "厄里那斯",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Merusea Village",
+    ja: "メリュシー村",
+    pronunciationJa: "メリュシーむら",
     tags: [ "fontaine", "location" ],
   },
   {
@@ -1902,18 +1965,47 @@
     pronunciationJa: "さみしいばしょ",
     tags: [ "fontaine", "location" ],
   },
+
   {
-    en: "West Slope of Mont Automnequi", // TODO Need Check
-    ja: "ウェスト・オトンヌキ",
-    zhCN: "秋分山西侧",
+    en: "Source of ALl Waters: The Great Fontaine Lake",
+    ja: "万水の源・グレート・フォンテーヌ・レイク",
     tags: [ "fontaine", "location" ],
   },
-  // {
-  //   en: "", // TODO
-  //   ja: "ポワソン町",
-  //   pronunciationJa: "ポワソンちょう",
-  //   tags: [ "fontaine", "location" ],
-  // },
+  {
+    en: "Elton Trench",
+    ja: "エルトン海溝",
+    pronunciationJa: "エルトンかいこう",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Thalatta Submarine Canyon",
+    ja: "タラッタ海底谷",
+    pronunciationJa: "タラッタかいていこく",
+    tags: [ "fontaine", "location" ],
+  },
+
+  {
+    en: "Petrichor",
+    ja: "ペトリコール",
+    zhCN: "佩特莉可",
+    tags: [ "fontaine", "location" ],
+    notes: "恐らくフォンテーヌの地名。v2.8 期間限定イベント「からくり械画」でフェリックス・ユーグが言及。",
+  },
+  {
+    en: "Lumidouce Harbor",
+    ja: "ルミドゥースハーバー",
+    zhCN: "柔灯港",
+    tags: [ "fontaine", "location" ],
+    notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
+  },
+  {
+    en: "Fortress of Meropide",
+    ja: "メロピデ要塞",
+    zhCN: "梅洛彼得堡",
+    pronunciationJa: "メロピデようさい",
+    tags: [ "fontaine", "location" ],
+    notes: "恐らくフォンテーヌの地名。煙緋が2023年のバースデーメールで言及",
+  },
 
   //
   // Natlan

@@ -573,7 +573,7 @@
     ja: "毀れた背骨",
     zhCN: "残毁的横脊",
     pronunciationJa: "やぶれたはいこつ",
-    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "drop" ],
     notes: "聖骸獣のドロップアイテム (★2)",
   },
   {
@@ -581,14 +581,14 @@
     ja: "堅固な背骨",
     zhCN: "密固的横脊",
     pronunciationJa: "けんごなはいこつ",
-    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "drop" ],
     notes: "聖骸獣のドロップアイテム (★3)",
   },
   {
     en: "Marked Shell",
     ja: "刻紋の背骨",
     zhCN: "锲纹的横脊",
-    tags: [ "drop", "sumeru" ], // TODO Consecrated Beasts only appears in Sumeru?
+    tags: [ "drop" ],
     notes: "聖骸獣のドロップアイテム (★4)",
     pinyins: [{ char: "锲", pron: "qie4" }],
   },
@@ -597,7 +597,7 @@
     ja: "何処かで摘まれた咲きかけの花",
     pronunciationJa: "どこかでつまれたさきかけのはな",
     zhCN: "来自何处的待放之花",
-    tags: [ "drop", "sumeru" ],
+    tags: [ "drop" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★2)",
   },
   {
@@ -605,7 +605,7 @@
     ja: "誰かが大切にしていた花",
     zhCN: "何人所珍藏之花",
     pronunciationJa: "だれかがたいせつにしていたはな",
-    tags: [ "drop", "sumeru" ],
+    tags: [ "drop" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★3)",
   },
   {
@@ -613,7 +613,96 @@
     ja: "流浪者の満開の花",
     zhCN: "漫游者的盛放之花",
     pronunciationJa: "るろうしゃのまんかいのはな",
-    tags: [ "drop", "sumeru" ],
+    tags: [ "drop" ],
     notes: "ヒルチャールレンジャーのドロップアイテム (★4)",
+  },
+
+  {
+    en: "Transoceanic Pearl",
+    ja: "異海の露",
+    zhCN: "异海凝珠",
+    pronunciationJa: "いかいのつゆ",
+    tags: [ "drop", "fontaine" ],
+    notes: "原海アベラントのドロップアイテム (★1)",
+  },
+  {
+    en: "Transoceanic Chunk",
+    ja: "異海の塊",
+    pronunciationJa: "いかいのかたまり", // TODO Need Check
+    tags: [ "drop", "fontaine" ],
+    notes: "原海アベラントのドロップアイテム (★2)",
+  },
+  {
+    en: "Xenochromatic Crystal",
+    ja: "色変わりの結晶",
+    pronunciationJa: "いろがわりのけっしょう",
+    tags: [ "drop", "fontaine" ],
+    notes: "原海アベラントのドロップアイテム (★3)",
+  },
+  {
+    en: "Drop of Tainted Water",
+    ja: "濁水のひとしずく",
+    zhCN: "浊水的一滴",
+    pronunciationJa: "だくすいのひとしずく", // TODO Need Check
+    tags: [ "drop", "fontaine" ],
+    notes: "濁水幻霊のドロップアイテム (★2)",
+  },
+  {
+    en: "Scoop of Tainted Water",
+    ja: "濁水のひとすくい",
+    pronunciationJa: "だくすいのひとすくい", // TODO Need Check
+    tags: [ "drop", "fontaine" ],
+    notes: "濁水幻霊のドロップアイテム (★3)",
+  },
+  {
+    en: "Newborn Tainted Hydro Phantasm",
+    ja: "生まれたての濁水幻霊",
+    pronunciationJa: "うまれたてのだくすいげんれい", // TODO Need Check
+    tags: [ "drop", "fontaine" ],
+    notes: "濁水幻霊のドロップアイテム (★4)",
+  },
+  {
+    en: "Meshing Gear",
+    ja: "整合の歯車",
+    zhCN: "啮合齿轮",
+    pronunciationJa: "せいごうのはぐるま",
+    tags: [ "drop", "fontaine" ],
+    notes: "クロックワーク・マシナリーのドロップアイテム (★1)",
+  },
+  {
+    en: "Mechanical Spur Gear",
+    ja: "機構の平歯車",
+    pronunciationJa: "きこうのひらはぐるま",
+    tags: [ "drop", "fontaine" ],
+    notes: "クロックワーク・マシナリーのドロップアイテム (★2)",
+  },
+  {
+    en: "Artificed Dynamic Gear",
+    ja: "奇械のコア歯車",
+    pronunciationJa: "きかいのコアはぐるま",
+    tags: [ "drop", "fontaine" ],
+    notes: "クロックワーク・マシナリーのドロップアイテム (★3)",
+  },
+  {
+    en: "Rift Core",
+    ja: "隙間のコア",
+    zhCN: "隙间之核",
+    pronunciationJa: "すきまのコア",
+    tags: [ "drop", "fontaine" ],
+    notes: "ブリーチャープリムスのドロップアイテム (★2)",
+  },
+  {
+    en: "Foreign Synapse",
+    ja: "外界のシナプス",
+    pronunciationJa: "がいかいのシナプス",
+    tags: [ "drop", "fontaine" ],
+    notes: "ブリーチャープリムスのドロップアイテム (★3)",
+  },
+  {
+    en: "Alien Life Core",
+    ja: "異界生命体のコア",
+    pronunciationJa: "いかいせいめいたいのコア",
+    tags: [ "drop", "fontaine" ],
+    notes: "ブリーチャープリムスのドロップアイテム (★4)",
   },
 ]
