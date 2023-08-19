@@ -1862,7 +1862,7 @@
   //   tags: [ "fontaine", "location" ],
   // },
   {
-    en: "West Slope of Mont Automnequi", // TODO Need Check
+    en: "West Slopes of Mont Automnequi",
     ja: "ウェスト・オトンヌキ",
     zhCN: "秋分山西侧",
     tags: [ "fontaine", "location" ],
