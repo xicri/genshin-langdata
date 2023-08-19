@@ -2111,6 +2111,12 @@
     tags: [ "quest-daily", "mondstadt" ],
   },
   {
+    en: "A Commission From \"That Guy\"",
+    ja: "「あの方」の依頼",
+    pronunciationJa: "あのかたのいらい",
+    tags: [ "quest-daily", "mondstadt" ],
+  },
+  {
     en: "Only Half-Frozen",
     ja: "寒さ指数・中",
     zhCN: "中度冰寒",
@@ -2580,6 +2586,12 @@
     tags: [ "quest-daily", "sumeru" ],
   },
   {
+    en: "Garcia's Paean: Key Items",
+    ja: "ガルシアの賛歌・キーアイテム",
+    pronunciationJa: "ガルシアのさんか・キーアイテム",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
     en: "Concresoil",
     ja: "セメン土",
     zhCN: "凝成泥土",
@@ -2653,6 +2665,11 @@
     en: "Eat and Learn",
     ja: "食と学",
     zhCN: "食与学",
+    tags: [ "quest-daily", "sumeru" ],
+  },
+  {
+    en: "Warehousing Business",
+    ja: "倉庫保管事務",
     tags: [ "quest-daily", "sumeru" ],
   },
 

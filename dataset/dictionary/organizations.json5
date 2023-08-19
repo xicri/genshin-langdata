@@ -434,9 +434,26 @@
     tags: [ "fontaine", "organization" ],
   },
   {
+    en: "Hotel Bouffes d'ete",
+    ja: "ブーフ・ド・エテの館",
+    tags: [ "fontaine", "organization" ],
+  },
+  {
+    en: "Confrerie of Cabriere",
+    ja: "カブリエール商会",
+    tags: [ "fontaine", "organization" ],
+  },
+  {
     en: "Liliacruces Forum",
     ja: "十字鈴蘭学会",
     tags: [ "fontaine", "organization" ],
+  },
+  {
+    en: "House of the Hearth",
+    ja: "壁炉の家",
+    pronunciationJa: "ハウス・オブ・ハース",
+    tags: [ "fontaine", "snezhnaya", "organization" ],
+    notes: "召使の運営する孤児院",
   },
 
   //

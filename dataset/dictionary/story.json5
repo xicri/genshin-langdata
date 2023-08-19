@@ -661,6 +661,22 @@
   },
 
   //
+  // Fontaine
+  //
+  {
+    en: "Indemnitium",
+    ja: "律償混合エネルギー",
+    pronunciationJa: "りっしょうこんごうエネルギー",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Water from the Primordial Sea",
+    ja: "原始胎海の水",
+    pronunciationJa: "げんしたいかいのみず",
+    tags: [ "fontaine" ],
+  },
+
+  //
   // Snezhnaya / Fatui
   //
   {
