@@ -912,6 +912,13 @@
     tags: [ "object", "fontaine" ],
   },
   {
+    en: "Oratrice",
+    ja: "諭示機",
+    pronunciationJa: "ゆしき",
+    tags: [ "object", "fontaine" ],
+    notes: "諭示裁定カーディナルの略称",
+  },
+  {
     en: "aquabus",
     ja: "巡水船",
     zhCN: "巡轨船",

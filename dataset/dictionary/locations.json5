@@ -1868,6 +1868,11 @@
     tags: [ "fontaine", "location" ],
   },
   {
+    en: "Fleuve Cendre",
+    ja: "サーンドル河",
+    tags: [ "fontaine", "location" ],
+  },
+  {
     en: "Erinnyes",
     ja: "エリニュス島",
     pronunciationJa: "エリニュスとう",
@@ -1975,6 +1980,18 @@
     en: "Elton Trench",
     ja: "エルトン海溝",
     pronunciationJa: "エルトンかいこう",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Salacia Plain",
+    ja: "サラシア海原",
+    pronunciationJa: "サラシアうなばら",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Chemin de L'Espoir",
+    ja: "希望の道",
+    pronunciationJa: "きぼうのみち",
     tags: [ "fontaine", "location" ],
   },
   {

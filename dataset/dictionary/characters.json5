@@ -3389,6 +3389,12 @@
     notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
+    en: "Demoiselle",
+    ja: "お嬢様",
+    tags: [ "fontaine", "how-to-call" ],
+    notes: "ナヴィアの侍従たちからのナヴィアに対する呼び方",
+  },
+  {
     en: "Wriothesley",
     ja: "リオセスリ",
     zhCN: "莱欧斯利",
@@ -3407,6 +3413,11 @@
     zhCN: "克洛琳德",
     tags: [ "fontaine", "character-main" ],
     notes: "タグのプレイアブル・NPC 分類は仮",
+  },
+  {
+    en: "Champion Duelist",
+    ja: "決闘代理人",
+    tags: [ "fontaine", "title" ],
   },
   {
     en: "Neuvillette",
@@ -3473,6 +3484,18 @@
     notes: "アラン・ギヨタンの称号",
   },
   {
+    en: "Silver",
+    ja: "シルヴァ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "ナヴィアの侍従の1人。サングラスを掛けている若い方",
+  },
+  {
+    en: "Melus",
+    ja: "マルシラック",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "ナヴィアの侍従の1人。眼鏡を掛けている高齢な方",
+  },
+  {
     en: "Euphrasie",
     ja: "ユーフラシア",
     zhCN: "欧芙",
@@ -3525,6 +3548,12 @@
   {
     en: "Halsey",
     ja: "ホールジー",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "魔神任務第4章第1幕に登場するキャラクター",
+  },
+  {
+    en: "Liliane",
+    ja: "リリア",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
   },
