@@ -183,6 +183,7 @@
   {
     en: "Artificed Spare Clockwork Component ― Coppelia",
     ja: "奇械部品・コッペリア",
+    zhCN: "奇械发条备件·歌裴莉娅",
     pronunciationJa: "きかいぶひん・コッペリア",
     tags: [ "drop-boss", "fontaine" ],
     notes: "氷風組曲・コッペリアのドロップアイテム",
@@ -190,6 +191,7 @@
   {
     en: "Artificed Spare Clockwork Component ― Coppelius",
     ja: "奇械部品・コペリウス",
+    zhCN: "奇械发条备件·科培琉司",
     pronunciationJa: "きかいぶひん・コペリウス",
     tags: [ "drop-boss", "fontaine" ],
     notes: "氷風組曲・コペリウスのドロップアイテム",
@@ -197,6 +199,7 @@
   {
     en: "Emperor's Resolution",
     ja: "帝王の決断",
+    zhCN: "帝皇的决断",
     pronunciationJa: "ていおうのけつだん",
     tags: [ "drop-boss", "fontaine" ],
     notes: "鉄甲熔炎帝王のドロップアイテム",
