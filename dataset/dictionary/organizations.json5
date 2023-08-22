@@ -419,6 +419,7 @@
   {
     en: "Maison Ordalie",
     ja: "検律庭",
+    zhCN: "检律庭",
     pronunciationJa: "けんりつてい", // TODO Need Check
     tags: [ "fontaine", "organization" ],
   },
