@@ -1993,7 +1993,7 @@
   {
     en: "Elton Trench",
     ja: "エルトン海溝",
-    zhcN: "埃尔顿海沟",
+    zhCN: "埃尔顿海沟",
     pronunciationJa: "エルトンかいこう",
     tags: [ "fontaine", "location" ],
   },
