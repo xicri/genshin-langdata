@@ -666,12 +666,14 @@
   {
     en: "Indemnitium",
     ja: "律償混合エネルギー",
+    zhCN: "律偿混能",
     pronunciationJa: "りっしょうこんごうエネルギー",
     tags: [ "fontaine" ],
   },
   {
     en: "Water from the Primordial Sea",
     ja: "原始胎海の水",
+    zhCN: "原始胎海之水",
     pronunciationJa: "げんしたいかいのみず",
     tags: [ "fontaine" ],
   },
