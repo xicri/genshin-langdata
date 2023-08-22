@@ -371,6 +371,7 @@
   {
     en: "Echo of an Ancient Chord",
     ja: "悠久の弦の響き",
+    zhCN: "悠古弦音的回响",
     pronunciationJa: "ゆうきゅうのげんのひびき",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★5武器突破素材",
@@ -378,6 +379,7 @@
   {
     en: "Movement of an Ancient Chord",
     ja: "悠久の弦の楽章",
+    zhCN: "悠古弦音的乐章",
     pronunciationJa: "ゆうきゅうのげんのがくしょう",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★4武器突破素材",
@@ -385,6 +387,7 @@
   {
     en: "Chapter of an Ancient Chord",
     ja: "悠久の弦の断章",
+    zhCN: "悠古弦音的残章",
     pronunciationJa: "ゆうきゅうのげんのだんしょう",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★3武器突破素材",
@@ -400,6 +403,7 @@
   {
     en: "Golden Goblet of the Pristine Sea",
     ja: "無垢な海の金盃",
+    zhCN: "无垢之海的金杯",
     pronunciationJa: "むくなうみのきんぱい",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★5武器突破素材",
@@ -407,6 +411,7 @@
   {
     en: "Silver Goblet of the Pristine Sea",
     ja: "無垢な海の銀盃",
+    zhCN: "无垢之海的银杯",
     pronunciationJa: "むくなうみのぎんぱい",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★4武器突破素材",
@@ -414,6 +419,7 @@
   {
     en: "Wine Goblet of the Pristine Sea",
     ja: "無垢な海の酒盃",
+    zhCN: "无垢之海的酒盏",
     pronunciationJa: "むくなうみのしゅはい",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★3武器突破素材",
@@ -429,6 +435,7 @@
   {
     en: "Essence of Pure Sacred Dewdrop",
     ja: "純聖な雫の精髄",
+    zhCN: "纯圣露滴的真粹",
     pronunciationJa: "じゅんせいなしずくのせいずい",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★5武器突破素材",
@@ -436,13 +443,16 @@
   {
     en: "Spring of Pure Sacred Dewdrop",
     ja: "純聖な雫の甘泉",
+    zhCN: "纯圣露滴的醴泉",
     pronunciationJa: "じゅんせいなしずくのかんせん",
     tags: [ "weapon-material", "fontaine" ],
+    pinyins: [{ char: "醴", pron: "li3" }],
     notes: "★4武器突破素材",
   },
   {
     en: "Sublimation of Pure Sacred Dewdrop",
     ja: "純聖な雫の昇華",
+    zhCN: "纯圣露滴的凝华",
     pronunciationJa: "じゅんせいなしずくのしょうか",
     tags: [ "weapon-material", "fontaine" ],
     notes: "★3武器突破素材",
