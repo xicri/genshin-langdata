@@ -134,6 +134,7 @@
   {
     en: "Hydroculus",
     ja: "失われた水神の瞳",
+    zhCN: "散失的水神瞳",
     pronunciationJa: "うしなわれたすいじんのひとみ",
     tags: [ "item", "fontaine" ],
     notes: "oculus はラテン語で「目」の意",
@@ -165,6 +166,13 @@
     zhCN: "草神瞳共鸣石",
     pronunciationJa: "そうしんのひとみのきょうめいせき",
     tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "Hydroculus Resonance Stone",
+    ja: "水神の瞳の共鳴石",
+    zhCN: "水神瞳共鸣石",
+    pronunciationJa: "すいじんのひとみのきょうめいせき",
+    tags: [ "item", "fontaine" ],
   },
   {
     en: "Crimson Agate",
