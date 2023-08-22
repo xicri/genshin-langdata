@@ -227,6 +227,7 @@
   {
     en: "Hydro Sigil",
     ja: "水の印",
+    zhCN: "水之印",
     pronunciationJa: "みずのしるし",
     tags: [ "item", "fontaine" ],
   },
@@ -644,6 +645,7 @@
   {
     en: "Pluie Lotus",
     ja: "プリュイロータス",
+    zhCN: "久雨莲",
     tags: [ "item", "fontaine" ],
   },
 
@@ -777,6 +779,7 @@
   {
     en: "Condessence Crystal",
     ja: "萃凝晶",
+    zhCN: "萃凝晶",
     pronunciationJa: "すいぎょうしょう", // TODO Need Check
     tags: [ "item", "fontaine" ],
   },
@@ -971,11 +974,13 @@
   {
     en: "Sour Bait",
     ja: "すっぱいオレンジの餌",
+    zhCN: "酸桔饵",
     tags: [ "item", "fontaine" ],
   },
   {
     en: "Flashing Maintenance Mek Bait",
     ja: "メンテマシナリーの閃光釣り餌",
+    zhCN: "维护机关频闪诱饵",
     tags: [ "item", "fontaine" ],
   },
 
@@ -1308,18 +1313,21 @@
   {
     en: "Magic Pocket",
     ja: "マジックポケット",
+    zhCN: "魔术口袋",
     tags: [ "item", "fontaine" ],
     notes: "リネたちが配っている収納のためのマジック道具",
   },
   {
     en: "\"Opera House Switcheroo\" Case Record",
     ja: "「歌劇場の交換マジック」事件ファイル",
+    zhCN: "「歌剧院交换魔术」案件记录册",
     pronunciationJa: "かげきじょうのこうかんマジックじけんファイル",
     tags: [ "item", "fontaine" ],
   },
   {
     en: "Liliacruces Treasure",
     ja: "十字鈴蘭秘宝",
+    zhCN: "十字铃兰秘宝",
     pronunciationJa: "じゅうじすずらんひほう",
     tags: [ "item", "fontaine" ],
   },
