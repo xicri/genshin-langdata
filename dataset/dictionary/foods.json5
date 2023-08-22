@@ -475,11 +475,13 @@
   {
     en: "Garlic Baguette",
     ja: "ガーリックバゲット",
+    zhCN: "蒜香面包棍",
     tags: [ "food" ],
   },
   {
     en: "Fonta",
     ja: "フォンタ",
+    zhCN: "枫达",
     tags: [ "food" ],
   },
 
@@ -632,6 +634,7 @@
   {
     en: "Jade Fruit Soup",
     ja: "瓊玉果湯",
+    zhCN: "琼玉果汤",
     tags: [ "food" ],
   },
   {
@@ -897,11 +900,13 @@
   {
     en: "Crispy Potato Shrimp Platter",
     ja: "エビのポテトカナッペ",
+    zhCN: "鲜虾脆薯盏",
     tags: [ "food" ],
   },
   {
     en: "Poisson Seafood Soup",
     ja: "ポワソンシーフードスープ",
+    zhCN: "白淞鲜汤",
     tags: [ "food" ],
   },
 
@@ -1147,6 +1152,7 @@
   {
     en: "Surveyor's Breakfast Sandwich",
     ja: "測量士エッグバーガー",
+    zhCN: "测绘员蛋堡",
     pronunciationJa: "そくりょうしエッグバーガー",
     tags: [ "food", "mondstadt" ],
     notes: "ミカのオリジナル料理",
@@ -1697,6 +1703,7 @@
   {
     en: "Bulle Fruit",
     ja: "バブルオレンジ",
+    zhCN: "泡泡桔",
     tags: [ "food", "fontaine" ],
   },
   {
