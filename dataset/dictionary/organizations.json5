@@ -391,12 +391,14 @@
   {
     en: "The Steambird publishing house",
     ja: "スチームバード新聞社",
+    zhCN: "蒸汽鸟报社",
     pronunciationJa: "スチームバードしんぶんしゃ",
     tags: [ "fontaine", "organization", "facility" ],
   },
   {
     en: "Spina di Rosula",
     ja: "棘薔薇の会",
+    zhCN: "刺玫会",
     pronunciationJa: "スピナ・ディ・ロースラ",
     tags: [ "fontaine", "organization" ],
   },
@@ -436,21 +438,25 @@
   {
     en: "Hotel Bouffes d'ete",
     ja: "ブーフ・ド・エテの館",
+    zhCN: "布法蒂公馆",
     tags: [ "fontaine", "organization" ],
   },
   {
     en: "Confrerie of Cabriere",
     ja: "カブリエール商会",
+    zhCN: "卡布里埃商会",
     tags: [ "fontaine", "organization" ],
   },
   {
     en: "Liliacruces Forum",
     ja: "十字鈴蘭学会",
+    zhCN: "十字铃兰学会",
     tags: [ "fontaine", "organization" ],
   },
   {
     en: "House of the Hearth",
     ja: "壁炉の家",
+    zhCN: "壁炉之家",
     pronunciationJa: "ハウス・オブ・ハース",
     tags: [ "fontaine", "snezhnaya", "organization" ],
     notes: "召使の運営する孤児院",
