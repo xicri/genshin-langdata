@@ -3190,6 +3190,7 @@
   {
     en: "Zaha Hadi",
     ja: "ザハハディ",
+    zhCN: "萨赫哈蒂",
     tags: [ "sumeru", "character-sub" ],
     notes: "カーヴェのデートイベントに登場する人物。カーヴェの母の師",
   },
@@ -3391,6 +3392,7 @@
   {
     en: "Demoiselle",
     ja: "お嬢様",
+    zhCN: "大小姐",
     tags: [ "fontaine", "how-to-call" ],
     notes: "ナヴィアの侍従たちからのナヴィアに対する呼び方",
   },
@@ -3417,6 +3419,7 @@
   {
     en: "Champion Duelist",
     ja: "決闘代理人",
+    zhCN: "决斗代理人",
     tags: [ "fontaine", "title" ],
   },
   {
@@ -3435,6 +3438,7 @@
   {
     en: "Monsieur Neuvillette",
     ja: "ヌヴィレット様",
+    zhCN: "那维莱特大人",
     tags: [ "fontaine", "how-to-call" ],
     notes: "ヌヴィレットの部下たちからの呼び方。Monsieur はフランス語で Mr. に相当する語",
   },
@@ -3448,6 +3452,7 @@
   {
     en: "Lady Furina",
     ja: "フリーナ様",
+    zhCN: "芙宁娜女士",
     tags: [ "fontaine", "how-to-call" ],
     notes: "フリーナの部下たちからの呼び方",
   },
@@ -3479,6 +3484,7 @@
   {
     en: "Lord-Artificer",
     ja: "奇械公",
+    zhCN: "奇械公",
     pronunciationJa: "きかいこう",
     tags: [ "fontaine", "title" ],
     notes: "アラン・ギヨタンの称号",
@@ -3486,12 +3492,14 @@
   {
     en: "Silver",
     ja: "シルヴァ",
+    zhCN: "西尔弗",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィアの侍従の1人。サングラスを掛けている若い方",
   },
   {
     en: "Melus",
     ja: "マルシラック",
+    zhCN: "迈勒斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィアの侍従の1人。眼鏡を掛けている高齢な方",
   },
@@ -3512,60 +3520,70 @@
   {
     en: "Livre",
     ja: "リーヴァ",
+    zhCN: "利弗",
     tags: [ "fontaine", "character-sub" ],
     notes: "レシュッツのクロックワーク工房の店主",
   },
   {
     en: "Caron",
     ja: "カロン",
+    zhCN: "卡隆",
     tags: [ "fontaine", "character-sub" ],
     notes: "ルポート時計店の店主",
   },
   {
     en: "Maillardet",
     ja: "マイヤルデ",
+    zhCN: "梅雅德",
     tags: [ "fontaine", "character-sub" ],
     notes: "氷風組曲の戦闘開始受付キャラクター",
   },
   {
     en: "Gestionnaire",
     ja: "共律官",
+    zhCN: "复律官",
     tags: [ "fontaine", "title" ],
     notes: "フォンテーヌの役人",
   },
   {
     en: "Garde",
     ja: "警察隊員",
+    zhCN: "警备队员",
     tags: [ "fontaine", "title" ],
     notes: "執律庭に所属する警察隊員",
   },
   {
     en: "Cowell",
     ja: "コーウェル",
+    zhCN: "考威尔",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
   },
   {
     en: "Halsey",
     ja: "ホールジー",
+    zhCN: "海尔希",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
   },
   {
     en: "Liliane",
     ja: "リリア",
+    zhCN: "莉莉安",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
   },
   {
     en: "Faranak",
     ja: "ファラナク",
+    zhCN: "法拉娜",
     tags: [ "fontaine", "sumeru", "character-sub" ],
     notes: "カーヴェの母",
   },
   {
     en: "Lochknight",
     ja: "純水騎士",
+    zhCN: "纯水骑士",
     pronunciationJa: "じゅんすいきし",
     tags: [ "fontaine", "title" ],
   },

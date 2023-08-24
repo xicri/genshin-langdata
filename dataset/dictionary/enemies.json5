@@ -1790,6 +1790,7 @@
   {
     en: "Recon Log Mek",
     ja: "マシナリー・偵察記録型",
+    zhCN: "机关·侦察记录型",
     pronunciationJa: "マシナリー・ていさつきろくがた",
     tags: [ "fontaine", "enemy" ],
   },
@@ -1810,30 +1811,35 @@
   {
     en: "Geological Survey Mek",
     ja: "マシナリー・地質探知型",
+    zhCN: "机关·地质勘探型",
     pronunciationJa: "マシナリー・ちしつたんちがた",
     tags: [ "fontaine", "enemy" ],
   },
   {
     en: "Nimble Harvester Mek",
     ja: "マシナリー・機敏採集型",
+    zhCN: "机关·灵活采集型",
     pronunciationJa: "マシナリー・きびんさいしゅうがた",
     tags: [ "fontaine", "enemy" ],
   },
   {
     en: "Area Alert Mek",
     ja: "マシナリー・区域警戒型",
+    zhCN: "机关·区域警戒型",
     pronunciationJa: "マシナリー・くいきけいかいがた",
     tags: [ "fontaine", "enemy" ],
   },
   {
     en: "Suppression Specialist Mek",
     ja: "制圧特化型マシナリー",
+    zhCN: "压制特化型机关",
     pronunciationJa: "せいあつとっかがたマシナリー",
     tags: [ "fontaine", "enemy" ],
   },
   {
     en: "Annihilation Specialist Mek",
     ja: "殲滅特化型マシナリー",
+    zhCN: "歼灭特化型机关",
     pronunciationJa: "せんめつとっかがたマシナリー",
     tags: [ "fontaine", "enemy" ],
   },
@@ -1847,18 +1853,21 @@
   {
     en: "Coppelia",
     ja: "コッペリア",
+    zhCN: "歌裴莉娅",
     tags: [ "fontaine", "enemy-boss" ],
     notes: "氷風組曲の、女性型でウーシアのエネルギー特徴を持つ方",
   },
   {
     en: "Coppelius",
     ja: "コペリウス",
+    zhCN: "科培琉司",
     tags: [ "fontaine", "enemy-boss" ],
     notes: "氷風組曲の、男性型でプネウマのエネルギー特徴を持つ方",
   },
   {
     en: "Dirge of Coppelia",
     ja: "コッペリアの葬送",
+    zhCN: "歌裴莉娅的葬送",
     pronunciationJa: "コッペリアのそうそう",
     tags: [ "fontaine", "enemy-boss" ],
     notes: "コッペリアが主演の \"公演\"",
@@ -1866,6 +1875,7 @@
   {
     en: "Nemesis of Coppelius",
     ja: "コペリウスの劫罰",
+    zhCN: "科培琉司的劫罚",
     pronunciationJa: "コペリウスのごうばつ",
     tags: [ "fontaine", "enemy-boss" ],
     notes: "コペリウスが主演の \"公演\"",
@@ -1931,6 +1941,7 @@
   {
     en: "Sternshield Crab",
     ja: "堅盾重甲ヤドカニ",
+    zhCN: "坚盾重甲蟹",
     pronunciationJa: "けんじゅんじゅうこうヤドカニ", // TODO Need Check
     tags: [ "fontaine", "enemy" ],
   },
@@ -2016,12 +2027,14 @@
   {
     en: "local legend",
     ja: "地方伝説",
+    zhCN: "地方传奇",
     tags: [ "fontaine", "enemy" ],
     notes: "フォンテーヌに点在する、強めの敵個体",
   },
   {
     en: "Vivianne of the Lake",
     ja: "湖辺のヴィヴィアン",
+    zhCN: "湖畔的维维安涅",
     pronunciationJa: "こへんのヴィヴィアン",
     tags: [ "fontaine", "enemy" ],
     notes: "フォンテーヌの地方伝説の1体で、濁水幻霊の変異体",
@@ -2029,6 +2042,7 @@
   {
     en: "Ocean Circuit Judge",
     ja: "オーシャン巡回法官",
+    zhCN: "海原巡回法官",
     pronunciationJa: "オーシャンじゅんかいほうかん",
     tags: [ "fontaine", "enemy" ],
     notes: "フォンテーヌの地方伝説の1体で、重甲ヤドカニの変異体",

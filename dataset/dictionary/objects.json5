@@ -172,6 +172,7 @@
   {
     en: "Hydrogranum / Hydrograna",
     ja: "水の種",
+    zhCN: "水种子",
     pronunciationJa: "みずのたね",
     notes: "Hydrogranum は単数形、Hydrograna は複数形。granum はラテン語で「種」の意?",
     tags: [ "object", "fontaine" ],
@@ -179,6 +180,7 @@
   {
     en: "Hydro Core",
     ja: "水の核",
+    zhCN: "水之核",
     pronunciationJa: "みずのかく",
     notes: "水の種を3個集めるなどした時に生成されるオブジェクト",
     tags: [ "object", "fontaine" ],
@@ -908,12 +910,14 @@
   {
     en: "Oratrice Mecanique d'Analyse Cardinale",
     ja: "諭示裁定カーディナル",
+    zhCN: "谕示裁定枢机",
     pronunciationJa: "ゆしさいていカーディナル",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Oratrice",
     ja: "諭示機",
+    zhCN: "谕示机",
     pronunciationJa: "ゆしき",
     tags: [ "object", "fontaine" ],
     notes: "諭示裁定カーディナルの略称",
@@ -942,6 +946,7 @@
   {
     en: "Sonar Resonance Point",
     ja: "音波共鳴ポイント",
+    zhCN: "音波共鸣点",
     pronunciationJa: "おんぱきょうめいポイント",
     tags: [ "object", "fontaine" ],
     notes: "プクプク獣の音波の能力や、こだまホラガイで反応するポイント",
@@ -988,28 +993,33 @@
   {
     en: "Pneumousia Relay",
     ja: "プネウムシア中継柱",
+    zhCN: "芒荒中继桩",
     pronunciationJa: "プネウムシアちゅうけいちゅう",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Pneumousia Storage Box",
     ja: "プネウムシアストレージボックス",
+    zhCN: "芒荒储物箱",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Water Volume Detection Crystal",
     ja: "水量探測クリスタル",
+    zhCN: "水量侦测晶体",
     pronunciationJa: "すいりょうたんそくクリスタル",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Antoine Roger Aircraft",
     ja: "アントーン・ロジャー飛行マシナリー",
+    zhCN: "安东·罗杰飞行器",
     tags: [ "object", "fontaine" ],
   },
   {
     en: "Gardemek",
     ja: "警備ロボ",
+    zhCN: "警卫机关",
     tags: [ "object", "fontaine" ],
     notes: "執律庭が用いるクロックワーク・マシナリー",
   },

@@ -239,11 +239,13 @@
   {
     en: "Mallow Wood",
     ja: "マロウ材",
+    zhCN: "悬铃木",
     tags: [ "sereniteapot", "fontaine" ],
   },
   {
     en: "Cypress Wood",
     ja: "コウハクジュ材",
+    zhCN: "香柏木",
     tags: [ "sereniteapot", "fontaine" ],
   },
 

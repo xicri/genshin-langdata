@@ -203,12 +203,14 @@
   {
     en: "Prelude of Blancheur and Noirceur",
     ja: "白露と黒潮の序詩",
+    zhCN: "白露与黑潮的序诗",
     pronunciationJa: "しらつゆとくろしおのじょし", // TODO Need Check
     tags: [ "fontaine", "quest-archon" ],
   },
   {
     en: "As Light Rain Falls Without Reason",
     ja: "ゆえなく煙る霧雨のように",
+    zhCN: "仿若无因飘落的轻雨",
     pronunciationJa: "ゆえなくけむるきりさめのように",
     tags: [ "fontaine", "quest-archon" ],
   },
@@ -216,6 +218,7 @@
   {
     en: "Interlude",
     ja: "間章",
+    zhCN: "间章",
     pronunciationJa: "かんしょう", // TODO Need Check
     tags: [ "quest-archon" ],
     notes: "魔神任務の間章のこと",
@@ -1256,30 +1259,35 @@
   {
     en: "Where Are the Fierce Creatures?",
     ja: "凶猛動物はどこだ",
+    zhCN: "凶猛动物在哪里",
     pronunciationJa: "きょうもうどうぶつはどこだ", // TODO Need Check
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Garcia's Paean: A Gift of Compatibility",
     ja: "ガルシアの賛歌・妥当な贈り物",
+    zhCN: "加尔恰的赞歌·适配性赠礼",
     pronunciationJa: "ガルシアのさんか・だとうなおくりもの",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Treasure of Wisdom: A New Plan",
     ja: "智にある宝・新計画",
+    zhCN: "智中之宝·新计划",
     pronunciationJa: "ちにあるたから・しんけいかく",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "Static Views",
     ja: "静態的風景",
+    zhCN: "静态风景",
     pronunciationJa: "せいたいてきふうけい",
     tags: [ "sumeru", "quest-world" ],
   },
   {
     en: "The Foolish Fatuus",
     ja: "騙す者は騙される",
+    zhCN: "愚人者人愚之",
     pronunciationJa: "だますものはだまされる",
     tags: [ "sumeru", "quest-world" ],
   },
@@ -1526,30 +1534,35 @@
   {
     en: "A Brush of Seafoam and Crimson",
     ja: "シーフォームとクリムゾンの描染",
+    zhCN: "海沫与流红的绘染",
     pronunciationJa: "シーフォームとクリムゾンのかきぞめ", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "The Narzissenkreuz Adventure",
     ja: "「水仙十字大冒険」",
+    zhCN: "「水仙十字大冒险」",
     pronunciationJa: "すいせんじゅうじだいぼうけん", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Aqueous Tidemarks",
     ja: "水色の潮痕",
+    zhCN: "水色潮痕",
     pronunciationJa: "みずいろのちょうこん", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Upon a Flowery Field of Grass",
     ja: "花咲き誇る芝生にて",
+    zhCN: "在开满鲜花的草地上",
     pronunciationJa: "はなさきほこるしばふにて",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Semi-Automatic Forging",
     ja: "半オート鍛造",
+    zhCN: "半自动锤锻",
     pronunciationJa: "はんオートたんぞう",
     tags: [ "fontaine", "quest-world" ],
   },
@@ -2113,6 +2126,7 @@
   {
     en: "A Commission From \"That Guy\"",
     ja: "「あの方」の依頼",
+    zhCN: "「那位先生」的委托",
     pronunciationJa: "あのかたのいらい",
     tags: [ "quest-daily", "mondstadt" ],
   },
@@ -2140,6 +2154,7 @@
   {
     en: "Where Is the Unseen Razor?",
     ja: "剣はいずこ?",
+    zhCN: "试问，藏锋何处？",
     pronunciationJa: "けんはいずこ",
     tags: [ "quest-daily", "liyue" ],
   },
@@ -2588,6 +2603,7 @@
   {
     en: "Garcia's Paean: Key Items",
     ja: "ガルシアの賛歌・キーアイテム",
+    zhCN: "加尔恰的赞歌·关键物品",
     pronunciationJa: "ガルシアのさんか・キーアイテム",
     tags: [ "quest-daily", "sumeru" ],
   },
@@ -2670,6 +2686,7 @@
   {
     en: "Warehousing Business",
     ja: "倉庫保管事務",
+    zhCN: "仓储事务",
     tags: [ "quest-daily", "sumeru" ],
   },
 

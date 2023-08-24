@@ -484,17 +484,20 @@
   {
     en: "Echoes of the Deep Tides",
     ja: "深潮の余韻",
+    zhCN: "深潮的余响",
     tags: [ "fontaine", "domain" ],
   },
   {
     en: "Pale Forgotten Glory",
     ja: "蒼白の遺栄",
+    zhCN: "苍白的遗荣",
     pronunciationJa: "そうはくのいえい", // TODO Need Check
     tags: [ "fontaine", "domain" ],
   },
   {
     en: "Denouement of Sin",
     ja: "罪禍の終末",
+    zhCN: "罪祸的终末",
     pronunciationJa: "ざいかのしゅうまつ", // TODO Need Check
     tags: [ "fontaine", "domain" ],
   },
