@@ -244,10 +244,22 @@
     tags: [ "sereniteapot", "fontaine" ],
   },
   {
+    en: "Linden Wood",
+    ja: "菩提樹材",
+    pronunciationJa: "ぼだいじゅざい",
+    tags: [ "sereniteapot", "fontaine" ],
+  },
+  {
     en: "Cypress Wood",
     ja: "コウハクジュ材",
     zhCN: "香柏木",
     pronunciationJa: "コウハクジュざい",
+    tags: [ "sereniteapot", "fontaine" ],
+  },
+  {
+    en: "Torch Wood",
+    ja: "トーチ材",
+    pronunciationJa: "トーチざい",
     tags: [ "sereniteapot", "fontaine" ],
   },
 

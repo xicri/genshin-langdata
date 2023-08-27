@@ -413,4 +413,9 @@
     pronunciationJa: "しきんオオズグロカモメ",
     tags: [ "fontaine", "living-being" ],
   },
+  {
+    en: "Bullet Barnacle",
+    ja: "弾丸フジツボ",
+    tags: [ "living-being", "object", "fontaine" ],
+  },
 ]

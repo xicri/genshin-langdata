@@ -3539,11 +3539,29 @@
     notes: "氷風組曲の戦闘開始受付キャラクター",
   },
   {
+    en: "Antoine Roger",
+    ja: "アントーン・ロジャー",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "アントーン・ロジャー飛行マシナリーの開発者",
+  },
+  {
     en: "Gestionnaire",
     ja: "共律官",
     zhCN: "复律官",
     tags: [ "fontaine", "title" ],
     notes: "フォンテーヌの役人",
+  },
+  {
+    en: "Salsa",
+    ja: "サルサ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "フォンテーヌ各地で風景画を描こうとしている少女",
+  },
+  {
+    en: "Berrypuff",
+    ja: "ウーウーブドウ",
+    tags: [ "fontaine", "character-sub", "living-being" ],
+    notes: "希望の道にいるプクプク獣",
   },
   {
     en: "Cowell",
@@ -3566,6 +3584,31 @@
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
   },
+  {
+    en: "Mamere",
+    ja: "マメール",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「古き色合い」に登場するメリュジーヌ",
+  },
+  {
+    en: "Seymour",
+    ja: "セイモア",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「古き色合い」に登場するクロックワーク・マシナリー",
+  },
+  {
+    en: "Ann",
+    ja: "アン",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「水仙のアン」に登場する純水精霊",
+  },
+  {
+    en: "Narcissus",
+    ja: "ナルキッソス",
+    tags: [ "fontaine", "character-sub", "enemy" ],
+    notes: "世界任務「水仙のアン」に登場する「悪龍」",
+  },
+
   {
     en: "Faranak",
     ja: "ファラナク",

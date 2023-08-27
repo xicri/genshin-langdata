@@ -1943,6 +1943,11 @@
     tags: [ "fontaine", "location" ],
   },
   {
+    en: "Mont Automnequi",
+    ja: "モン・オトンヌキ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
     en: "Poisson Tunnel",
     ja: "ポワソントンネル",
     zhCN: "白淞隧道",
@@ -1983,6 +1988,18 @@
     pronunciationJa: "さみしいばしょ",
     tags: [ "fontaine", "location" ],
   },
+  {
+    en: "\"A Very Bright Place\"",
+    ja: "「とても明るい場所」",
+    pronunciationJa: "とてもあかるいばしょ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Nice to Meet You",
+    ja: "出会えてうれしい",
+    pronunciationJa: "であえてうれしい",
+    tags: [ "fontaine", "location" ],
+  },
 
   {
     en: "Source of ALl Waters: The Great Fontaine Lake",
@@ -2017,6 +2034,19 @@
     zhCN: "塔拉塔海谷",
     pronunciationJa: "タラッタかいていこく",
     tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Institute of Natural Philosophy",
+    ja: "自然哲学学院",
+    pronunciationJa: "しぜんてつがくがくいん",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Annapausis",
+    ja: "安眠の地",
+    pronunciationJa: "あんみんのち",
+    tags: [ "fontaine", "location" ],
+    notes: "Annapausis はギリシャ語で「休み」の意",
   },
 
   {

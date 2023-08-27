@@ -1532,6 +1532,12 @@
 
   // Fontaine
   {
+    en: "Ancient Colors",
+    ja: "古き色合い",
+    pronunciationJa: "ふるきいろあい",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
     en: "A Brush of Seafoam and Crimson",
     ja: "シーフォームとクリムゾンの描染",
     zhCN: "海沫与流红的绘染",
@@ -1540,12 +1546,74 @@
     notes: "古き色合い・第一幕",
   },
   {
+    en: "A Gradient of Dreams and Ochre",
+    ja: "ドリームとオーカーの変化",
+    pronunciationJa: "ドリームとオーカーのへんか",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "古き色合い・第二幕",
+  },
+  {
+    en: "There Will Come Soft Rains",
+    ja: "小雨の予兆",
+    pronunciationJa: "こさめのよちょう",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "古き色合い・第二幕",
+  },
+  {
+    en: "Blue Longing of Heart and Moon",
+    ja: "ハートとブルームーンの情念",
+    pronunciationJa: "ハートとブルームーンのじょうねん",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "古き色合い・第三幕",
+  },
+  {
+    en: "Limner, Dreamer, and Robotic Dog",
+    ja: "カイガ、ユメ&ロボット犬",
+    pronunciationJa: "カイガ、ユメ&ロボットけん",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "古き色合い・第三幕",
+  },
+  {
+    en: "Ann of the Narzissenkreuz",
+    ja: "水仙のアン",
+    pronunciationJa: "すいせんのアン", // TODO Need Check
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
     en: "The Narzissenkreuz Adventure",
     ja: "「水仙十字大冒険」",
     zhCN: "「水仙十字大冒险」",
     pronunciationJa: "すいせんじゅうじだいぼうけん", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
     notes: "水仙のアン・第一幕",
+  },
+  {
+    en: "Kingdom Through the Looking-Glass",
+    ja: "「鏡の中の王国」",
+    pronunciationJa: "かがみのなかのおうこく",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "水仙のアン・第二幕",
+  },
+  {
+    en: "Ann's Story",
+    ja: "アンの物語",
+    pronunciationJa: "アンのものがたり",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "水仙のアン・第二幕",
+  },
+  {
+    en: "\"If She No Longer Dreams of You...\"",
+    ja: "「もしも彼女が君の夢を見なくなったら…」",
+    pronunciationJa: "もしもかのじょがきみのゆめをみなくなったら",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "水仙のアン・第三幕",
+  },
+  {
+    en: "Mary-Ann's Story",
+    ja: "マリアンの物語",
+    pronunciationJa: "マリアンのものがたり",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "水仙のアン・第三幕",
   },
   {
     en: "Aqueous Tidemarks",

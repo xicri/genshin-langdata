@@ -1999,6 +1999,11 @@
     tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
+    en: "Cherubic Sea Hare",
+    ja: "チェルビックアプリシア",
+    tags: [ "fontaine", "enemy", "living-being" ],
+  },
+  {
     en: "Leisurely Otter",
     ja: "ノンビリラッコ",
     zhCN: "悠悠海獭",
@@ -2039,11 +2044,65 @@
     notes: "フォンテーヌの地方伝説の1体で、濁水幻霊の変異体",
   },
   {
+    en: "Ninianne of the Lake",
+    ja: "湖辺のニニアン",
+    pronunciationJa: "こへんのニニアン",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、濁水幻霊の変異体",
+  },
+  {
     en: "Ocean Circuit Judge",
     ja: "オーシャン巡回法官",
     zhCN: "海原巡回法官",
     pronunciationJa: "オーシャンじゅんかいほうかん",
     tags: [ "fontaine", "enemy" ],
     notes: "フォンテーヌの地方伝説の1体で、重甲ヤドカニの変異体",
+  },
+  {
+    en: "Iron Viscount",
+    ja: "鉄皮の子爵",
+    pronunciationJa: "てっぴのししゃく", // TODO Need Check
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、重甲ヤドカニの変異体",
+  },
+  {
+    en: "Angelica, Fairy Knight Twin",
+    ja: "双生妖精の騎士・アンジェリカ",
+    pronunciationJa: "そうせいようせいのきし・アンジェリカ",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、狩猟刀エイの変異体",
+  },
+  {
+    en: "Medoro, Fairy Knight Twin",
+    ja: "双生妖精の騎士・ミドロ",
+    pronunciationJa: "そうせいようせいのきし・ミドロ",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、狩猟刀エイの変異体",
+  },
+  {
+    en: "Cortana, Sword of the Gorge",
+    ja: "深谷の剣・コルタナ",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、狩猟刀エイの変異体",
+  },
+  {
+    en: "Murgleis, Sword of the Gorge",
+    ja: "深谷の剣・モーグレイ",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、狩猟刀エイの変異体",
+  },
+  {
+    en: "Fading Veteran",
+    ja: "「消えゆく老兵」",
+    pronunciationJa: "きえゆくろうへい",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、プクプク獣の変異体",
+  },
+  {
+    en: "Dobharcu, Lord of the Hidden",
+    ja: "隠者の王・ドアーチュ",
+    pronunciationJa: "いんじゃのおう・ドアーチュ",
+    tags: [ "fontaine", "enemy" ],
+    notes: "フォンテーヌの地方伝説の1体で、プクプク獣の変異体",
   },
 ]
