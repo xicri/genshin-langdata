@@ -1537,6 +1537,7 @@
     zhCN: "海沫与流红的绘染",
     pronunciationJa: "シーフォームとクリムゾンのかきぞめ", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
+    notes: "古き色合い・第一幕",
   },
   {
     en: "The Narzissenkreuz Adventure",
@@ -1544,6 +1545,7 @@
     zhCN: "「水仙十字大冒险」",
     pronunciationJa: "すいせんじゅうじだいぼうけん", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
+    notes: "水仙のアン・第一幕",
   },
   {
     en: "Aqueous Tidemarks",
