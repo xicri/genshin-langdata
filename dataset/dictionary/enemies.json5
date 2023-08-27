@@ -1936,14 +1936,14 @@
     ja: "重甲ヤドカニ",
     zhCN: "重甲蟹",
     pronunciationJa: "じゅうこうヤドカニ", // TODO Need Check
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Sternshield Crab",
     ja: "堅盾重甲ヤドカニ",
     zhCN: "坚盾重甲蟹",
     pronunciationJa: "けんじゅんじゅうこうヤドカニ", // TODO Need Check
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Armored Crab Shield",
@@ -1958,7 +1958,7 @@
     ja: "狩猟刀エイ",
     zhCN: "猎刀鳐",
     pronunciationJa: "しゅりょうとうエイ", // TODO Need Check
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Water Blade",
@@ -1973,31 +1973,31 @@
     ja: "プクプク獣",
     zhCN: "膨膨兽",
     pronunciationJa: "プクプクじゅう",
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Ball Octopus",
     ja: "マンマルタコ",
     zhCN: "球球章鱼",
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Hat Jellyfish",
     ja: "ボウシクラゲ",
     zhCN: "帽子水母",
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Bubbly Seahorse",
     ja: "アワアワタツノコ",
     zhCN: "泡泡海马",
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Angelic Sea Hare",
     ja: "アンジェリックアプリシア",
     zhCN: "天使海兔",
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
     en: "Leisurely Otter",
