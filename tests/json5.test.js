@@ -160,7 +160,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
     }
 
     if (typeof word.pronunciationJa !== "undefined" && word.pronunciationJa !== null) {
-      expect(word.pronunciationJa).toMatch(/^[ぁ-んァ-ヴー、・…〇!?〜/ ]+$/);
+      expect(word.pronunciationJa).toMatch(/^[ぁ-んァ-ヴー、・…〇!?&〜/ ]+$/);
     }
 
     if (typeof word.tags !== "undefined" && word.tags !== null) {
