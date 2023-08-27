@@ -236,7 +236,7 @@
     en: "Spinocrocodile",
     ja: "スピノクロコ",
     zhCN: "棘冠鳄",
-    tags: [ "living-being", "enemy", "sumeru" ],
+    tags: [ "living-being", "enemy" ],
   },
   {
     en: "Scorpion",
@@ -248,7 +248,7 @@
     en: "Red Vulture",
     ja: "赤鷲",
     zhCN: "赤鹫",
-    tags: [ "living-being", "enemy", "sumeru" ],
+    tags: [ "living-being", "enemy" ],
   },
   {
     en: "Flying Serpent",

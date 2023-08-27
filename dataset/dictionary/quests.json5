@@ -2520,7 +2520,7 @@
     ja: "遊光示現",
     zhCN: "游光示现",
     pronunciationJa: "ゆうこうじげん",
-    tags: [ "quest-daily", "sumeru" ],
+    tags: [ "quest-daily" ],
   },
   {
     en: "Hammer of the Mushrooms",
