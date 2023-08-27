@@ -1988,9 +1988,8 @@
     tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
-    en: "Bubbly Seahorse",
-    ja: "アワアワタツノコ",
-    zhCN: "泡泡海马",
+    en: "Bubbler Seahorse",
+    ja: "アワアワタツノコ・オス",
     tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
