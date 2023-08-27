@@ -3546,13 +3546,6 @@
     notes: "フォンテーヌの役人",
   },
   {
-    en: "Garde",
-    ja: "警察隊員",
-    zhCN: "警备队员",
-    tags: [ "fontaine", "title" ],
-    notes: "執律庭に所属する警察隊員",
-  },
-  {
     en: "Cowell",
     ja: "コーウェル",
     zhCN: "考威尔",
