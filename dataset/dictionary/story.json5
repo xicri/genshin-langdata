@@ -677,6 +677,13 @@
     pronunciationJa: "げんしたいかいのみず",
     tags: [ "fontaine" ],
   },
+  {
+    en: "Tales of Humanity",
+    ja: "人生いろいろ",
+    pronunciationJa: "じんせいいろいろ",
+    tags: [ "fontaine" ],
+    notes: "スチームバード新聞の読者投稿コーナー。フォンテーヌの評判任務はここに投稿されたものが依頼となっている。",
+  },
 
   //
   // Snezhnaya / Fatui

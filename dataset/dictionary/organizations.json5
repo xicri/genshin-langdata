@@ -431,6 +431,11 @@
     tags: [ "fontaine", "organization" ],
   },
   {
+    en: "Gardes",
+    ja: "警察隊",
+    tags: [ "fontaine", "organization" ],
+  },
+  {
     en: "Marechaussee Phantom",
     ja: "マレショーセ・ファントム",
     zhCN: "逐影庭",

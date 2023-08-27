@@ -1331,6 +1331,12 @@
     pronunciationJa: "じゅうじすずらんひほう",
     tags: [ "item", "fontaine" ],
   },
+  {
+    en: "Holy Blade of Narzissenkreuz",
+    ja: "「水仙十字聖剣」",
+    pronunciationJa: "すいせんじゅうじせいけん",
+    tags: [ "item", "fontaine" ],
+  },
 
   //
   // Dresesings
