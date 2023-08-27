@@ -1960,7 +1960,7 @@
     en: "Elynas",
     ja: "エリナス",
     zhCN: "厄里那斯",
-    tags: [ "fontaine", "location" ],
+    tags: [ "fontaine", "location", "character-sub" ],
   },
   {
     en: "Merusea Village",
