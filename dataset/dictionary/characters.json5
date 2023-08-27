@@ -3508,7 +3508,7 @@
     ja: "ユーフラシア",
     zhCN: "欧芙",
     tags: [ "fontaine", "character-sub" ],
-    notes: "フォンテーヌ評判任務の受付キャラクター? スチームバード新聞の編集長", // TODO Check if she is a representative for reputation quests / スチームバード新聞の編集長: the Chief Editor of The Steambird
+    notes: "フォンテーヌ評判任務の受付キャラクター。スチームバード新聞の編集長", // スチームバード新聞の編集長: the Chief Editor of The Steambird
   },
   {
     en: "Estelle",
