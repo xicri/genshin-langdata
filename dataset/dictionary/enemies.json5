@@ -2095,7 +2095,7 @@
   {
     en: "Murgleis, Sword of the Gorge",
     ja: "深谷の剣・モーグレイ",
-    zhcN: "深谷之剑·缪格雷",
+    zhCN: "深谷之剑·缪格雷",
     tags: [ "fontaine", "enemy" ],
     notes: "フォンテーヌの地方伝説の1体で、狩猟刀エイの変異体",
   },
