@@ -1334,6 +1334,7 @@
   {
     en: "Holy Blade of Narzissenkreuz",
     ja: "「水仙十字聖剣」",
+    zhCN: "「水仙十字圣剑」",
     pronunciationJa: "すいせんじゅうじせいけん",
     tags: [ "item", "fontaine" ],
   },

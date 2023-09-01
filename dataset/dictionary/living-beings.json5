@@ -416,6 +416,7 @@
   {
     en: "Bullet Barnacle",
     ja: "弾丸フジツボ",
+    zhCN: "子弹藤壶",
     tags: [ "living-being", "object", "fontaine" ],
   },
 ]
