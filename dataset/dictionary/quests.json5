@@ -1534,6 +1534,7 @@
   {
     en: "Ancient Colors",
     ja: "古き色合い",
+    zhCN: "古老的颜色",
     pronunciationJa: "ふるきいろあい",
     tags: [ "fontaine", "quest-world" ],
   },
@@ -1548,6 +1549,7 @@
   {
     en: "A Gradient of Dreams and Ochre",
     ja: "ドリームとオーカーの変化",
+    zhCN: "梦与赭黄色的渐变",
     pronunciationJa: "ドリームとオーカーのへんか",
     tags: [ "fontaine", "quest-world" ],
     notes: "古き色合い・第二幕",
@@ -1555,6 +1557,7 @@
   {
     en: "There Will Come Soft Rains",
     ja: "小雨の予兆",
+    zhCN: "细雨将至",
     pronunciationJa: "こさめのよちょう",
     tags: [ "fontaine", "quest-world" ],
     notes: "古き色合い・第二幕",
@@ -1562,6 +1565,7 @@
   {
     en: "Blue Longing of Heart and Moon",
     ja: "ハートとブルームーンの情念",
+    zhCN: "心与月蓝色的思念",
     pronunciationJa: "ハートとブルームーンのじょうねん",
     tags: [ "fontaine", "quest-world" ],
     notes: "古き色合い・第三幕",
@@ -1569,6 +1573,7 @@
   {
     en: "Limner, Dreamer, and Robotic Dog",
     ja: "カイガ、ユメ&ロボット犬",
+    zhCN: "画、梦境和机器狗",
     pronunciationJa: "カイガ、ユメ&ロボットけん",
     tags: [ "fontaine", "quest-world" ],
     notes: "古き色合い・第三幕",
@@ -1576,6 +1581,7 @@
   {
     en: "Ann of the Narzissenkreuz",
     ja: "水仙のアン",
+    zhCN: "水仙的安",
     pronunciationJa: "すいせんのアン", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
   },
@@ -1590,6 +1596,7 @@
   {
     en: "Kingdom Through the Looking-Glass",
     ja: "「鏡の中の王国」",
+    zhCN: "「镜中的王国」",
     pronunciationJa: "かがみのなかのおうこく",
     tags: [ "fontaine", "quest-world" ],
     notes: "水仙のアン・第二幕",
@@ -1597,6 +1604,7 @@
   {
     en: "Ann's Story",
     ja: "アンの物語",
+    zhCN: "安的故事",
     pronunciationJa: "アンのものがたり",
     tags: [ "fontaine", "quest-world" ],
     notes: "水仙のアン・第二幕",
@@ -1604,6 +1612,7 @@
   {
     en: "\"If She No Longer Dreams of You...\"",
     ja: "「もしも彼女が君の夢を見なくなったら…」",
+    zhCN: "「假如她不再梦到你…」",
     pronunciationJa: "もしもかのじょがきみのゆめをみなくなったら",
     tags: [ "fontaine", "quest-world" ],
     notes: "水仙のアン・第三幕",
@@ -1611,6 +1620,7 @@
   {
     en: "Mary-Ann's Story",
     ja: "マリアンの物語",
+    zhCN: "玛丽安的故事",
     pronunciationJa: "マリアンのものがたり",
     tags: [ "fontaine", "quest-world" ],
     notes: "水仙のアン・第三幕",

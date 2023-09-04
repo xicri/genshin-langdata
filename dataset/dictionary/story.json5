@@ -680,6 +680,7 @@
   {
     en: "Tales of Humanity",
     ja: "人生いろいろ",
+    zhCN: "人间百态",
     pronunciationJa: "じんせいいろいろ",
     tags: [ "fontaine" ],
     notes: "スチームバード新聞の読者投稿コーナー。フォンテーヌの評判任務はここに投稿されたものが依頼となっている。",
