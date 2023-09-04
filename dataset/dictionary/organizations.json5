@@ -433,6 +433,7 @@
   {
     en: "Gardes",
     ja: "警察隊",
+    zhCN: "警备队",
     tags: [ "fontaine", "organization" ],
   },
   {

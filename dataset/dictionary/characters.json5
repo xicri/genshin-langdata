@@ -3541,6 +3541,7 @@
   {
     en: "Antoine Roger",
     ja: "アントーン・ロジャー",
+    zhCN: "安东·罗杰",
     tags: [ "fontaine", "character-sub" ],
     notes: "アントーン・ロジャー飛行マシナリーの開発者",
   },
@@ -3554,12 +3555,14 @@
   {
     en: "Salsa",
     ja: "サルサ",
+    zhCN: "萨莎",
     tags: [ "fontaine", "character-sub" ],
     notes: "フォンテーヌ各地で風景画を描こうとしている少女",
   },
   {
     en: "Berrypuff",
     ja: "ウーウーブドウ",
+    zhCN: "呜呜葡萄",
     tags: [ "fontaine", "character-sub", "living-being" ],
     notes: "希望の道にいるプクプク獣",
   },
@@ -3587,24 +3590,28 @@
   {
     en: "Mamere",
     ja: "マメール",
+    zhCN: "玛梅赫",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「古き色合い」に登場するメリュジーヌ",
   },
   {
     en: "Seymour",
     ja: "セイモア",
+    zhCN: "西摩尔",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「古き色合い」に登場するクロックワーク・マシナリー",
   },
   {
     en: "Ann",
     ja: "アン",
+    zhCN: "安",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「水仙のアン」に登場する純水精霊",
   },
   {
     en: "Narcissus",
     ja: "ナルキッソス",
+    zhCN: "纳西索斯",
     tags: [ "fontaine", "character-sub", "enemy" ],
     notes: "世界任務「水仙のアン」に登場する「悪龍」",
   },

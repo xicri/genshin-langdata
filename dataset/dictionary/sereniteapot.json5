@@ -246,6 +246,7 @@
   {
     en: "Linden Wood",
     ja: "菩提樹材",
+    zhCN: "椴木",
     pronunciationJa: "ぼだいじゅざい",
     tags: [ "sereniteapot", "fontaine" ],
   },
@@ -259,6 +260,7 @@
   {
     en: "Torch Wood",
     ja: "トーチ材",
+    zhCN: "炬木",
     pronunciationJa: "トーチざい",
     tags: [ "sereniteapot", "fontaine" ],
   },
