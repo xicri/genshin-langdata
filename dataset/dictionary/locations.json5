@@ -1945,6 +1945,7 @@
   {
     en: "Mont Automnequi",
     ja: "モン・オトンヌキ",
+    zhCN: "秋分山",
     tags: [ "fontaine", "location" ],
   },
   {
@@ -1991,12 +1992,14 @@
   {
     en: "\"A Very Bright Place\"",
     ja: "「とても明るい場所」",
+    zhCN: "「很明亮的地方」",
     pronunciationJa: "とてもあかるいばしょ",
     tags: [ "fontaine", "location" ],
   },
   {
     en: "Nice to Meet You",
     ja: "出会えてうれしい",
+    zhCN: "很高兴见到你",
     pronunciationJa: "であえてうれしい",
     tags: [ "fontaine", "location" ],
   },
@@ -2038,12 +2041,14 @@
   {
     en: "Institute of Natural Philosophy",
     ja: "自然哲学学院",
+    zhCN: "自然哲学学院",
     pronunciationJa: "しぜんてつがくがくいん",
     tags: [ "fontaine", "location" ],
   },
   {
     en: "Annapausis",
     ja: "安眠の地",
+    zhCN: "安眠处",
     pronunciationJa: "あんみんのち",
     tags: [ "fontaine", "location" ],
     notes: "Annapausis はギリシャ語で「休み」の意",
