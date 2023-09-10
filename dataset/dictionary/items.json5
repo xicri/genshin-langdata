@@ -289,6 +289,12 @@
     tags: [ "item", "sumeru" ],
   },
   {
+    en: "Hydro Treasure Compass",
+    ja: "水のトレジャーコンパス",
+    pronunciationJa: "みずのトレジャーコンパス",
+    tags: [ "item", "fontaine" ],
+  },
+  {
     en: "NRE (Menu 30)",
     ja: "三〇式・携帯式栄養袋",
     zhCN: "叁零式·便携营养袋",
@@ -926,6 +932,24 @@
     zhCN: "苦炮鲀",
     tags: [ "item" ],
   },
+  {
+    en: "Maintenance Mek: Initial Configuration",
+    ja: "メンテマシナリー・基礎能力型",
+    pronunciationJa: "メンテマシナリー・きそのうりょくがた",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Maintenance Mek: Situation Controller",
+    ja: "メンテマシナリー・態勢制御者",
+    pronunciationJa: "メンテマシナリー・たいせいせいぎょしゃ",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Maintenance Mek: Platinum Collection",
+    ja: "メンテマシナリー・白金秘蔵型",
+    pronunciationJa: "メンテマシナリー・はっきんひぞうがた",
+    tags: [ "item", "fontaine" ],
+  },
 
   //
   // Bait (釣り餌)
@@ -1107,6 +1131,30 @@
     zhCN: "白夜国地理水文考",
     pronunciationJa: "びゃくやこくちりすいもんし", // TODO Need check
     tags: [ "item", "inazuma" ],
+  },
+  {
+    en: "A Thousand Nights",
+    ja: "千夜物語",
+    pronunciationJa: "せんやものがたり",
+    tags: [ "item", "sumeru" ],
+  },
+  {
+    en: "The History of the Decline and Fall of Remuria",
+    ja: "レムリア衰亡史",
+    pronunciationJa: "レムリアすいぼうし",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Fables de Fontaine",
+    ja: "フォンテーヌ動物寓意譚",
+    pronunciationJa: "フォンテーヌどうぶつぐういたん",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Robben versus Chesterton: Iridescent Brooch",
+    ja: "怪盗と名探偵: レインボーブローチの謎",
+    pronunciationJa: "かいとうとめいたんてい: レインボーブローチのなぞ",
+    tags: [ "item", "fontaine" ],
   },
 
   //
@@ -1337,6 +1385,22 @@
     zhCN: "「水仙十字圣剑」",
     pronunciationJa: "すいせんじゅうじせいけん",
     tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Enigmatic Page",
+    ja: "不思議な本のページ",
+    pronunciationJa: "ふしぎなほんのページ",
+    tags: [ "item", "fontaine" ],
+    notes: "啓示の書の散逸したページ",
+    // notesEn: "Scattered pages of the Book of Revealing"
+    // related: [ "book-of-revealing" ]
+  },
+  {
+    en: "Strange Part",
+    ja: "奇妙なパーツ",
+    pronunciationJa: "きみょうなパーツ",
+    tags: [ "item", "fontaine" ],
+    notes: "メリュジーヌ達の依頼を完了すると貰うことができ、メリュシー村のシャナが素材などと交換してくれるアイテム",
   },
 
   //

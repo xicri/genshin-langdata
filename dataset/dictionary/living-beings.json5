@@ -417,6 +417,14 @@
     en: "Bullet Barnacle",
     ja: "弾丸フジツボ",
     zhCN: "子弹藤壶",
+    pronunciationJa: "だんがんフジツボ",
     tags: [ "living-being", "object", "fontaine" ],
+  },
+  {
+    en: "Barnacle Bullet",
+    ja: "フジツボ弾丸",
+    pronunciationJa: "フジツボだんがん",
+    tags: [ "fontaine" ],
+    // related: [ "bullet-barnacle" ]
   },
 ]

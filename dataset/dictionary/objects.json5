@@ -1023,4 +1023,10 @@
     tags: [ "object", "fontaine" ],
     notes: "執律庭が用いるクロックワーク・マシナリー",
   },
+  {
+    en: "Bubble Formation",
+    ja: "バブル・フォーメーション",
+    tags: [ "object", "fontaine" ],
+    notes: "バブルを発射し、プレイヤーを元の位置に戻すギミック",
+  },
 ]

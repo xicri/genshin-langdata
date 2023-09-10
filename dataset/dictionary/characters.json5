@@ -983,13 +983,12 @@
     notes: "英語及び中国語の読みは「イェンフェイ」",
     tags: [ "liyue", "character-main" ],
   },
-  // ▼▼ TODO Become a main character in the upcoming version? ▼▼
   {
     en: "Baizhu",
     ja: "白朮",
     zhCN: "白术",
     pronunciationJa: "びゃくじゅつ",
-    tags: [ "liyue", "character-sub" ],
+    tags: [ "liyue", "character-main" ],
     notes: "英語の発音は「バイジュ」",
     pinyins: [{ char: "术", pron: "zhu2" }],
   },
@@ -1002,6 +1001,7 @@
     notes: "七七などからの白朮の呼び名",
     notesZh: "七七等对白术的称呼",
   },
+  // ▼▼ TODO Become a main character in the upcoming version? ▼▼
   {
     en: "Xingyan",
     ja: "星燕",
@@ -3546,6 +3546,21 @@
     notes: "アントーン・ロジャー飛行マシナリーの開発者",
   },
   {
+    en: "Arouet",
+    ja: "アルエ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "カフェ・ルツェルンの店主",
+    // notesEn: "The boss of Café Lucerne",
+  },
+  {
+    en: "Boucicaut",
+    ja: "ブシコー",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "ダーモヴィル雑貨店の店主",
+    // notesEn: "The manager of Damoville Purveyor",
+    // related: [ "damoville-purveyor" ],
+  },
+  {
     en: "Gestionnaire",
     ja: "共律官",
     zhCN: "复律官",
@@ -3614,6 +3629,117 @@
     zhCN: "纳西索斯",
     tags: [ "fontaine", "character-sub", "enemy" ],
     notes: "世界任務「水仙のアン」に登場する「悪龍」",
+  },
+  {
+    en: "Verenata",
+    ja: "べレナータ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「こんなのかぼちゃスープじゃない…」「旧世の残した音」などに登場するメリュジーヌ",
+  },
+  {
+    en: "Carabosse",
+    ja: "カラボス",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「旧世の残した音」に登場するメリュジーヌ",
+  },
+  {
+    en: "Topyas",
+    ja: "トピア",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「旧世の残した音」に登場するメリュジーヌ",
+  },
+  {
+    en: "Canotila",
+    ja: "カノティラ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「秘教と啓示の書」に登場するメリュジーヌ",
+  },
+  {
+    en: "Ahes",
+    ja: "アッシェン",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「孤帆幽影」に登場するメリュジーヌ",
+  },
+  {
+    en: "Puca",
+    ja: "プーカ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「奇石冒険記」などに登場するメリュジーヌ",
+  },
+  {
+    en: "Chesil",
+    ja: "チェシル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「奇石冒険記」に登場する人物",
+  },
+  {
+    en: "Cosanzeana",
+    ja: "コスンツァーナ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「好事魔多し」などに登場する、花を育てているメリュジーヌ",
+  },
+  {
+    en: "Jakob",
+    ja: "ジェイコブ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「古き色合い」などに登場する人物",
+  },
+  {
+    en: "Mary-Ann",
+    ja: "マリアン",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「水仙のアン」などに登場する人物",
+  },
+  {
+    en: "Karl",
+    ja: "カール",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "日本語版では通例「カールおじさん」と呼ばれるが、英語版には「おじさん」に該当する表現はなく、単に \"Karl\" と呼ばれている",
+  },
+  {
+    en: "Carter",
+    ja: "カーター",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Basil",
+    ja: "バザル",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Virgil",
+    ja: "ヴァージル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「フォンテーヌからのメッセージ」などに登場する人物",
+    // related: [ "a-fontainian-message" ]
+  },
+  {
+    en: "Henri",
+    ja: "アンリ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「ぜんぜんよだれが止まらない!」に登場する人物",
+    // related: [ "truly-mouthwatering" ]
+  },
+  {
+    en: "Linorea",
+    ja: "リノレア",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "依頼任務「少なくともお魚は知っている」に登場する記者",
+    // related: [ "at-least-the-fish-know" ]
+  },
+  {
+    en: "Depierris",
+    ja: "デピエリ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "依頼任務「審美眼の評定」シリーズに登場する画家",
+    // related: [ "aesthetic-critique-self-critique" ]
+  },
+  {
+    en: "Yves",
+    ja: "イヴス",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "依頼任務「水底の日々」に登場する潜水士",
+    // related: [ "days-beneath-the-waves" ]
   },
 
   {

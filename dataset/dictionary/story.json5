@@ -124,7 +124,7 @@
     ja: "正義",
     zhCN: "正义",
     pronunciationJa: "せいぎ",
-    // tags: [ "fontaine" ],
+    tags: [ "fontaine" ],
   },
 
   //
@@ -239,7 +239,7 @@
     en: "The Divine Damsel of Devastation",
     ja: "神女劈観",
     zhCN: "神女劈观",
-    pronunciationJa: "しんにょへきかん", // TODO need confirmation
+    pronunciationJa: "しんにょへきかん",
     tags: [ "liyue" ],
   },
   {
@@ -633,7 +633,7 @@
     en: "Amrita",
     ja: "甘露 / 甘露活水",
     zhCN: "甘露 / 甘露活水",
-    pronunciationJa: "かんろ",
+    pronunciationJa: "かんろ / かんろかっすい",
     tags: [ "sumeru" ],
   },
   {
@@ -684,6 +684,30 @@
     pronunciationJa: "じんせいいろいろ",
     tags: [ "fontaine" ],
     notes: "スチームバード新聞の読者投稿コーナー。フォンテーヌの評判任務はここに投稿されたものが依頼となっている。",
+  },
+  {
+    en: "Book of Revealing",
+    ja: "啓示の書",
+    pronunciationJa: "けいじのしょ",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Looking Glass",
+    ja: "謎の鏡",
+    pronunciationJa: "なぞのかがみ",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "world-formula",
+    ja: "世界式",
+    pronunciationJa: "せかいしき",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "the Sponsian",
+    ja: "スポンジアン号",
+    pronunciationJa: "スポンジアンごう",
+    tags: [ "fontaine" ],
   },
 
   //

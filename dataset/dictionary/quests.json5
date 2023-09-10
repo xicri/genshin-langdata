@@ -1579,6 +1579,13 @@
     notes: "古き色合い・第三幕",
   },
   {
+    en: "The Final Question",
+    ja: "最終問題",
+    pronunciationJa: "さいしゅうもんだい",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "古き色合いのエピローグ的な世界任務",
+  },
+  {
     en: "Ann of the Narzissenkreuz",
     ja: "水仙のアン",
     zhCN: "水仙的安",
@@ -1633,6 +1640,43 @@
     tags: [ "fontaine", "quest-world" ],
   },
   {
+    en: "\"Hey, This Isn't Pumpkin Soup...\"",
+    ja: "「こんなのかぼちゃスープじゃない…」",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Echoes of the Ancient World",
+    ja: "旧世の残した音",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Book of Esoteric Revelations",
+    ja: "秘教と啓示の書",
+    tags: [ "fontaine", "quest-world" ],
+    // related: [ "book-of-revealing" ]
+  },
+  {
+    en: "The Lone Phantom Sail",
+    ja: "孤帆幽影",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "A Fontainian Message",
+    ja: "フォンテーヌからのメッセージ",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Danger Lurks Everywhere in Fontaine",
+    ja: "危険だらけのフォンテーヌ廷",
+    pronunciationJa: "きけんだらけのフォンテーヌてい",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "In Expert Company?",
+    ja: "三人寄れば…明師を探せ",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
     en: "Upon a Flowery Field of Grass",
     ja: "花咲き誇る芝生にて",
     zhCN: "在开满鲜花的草地上",
@@ -1644,6 +1688,24 @@
     ja: "半オート鍛造",
     zhCN: "半自动锤锻",
     pronunciationJa: "はんオートたんぞう",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Strange Stone Chronicle",
+    ja: "奇石冒険記",
+    pronunciationJa: "きせきぼうけんき", // TODO Need Check
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Were It So Easy",
+    ja: "好事魔多し",
+    pronunciationJa: "こうじまおおし",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Truly Mouthwatering!",
+    ja: "ぜんぜんよだれが止まらない!",
+    pronunciationJa: "ぜんぜんよだれがとまらない",
     tags: [ "fontaine", "quest-world" ],
   },
 
@@ -2768,6 +2830,89 @@
     ja: "倉庫保管事務",
     zhCN: "仓储事务",
     tags: [ "quest-daily", "sumeru" ],
+  },
+  // Fontaine
+  {
+    en: "Tales From the Court",
+    ja: "フォンテーヌ廷の事情",
+    pronunciationJa: "フォンテーヌていのじじょう",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "At Least the Fish Know",
+    ja: "少なくともお魚は知っている",
+    pronunciationJa: "すくなくともおさかなはしっている",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Get a Drink at Least!",
+    ja: "とにかく一杯飲もう",
+    pronunciationJa: "とにかくいっぱいのもう",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "cafe-lucerne", "arouet" ],
+  },
+  {
+    en: "Aesthetic Critique: Principles of Aesthetics",
+    ja: "審美眼の評定・美学原理の批判",
+    pronunciationJa: "しんびがんのひょうてい・びがくげんりのひはん",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "depierris" ],
+  },
+  {
+    en: "Aesthetic Critique: Practice of Aesthetics",
+    ja: "審美眼の評定・創作実践の批判",
+    pronunciationJa: "しんびがんのひょうてい・そうさくじっせんのひはん",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "depierris" ],
+  },
+  {
+    en: "Aesthetic Critique: Self Critique",
+    ja: "審美眼の評定・自己批判",
+    pronunciationJa: "しんびがんのひょうてい・じこひはん",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "depierris" ],
+  },
+  {
+    en: "Days Beneath the Waves",
+    ja: "水底の日々",
+    pronunciationJa: "みなそこのひび",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Regulatory Issues",
+    ja: "机上の問題",
+    pronunciationJa: "きじょうのもんだい",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Interactive Tour",
+    ja: "「インタラクティブツアー」",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "antoine-roger-aircraft" ],
+  },
+  {
+    en: "Overland Bubbles",
+    ja: "地上の水しぶき",
+    pronunciationJa: "ちじょうのみずしぶき",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Don't Get Crabby",
+    ja: "弾丸にはカニを",
+    pronunciationJa: "だんがんにはカニを",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Dagger in the Water",
+    ja: "刃を得た魚のよう",
+    pronunciationJa: "やいばをえたさかなのよう",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Aim Upstream",
+    ja: "高みを目指せ",
+    pronunciationJa: "たかみをめざせ",
+    tags: [ "quest-daily", "fontaine" ],
   },
 
   //
