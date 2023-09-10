@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Hurricane Seed",
     ja: "暴風の種",
@@ -521,4 +523,4 @@
     pronunciationJa: "りゅうぞうのむちなるコア",
     tags: [ "natlan", "drop-boss" ],
   },
-]
+] as const satisfies SourceWord[];

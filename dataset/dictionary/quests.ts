@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   //
   // Archon Quests
   //
@@ -3819,4 +3821,4 @@
       en: [ "Hangout" ],
     },
   },
-]
+] as const satisfies SourceWord[];

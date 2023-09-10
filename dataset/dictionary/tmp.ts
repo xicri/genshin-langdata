@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   // Rarelity (How many ★) unknown
   {
     en: "Tripes du Port",
@@ -18,4 +20,4 @@
     zhCN: "桔桔薄饼",
     tags: [ "food" ],
   },
-]
+] as const satisfies SourceWord[];

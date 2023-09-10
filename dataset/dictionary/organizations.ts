@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   //
   // General
   //
@@ -592,5 +594,4 @@
     tags: [ "khaenriah", "organization" ],
     notes: "カールンイアの古代王朝",
   },
-
-]
+] as const satisfies SourceWord[];

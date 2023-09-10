@@ -1,5 +1,7 @@
 "use strict";
 
+const { join } = require("node:path");
+
 module.exports = {
   root: true,
   extends: [
@@ -9,6 +11,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2024,
     sourceType: "module",
+    project: join(__dirname, "tsconfig.json"),
   },
 
   rules: {

@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Local Specialty",
     ja: "地域の特産",
@@ -362,4 +364,4 @@
     tags: [ "specialty", "natlan" ],
     pronunciationJa: "がんれつのはな", // TODO need check
   },
-]
+] as const satisfies SourceWord[];

@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Statue of The Seven",
     ja: "七天神像",
@@ -1265,4 +1267,4 @@
     notes: "「秘源の龍像」を構成するひとつのブロック。名称はチュートリアルに記載",
     tags: [ "natlan", "object" ],  // Notes: 側面から衝撃波攻撃してくるがenemyとは違うと思う
   },
-]
+] as const satisfies SourceWord[];

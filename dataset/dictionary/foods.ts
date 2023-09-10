@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Proficiency",
     ja: "熟練度",
@@ -2447,4 +2449,4 @@
     pronunciationJa: "あかトロピカルキノコ",
     tags: [ "natlan", "food" ],
   },
-]
+] as const satisfies SourceWord[];

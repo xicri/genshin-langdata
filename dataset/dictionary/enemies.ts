@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Elite Enemy",
     ja: "精鋭",
@@ -2663,5 +2665,4 @@
     pronunciationJa: "かがやけるようがんのりゅうぞう",
     tags: [ "natlan", "enemy-boss" ],
   },
-
-]
+] as const satisfies SourceWord[];
