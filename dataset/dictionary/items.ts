@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   // TODO need check
   {
     en: "Primogem",
@@ -2091,4 +2093,4 @@
     pronunciationJa: "おおつごもりのかんせい",
     notes: "香菱のコスチューム",
   },
-]
+] as const satisfies SourceWord[];

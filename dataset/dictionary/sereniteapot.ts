@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Serenitea Pot",
     ja: "塵歌壺",
@@ -329,4 +331,4 @@
     tags: [ "sereniteapot" ],
     pinyins: [{ char: "飖", pron: "yao2" }],
   },
-]
+] as const satisfies SourceWord[];

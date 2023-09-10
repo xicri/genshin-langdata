@@ -1,4 +1,6 @@
-{
+import type { Tags } from "../libs/types.ts";
+
+export const tags = {
   "mondstadt": {
     "en": "Mondstadt",
     "ja": "モンド",
@@ -479,4 +481,4 @@
       "zh-CN": "原神中出现的法器的英语和日语翻译"
     }
   }
-}
+} as const satisfies Tags;

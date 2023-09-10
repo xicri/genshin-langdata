@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Brilliant Diamond Gemstone",
     ja: "輝くダイヤ",
@@ -202,4 +204,4 @@
     pronunciationJa: "せいちょうのエメラルド・さいせつ",
     tags: [ "gemstone" ],
   },
-]
+] as const satisfies SourceWord[];

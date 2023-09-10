@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Teachings of Freedom",
     ja: "「自由」の教え",
@@ -392,4 +394,4 @@
       zhCN: [ "皇冠" ],
     },
   },
-]
+] as const satisfies SourceWord[];

@@ -11,20 +11,20 @@
     "build": "node scripts/build.js",
     "todo": "jiti scripts/todo.ts",
     "test": "npm run build && vitest run",
-    "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate",
+    "lint": "npm run build && tsc --noEmit",
     "release": "./scripts/release.sh"
   },
   "dependencies": {
     "dotenv": "^16.5.0",
     "iconv-lite": "^0.6.3",
     "jiti": "^2.4.2",
-    "json5": "^2.2.2",
     "klona": "^2.0.4",
     "lodash-es": "^4.17.21",
     "luxon": "^3.6.1",
     "marked": "^15.0.8",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.2.5",
+    "typescript": "^5.2.2",
     "vitest": "^3.1.2",
     "wrangler": "^4.12.0"
   }

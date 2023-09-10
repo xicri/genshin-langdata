@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Elemental Lifeform",
     ja: "元素生命",
@@ -604,4 +606,4 @@
     pronunciationJa: "トモシビヘラサギ・こしゅ",
     tags: [ "natlan", "living-being" ],
   },
-]
+] as const satisfies SourceWord[];

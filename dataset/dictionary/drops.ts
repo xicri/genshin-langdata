@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Black Crystal Horn",
     ja: "黒晶の角笛",
@@ -919,4 +921,4 @@
     pronunciationJa: "もえるりんこうのプリズム",
     tags: [ "natlan", "drop" ],
   },
-]
+] as const satisfies SourceWord[];

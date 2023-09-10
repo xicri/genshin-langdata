@@ -7,8 +7,8 @@ import { DateTime } from "luxon";
 import { marked } from "marked";
 import fetch from "node-fetch";
 import pinyinTone from "pinyin-tone";
-
-import { jsonTo, loadJSONs } from "./utils.ts";
+import { jsonTo } from "./utils.ts";
+import { words } from "../dataset/dictionary/index.ts";
 
 async function writeFileSJIS(file, data) {
   await rm(file, { force: true });
@@ -25,7 +25,7 @@ export class Dictionary {
   #loaded = false;
 
   async load() {
-    this.#words = await loadJSONs(resolve(import.meta.dirname, "../dataset/dictionary"), { json5: true });
+    this.#words = words;
     this.#addIDs();
     this.#compileMarkdown();
     this.#convertPinyinToneLetters();

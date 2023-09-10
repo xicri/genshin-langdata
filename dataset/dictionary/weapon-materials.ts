@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Scattered Piece of Decarabian's Dream",
     ja: "高塔の王の砕けた夢",
@@ -561,4 +563,4 @@
     tags: [ "weapon-material", "natlan" ],
     notes: "★5武器突破素材",
   },
-]
+] as const satisfies SourceWord[];

@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types.ts";
+
+export default [
   {
     en: "Ad astra abyssosque!",
     ja: "星と深淵を目指せ!",
@@ -347,4 +349,4 @@
     tags: [ "dialogue", "natlan" ],
     notes: "ナタの戦士の気勢をあげるセリフ",
   },
-]
+] as const satisfies SourceWord[];
