@@ -1,4 +1,4 @@
-{
+const redirects = {
   "archon": "god",
   "basil": "basil-elton",
   "capitano": "il-capitano",
@@ -47,4 +47,6 @@
   "theater-machanicus": "theater-mechanicus",
   "theater-machanicus-stage-of-wonders": "theater-mechanicus-stage-of-wonders",
   "west-slope-of-mont-automnequi": "west-slopes-of-mont-automnequi"
-}
+} as const;
+
+export default redirects;

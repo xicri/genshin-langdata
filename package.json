@@ -11,7 +11,7 @@
     "build": "node scripts/build.js",
     "todo": "node scripts/todo.js",
     "test": "npm run build && vitest run",
-    "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
+    "lint": "tsc --noEmit && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
     "release": "./scripts/release.sh"
   },
   "dependencies": {
@@ -22,13 +22,13 @@
     "eslint": "^8.0.0",
     "eslint-config-xicri": "latest",
     "iconv-lite": "^0.6.3",
-    "json5": "^2.2.2",
     "klona": "^2.0.4",
     "lodash-es": "^4.17.21",
     "luxon": "^3.5.0",
     "marked": "^14.1.2",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.1.2",
+    "typescript": "^5.2.2",
     "vitest": "^2.1.1",
     "wrangler": "^3.78.2"
   }

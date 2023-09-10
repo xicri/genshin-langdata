@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   //
   // General
   //
@@ -821,5 +823,4 @@
     pronunciationJa: "ますい",
     tags: [ "event" ],
   },
-
-]
+] as const satisfies SourceWord[];

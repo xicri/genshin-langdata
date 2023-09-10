@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   {
     en: "artifact",
     ja: "聖遺物",
@@ -532,4 +534,4 @@
     pronunciationJa: "かいじんのみやこにたつえいゆうのえまき",
     tags: [ "artifact" ],
   },
-]
+] as const satisfies SourceWord[];

@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   {
     en: "Local Specialty",
     ja: "地域の特産",
@@ -334,4 +336,4 @@
     zhCN: "灼灼彩菊",
     tags: [ "specialty", "natlan" ],
   },
-]
+] as const satisfies SourceWord[];

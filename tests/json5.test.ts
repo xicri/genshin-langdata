@@ -2,7 +2,7 @@ import { ok } from "node:assert";
 import { DateTime } from "luxon";
 import { expect, test } from "vitest";
 
-import tags from "../dataset/tags.json";
+import tags from "../dataset/tags.ts";
 import words from "../dist/words.json";
 
 function isURL(urlStr) {

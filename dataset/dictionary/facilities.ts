@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   //
   // Mondstadt
   //
@@ -453,4 +455,4 @@
     pronunciationJa: "きたくにぎんこう",
     tags: [ "snezhnaya", "liyue", "fontaine", "facility" ],
   },
-]
+] as const satisfies SourceWord[];

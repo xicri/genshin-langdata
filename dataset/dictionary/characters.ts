@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   //
   // General - Main Characters
   //
@@ -5532,4 +5534,4 @@
     tags: [ "khaenriah", "character-sub" ],
     notes: "カーンルイアを裏切った5人の[罪人](/sinners)の通称",
   },
-]
+] as const satisfies SourceWord[];

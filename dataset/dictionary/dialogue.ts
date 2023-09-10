@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   {
     en: "Ad astra abyssosque!",
     ja: "星と深淵を目指せ!",
@@ -336,4 +338,4 @@
     tags: [ "fontaine", "dialogue" ],
     notesZh: "芙宁娜的内心自白",
   },
-]
+] as const satisfies SourceWord[];

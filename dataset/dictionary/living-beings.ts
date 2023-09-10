@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   {
     en: "Elemental Lifeform",
     ja: "元素生命",
@@ -577,4 +579,4 @@
     zhCN: "固晶甲虫",
     tags: [ "natlan", "living-being" ],
   },
-]
+] as const satisfies SourceWord[];

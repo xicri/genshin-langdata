@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   {
     en: "Statue of The Seven",
     ja: "七天神像",
@@ -1227,4 +1229,4 @@
     zhCN: "游隙灵道",
     tags: [ "natlan", "object" ],
   },
-]
+] as const satisfies SourceWord[];

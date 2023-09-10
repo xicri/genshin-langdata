@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   //
   // Character Development
   //
@@ -939,4 +941,4 @@
     pronunciationJa: "かいえん",
     tags: [ "natlan" ],
   },
-]
+] as const satisfies SourceWord[];

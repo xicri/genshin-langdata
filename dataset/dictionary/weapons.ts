@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   {
     en: "Sword",
     ja: "片手剣",
@@ -1611,4 +1613,4 @@
     zhCN: "冲浪时光",
     tags: [ "weapon", "catalyst" ],
   },
-]
+] as const satisfies SourceWord[];

@@ -1,4 +1,6 @@
-[
+import type { SourceWord } from "../../libs/types";
+
+export default [
   //
   // General
   //
@@ -2522,4 +2524,4 @@
     pronunciationJa: "カーンルイアじん / カーンルイアの",
     tags: [ "khaenriah" ],
   },
-]
+] as const satisfies SourceWord[];
