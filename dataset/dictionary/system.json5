@@ -845,7 +845,8 @@
     en: "Transoceanic Sourcewater",
     ja: "異海源水",
     zhCN: "异海源水",
-    pronunciationJa: "いかいげんすい", // TODO Need Check
+    pronunciationJa: "いかいげんすい",
+    kanaConfirmed: false,
     tags: [ "fontaine" ],
   },
   // {

@@ -479,7 +479,8 @@
   {
     en: "Inactivated Fungal Nucleus",
     ja: "キノコンの衰菌核",
-    pronunciationJa: "キノコンのすいきんかく", // No reference
+    pronunciationJa: "キノコンのすいきんかく",
+    kanaConfirmed: false,
     zhCN: "失活菌核",
     tags: [ "drop", "sumeru" ],
     notes: "活発・枯燥状態のキノコンのドロップアイテム (★2)",
@@ -487,7 +488,8 @@
   {
     en: "Dormant Fungal Nucleus",
     ja: "キノコンの眠菌核",
-    pronunciationJa: "キノコンのみんきんかく", // No reference
+    pronunciationJa: "キノコンのみんきんかく",
+    kanaConfirmed: false,
     zhCN: "休眠菌核",
     tags: [ "drop", "sumeru" ],
     notes: "活発・枯燥状態のキノコンのドロップアイテム (★3)",
@@ -496,7 +498,8 @@
     en: "Robust Fungal Nucleus",
     ja: "キノコンの壮菌核",
     zhCN: "茁壮菌核",
-    pronunciationJa: "キノコンのそうきんかく", // No reference
+    pronunciationJa: "キノコンのそうきんかく",
+    kanaConfirmed: false,
     tags: [ "drop", "sumeru" ],
     notes: "活発・枯燥状態のキノコンのドロップアイテム (★4)",
   },
@@ -629,7 +632,8 @@
     en: "Transoceanic Chunk",
     ja: "異海の塊",
     zhCN: "异海之块",
-    pronunciationJa: "いかいのかたまり", // TODO Need Check
+    pronunciationJa: "いかいのかたまり",
+    kanaConfirmed: false,
     tags: [ "drop", "fontaine" ],
     notes: "原海アベラントのドロップアイテム (★2)",
   },
@@ -645,7 +649,8 @@
     en: "Drop of Tainted Water",
     ja: "濁水のひとしずく",
     zhCN: "浊水的一滴",
-    pronunciationJa: "だくすいのひとしずく", // TODO Need Check
+    pronunciationJa: "だくすいのひとしずく",
+    kanaConfirmed: false,
     tags: [ "drop", "fontaine" ],
     notes: "濁水幻霊のドロップアイテム (★2)",
   },
@@ -653,7 +658,8 @@
     en: "Scoop of Tainted Water",
     ja: "濁水のひとすくい",
     zhCN: "浊水的一掬",
-    pronunciationJa: "だくすいのひとすくい", // TODO Need Check
+    pronunciationJa: "だくすいのひとすくい",
+    kanaConfirmed: false,
     tags: [ "drop", "fontaine" ],
     notes: "濁水幻霊のドロップアイテム (★3)",
   },
@@ -661,7 +667,8 @@
     en: "Newborn Tainted Hydro Phantasm",
     ja: "生まれたての濁水幻霊",
     zhCN: "初生的浊水幻灵",
-    pronunciationJa: "うまれたてのだくすいげんれい", // TODO Need Check
+    pronunciationJa: "うまれたてのだくすいげんれい",
+    kanaConfirmed: false,
     tags: [ "drop", "fontaine" ],
     notes: "濁水幻霊のドロップアイテム (★4)",
   },

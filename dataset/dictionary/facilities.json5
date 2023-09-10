@@ -286,7 +286,8 @@
     en: "Wikala Funduq",
     ja: "ウィカラ隊商宿",
     zhCN: "维卡拉商栈",
-    pronunciationJa: "ウィカラたいしょうやど", // Need Confirmation
+    pronunciationJa: "ウィカラたいしょうやど",
+    kanaConfirmed: false,
     tags: [ "sumeru", "facility" ],
   },
   {

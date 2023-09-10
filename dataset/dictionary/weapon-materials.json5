@@ -121,7 +121,8 @@
     en: "Luminous Sands from Guyun",
     ja: "孤雲寒林の光砂",
     zhCN: "孤云寒林的光砂",
-    pronunciationJa: "こうんかんりんのこうさ", // TODO need check
+    pronunciationJa: "こうんかんりんのこうさ",
+    kanaConfirmed: false,
     tags: [ "weapon-material", "liyue" ],
     notes: "★2武器突破素材",
   },
@@ -396,7 +397,8 @@
     en: "Fragment of an Ancient Chord",
     ja: "悠久の弦の残章",
     zhCN: "悠古弦音的残章",
-    pronunciationJa: "ゆうきゅうのげんのざんしょう", // TODO Need Check
+    pronunciationJa: "ゆうきゅうのげんのざんしょう",
+    kanaConfirmed: false,
     tags: [ "weapon-material", "fontaine" ],
     notes: "★2武器突破素材",
   },

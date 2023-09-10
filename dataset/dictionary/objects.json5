@@ -745,7 +745,8 @@
   {
     en: "Gray Crystal",
     ja: "灰残晶",
-    pronunciationJa: "はいざんしょう", // TODO Need Check
+    pronunciationJa: "はいざんしょう",
+    kanaConfirmed: false,
     zhCN: "灰余晶",
     tags: [ "object", "sumeru" ],
   },
@@ -781,7 +782,8 @@
     en: "Burgeoning Spirit",
     ja: "蔓生霊心",
     zhCN: "蔓生灵心",
-    // pronunciationJa: "まんせいれいしん", // TODO Need Check
+    pronunciationJa: "まんせいれいしん",
+    kanaConfirmed: false,
     tags: [ "object", "sumeru" ],
     notes: "散らばった霊光エネルギーを球状に縛っているツル",
   },
@@ -789,7 +791,8 @@
     en: "Ruebright Bloom",
     ja: "明芸花",
     zhCN: "明芸花",
-    pronunciationJa: "めいげいか", // TODO Need Check
+    pronunciationJa: "めいげいか",
+    kanaConfirmed: false,
     tags: [ "object", "sumeru" ],
     notes: "ソルシュが開花させることで足場になる花",
     pinyins: [{ char: "芸", pron: "yun2" }],
@@ -798,7 +801,8 @@
     en: "Sunyata Flower",
     ja: "シューニャター花",
     zhCN: "净觉花",
-    pronunciationJa: "シューニャターはな", // TODO Need Check
+    pronunciationJa: "シューニャターはな",
+    kanaConfirmed: false,
     tags: [ "object", "sumeru" ],
     notes: "ソルシュが触れることで開花する花",
   },
@@ -852,7 +856,8 @@
     en: "Bright Flame Altar",
     ja: "光明の火壇",
     zhCN: "光明火坛",
-    pronunciationJa: "こうみょうのかだん", // TODO Need Check
+    pronunciationJa: "こうみょうのかだん",
+    kanaConfirmed: false,
     tags: [ "object", "sumeru" ],
     notes: "コリュバンテスのうちの1つを入手する際、全てに火をつける必要がある火壇",
   },
@@ -870,13 +875,15 @@
     zhCN: "遗迹重炮",
     pronunciationJa: "いせきじゅうほう",
     tags: [ "object", "sumeru" ],
-    notes: "コリュバンテスのうちの1つを入手する際に、巨像のエネルギーシールドを破壊するための重砲", // 重砲: heavy cannon
+    notes: "コリュバンテスのうちの1つを入手する際に、巨像のエネルギーシールドを破壊するための重砲",
+    notesEn: "A heavy cannon to destroy the Golem's energy shield to get one of the Korybantes",
   },
   {
     en: "Flower of Sanctity",
     ja: "聖潔の花",
     zhCN: "圣洁之花",
-    pronunciationJa: "せいけつのはな", // Need Check
+    pronunciationJa: "せいけつのはな",
+    kanaConfirmed: false,
     tags: [ "object", "sumeru" ],
     notes: "万種母樹の中に咲く花",
   },
@@ -884,7 +891,8 @@
     en: "Spenta Heart",
     ja: "慈心",
     zhCN: "慈心",
-    pronunciationJa: "じしん", // Need Check
+    pronunciationJa: "じしん",
+    kanaConfirmed: false,
     tags: [ "object", "sumeru" ],
     notes: "染境の中で手に入れる、聖潔の花のために必要なもの",
   },
@@ -969,7 +977,8 @@
     en: "Fontemer Seagrass",
     ja: "原海海草",
     zhCN: "原海海草",
-    pronunciationJa: "げんかいかいそう", // Need Check
+    pronunciationJa: "げんかいかいそう",
+    kanaConfirmed: false,
     tags: [ "object", "fontaine" ],
   },
   {

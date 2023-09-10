@@ -1059,7 +1059,8 @@
     en: "Jade Radish",
     ja: "白玉大根",
     zhCN: "白玉萝卜",
-    pronunciationJa: "しらたまだいこん", // need confirmation
+    pronunciationJa: "しらたまだいこん",
+    kanaConfirmed: false,
     tags: [ "liyue" ],
     notes: "月桂が投げる武器",
   },
@@ -1464,7 +1465,8 @@
     en: "Shitou",
     ja: "石商",
     zhCN: "石头",
-    pronunciationJa: "せきしょう", // TODO Need Check
+    pronunciationJa: "せきしょう",
+    kanaConfirmed: false,
     tags: [ "liyue", "character-sub" ],
     notes: "鉱石を売っている店「解翠行」の店主",
   },
@@ -3301,7 +3303,8 @@
   {
     en: "Dragon of Verdure",
     ja: "翠の草龍",
-    pronunciationJa: "すいのそうりゅう", // TODO Need check
+    pronunciationJa: "すいのそうりゅう",
+    kanaConfirmed: false,
     zhCN: "翠草之龙",
     tags: [ "sumeru", "title" ],
     notes: "アペプの称号",
@@ -3352,7 +3355,8 @@
     en: "Yasnapati",
     ja: "謁賛主",
     zhCN: "谒颂主",
-    pronunciationJa: "えっさんしゅ", // TODO Need Check
+    pronunciationJa: "えっさんしゅ",
+    kanaConfirmed: false,
     tags: [ "sumeru", "title" ],
     notes: "ソルシュが旅人に任じた記録者としての役割",
     notesZh: "斯露莎给旅行者的称号",
@@ -3368,7 +3372,8 @@
     en: "Vijnanapati",
     ja: "識主",
     zhCN: "识主",
-    pronunciationJa: "しきしゅ", // Need Check
+    pronunciationJa: "しきしゅ",
+    kanaConfirmed: false,
     tags: [ "sumeru", "title" ],
     notes: "ナセジュナのスケプティック団における役職",
     notesZh: "那先朱那在矫论团中的职位",

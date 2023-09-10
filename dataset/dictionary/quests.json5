@@ -223,7 +223,8 @@
     en: "Prelude of Blancheur and Noirceur",
     ja: "白露と黒潮の序詩",
     zhCN: "白露与黑潮的序诗",
-    pronunciationJa: "しらつゆとくろしおのじょし", // TODO Need Check
+    pronunciationJa: "しらつゆとくろしおのじょし",
+    kanaConfirmed: false,
     tags: [ "fontaine", "quest-archon" ],
     notes: "魔神任務第四章第一幕",
   },
@@ -264,7 +265,8 @@
     en: "Interlude",
     ja: "間章",
     zhCN: "间章",
-    pronunciationJa: "かんしょう", // TODO Need Check
+    pronunciationJa: "かんしょう",
+    kanaConfirmed: false,
     tags: [ "quest-archon" ],
     notes: "魔神任務の間章のこと",
   },
@@ -1305,7 +1307,8 @@
     en: "Where Are the Fierce Creatures?",
     ja: "凶猛動物はどこだ",
     zhCN: "凶猛动物在哪里",
-    pronunciationJa: "きょうもうどうぶつはどこだ", // TODO Need Check
+    pronunciationJa: "きょうもうどうぶつはどこだ",
+    kanaConfirmed: false,
     tags: [ "sumeru", "quest-world" ],
   },
   {
@@ -1460,7 +1463,8 @@
     en: "Tadhla the Falcon",
     ja: "「猟鷹」タッドラー",
     zhCN: "「猎鹰」塔德菈",
-    pronunciationJa: "りょうようタッドラー", // TODO needs confirmation
+    pronunciationJa: "りょうようタッドラー",
+    kanaConfirmed: false,
     tags: [ "sumeru", "quest-world" ],
     notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
   },
@@ -1476,7 +1480,8 @@
     en: "The Fallen Falcon",
     ja: "翼の折れた猟鷹",
     zhCN: "翅膀折断的猎鹰",
-    pronunciationJa: "つばさのおれたりょうよう", // TODO needs confirmation
+    pronunciationJa: "つばさのおれたりょうよう",
+    kanaConfirmed: false,
     tags: [ "sumeru", "quest-world" ],
     notes: "「ビルキースの哀歌」に連なる一連の世界任務の1つ",
   },
@@ -1587,7 +1592,8 @@
     en: "A Brush of Seafoam and Crimson",
     ja: "シーフォームとクリムゾンの描染",
     zhCN: "海沫与流红的绘染",
-    pronunciationJa: "シーフォームとクリムゾンのかきぞめ", // TODO Need Check
+    pronunciationJa: "シーフォームとクリムゾンのかきぞめ",
+    kanaConfirmed: false,
     tags: [ "fontaine", "quest-world" ],
     notes: "古き色合い・第一幕",
   },
@@ -1635,14 +1641,16 @@
     en: "Ann of the Narzissenkreuz",
     ja: "水仙のアン",
     zhCN: "水仙的安",
-    pronunciationJa: "すいせんのアン", // TODO Need Check
+    pronunciationJa: "すいせんのアン",
+    kanaConfirmed: false,
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "The Narzissenkreuz Adventure",
     ja: "「水仙十字大冒険」",
     zhCN: "「水仙十字大冒险」",
-    pronunciationJa: "すいせんじゅうじだいぼうけん", // TODO Need Check
+    pronunciationJa: "すいせんじゅうじだいぼうけん",
+    kanaConfirmed: false,
     tags: [ "fontaine", "quest-world" ],
     notes: "水仙のアン・第一幕",
   },
@@ -1690,7 +1698,8 @@
     en: "Aqueous Tidemarks",
     ja: "水色の潮痕",
     zhCN: "水色潮痕",
-    pronunciationJa: "みずいろのちょうこん", // TODO Need Check
+    pronunciationJa: "みずいろのちょうこん",
+    kanaConfirmed: false,
     tags: [ "fontaine", "quest-world" ],
   },
   {

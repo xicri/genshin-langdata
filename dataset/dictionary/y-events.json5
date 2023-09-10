@@ -487,7 +487,8 @@
     en: "Jubilant Wave",
     ja: "歓呼激流",
     zhCN: "欢呼激流",
-    pronunciationJa: "かんこげきりゅう", // TODO Need Check
+    pronunciationJa: "かんこげきりゅう",
+    kanaConfirmed: false,
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で、びゅんびゅん爆速車に搭載された武装",
     tags: [ "event" ],
   },
@@ -676,7 +677,8 @@
     en: "A Tour of Wonders",
     ja: "諸景巡行",
     zhCN: "诸景巡礼",
-    pronunciationJa: "しょけいじゅんこう", // Need Check
+    pronunciationJa: "しょけいじゅんこう",
+    kanaConfirmed: false,
     notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」の子イベント",
     tags: [ "event" ],
   },
@@ -765,7 +767,8 @@
     en: "Gathering of Stars",
     ja: "星合わせの画",
     zhCN: "明星聚画",
-    pronunciationJa: "ほしあわせのえ", // TODO Need Check
+    pronunciationJa: "ほしあわせのえ",
+    kanaConfirmed: false,
     notes: "v3.6 期間限定イベント「盛典と慧業」の子イベント",
     tags: [ "event" ],
   },
@@ -1631,7 +1634,8 @@
     en: "Tokoyo Legume",
     ja: "常世の荚",
     zhCN: "常世之荚",
-    pronunciationJa: "とこよのさや", // TODO Need Check
+    pronunciationJa: "とこよのさや",
+    kanaConfirmed: false,
     notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
     tags: [ "event", "item" ],
   },
@@ -1639,7 +1643,8 @@
     en: "Aphotium Ore",
     ja: "淵海鉱石",
     zhCN: "深海髓矿",
-    pronunciationJa: "えんかいこうせき", // TODO Need Check
+    pronunciationJa: "えんかいこうせき",
+    kanaConfirmed: false,
     notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
     tags: [ "event", "item" ],
   },
@@ -1655,7 +1660,8 @@
     en: "Light Realm Sigil",
     ja: "光界の印",
     zhCN: "光界之印",
-    pronunciationJa: "こうかいのしるし", // TODO Need Check
+    pronunciationJa: "こうかいのしるし",
+    kanaConfirmed: false,
     notes: "v2.5 期間限定イベント「三界道饗祭」で収集するアイテム",
     tags: [ "event", "item" ],
   },

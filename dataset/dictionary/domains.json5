@@ -342,7 +342,8 @@
   {
     en: "Tower of Abject Pride",
     ja: "有頂の塔",
-    pronunciationJa: "うちょうのとう", // TODO Need Check
+    pronunciationJa: "うちょうのとう",
+    kanaConfirmed: false,
     zhCN: "有顶塔",
     tags: [ "sumeru", "domain" ],
   },
@@ -368,28 +369,32 @@
   {
     en: "Fragment of Childhood Dreams",
     ja: "幼夢の欠片",
-    pronunciationJa: "ようむのかけら", // TODO Need Check
+    pronunciationJa: "ようむのかけら",
+    kanaConfirmed: false,
     zhCN: "童梦的切片",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "The Coordinates of Sun and Rain",
     ja: "晴雨の経緯",
-    // pronunciationJa: "せいうのけいい", // TODO Need Check
+    pronunciationJa: "せいうのけいい",
+    kanaConfirmed: false,
     zhCN: "晴雨的经纬",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "The Dark Valley",
     ja: "河谷の闇路",
-    pronunciationJa: "かこくのやみじ", // TODO Need Check
+    pronunciationJa: "かこくのやみじ",
+    kanaConfirmed: false,
     zhCN: "河谷的黯道",
     tags: [ "sumeru", "domain" ],
   },
   {
     en: "Red Desert Threshold",
     ja: "赤砂の檻",
-    pronunciationJa: "せきさのおり", // TODO Need Check
+    pronunciationJa: "せきさのおり",
+    kanaConfirmed: false,
     zhCN: "赤沙之槛",
     tags: [ "sumeru", "domain" ],
   },
@@ -457,7 +462,8 @@
     en: "The Realm of Beginnings",
     ja: "原初の郷",
     zhCN: "肇始之乡",
-    pronunciationJa: "げんしょのさと", // TODO Need Check
+    pronunciationJa: "げんしょのさと",
+    kanaConfirmed: false,
     tags: [ "sumeru", "domain" ],
     notes: "アペプのオアシス守護者戦の秘境名",
   },
@@ -473,7 +479,8 @@
     en: "Defiled Chamber",
     ja: "染境",
     zhCN: "染境",
-    pronunciationJa: "せんきょう", // Need Check
+    pronunciationJa: "せんきょう",
+    kanaConfirmed: false,
     tags: [ "sumeru", "domain" ],
     notes: "万種母樹の中から慈心を手に入れるために入る秘境",
   },
@@ -491,7 +498,8 @@
     en: "Pale Forgotten Glory",
     ja: "蒼白の遺栄",
     zhCN: "苍白的遗荣",
-    pronunciationJa: "そうはくのいえい", // TODO Need Check
+    pronunciationJa: "そうはくのいえい",
+    kanaConfirmed: false,
     tags: [ "fontaine", "domain" ],
     notesZh: "吞星之鲸的掉落物",
   },
@@ -499,7 +507,8 @@
     en: "Denouement of Sin",
     ja: "罪禍の終末",
     zhCN: "罪祸的终末",
-    pronunciationJa: "ざいかのしゅうまつ", // TODO Need Check
+    pronunciationJa: "ざいかのしゅうまつ",
+    kanaConfirmed: false,
     tags: [ "fontaine", "domain" ],
     notesZh: "吞星之鲸的掉落物",
   },

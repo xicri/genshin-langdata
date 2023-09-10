@@ -565,7 +565,8 @@
     en: "Chenyu Vale",
     ja: "沈玉の谷",
     zhCN: "沉玉谷",
-    pronunciationJa: "ちんぎょくのたに", // TODO Need Check
+    pronunciationJa: "ちんぎょくのたに",
+    kanaConfirmed: false,
     tags: [ "liyue", "location" ],
   },
 

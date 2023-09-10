@@ -652,7 +652,8 @@
     en: "Universal Peace",
     ja: "四方平和",
     zhCN: "四方和平",
-    pronunciationJa: "しほうへいわ", // TODO need check
+    pronunciationJa: "しほうへいわ",
+    kanaConfirmed: false,
     tags: [ "food" ],
   },
   {
@@ -1575,7 +1576,8 @@
     en: "Goldflame Tajine",
     ja: "熾金の鍋",
     zhCN: "炽金之锅",
-    pronunciationJa: "しきんのなべ", // Need check
+    pronunciationJa: "しきんのなべ",
+    kanaConfirmed: false,
     tags: [ "food", "sumeru" ],
     notes: "ディシアのオリジナル料理。Tajine とは、アフリカ大陸北西端部のマグリブ地域の料理で、Tajine Pot (タジン鍋) と呼ばれる鍋を用いて作られる。 / [Wikipedia:タジン鍋](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%83%B3%E9%8D%8B), [Wikipedia:Tajine](https://en.wikipedia.org/wiki/Tajine)",
   },
