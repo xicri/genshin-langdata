@@ -397,7 +397,13 @@
     pronunciationJa: "ルポートとけいてん",
     tags: [ "fontaine", "facility" ],
   },
-
+  {
+    en: "Damoville Purveyor",
+    ja: "ダーモヴィル雑貨店",
+    pronunciationJa: "ダーモヴィルざっかてん",
+    tags: [ "fontaine", "facility" ],
+    // related: [ "boucicaut" ]
+  },
 
   //
   // Snezhnaya & Fatui

@@ -479,6 +479,11 @@
     tags: [ "food" ],
   },
   {
+    en: "Ile flottante",
+    ja: "イル・フロッタント",
+    tags: [ "food" ],
+  },
+  {
     en: "Fonta",
     ja: "フォンタ",
     zhCN: "枫达",
@@ -909,6 +914,17 @@
     zhCN: "白淞鲜汤",
     tags: [ "food" ],
   },
+  {
+    en: "Conch Madeleine",
+    ja: "晶螺マドレーヌ",
+    pronunciationJa: "しょうらマドレーヌ", // TODO Need Check
+    tags: [ "food" ],
+  },
+  {
+    en: "Fruity Trio",
+    ja: "花と果実のトリオ",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -1000,6 +1016,12 @@
     pronunciationJa: "ちょうぜいたくもりあわせピザ",
     tags: [ "food" ],
   },
+  {
+    en: "Vessie Chicken",
+    ja: "ベッシーチキン",
+    tags: [ "food" ],
+  },
+
 
   // ★★★★★
   {
@@ -1488,6 +1510,20 @@
     pronunciationJa: "たんせいこめたいっさく",
     tags: [ "food", "sumeru" ],
     notes: "カーヴェのオリジナル料理",
+  },
+
+  // Fontaine
+  {
+    en: "Cubic Tricks",
+    ja: "キューブトリック",
+    tags: [ "food", "fontaine" ],
+    notes: "リネのオリジナル料理",
+  },
+  {
+    en: "A Leisurely Sip",
+    ja: "アフタヌーンティー",
+    tags: [ "food", "fontaine" ],
+    notes: "リネットのオリジナル料理",
   },
 
   //

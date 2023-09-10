@@ -685,6 +685,30 @@
     tags: [ "fontaine" ],
     notes: "スチームバード新聞の読者投稿コーナー。フォンテーヌの評判任務はここに投稿されたものが依頼となっている。",
   },
+  {
+    en: "Book of Revealing",
+    ja: "啓示の書",
+    pronunciationJa: "けいじのしょ",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Looking Glass",
+    ja: "謎の鏡",
+    pronunciationJa: "なぞのかがみ",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "world-formula",
+    ja: "世界式",
+    pronunciationJa: "せかいしき",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "the Sponsian",
+    ja: "スポンジアン号",
+    pronunciationJa: "スポンジアンごう",
+    tags: [ "fontaine" ],
+  },
 
   //
   // Snezhnaya / Fatui

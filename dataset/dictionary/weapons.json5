@@ -37,6 +37,14 @@
     pronunciationJa: "ほうき",
     tags: [ "weapon" ],
   },
+  {
+    en: "Refinement Material",
+    ja: "精錬素材",
+    pronunciationJa: "せいれんそざい",
+    tags: [ "weapon" ],
+    notes: "イベント報酬の武器などの精錬に用いる、専用の素材のこと",
+    // notesEn: "A specialized material to refine weapons acquired in the limited-time events"
+  },
 
   //
   // Swords
@@ -243,6 +251,14 @@
     zhCN: "灰河渡手",
     pronunciationJa: "サーンドルのわたしもり",
     tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Martens' Omni-Fix",
+    ja: "マルテンスの万能保護材",
+    pronunciationJa: "マルテンスのばんのうほござい",
+    tags: [ "weapon" ],
+    notes: "サーンドルの渡し守の精錬素材",
+    // notesEn: "Refinement material for Fleuve Cendre Ferryman",
   },
   // ★5
   {
@@ -989,6 +1005,14 @@
     tags: [ "weapon", "bow" ],
   },
   {
+    en: "Glowing Gem",
+    ja: "霞色の宝珠",
+    pronunciationJa: "かすみいろのほうじゅ",
+    tags: [ "weapon" ],
+    notes: "落霞の精錬素材",
+    // notesEn: "Refinement Material for Fading Twilight"
+  },
+  {
     en: "End of the Line",
     ja: "竭沢",
     zhCN: "竭泽",
@@ -1009,6 +1033,13 @@
     pronunciationJa: "トキのくちばし",
     tags: [ "weapon", "bow" ],
     pinyins: [{ char: "鹮", pron: "huan2" }],
+  },
+  {
+    en: "Congealed Pupa Wax",
+    ja: "凝恒の脂蝋",
+    tags: [ "weapon" ],
+    notes: "トキの嘴の精錬素材",
+    // notesEn: "Refinement material for Ibis Piercer",
   },
   {
     en: "Song of Stillness",
