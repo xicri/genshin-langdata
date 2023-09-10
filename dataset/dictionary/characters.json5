@@ -983,13 +983,12 @@
     notes: "英語及び中国語の読みは「イェンフェイ」",
     tags: [ "liyue", "character-main" ],
   },
-  // ▼▼ TODO Become a main character in the upcoming version? ▼▼
   {
     en: "Baizhu",
     ja: "白朮",
     zhCN: "白术",
     pronunciationJa: "びゃくじゅつ",
-    tags: [ "liyue", "character-sub" ],
+    tags: [ "liyue", "character-main" ],
     notes: "英語の発音は「バイジュ」",
     pinyins: [{ char: "术", pron: "zhu2" }],
   },
@@ -1002,6 +1001,7 @@
     notes: "七七などからの白朮の呼び名",
     notesZh: "七七等对白术的称呼",
   },
+  // ▼▼ TODO Become a main character in the upcoming version? ▼▼
   {
     en: "Xingyan",
     ja: "星燕",
