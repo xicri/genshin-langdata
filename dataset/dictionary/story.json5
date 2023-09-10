@@ -124,7 +124,7 @@
     ja: "正義",
     zhCN: "正义",
     pronunciationJa: "せいぎ",
-    // tags: [ "fontaine" ],
+    tags: [ "fontaine" ],
   },
 
   //
