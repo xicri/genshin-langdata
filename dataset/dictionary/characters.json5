@@ -950,10 +950,10 @@
   },
   {
     en: "Ganyu",
+    enKana: "ガンユー",
     ja: "甘雨",
     zhCN: "甘雨",
     pronunciationJa: "かんう",
-    // Pronunciataion of Chinese spelled in Japanese can be 「がんゆー」,　IMO. -- Bill Haku
     tags: [ "liyue", "character-main" ],
   },
   {
@@ -1014,9 +1014,9 @@
   // ▲▲ TODO Become a main character in the upcoming version? ▲▲
   {
     en: "Yun Jin",
+    enKana: "ユンジン",
     ja: "雲菫",
     zhCN: "云堇",
-    // Pronunciataion of Chinese spelled in Japanese can be 「ゆんじん」, IMO. -- Bill Haku
     pronunciationJa: "うんきん",
     tags: [ "liyue", "character-main" ],
   },
