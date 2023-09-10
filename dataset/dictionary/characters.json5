@@ -595,7 +595,8 @@
     ja: "マーガレット",
     zhCN: "玛格丽特",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "キャッツテールの店主", // en: Boss at Cat's Tail
+    notes: "キャッツテールの店主",
+    notesEn: "Boss at Cat's Tail",
     notesZh: "猫尾酒馆的店主",
   },
   {
@@ -603,7 +604,8 @@
     ja: "ドゥラフ・カッツェレイン",
     zhCN: "杜拉夫·凯茨莱茵",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "ディオナの父親で清泉町の狩人のリーダー", // en: Diona's father and the head of the hunters in Springvale
+    notes: "ディオナの父親で清泉町の狩人のリーダー",
+    notesEn: "Diona's father and the head of the hunters in Springvale",
     notesZh: "迪奥娜的父亲、清泉镇的猎人首领",
   },
   {
@@ -2932,7 +2934,8 @@
     ja: "ゾーヤ・シュナイツェフナ",
     zhCN: "佐娅·雪奈茨芙娜",
     tags: [ "sumeru", "snezhnaya", "character-sub" ],
-    notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。", // TODO: ファデュイの大尉 = Captain of Fatui
+    notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。",
+    notesEn: "Mentioned in a World Quest \"The Dirge of Bilqis\". A captain of Fatui.",
     notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。愚人众的大尉。",
   },
   {
@@ -3415,7 +3418,7 @@
     zhCN: "西摩格",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「善悪のクヴァレナ」で言及される、霊光百種を創造した神鳥",
-    // notesEn: "A divine bird which created coutless motes of Khvarena mentioned in a world quest \"Khvarena of Good and Evil\""
+    notesEn: "A divine bird which created coutless motes of Khvarena mentioned in a world quest \"Khvarena of Good and Evil\"",
     notesZh: "世界任务「善恶的赫瓦雷纳」中提到的神鸟",
   },
   {
@@ -3431,7 +3434,8 @@
     ja: "ジャルジャー",
     zhCN: "贾尔贾",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「浮光鳴召」で試練を課してくる花霊", // 試練: trial
+    notes: "世界任務「浮光鳴召」で試練を課してくる花霊",
+    notesEn: "A Pari who imposes a trials in a World Quest \"Lightcall Resonance\"",
   },
   {
     en: "Fedhri",
@@ -3622,7 +3626,8 @@
     ja: "ユーフラシア",
     zhCN: "欧芙",
     tags: [ "fontaine", "character-sub" ],
-    notes: "フォンテーヌ評判任務の受付キャラクター。スチームバード新聞の編集長", // スチームバード新聞の編集長: the Chief Editor of The Steambird
+    notes: "フォンテーヌ評判任務の受付キャラクター。スチームバード新聞の編集長",
+    notesEn: "A representative character for the Reputation Quests of Fontaine. The Chief Editor of The Steambird.",
   },
   {
     en: "Estelle",
