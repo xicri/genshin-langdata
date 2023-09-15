@@ -766,6 +766,7 @@
     ja: "ナンタック",
     zhCN: "楠塔克",
     tags: [ "mondstadt", "character-sub" ],
+    notes: "モンドの漁師",
   },
   {
     en: "Marjorie",
@@ -1192,6 +1193,7 @@
     ja: "マルコシアス",
     zhCN: "马克修斯",
     tags: [ "liyue", "title" ],
+    notes: "グゥオパァーのかつての名前",
   },
   {
     en: "God of the Stove",
@@ -1199,6 +1201,7 @@
     zhCN: "灶神",
     pronunciationJa: "かまどがみ",
     tags: [ "liyue", "title" ],
+    notes: "マルコシアス (グゥオパァー) の称号",
   },
   {
     en: "Bosacius",
@@ -3717,7 +3720,7 @@
     en: "Henri",
     ja: "アンリ",
     tags: [ "fontaine", "character-sub" ],
-    notes: "世界任務「ぜんぜんよだれが止まらない!」に登場する人物",
+    notes: "世界任務「ぜんぜんよだれが止まらない!」「まだまだよだれが止まらない!」に登場する人物",
     // related: [ "truly-mouthwatering" ]
   },
   {

@@ -2205,10 +2205,11 @@
   },
   {
     en: "Swift Slayer",
-    ja: "諸悪退散", // TODO 元々 "群魔を斬る" になっていた。確認。
+    ja: "諸悪退散",
     zhCN: "走马斩群魔",
     pronunciationJa: "しょあくたいさん",
     tags: [ "quest-daily" ],
+    notes: "実装直後からしばらくは、日本語版では「群魔を斬る」という名称だった",
   },
   {
     en: "Felonious Floaters",
