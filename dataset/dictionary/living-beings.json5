@@ -84,6 +84,12 @@
     tags: [ "living-being", "sumeru" ],
   },
   {
+    en: "Hydro Crystalfly",
+    ja: "水晶蝶",
+    pronunciationJa: "みずしょうちょう", // TODO Need Check
+    tags: [ "living-being", "fontaine" ],
+  },
+  {
     en: "Forest Boar",
     ja: "イノシシ",
     zhCN: "野林猪",

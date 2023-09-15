@@ -240,6 +240,13 @@
     pinyins: [{ char: "龛", pron: "kan1" }],
   },
   {
+    en: "Fontaine Shrine of Depths Key",
+    ja: "フォンテーヌの地霊壇の鍵",
+    pronunciationJa: "フォンテーヌのちれいだんのかぎ",
+    tags: [ "item", "fontaine" ],
+    // pinyins: [{ char: "龛", pron: "kan1" }],
+  },
+  {
     en: "Adepti Seeker's Stove",
     ja: "「仙人探しの美食家」",
     zhCN: "「寻仙的美食家」",
@@ -1374,6 +1381,13 @@
     notes: "魔神任務第4章第1幕で事件の捜査状況を記録するファイル",
   },
   {
+    en: "\"Water and Missing Person\" Case Record",
+    ja: "「水と失踪者」事件ファイル",
+    pronunciationJa: "みずとしっそうしゃじけんファイル",
+    tags: [ "item", "fontaine" ],
+    notes: "魔神任務第4章第2幕で事件の捜査状況を記録するファイル",
+  },
+  {
     en: "Liliacruces Treasure",
     ja: "十字鈴蘭秘宝",
     zhCN: "十字铃兰秘宝",
@@ -1395,6 +1409,14 @@
     notes: "啓示の書の散逸したページ",
     // notesEn: "Scattered pages of the Book of Revealing"
     // related: [ "book-of-revealing" ]
+  },
+  {
+    en: "Mysterious Core",
+    ja: "不思議なコア",
+    pronunciationJa: "ふしぎなコア",
+    tags: [ "item", "fontaine" ],
+    notes: "世界任務「ぜんぜんよだれが止まらない!」「まだまだよだれが止まらない!」で集める機械のパーツ",
+    // related: [ "truly-mouthwatering", "still-mouthwatering" ]
   },
   {
     en: "Strange Part",

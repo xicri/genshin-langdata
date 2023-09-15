@@ -1830,6 +1830,18 @@
     tags: [ "fontaine", "enemy" ],
   },
   {
+    en: "Arithmetic Enhancer Mek",
+    ja: "マシナリー・演算力増幅器",
+    pronunciationJa: "マシナリー・えんざんりょくぞうふくき",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Construction Specialist Mek",
+    ja: "建造特化型マシナリー",
+    pronunciationJa: "けんぞうとっかがたマシナリー",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
     en: "Suppression Specialist Mek",
     ja: "制圧特化型マシナリー",
     zhCN: "压制特化型机关",
@@ -1841,6 +1853,12 @@
     ja: "殲滅特化型マシナリー",
     zhCN: "歼灭特化型机关",
     pronunciationJa: "せんめつとっかがたマシナリー",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Assault Specialist Mek",
+    ja: "攻堅特化型マシナリー",
+    pronunciationJa: "こうけんとっかがたマシナリー", // TODO Need Check
     tags: [ "fontaine", "enemy" ],
   },
   {
@@ -1917,10 +1935,22 @@
     tags: [ "fontaine", "enemy" ],
   },
   {
+    en: "Large Shatterstone Breacher Primus",
+    ja: "大型瓦礫ブリーチャープリムス",
+    pronunciationJa: "おおがたがれきブリーチャープリムス",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
     en: "Overgrown Breacher Primus",
     ja: "狂蔓ブリーチャープリムス",
     zhCN: "狂蔓隙境原体",
     pronunciationJa: "きょうまんブリーチャープリムス", // Need Check
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Large Overgrown Breacher Primus",
+    ja: "大型狂蔓ブリーチャープリムス",
+    pronunciationJa: "おおがたきょうまんブリーチャープリムス", // Need Check
     tags: [ "fontaine", "enemy" ],
   },
 
