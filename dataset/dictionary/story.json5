@@ -671,6 +671,13 @@
     tags: [ "fontaine" ],
   },
   {
+    en: "serial disappearances of young women",
+    ja: "連続少女失踪事件",
+    pronunciationJa: "れんぞくしょうじょしっそうじけん",
+    tags: [ "fontaine" ],
+    // related: [ "prelude-of-blancheur-and-noirceur", "as-light-rain-falls-without-reason" ]
+  },
+  {
     en: "Water from the Primordial Sea",
     ja: "原始胎海の水",
     zhCN: "原始胎海之水",

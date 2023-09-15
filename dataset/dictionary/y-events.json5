@@ -241,6 +241,12 @@
     notes: "v4.0 期間限定イベント",
     tags: [ "event" ],
   },
+  {
+    en: "Bresson",
+    ja: "ブレッソン",
+    notes: "v4.0 期間限定イベント「ヴァーディクト・ブレイド」に登場する人物",
+    tags: [ "event", "character-sub" ],
+  },
 
   // v3.8
   {

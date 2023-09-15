@@ -1684,6 +1684,19 @@
     tags: [ "fontaine", "quest-world" ],
   },
   {
+    en: "Another Horizon of Adventure",
+    ja: "冒険は遠い地を目指す",
+    pronunciationJa: "ぼうけんはとおいちをめざす",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Steambird Interview",
+    ja: "「スチームバード新聞」の面接",
+    pronunciationJa: "スチームバードしんぶんのめんせつ",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "フォンテーヌの評判任務の開放クエスト",
+  },
+  {
     en: "Semi-Automatic Forging",
     ja: "半オート鍛造",
     zhCN: "半自动锤锻",
@@ -1706,6 +1719,12 @@
     en: "Truly Mouthwatering!",
     ja: "ぜんぜんよだれが止まらない!",
     pronunciationJa: "ぜんぜんよだれがとまらない",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Still Mouthwatering!",
+    ja: "まだまだよだれが止まらない!",
+    pronunciationJa: "まだまだよだれがとまらない",
     tags: [ "fontaine", "quest-world" ],
   },
 
@@ -2205,10 +2224,11 @@
   },
   {
     en: "Swift Slayer",
-    ja: "諸悪退散", // TODO 元々 "群魔を斬る" になっていた。確認。
+    ja: "諸悪退散",
     zhCN: "走马斩群魔",
     pronunciationJa: "しょあくたいさん",
     tags: [ "quest-daily" ],
+    notes: "実装直後からしばらくは、日本語版では「群魔を斬る」という名称だった",
   },
   {
     en: "Felonious Floaters",
@@ -2871,6 +2891,30 @@
     pronunciationJa: "しんびがんのひょうてい・じこひはん",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "depierris" ],
+  },
+  {
+    en: "Their Childhood",
+    ja: "彼らの子供時代",
+    pronunciationJa: "かれらのこどもじだい",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Their Childhood: Time Waits for No One",
+    ja: "彼らの子供時代・時は待ってくれない",
+    pronunciationJa: "かれらのこどもじだい・ときはまってくれない",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Their Childhood: City Caper",
+    ja: "彼らの子供時代・都市旅行記",
+    pronunciationJa: "かれらのこどもじだい・としりょこうき",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Their Childhood: Good Times",
+    ja: "彼らの子供時代・良き時代",
+    pronunciationJa: "かれらのこどもじだい・よきじだい",
+    tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Days Beneath the Waves",

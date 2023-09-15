@@ -165,6 +165,12 @@
     zhCN: "薄荷豆汤",
     tags: [ "food" ],
   },
+  {
+    en: "Duck Confit",
+    ja: "鴨肉のコンフィ",
+    pronunciationJa: "かもにくのコンフィ",
+    tags: [ "food" ],
+  },
 
   // ★★
   {
@@ -473,6 +479,28 @@
     tags: [ "food" ],
   },
   {
+    en: "Cream of Mushroom Soup",
+    ja: "きのこのクリームスープ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fontainian Onion Soup",
+    ja: "フォンテーヌ風オニオンスープ",
+    pronunciationJa: "フォンテーヌふうオニオンスープ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Tasses Ragout",
+    ja: "ラタトゥイユ・タッセス",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fontaine Aspic",
+    ja: "水郷のアスピック",
+    pronunciationJa: "すいきょうのアスピック", // TODO Need Check
+    tags: [ "food" ],
+  },
+  {
     en: "Garlic Baguette",
     ja: "ガーリックバゲット",
     zhCN: "蒜香面包棍",
@@ -704,6 +732,18 @@
     tags: [ "food" ],
   },
   {
+    en: "Fruity Smoothie",
+    ja: "仙果スムージー",
+    pronunciationJa: "せんかスムージー", // TODO Need Check
+    tags: [ "food" ],
+  },
+  {
+    en: "Fruity Duet",
+    ja: "清露デュエット",
+    pronunciationJa: "せいろデュエット", // TODO Need Check
+    tags: [ "food" ],
+  },
+  {
     en: "More-and-More",
     ja: "お好み焼き",
     zhCN: "多多烧",
@@ -909,9 +949,34 @@
     tags: [ "food" ],
   },
   {
+    en: "Lasagna",
+    ja: "ミートソースラザニア",
+    tags: [ "food" ],
+  },
+  {
+    en: "Steak Tartare",
+    ja: "タルタルタワー",
+    tags: [ "food" ],
+  },
+  {
+    en: "Pate de Fruit",
+    ja: "パート・ドゥ・フリュイ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fish and Chips",
+    ja: "フィッシュアンドチップス",
+    tags: [ "food" ],
+  },
+  {
     en: "Poisson Seafood Soup",
     ja: "ポワソンシーフードスープ",
     zhCN: "白淞鲜汤",
+    tags: [ "food" ],
+  },
+  {
+    en: "Poissonchant Pie",
+    ja: "ポワソンチャンティー・パイ",
     tags: [ "food" ],
   },
   {
@@ -1511,6 +1576,13 @@
     tags: [ "food", "sumeru" ],
     notes: "カーヴェのオリジナル料理",
   },
+  {
+    en: "Traditionally-Made Charcoal-Baked Ajilenakh Cake",
+    ja: "古風な製法のデーツナン",
+    pronunciationJa: "こふうなせいほうのデーツナン",
+    tags: [ "food", "sumeru" ],
+    notes: "ファルザンのオリジナル料理",
+  },
 
   // Fontaine
   {
@@ -1753,6 +1825,12 @@
     en: "Tidalga",
     ja: "タイダルガ",
     zhCN: "汐藻",
+    tags: [ "food", "fontaine" ],
+  },
+  {
+    en: "Fermented Juice",
+    ja: "発酵フルーツジュース",
+    pronunciationJa: "はっこうフルーツジュース",
     tags: [ "food", "fontaine" ],
   },
 ]

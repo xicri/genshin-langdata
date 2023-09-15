@@ -766,6 +766,7 @@
     ja: "ナンタック",
     zhCN: "楠塔克",
     tags: [ "mondstadt", "character-sub" ],
+    notes: "モンドの漁師",
   },
   {
     en: "Marjorie",
@@ -1192,6 +1193,7 @@
     ja: "マルコシアス",
     zhCN: "马克修斯",
     tags: [ "liyue", "title" ],
+    notes: "グゥオパァーのかつての名前",
   },
   {
     en: "God of the Stove",
@@ -1199,6 +1201,7 @@
     zhCN: "灶神",
     pronunciationJa: "かまどがみ",
     tags: [ "liyue", "title" ],
+    notes: "マルコシアス (グゥオパァー) の称号",
   },
   {
     en: "Bosacius",
@@ -1307,6 +1310,18 @@
     ja: "宝児",
     zhCN: "宝儿",
     tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Yan'er",
+    ja: "イェン",
+    tags: [ "liyue", "character-sub" ],
+    notes: "世界任務『「螭」の話』「広海の守護」などに登場する宝盗団の幹部",
+  },
+  {
+    en: "\"Big Sis\"",
+    ja: "「姉御」",
+    tags: [ "liyue", "title" ],
+    notes: "イェンの通り名",
   },
   {
     en: "Guizhong",
@@ -2204,19 +2219,38 @@
     en: "Kamei Munehisa",
     ja: "亀井宗久",
     zhCN: "龟井宗久",
+    pronunciationJa: "かめいむねひさ",
     notes: "全能グルメチームの一員",
     tags: [ "character-sub" ],
+  },
+  {
+    en: "Hiromi",
+    ja: "広海",
+    pronunciationJa: "ひろみ",
+    notes: "世界任務「広海の守護」に登場する勘定奉行の役人",
+    tags: [ "inazuma", "character-sub" ],
+    // related: [ "hiromis-watch" ]
+  },
+  {
+    en: "Shun",
+    ja: "順",
+    pronunciationJa: "じゅん",
+    notes: "世界任務「広海の守護」に登場する宝盗団員",
+    tags: [ "inazuma", "character-sub" ],
+    // related: [ "hiromis-watch" ]
   },
   {
     en: "Neko",
     ja: "寝子",
     zhCN: "寝子",
+    pronunciationJa: "ねこ",
     tags: [ "inazuma", "character-sub" ],
   },
   {
     en: "Self-Proclaimed \"Provisional Head Priestess of the Asase Shrine\"",
     ja: "自称「浅瀬神社の代理宮司」",
     zhCN: "自称「浅濑神社代宫司」",
+    pronunciationJa: "じしょうあさせじんじゃのだいりぐうじ",
     tags: [ "inazuma", "title" ],
   },
   {
@@ -3504,6 +3538,12 @@
     notes: "ナヴィアの侍従の1人。眼鏡を掛けている高齢な方",
   },
   {
+    en: "Callas",
+    ja: "カーレス",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "ナヴィアの父",
+  },
+  {
     en: "Euphrasie",
     ja: "ユーフラシア",
     zhCN: "欧芙",
@@ -3551,6 +3591,13 @@
     tags: [ "fontaine", "character-sub" ],
     notes: "カフェ・ルツェルンの店主",
     // notesEn: "The boss of Café Lucerne",
+  },
+  {
+    en: "Delaroche",
+    ja: "デラロッシュ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "フォンテーヌの漁師",
+    // notesEn: "Fontaine Angler",
   },
   {
     en: "Boucicaut",
@@ -3601,6 +3648,12 @@
     zhCN: "莉莉安",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
+  },
+  {
+    en: "Jacques",
+    ja: "ジャック",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "魔神任務第4章第2幕で言及されるキャラクター",
   },
   {
     en: "Mamere",
@@ -3714,11 +3767,39 @@
     // related: [ "a-fontainian-message" ]
   },
   {
+    en: "Sonny",
+    ja: "ソニィ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「フォンテーヌからのメッセージ」に登場する人物",
+    // related: [ "a-fontainian-message" ]
+  },
+  {
+    en: "\"The White Glove\"",
+    ja: "「白手袋」",
+    tags: [ "fontaine", "title" ],
+    notes: "ソニィの称号",
+    // related: [ "a-fontainian-message" ]
+  },
+  {
+    en: "Luca",
+    ja: "ルカ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「フォンテーヌからのメッセージ」に登場する人物",
+    // related: [ "a-fontainian-message" ]
+  },
+  {
+    en: "\"The Fisherman\"",
+    ja: "「漁師」",
+    tags: [ "fontaine", "title" ],
+    notes: "ルカの称号",
+    // related: [ "a-fontainian-message" ]
+  },
+  {
     en: "Henri",
     ja: "アンリ",
     tags: [ "fontaine", "character-sub" ],
-    notes: "世界任務「ぜんぜんよだれが止まらない!」に登場する人物",
-    // related: [ "truly-mouthwatering" ]
+    notes: "世界任務「ぜんぜんよだれが止まらない!」「まだまだよだれが止まらない!」に登場する人物",
+    // related: [ "truly-mouthwatering", "still-mouthwatering" ]
   },
   {
     en: "Linorea",
@@ -3733,6 +3814,27 @@
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「審美眼の評定」シリーズに登場する画家",
     // related: [ "aesthetic-critique-self-critique" ]
+  },
+  {
+    en: "Aurele",
+    ja: "オーレル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
+    // related: [ "their-childhood" ]
+  },
+  {
+    en: "Verut",
+    ja: "ヴェルー",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
+    // related: [ "their-childhood" ]
+  },
+  {
+    en: "Lovi",
+    ja: "ロウ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
+    // related: [ "their-childhood" ]
   },
   {
     en: "Yves",
