@@ -186,6 +186,56 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v4.1
+  {
+    en: "Waterborne Poetry",
+    ja: "流れゆく水に詩を紡いで",
+    pronunciationJa: "ながれゆくみずにしをつむいで",
+    notes: "v4.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Hundred-Pace Hurling Rites",
+    ja: "百発百中の投壺",
+    pronunciationJa: "ひゃっぱつひゃくちゅうのとうこ",
+    notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Inspiration Eruption",
+    ja: "ドバッとピキーン!",
+    notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Mending Painting Prospects",
+    ja: "景色と絵を訪ねて",
+    pronunciationJa: "けしきとえをたずねて",
+    notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Radiant Harvest",
+    ja: "光と彩を集めて",
+    pronunciationJa: "ひかりといろどりをあつめて",
+    notes: "v4.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Dodoco's Bomb-Tastic Adventure",
+    ja: "ドドコドッカン冒険記",
+    pronunciationJa: "ドドコドッカンぼうけんき",
+    notes: "v4.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "The Peaks and Troughs of Life",
+    ja: "人生山あり谷あり",
+    pronunciationJa: "じんせいやまありたにあり",
+    notes: "v4.1 期間限定イベント",
+    tags: [ "event" ],
+  },
+
   // v4.0
   {
     en: "Mega Meka Melee",

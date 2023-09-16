@@ -16,18 +16,21 @@
     ja: "風を捕まえる異邦人",
     zhCN: "捕风的异乡人",
     tags: [ "mondstadt", "quest-archon" ],
+    notes: "魔神任務序章第一幕",
   },
   {
     en: "For a Tomorrow Without Tears",
     ja: "涙のない明日のために",
     zhCN: "为了没有眼泪的明天",
     tags: [ "mondstadt", "quest-archon" ],
+    notes: "魔神任務序章第二幕",
   },
   {
     en: "Song of the Dragon and Freedom",
     ja: "龍と自由の歌",
     zhCN: "巨龙与自由之歌",
     tags: [ "mondstadt", "quest-archon" ],
+    notes: "魔神任務序章第三幕",
   },
 
   // Liyue
@@ -36,6 +39,7 @@
     ja: "浮世浮生千岩間",
     zhCN: "浮世浮生千岩间",
     tags: [ "liyue", "quest-archon" ],
+    notes: "魔神任務第一章第一幕",
   },
   {
     en: "Farewell, Archaic Lord",
@@ -43,6 +47,7 @@
     zhCN: "辞行久远之躯",
     pronunciationJa: "くおんのからだとのわかれ",
     tags: [ "liyue", "quest-archon" ],
+    notes: "魔神任務第一章第二幕",
   },
   {
     en: "A New Star Approaches",
@@ -50,6 +55,7 @@
     zhCN: "迫近的客星",
     pronunciationJa: "せまるきゃくせい",
     tags: [ "liyue", "quest-archon" ],
+    notes: "魔神任務第一章第三幕",
   },
 
   // Traveler
@@ -59,7 +65,7 @@
     zhCN: "我们终将重逢",
     pronunciationJa: "わたしたちはいずれさいかいする / おれたちはいずれさいかいする",
     tags: [ "mondstadt", "liyue", "quest-archon" ],
-    notes: "主人公が男 (空) の場合「私達」、女 (蛍) の場合「俺達」",
+    notes: "魔神任務第一章第四幕。主人公が男 (空) の場合「私達」、女 (蛍) の場合「俺達」",
   },
   {
     en: "Involuntary Sacrifice",
@@ -97,6 +103,7 @@
     zhCN: "振袖秋风问红叶",
     pronunciationJa: "あきかぜにまいしもみじ",
     tags: [ "inazuma", "quest-archon" ],
+    notes: "魔神任務第二章プロローグ",
   },
   {
     en: "The Immovable God and the Eternal Euthymia",
@@ -104,6 +111,7 @@
     zhCN: "不动鸣神，恒常乐土",
     pronunciationJa: "なるかみふどう、こうじょうらくど",
     tags: [ "inazuma", "quest-archon" ],
+    notes: "魔神任務第二章第一幕",
   },
   {
     en: "Stillness, the Sublimation of Shadow",
@@ -111,6 +119,7 @@
     zhCN: "无念无想，泡影断灭",
     pronunciationJa: "むねんむそう、ほうえいをめっす",
     tags: [ "inazuma", "quest-archon" ],
+    notes: "魔神任務第二章第二幕",
   },
   {
     en: "Omnipresence Over Mortals",
@@ -118,6 +127,7 @@
     zhCN: "千手百眼，天下人间",
     pronunciationJa: "せんじゅひゃくもくのうきよ",
     tags: [ "inazuma", "quest-archon" ],
+    notes: "魔神任務第二章第三幕",
   },
 
   // Interlude
@@ -127,6 +137,7 @@
     zhCN: "风起鹤归",
     pronunciationJa: "かぜたちしつるのききょう",
     tags: [ "liyue", "quest-archon" ],
+    notes: "魔神任務間章第一幕",
   },
 
   // Traveler
@@ -135,6 +146,7 @@
     ja: "淵底に響くレクイエム",
     zhCN: "回响渊底的安魂曲",
     tags: [ "liyue", "quest-archon" ],
+    notes: "魔神任務第二章第四幕",
   },
 
   // Interlude
@@ -144,6 +156,7 @@
     zhCN: "危途疑踪",
     pronunciationJa: "けんろかいせき",
     tags: [ "liyue", "quest-archon" ],
+    notes: "魔神任務間章第二幕",
   },
 
   // Sumeru
@@ -153,6 +166,7 @@
     zhCN: "穿越烟帷与暗林",
     pronunciationJa: "えんむのベールとくらきもりをぬけて",
     tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務第三章第一幕",
   },
   {
     en: "The Morn a Thousand Roses Brings",
@@ -160,6 +174,7 @@
     zhCN: "千朵玫瑰带来的黎明",
     pronunciationJa: "れいめいをつげるせんのばら",
     tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務第三章第二幕",
   },
   {
     en: "Dreams, Emptiness, Deception",
@@ -167,18 +182,21 @@
     zhCN: "迷梦与空幻与欺骗",
     pronunciationJa: "めいむときょげんとぎまん",
     tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務第三章第三幕",
   },
   {
     en: "King Deshret and the Three Magi",
     ja: "赤砂の王と三人の巡礼者",
     zhCN: "赤土之王与三朝圣者",
     tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務第三章第四幕",
   },
   {
     en: "Akasha Pulses, the Kalpa Flame Rises",
     ja: "虚空の鼓動、熾盛の劫火",
     zhCN: "虚空鼓动，劫火高扬",
     tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務第三章第五幕",
   },
 
   // Interlude
@@ -188,6 +206,7 @@
     zhCN: "倾落伽蓝",
     pronunciationJa: "がらんにおちて",
     tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務間章第三幕",
   },
 
   // Traveler
@@ -206,6 +225,7 @@
     zhCN: "白露与黑潮的序诗",
     pronunciationJa: "しらつゆとくろしおのじょし", // TODO Need Check
     tags: [ "fontaine", "quest-archon" ],
+    notes: "魔神任務第四章第一幕",
   },
   {
     en: "As Light Rain Falls Without Reason",
@@ -213,6 +233,21 @@
     zhCN: "仿若无因飘落的轻雨",
     pronunciationJa: "ゆえなくけむるきりさめのように",
     tags: [ "fontaine", "quest-archon" ],
+    notes: "魔神任務第四章第二幕",
+  },
+  {
+    en: "To the Stars Shining in the Depths",
+    ja: "深海に煌めく星たちへ",
+    pronunciationJa: "しんかいにきらめくほしたちへ",
+    tags: [ "fontaine", "quest-archon" ],
+    notes: "魔神任務第四章第三幕",
+  },
+  {
+    en: "Cataclysm's Quickening",
+    ja: "胎動を諭す終焉の刻",
+    pronunciationJa: "たいどうをさとすしゅうえんのとき",
+    tags: [ "fontaine", "quest-archon" ],
+    notes: "魔神任務第四章第四幕",
   },
 
   {
@@ -2055,6 +2090,18 @@
     pronunciationJa: "ちえのあるじのしょう",
     notes: "ナヒーダの伝説任務",
     tags: [ "sumeru", "quest-story" ],
+  },
+  {
+    en: "Felis Fuscus Chapter",
+    ja: "黒斑猫の章",
+    notes: "リネの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Cerberus Chapter",
+    ja: "獄守犬の章",
+    notes: "リオセスリの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
   },
 
   //

@@ -3437,6 +3437,12 @@
     tags: [ "fontaine", "character-main" ],
   },
   {
+    en: "Duke",
+    ja: "公爵",
+    tags: [ "fontaine", "character-main" ],
+    notes: "リオセスリの爵位",
+  },
+  {
     en: "Sigewinne",
     ja: "シグウィン",
     zhCN: "希格雯",

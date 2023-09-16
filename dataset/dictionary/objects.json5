@@ -1042,4 +1042,10 @@
     tags: [ "object", "fontaine" ],
     notes: "エリナスにいくつかある、獣域ウルブズが出てくる法陣",
   },
+  {
+    en: "Allogravity-Condensed Water Bodies",
+    ja: "異重力凝水体",
+    pronunciationJa: "いじゅうりょくぎょうすいたい",
+    tags: [ "object", "fontaine" ],
+  },
 ]
