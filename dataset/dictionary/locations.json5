@@ -2055,12 +2055,26 @@
   },
 
   {
+    en: "Liffey Region",
+    ja: "リフィー地区",
+    pronunciationJa: "リフィーちく",
+    tags: [ "fontaine", "location" ],
+  },
+  {
     en: "Fortress of Meropide",
     ja: "メロピデ要塞",
     zhCN: "梅洛彼得堡",
     pronunciationJa: "メロピデようさい",
     tags: [ "fontaine", "location" ],
   },
+
+  {
+    en: "Fontaine Research Institute of Kinetic Energy Engineering Region",
+    ja: "フォンテーヌ運動エネルギー工学科学研究院地区",
+    pronunciationJa: "フォンテーヌうんどうエネルギーこうがくかがくけんきゅういんちく",
+    tags: [ "fontaine", "location" ],
+  },
+
   {
     en: "Petrichor",
     ja: "ペトリコール",

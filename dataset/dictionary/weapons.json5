@@ -260,6 +260,12 @@
     notes: "サーンドルの渡し守の精錬素材",
     // notesEn: "Refinement material for Fleuve Cendre Ferryman",
   },
+  {
+    en: "The Dockhand's Assistant",
+    ja: "船渠剣",
+    pronunciationJa: "せんきょけん",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -544,6 +550,12 @@
     pronunciationJa: "はなしあいぼう",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "Portable Power Saw",
+    ja: "携帯型チェーンソー",
+    pronunciationJa: "けいたいがたチェーンソー",
+    tags: [ "weapon", "claymore" ],
+  },
   // ★5
   {
     en: "Skyward Pride",
@@ -764,6 +776,11 @@
     ja: "フィヨルドの歌",
     zhCN: "峡湾长歌",
     pronunciationJa: "フィヨルドのうた",
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Prospector's Drill",
+    ja: "プロスペクタードリル",
     tags: [ "weapon", "polearm" ],
   },
   // ★5
@@ -1055,6 +1072,11 @@
     pronunciationJa: "れつじつのこうし", // TODO Need Check
     tags: [ "weapon", "bow" ],
   },
+  {
+    en: "Range Gauge",
+    ja: "レンジゲージ",
+    tags: [ "weapon", "bow" ],
+  },
   // ★5
   {
     en: "Skyward Harp",
@@ -1329,6 +1351,12 @@
     pronunciationJa: "こしのろう", // TODO Need Confirmation
     tags: [ "weapon", "catalyst" ],
   },
+  {
+    en: "Ballad of the Boundless Blue",
+    ja: "果てなき紺碧の唄",
+    pronunciationJa: "はてなきこんぺきのうた",
+    tags: [ "weapon", "catalyst" ],
+  },
   // ★5
   {
     en: "Skyward Atlas",
@@ -1393,5 +1421,16 @@
     // pronunciationJa: "へきらくのろう", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
     pinyins: [{ char: "珑", pron: "long2" }],
+  },
+  {
+    en: "Tome of the Eternal Flow",
+    ja: "久遠流転の大典",
+    pronunciationJa: "くおんるてんのだいてん", // TODO Need Check
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Cashflow Supervision",
+    ja: "凛流の監視者",
+    tags: [ "weapon", "catalyst" ],
   },
 ]

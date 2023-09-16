@@ -235,6 +235,20 @@
     tags: [ "fontaine", "quest-archon" ],
     notes: "魔神任務第四章第二幕",
   },
+  {
+    en: "To the Stars Shining in the Depths",
+    ja: "深海に煌めく星たちへ",
+    pronunciationJa: "しんかいにきらめくほしたちへ",
+    tags: [ "fontaine", "quest-archon" ],
+    notes: "魔神任務第四章第三幕",
+  },
+  {
+    en: "Cataclysm's Quickening",
+    ja: "胎動を諭す終焉の刻",
+    pronunciationJa: "たいどうをさとすしゅうえんのとき",
+    tags: [ "fontaine", "quest-archon" ],
+    notes: "魔神任務第四章第四幕",
+  },
 
   {
     en: "Interlude",
@@ -2076,6 +2090,18 @@
     pronunciationJa: "ちえのあるじのしょう",
     notes: "ナヒーダの伝説任務",
     tags: [ "sumeru", "quest-story" ],
+  },
+  {
+    en: "Felis Fuscus Chapter",
+    ja: "黒斑猫の章",
+    notes: "リネの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Cerberus Chapter",
+    ja: "獄守犬の章",
+    notes: "リオセスリの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
   },
 
   //

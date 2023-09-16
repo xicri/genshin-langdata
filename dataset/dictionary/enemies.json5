@@ -1898,6 +1898,12 @@
     tags: [ "fontaine", "enemy-boss" ],
     notes: "コペリウスが主演の \"公演\"",
   },
+  {
+    en: "Experimental Field Generator",
+    ja: "実験用フィールド生成装置",
+    pronunciationJa: "じっけんようフィールドせいせいそうち",
+    tags: [ "fontaine", "enemy-boss" ],
+  },
 
   {
     en: "Tainted Hydro Phantasm",
@@ -2058,6 +2064,12 @@
     variants: {
       zhCN: [ "红烧蟹" ],
     },
+  },
+  {
+    en: "Millennial Pearl Seahorse",
+    ja: "千年真珠の海駿",
+    pronunciationJa: "せんねんしんじゅのかいしゅん",
+    tags: [ "fontaine", "enemy-boss" ],
   },
 
   {
