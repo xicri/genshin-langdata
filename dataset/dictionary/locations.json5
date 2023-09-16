@@ -2055,6 +2055,14 @@
   },
 
   {
+    en: "Fortress of Meropide",
+    ja: "メロピデ要塞",
+    zhCN: "梅洛彼得堡",
+    pronunciationJa: "メロピデようさい",
+    tags: [ "fontaine", "location" ],
+    notes: "恐らくフォンテーヌの地名。煙緋が2023年のバースデーメールで言及",
+  },
+  {
     en: "Petrichor",
     ja: "ペトリコール",
     zhCN: "佩特莉可",
@@ -2067,14 +2075,6 @@
     zhCN: "柔灯港",
     tags: [ "fontaine", "location" ],
     notes: "恐らくフォンテーヌの地名。世界任務「とあるフォンテーヌ人の思い出」でオーガスタス・ラヴレスが言及。",
-  },
-  {
-    en: "Fortress of Meropide",
-    ja: "メロピデ要塞",
-    zhCN: "梅洛彼得堡",
-    pronunciationJa: "メロピデようさい",
-    tags: [ "fontaine", "location" ],
-    notes: "恐らくフォンテーヌの地名。煙緋が2023年のバースデーメールで言及",
   },
 
   //
