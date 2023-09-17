@@ -4006,12 +4006,25 @@
     tags: [ "snezhnaya", "liyue", "character-main", "enemy-boss" ],
   },
   {
-    en: "comrade",
+    en: "comrade / partner",
     ja: "相棒",
-    zhCN: "伙伴",
-    notes: "タルタリヤの旅人に対する呼び方",
-    notesZh: "达达利亚对旅人的称呼",
-    tags: [ "snezhnaya", "liyue", "how-to-call" ],
+    zhCN: "伙伴 / 搭档",
+    notes: "タルタリヤ、鹿野院平蔵、ナヴィアの旅人に対する呼び方。英語版では、タルタリヤは comrade と、鹿野院平蔵とナヴィアは partner と呼ぶ。中国語版では、タルタリヤは「伙伴」と、鹿野院平蔵とナヴィアは「搭档」と呼ぶ",
+    // notesEn: "Childe, Shikanoin Heizou, and Navia call Traveler so. While Childe calls them \"comrade\" and Shikanoin Heizou and Navia calls them \"partner\" in English version, Childe calls them 伙伴 and Shikanoin Heizou and Navia calls them 搭档 in Chinese. In Japanese version, all three calls them 相棒."
+    notesZh: "公子、鹿野院平藏和娜维娅称呼旅行者的方式。在中文中，公子称呼旅行者为“伙伴”，但是鹿野院平藏和娜维娅称呼旅行者为“搭档”。在英文中，公子称呼旅行者为“comrade”，但是鹿野院平藏和娜维娅称呼旅行者为“partner”。在日语中，他们三人都称呼旅行者为“相棒“。",
+    tags: [ "snezhnaya", "liyue", "inazuma", "fontaine", "how-to-call" ],
+    examples: [
+      {
+        en: "It's a deal then, partner!",
+        ja: "さすが相棒! そうこなくっちゃ!",
+        ref: "鹿野院平蔵, デートイベント: 鹿野院平蔵",
+      },
+      {
+        en: "I'll see you again, partner!",
+        ja: "またね、相棒!",
+        ref: "ナヴィア, 魔神任務第四章第二幕 ゆえなく煙る霧雨のように",
+      },
+    ],
   },
   {
     en: "Foul Legacy Transformation",
