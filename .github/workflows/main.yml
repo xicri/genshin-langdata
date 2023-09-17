@@ -42,7 +42,7 @@ jobs:
       - run: npm run release
 
   release:
-    if: ${{ github.ref == 'refs/heads/main' }}
+    if: ${{ github.ref == 'refs/heads/main' && github.repository_owner == 'xicri' }}
     timeout-minutes: 5
     env:
       NODE_ENV: production
