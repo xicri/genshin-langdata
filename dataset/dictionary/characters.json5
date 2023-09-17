@@ -3439,7 +3439,7 @@
   {
     en: "Duke",
     ja: "公爵",
-    tags: [ "fontaine", "character-main" ],
+    tags: [ "fontaine", "title" ],
     notes: "リオセスリの爵位",
   },
   {
@@ -3614,6 +3614,18 @@
     // related: [ "damoville-purveyor" ],
   },
   {
+    en: "Aeval",
+    ja: "アイベル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "クレメンタイン線 (ロマリタイムハーバー ↔ フォンテーヌ廷) の巡水船のガイドを務めるメリュジーヌ",
+  },
+  {
+    en: "Elphane",
+    ja: "エルファネ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "ナヴィア線 (フォンテーヌ廷 ↔ ポート・マルコット) の巡水船のガイドを務めるメリュジーヌ",
+  },
+  {
     en: "Gestionnaire",
     ja: "共律官",
     zhCN: "复律官",
@@ -3654,6 +3666,25 @@
     zhCN: "莉莉安",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
+  },
+  {
+    en: "Marcel",
+    ja: "マーセル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "カブリエール商会の会長。魔神任務第4章第2幕に登場",
+    // notesEn: "The head of Confrerie of Cabriere. Appears in the Archon Quest Chapter Ⅳ Act Ⅱ"
+  },
+  {
+    en: "Vacher",
+    ja: "ヴァシェ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "魔神任務第4章第2幕に登場するキャラクター",
+  },
+  {
+    en: "Vigneire",
+    ja: "ヴェニール",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "魔神任務第4章第2幕に登場するキャラクター",
   },
   {
     en: "Jacques",
@@ -3738,10 +3769,10 @@
     notes: "世界任務「好事魔多し」などに登場する、花を育てているメリュジーヌ",
   },
   {
-    en: "Jakob",
-    ja: "ジェイコブ",
+    en: "Jakob Ingold",
+    ja: "ジェイコブ・インゴルド",
     tags: [ "fontaine", "character-sub" ],
-    notes: "世界任務「古き色合い」などに登場する人物",
+    notes: "水仙十字結社の一員。世界任務「古き色合い」などに登場する人物",
   },
   {
     en: "Mary-Ann",
@@ -3761,8 +3792,8 @@
     tags: [ "fontaine", "character-sub" ],
   },
   {
-    en: "Basil",
-    ja: "バザル",
+    en: "Basil Elton",
+    ja: "バザル・エルトン",
     tags: [ "fontaine", "character-sub" ],
   },
   {
@@ -3806,6 +3837,27 @@
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「ぜんぜんよだれが止まらない!」「まだまだよだれが止まらない!」に登場する人物",
     // related: [ "truly-mouthwatering", "still-mouthwatering" ]
+  },
+  {
+    en: "Iaune",
+    ja: "アイオーヌ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「一通の知らせ」「些細な出来事」「とある印章」に登場する人物",
+    // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
+  },
+  {
+    en: "Remaudiere",
+    ja: "レモディエール",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「泉は再び湧きいづる」に登場する人物",
+    // related: [ "the-fountain-flows-again" ]
+  },
+  {
+    en: "Edel",
+    ja: "エデル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「泉は再び湧きいづる」に登場する人物",
+    // related: [ "the-fountain-flows-again" ]
   },
   {
     en: "Linorea",

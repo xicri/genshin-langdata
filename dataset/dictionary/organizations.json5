@@ -424,6 +424,12 @@
     tags: [ "fontaine", "organization" ],
   },
   {
+    en: "Maison Gestion",
+    ja: "共律庭",
+    pronunciationJa: "きょうりつてい", // TODO Need Check
+    tags: [ "fontaine", "organization" ],
+  },
+  {
     en: "Special Security and Surveillance Patrol",
     ja: "特巡隊",
     zhCN: "特巡队",

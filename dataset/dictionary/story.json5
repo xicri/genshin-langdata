@@ -678,11 +678,17 @@
     // related: [ "prelude-of-blancheur-and-noirceur", "as-light-rain-falls-without-reason" ]
   },
   {
-    en: "Water from the Primordial Sea",
+    en: "Water from the Primordial Sea / Primodial Water",
     ja: "原始胎海の水",
     zhCN: "原始胎海之水",
     pronunciationJa: "げんしたいかいのみず",
     tags: [ "fontaine" ],
+  },
+  {
+    en: "Sinthe",
+    ja: "ロシ",
+    tags: [ "fontaine" ],
+    notes: "かつてポワソン町で流行った、麻薬のような飲み物",
   },
   {
     en: "Tales of Humanity",
@@ -714,6 +720,11 @@
     en: "the Sponsian",
     ja: "スポンジアン号",
     pronunciationJa: "スポンジアンごう",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Remuria",
+    ja: "レムリア",
     tags: [ "fontaine" ],
   },
 
