@@ -685,6 +685,12 @@
     tags: [ "fontaine" ],
   },
   {
+    en: "Sinthe",
+    ja: "ロシ",
+    tags: [ "fontaine" ],
+    notes: "かつてポワソン町で流行った、麻薬のような飲み物",
+  },
+  {
     en: "Tales of Humanity",
     ja: "人生いろいろ",
     zhCN: "人间百态",
@@ -714,6 +720,11 @@
     en: "the Sponsian",
     ja: "スポンジアン号",
     pronunciationJa: "スポンジアンごう",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Remuria",
+    ja: "レムリア",
     tags: [ "fontaine" ],
   },
 

@@ -1668,6 +1668,13 @@
     notes: "水仙のアン・第三幕",
   },
   {
+    en: "Unfinished Story",
+    ja: "まだ終わらない物語",
+    pronunciationJa: "まだおわらないものがたり",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "水仙のアンのエピローグ的な世界任務",
+  },
+  {
     en: "Aqueous Tidemarks",
     ja: "水色の潮痕",
     zhCN: "水色潮痕",
@@ -1709,6 +1716,35 @@
   {
     en: "In Expert Company?",
     ja: "三人寄れば…明師を探せ",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "A Certain Notice",
+    ja: "一通の知らせ",
+    pronunciationJa: "いっつうのしらせ",
+    tags: [ "fontaine", "quest-world" ],
+    // related: [ "a-certain-trifle", "a-certain-stamp" ]
+  },
+  {
+    en: "A Certain Trifle",
+    ja: "些細な出来事",
+    pronunciationJa: "ささいなできごと",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "「一通の知らせ」に連なる世界任務の1つ",
+    // related: [ "a-certain-notice", "a-certain-stamp" ]
+  },
+  {
+    en: "A Certain Stamp",
+    ja: "とある印章",
+    pronunciationJa: "とあるいんしょう",
+    tags: [ "fontaine", "quest-world" ],
+    notes: "「一通の知らせ」に連なる世界任務の1つ",
+    // related: [ "a-certain-notice", "a-certain-trifle" ]
+  },
+  {
+    en: "The Fountain Flows Again",
+    ja: "泉は再び湧きいづる",
+    pronunciationJa: "いずみはふたたびわきいづる",
     tags: [ "fontaine", "quest-world" ],
   },
   {
@@ -2961,6 +2997,12 @@
     en: "Their Childhood: Good Times",
     ja: "彼らの子供時代・良き時代",
     pronunciationJa: "かれらのこどもじだい・よきじだい",
+    tags: [ "quest-daily", "fontaine" ],
+  },
+  {
+    en: "Their Childhood: A Certain Passage",
+    ja: "彼らの子供時代・とある章",
+    pronunciationJa: "かれらのこどもじだい・とあるしょう",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
