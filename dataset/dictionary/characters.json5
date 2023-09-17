@@ -3738,10 +3738,10 @@
     notes: "世界任務「好事魔多し」などに登場する、花を育てているメリュジーヌ",
   },
   {
-    en: "Jakob",
-    ja: "ジェイコブ",
+    en: "Jakob Ingold",
+    ja: "ジェイコブ・インゴルド",
     tags: [ "fontaine", "character-sub" ],
-    notes: "世界任務「古き色合い」などに登場する人物",
+    notes: "水仙十字結社の一員。世界任務「古き色合い」などに登場する人物",
   },
   {
     en: "Mary-Ann",
@@ -3761,8 +3761,8 @@
     tags: [ "fontaine", "character-sub" ],
   },
   {
-    en: "Basil",
-    ja: "バザル",
+    en: "Basil Elton",
+    ja: "バザル・エルトン",
     tags: [ "fontaine", "character-sub" ],
   },
   {
