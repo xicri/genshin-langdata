@@ -3890,6 +3890,13 @@
     // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
   },
   {
+    en: "Roialte",
+    ja: "ロアルテ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "アイオーヌの共律庭での先輩。世界任務「一通の知らせ」「些細な出来事」「とある印章」などに登場する人物",
+    // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
+  },
+  {
     en: "Remaudiere",
     ja: "レモディエール",
     tags: [ "fontaine", "character-sub" ],
