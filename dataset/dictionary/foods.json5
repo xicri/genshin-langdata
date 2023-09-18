@@ -168,6 +168,7 @@
   {
     en: "Duck Confit",
     ja: "鴨肉のコンフィ",
+    zhCN: "油封鸭腿",
     pronunciationJa: "かもにくのコンフィ",
     tags: [ "food" ],
   },
@@ -481,22 +482,26 @@
   {
     en: "Cream of Mushroom Soup",
     ja: "きのこのクリームスープ",
+    zhCN: "奶油蘑菇汤",
     tags: [ "food" ],
   },
   {
     en: "Fontainian Onion Soup",
     ja: "フォンテーヌ風オニオンスープ",
+    zhCN: "枫丹洋葱汤",
     pronunciationJa: "フォンテーヌふうオニオンスープ",
     tags: [ "food" ],
   },
   {
     en: "Tasses Ragout",
     ja: "ラタトゥイユ・タッセス",
+    zhCN: "塔塞斯杂烩",
     tags: [ "food" ],
   },
   {
     en: "Fontaine Aspic",
     ja: "水郷のアスピック",
+    zhCN: "水乡肉冻",
     pronunciationJa: "すいきょうのアスピック", // TODO Need Check
     tags: [ "food" ],
   },
@@ -509,6 +514,7 @@
   {
     en: "Ile flottante",
     ja: "イル・フロッタント",
+    zhCN: "浮露白霜",
     tags: [ "food" ],
   },
   {
@@ -734,12 +740,14 @@
   {
     en: "Fruity Smoothie",
     ja: "仙果スムージー",
+    zhCN: "果果仙酪",
     pronunciationJa: "せんかスムージー", // TODO Need Check
     tags: [ "food" ],
   },
   {
     en: "Fruity Duet",
     ja: "清露デュエット",
+    zhCN: "双果清露",
     pronunciationJa: "せいろデュエット", // TODO Need Check
     tags: [ "food" ],
   },
@@ -951,21 +959,25 @@
   {
     en: "Lasagna",
     ja: "ミートソースラザニア",
+    zhCN: "肉酱千层面",
     tags: [ "food" ],
   },
   {
     en: "Steak Tartare",
     ja: "タルタルタワー",
+    zhCN: "生肉塔塔",
     tags: [ "food" ],
   },
   {
     en: "Pate de Fruit",
     ja: "パート・ドゥ・フリュイ",
+    zhCN: "果果软糖",
     tags: [ "food" ],
   },
   {
     en: "Fish and Chips",
     ja: "フィッシュアンドチップス",
+    zhCN: "炸鱼薯条",
     tags: [ "food" ],
   },
   {
@@ -977,17 +989,20 @@
   {
     en: "Poissonchant Pie",
     ja: "ポワソンチャンティー・パイ",
+    zhCN: "鱼鱼咏唱派",
     tags: [ "food" ],
   },
   {
     en: "Conch Madeleine",
     ja: "晶螺マドレーヌ",
+    zhCN: "晶螺糕",
     pronunciationJa: "しょうらマドレーヌ", // TODO Need Check
     tags: [ "food" ],
   },
   {
     en: "Fruity Trio",
     ja: "花と果実のトリオ",
+    zhCN: "花果三重奏",
     tags: [ "food" ],
   },
 
@@ -1084,6 +1099,7 @@
   {
     en: "Vessie Chicken",
     ja: "ベッシーチキン",
+    zhCN: "韦西鸡",
     tags: [ "food" ],
   },
 
@@ -1579,6 +1595,7 @@
   {
     en: "Traditionally-Made Charcoal-Baked Ajilenakh Cake",
     ja: "古風な製法のデーツナン",
+    zhCN: "古法秘制椰炭饼",
     pronunciationJa: "こふうなせいほうのデーツナン",
     tags: [ "food", "sumeru" ],
     notes: "ファルザンのオリジナル料理",
@@ -1588,12 +1605,14 @@
   {
     en: "Cubic Tricks",
     ja: "キューブトリック",
+    zhCN: "方块戏法",
     tags: [ "food", "fontaine" ],
     notes: "リネのオリジナル料理",
   },
   {
     en: "A Leisurely Sip",
     ja: "アフタヌーンティー",
+    zhCN: "午后闲茶",
     tags: [ "food", "fontaine" ],
     notes: "リネットのオリジナル料理",
   },
@@ -1830,6 +1849,7 @@
   {
     en: "Fermented Juice",
     ja: "発酵フルーツジュース",
+    zhCN: "发酵果实汁",
     pronunciationJa: "はっこうフルーツジュース",
     tags: [ "food", "fontaine" ],
   },
