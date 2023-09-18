@@ -1314,12 +1314,14 @@
   {
     en: "Yan'er",
     ja: "イェン",
+    zhCN: "胭儿",
     tags: [ "liyue", "character-sub" ],
     notes: "世界任務『「螭」の話』「広海の守護」などに登場する宝盗団の幹部",
   },
   {
     en: "\"Big Sis\"",
     ja: "「姉御」",
+    zhCN: "「大姐」",
     tags: [ "liyue", "title" ],
     notes: "イェンの通り名",
   },
@@ -2233,6 +2235,7 @@
   {
     en: "Hiromi",
     ja: "広海",
+    zhCN: "广海",
     pronunciationJa: "ひろみ",
     notes: "世界任務「広海の守護」に登場する勘定奉行の役人",
     tags: [ "inazuma", "character-sub" ],
@@ -2241,6 +2244,7 @@
   {
     en: "Shun",
     ja: "順",
+    zhCN: "阿顺",
     pronunciationJa: "じゅん",
     notes: "世界任務「広海の守護」に登場する宝盗団員",
     tags: [ "inazuma", "character-sub" ],
@@ -3459,6 +3463,7 @@
   {
     en: "Duke",
     ja: "公爵",
+    zhCN: "公爵",
     tags: [ "fontaine", "title" ],
     notes: "リオセスリの爵位",
   },
@@ -3566,6 +3571,7 @@
   {
     en: "Callas",
     ja: "カーレス",
+    zhCN: "卡雷斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィアの父",
   },
@@ -3614,6 +3620,7 @@
   {
     en: "Arouet",
     ja: "アルエ",
+    zhCN: "阿鲁埃",
     tags: [ "fontaine", "character-sub" ],
     notes: "カフェ・ルツェルンの店主",
     // notesEn: "The boss of Café Lucerne",
@@ -3621,6 +3628,7 @@
   {
     en: "Delaroche",
     ja: "デラロッシュ",
+    zhCN: "德拉萝诗",
     tags: [ "fontaine", "character-sub" ],
     notes: "フォンテーヌの漁師",
     // notesEn: "Fontaine Angler",
@@ -3628,6 +3636,7 @@
   {
     en: "Boucicaut",
     ja: "ブシコー",
+    zhCN: "布希柯",
     tags: [ "fontaine", "character-sub" ],
     notes: "ダーモヴィル雑貨店の店主",
     // notesEn: "The manager of Damoville Purveyor",
@@ -3636,12 +3645,14 @@
   {
     en: "Aeval",
     ja: "アイベル",
+    zhCN: "爱贝尔",
     tags: [ "fontaine", "character-sub" ],
     notes: "クレメンタイン線 (ロマリタイムハーバー ↔ フォンテーヌ廷) の巡水船のガイドを務めるメリュジーヌ",
   },
   {
     en: "Elphane",
     ja: "エルファネ",
+    zhCN: "欧菲妮",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィア線 (フォンテーヌ廷 ↔ ポート・マルコット) の巡水船のガイドを務めるメリュジーヌ",
   },
@@ -3690,6 +3701,7 @@
   {
     en: "Marcel",
     ja: "マーセル",
+    zhCN: "玛塞勒",
     tags: [ "fontaine", "character-sub" ],
     notes: "カブリエール商会の会長。魔神任務第4章第2幕に登場",
     // notesEn: "The head of Confrerie of Cabriere. Appears in the Archon Quest Chapter Ⅳ Act Ⅱ"
@@ -3697,18 +3709,21 @@
   {
     en: "Vacher",
     ja: "ヴァシェ",
+    zhCN: "瓦谢",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第2幕に登場するキャラクター",
   },
   {
     en: "Vigneire",
     ja: "ヴェニール",
+    zhCN: "薇涅尔",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第2幕に登場するキャラクター",
   },
   {
     en: "Jacques",
     ja: "ジャック",
+    zhCN: "杰克",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第2幕で言及されるキャラクター",
   },
@@ -3767,60 +3782,70 @@
   {
     en: "Verenata",
     ja: "べレナータ",
+    zhCN: "薇蕾娜妲",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「こんなのかぼちゃスープじゃない…」「旧世の残した音」などに登場するメリュジーヌ",
   },
   {
     en: "Carabosse",
     ja: "カラボス",
+    zhCN: "卡莉珀丝",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「旧世の残した音」に登場するメリュジーヌ",
   },
   {
     en: "Topyas",
     ja: "トピア",
+    zhCN: "托皮娅",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「旧世の残した音」に登場するメリュジーヌ",
   },
   {
     en: "Canotila",
     ja: "カノティラ",
+    zhCN: "夏诺蒂拉",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「秘教と啓示の書」に登場するメリュジーヌ",
   },
   {
     en: "Ahes",
     ja: "アッシェン",
+    zhCN: "艾伊丝",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「孤帆幽影」に登場するメリュジーヌ",
   },
   {
     en: "Puca",
     ja: "プーカ",
+    zhCN: "芙佳",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「奇石冒険記」などに登場するメリュジーヌ",
   },
   {
     en: "Chesil",
     ja: "チェシル",
+    zhCN: "切瑟尔",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「奇石冒険記」に登場する人物",
   },
   {
     en: "Cosanzeana",
     ja: "コスンツァーナ",
+    zhCN: "柯莎",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「好事魔多し」などに登場する、花を育てているメリュジーヌ",
   },
   {
     en: "Jakob Ingold",
     ja: "ジェイコブ・インゴルド",
+    zhCN: "雅各布·英戈德",
     tags: [ "fontaine", "character-sub" ],
     notes: "水仙十字結社の一員。世界任務「古き色合い」などに登場する人物",
   },
   {
     en: "Mary-Ann",
     ja: "マリアン",
+    zhCN: "玛丽安",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「水仙のアン」などに登場する人物",
   },
@@ -3833,16 +3858,19 @@
   {
     en: "Carter",
     ja: "カーター",
+    zhCN: "卡特",
     tags: [ "fontaine", "character-sub" ],
   },
   {
     en: "Basil Elton",
     ja: "バザル・エルトン",
+    zhCN: "贝瑟·埃尔顿",
     tags: [ "fontaine", "character-sub" ],
   },
   {
     en: "Virgil",
     ja: "ヴァージル",
+    zhCN: "维吉尔",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「フォンテーヌからのメッセージ」などに登場する人物",
     // related: [ "a-fontainian-message" ]
@@ -3850,6 +3878,7 @@
   {
     en: "Sonny",
     ja: "ソニィ",
+    zhCN: "桑尼",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「フォンテーヌからのメッセージ」に登場する人物",
     // related: [ "a-fontainian-message" ]
@@ -3857,6 +3886,7 @@
   {
     en: "\"The White Glove\"",
     ja: "「白手袋」",
+    zhCN: "「白手套」",
     tags: [ "fontaine", "title" ],
     notes: "ソニィの称号",
     // related: [ "a-fontainian-message" ]
@@ -3864,6 +3894,7 @@
   {
     en: "Luca",
     ja: "ルカ",
+    zhCN: "卢卡",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「フォンテーヌからのメッセージ」に登場する人物",
     // related: [ "a-fontainian-message" ]
@@ -3871,6 +3902,7 @@
   {
     en: "\"The Fisherman\"",
     ja: "「漁師」",
+    zhCN: "「渔夫」",
     tags: [ "fontaine", "title" ],
     notes: "ルカの称号",
     // related: [ "a-fontainian-message" ]
@@ -3878,6 +3910,7 @@
   {
     en: "Henri",
     ja: "アンリ",
+    zhCN: "恩里",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「ぜんぜんよだれが止まらない!」「まだまだよだれが止まらない!」に登場する人物",
     // related: [ "truly-mouthwatering", "still-mouthwatering" ]
@@ -3885,6 +3918,7 @@
   {
     en: "Iaune",
     ja: "アイオーヌ",
+    zhCN: "艾尤恩",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「一通の知らせ」「些細な出来事」「とある印章」などに登場する人物",
     // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
@@ -3899,6 +3933,7 @@
   {
     en: "Remaudiere",
     ja: "レモディエール",
+    zhCN: "勒莫迪埃",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「泉は再び湧きいづる」に登場する人物",
     // related: [ "the-fountain-flows-again" ]
@@ -3906,6 +3941,7 @@
   {
     en: "Edel",
     ja: "エデル",
+    zhCN: "厄代尔",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「泉は再び湧きいづる」に登場する人物",
     // related: [ "the-fountain-flows-again" ]
@@ -3913,6 +3949,7 @@
   {
     en: "Linorea",
     ja: "リノレア",
+    zhCN: "莉诺蕾娅",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「少なくともお魚は知っている」に登場する記者",
     // related: [ "at-least-the-fish-know" ]
@@ -3920,6 +3957,7 @@
   {
     en: "Depierris",
     ja: "デピエリ",
+    zhCN: "德皮耶里",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「審美眼の評定」シリーズに登場する画家",
     // related: [ "aesthetic-critique-self-critique" ]
@@ -3927,6 +3965,7 @@
   {
     en: "Aurele",
     ja: "オーレル",
+    zhCN: "奥雷勒",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
     // related: [ "their-childhood" ]
@@ -3934,6 +3973,7 @@
   {
     en: "Verut",
     ja: "ヴェルー",
+    zhCN: "韦吕",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
     // related: [ "their-childhood" ]
@@ -3941,6 +3981,7 @@
   {
     en: "Lovi",
     ja: "ロウ",
+    zhCN: "洛薇",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
     // related: [ "their-childhood" ]
@@ -3948,6 +3989,7 @@
   {
     en: "Yves",
     ja: "イヴス",
+    zhCN: "伊维斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「水底の日々」に登場する潜水士",
     // related: [ "days-beneath-the-waves" ]
