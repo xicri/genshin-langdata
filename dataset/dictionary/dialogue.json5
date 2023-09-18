@@ -160,6 +160,13 @@
   // Liyue
   //
   {
+    en: "Well, allow me",
+    ja: "俺が払うよ",
+    pronunciationJa: "おれがはらうよ",
+    notes: "鍾離がモラを持っておらず支払いができない時にタルタリヤが発した言葉。\"allow me\" は何らかの手助けを申し出る時に使う丁寧な表現。魔神任務第一章第二幕「久遠の体との別れ」より",
+    tags: [ "dialogue", "liyue" ],
+  },
+  {
     en: "Know my sword!",
     ja: "この剣は分かるかい!",
     zhCN: "雨线难画。",
@@ -285,5 +292,23 @@
     zhCN: "…世界…遗忘我…",
     pronunciationJa: "せかいが…わたしを…わすれて…",
     tags: [ "dialogue", "sumeru" ],
+  },
+  {
+    en: "No? Not funny?",
+    ja: "面白くないか?",
+    pronunciationJa: "おもしろくないか",
+    tags: [ "dialogue", "sumeru" ],
+    notes: "セノがダジャレを言ってウケなかった時のセリフ。v3.5 期間限定イベント「風花の吐息」(風花祭) より",
+  },
+
+  //
+  // Fontaine
+  //
+  {
+    en: "Have a safe trip",
+    ja: "行ってらっしゃい",
+    pronunciationJa: "いってらっしゃい",
+    tags: [ "dialogue", "fontaine" ],
+    notes: "リオセスリの攻撃時の?セリフ",
   },
 ]
