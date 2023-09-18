@@ -300,6 +300,13 @@
     tags: [ "dialogue", "sumeru" ],
     notes: "セノがダジャレを言ってウケなかった時のセリフ。v3.5 期間限定イベント「風花の吐息」(風花祭) より",
   },
+  {
+    en: "It's getting cold, you say? I feel fine.",
+    ja: "寒いのか? 俺は大丈夫だが。",
+    pronunciationJa: "さむいのか? おれはだいじょうぶだが",
+    tags: [ "dialogue", "sumeru" ],
+    notes: "アルハイゼン構文の元ネタ。アルハイゼンの雪の日のボイスより",
+  },
 
   //
   // Fontaine

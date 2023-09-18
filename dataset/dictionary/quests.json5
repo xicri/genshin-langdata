@@ -3013,6 +3013,13 @@
     // related: [ "iaune" ]
   },
   {
+    en: "Down Time",
+    ja: "休憩時間",
+    pronunciationJa: "きゅうけいじかん",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "roialte" ]
+  },
+  {
     en: "Days Beneath the Waves",
     ja: "水底の日々",
     pronunciationJa: "みなそこのひび",
@@ -3029,6 +3036,13 @@
     ja: "「インタラクティブツアー」",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "antoine-roger-aircraft" ],
+  },
+  {
+    en: "Fishnado",
+    ja: "魚と波を掻き分けて",
+    pronunciationJa: "さかなとなみをかきわけて",
+    tags: [ "quest-daily", "fontaine" ],
+    notes: "Fishnado とは、fish + tornado から成る言葉で、水中で魚が作る渦巻を指す",
   },
   {
     en: "Overland Bubbles",
