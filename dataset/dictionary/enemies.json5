@@ -1832,12 +1832,14 @@
   {
     en: "Arithmetic Enhancer Mek",
     ja: "マシナリー・演算力増幅器",
+    zhCN: "机关·算力增幅器",
     pronunciationJa: "マシナリー・えんざんりょくぞうふくき",
     tags: [ "fontaine", "enemy" ],
   },
   {
     en: "Construction Specialist Mek",
     ja: "建造特化型マシナリー",
+    zhCN: "建造特化型机关",
     pronunciationJa: "けんぞうとっかがたマシナリー",
     tags: [ "fontaine", "enemy" ],
   },
@@ -1858,6 +1860,7 @@
   {
     en: "Assault Specialist Mek",
     ja: "攻堅特化型マシナリー",
+    zhCN: "攻坚特化型机关",
     pronunciationJa: "こうけんとっかがたマシナリー", // TODO Need Check
     tags: [ "fontaine", "enemy" ],
   },
@@ -1901,6 +1904,7 @@
   {
     en: "Experimental Field Generator",
     ja: "実験用フィールド生成装置",
+    zhCN: "实验性场力发生装置",
     pronunciationJa: "じっけんようフィールドせいせいそうち",
     tags: [ "fontaine", "enemy-boss" ],
   },
@@ -1943,6 +1947,7 @@
   {
     en: "Large Shatterstone Breacher Primus",
     ja: "大型瓦礫ブリーチャープリムス",
+    zhCN: "大型碎石隙境原体",
     pronunciationJa: "おおがたがれきブリーチャープリムス",
     tags: [ "fontaine", "enemy" ],
   },
@@ -1956,6 +1961,7 @@
   {
     en: "Large Overgrown Breacher Primus",
     ja: "大型狂蔓ブリーチャープリムス",
+    zhCN: "大型狂蔓隙境原体",
     pronunciationJa: "おおがたきょうまんブリーチャープリムス", // Need Check
     tags: [ "fontaine", "enemy" ],
   },
@@ -2068,6 +2074,7 @@
   {
     en: "Millennial Pearl Seahorse",
     ja: "千年真珠の海駿",
+    zhCN: "千年珍珠骏麟",
     pronunciationJa: "せんねんしんじゅのかいしゅん",
     tags: [ "fontaine", "enemy-boss" ],
   },
