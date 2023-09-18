@@ -1,0 +1,25 @@
+name: "Automatically create Chinese translation Issues"
+
+on:
+  push:
+    branches:
+      - main
+  issues:
+    types:
+      - closed
+      - deleted
+      - transferred
+
+  chinese-assignment:
+    if: ${{ github.repository_owner == 'xicri' }}
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+      - run: npm install -D @octokit/rest dayjs
+      - run: npm run issues

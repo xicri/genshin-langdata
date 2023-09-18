@@ -16,6 +16,7 @@
     "release": "run-p release:*",
     "release:pages": "scripts/release-pages.sh",
     "release:minhon": "node scripts/release-minhon.js",
+    "issues": "node scripts/issues.js",
     "prepare": "if npm list husky > /dev/null; then husky install; fi"
   },
   "dependencies": {
@@ -37,6 +38,8 @@
     "wrangler": "^2.20.1"
   },
   "devDependencies": {
+    "@octokit/rest": "^20.0.1",
+    "dayjs": "^1.11.9",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.2"
   }
