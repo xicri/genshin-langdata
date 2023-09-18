@@ -2057,6 +2057,7 @@
   {
     en: "Liffey Region",
     ja: "リフィー地区",
+    zhCN: "黎翡区",
     pronunciationJa: "リフィーちく",
     tags: [ "fontaine", "location" ],
   },
@@ -2071,6 +2072,7 @@
   {
     en: "Fontaine Research Institute of Kinetic Energy Engineering Region",
     ja: "フォンテーヌ運動エネルギー工学科学研究院地区",
+    zhCN: "枫丹动能工程科学研究院区",
     pronunciationJa: "フォンテーヌうんどうエネルギーこうがくかがくけんきゅういんちく",
     tags: [ "fontaine", "location" ],
   },

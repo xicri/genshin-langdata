@@ -86,6 +86,7 @@
   {
     en: "Hydro Crystalfly",
     ja: "水晶蝶",
+    zhCN: "水晶蝶",
     pronunciationJa: "みずしょうちょう", // TODO Need Check
     tags: [ "living-being", "fontaine" ],
   },
@@ -429,6 +430,7 @@
   {
     en: "Barnacle Bullet",
     ja: "フジツボ弾丸",
+    zhCN: "藤壶子弹",
     pronunciationJa: "フジツボだんがん",
     tags: [ "fontaine" ],
     // related: [ "bullet-barnacle" ]
