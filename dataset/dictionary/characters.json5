@@ -2158,6 +2158,13 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Clymene",
+    ja: "久利由売",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "世界任務「パエトーンたちはみな踊る」に登場するキャラクター",
+    // notesEn: "A character appears in a World Quest \"The Phaethons' Syrtos\"",
+  },
+  {
     en: "Date",
     ja: "伊達",
     zhCN: "伊达",
@@ -2751,6 +2758,12 @@
     notes: "世界任務「とあるフォンテーヌ人の思い出」に登場する人物",
   },
   {
+    en: "Oleg",
+    ja: "オレグ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "世界任務「騙す者は騙される」に登場するデットエージェント",
+  },
+  {
     en: "Effendi",
     ja: "エフェンディ",
     zhCN: "阿芬迪",
@@ -3111,6 +3124,13 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「勇気を心につけて」に登場するアランナラ",
     notesZh: "世界任务「勇气戴于心上」中的兰那罗",
+  },
+  {
+    en: "Araminali",
+    ja: "アランミナリ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "たくさんの宝箱がある部屋にいるアランナラ",
+    // notesEn: "An Aranara in the room with a lot of Chests",
   },
   {
     en: "Khayyam",
@@ -3693,6 +3713,30 @@
     notes: "魔神任務第4章第2幕で言及されるキャラクター",
   },
   {
+    en: "Phantom Weasel",
+    ja: "怪盗マーテン",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "リネの伝説任務で言及されるキャラクター",
+  },
+  {
+    en: "Cesar",
+    ja: "セサル",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "リネの伝説任務で言及されるキャラクター",
+  },
+  {
+    en: "Jemma",
+    ja: "ジェマ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "リネの伝説任務に登場するキャラクター",
+  },
+  {
+    en: "Lorenzo",
+    ja: "ロレンツォ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "リネの伝説任務に登場するキャラクター",
+  },
+  {
     en: "Mamere",
     ja: "マメール",
     zhCN: "玛梅赫",
@@ -3842,7 +3886,7 @@
     en: "Iaune",
     ja: "アイオーヌ",
     tags: [ "fontaine", "character-sub" ],
-    notes: "世界任務「一通の知らせ」「些細な出来事」「とある印章」に登場する人物",
+    notes: "世界任務「一通の知らせ」「些細な出来事」「とある印章」などに登場する人物",
     // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
   },
   {

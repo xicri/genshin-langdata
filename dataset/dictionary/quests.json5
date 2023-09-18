@@ -3006,6 +3006,13 @@
     tags: [ "quest-daily", "fontaine" ],
   },
   {
+    en: "Alright, Iaune, Alright",
+    ja: "分かったよ、アイオーヌ",
+    pronunciationJa: "わかったよ、アイオーヌ",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "iaune" ]
+  },
+  {
     en: "Days Beneath the Waves",
     ja: "水底の日々",
     pronunciationJa: "みなそこのひび",
