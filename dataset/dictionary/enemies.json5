@@ -780,8 +780,8 @@
     tags: [ "enemy" ],
   },
   {
-    en: "Fatui Agent / Fatui Pyro Agent",
-    ja: "デットエージェント",
+    en: "Fatui Pyro Agent",
+    ja: "ファデュイ・デットエージェント・炎",
     zhCN: "愚人众·火之债务处理人",
     tags: [ "snezhnaya", "enemy" ],
     variants: {
