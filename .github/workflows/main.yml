@@ -25,6 +25,7 @@ jobs:
       MINHON_API_KEY: ${{ secrets.MINHON_API_KEY }}
       MINHON_API_SECRET: ${{ secrets.MINHON_API_SECRET }}
       MINHON_LOGIN_ID: ${{ secrets.MINHON_LOGIN_ID }}
+      TZ: Asia/Tokyo
 
     runs-on: ubuntu-latest
 
@@ -50,6 +51,7 @@ jobs:
       MINHON_API_KEY: ${{ secrets.MINHON_API_KEY }}
       MINHON_API_SECRET: ${{ secrets.MINHON_API_SECRET }}
       MINHON_LOGIN_ID: ${{ secrets.MINHON_LOGIN_ID }}
+      TZ: Asia/Tokyo
     runs-on: ubuntu-latest
 
     steps:
