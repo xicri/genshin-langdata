@@ -7,6 +7,16 @@ import { Dictionary } from "../libs/dictionary.js";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
+const consoleInfoOriginal = global.console.info;
+
+beforeAll(() => {
+  global.console.info = () => {};
+});
+
+afterAll(() => {
+  global.console.info = consoleInfoOriginal;
+});
+
 test("addUpdateAt() adds updatedAt properly", async () => {
   const wordsLocal = [
     {
