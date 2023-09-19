@@ -344,7 +344,7 @@
     tags: [ "weapon", "sword" ],
     variants: {
       zhCN: [ "板砖" ],
-    }
+    },
   },
   {
     en: "Light of Foliar Incision",
