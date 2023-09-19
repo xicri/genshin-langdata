@@ -687,6 +687,7 @@
   {
     en: "serial disappearances of young women",
     ja: "連続少女失踪事件",
+    zhCN: "少女连环失踪案",
     pronunciationJa: "れんぞくしょうじょしっそうじけん",
     tags: [ "fontaine" ],
     // related: [ "prelude-of-blancheur-and-noirceur", "as-light-rain-falls-without-reason" ]
@@ -701,6 +702,7 @@
   {
     en: "Sinthe",
     ja: "ロシ",
+    zhCN: "乐斯",
     tags: [ "fontaine" ],
     notes: "かつてポワソン町で流行った、麻薬のような飲み物",
   },
@@ -715,30 +717,35 @@
   {
     en: "Book of Revealing",
     ja: "啓示の書",
+    zhcN: "揭示之书",
     pronunciationJa: "けいじのしょ",
     tags: [ "fontaine" ],
   },
   {
     en: "Looking Glass",
     ja: "謎の鏡",
+    zhCN: "谜镜",
     pronunciationJa: "なぞのかがみ",
     tags: [ "fontaine" ],
   },
   {
     en: "world-formula",
     ja: "世界式",
+    zhCN: "世界式",
     pronunciationJa: "せかいしき",
     tags: [ "fontaine" ],
   },
   {
     en: "the Sponsian",
     ja: "スポンジアン号",
+    zhCN: "斯彭西安号",
     pronunciationJa: "スポンジアンごう",
     tags: [ "fontaine" ],
   },
   {
     en: "Remuria",
     ja: "レムリア",
+    zhCN: "雷穆利亚",
     tags: [ "fontaine" ],
   },
 
