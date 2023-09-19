@@ -238,6 +238,7 @@
   {
     en: "To the Stars Shining in the Depths",
     ja: "深海に煌めく星たちへ",
+    zhCN: "向深水中的晨星",
     pronunciationJa: "しんかいにきらめくほしたちへ",
     tags: [ "fontaine", "quest-archon" ],
     notes: "魔神任務第四章第三幕",
@@ -245,6 +246,7 @@
   {
     en: "Cataclysm's Quickening",
     ja: "胎動を諭す終焉の刻",
+    zhCN: "谕示胎动的终焉之刻",
     pronunciationJa: "たいどうをさとすしゅうえんのとき",
     tags: [ "fontaine", "quest-archon" ],
     notes: "魔神任務第四章第四幕",
@@ -1616,6 +1618,7 @@
   {
     en: "The Final Question",
     ja: "最終問題",
+    zhCN: "最后的问题",
     pronunciationJa: "さいしゅうもんだい",
     tags: [ "fontaine", "quest-world" ],
     notes: "古き色合いのエピローグ的な世界任務",
@@ -1670,6 +1673,7 @@
   {
     en: "Unfinished Story",
     ja: "まだ終わらない物語",
+    zhCN: "尚未结束的故事",
     pronunciationJa: "まだおわらないものがたり",
     tags: [ "fontaine", "quest-world" ],
     notes: "水仙のアンのエピローグ的な世界任務",
@@ -1684,43 +1688,51 @@
   {
     en: "\"Hey, This Isn't Pumpkin Soup...\"",
     ja: "「こんなのかぼちゃスープじゃない…」",
+    zhCN: "「这可不是南瓜汤…」",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Echoes of the Ancient World",
     ja: "旧世の残した音",
+    zhCN: "旧世遗音",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Book of Esoteric Revelations",
     ja: "秘教と啓示の書",
+    zhCN: "秘诲揭示之书",
     tags: [ "fontaine", "quest-world" ],
     // related: [ "book-of-revealing" ]
   },
   {
     en: "The Lone Phantom Sail",
     ja: "孤帆幽影",
+    zhCN: "孤帆幽影",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "A Fontainian Message",
     ja: "フォンテーヌからのメッセージ",
+    zhCN: "一条枫丹信息",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Danger Lurks Everywhere in Fontaine",
     ja: "危険だらけのフォンテーヌ廷",
+    zhCN: "危机四伏的枫丹廷",
     pronunciationJa: "きけんだらけのフォンテーヌてい",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "In Expert Company?",
     ja: "三人寄れば…明師を探せ",
+    zhCN: "三人行…先寻明师",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "A Certain Notice",
     ja: "一通の知らせ",
+    zhCN: "一份通知",
     pronunciationJa: "いっつうのしらせ",
     tags: [ "fontaine", "quest-world" ],
     // related: [ "a-certain-trifle", "a-certain-stamp" ]
@@ -1728,6 +1740,7 @@
   {
     en: "A Certain Trifle",
     ja: "些細な出来事",
+    zhCN: "一件小事",
     pronunciationJa: "ささいなできごと",
     tags: [ "fontaine", "quest-world" ],
     notes: "「一通の知らせ」に連なる世界任務の1つ",
@@ -1736,6 +1749,7 @@
   {
     en: "A Certain Stamp",
     ja: "とある印章",
+    zhCN: "一枚印章",
     pronunciationJa: "とあるいんしょう",
     tags: [ "fontaine", "quest-world" ],
     notes: "「一通の知らせ」に連なる世界任務の1つ",
@@ -1744,6 +1758,7 @@
   {
     en: "The Fountain Flows Again",
     ja: "泉は再び湧きいづる",
+    zhCN: "泉有重喷日",
     pronunciationJa: "いずみはふたたびわきいづる",
     tags: [ "fontaine", "quest-world" ],
   },
@@ -1757,12 +1772,14 @@
   {
     en: "Another Horizon of Adventure",
     ja: "冒険は遠い地を目指す",
+    zhCN: "冒险就要朝着远方",
     pronunciationJa: "ぼうけんはとおいちをめざす",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Steambird Interview",
     ja: "「スチームバード新聞」の面接",
+    zhCN: "「蒸汽鸟报」的面试",
     pronunciationJa: "スチームバードしんぶんのめんせつ",
     tags: [ "fontaine", "quest-world" ],
     notes: "フォンテーヌの評判任務の開放クエスト",
@@ -1777,24 +1794,28 @@
   {
     en: "Strange Stone Chronicle",
     ja: "奇石冒険記",
+    zhCN: "奇石历险记",
     pronunciationJa: "きせきぼうけんき", // TODO Need Check
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Were It So Easy",
     ja: "好事魔多し",
+    zhCN: "好事多磨",
     pronunciationJa: "こうじまおおし",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Truly Mouthwatering!",
     ja: "ぜんぜんよだれが止まらない!",
+    zhCN: "真是让人垂涎欲滴！",
     pronunciationJa: "ぜんぜんよだれがとまらない",
     tags: [ "fontaine", "quest-world" ],
   },
   {
     en: "Still Mouthwatering!",
     ja: "まだまだよだれが止まらない!",
+    zhCN: "依旧让人垂涎欲滴！",
     pronunciationJa: "まだまだよだれがとまらない",
     tags: [ "fontaine", "quest-world" ],
   },
@@ -2130,12 +2151,14 @@
   {
     en: "Felis Fuscus Chapter",
     ja: "黒斑猫の章",
+    zhCN: "黑斑猫之章",
     notes: "リネの伝説任務",
     tags: [ "fontaine", "quest-story" ],
   },
   {
     en: "Cerberus Chapter",
     ja: "獄守犬の章",
+    zhCN: "守狱犬之章",
     notes: "リオセスリの伝説任務",
     tags: [ "fontaine", "quest-story" ],
   },
@@ -2938,18 +2961,21 @@
   {
     en: "Tales From the Court",
     ja: "フォンテーヌ廷の事情",
+    zhCN: "枫丹廷，二三事",
     pronunciationJa: "フォンテーヌていのじじょう",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "At Least the Fish Know",
     ja: "少なくともお魚は知っている",
+    zhCN: "至少鱼知道",
     pronunciationJa: "すくなくともおさかなはしっている",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Get a Drink at Least!",
     ja: "とにかく一杯飲もう",
+    zhCN: "总得喝一杯",
     pronunciationJa: "とにかくいっぱいのもう",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "cafe-lucerne", "arouet" ],
@@ -2957,6 +2983,7 @@
   {
     en: "Aesthetic Critique: Principles of Aesthetics",
     ja: "審美眼の評定・美学原理の批判",
+    zhCN: "审美力批判·美学原理批判",
     pronunciationJa: "しんびがんのひょうてい・びがくげんりのひはん",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "depierris" ],
@@ -2964,6 +2991,7 @@
   {
     en: "Aesthetic Critique: Practice of Aesthetics",
     ja: "審美眼の評定・創作実践の批判",
+    zhCN: "审美力批判·实践创作批判",
     pronunciationJa: "しんびがんのひょうてい・そうさくじっせんのひはん",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "depierris" ],
@@ -2971,6 +2999,7 @@
   {
     en: "Aesthetic Critique: Self Critique",
     ja: "審美眼の評定・自己批判",
+    zhCN: "审美力批判·自我批判",
     pronunciationJa: "しんびがんのひょうてい・じこひはん",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "depierris" ],
@@ -2978,30 +3007,35 @@
   {
     en: "Their Childhood",
     ja: "彼らの子供時代",
+    zhCN: "他们的童年",
     pronunciationJa: "かれらのこどもじだい",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Their Childhood: Time Waits for No One",
     ja: "彼らの子供時代・時は待ってくれない",
+    zhCN: "他们的童年·时光不等人",
     pronunciationJa: "かれらのこどもじだい・ときはまってくれない",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Their Childhood: City Caper",
     ja: "彼らの子供時代・都市旅行記",
+    zhCN: "他们的童年·游城记",
     pronunciationJa: "かれらのこどもじだい・としりょこうき",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Their Childhood: Good Times",
     ja: "彼らの子供時代・良き時代",
+    zhCN: "他们的童年·好时光",
     pronunciationJa: "かれらのこどもじだい・よきじだい",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Their Childhood: A Certain Passage",
     ja: "彼らの子供時代・とある章",
+    zhCN: "他们的童年·某一篇章",
     pronunciationJa: "かれらのこどもじだい・とあるしょう",
     tags: [ "quest-daily", "fontaine" ],
   },
@@ -3022,18 +3056,21 @@
   {
     en: "Days Beneath the Waves",
     ja: "水底の日々",
+    zhCN: "水底的日子",
     pronunciationJa: "みなそこのひび",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Regulatory Issues",
     ja: "机上の問題",
+    zhCN: "规章问题",
     pronunciationJa: "きじょうのもんだい",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Interactive Tour",
     ja: "「インタラクティブツアー」",
+    zhCN: "「交互式游览」",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "antoine-roger-aircraft" ],
   },
@@ -3047,24 +3084,28 @@
   {
     en: "Overland Bubbles",
     ja: "地上の水しぶき",
+    zhCN: "陆上飞沫",
     pronunciationJa: "ちじょうのみずしぶき",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Don't Get Crabby",
     ja: "弾丸にはカニを",
+    zhCN: "有蟹有还",
     pronunciationJa: "だんがんにはカニを",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Dagger in the Water",
     ja: "刃を得た魚のよう",
+    zhCN: "游刃由鱼",
     pronunciationJa: "やいばをえたさかなのよう",
     tags: [ "quest-daily", "fontaine" ],
   },
   {
     en: "Aim Upstream",
     ja: "高みを目指せ",
+    zhCN: "力争上游",
     pronunciationJa: "たかみをめざせ",
     tags: [ "quest-daily", "fontaine" ],
   },
