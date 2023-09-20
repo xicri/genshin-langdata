@@ -317,7 +317,7 @@
   {
     en: "Have a safe trip",
     ja: "行ってらっしゃい",
-    // TODO add zhCN
+    zhCN: "一路顺风",
     pronunciationJa: "いってらっしゃい",
     tags: [ "dialogue", "fontaine" ],
     notes: "リオセスリの攻撃時の?セリフ",
