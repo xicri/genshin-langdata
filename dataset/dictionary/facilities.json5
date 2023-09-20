@@ -400,6 +400,7 @@
   {
     en: "Damoville Purveyor",
     ja: "ダーモヴィル雑貨店",
+    zhCN: "达莫维百货",
     pronunciationJa: "ダーモヴィルざっかてん",
     tags: [ "fontaine", "facility" ],
     // related: [ "boucicaut" ]

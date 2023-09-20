@@ -162,6 +162,7 @@
   {
     en: "Well, allow me",
     ja: "俺が払うよ",
+    zhCN: "余款的话…我来付吧。",
     pronunciationJa: "おれがはらうよ",
     notes: "鍾離がモラを持っておらず支払いができない時にタルタリヤが発した言葉。\"allow me\" は何らかの手助けを申し出る時に使う丁寧な表現。魔神任務第一章第二幕「久遠の体との別れ」より",
     tags: [ "dialogue", "liyue" ],
@@ -296,6 +297,7 @@
   {
     en: "No? Not funny?",
     ja: "面白くないか?",
+    zhCN: "不好笑吗？",
     pronunciationJa: "おもしろくないか",
     tags: [ "dialogue", "sumeru" ],
     notes: "セノがダジャレを言ってウケなかった時のセリフ。v3.5 期間限定イベント「風花の吐息」(風花祭) より",
@@ -303,6 +305,7 @@
   {
     en: "It's getting cold, you say? I feel fine.",
     ja: "寒いのか? 俺は大丈夫だが。",
+    zhCN: "很冷吗？我还好。",
     pronunciationJa: "さむいのか? おれはだいじょうぶだが",
     tags: [ "dialogue", "sumeru" ],
     notes: "アルハイゼン構文の元ネタ。アルハイゼンの雪の日のボイスより",
@@ -314,6 +317,7 @@
   {
     en: "Have a safe trip",
     ja: "行ってらっしゃい",
+    zhCN: "一路顺风",
     pronunciationJa: "いってらっしゃい",
     tags: [ "dialogue", "fontaine" ],
     notes: "リオセスリの攻撃時の?セリフ",

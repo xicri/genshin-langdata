@@ -1006,6 +1006,7 @@
   {
     en: "Enhanced Pneumousia Amplifier",
     ja: "プネウムシア強力増幅装置",
+    zhCN: "芒荒强效增幅器",
     pronunciationJa: "プネウムシアきょうりょくぞうふくそうち",
     tags: [ "object", "fontaine" ],
   },
@@ -1032,12 +1033,14 @@
   {
     en: "Bubble Formation",
     ja: "バブル・フォーメーション",
+    zhCN: "水泡阵地",
     tags: [ "object", "fontaine" ],
     notes: "バブルを発射し、プレイヤーを元の位置に戻すギミック",
   },
   {
     en: "Beastly Rift",
     ja: "獣域の裂け目",
+    zhCN: "兽境的裂隙",
     pronunciationJa: "じゅういきのさけめ",
     tags: [ "object", "fontaine" ],
     notes: "エリナスにいくつかある、獣域ウルブズが出てくる法陣",
@@ -1045,6 +1048,7 @@
   {
     en: "Allogravity-Condensed Water Bodies",
     ja: "異重力凝水体",
+    zhCN: "异重力凝水体",
     pronunciationJa: "いじゅうりょくぎょうすいたい",
     tags: [ "object", "fontaine" ],
   },

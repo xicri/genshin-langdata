@@ -426,6 +426,7 @@
   {
     en: "Maison Gestion",
     ja: "共律庭",
+    zhCN: "复律庭",
     pronunciationJa: "きょうりつてい", // TODO Need Check
     tags: [ "fontaine", "organization" ],
   },
@@ -463,12 +464,14 @@
   {
     en: "The Narzissenkreuz Ordo",
     ja: "水仙十字結社",
+    zhCN: "水仙十字结社",
     pronunciationJa: "すいせんじゅうじけっしゃ",
     tags: [ "fontaine", "organization" ],
   },
   {
     en: "Narzissenkreuz Institute",
     ja: "水仙十字院",
+    zhCN: "水仙十字院",
     pronunciationJa: "すいせんじゅうじいん",
     tags: [ "fontaine", "organization" ],
   },

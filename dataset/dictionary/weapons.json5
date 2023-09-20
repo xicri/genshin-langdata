@@ -40,6 +40,7 @@
   {
     en: "Refinement Material",
     ja: "精錬素材",
+    zhCN: "精炼材料",
     pronunciationJa: "せいれんそざい",
     tags: [ "weapon" ],
     notes: "イベント報酬の武器などの精錬に用いる、専用の素材のこと",
@@ -255,6 +256,7 @@
   {
     en: "Martens' Omni-Fix",
     ja: "マルテンスの万能保護材",
+    zhCN: "马腾斯万能护养剂",
     pronunciationJa: "マルテンスのばんのうほござい",
     tags: [ "weapon" ],
     notes: "サーンドルの渡し守の精錬素材",
@@ -263,8 +265,10 @@
   {
     en: "The Dockhand's Assistant",
     ja: "船渠剣",
+    zhCN: "船坞长剑",
     pronunciationJa: "せんきょけん",
     tags: [ "weapon", "sword" ],
+    pinyins: [{ char: "坞", pron: "wu4" }],
   },
   // ★5
   {
@@ -338,6 +342,9 @@
     zhCN: "圣显之钥",
     pronunciationJa: "せいけんのかぎ",
     tags: [ "weapon", "sword" ],
+    variants: {
+      zhCN: [ "板砖" ],
+    },
   },
   {
     en: "Light of Foliar Incision",
@@ -376,7 +383,7 @@
   {
     en: "Bloodtainted Greatsword",
     ja: "龍血を浴びた剣",
-    zhCN: "沐浴龙血之剑",
+    zhCN: "沐浴龙血的剑",
     pronunciationJa: "りゅうけつをあびたけん",
     tags: [ "weapon", "claymore" ],
   },
@@ -553,6 +560,7 @@
   {
     en: "Portable Power Saw",
     ja: "携帯型チェーンソー",
+    zhCN: "便携动力锯",
     pronunciationJa: "けいたいがたチェーンソー",
     tags: [ "weapon", "claymore" ],
   },
@@ -781,6 +789,7 @@
   {
     en: "Prospector's Drill",
     ja: "プロスペクタードリル",
+    zhCN: "勘探钻机",
     tags: [ "weapon", "polearm" ],
   },
   // ★5
@@ -1024,6 +1033,7 @@
   {
     en: "Glowing Gem",
     ja: "霞色の宝珠",
+    zhCN: "霞色宝珠",
     pronunciationJa: "かすみいろのほうじゅ",
     tags: [ "weapon" ],
     notes: "落霞の精錬素材",
@@ -1054,6 +1064,7 @@
   {
     en: "Congealed Pupa Wax",
     ja: "凝恒の脂蝋",
+    zhCN: "凝恒的脂蜡",
     tags: [ "weapon" ],
     notes: "トキの嘴の精錬素材",
     // notesEn: "Refinement material for Ibis Piercer",
@@ -1075,6 +1086,7 @@
   {
     en: "Range Gauge",
     ja: "レンジゲージ",
+    zhCN: "测距规",
     tags: [ "weapon", "bow" ],
   },
   // ★5
@@ -1354,6 +1366,7 @@
   {
     en: "Ballad of the Boundless Blue",
     ja: "果てなき紺碧の唄",
+    zhCN: "无垠蔚蓝之歌",
     pronunciationJa: "はてなきこんぺきのうた",
     tags: [ "weapon", "catalyst" ],
   },
@@ -1425,12 +1438,14 @@
   {
     en: "Tome of the Eternal Flow",
     ja: "久遠流転の大典",
+    zhCN: "万世流涌大典",
     pronunciationJa: "くおんるてんのだいてん", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Cashflow Supervision",
     ja: "凛流の監視者",
+    zhCN: "金流监督",
     tags: [ "weapon", "catalyst" ],
   },
 ]

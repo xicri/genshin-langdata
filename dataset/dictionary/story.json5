@@ -346,6 +346,7 @@
   {
     en: "Sunchildren",
     ja: "太陽の子",
+    zhCN: "太阳之子",
     tags: [ "inazuma" ],
     notes: "「パエトーン」とルビが振られており同義",
     // notesEn: "This word is used with a ruby \"Phaethons\", so Sunchildren and Phaethons are same meaning"
@@ -353,6 +354,7 @@
   {
     en: "Phaethon",
     ja: "パエトーン",
+    zhCN: "法厄同",
     tags: [ "inazuma" ],
     notes: "「太陽の子」に対して「パエトーン」とルビが振られており同義",
     // notesEn: "This word is used as a ruby for \"Sunchildren\", so Sunchildren and Phaethons are same meaning"
@@ -687,6 +689,7 @@
   {
     en: "serial disappearances of young women",
     ja: "連続少女失踪事件",
+    zhCN: "少女连环失踪案",
     pronunciationJa: "れんぞくしょうじょしっそうじけん",
     tags: [ "fontaine" ],
     // related: [ "prelude-of-blancheur-and-noirceur", "as-light-rain-falls-without-reason" ]
@@ -701,6 +704,7 @@
   {
     en: "Sinthe",
     ja: "ロシ",
+    zhCN: "乐斯",
     tags: [ "fontaine" ],
     notes: "かつてポワソン町で流行った、麻薬のような飲み物",
   },
@@ -715,30 +719,35 @@
   {
     en: "Book of Revealing",
     ja: "啓示の書",
+    zhCN: "揭示之书",
     pronunciationJa: "けいじのしょ",
     tags: [ "fontaine" ],
   },
   {
     en: "Looking Glass",
     ja: "謎の鏡",
+    zhCN: "谜镜",
     pronunciationJa: "なぞのかがみ",
     tags: [ "fontaine" ],
   },
   {
     en: "world-formula",
     ja: "世界式",
+    zhCN: "世界式",
     pronunciationJa: "せかいしき",
     tags: [ "fontaine" ],
   },
   {
     en: "the Sponsian",
     ja: "スポンジアン号",
+    zhCN: "斯彭西安号",
     pronunciationJa: "スポンジアンごう",
     tags: [ "fontaine" ],
   },
   {
     en: "Remuria",
     ja: "レムリア",
+    zhCN: "雷穆利亚",
     tags: [ "fontaine" ],
   },
 

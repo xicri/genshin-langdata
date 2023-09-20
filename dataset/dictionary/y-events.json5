@@ -190,6 +190,7 @@
   {
     en: "Waterborne Poetry",
     ja: "流れゆく水に詩を紡いで",
+    zhCN: "游水酝诗籍",
     pronunciationJa: "ながれゆくみずにしをつむいで",
     notes: "v4.1 期間限定イベント",
     tags: [ "event" ],
@@ -197,6 +198,7 @@
   {
     en: "Hundred-Pace Hurling Rites",
     ja: "百発百中の投壺",
+    zhCN: "百步礼掷",
     pronunciationJa: "ひゃっぱつひゃくちゅうのとうこ",
     notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」の子イベント",
     tags: [ "event" ],
@@ -204,12 +206,14 @@
   {
     en: "Inspiration Eruption",
     ja: "ドバッとピキーン!",
+    zhCN: "灵感喷激",
     notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」の子イベント",
     tags: [ "event" ],
   },
   {
     en: "Mending Painting Prospects",
     ja: "景色と絵を訪ねて",
+    zhCN: "寻景觅画",
     pronunciationJa: "けしきとえをたずねて",
     notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」の子イベント",
     tags: [ "event" ],
@@ -217,6 +221,7 @@
   {
     en: "Radiant Harvest",
     ja: "光と彩を集めて",
+    zhCN: "集光撷彩",
     pronunciationJa: "ひかりといろどりをあつめて",
     notes: "v4.1 期間限定イベント",
     tags: [ "event" ],
@@ -224,6 +229,7 @@
   {
     en: "Dodoco's Bomb-Tastic Adventure",
     ja: "ドドコドッカン冒険記",
+    zhCN: "嘟嘟可轰轰奇遇记",
     pronunciationJa: "ドドコドッカンぼうけんき",
     notes: "v4.1 期間限定イベント",
     tags: [ "event" ],
@@ -231,6 +237,7 @@
   {
     en: "The Peaks and Troughs of Life",
     ja: "人生山あり谷あり",
+    zhCN: "人生的波峰与波谷",
     pronunciationJa: "じんせいやまありたにあり",
     notes: "v4.1 期間限定イベント",
     tags: [ "event" ],
@@ -294,6 +301,7 @@
   {
     en: "Bresson",
     ja: "ブレッソン",
+    zhCN: "布列松",
     notes: "v4.0 期間限定イベント「ヴァーディクト・ブレイド」に登場する人物",
     tags: [ "event", "character-sub" ],
   },

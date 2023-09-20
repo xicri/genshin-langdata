@@ -242,9 +242,10 @@
   {
     en: "Fontaine Shrine of Depths Key",
     ja: "フォンテーヌの地霊壇の鍵",
+    zhCN: "枫丹地灵龛之钥",
     pronunciationJa: "フォンテーヌのちれいだんのかぎ",
     tags: [ "item", "fontaine" ],
-    // pinyins: [{ char: "龛", pron: "kan1" }],
+    pinyins: [{ char: "龛", pron: "kan1" }],
   },
   {
     en: "Adepti Seeker's Stove",
@@ -298,6 +299,7 @@
   {
     en: "Hydro Treasure Compass",
     ja: "水のトレジャーコンパス",
+    zhCN: "水之寻宝罗盘",
     pronunciationJa: "みずのトレジャーコンパス",
     tags: [ "item", "fontaine" ],
   },
@@ -942,18 +944,21 @@
   {
     en: "Maintenance Mek: Initial Configuration",
     ja: "メンテマシナリー・基礎能力型",
+    zhCN: "维护机关·初始能力型",
     pronunciationJa: "メンテマシナリー・きそのうりょくがた",
     tags: [ "item", "fontaine" ],
   },
   {
     en: "Maintenance Mek: Situation Controller",
     ja: "メンテマシナリー・態勢制御者",
+    zhCN: "维护机关·态势控制者",
     pronunciationJa: "メンテマシナリー・たいせいせいぎょしゃ",
     tags: [ "item", "fontaine" ],
   },
   {
     en: "Maintenance Mek: Platinum Collection",
     ja: "メンテマシナリー・白金秘蔵型",
+    zhCN: "维护机关·白金典藏型",
     pronunciationJa: "メンテマシナリー・はっきんひぞうがた",
     tags: [ "item", "fontaine" ],
   },
@@ -1142,24 +1147,28 @@
   {
     en: "A Thousand Nights",
     ja: "千夜物語",
+    zhCN: "千夜故事集",
     pronunciationJa: "せんやものがたり",
     tags: [ "item", "sumeru" ],
   },
   {
     en: "The History of the Decline and Fall of Remuria",
     ja: "レムリア衰亡史",
+    zhCN: "雷穆利亚衰亡史",
     pronunciationJa: "レムリアすいぼうし",
     tags: [ "item", "fontaine" ],
   },
   {
     en: "Fables de Fontaine",
     ja: "フォンテーヌ動物寓意譚",
+    zhCN: "枫丹动物寓言集",
     pronunciationJa: "フォンテーヌどうぶつぐういたん",
     tags: [ "item", "fontaine" ],
   },
   {
     en: "Robben versus Chesterton: Iridescent Brooch",
     ja: "怪盗と名探偵: レインボーブローチの謎",
+    zhCN: "怪盗与名侦探：虹彩胸针之谜",
     pronunciationJa: "かいとうとめいたんてい: レインボーブローチのなぞ",
     tags: [ "item", "fontaine" ],
   },
@@ -1383,6 +1392,7 @@
   {
     en: "\"Water and Missing Person\" Case Record",
     ja: "「水と失踪者」事件ファイル",
+    zhCN: "「水与失踪者」案件记录册",
     pronunciationJa: "みずとしっそうしゃじけんファイル",
     tags: [ "item", "fontaine" ],
     notes: "魔神任務第4章第2幕で事件の捜査状況を記録するファイル",
@@ -1404,6 +1414,7 @@
   {
     en: "Enigmatic Page",
     ja: "不思議な本のページ",
+    zhCN: "神秘的书页",
     pronunciationJa: "ふしぎなほんのページ",
     tags: [ "item", "fontaine" ],
     notes: "啓示の書の散逸したページ",
@@ -1413,6 +1424,7 @@
   {
     en: "Mysterious Core",
     ja: "不思議なコア",
+    zhCN: "神秘的核心",
     pronunciationJa: "ふしぎなコア",
     tags: [ "item", "fontaine" ],
     notes: "世界任務「ぜんぜんよだれが止まらない!」「まだまだよだれが止まらない!」で集める機械のパーツ",
@@ -1421,6 +1433,7 @@
   {
     en: "Strange Part",
     ja: "奇妙なパーツ",
+    zhCN: "奇特的零件",
     pronunciationJa: "きみょうなパーツ",
     tags: [ "item", "fontaine" ],
     notes: "メリュジーヌ達の依頼を完了すると貰うことができ、メリュシー村のシャナが素材などと交換してくれるアイテム",
