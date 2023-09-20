@@ -405,6 +405,36 @@
     tags: [ "fontaine", "facility" ],
     // related: [ "boucicaut" ]
   },
+  {
+    en: "Coupon Cafeteria",
+    ja: "特別許可食堂",
+    pronunciationJa: "とくべつきょかしょくどう",
+    tags: [ "fontaine", "facility" ],
+    notes: "メロピデ要塞の食堂",
+  },
+  {
+    en: "Welfare Meal",
+    ja: "サービス食",
+    pronunciationJa: "サービスしょく",
+    tags: [ "fontaine" ],
+    notes: "特別許可食堂で1日1食、無料で提供されるランダムな料理とおみくじのセット",
+  },
+  {
+    en: "Rag and Bone Shop",
+    ja: "ラグ&ボーンショップ",
+    tags: [ "fontaine", "facility" ],
+    notes: "メロピデ要塞の非公認ショップ",
+  },
+  {
+    en: "Pankration Ring",
+    ja: "鉄拳闘技場",
+    tags: [ "fontaine", "facility" ],
+  },
+  {
+    en: "Pankration",
+    ja: "鉄拳闘技",
+    tags: [ "fontaine" ],
+  },
 
   //
   // Snezhnaya & Fatui

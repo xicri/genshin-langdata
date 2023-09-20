@@ -1,0 +1,32 @@
+[
+  {
+    en: "Subdetection Unit",
+    ja: "探測ユニット・子機",
+    pronunciationJa: "たんそくユニット・こき",
+    tags: [ "specialty", "fontaine" ],
+    notes: "タグは仮で、特産品かどうかは確認中",
+  },
+  {
+    en: "Lumitoile",
+    ja: "ルエトワール",
+    tags: [ "specialty", "fontaine" ],
+    notes: "タグは仮で、特産品かどうかは確認中",
+  },
+
+  // Rarelity (How many ★) unknown
+  {
+    en: "Tripes du Port",
+    ja: "ポート風トリップ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Tomates Narbonnaises",
+    ja: "ナルボンヌのトマトファルシ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Crepes Suzette",
+    ja: "クレームクレープシュゼット", // TODO Check if it is HoYoverse's mistype
+    tags: [ "food" ],
+  },
+]

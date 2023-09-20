@@ -1438,6 +1438,20 @@
     tags: [ "item", "fontaine" ],
     notes: "メリュジーヌ達の依頼を完了すると貰うことができ、メリュシー村のシャナが素材などと交換してくれるアイテム",
   },
+  {
+    en: "Credit Coupon",
+    ja: "特別許可券",
+    pronunciationJa: "とくべつきょかけん",
+    tags: [ "item", "fontaine" ],
+    notes: "メロピデ要塞で流通する通貨のようなもの",
+    // notesEn: "Currency used in the Fortress of Meropide"
+  },
+  {
+    en: "Hydro Phantasm Taint-B-Gone",
+    ja: "濁水幻霊イチコロリ",
+    pronunciationJa: "だくすいげんれいイチコロリ", // TODO Need Check
+    tags: [ "item", "fontaine" ],
+  },
 
   //
   // Dresesings
