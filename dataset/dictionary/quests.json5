@@ -3042,6 +3042,7 @@
   {
     en: "Alright, Iaune, Alright",
     ja: "分かったよ、アイオーヌ",
+    zhCN: "好吧，艾尤恩",
     pronunciationJa: "わかったよ、アイオーヌ",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "iaune" ]
@@ -3049,6 +3050,7 @@
   {
     en: "Down Time",
     ja: "休憩時間",
+    zhCN: "放松时间",
     pronunciationJa: "きゅうけいじかん",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "roialte" ]
@@ -3077,6 +3079,7 @@
   {
     en: "Fishnado",
     ja: "魚と波を掻き分けて",
+    zhCN: "翻鱼搅浪",
     pronunciationJa: "さかなとなみをかきわけて",
     tags: [ "quest-daily", "fontaine" ],
     notes: "Fishnado とは、fish + tornado から成る言葉で、水中で魚が作る渦巻を指す",

@@ -346,6 +346,7 @@
   {
     en: "Sunchildren",
     ja: "太陽の子",
+    zhCN: "太阳之子",
     tags: [ "inazuma" ],
     notes: "「パエトーン」とルビが振られており同義",
     // notesEn: "This word is used with a ruby \"Phaethons\", so Sunchildren and Phaethons are same meaning"
@@ -353,6 +354,7 @@
   {
     en: "Phaethon",
     ja: "パエトーン",
+    zhCN: "法厄同",
     tags: [ "inazuma" ],
     notes: "「太陽の子」に対して「パエトーン」とルビが振られており同義",
     // notesEn: "This word is used as a ruby for \"Sunchildren\", so Sunchildren and Phaethons are same meaning"
