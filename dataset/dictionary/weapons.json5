@@ -751,6 +751,13 @@
     tags: [ "weapon", "polearm" ],
   },
   {
+    en: "Ako's Sake Vessel",
+    ja: "赤穂の枡",
+    pronunciationJa: "あこうのます",
+    tags: [ "weapon" ],
+    notes: "「漁獲」の精錬素材",
+  },
+  {
     en: "Wavebreaker's Fin",
     ja: "斬波のひれ長",
     zhCN: "断浪长鳍",

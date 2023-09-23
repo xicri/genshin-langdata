@@ -1442,6 +1442,13 @@
     notesZh: "璃月声望任务的交付角色",
   },
   {
+    en: "Jiawei",
+    ja: "嘉瑋",
+    tags: [ "liyue", "character-sub" ],
+    notes: "璃月の漁師",
+    // notesEn: "Liyue Angler",
+  },
+  {
     en: "Ying'er",
     ja: "鶯",
     zhCN: "莺儿",
@@ -2294,6 +2301,14 @@
     tags: [ "inazuma", "character-sub" ],
   },
   {
+    en: "Kujirai Momiji",
+    ja: "鯨井椛",
+    pronunciationJa: "くじらいもみじ",
+    tags: [ "inazuma", "character-sub" ],
+    notes: "稲妻の漁師",
+    // notesEn: "Inazuman Angler",
+  },
+  {
     en: "Kid Kujirai",
     ja: "鯨井坊や",
     zhCN: "鲸井小弟",
@@ -2655,6 +2670,13 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務に登場するキャラクター",
     notesZh: "在须弥的魔神任务中登场的角色。",
+  },
+  {
+    en: "Loumelat",
+    ja: "ルーメラ",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "スメールの漁師",
+    // notesEn: "Sumeru Angler",
   },
   {
     en: "Karkata",
@@ -3938,6 +3960,13 @@
     tags: [ "fontaine", "character-sub" ],
     notes: "アイオーヌの共律庭での先輩。世界任務「一通の知らせ」「些細な出来事」「とある印章」などに登場する人物",
     // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
+  },
+  {
+    en: "Semaine",
+    ja: "スメイヌ",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「些細な出来事」「とある印章」などに登場する共律官",
+    // related: [ "a-certain-trifle", "a-certain-stamp" ]
   },
   {
     en: "Remaudiere",

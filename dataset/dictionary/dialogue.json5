@@ -263,6 +263,12 @@
     zhCN: "天动万象。",
     tags: [ "dialogue" ],
   },
+  {
+    en: "While the Millelith stands guard, evil shall never prevail!",
+    ja: "千岩牢固、揺るぎない。",
+    pronunciationJa: "せんがんろうこ、ゆるぎない",
+    tags: [ "dialogue", "liyue" ],
+  },
 
   //
   // Inazuma
