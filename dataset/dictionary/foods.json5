@@ -1564,9 +1564,12 @@
     en: "Shimi Chazuke",
     ja: "真味茶漬け",
     zhCN: "真味茶泡饭",
-    pronunciationJa: "しんみちゃずけ",
+    pronunciationJa: "しんみちゃづけ",
     tags: [ "food", "sumeru" ],
     notes: "放浪者のオリジナル料理",
+    variants: {
+      ja: [ "しんみちゃずけ" ],
+    },
   },
   {
     en: "Goldflame Tajine",

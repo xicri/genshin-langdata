@@ -91,6 +91,14 @@
     tags: [ "liyue", "organization" ],
   },
   {
+    en: "Millelith Brigade",
+    ja: "千岩団",
+    pronunciationJa: "せんがんだん",
+    tags: [ "liyue", "organization" ],
+    notes: "千岩軍の前身",
+    // notesEn: "Predecessor of Millelith",
+  },
+  {
     en: "Ministry of Civil Affairs",
     ja: "総務司",
     zhCN: "总务司",

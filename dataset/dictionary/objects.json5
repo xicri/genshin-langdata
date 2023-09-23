@@ -1024,6 +1024,12 @@
     tags: [ "object", "fontaine" ],
   },
   {
+    en: "Pers",
+    ja: "ペールス",
+    tags: [ "object", "fontaine" ],
+    notes: "フレミネが連れている自作のクロックワーク人形",
+  },
+  {
     en: "Gardemek",
     ja: "警備ロボ",
     zhCN: "警卫机关",
@@ -1050,6 +1056,13 @@
     pronunciationJa: "じゅういきのさけめ",
     tags: [ "object", "fontaine" ],
     notes: "エリナスにいくつかある、獣域ウルブズが出てくる法陣",
+  },
+  {
+    en: "Pufferfruit",
+    ja: "ぽよぽよフルーツ",
+    tags: [ "object", "fontaine" ],
+    notes: "依頼任務「刃を得た魚のよう」で制限時間内に破壊するオブジェクト",
+    // notesEn: "An object to destroy within the time limit in a Commission Quest \"Dagger in the Water\".",
   },
   {
     en: "Allogravity-Condensed Water Bodies",

@@ -2017,10 +2017,9 @@
     tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
-    en: "Water Blade",
-    ja: "水刃",
-    zhCN: "水刃",
-    pronunciationJa: "すいじん",
+    en: "Fontemer Water Blade",
+    ja: "原海水刃",
+    pronunciationJa: "げんかいすいじん", // TODO Need Check
     tags: [ "fontaine" ],
     notes: "狩猟刀エイ亜種から獲得できる能力",
   },

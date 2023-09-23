@@ -209,6 +209,12 @@
     tags: [ "liyue" ],
   },
   {
+    en: "Wrath of the Rock",
+    ja: "岩食いの刑",
+    pronunciationJa: "いわくいのけい",
+    tags: [ "liyue" ],
+  },
+  {
     en: "Cocogoat",
     ja: "ココナッツヒツジ",
     zhCN: "椰羊",

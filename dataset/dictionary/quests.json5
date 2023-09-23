@@ -3056,6 +3056,20 @@
     // related: [ "roialte" ]
   },
   {
+    en: "What is the Meaning of Work?",
+    ja: "仕事の意味って…?",
+    pronunciationJa: "しごとのいみって",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "iaune" ]
+  },
+  {
+    en: "Other Duties",
+    ja: "やるべきことは他に有り",
+    pronunciationJa: "やるべきことはほかにあり",
+    tags: [ "quest-daily", "fontaine" ],
+    // related: [ "semaine" ]
+  },
+  {
     en: "Days Beneath the Waves",
     ja: "水底の日々",
     zhCN: "水底的日子",

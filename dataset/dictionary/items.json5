@@ -1217,6 +1217,17 @@
     pronunciationJa: "ふうりょくファン",
     tags: [ "item", "fontaine" ],
   },
+  {
+    en: "Itty Bitty Octobaby",
+    ja: "プニプニタコちゃん",
+    tags: [ "item" ],
+  },
+  {
+    en: "Portable Aerodynamic Gelatinous Bubble Generator",
+    ja: "携帯型空気動力粘性バブル発射機",
+    pronunciationJa: "けいたいがたくうきどうりょくねんせいバブルはっしゃき",
+    tags: [ "item" ],
+  },
 
   //
   // Quest Items
