@@ -749,13 +749,18 @@
     zhCN: "「渔获」",
     pronunciationJa: "ぎょかく",
     tags: [ "weapon", "polearm" ],
+    variants: {
+      zhCN: [ "鱼叉" ],
+    },
   },
   {
     en: "Ako's Sake Vessel",
     ja: "赤穂の枡",
+    zhCN: "赤穗酒枡",
     pronunciationJa: "あこうのます",
     tags: [ "weapon" ],
     notes: "「漁獲」の精錬素材",
+    pinyins: [{ char: "枡", pron: "sheng1" }],
   },
   {
     en: "Wavebreaker's Fin",
@@ -1401,6 +1406,9 @@
     zhCN: "尘世之锁",
     pronunciationJa: "うきよのじょう", // TODO Need check
     tags: [ "weapon", "catalyst" ],
+    variants: {
+      zhCN: [ "痛苦锁" ],
+    },
   },
   {
     en: "Everlasting Moonglow",
@@ -1426,6 +1434,9 @@
     zhCN: "千夜浮梦",
     pronunciationJa: "せんやにうかぶゆめ",
     tags: [ "weapon", "catalyst" ],
+    variants: {
+      zhCN: [ "尿壶" ],
+    },
   },
   {
     en: "Tulaytullah's Remembrance",

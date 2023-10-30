@@ -408,6 +408,7 @@
   {
     en: "Coupon Cafeteria",
     ja: "特別許可食堂",
+    zhCN: "特许食堂",
     pronunciationJa: "とくべつきょかしょくどう",
     tags: [ "fontaine", "facility" ],
     notes: "メロピデ要塞の食堂",
@@ -415,6 +416,7 @@
   {
     en: "Welfare Meal",
     ja: "サービス食",
+    zhCN: "福利餐",
     pronunciationJa: "サービスしょく",
     tags: [ "fontaine" ],
     notes: "特別許可食堂で1日1食、無料で提供されるランダムな料理とおみくじのセット",
@@ -422,17 +424,20 @@
   {
     en: "Rag and Bone Shop",
     ja: "ラグ&ボーンショップ",
+    zhCN: "破烂骨头商店",
     tags: [ "fontaine", "facility" ],
     notes: "メロピデ要塞の非公認ショップ",
   },
   {
     en: "Pankration Ring",
     ja: "鉄拳闘技場",
+    zhCN: "拳力斗技场",
     tags: [ "fontaine", "facility" ],
   },
   {
     en: "Pankration",
     ja: "鉄拳闘技",
+    zhCN: "拳力斗技",
     tags: [ "fontaine" ],
   },
 

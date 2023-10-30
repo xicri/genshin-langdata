@@ -261,7 +261,9 @@
     zhCN: "逐影猎人",
     tags: [ "artifact" ],
     notes: "英語版にある \"Marechaussee\" は「マレショーセ・ファントム」の「マレショーセ」に同じ",
-    // TODO 之后会添加 variants "逐影套" 或者 "猎人套" 尚未清楚
+    variants: {
+      zhCN: [ "逐影套", "猎人套" ],
+    },
   },
   {
     en: "Martial Artist",

@@ -1026,6 +1026,7 @@
   {
     en: "Pers",
     ja: "ペールス",
+    zhCN: "佩伊",
     tags: [ "object", "fontaine" ],
     notes: "フレミネが連れている自作のクロックワーク人形",
   },
@@ -1039,6 +1040,7 @@
   {
     en: "Sir Arthur",
     ja: "サー・アーサー",
+    zhCN: "亚瑟先生",
     tags: [ "object", "fontaine" ],
     notes: "スチームバード新聞社の前にいる、ニュースを読み上げてくれるクロックワーク・マシナリー",
   },
@@ -1060,6 +1062,7 @@
   {
     en: "Pufferfruit",
     ja: "ぽよぽよフルーツ",
+    zhCB: "胖胖果",
     tags: [ "object", "fontaine" ],
     notes: "依頼任務「刃を得た魚のよう」で制限時間内に破壊するオブジェクト",
     // notesEn: "An object to destroy within the time limit in a Commission Quest \"Dagger in the Water\".",

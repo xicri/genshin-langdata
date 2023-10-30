@@ -1220,11 +1220,13 @@
   {
     en: "Itty Bitty Octobaby",
     ja: "プニプニタコちゃん",
+    zhCN: "柔柔小章",
     tags: [ "item" ],
   },
   {
     en: "Portable Aerodynamic Gelatinous Bubble Generator",
     ja: "携帯型空気動力粘性バブル発射機",
+    zhCN: "便携式空气动力胶质泡生发器",
     pronunciationJa: "けいたいがたくうきどうりょくねんせいバブルはっしゃき",
     tags: [ "item" ],
   },
@@ -1452,6 +1454,7 @@
   {
     en: "Credit Coupon",
     ja: "特別許可券",
+    zhCN: "特许券",
     pronunciationJa: "とくべつきょかけん",
     tags: [ "item", "fontaine" ],
     notes: "メロピデ要塞で流通する通貨のようなもの",
@@ -1460,6 +1463,7 @@
   {
     en: "Hydro Phantasm Taint-B-Gone",
     ja: "濁水幻霊イチコロリ",
+    zhCN: "浊水幻灵克星",
     pronunciationJa: "だくすいげんれいイチコロリ", // TODO Need Check
     tags: [ "item", "fontaine" ],
   },
