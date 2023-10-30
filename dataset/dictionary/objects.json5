@@ -1062,7 +1062,7 @@
   {
     en: "Pufferfruit",
     ja: "ぽよぽよフルーツ",
-    zhCB: "胖胖果",
+    zhCN: "胖胖果",
     tags: [ "object", "fontaine" ],
     notes: "依頼任務「刃を得た魚のよう」で制限時間内に破壊するオブジェクト",
     // notesEn: "An object to destroy within the time limit in a Commission Quest \"Dagger in the Water\".",
