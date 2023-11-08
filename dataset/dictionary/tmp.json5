@@ -2,6 +2,7 @@
   {
     en: "Subdetection Unit",
     ja: "探測ユニット・子機",
+    zhCN: "子探测单元",
     pronunciationJa: "たんそくユニット・こき",
     tags: [ "specialty", "fontaine" ],
     notes: "タグは仮で、特産品かどうかは確認中",
@@ -9,6 +10,7 @@
   {
     en: "Lumitoile",
     ja: "ルエトワール",
+    zhCN: "幽光星星",
     tags: [ "specialty", "fontaine" ],
     notes: "タグは仮で、特産品かどうかは確認中",
   },
@@ -17,16 +19,19 @@
   {
     en: "Tripes du Port",
     ja: "ポート風トリップ",
+    zhCN: "港湾牛肚",
     tags: [ "food" ],
   },
   {
     en: "Tomates Narbonnaises",
     ja: "ナルボンヌのトマトファルシ",
+    zhCN: "纳博内番茄盅",
     tags: [ "food" ],
   },
   {
     en: "Crepes Suzette",
     ja: "クレームクレープシュゼット", // TODO Check if it is HoYoverse's mistype
+    zhCN: "桔桔薄饼",
     tags: [ "food" ],
   },
 ]

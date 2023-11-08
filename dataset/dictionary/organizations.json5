@@ -93,6 +93,7 @@
   {
     en: "Millelith Brigade",
     ja: "千岩団",
+    zhCN: "千岩团",
     pronunciationJa: "せんがんだん",
     tags: [ "liyue", "organization" ],
     notes: "千岩軍の前身",

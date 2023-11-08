@@ -3058,6 +3058,7 @@
   {
     en: "What is the Meaning of Work?",
     ja: "仕事の意味って…?",
+    zhCN: "工作的意义是…？",
     pronunciationJa: "しごとのいみって",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "iaune" ]
@@ -3065,6 +3066,7 @@
   {
     en: "Other Duties",
     ja: "やるべきことは他に有り",
+    zhCN: "另有他职",
     pronunciationJa: "やるべきことはほかにあり",
     tags: [ "quest-daily", "fontaine" ],
     // related: [ "semaine" ]

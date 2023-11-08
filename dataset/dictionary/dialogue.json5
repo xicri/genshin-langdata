@@ -266,6 +266,7 @@
   {
     en: "While the Millelith stands guard, evil shall never prevail!",
     ja: "千岩牢固、揺るぎない。",
+    zhCN: "千岩牢固，重嶂不移。",
     pronunciationJa: "せんがんろうこ、ゆるぎない",
     tags: [ "dialogue", "liyue" ],
   },

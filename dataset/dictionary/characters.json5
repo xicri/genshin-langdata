@@ -1084,6 +1084,9 @@
     zhCN: "岩王帝君",
     pronunciationJa: "がんおうていくん",
     tags: [ "liyue", "title", "how-to-call" ],
+    variants: {
+      zhCN: [ "岩王爷", "阎王爷" ],
+    },
   },
   {
     en: "Geo Archon",
@@ -1444,6 +1447,7 @@
   {
     en: "Jiawei",
     ja: "嘉瑋",
+    zhCN: "嘉玮",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月の漁師",
     // notesEn: "Liyue Angler",
@@ -2303,9 +2307,11 @@
   {
     en: "Kujirai Momiji",
     ja: "鯨井椛",
+    zhCN: "鲸井椛",
     pronunciationJa: "くじらいもみじ",
     tags: [ "inazuma", "character-sub" ],
     notes: "稲妻の漁師",
+    pinyins: [{ char: "椛", pron: "hua1" }],
     // notesEn: "Inazuman Angler",
   },
   {
@@ -2674,6 +2680,7 @@
   {
     en: "Loumelat",
     ja: "ルーメラ",
+    zhCN: "鲁梅拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの漁師",
     // notesEn: "Sumeru Angler",
@@ -3964,6 +3971,7 @@
   {
     en: "Semaine",
     ja: "スメイヌ",
+    zhCN: "瑟米安",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「些細な出来事」「とある印章」などに登場する共律官",
     // related: [ "a-certain-trifle", "a-certain-stamp" ]
