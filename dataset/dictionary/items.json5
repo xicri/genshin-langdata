@@ -1172,6 +1172,24 @@
     pronunciationJa: "かいとうとめいたんてい: レインボーブローチのなぞ",
     tags: [ "item", "fontaine" ],
   },
+  {
+    en: "The Fall of the Faded Castle",
+    ja: "色褪せた古城の倒壊",
+    zhCN: "褪色古堡的崩塌",
+    tags: [ "fontaine", "item" ],
+  },
+  {
+    en: "La Chanson d'Erinnyes",
+    ja: "エリニュスの歌",
+    zhCN: "伊黎耶之歌",
+    tags: [ "fontaine", "item" ],
+  },
+  {
+    en: "Tales of a Snow-Winged Goose",
+    ja: "雪羽ガン童話集",
+    zhCN: "雪翅雁童话集",
+    tags: [ "fontaine", "item" ],
+  },
 
   //
   // Gadgets
@@ -1229,6 +1247,19 @@
     zhCN: "便携式空气动力胶质泡生发器",
     pronunciationJa: "けいたいがたくうきどうりょくねんせいバブルはっしゃき",
     tags: [ "item" ],
+  },
+  {
+    en: "Special Analysis Zoom Lens",
+    ja: "特殊分析ズームレンズ",
+    zhCN: "特殊分析变焦镜头",
+    pronunciationJa: "とくしゅぶんせきズームレンズ",
+    tags: [ "fontaine", "item" ],
+  },
+  {
+    en: "Image Sampling Kamera",
+    ja: "画像サンプリング写真機",
+    zhCN: "图形样本留影机",
+    tags: [ "fontaine", "item", "event" ],
   },
 
   //

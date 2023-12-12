@@ -329,4 +329,11 @@
     tags: [ "dialogue", "fontaine" ],
     notes: "リオセスリの攻撃時の?セリフ",
   },
+  {
+    en: "So interminable... so lonely... Just how much longer...",
+    ja: "終わりが見えない…すごく寂しい…一体いつまで耐えればいいんだ…",
+    zhCN: "好漫长…好孤独…还要多久…",
+    tags: [ "fontaine", "dialogue" ],
+    notesZh: "芙宁娜的内心自白",
+  }
 ]

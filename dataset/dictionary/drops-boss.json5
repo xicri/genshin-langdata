@@ -405,4 +405,23 @@
     notes: "アペプのオアシス守護者のドロップアイテム",
     pinyins: [{ char: "亘", pron: "gen4" }],
   },
+  {
+    en: "Lightless Silk String",
+    ja: "光なき糸",
+    zhCN: "无光丝线",
+    tags: [ "fontaine", "drop-boss" ],
+    notes
+  },
+  {
+    en: "Lightless Eye of the Maelstrom",
+    ja: "光なき渦の眼",
+    zhCN: "无光涡眼",
+    tags: [ "fontaine", "drop-boss" ],
+  },
+  {
+    en: "Lightless Mass",
+    ja: "光なき一塊",
+    zhCN: "无光质块",
+    tags: [ "fontaine", "drop-boss" ],
+  },
 ]

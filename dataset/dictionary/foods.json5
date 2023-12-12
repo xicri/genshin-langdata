@@ -1856,4 +1856,28 @@
     pronunciationJa: "はっこうフルーツジュース",
     tags: [ "food", "fontaine" ],
   },
+  {
+    en: "La Lettre a Focalors",
+    ja: "フォカロルスのために",
+    zhCN: "致水神",
+    tags: [ "fontaine", "food" ],
+  },
+  {
+    en: "Blubber Profiterole",
+    ja: "プクプクシュークリーム",
+    zhCN: "膨膨泡芙",
+    tags: [ "fontaine", "food" ],
+  },
+  {
+    en: "Pour la Justice",
+    ja: "プル·ラ·ジャスティス",
+    zhCN: "普茹斯蒂司",
+    tags: [ "fontaine", "food" ],
+  },
+  {
+    en: "Exclusive Scoop: Gourmet Column",
+    ja: "独占秘話·グルメコラム",
+    zhCN: "独家秘闻・美食专栏",
+    tags: [ "fontaine", "food" ],
+  },
 ]

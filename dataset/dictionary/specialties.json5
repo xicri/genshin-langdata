@@ -280,4 +280,31 @@
     zhCN: "苍晶螺",
     tags: [ "specialty", "fontaine" ],
   },
+  {
+    en: "Subdetection Unit",
+    ja: "探測ユニット・子機",
+    zhCN: "子探测单元",
+    pronunciationJa: "たんそくユニット・こき",
+    tags: [ "specialty", "fontaine" ],
+  },
+  {
+    en: "Lumitoile",
+    ja: "ルエトワール",
+    zhCN: "幽光星星",
+    tags: [ "specialty", "fontaine" ],
+  },
+  {
+    en: "Lakelight Lily",
+    ja: "湖光の鈴蘭",
+    zhCN: "湖光铃兰",
+    pronunciationJa: "ここうのすずらん",
+    tags: [ "fontaine", "specialty" ],
+  },
+  {
+    en: "Spring of the First Dewdrop",
+    ja: "初露の源",
+    zhCN: "初露之源",
+    pronunciationJa: "はつつゆのみなもと",
+    tags: [ "fontaine", "specialty" ],
+  },
 ]
