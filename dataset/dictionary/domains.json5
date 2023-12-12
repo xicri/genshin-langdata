@@ -493,6 +493,7 @@
     zhCN: "苍白的遗荣",
     pronunciationJa: "そうはくのいえい", // TODO Need Check
     tags: [ "fontaine", "domain" ],
+    notesZh: "吞星之鲸的掉落物",
   },
   {
     en: "Denouement of Sin",
@@ -500,5 +501,14 @@
     zhCN: "罪祸的终末",
     pronunciationJa: "ざいかのしゅうまつ", // TODO Need Check
     tags: [ "fontaine", "domain" ],
+    notesZh: "吞星之鲸的掉落物",
+  },
+  {
+    en: "Shadow of Another World",
+    ja: "異界の余影",
+    zhCN: "异界余影",
+    pronunciationJa: "いかいのよかげ",
+    tags: [ "fontaine", "domain" ],
+    notesZh: "吞星之鲸的掉落物",
   },
 ]

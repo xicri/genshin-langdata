@@ -270,6 +270,12 @@
     tags: [ "weapon", "sword" ],
     pinyins: [{ char: "坞", pron: "wu4" }],
   },
+  {
+    en: "Sword of Narzissenkreuz",
+    ja: "水仙十字の剣",
+    zhCN: "水仙十字之剑",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -350,6 +356,13 @@
     en: "Light of Foliar Incision",
     ja: "萃光の裁葉",
     zhCN: "裁叶萃光",
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Splendor of Tranquil Waters",
+    ja: "静水流転の輝き",
+    zhCN: "静水流涌之辉",
+    pronunciationJa: "せいすいるてんのかがやき",
     tags: [ "weapon", "sword" ],
   },
 

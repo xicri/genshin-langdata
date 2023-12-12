@@ -251,6 +251,14 @@
     tags: [ "fontaine", "quest-archon" ],
     notes: "魔神任務第四章第四幕",
   },
+  {
+    en: "Masquerade of the Guilty",
+    ja: "罪人の円舞曲",
+    zhCN: "罪人舞步旋",
+    pronunciationJa: "ざいにんのワルツ",
+    tags: [ "fontaine", "quest-archon" ],
+    notes: "魔神任務第四章第五幕",
+  },
 
   {
     en: "Interlude",
@@ -1819,6 +1827,86 @@
     pronunciationJa: "まだまだよだれがとまらない",
     tags: [ "fontaine", "quest-world" ],
   },
+  {
+    en: "The Wild Fairy of Erinnyes",
+    ja: "エリニュスのはぐれ精霊",
+    zhCN: "伊黎耶的野精灵",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "In the Wake of Narcissus",
+    ja: "水仙の痕跡を追って",
+    zhCN: "水仙的追迹",
+    pronunciationJa: "すいせんのこんせきをおって",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Search in the Algae Sea",
+    ja: "藻海が残したもの",
+    zhCN: "藻海的寻踪",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Savior's Wake",
+    ja: "救世主のお守り",
+    zhCN: "救世者的守灵",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Waking from the Great Dream",
+    ja: "大夢からの目覚め",
+    zhCN: "大梦的醒转",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Rowboat's Wake",
+    ja: "船尾が描く波",
+    zhCN: "溪舟的尾波",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Questioning Melusine and Answering Machine",
+    ja: "問題メリュジーヌと解決ロボ",
+    zhCN: "问题美露莘与答案机器人",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "An Expected Plan",
+    ja: "想定内の計画",
+    zhCN: "一份预期内的计划",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "An Expected Lie",
+    ja: "想定内の嘘",
+    zhCN: "一场预期内的谎言",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Free Verse",
+    ja: "格律のない自由詩",
+    zhCN: "无格律自由诗",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Wish-Fulfilling Treasure Hunt",
+    ja: "念願の宝探しの旅",
+    zhCN: "得偿所愿的寻宝之旅",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Impromptu Poem of the Crimson Dawn",
+    ja: "暁の即興詩",
+    zhCN: "曙红即兴诗",
+    pronunciationJa: "あかつきのそっきょうし",
+    tags: [ "fontaine", "quest-world" ],
+  },
+  {
+    en: "Happy Birthday",
+    ja: "誕生日おめでとう",
+    zhCN: "生日快乐",
+    tags: [ "fontaine", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -2160,6 +2248,13 @@
     ja: "獄守犬の章",
     zhCN: "守狱犬之章",
     notes: "リオセスリの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Animula Choragi Chapter",
+    ja: "頌歌者の章",
+    zhCN: "司颂之章",
+    pronunciationJa: "しょうかしゃのしょう",
     tags: [ "fontaine", "quest-story" ],
   },
 

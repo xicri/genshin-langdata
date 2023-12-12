@@ -2179,4 +2179,24 @@
     tags: [ "fontaine", "enemy" ],
     notes: "フォンテーヌの地方伝説の1体で、プクプク獣の変異体",
   },
+  {
+    en: "Hydro Tulpa",
+    ja: "水形タルパ",
+    zhCN: "水形幻人",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "Maintenance Mek: Gold Leader",
+    ja: "メンテマシナリー·黄金統率型",
+    zhCN: "维护机关·澄金领队型",
+    pronunciationJa: "メンテマシナリーおうごんとうそつがた",
+    tags: [ "fontaine", "enemy" ],
+  },
+  {
+    en: "All-Devouring Narwhal",
+    ja: "呑星の鯨",
+    zhCN: "吞星之鲸",
+    pronunciationJa: "どんせいのくじら",
+    tags: [ "fontaine", "enemy" ],
+  },
 ]

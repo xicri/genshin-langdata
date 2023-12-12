@@ -713,4 +713,16 @@
     tags: [ "drop", "fontaine" ],
     notes: "ブリーチャープリムスのドロップアイテム (★4)",
   },
+  {
+    en: "Water That Failed To Transcend",
+    ja: "超越に至らぬ水",
+    zhCN: "未能达成超越之水",
+    tags: [ "fontaine", "drop" ],
+  },
+  {
+    en: "Tourbillon Device",
+    ja: "トゥールビヨン装置",
+    zhCN: "图比昂装置",
+    tags: [ "fontaine", "drop" ],
+  },
 ]

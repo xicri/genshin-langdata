@@ -186,6 +186,60 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v4.2
+  {
+    en: "Graph Adversarial Technology Experiment Log",
+    ja: "画像認識実験レポート",
+    zhCN: "图形对抗实验录",
+    pronunciationJa: "がぞうにんしきじっけんレポート",
+    notes: "v4.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Thelxie's Fantastic Adventures",
+    ja: "トルクシーの不思議な冒険",
+    zhCN: "特尔克西的奇幻历险",
+    notes: "v4.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Lil' Fungi's Fun-Tastic Fiesta",
+    ja: "ちびチエキノコン大合戦",
+    zhCN: "小小灵蕈大幻戏",
+    notes: "v4.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Misty Dungeon: Realm of Water",
+    ja: "迷城戦線・水界編",
+    zhCN: "迷城战线·水境篇",
+    pronunciationJa: "めいじょうせんせん・すいかいへん",
+    notes: "v4.2 期間限定イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Motherboard Troubleshooting",
+    ja: "修正！マザーボードデバッグ",
+    zhCN: "主板调试问题集",
+    notes: "v4.2 期間限定イベント「トルクシーの不思議な冒険」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Record of the Search for Glory",
+    ja: "探求！栄光を求めて",
+    zhCN: "参寻荣耀追游录",
+    notes: "v4.2 期間限定イベント「トルクシーの不思議な冒険」の子イベント",
+    tags: [ "event" ],
+  },
+  {
+    en: "Purgation Counterstrike",
+    ja: "反撃！魔物掃討作戦",
+    zhCN: "肃清邪物反击战",
+    pronunciationJa: "はんげき!まものそうとうさくせん",
+    notes: "v4.2 期間限定イベント「トルクシーの不思議な冒険」の子イベント",
+    tags: [ "event" ],
+  },
+
   // v4.1
   {
     en: "Waterborne Poetry",

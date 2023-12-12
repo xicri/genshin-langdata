@@ -1,20 +1,4 @@
 [
-  {
-    en: "Subdetection Unit",
-    ja: "探測ユニット・子機",
-    zhCN: "子探测单元",
-    pronunciationJa: "たんそくユニット・こき",
-    tags: [ "specialty", "fontaine" ],
-    notes: "タグは仮で、特産品かどうかは確認中",
-  },
-  {
-    en: "Lumitoile",
-    ja: "ルエトワール",
-    zhCN: "幽光星星",
-    tags: [ "specialty", "fontaine" ],
-    notes: "タグは仮で、特産品かどうかは確認中",
-  },
-
   // Rarelity (How many ★) unknown
   {
     en: "Tripes du Port",

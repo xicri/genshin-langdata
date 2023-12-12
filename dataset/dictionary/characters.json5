@@ -1474,7 +1474,6 @@
     zhCN: "岚姐",
     pronunciationJa: "あらしねえ",
     tags: [ "liyue", "character-sub" ],
-
   },
   {
     en: "Hanfeng, \"Cold Blade\"",
@@ -3566,6 +3565,12 @@
     pronunciationJa: "すいじん",
     tags: [ "fontaine", "title" ],
   },
+  {
+    en: "Chevreuse",
+    ja: "シュヴルーズ",
+    zhCN: "夏沃蕾",
+    tags: [ "fontaine", "character-main" ],
+  },
 
   //
   // Fontaine ― NPCs
@@ -4102,6 +4107,126 @@
     tags: [ "fontaine" ],
     notes: "メカントルとバビスの研究対象",
     notesZh: "梅康顿和巴比斯的研究对象",
+  },
+  {
+    en: "Giverny",
+    ja: "ジヴェルニー",
+    zhCN: "吉沃尼",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Bernette",
+    ja: "ベネッティ",
+    zhCN: "贝妮蒂",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Melissa",
+    ja: "メリッサ",
+    zhCN: "玫莉莎",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Essonnes",
+    ja: "エソンヌ",
+    zhCN: "埃松",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Jolienne",
+    ja: "ジョリエンヌ",
+    zhCN: "约莲妮",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Joinville",
+    ja: "ジョインビレ",
+    zhCN: "瑞安维尔",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Desyree",
+    ja: "デジレ",
+    zhCN: "黛丝蕾",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Esmond",
+    ja: "エズモンド",
+    zhCN: "埃斯蒙德",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Sedene",
+    ja: "セドナ",
+    zhCN: "塞德娜",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Lauwick",
+    ja: "ローウィック",
+    zhCN: "劳维克",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Pauleau",
+    ja: "ポウル",
+    zhCN: "波洛",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Dulphy",
+    ja: "ドルフィー",
+    zhCN: "迪尔菲",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Buraud",
+    ja: "ブラウド",
+    zhCN: "比罗",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Elain",
+    ja: "エレイン",
+    zhCN: "埃兰",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Vilmant",
+    ja: "ヴィルマント",
+    zhCN: "维尔芒",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Lepine-Pauline",
+    ja: "レピーヌ·ポーリーン",
+    zhCN: "乐平波琳",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Thelxie",
+    ja: "トルクシー",
+    zhCN: "特尔克西",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Zuria Destree",
+    ja: "ジュリア·ドストレ",
+    zhCN: "祖莉亚·德斯特雷",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Jalacan",
+    ja: "ジャラーカン",
+    zhCN: "贾拉康",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Lescot Destree",
+    ja: "レスコー·ドストレ",
+    zhCN: "莱斯科·德斯特雷",
+    tags: [ "fontaine", "character-sub" ],
   },
 
   //
