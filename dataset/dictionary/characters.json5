@@ -3513,13 +3513,6 @@
     notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
-    en: "Skirk",
-    ja: "スカーク",
-    zhCN: "丝柯克",
-    tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
-  },
-  {
     en: "Champion Duelist",
     ja: "決闘代理人",
     zhCN: "决斗代理人",
