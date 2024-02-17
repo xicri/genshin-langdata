@@ -463,6 +463,8 @@
     ja: "ブーフ・ド・エテの館",
     zhCN: "布法蒂公馆",
     tags: [ "fontaine", "snezhnaya", "organization" ],
+    notes: "リネ・リネット・フレミネの3人小隊",
+    // notesEn: "A team of Lyney, Lynette, and Freminet"
   },
   {
     en: "Confrerie of Cabriere",
