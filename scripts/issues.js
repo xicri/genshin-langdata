@@ -16,7 +16,7 @@ const issueBody = "The following words do not have Chinese translations yet. Add
     file.words.map(word => `- ${word.en}`).join("\n")
   ).join("\n\n") + `
 
-  @Bill-Haku @SleepyAsh0191 Please assign yourself to this issue **just before** you start working on the translation. The one who assigned himself faster would work on this Issue.
+  Bill-Haku SleepyAsh0191 Please assign yourself to this issue **just before** you start working on the translation. The one who assigned himself faster would work on this Issue.
   cc: @xicri`;
 const issueTitle = `Chinese Translation (${dayjs().format("YYYY.MM.DD")})`;
 const issueLabel = "Simplified Chinese Translation";
