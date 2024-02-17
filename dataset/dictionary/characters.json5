@@ -3450,19 +3450,19 @@
     en: "Lyney",
     ja: "リネ",
     zhCN: "林尼",
-    tags: [ "fontaine", "character-main" ],
+    tags: [ "fontaine", "snezhnaya", "character-main" ],
   },
   {
     en: "Lynette",
     ja: "リネット",
     zhCN: "琳妮特",
-    tags: [ "fontaine", "character-main" ],
+    tags: [ "fontaine", "snezhnaya", "character-main" ],
   },
   {
     en: "Freminet",
     ja: "フレミネ",
     zhCN: "菲米尼",
-    tags: [ "fontaine", "character-main" ],
+    tags: [ "fontaine", "snezhnaya", "character-main" ],
   },
   {
     en: "Egeria",

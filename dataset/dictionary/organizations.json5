@@ -462,7 +462,7 @@
     en: "Hotel Bouffes d'ete",
     ja: "ブーフ・ド・エテの館",
     zhCN: "布法蒂公馆",
-    tags: [ "fontaine", "organization" ],
+    tags: [ "fontaine", "snezhnaya", "organization" ],
   },
   {
     en: "Confrerie of Cabriere",
