@@ -725,4 +725,11 @@
     zhCN: "图比昂装置",
     tags: [ "fontaine", "drop" ],
   },
+ {
+    "en": "Clearwater Jade",
+    "ja": "清水玉",
+    "zhCN": "清水玉",
+    "pronunciationJa": "せいすいぎょく",
+    "tags": [ "liyue", "drop" ],
+  },
 ]

@@ -423,4 +423,12 @@
     zhCN: "无光质块",
     tags: [ "fontaine", "drop-boss" ],
   },
+  {
+    "en": "Cloudseam Scale",
+    "ja": "凝雲の鱗甲",
+    "zhCN": "凝云鳞甲",
+    "pronunciationJa": "ぎょううんのりんこう",
+    "tags": [ "liyue", "drop-boss" ],
+    "notes": "山隠れの猊獣のドロップアイテム",
+  },
 ]
