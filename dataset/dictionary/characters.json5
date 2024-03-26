@@ -776,6 +776,14 @@
     notes: "「栄光の風」の店主",
     notesZh: "「荣光之风」的店主",
   },
+  {
+    en: "Callirhoe",
+    ja: "カリロエー",
+    zhCN: "卡莉露",
+    tags: [ "mondstadt", "fontaine", "character-sub" ],
+    "notes": "Ver4.1のイベント「流れゆく水に詩を紡いで」の純水精霊",
+    "notesZh": "Ver4.1 活动「游水酝诗籍」的纯水精灵",
+  },
 
   //
   // Liyue - Main Characters
@@ -1096,7 +1104,22 @@
     pronunciationJa: "がんしん",
     variants: {
       en: [ "Geo God", "God of Geo" ],
-    },
+  },
+  {
+    en: "Xianyun",
+    ja: "閑雲",
+    zhCN: "闲云",
+    pronunciationJa: "かんうん",
+    "tags": [ "liyue", "character-main" ],
+    notes: "留雲借風真君/三眼五顯仙人",
+    notesZh: "留云借风真君/三眼五显仙人",
+  },
+  {
+    en: "Gaming",
+    ja: "嘉明",
+    zhCN: "嘉明",
+    pronunciationJa: "がみん",
+    "tags": [ "liyue", "character-main" ],
   },
 
   //
@@ -1107,6 +1130,8 @@
     ja: "ピンばあや",
     zhCN: "萍姥姥",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
+    notes: "歌塵浪市真君/三眼五顯仙人",
+    notesZh: "歌尘浪市真君/三眼五显仙人",
   },
   {
     en: "Streetward Rambler",
@@ -1425,6 +1450,7 @@
     en: "Smiley Yanxiao",
     ja: "言笑",
     zhCN: "言笑",
+    pronunciationJa: "げんしょう",
     tags: [ "liyue", "character-sub" ],
     variants: {
       en: [ "Yanxiao" ],
@@ -1649,6 +1675,93 @@
     pronunciationJa: "はくよう",
     tags: [ "liyue", "character-sub" ],
     notes: "夜蘭の先祖",
+  },
+  {
+    en: "Fujin",
+    ja: "浮錦",
+    zhCN: "浮锦",
+    pronunciationJa: "ふきん",
+    tags: [ "liyue", "character-sub" ],
+    notes: "名もなき魔神眷属の仙人",
+    notesZh: "仙人是无名魔神的仆从",
+  },
+  {
+    en: "Lingyuan",
+    ja: "霊淵",
+    zhCN: "灵渊",
+    pronunciationJa: "れいえん",
+    tags: [ "liyue", "character-sub" ],
+    notes: "名もなき魔神眷属の仙人",
+    notesZh: "仙人是无名魔神的仆从",
+  },
+  {
+    en: "Herblord",
+    ja: "薬君",
+    zhCN: "药君",
+    pronunciationJa: "やくくん",
+    tags: [ "liyue", "character-sub" ],
+    notes: "名もなき魔神眷属の仙人",
+    notesZh: "仙人是无名魔神的仆从",
+  },
+  {
+    en: "Uncle Luo",
+    ja: "羅おじ",
+    zhCN: "罗叔",
+    pronunciationJa: "あみおじ", // TODO Need check
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Little Mao",
+    ja: "マオくん",
+    zhCN: "小茂",
+    pronunciationJa: "まおくん",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Shuyu",
+    ja: "漱玉",
+    zhCN: "漱玉",
+    pronunciationJa: "そうぎょく",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Yuandai",
+    ja: "遠黛",
+    zhCN: "远黛",
+    pronunciationJa: "えんたい",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Man Chai",
+    ja: "ウェンツァイ",
+    zhCN: "文仔",
+    pronunciationJa: "うぇんつぁい",
+    tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Houzhang",
+    ja: "候章",
+    zhCN: "侯章",
+    pronunciationJa: "こうしょう",
+    tags: [ "liyue", "character-sub" ],
+    notes: "削月築陽真君/三眼五顯仙人",
+    notesZh: "削月筑阳真君/三眼五显仙人"
+  },
+  {
+    en: "Jiehu",
+    ja: "接笏",
+    zhCN: "接笏",
+    pronunciationJa: "せっしゃく",
+    tags: [ "liyue", "character-sub" ],
+    notes: "理水畳山真君/三眼五顯仙人",
+    notesZh: "理水叠山真君/三眼五显仙人"
+  },
+  {
+    en: "Yip Tak",
+    ja: "葉徳",
+    zhCN: "叶德",
+    pronunciationJa: "ようとく",
+    tags: [ "liyue", "character-sub" ],
   },
 
   //
@@ -3444,7 +3557,7 @@
     ja: "シャルロット",
     zhCN: "夏洛蒂",
     tags: [ "fontaine", "character-main" ],
-    notes: "英語の発音は「シャーロット」。タグのプレイアブル・NPC 分類は仮。",
+    notes: "英語の発音は「シャーロット」",
   },
   {
     en: "Lyney",
@@ -3476,7 +3589,6 @@
     ja: "ナヴィア",
     zhCN: "娜维娅",
     tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Demoiselle",
@@ -3543,7 +3655,6 @@
     ja: "フリーナ",
     zhCN: "芙宁娜",
     tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
   },
   {
     en: "Lady Furina",
@@ -3570,6 +3681,13 @@
     ja: "シュヴルーズ",
     zhCN: "夏沃蕾",
     tags: [ "fontaine", "character-main" ],
+  },
+  {
+    en: "Chiori",
+    ja: "千織",
+    zhCN: "千织",
+    pronunciationJa: "ちおり",
+    tags: [ "fontaine", "inazuma", "character-main" ],
   },
 
   //
@@ -4226,6 +4344,24 @@
     en: "Lescot Destree",
     ja: "レスコー·ドストレ",
     zhCN: "莱斯科·德斯特雷",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Caterpillar",
+    ja: "キャタピラー",
+    zhCN: "卡特皮拉",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Lanoire",
+    ja: "ラノール",
+    zhCN: "莉诺尔",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Narzissenkreuz",
+    ja: "ナルツィッセンクロイツ",
+    zhCN: "纳齐森科鲁兹",
     tags: [ "fontaine", "character-sub" ],
   },
 

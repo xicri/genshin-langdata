@@ -178,7 +178,15 @@
     en: "Crimson Agate",
     ja: "緋紅玉髄",
     zhCN: "绯红玉髓",
+    pronunciationJa: "ひこうぎょくずい",
     tags: [ "item", "dragonspine" ],
+  },
+  {
+    en: "Spirit Carp",
+    ja: "蒼霊の鯉",
+    zhCN: "苍灵鲤",
+    pronunciationJa: "そうれいのこい",
+    tags: [ "item", "liyue" ]
   },
   {
     en: "Crystal Core",
@@ -795,7 +803,7 @@
     en: "Condessence Crystal",
     ja: "萃凝晶",
     zhCN: "萃凝晶",
-    pronunciationJa: "すいぎょうしょう", // TODO Need Check
+    pronunciationJa: "すいぎょうしょう",
     tags: [ "item", "fontaine" ],
   },
 
@@ -1121,14 +1129,14 @@
     en: "Before Sun and Moon",
     ja: "日月前事",
     zhCN: "日月前事",
-    pronunciationJa: "にちげつぜんじ", // TODO Need check
+    pronunciationJa: "にちげつぜんじ",
     tags: [ "item", "inazuma" ],
   },
   {
     en: "The Serpent and Drakes of Tokoyokoku",
     ja: "常世国龍蛇伝",
     zhCN: "常世国龙蛇传",
-    pronunciationJa: "とこよのくにりゅうじゃでん", // TODO Need check
+    pronunciationJa: "とこよのくにりゅうじゃでん",
     tags: [ "item", "inazuma" ],
   },
   {
@@ -1386,7 +1394,7 @@
   {
     en: "Plume of Purifying Light",
     ja: "浄光の羽根",
-    pronunciationJa: "じょうこうのはね", // TODO Need Check
+    pronunciationJa: "じょうこうのはね",
     zhCN: "净光翎",
     tags: [ "item", "sumeru" ],
     pinyins: [{ char: "翎", pron: "ling2" }],
@@ -1495,7 +1503,7 @@
     en: "Hydro Phantasm Taint-B-Gone",
     ja: "濁水幻霊イチコロリ",
     zhCN: "浊水幻灵克星",
-    pronunciationJa: "だくすいげんれいイチコロリ", // TODO Need Check
+    pronunciationJa: "だくすいげんれいイチコロリ",
     tags: [ "item", "fontaine" ],
   },
 
@@ -1573,7 +1581,7 @@
     en: "Sailwind Shadow",
     ja: "帆影に戯る風",
     zhCN: "帆影游风",
-    pronunciationJa: "ほかげにたわむるかぜ", // TODO Need Check
+    pronunciationJa: "ほかげにたわむるかぜ",
     notes: "ガイアのコスチューム",
   },
 ]
