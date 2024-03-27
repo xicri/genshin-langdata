@@ -306,7 +306,7 @@
     zhCN: "千步拦射角分间",
     pronunciationJa: "せんりのすないぱー",
     tags: [ "event" ],
-    notes: "v4.3 期間限定イベントの子イベント",
+    notes: "v4.3 期間限定イベント「薔薇と銃士」の子イベント",
   },
   {
     en: "Trick Shots, Tricky Lights",
@@ -314,21 +314,21 @@
     zhCN: "幻光奇技实录",
     pronunciationJa: "げんこうとりっくれぽーと",
     tags: [ "event" ],
-    notes: "v4.3 期間限定イベントの子イベント",
+    notes: "v4.3 期間限定イベント「薔薇と銃士」の子イベント",
   },
   {
     en: "Xtreme Drive",
     ja: "エクストリームハーダー",
     zhCN: "极限驱策法",
     tags: [ "event" ],
-    notes: "v4.3 期間限定イベントの子イベント",
+    notes: "v4.3 期間限定イベント「薔薇と銃士」の子イベント",
   },
   {
     en: "Into the Frame",
     ja: "イントゥ・ザ・フレーム",
     zhCN: "巧像入帧",
     tags: [ "event" ],
-    notes: "v4.3 期間限定イベントの子イベント",
+    notes: "v4.3 期間限定イベント「薔薇と銃士」の子イベント",
   },
 
   // v4.2
