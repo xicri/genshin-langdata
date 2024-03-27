@@ -226,14 +226,6 @@
     tags: [ "event" ],
     notes: "v4.5 期間限定イベント",
   },
-  {
-    en: "Ley Line Overflow",
-    ja: "地脈の奔流",
-    zhCN: "地脉移涌",
-    pronunciationJa: "ちみゃくのほんりゅう",
-    tags: [ "event" ],
-    notes: "v4.5 期間限定イベントの子イベント",
-  },
 
   // v4.4
   {
@@ -282,13 +274,6 @@
     zhCN: "熠光云行",
     tags: [ "event" ],
     notes: "v4.4 期間限定イベント「春立つ風を梳かす彩鳶」の子イベント",
-  },
-  {
-    en: "Iridescent Cloud-Striding",
-    ja: "雲上の煌行",
-    zhCN: "熠光云行",
-    tags: [ "event" ],
-    notes: "v4.4 期間限定イベントの子イベント",
   },
 
   // v4.3
