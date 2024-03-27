@@ -2204,7 +2204,7 @@
     ja: "玄文獣",
     zhCN: "玄文兽",
     pronunciationJa: "げんもんじゅう",
-    tags: [ "liyue", "enemy", "living-being" ]
+    tags: [ "liyue", "enemy" ]
   },
   {
     en: "Solitary Suanni",
