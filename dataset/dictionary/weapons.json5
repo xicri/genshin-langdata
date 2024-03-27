@@ -1378,7 +1378,7 @@
     en: "Flowing Purity",
     ja: "純水流華",
     zhCN: "纯水流华",
-    pronunciationJa: "じゅんすいりゅうか",
+    pronunciationJa: "じゅんすいるか", // TODO Need Confirmation
     tags: [ "weapon", "catalyst" ],
   },
   {
@@ -1470,14 +1470,14 @@
     en: "Tome of the Eternal Flow",
     ja: "久遠流転の大典",
     zhCN: "万世流涌大典",
-    pronunciationJa: "くおんるてんのたいてん",
+    pronunciationJa: "くおんるてんのだいてん", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
   },
   {
     en: "Cashflow Supervision",
     ja: "凛流の監視者",
     zhCN: "金流监督",
-    "pronunciationJa": "りるのかんししゃ",
+    "pronunciationJa": "りるのかんししゃ", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
   },
   {
