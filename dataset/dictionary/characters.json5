@@ -1112,7 +1112,7 @@
     pronunciationJa: "かんうん",
     "tags": [ "liyue", "character-main" ],
     notes: "留雲借風真君の俗名",
-    notesZh: "留云借风真君/三眼五显仙人",
+    notesZh: "留云借风真君的俗名",
   },
   {
     en: "Gaming",
@@ -1131,7 +1131,7 @@
     zhCN: "萍姥姥",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
     notes: "尊称は歌塵浪市真君",
-    notesZh: "歌尘浪市真君/三眼五显仙人",
+    notesZh: "雅号为“歌尘浪市真君”",
   },
   {
     en: "Streetward Rambler",
@@ -1745,7 +1745,7 @@
     pronunciationJa: "こうしょう",
     tags: [ "liyue", "character-sub" ],
     notes: "削月築陽真君の俗名",
-    notesZh: "削月筑阳真君/三眼五显仙人"
+    notesZh: "削月筑阳真君的俗名",
   },
   {
     en: "Jiehu",
@@ -1754,7 +1754,7 @@
     pronunciationJa: "せっしゃく",
     tags: [ "liyue", "character-sub" ],
     notes: "理水畳山真君の俗名",
-    notesZh: "理水叠山真君/三眼五显仙人"
+    notesZh: "理水叠山真君的俗名",
   },
   {
     en: "Yip Tak",
