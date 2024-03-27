@@ -193,7 +193,7 @@
     zhCN: "铓锋锦间裁",
     pronunciationJa: "ほうじんにしきをたつ",
     tags: [ "event" ],
-    notes: "v4.5 期間限定イベント",
+    notes: "v4.5 バージョンサブタイトル",
   },
   {
     en: "Alchemical Ascension",
@@ -201,7 +201,7 @@
     zhCN: "升炼研巧万策金",
     pronunciationJa: "たくみなるれんきんけいえい",
     tags: [ "event" ],
-    notes: "v4.5 期間限定イベントの子イベント",
+    notes: "v4.5 期間限定イベント",
   },
   {
     en: "Feline Fortress Furrdyssey",
@@ -209,14 +209,14 @@
     zhCN: "茸茸城堡大喵险",
     pronunciationJa: "モフモフのしろにゃんぼうけん",
     tags: [ "event" ],
-    notes: "v4.5 期間限定イベントの子イベント",
+    notes: "v4.5 期間限定イベント",
   },
   {
     en: "Rolling Crossfire",
     ja: "ポヨコロ・クロスファイア",
     zhCN: "圆圆滚滚交叉火力",
     tags: [ "event" ],
-    notes: "v4.5 期間限定イベントの子イベント",
+    notes: "v4.5 期間限定イベント",
   },
   {
     en: "The Great Fayz Reaction Debate",
@@ -224,7 +224,7 @@
     zhCN: "弘辩的溢神效应",
     pronunciationJa: "ゆうべんなフェーイズさよう",
     tags: [ "event" ],
-    notes: "v4.5 期間限定イベントの子イベント",
+    notes: "v4.5 期間限定イベント",
   },
   {
     en: "Ley Line Overflow",
@@ -242,7 +242,7 @@
     zhCN: "彩鹞栉春风",
     pronunciationJa: "いろどるしえんはるすきて",
     tags: [ "event" ],
-    notes: "v4.4 期間限定イベント。海灯祭",
+    notes: "v4.4 バージョンサブタイトル",
   },
   {
     en: "Receiver of Friends From Afar",
