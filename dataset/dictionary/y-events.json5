@@ -275,13 +275,6 @@
     tags: [ "event" ],
     notes: "v4.4 期間限定イベント「春立つ風を梳かす彩鳶」の子イベント",
   },
-  {
-    en: "Iridescent Cloud-Striding",
-    ja: "雲上の煌行",
-    zhCN: "熠光云行",
-    tags: [ "event" ],
-    notes: "v4.4 期間限定イベントの子イベント",
-  },
 
   // v4.3
     {
