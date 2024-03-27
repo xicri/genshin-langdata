@@ -195,8 +195,8 @@
     zhCN: "玉璜古龟",
     pronunciationJa: "ぎょくごうこがめ",
     tags: [ "living-being", "liyue" ],
-    "notes": "遺瓏埠北部の湾内に生息する巨大亀",
-    "notesZh": "一只生活在遗珑埠以北海湾的巨龟"
+    notes: "遺瓏埠北部の湾内に生息する巨大亀",
+    notesZh: "一只生活在遗珑埠以北海湾的巨龟",
   },
   {
     en: "Velvetfall Duck",
@@ -209,7 +209,7 @@
     en: "Jade Heartfeather Bass",
     ja: "ヒスイのハートフェザースズキ",
     zhCN: "玉玉心羽鲈",
-    tags: [ "living-being", "liyue", "item" ]
+    tags: [ "living-being", "liyue", "item" ],
   },
 
   //

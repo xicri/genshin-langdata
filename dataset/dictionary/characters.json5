@@ -1104,13 +1104,14 @@
     pronunciationJa: "がんしん",
     variants: {
       en: [ "Geo God", "God of Geo" ],
+    },
   },
   {
     en: "Xianyun",
     ja: "閑雲",
     zhCN: "闲云",
     pronunciationJa: "かんうん",
-    "tags": [ "liyue", "character-main" ],
+    tags: [ "liyue", "character-main" ],
     notes: "留雲借風真君の俗名",
     notesZh: "留云借风真君的俗名",
   },
@@ -1119,7 +1120,7 @@
     ja: "嘉明",
     zhCN: "嘉明",
     pronunciationJa: "がみん",
-    "tags": [ "liyue", "character-main" ],
+    tags: [ "liyue", "character-main" ],
   },
 
   //

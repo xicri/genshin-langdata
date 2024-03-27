@@ -2204,13 +2204,13 @@
     ja: "玄文獣",
     zhCN: "玄文兽",
     pronunciationJa: "げんもんじゅう",
-    tags: [ "liyue", "enemy" ]
+    tags: [ "liyue", "enemy" ],
   },
   {
     en: "Solitary Suanni",
     ja: "山隠れの猊獣",
     zhCN: "隐山猊兽",
     pronunciationJa: "やまがくれのげいじゅう",
-    tags: [ "liyue", "enemy-boss" ]
+    tags: [ "liyue", "enemy-boss" ],
   },
 ]
