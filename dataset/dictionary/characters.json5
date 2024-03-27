@@ -1111,7 +1111,7 @@
     zhCN: "闲云",
     pronunciationJa: "かんうん",
     "tags": [ "liyue", "character-main" ],
-    notes: "留雲借風真君/三眼五顯仙人",
+    notes: "留雲借風真君の俗名",
     notesZh: "留云借风真君/三眼五显仙人",
   },
   {
@@ -1130,7 +1130,7 @@
     ja: "ピンばあや",
     zhCN: "萍姥姥",
     tags: [ "liyue", "character-sub", "sereniteapot" ],
-    notes: "歌塵浪市真君/三眼五顯仙人",
+    notes: "尊称は歌塵浪市真君",
     notesZh: "歌尘浪市真君/三眼五显仙人",
   },
   {
@@ -1682,7 +1682,7 @@
     zhCN: "浮锦",
     pronunciationJa: "ふきん",
     tags: [ "liyue", "character-sub" ],
-    notes: "名もなき魔神眷属の仙人",
+    notes: "世界任務「沈玉の祝福」などに登場する、名もなき魔神眷属の仙人",
     notesZh: "仙人是无名魔神的仆从",
   },
   {
@@ -1744,7 +1744,7 @@
     zhCN: "侯章",
     pronunciationJa: "こうしょう",
     tags: [ "liyue", "character-sub" ],
-    notes: "削月築陽真君/三眼五顯仙人",
+    notes: "削月築陽真君の俗名",
     notesZh: "削月筑阳真君/三眼五显仙人"
   },
   {
@@ -1753,7 +1753,7 @@
     zhCN: "接笏",
     pronunciationJa: "せっしゃく",
     tags: [ "liyue", "character-sub" ],
-    notes: "理水畳山真君/三眼五顯仙人",
+    notes: "理水畳山真君の俗名",
     notesZh: "理水叠山真君/三眼五显仙人"
   },
   {

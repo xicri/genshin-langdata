@@ -266,7 +266,7 @@
     zhCN: "纸影寻肴",
     pronunciationJa: "かこうをもとめるかみのたび",
     tags: [ "event" ],
-    notes: "v4.4 期間限定イベントの子イベント",
+    notes: "v4.4 期間限定イベント「春立つ風を梳かす彩鳶」の子イベント",
   },
   {
     en: "Joyful Beasts and Their Auspices",
@@ -274,14 +274,14 @@
     zhCN: "瑞兽欢跃",
     pronunciationJa: "きんきじゅうやく",
     tags: [ "event" ],
-    notes: "v4.4 期間限定イベントの子イベント",
+    notes: "v4.4 期間限定イベント「春立つ風を梳かす彩鳶」の子イベント",
   },
   {
     en: "Iridescent Cloud-Striding",
     ja: "雲上の煌行",
     zhCN: "熠光云行",
     tags: [ "event" ],
-    notes: "v4.4 期間限定イベントの子イベント",
+    notes: "v4.4 期間限定イベント「春立つ風を梳かす彩鳶」の子イベント",
   },
   {
     en: "Iridescent Cloud-Striding",
@@ -298,7 +298,7 @@
     zhCN: "蔷薇与铳枪",
     pronunciationJa: "ばらとじゅうし",
     tags: [ "event" ],
-    notes: "v4.3 期間限定イベント",
+    notes: "v4.3 バージョンサブタイトル、及び期間限定イベント名",
   },
   {
     en: "Thousand-Pace Interdiction Arcminute Sharpshooting Zone",
