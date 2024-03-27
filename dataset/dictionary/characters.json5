@@ -1111,7 +1111,7 @@
     ja: "閑雲",
     zhCN: "闲云",
     pronunciationJa: "かんうん",
-    "tags": [ "liyue", "character-main" ],
+    tags: [ "liyue", "character-main" ],
     notes: "留雲借風真君の俗名",
     notesZh: "留云借风真君的俗名",
   },
@@ -1120,7 +1120,7 @@
     ja: "嘉明",
     zhCN: "嘉明",
     pronunciationJa: "がみん",
-    "tags": [ "liyue", "character-main" ],
+    tags: [ "liyue", "character-main" ],
   },
 
   //
@@ -1746,7 +1746,7 @@
     pronunciationJa: "こうしょう",
     tags: [ "liyue", "character-sub" ],
     notes: "削月築陽真君の俗名",
-    notesZh: "削月筑阳真君/三眼五显仙人"
+    notesZh: "削月筑阳真君/三眼五显仙人",
   },
   {
     en: "Jiehu",
@@ -1755,7 +1755,7 @@
     pronunciationJa: "せっしゃく",
     tags: [ "liyue", "character-sub" ],
     notes: "理水畳山真君の俗名",
-    notesZh: "理水叠山真君/三眼五显仙人"
+    notesZh: "理水叠山真君/三眼五显仙人",
   },
   {
     en: "Yip Tak",

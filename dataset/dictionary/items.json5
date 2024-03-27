@@ -186,7 +186,7 @@
     ja: "蒼霊の鯉",
     zhCN: "苍灵鲤",
     pronunciationJa: "そうれいのこい",
-    tags: [ "item", "liyue" ]
+    tags: [ "item", "liyue" ],
   },
   {
     en: "Crystal Core",
