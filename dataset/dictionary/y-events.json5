@@ -216,7 +216,7 @@
     ja: "ポヨコロ・クロスファイア",
     zhCN: "圆圆滚滚交叉火力",
     tags: [ "event" ],
-    notes: "v4.5 期間限定イベントの子イベント",
+    notes: "v4.5 期間限定イベント",
   },
   {
     en: "The Great Fayz Reaction Debate",
