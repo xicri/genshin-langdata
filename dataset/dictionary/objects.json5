@@ -243,6 +243,7 @@
     en: "Guizhong Ballista",
     ja: "帰終機",
     zhCN: "归终机",
+    pronunciationJa: "きしゅうき",
     tags: [ "object", "liyue" ],
   },
   {
@@ -269,6 +270,13 @@
     ja: "太威儀盤",
     zhCN: "太威仪盘",
     pronunciationJa: "たいぎばん",
+    tags: [ "object", "liyue" ],
+  },
+  {
+    en: "Carefree Simulacrum",
+    ja: "仙像",
+    zhCN: "仙像",
+    pronunciationJa: "せんぞう",
     tags: [ "object", "liyue" ],
   },
 

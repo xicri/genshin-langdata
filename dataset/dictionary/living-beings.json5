@@ -166,12 +166,66 @@
 
 
   //
+  // Liyue
+  //
+  {
+    en: "Redbill Pelican",
+    ja: "赤喙ペリカン",
+    zhCN: "朱喙鹈鹕",
+    pronunciationJa: "あかくちばしぺりかん",
+    tags: [ "living-being", "liyue" ],
+  },
+  {
+    en: "Fluff-Fleece Goat",
+    ja: "フワフワヤギ",
+    zhCN: "柔柔羊",
+    pronunciationJa: "ふわふわやぎ",
+    tags: [ "living-being", "liyue" ],
+  },
+  {
+    en: "Jadestone Turtle",
+    ja: "玉璜ガメ",
+    zhCN: "玉璜龟",
+    pronunciationJa: "ぎょくごうがめ",
+    tags: [ "living-being", "liyue" ],
+  },
+  {
+    en: "Venerable Jadestone Turtle",
+    ja: "玉璜古ガメ",
+    zhCN: "玉璜古龟",
+    pronunciationJa: "ぎょくごうこがめ",
+    tags: [ "living-being", "liyue" ],
+    notes: "遺瓏埠北部の湾内に生息する巨大亀",
+    notesZh: "一只生活在遗珑埠以北海湾的巨龟",
+  },
+  {
+    en: "Velvetfall Duck",
+    ja: "秋羽鴨",
+    zhCN: "秋绒鸭",
+    pronunciationJa: "しゅううかも", // TODO Need Check
+    tags: [ "living-being", "liyue" ],
+  },
+  {
+    en: "Jade Heartfeather Bass",
+    ja: "ヒスイのハートフェザースズキ",
+    zhCN: "玉玉心羽鲈",
+    tags: [ "living-being", "liyue", "item" ],
+  },
+
+  //
   // Liyue ― The Casm
   //
   {
     en: "Lucklight Fly",
     ja: "吉光虫",
     zhCN: "吉光虫",
+    tags: [ "living-being", "liyue" ],
+  },
+  {
+    en: "Malachitin Lumibug",
+    ja: "玉光虫",
+    zhCN: "珉光虫",
+    pronunciationJa: "ぎょくこうちゅう",
     tags: [ "living-being", "liyue" ],
   },
 
