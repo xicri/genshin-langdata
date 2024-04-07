@@ -1146,7 +1146,7 @@
       ja: [ "終焉" ],
       zhCN: [ "终末弓" ],
     },
-    pinyins: [{ char: "嗟", pron: "jie2" }],
+    pinyins: [{ char: "嗟", pron: "jie1" }],
   },
   {
     en: "Thundering Pulse",
