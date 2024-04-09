@@ -1129,14 +1129,14 @@
     en: "Before Sun and Moon",
     ja: "日月前事",
     zhCN: "日月前事",
-    pronunciationJa: "にちげつぜんじ",
+    pronunciationJa: "にちげつぜんじ", // TODO Need check
     tags: [ "item", "inazuma" ],
   },
   {
     en: "The Serpent and Drakes of Tokoyokoku",
     ja: "常世国龍蛇伝",
     zhCN: "常世国龙蛇传",
-    pronunciationJa: "とこよのくにりゅうじゃでん",
+    pronunciationJa: "とこよのくにりゅうじゃでん", // TODO Need check
     tags: [ "item", "inazuma" ],
   },
   {
@@ -1394,7 +1394,7 @@
   {
     en: "Plume of Purifying Light",
     ja: "浄光の羽根",
-    pronunciationJa: "じょうこうのはね",
+    pronunciationJa: "じょうこうのはね", // TODO Need Check
     zhCN: "净光翎",
     tags: [ "item", "sumeru" ],
     pinyins: [{ char: "翎", pron: "ling2" }],
@@ -1503,7 +1503,7 @@
     en: "Hydro Phantasm Taint-B-Gone",
     ja: "濁水幻霊イチコロリ",
     zhCN: "浊水幻灵克星",
-    pronunciationJa: "だくすいげんれいイチコロリ",
+    pronunciationJa: "だくすいげんれいイチコロリ", // TODO Need Check
     tags: [ "item", "fontaine" ],
   },
 
@@ -1581,7 +1581,7 @@
     en: "Sailwind Shadow",
     ja: "帆影に戯る風",
     zhCN: "帆影游风",
-    pronunciationJa: "ほかげにたわむるかぜ",
+    pronunciationJa: "ほかげにたわむるかぜ", // TODO Need Check
     notes: "ガイアのコスチューム",
   },
 ]

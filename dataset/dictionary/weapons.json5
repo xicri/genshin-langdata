@@ -243,7 +243,7 @@
     en: "Wolf-Fang",
     ja: "狼牙",
     zhCN: "狼牙",
-    pronunciationJa: "ろうが",
+    pronunciationJa: "ろうが", // TODO Need Check
     tags: [ "weapon", "sword" ],
   },
   {
@@ -1105,7 +1105,7 @@
     en: "Scion of the Blazing Sun",
     ja: "烈日の後嗣",
     zhCN: "烈阳之嗣",
-    pronunciationJa: "れつじつのこうし",
+    pronunciationJa: "れつじつのこうし", // TODO Need Check
     tags: [ "weapon", "bow" ],
   },
   {
@@ -1417,7 +1417,7 @@
     en: "Memory of Dust",
     ja: "浮世の錠",
     zhCN: "尘世之锁",
-    pronunciationJa: "うきよのじょう",
+    pronunciationJa: "うきよのじょう", // TODO Need check
     tags: [ "weapon", "catalyst" ],
     variants: {
       zhCN: [ "痛苦锁" ],
@@ -1462,7 +1462,7 @@
     en: "Jadefall's Splendor",
     ja: "碧落の瓏",
     zhCN: "碧落之珑",
-    // pronunciationJa: "へきらくのろう",
+    // pronunciationJa: "へきらくのろう", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
     pinyins: [{ char: "珑", pron: "long2" }],
   },
