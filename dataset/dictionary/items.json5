@@ -178,7 +178,15 @@
     en: "Crimson Agate",
     ja: "緋紅玉髄",
     zhCN: "绯红玉髓",
+    pronunciationJa: "ひこうぎょくずい", // TODO Need Check
     tags: [ "item", "dragonspine" ],
+  },
+  {
+    en: "Spirit Carp",
+    ja: "蒼霊の鯉",
+    zhCN: "苍灵鲤",
+    pronunciationJa: "そうれいのこい",
+    tags: [ "item", "liyue" ],
   },
   {
     en: "Crystal Core",
