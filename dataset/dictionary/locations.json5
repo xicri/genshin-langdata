@@ -760,7 +760,6 @@
     tags: [ "liyue", "location" ],
   },
   {
-    // The following place name translation is incorrect, so check it on PS5 <a href=\"https://genshin-impact.fandom.com/wiki/Mt._Xuanlian\">
     en: "Mt. Xuanlian",
     ja: "懸練山",
     zhCN: "悬练山",
