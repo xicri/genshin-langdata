@@ -13,7 +13,6 @@
     "todo": "node scripts/todo.js",
     "test": "npm run build && NODE_OPTIONS=--experimental-vm-modules jest",
     "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
-    "lint_windows": "(for /r %i in (*.json5) do (json5 %i --validate)) & eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
     "release": "run-p release:*",
     "release:pages": "scripts/release-pages.sh",
     "release:minhon": "node scripts/release-minhon.js",
