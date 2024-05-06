@@ -784,14 +784,6 @@
     notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」に登場する純水精霊",
     notesZh: "v4.1 活动「游水酝诗籍」的纯水精灵",
   },
-  {
-    en: "Sir Pouncelot",
-    ja: "橙色騎士",
-    zhCN: "大桔骑士",
-    pronunciationJa: "おれんじきし",
-    tags: [ "mondstadt", "character-sub" ],
-    notes: "v4.5 期間限定イベント「モフモフの城にゃん冒険」に登場する猫",
-  },
 
   //
   // Liyue - Main Characters
