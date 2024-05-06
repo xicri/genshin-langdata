@@ -4382,8 +4382,8 @@
     en: "Peruere",
     ja: "ペルヴェーレ",
     zhCN: "佩露薇利",
-    tags: [ "fontaine", "character-sub" ],
-    notes: "「アルレッキーノ」の本名",
+    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss" ],
+    notes: "アルレッキーノの本名",
   },
   {
     en: "Crucabena",
@@ -4666,7 +4666,7 @@
     zhCN: "阿蕾奇诺",
     notes: "[召使](/the-knave/)の通称",
     notesZh: "[仆人](/the-knave/)的通称",
-    tags: [ "snezhnaya", "fontaine", "character-main" ],
+    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss" ],
   },
   {
     en: "The Knave",
@@ -4675,7 +4675,7 @@
     pronunciationJa: "めしつかい",
     notes: "[アルレッキーノ](/arlecchino/)のコードネーム",
     notesZh: "[阿蕾奇诺](/arlecchino/)的代号",
-    tags: [ "snezhnaya", "fontaine", "character-main", "title" ],
+    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss", "title" ],
   },
   {
     en: "Sandrone",
