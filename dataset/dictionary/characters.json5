@@ -2683,6 +2683,12 @@
     zhCN: "布耶尔",
     tags: [ "sumeru", "title" ],
   },
+  {
+    en: "Sethos",
+    ja: "セトス",
+    zhCN: "赛索斯",
+    tags: [ "sumeru", "character-main" ],
+  },
 
   //
   // Sumeru - NPCs
@@ -4364,6 +4370,51 @@
     zhCN: "纳齐森科鲁兹",
     tags: [ "fontaine", "character-sub" ],
   },
+  {
+    en: "Peruere",
+    ja: "ペルヴェーレ",
+    zhCN: "佩露薇利",
+    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss" ],
+    notes: "アルレッキーノの本名",
+  },
+  {
+    en: "Crucabena",
+    ja: "クルセビナ",
+    zhCN: "库嘉维娜",
+    tags: [ "snezhnaya", "fontaine", "character-sub" ],
+    notes: "先代の「召使」",
+  },
+  {
+    en: "Clervie",
+    ja: "クリーヴ",
+    zhCN: "克雷薇",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Osse",
+    ja: "ウッスー",
+    zhCN: "小呜斯",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "「ウラノポリスのウラニデス」の略称",
+  },
+  {
+    en: "Boethius",
+    ja: "ボエティウス",
+    zhCN: "波爱修斯",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Scylla",
+    ja: "スキュラ",
+    zhCN: "斯库拉",
+    tags: [ "fontaine", "character-sub" ],
+  },
+  {
+    en: "Cassiodo",
+    ja: "カッシオドル",
+    zhCN: "卡西奥多",
+    tags: [ "fontaine", "character-sub" ],
+  },
 
   //
   // Natlan
@@ -4607,7 +4658,7 @@
     zhCN: "阿蕾奇诺",
     notes: "[召使](/the-knave/)の通称",
     notesZh: "[仆人](/the-knave/)的通称",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss" ],
   },
   {
     en: "The Knave",
@@ -4616,7 +4667,7 @@
     pronunciationJa: "めしつかい",
     notes: "[アルレッキーノ](/arlecchino/)のコードネーム",
     notesZh: "[阿蕾奇诺](/arlecchino/)的代号",
-    tags: [ "snezhnaya", "character-sub", "title" ],
+    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss", "title" ],
   },
   {
     en: "Sandrone",

@@ -212,6 +212,14 @@
     notes: "v4.5 期間限定イベント",
   },
   {
+    en: "Sir Pouncelot",
+    ja: "橙色騎士",
+    zhCN: "大桔骑士",
+    pronunciationJa: "おれんじきし",
+    tags: [ "event", "mondstadt", "character-sub" ],
+    notes: "v4.5 期間限定イベント「モフモフの城にゃん冒険」に登場する猫",
+  },
+  {
     en: "Rolling Crossfire",
     ja: "ポヨコロ・クロスファイア",
     zhCN: "圆圆滚滚交叉火力",
