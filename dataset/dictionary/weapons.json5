@@ -1519,4 +1519,11 @@
     notes: "v4.5 期間限定イベント「巧みなる錬金経営」報酬",
     notesZh: "v4.5 活动「升炼研巧万策金」奖励",
   },
+  {
+    en: "Crimson Moon's Semblance",
+    ja: "赤月のシルエット",
+    zhCN: "赤月之形",
+    pronunciationJa: "あかつきのシルエット", // TODO Need Check
+    tags: [ "weapon", "polearm" ],
+  },
 ]

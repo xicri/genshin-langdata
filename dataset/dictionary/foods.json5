@@ -1111,6 +1111,25 @@
     zhCN: "仙跳墙",
     tags: [ "food" ],
   },
+  {
+    en: "Haggis",
+    ja: "ハギス",
+    zhCN: "羊杂哈吉斯",
+    tags: [ "food" ],
+  },
+  {
+    en: "Bulle Souffle",
+    ja: "バブルスフレ",
+    zhCN: "泡泡舒芙蕾",
+    tags: [ "food" ],
+  },
+  {
+    en: "Mega-Meaty Sushi",
+    ja: "お肉たっぷり寿司",
+    zhCN: "肉满满寿司",
+    tags: [ "food" ],
+    notes: "スシローコラボ「回転の宴」",
+  },
 
   //
   // Specialties (オリジナル料理)
@@ -1412,6 +1431,14 @@
     notes: "申鶴のオリジナル料理",
   },
   // ▲▲ Unconfirmed ▲▲
+  {
+    en: "Encompassing Gladness",
+    ja: "四喜円満",
+    zhCN: "四喜圆满",
+    pronunciationJa: "しきえんまん", // TODO Need Check
+    tags: [ "food", "liyue" ],
+    notes: "閑雲のオリジナル料理",
+  },
 
   // Inazuma
   {

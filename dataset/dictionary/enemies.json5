@@ -2213,4 +2213,26 @@
     pronunciationJa: "やまがくれのげいじゅう",
     tags: [ "liyue", "enemy-boss" ],
   },
+  {
+    en: "Statue of Marble and Brass",
+    ja: "白石と黄銅の彫像",
+    zhCN: "白石与黄铜的造像",
+    pronunciationJa: "はくせきとおうどうのちょうぞう",
+    tags: [ "fontaine", "enemy-boss" ],
+    notes: "「魔像レガトゥス」の通称",
+  },
+  {
+    en: "Legatus Golem",
+    ja: "魔像レガトゥス",
+    zhCN: "魔像督军",
+    pronunciationJa: "まぞうレガトゥス",
+    tags: [ "fontaine", "enemy-boss" ],
+  },
+  {
+    en: "Praetorian Golem",
+    ja: "魔像プラエトリアニ",
+    zhCN: "魔像禁卫",
+    pronunciationJa: "まぞうプラエトリアニ",
+    tags: [ "fontaine", "enemy" ],
+  },
 ]

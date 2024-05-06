@@ -431,4 +431,31 @@
     tags: [ "liyue", "drop-boss" ],
     notes: "山隠れの猊獣のドロップアイテム",
   },
+  {
+    en: "Fragment of a Golden Melody",
+    ja: "金色の旋律の断章",
+    zhCN: "金色旋律的断章",
+    tags: [ "fontaine", "drop-boss" ],
+  },
+  {
+    en: "Silken Feather",
+    ja: "絹織りの羽",
+    zhCN: "丝织之羽",
+    pronunciationJa: "きぬおりのはね",
+    tags: [ "fontaine", "drop-boss" ],
+  },
+  {
+    en: "Denial and Judgment",
+    ja: "否定と裁決",
+    zhCN: "否定裁断",
+    pronunciationJa: "ひていとさいけつ",
+    tags: [ "fontaine", "drop-boss" ],
+  },
+  {
+    en: "Fading Candle",
+    ja: "残火の灯燭",
+    zhCN: "残火灯烛",
+    pronunciationJa: "ざんかのとうそく",
+    tags: [ "fontaine", "drop-boss" ],
+  },
 ]

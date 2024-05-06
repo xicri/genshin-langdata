@@ -2163,10 +2163,10 @@
 
   {
     en: "Petrichor",
-    ja: "ペトリコール",
+    ja: "ペトリコール町",
     zhCN: "佩特莉可",
+    pronunciationJa: "ペトリコールちょう",
     tags: [ "fontaine", "location" ],
-    notes: "恐らくフォンテーヌの地名。v2.8 期間限定イベント「からくり械画」でフェリックス・ユーグが言及。",
   },
   {
     en: "Morte Region",
@@ -2240,6 +2240,60 @@
     en: "Tower of Ipsissimus",
     ja: "イプシシマスの塔",
     zhCN: "自体自身之塔",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Nostoi Region",
+    ja: "ノストイ地区",
+    zhCN: "诺思托伊区",
+    pronunciationJa: "ノストイちく",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Faded Castle",
+    ja: "色褪せた城",
+    zhCN: "褪色古堡",
+    pronunciationJa: "いろあせたしろ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Sea of Bygone Eras",
+    ja: "往日の海",
+    zhCN: "旧日之海",
+    pronunciationJa: "おうじつのうみ",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Initinum Iani",
+    ja: "ヤヌスの門",
+    zhCN: "雅努斯之门",
+    pronunciationJa: "ヤヌスのもん",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Hortus Euergetis",
+    ja: "ホルトゥス・ユーゲレティス",
+    zhCN: "优恩花园",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Alta Semita",
+    ja: "アルタ・セミタ",
+    zhCN: "崇高大道",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Clivus Capitolinus",
+    ja: "アピトリヌス山",
+    zhCN: "卡皮托林山",
+    pronunciationJa: "アピトリヌスさん",
+    tags: [ "fontaine", "location" ],
+  },
+  {
+    en: "Collegium Phonascorum",
+    ja: "諧律院",
+    zhCN: "谐律院",
+    pronunciationJa: "かいりついん",
     tags: [ "fontaine", "location" ],
   },
 

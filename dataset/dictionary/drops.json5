@@ -732,4 +732,46 @@
     pronunciationJa: "せいすいぎょく",
     tags: [ "liyue", "drop" ],
   },
+  {
+    en: "Chasmlight Fin",
+    ja: "淵光の羽鰭",
+    zhCN: "渊光鳍翅",
+    pronunciationJa: "えんこうのうき", // TODO Need Check
+    tags: [ "liyue", "drop" ],
+  },
+  {
+    en: "Lunar Fin",
+    ja: "月光の羽鰭",
+    zhCN: "月色鳍翅",
+    pronunciationJa: "げっこうのうき", // TODO Need Check
+    tags: [ "liyue", "drop" ],
+  },
+  {
+    en: "Feathery Fin",
+    ja: "翼状の羽鰭",
+    zhCN: "羽状鳍翅",
+    pronunciationJa: "よくじょうのうき", // TODO Need Check
+    tags: [ "liyue", "drop" ],
+  },
+  {
+    en: "Still-Smoldering Hilt",
+    ja: "光揺らぐ剣の柄",
+    zhCN: "未熄的剑柄",
+    pronunciationJa: "ひかりゆらぐけんのつか",
+    tags: [ "fontaine", "drop" ],
+  },
+  {
+    en: "Splintered Hilt",
+    ja: "折れた剣の柄",
+    zhCN: "裂断的剑柄",
+    pronunciationJa: "おれたけんのつか",
+    tags: [ "fontaine", "drop" ],
+  },
+  {
+    en: "Ruined Hilt",
+    ja: "砕けた剣の柄",
+    zhCN: "残毁的剑柄",
+    pronunciationJa: "くだけたけんのつか",
+    tags: [ "fontaine", "drop" ],
+  },
 ]
