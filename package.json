@@ -4,7 +4,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "type": "module",
   "engines": {
-    "node": "20.x",
+    "node": "22.x",
     "npm": ">=10.0.0"
   },
   "scripts": {
