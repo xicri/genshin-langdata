@@ -1,3 +1,4 @@
+import { expect, test } from "vitest";
 import tags from "../dataset/tags.json";
 
 test("property values of tag JSON complies the format.", async () => {

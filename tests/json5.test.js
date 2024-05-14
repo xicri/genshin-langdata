@@ -1,4 +1,5 @@
 import { ok } from "assert";
+import { expect, test } from "vitest";
 
 import tags from "../dataset/tags.json";
 import words from "../dist/words.json";
