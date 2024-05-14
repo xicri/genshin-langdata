@@ -14,7 +14,7 @@ if [[ "${CI}" == "true" && -z "${CLOUDFLARE_API_TOKEN-}" ]]; then
 fi
 
 if [[ "${NODE_ENV}" == "production" ]]; then
-  npx wrangler pages publish ./dist --project-name=genshin-langdata
+  npx wrangler pages deploy ./dist --project-name=genshin-langdata
 else
-  npx wrangler pages publish ./dist --project-name=genshin-langdata --branch="${CLOUDFLARE_PAGES_BRANCH}"
+  npx wrangler pages deploy ./dist --project-name=genshin-langdata --branch="${CLOUDFLARE_PAGES_BRANCH}"
 fi
