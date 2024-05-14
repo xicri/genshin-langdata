@@ -2,6 +2,7 @@ import { readFile } from "fs/promises";
 import { DateTime } from "luxon";
 import { resolve } from "path";
 import { fileURLToPath } from "url";
+import { expect, test, beforeAll, afterAll } from "vitest";
 
 import { Dictionary } from "../libs/dictionary.js";
 
