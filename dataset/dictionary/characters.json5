@@ -553,9 +553,9 @@
     notesZh: "魔女会代号M。《野猪公主》的作者。",
   },
   {
-    en: "Nicole",
-    ja: "ニコ",
-    zhCN: "尼可",
+    en: "Nicole Reeyn",
+    ja: "ニコ・リヤン",
+    zhCN: "尼可·莱恩",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードN。英語版における発音は「ニコル」",
     notesZh: "魔女会代号N。",
@@ -2689,6 +2689,24 @@
     zhCN: "赛索斯",
     tags: [ "sumeru", "character-main" ],
   },
+  {
+    en: "Aarav",
+    ja: "アーラヴ",
+    zhCN: "阿拉夫",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Bamoun",
+    ja: "バムーン",
+    zhCN: "巴穆恩",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Naphis",
+    ja: "ナフィス",
+    zhCN: "纳菲斯",
+    tags: [ "sumeru", "character-sub" ],
+  },
 
   //
   // Sumeru - NPCs
@@ -4008,23 +4026,44 @@
     notes: "水仙十字結社の一員。世界任務「古き色合い」などに登場する人物",
   },
   {
+    en: "Lyris",
+    ja: "リリス",
+    zhCN: "莉利丝",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "世界任務「まだ終わらない物語」などに登場する純水精霊",
+  },
+  {
     en: "Mary-Ann",
     ja: "マリアン",
     zhCN: "玛丽安",
     tags: [ "fontaine", "character-sub" ],
-    notes: "世界任務「水仙のアン」などに登場する人物",
+    notes: "世界任務「水仙のアン」などに登場する純水精霊。またはマリアン・ギヨタンのファーストネーム",
   },
   {
-    en: "Karl",
-    ja: "カール",
-    zhCN: "卡尔",
+    en: "Mary-Ann Guillotin",
+    ja: "マリアン・ギヨタン",
+    zhCN: "玛丽安·吉约丹",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "純水精霊のマリアンとは別人格の人間",
+  },
+  {
+    en: "Rene de Petrichor",
+    ja: "ルネ・ド・ペトリコール",
+    zhCN: "雷内·德·佩特莉可",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "水仙十字結社の一員。ナルツィッセンクロイツの人間時代の名前",
+  },
+  {
+    en: "Karl Ingold",
+    ja: "カール・インゴルド",
+    zhCN: "卡尔·英戈德",
     tags: [ "fontaine", "character-sub" ],
     notes: "日本語版では通例「カールおじさん」と呼ばれるが、英語版には「おじさん」に該当する表現はなく、単に \"Karl\" と呼ばれている",
   },
   {
-    en: "Carter",
-    ja: "カーター",
-    zhCN: "卡特",
+    en: "Carter Scherbius",
+    ja: "カーター・シェルビウス",
+    zhCN: "卡特·谢尔比乌斯",
     tags: [ "fontaine", "character-sub" ],
   },
   {
@@ -4410,7 +4449,7 @@
     tags: [ "fontaine", "character-sub" ],
   },
   {
-    en: "Cassiodo",
+    en: "Cassiodor",
     ja: "カッシオドル",
     zhCN: "卡西奥多",
     tags: [ "fontaine", "character-sub" ],

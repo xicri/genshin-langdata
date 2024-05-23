@@ -490,6 +490,19 @@
     pronunciationJa: "つりいとあんていそうち",
     tags: [ "item" ],
   },
+  {
+    en: "Ancient Autoharmonic Music Box",
+    ja: "古いオルゴール",
+    zhCN: "古老的自鸣音乐盒",
+    pronunciationJa: "ふるいオルゴール",
+    tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Nightwind Horn",
+    ja: "ナイトウィンド・ホルン",
+    zhCN: "晚风圆号",
+    tags: [ "item" ],
+  },
 
   //
   // Character EXP Material
@@ -1196,6 +1209,33 @@
     en: "Tales of a Snow-Winged Goose",
     ja: "雪羽ガン童話集",
     zhCN: "雪翅雁童话集",
+    tags: [ "fontaine", "item" ],
+  },
+  {
+    en: "Time Trekker",
+    ja: "時の旅人",
+    zhCN: "旅时者",
+    pronunciationJa: "ときのたびびと",
+    tags: [ "fontaine", "item" ],
+  },
+  {
+    en: "Perinheri",
+    ja: "ペインヘリ",
+    zhCN: "裴伦埃里",
+    tags: [ "fontaine", "item" ],
+  },
+  {
+    en: "Anecdota Septentrionalis",
+    ja: "北方秘史",
+    zhCN: "北境秘史",
+    pronunciationJa: "ほっぽうひし", // TODO Need Check
+    tags: [ "fontaine", "item" ],
+  },
+  {
+    en: "The Two Musketeers",
+    ja: "二銃士",
+    zhCN: "两个铳枪手",
+    pronunciationJa: "にじゅうし",
     tags: [ "fontaine", "item" ],
   },
 

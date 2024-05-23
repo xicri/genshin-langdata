@@ -1835,6 +1835,12 @@
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "跋", pron: "ba2" }],
   },
+  {
+    en: "Tulaytullah",
+    ja: "トゥライトゥーラ",
+    zhCN: "图莱杜拉",
+    tags: [ "sumeru", "location" ],
+  },
   // Underground
   {
     en: "Madinat al-Nuhas",
@@ -1887,7 +1893,7 @@
     ja: "ダーリ人 / ダーリの",
     zhCN: "荼诃人 / 荼诃的",
     pronunciationJa: "ダーリじん / ダーリの",
-    tags: [ "sumeru" /* , "khaenriah" */ ],
+    tags: [ "sumeru" /* , "khaenriah" */, "organization" ],
     notes: "スメールの言葉でカーンルイアを指す言葉「ダーリ」(Dahri) の派生型",
   },
 
@@ -2338,6 +2344,6 @@
     ja: "カーンルイア人 / カーンルイアの",
     zhCN: "坎瑞亚人 / 坎瑞亚的",
     pronunciationJa: "カーンルイアじん / カーンルイアの",
-    tags: [ "khaenriah" ],
+    tags: [ "khaenriah", "organization" ],
   },
 ]

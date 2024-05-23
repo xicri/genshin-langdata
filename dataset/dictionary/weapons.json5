@@ -1523,7 +1523,8 @@
     en: "Crimson Moon's Semblance",
     ja: "赤月のシルエット",
     zhCN: "赤月之形",
-    pronunciationJa: "あかつきのシルエット", // TODO Need Check
+    pronunciationJa: "せきげつのシルエット",
     tags: [ "weapon", "polearm" ],
+    notes: "アルレッキーノを知る・５のボイスで確認",
   },
 ]
