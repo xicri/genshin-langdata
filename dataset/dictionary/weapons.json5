@@ -1523,8 +1523,7 @@
     en: "Crimson Moon's Semblance",
     ja: "赤月のシルエット",
     zhCN: "赤月之形",
-    pronunciationJa: "せきげつのシルエット",
+    pronunciationJa: "せきげつのシルエット", // Source: Voice over ― More About Arlecchino: V (アルレッキーノを知る・5)
     tags: [ "weapon", "polearm" ],
-    notes: "アルレッキーノを知る・５のボイスで確認",
   },
 ]
