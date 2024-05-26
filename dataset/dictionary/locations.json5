@@ -1835,6 +1835,12 @@
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "跋", pron: "ba2" }],
   },
+  {
+    en: "Tulaytullah",
+    ja: "トゥライトゥーラ",
+    zhCN: "图莱杜拉",
+    tags: [ "sumeru", "location" ],
+  },
   // Underground
   {
     en: "Madinat al-Nuhas",

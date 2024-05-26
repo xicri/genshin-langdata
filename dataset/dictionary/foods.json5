@@ -1646,6 +1646,21 @@
     tags: [ "food", "fontaine" ],
     notes: "リネットのオリジナル料理",
   },
+  {
+    en: "Sin: The Kind that Doesn't Need to be Dealt With",
+    ja: "罪・対処不必要型",
+    zhCN: "罪恶·非必要处理型",
+    pronunciationJa: "つみたいしょふひつようがた", // TODO Need Check
+    tags: [ "food", "fontaine" ],
+    notes: "シュヴルーズのオリジナル料理",
+  },
+  {
+    en: "Fashion Show",
+    ja: "ファッションショー",
+    zhCN: "时装秀",
+    tags: [ "food", "fontaine" ],
+    notes: "千織のオリジナル料理",
+  },
 
   //
   // Ingredients (食材)

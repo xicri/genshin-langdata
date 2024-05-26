@@ -371,6 +371,19 @@
     tags: [ "sumeru", "organization" ],
     notes: "スケプティック団の、雨林側からの呼び方",
   },
+  {
+    en: "Tighnarians",
+    ja: "ティナル人",
+    zhCN: "提纳勒人",
+    pronunciationJa: "ティナルじん",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Valka Shuna",
+    ja: "ワルカシュナ",
+    zhCN: "巴螺迦修那",
+    tags: [ "sumeru", "organization" ],
+  },
 
   //
   // Fontaine
@@ -509,4 +522,25 @@
     zhCN: "愚人众",
     tags: [ "snezhnaya", "organization" ],
   },
+
+  //
+  // Khaenri'ah
+  //
+  {
+    en: "Crimson Moon",
+    ja: "赤月",
+    zhCN: "赤月",
+    pronunciationJa: "せきげつ",
+    tags: [ "khaenriah", "organization" ],
+    notes: "カールンイアの古代王朝",
+  },
+  {
+    en: "Eclipse",
+    ja: "黒日",
+    zhCN: "黒日",
+    pronunciationJa: "こくじつ", // TODO Need Check
+    tags: [ "khaenriah", "organization" ],
+    notes: "カールンイアの古代王朝",
+  },
+
 ]

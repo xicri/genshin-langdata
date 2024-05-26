@@ -186,6 +186,47 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v4.6
+  {
+    en: "Windtrace: Seekers and Strategy",
+    ja: "風の行方・妙策の陣",
+    zhCN: "	风行迷踪·谋策之局",
+    pronunciationJa: "かぜのゆくえみょうさくのじん",
+    tags: [ "event" ],
+    notes: "v4.6 期間限定イベント",
+  },
+  {
+    en: "Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness",
+    ja: "荒瀧・生命のロックイリデッセンスビッグツアー",
+    zhCN: "	荒泷生命摇滚虹色大巡回",
+    pronunciationJa: "あらたきいのちのロックイリデッセンスビッグツアー",
+    tags: [ "event" ],
+    notes: "v4.6 期間限定イベント",
+  },
+  {
+    en: "Specially-Shaped Saurian Search",
+    ja: "異種サウリアン巡訪戦記",
+    zhCN: "殊形之龙参寻战记",
+    pronunciationJa: "いしゅサウリアンじゅんぽうせんき", // TODO Need Check
+    tags: [ "event" ],
+    notes: "v4.6 期間限定イベント",
+  },
+  {
+    en: "\"I Got Reincarnated as an Onikabuto... And Flipped the World Upside Down\"",
+    ja: "『最強オニカブトムシに転生して 世界をひっくり返してやった』",
+    zhCN: "	《转生成为鬼兜虫然后撞翻世界》",
+    pronunciationJa: "さいきょうオニカブトムシにてんせいしてせかいをひっくりかえしてやった",
+    tags: [ "event", "item" ],
+    notes: "v4.6 期間限定イベントで荒瀧一斗とパイモンが歌う曲のタイトル、及びイベント内で貰える、曲の歌詞が記されたアイテム",
+  },
+  {
+    en: "Rock 'n' Roll Dango Milk",
+    ja: "ロック団子牛乳",
+    zhCN: "摇滚团子牛奶",
+    pronunciationJa: "ロックだんごぎゅうにゅう",
+    tags: [ "event", "food" ],
+    notes: "v4.6 期間限定イベント「荒瀧・生命のロックイリデッセンスビッグツアー」の屋台で販売された飲み物",
+  },
   // v4.5
   {
     en: "Blades Weaving Betwixt Brocade",
