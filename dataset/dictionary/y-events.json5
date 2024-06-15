@@ -186,11 +186,21 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v4.7
+  {
+    en: "Mutual Security Enhancing Simulation",
+    ja: "堅守演習",
+    zhCN: "安固诸方之述演",
+    pronunciationJa: "けんしゅえんしゅう",
+    tags: [ "event" ],
+    notes: "v4.7 期間限定イベント",
+  },
+  
   // v4.6
   {
     en: "Windtrace: Seekers and Strategy",
     ja: "風の行方・妙策の陣",
-    zhCN: "	风行迷踪·谋策之局",
+    zhCN: "风行迷踪·谋策之局",
     pronunciationJa: "かぜのゆくえみょうさくのじん",
     tags: [ "event" ],
     notes: "v4.6 期間限定イベント",

@@ -365,6 +365,13 @@
     pronunciationJa: "せいすいるてんのかがやき",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Absolution",
+    ja: "赦罪",
+    zhCN: "赦罪",
+    pronunciationJa: "しゃざい",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores
@@ -1188,6 +1195,15 @@
     zhCN: "最初的大魔术",
     pronunciationJa: "はじまりのだいまじゅつ",
     tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "Cloudforged",
+    ja: "築雲",
+    zhCN: "筑云",
+    pronunciationJa: "ちくうん",
+    tags: [ "weapon", "bow" ],
+    notes: "v4.7 期間限定イベント「堅守演習」報酬",
+    notesZh: "v4.7 活动「安固诸方之述演」奖励",
   },
 
   //
