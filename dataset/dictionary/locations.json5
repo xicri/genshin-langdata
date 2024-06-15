@@ -2302,6 +2302,14 @@
     pronunciationJa: "かいりついん",
     tags: [ "fontaine", "location" ],
   },
+  {
+    en: "The Wingalet",
+    ja: "ウィンガレット号",
+    zhCN: "维恩歌莱号",
+    pronunciationJa: "ウィンガレットごう",
+    notes: "メロピデ要塞で建造された飛行艦船",
+    tags: [ "fontaine", "location", "facility", "organization" ],
+  },
 
   //
   // Natlan
