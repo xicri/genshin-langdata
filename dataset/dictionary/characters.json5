@@ -4960,7 +4960,7 @@
     zhCN: "猎月人",
     pronunciationJa: "つきのかりゅうど",
     tags: [ "khaenriah", "character-sub" ],
-    notes: "[スルトロッチ](/surtalogi)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり", //「ä」はアルファベット文字ではないウムラウトつき
+    notes: "[スルトロッチ](/surtalogi)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり", // 「ä」はアルファベット文字ではないウムラウトつき
   },
   {
     en: "The Five Sinners of Khaenri'ah",
