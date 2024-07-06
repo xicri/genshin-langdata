@@ -516,8 +516,8 @@
     en: "Rhinedottir",
     ja: "レインドット",
     zhCN: "莱茵多特",
-    tags: [ "mondstadt", "character-sub" ],
-    notes: "アルベドの創造者。魔女会・コードR。英語における発音は「ラインドッタァ」",
+    tags: [ "mondstadt", "khaenriah", "character-sub" ],
+    notes: "[黄金(俗名)](/gold)の通称を持つ。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり。アルベドの創造者。魔女会・コードR。英語における発音は「ラインドッタァ」",
     notesZh: "阿贝多的创造者。魔女会代号R。",
   },
   {
@@ -3392,8 +3392,8 @@
     en: "Chlothar Alberich",
     ja: "コロタール・アルベリヒ",
     zhCN: "克洛达尔·亚尔伯里奇",
-    tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
-    notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
+    tags: [ "sumeru", "khaenriah", "character-sub" ],
+    notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター。アビス教団創設者",
     notesZh: "魔神任务 第三章第六幕「卡利贝尔」中登场的角色",
   },
   {
@@ -3401,9 +3401,9 @@
     ja: "罪人",
     zhCN: "罪人",
     pronunciationJa: "つみびと",
-    tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
-    notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
-    notesZh: "魔神任务 第三章第六幕「卡利贝尔」中登场的角色",
+    tags: [ "sumeru", "khaenriah", "character-sub" ],
+    notes: "魔神任務 第三章第六幕「カリベルト」などに登場するキャラクター",
+    notesZh: "魔神任务 第三章第六幕「卡利贝尔」等中登场的角色",
   },
 
   {
@@ -3573,6 +3573,34 @@
     tags: [ "sumeru", "character-sub" ],
     notes: "甘露の池の前にいる花霊",
   },
+  {
+    en: "Atossa",
+    ja: "アトッサ",
+    zhCN: "阿托莎",
+    tags: [ "sumeru", "character-sub" ],
+    notes: "魔神任務 第四章第六幕「ベッドタイムストーリー」に登場するキャラクター",
+    notesZh: "魔神任务 第四章第六幕「睡前故事」中登场的角色",
+  },
+  {
+    en: "Bahram",
+    ja: "バハラーム",
+    zhCN: "巴兰",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Amadhiah",
+    ja: "アマディア",
+    zhCN: "阿玛兹亚",
+    tags: [ "sumeru", "character-sub" ],
+  },
+  {
+    en: "Caribert Alberich",
+    ja: "カリベルト・アルベリヒ",
+    zhCN: "卡利贝尔·亚尔伯里奇",
+    tags: [ "sumeru", "khaenriah", "character-sub" ],
+    notes: "魔神任務 第四章第六幕「ベッドタイムストーリー」に登場するキャラクター。厳密にはカリベルトはコロタールの私生児であるためアルベリヒ姓ではないが「ベッドタイムストーリー」「世界規模の語り」の中で旅人は青年の姿にカリベルト・アルベリヒと呼んでいる",
+    notesZh: "魔神任务 第四章第六幕「睡前故事」中登场的角色",
+  },
 
   //
   // Fontaine ― Playable Characters
@@ -3714,6 +3742,13 @@
     pronunciationJa: "ちおり",
     tags: [ "fontaine", "inazuma", "character-main" ],
   },
+  {
+    en: "Emilie",
+    ja: "エミリエ",
+    zhCN: "艾梅莉埃",
+    tags: [ "fontaine", "character-main" ],
+  },
+
 
   //
   // Fontaine ― NPCs
@@ -4455,6 +4490,12 @@
     zhCN: "卡西奥多",
     tags: [ "fontaine", "character-sub" ],
   },
+  {
+    en: "Florian",
+    ja: "フロリアン",
+    zhCN: "弗洛莱恩",
+    tags: [ "fontaine", "character-sub" ],
+  },
 
   //
   // Natlan
@@ -4776,7 +4817,7 @@
     en: "Skirk",
     ja: "スカーク",
     zhCN: "丝柯克",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "fontaine", "character-sub" ],
     notes: "タルタリヤの師匠",
     notesZh: "达达利亚的师傅",
   },
@@ -4852,5 +4893,81 @@
     zhCN: "白鹄骑士",
     tags: [ "khaenriah", "title" ],
     pinyins: [{ char: "鹄", pron: "hu2" }],
+  },
+  {
+    en: "Hroptatyr",
+    ja: "フロプタチュール",
+    zhCN: "海洛塔帝",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "[賢者(俗名)](/the-wise)の俗名を持つ。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり",
+  },
+  {
+    en: "Vedrfolnir",
+    ja: "ヴェズルフェルニル",
+    zhCN: "维瑟弗尼尔",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "[予言者(俗名)](/the-visionary)の俗名を持つ。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり。ダインスレイヴの兄",
+  },
+  {
+    en: "Surtalogi",
+    ja: "スルトロッチ",
+    zhCN: "苏尔特洛奇",
+    tags: [ "khaenriah", "fontaine", "character-sub" ],
+    notes: "[極悪騎](/the-foul)の俗名を持つ。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり。スカークの師匠",
+  },
+  {
+    en: "Rerir",
+    ja: "レリル",
+    zhCN: "雷利尔",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "[月の狩人](/rächer-of-solnari)の俗名を持つ。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり",
+  },
+  {
+    en: "The Wise",
+    ja: "賢者(俗名)",
+    zhCN: "贤者(俗名)",
+    pronunciationJa: "けんじゃ",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "[フロプタチュール](/hroptatyr)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり",
+  },
+  {
+    en: "The Visionary",
+    ja: "予言者(俗名)",
+    zhCN: "预言家(俗名)",
+    pronunciationJa: "よげんしゃ",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "[ヴェズルフェルニル](/vedrfolnir)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり。ダインスレイヴの兄",
+  },
+  {
+    en: "Gold",
+    ja: "黄金(俗名)",
+    zhCN: "黄金(俗名)",
+    pronunciationJa: "おうごん",
+    tags: [ "mondstadt", "khaenriah", "character-sub" ],
+    notes: "[レインドット](/rhinedottir)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり。アルベドの創造者。魔女会・コードR",
+  },
+  {
+    en: "The Foul",
+    ja: "極悪騎",
+    zhCN: "极恶骑",
+    pronunciationJa: "ごくあくき",
+    tags: [ "khaenriah", "fontaine", "character-sub" ],
+    notes: "[スルトロッチ](/surtalogi)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり。スカークの師匠",
+  },
+  {
+    en: "Rächer of Solnari",
+    ja: "月の狩人",
+    zhCN: "猎月人",
+    pronunciationJa: "つきのかりゅうど",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "[スルトロッチ](/surtalogi)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり", // 「ä」はアルファベット文字ではないウムラウトつき
+  },
+  {
+    en: "The Five Sinners of Khaenri'ah",
+    ja: "カーンルイアの「五大罪人」",
+    zhCN: "坎瑞亚的「五大罪人」",
+    pronunciationJa: "カーンルイアのごだいつみびと",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "カーンルイアを裏切った5人の[罪人](/sinners)の通称",
   },
 ]
