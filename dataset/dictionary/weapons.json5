@@ -372,6 +372,13 @@
     pronunciationJa: "しゃざい",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Uraku Misugiri",
+    ja: "有楽御簾切",
+    zhCN: "有乐御簾切",
+    pronunciationJa: "うらくみすぎり",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores
@@ -584,6 +591,15 @@
     pronunciationJa: "けいたいがたチェーンソー",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "Ultimate Overlord's Mega Magic Sword",
+    ja: "スーパーアルティメット覇王魔剣",
+    zhCN: "究极霸王超级魔剑",
+    pronunciationJa: "スーパーアルティメットはおうまけん",
+    tags: [ "weapon", "claymore" ],
+    notes: "v4.3 期間限定イベント「薔薇と銃士」報酬",
+    notesZh: "v4.3 活动「蔷薇与铳枪」奖励",
+  },
   // ★5
   {
     en: "Skyward Pride",
@@ -640,6 +656,13 @@
     ja: "葦海の標",
     zhCN: "苇海信标",
     pronunciationJa: "いかいのしらべ",
+    tags: [ "weapon", "claymore" ],
+  },
+  {
+    en: "Verdict",
+    ja: "裁断",
+    zhCN: "裁断",
+    pronunciationJa: "さいだん",
     tags: [ "weapon", "claymore" ],
   },
 
@@ -824,6 +847,15 @@
     zhCN: "勘探钻机",
     tags: [ "weapon", "polearm" ],
   },
+  {
+    en: "Dialogues of the Desert Sages",
+    ja: "砂中の賢者達の問答",
+    zhCN: "沙中伟贤的对答",
+    pronunciationJa: "さちゅうのけんじゃたちのもんどう",
+    tags: [ "weapon", "polearm" ],
+    notes: "v4.5 期間限定イベント「巧みなる錬金経営」報酬",
+    notesZh: "v4.5 活动「升炼研巧万策金」奖励",
+  },
   // ★5
   {
     en: "Primordial Jade Winged-Spear",
@@ -894,6 +926,13 @@
     variants: {
       zhCN: [ "赤沙", "船桨" ],
     },
+  },
+  {
+    en: "Crimson Moon's Semblance",
+    ja: "赤月のシルエット",
+    zhCN: "赤月之形",
+    pronunciationJa: "せきげつのシルエット", // Source: Voice over ― More About Arlecchino: V (アルレッキーノを知る・5)
+    tags: [ "weapon", "polearm" ],
   },
 
   //
@@ -1205,6 +1244,12 @@
     notes: "v4.7 期間限定イベント「堅守演習」報酬",
     notesZh: "v4.7 活动「安固诸方之述演」奖励",
   },
+  {
+    en: "Silvershower Heartstrings",
+    ja: "白雨心弦",
+    zhCN: "白雨心弦",
+    tags: [ "weapon", "bow" ],
+  },
 
   //
   // Catalysts
@@ -1497,49 +1542,10 @@
     tags: [ "weapon", "catalyst" ],
   },
   {
-    en: "Ultimate Overlord's Mega Magic Sword",
-    ja: "スーパーアルティメット覇王魔剣",
-    zhCN: "究极霸王超级魔剑",
-    pronunciationJa: "スーパーアルティメットはおうまけん",
-    tags: [ "weapon", "claymore" ],
-    notes: "v4.3 期間限定イベント「薔薇と銃士」報酬",
-    notesZh: "v4.3 活动「蔷薇与铳枪」奖励",
-  },
-  {
-    en: "Verdict",
-    ja: "裁断",
-    zhCN: "裁断",
-    pronunciationJa: "さいだん",
-    tags: [ "weapon", "claymore" ],
-  },
-  {
     en: "Crane's Echoing Call",
     ja: "鶴鳴の余韻",
     zhCN: "鹤鸣余音",
     pronunciationJa: "かくめいのよいん",
     tags: [ "weapon", "catalyst" ],
-  },
-  {
-    en: "Uraku Misugiri",
-    ja: "有楽御簾切",
-    zhCN: "有乐御簾切",
-    pronunciationJa: "うらくみすぎり",
-    tags: [ "weapon", "sword" ],
-  },
-  {
-    en: "Dialogues of the Desert Sages",
-    ja: "砂中の賢者達の問答",
-    zhCN: "沙中伟贤的对答",
-    pronunciationJa: "さちゅうのけんじゃたちのもんどう",
-    tags: [ "weapon", "polearm" ],
-    notes: "v4.5 期間限定イベント「巧みなる錬金経営」報酬",
-    notesZh: "v4.5 活动「升炼研巧万策金」奖励",
-  },
-  {
-    en: "Crimson Moon's Semblance",
-    ja: "赤月のシルエット",
-    zhCN: "赤月之形",
-    pronunciationJa: "せきげつのシルエット", // Source: Voice over ― More About Arlecchino: V (アルレッキーノを知る・5)
-    tags: [ "weapon", "polearm" ],
   },
 ]

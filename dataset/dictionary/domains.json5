@@ -124,6 +124,14 @@
       zhCN: [ "冰本", "水本" ],
     },
   },
+  {
+    en: "Imaginarium Theater",
+    ja: "幻想シアター",
+    zhCN: "幻想真境剧诗",
+    pronunciationJa: "げんそうシアター",
+    notes: "モンド騎士団本部の図書館の奥にある高難易度ダンジョン",
+    tags: [ "mondstadt", "domain" ],
+  },
 
   //
   // Between Mondstadt & Liyue

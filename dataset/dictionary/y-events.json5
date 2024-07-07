@@ -195,6 +195,37 @@
     tags: [ "event" ],
     notes: "v4.7 期間限定イベント",
   },
+  {
+    en: "Sprinting Stratagems",
+    ja: "奇策！スピード勝負",
+    zhCN: "奇策竞驰",
+    pronunciationJa: "きさくスピートしょうぶ",
+    tags: [ "event" ],
+    notes: "v4.7 期間限定イベント",
+  },
+  {
+    en: "Record of Reflective Writing",
+    ja: "ペンと空想の旅",
+    zhCN: "绎思振笔集",
+    pronunciationJa: "ペンとくうそうのたび",
+    tags: [ "event" ],
+    notes: "v4.7 期間限定イベント",
+  },
+  {
+    en: "Endless Forms Most Martial",
+    ja: "千変万化の豪傑譚",
+    zhCN: "纷变繁相豪武谭",
+    pronunciationJa: "せんげんばんかのごうけつたん", // TODO Need Check
+    tags: [ "event" ],
+    notes: "v4.7 期間限定イベント",
+  },
+  {
+    en: "Spino Doubleblaster",
+    ja: "スプラッシュ・デュエット",
+    zhCN: "飞迸湍流二重奏",
+    tags: [ "event" ],
+    notes: "v4.7 期間限定イベント",
+  },
 
   // v4.6
   {

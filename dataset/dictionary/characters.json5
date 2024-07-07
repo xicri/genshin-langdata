@@ -784,6 +784,14 @@
     notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」に登場する純水精霊",
     notesZh: "v4.1 活动「游水酝诗籍」的纯水精灵",
   },
+  {
+    en: "Wolfy",
+    ja: "子オオカミ",
+    zhCN: "子狼",
+    pronunciationJa: "こオオカミ",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "幻想シアターの控え室に登場するキャラクター",
+  },
 
   //
   // Liyue - Main Characters
@@ -1762,6 +1770,12 @@
     zhCN: "叶德",
     pronunciationJa: "ようとく",
     tags: [ "liyue", "character-sub" ],
+  },
+  {
+    en: "Hautemontague",
+    ja: "オートモンターニュ",
+    zhCN: "沃特蒙泰涅",
+    tags: [ "liyue", "fontaine", "character-sub" ],
   },
 
   //
@@ -4969,5 +4983,31 @@
     pronunciationJa: "カーンルイアのごだいつみびと",
     tags: [ "khaenriah", "character-sub" ],
     notes: "カーンルイアを裏切った5人の[罪人](/sinners)の通称",
+  },
+  {
+    en: "Rawat",
+    ja: "ラワット",
+    zhCN: "拉瓦特",
+    tags: [ "khaenriah", "character-sub" ],
+  },
+  {
+    en: "Potton",
+    ja: "ポトン",
+    zhCN: "波顿",
+    tags: [ "khaenriah", "character-sub" ],
+  },
+  {
+    en: "Wolsey",
+    ja: "ウォルジー",
+    zhCN: "韦尔赛",
+    tags: [ "khaenriah", "character-sub" ],
+  },
+  {
+    en: "The Witch",
+    ja: "魔女婆さん",
+    zhCN: "巫婆",
+    pronunciationJa: "まじょばあさん",
+    tags: [ "khaenriah", "character-sub", "how-to-call" ],
+    notes: "シグウィンを人間の姿に変える薬を作った医者の先生",
   },
 ]

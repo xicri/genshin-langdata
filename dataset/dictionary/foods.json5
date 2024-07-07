@@ -1127,8 +1127,42 @@
     en: "Mega-Meaty Sushi",
     ja: "お肉たっぷり寿司",
     zhCN: "肉满满寿司",
+    pronunciationJa: "おにくたっぷりずし", // TODO Need check
     tags: [ "food" ],
     notes: "スシローコラボ「回転の宴」",
+  },
+  {
+    en: "Bulle Sauce Duck Breast",
+    ja: "鴨胸肉のオレンジソースソテー",
+    zhCN: "桔香鸭胸肉",
+    pronunciationJa: "かもむねにくのオレンジソースソテー",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fontinalia Mousse",
+    ja: "千霊ムース",
+    zhCN: "千灵慕斯",
+    pronunciationJa: "せんれいムース",
+    tags: [ "food" ],
+  },
+  {
+    en: "Consomme",
+    ja: "コンソメスープ",
+    zhCN: "百味一缕",
+    tags: [ "food" ],
+  },
+  {
+    en: "Rainbow Macarons",
+    ja: "カラフルマカロン",
+    zhCN: "缤纷马卡龙",
+    tags: [ "food" ],
+  },
+  {
+    en: "Honey Char Siu",
+    ja: "蜜汁チャーシュー",
+    zhCN: "蜜汁叉烧",
+    pronunciationJa: "みつじゅうチャーシュー", // TODO Need check
+    tags: [ "food" ],
   },
 
   //
@@ -1439,6 +1473,14 @@
     tags: [ "food", "liyue" ],
     notes: "閑雲のオリジナル料理",
   },
+  {
+    en: "Yummy Yum Cha",
+    ja: "飲茶しようぜ！",
+    zhCN: "得闲饮茶",
+    pronunciationJa: "やむちゃしようぜ",
+    tags: [ "food", "liyue" ],
+    notes: "嘉明のオリジナル料理",
+  },
 
   // Inazuma
   {
@@ -1630,6 +1672,13 @@
     tags: [ "food", "sumeru" ],
     notes: "ファルザンのオリジナル料理",
   },
+  {
+    en: "Super-Dee-Duper Delicious Meat Roll",
+    ja: "ウマウマシャワルマサンド",
+    zhCN: "烤肉香香香卷",
+    tags: [ "food", "sumeru" ],
+    notes: "セトスのオリジナル料理",
+  },
 
   // Fontaine
   {
@@ -1660,6 +1709,37 @@
     zhCN: "时装秀",
     tags: [ "food", "fontaine" ],
     notes: "千織のオリジナル料理",
+  },
+  {
+    en: "Pick What You Like!",
+    ja: "どれでもどーぞ！",
+    zhCN: "选你喜欢的！",
+    tags: [ "food", "fontaine" ],
+    notes: "ナヴィアのオリジナル料理",
+  },
+  {
+    en: "Hearthfire's Trail",
+    ja: "炉火の昔語り",
+    zhCN: "炉火的往迹",
+    pronunciationJa: "ろかのむかしがたり",
+    tags: [ "food", "fontaine" ],
+    notes: "召使のオリジナル料理",
+  },
+  {
+    en: "Tagged and Bagged",
+    ja: "狩りの収穫",
+    zhCN: "猎获",
+    pronunciationJa: "かりのしゅうかく",
+    tags: [ "food", "fontaine" ],
+    notes: "クロリンデのオリジナル料理",
+  },
+  {
+    en: "Well-Balanced Meal",
+    ja: "栄養たっぷりバランス食",
+    zhCN: "膳食均衡餐",
+    pronunciationJa: "えいようたっぷりバランスしょく",
+    tags: [ "food", "fontaine" ],
+    notes: "シグウィンのオリジナル料理",
   },
 
   //
