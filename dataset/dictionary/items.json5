@@ -1073,7 +1073,22 @@
     en: "The Boar Princess",
     ja: "イノシシプリンセス",
     zhCN: "野猪公主",
-    tags: [ "item" ],
+    notes: "書籍、並びに幻想シアターの控え室にある額縁の絵のキャラクター",
+    tags: [ "item", "mondstadt", "character-sub" ],
+  },
+  {
+    en: "The Little Witch and the Undying Fire",
+    ja: "小さな魔女と消えない炎",
+    zhCN: "小魔女与不熄灭的火",
+    pronunciationJa: "ちいさなまじょときえないほのお",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "The Feline Firm",
+    ja: "ニャンコ事務所",
+    zhCN: "猫咪事务所",
+    pronunciationJa: "ニャンコじむしょ",
+    tags: [ "item", "mondstadt" ],
   },
   {
     en: "Princess Mina of the Fallen Nation",
