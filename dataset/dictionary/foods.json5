@@ -1127,7 +1127,7 @@
     en: "Mega-Meaty Sushi",
     ja: "お肉たっぷり寿司",
     zhCN: "肉满满寿司",
-    pronunciationJa: "おにくたっぷりずし", // TODO Need check
+    pronunciationJa: "おにくたっぷりずし",
     tags: [ "food" ],
     notes: "スシローコラボ「回転の宴」",
   },
