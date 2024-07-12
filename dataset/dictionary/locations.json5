@@ -1885,7 +1885,7 @@
     en: "Dahri",
     ja: "ダーリ",
     zhCN: "荼诃",
-    tags: [ "sumeru", /* "khaenriah", */ "location" ],
+    tags: [ "sumeru", "khaenriah", "location" ],
     notes: "スメールの言葉でカーンルイアを指す",
   },
   {
@@ -1893,7 +1893,7 @@
     ja: "ダーリ人 / ダーリの",
     zhCN: "荼诃人 / 荼诃的",
     pronunciationJa: "ダーリじん / ダーリの",
-    tags: [ "sumeru" /* , "khaenriah" */ ],
+    tags: [ "sumeru", "khaenriah" ],
     notes: "スメールの言葉でカーンルイアを指す言葉「ダーリ」(Dahri) の派生型",
   },
 
@@ -2318,7 +2318,7 @@
     en: "Natlan",
     ja: "ナタ",
     zhCN: "纳塔",
-    tags: [ "location" ],
+    tags: [ "natlan", "location" ],
   },
 
   //

@@ -3398,7 +3398,7 @@
     en: "Eide",
     ja: "エデ",
     zhCN: "埃德",
-    tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
+    tags: [ "sumeru", "khaenriah", "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
     notesZh: "魔神任务 第三章第六幕「卡利贝尔」中登场的角色",
   },
@@ -4515,12 +4515,71 @@
   // Natlan
   //
   {
+    en: "Mualani",
+    ja: "ムアラニ",
+    zhCN: "玛拉妮",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Kachina",
+    ja: "カチーナ",
+    zhCN: "卡齐娜",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Kinich",
+    ja: "キィニチ",
+    zhCN: "基尼奇",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "K'uhul Ajaw",
+    ja: "クフル・アハウ",
+    zhCN: "库胡勒阿乔",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Almighty Dragonlord (Self-Proclaimed)",
+    ja: "偉大なる聖龍 (自称)",
+    zhCN: "伟大圣龙 (自称)",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Citlali",
+    ja: "シトラリ",
+    zhCN: "茜特菈莉",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Xilonen",
+    ja: "シロネン",
+    zhCN: "希诺宁",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
     en: "Iansan",
     ja: "イアンサ",
     zhCN: "伊安珊",
-    tags: [ "character-main" ],
+    tags: [ "natlan", "character-main" ],
   },
-
+  {
+    en: "Chasca",
+    ja: "チャスカ",
+    zhCN: "恰斯卡",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Mavuika",
+    ja: "マーヴィカ",
+    zhCN: "玛薇卡",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Ororon",
+    ja: "オロルン",
+    zhCN: "欧洛伦",
+    tags: [ "natlan", "character-main" ],
+  },
 
   //
   // Snezhnaya & Fatui
