@@ -3398,7 +3398,7 @@
     en: "Eide",
     ja: "エデ",
     zhCN: "埃德",
-    tags: [ "sumeru", /* TODO "khaenriah", */ "character-sub" ],
+    tags: [ "sumeru", "khaenriah", "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
     notesZh: "魔神任务 第三章第六幕「卡利贝尔」中登场的角色",
   },
