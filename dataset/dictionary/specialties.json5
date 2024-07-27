@@ -222,8 +222,8 @@
     en: "Padisarah",
     ja: "パティサラ",
     zhCN: "帕蒂沙兰",
-    tags: [ "specialty", "sumeru" ],
-    notes: "英語版では Pa\"d\"isarah と D の音になっていることに注意。",
+    tags: [ "specialty", "sumeru", "event", "character-sub" ],
+    notes: "スメールの特産品もしくはv4.8 期間限定イベント「陽夏！悪龍？童話の王国！」に登場するキャラクター。英語版では Pa\"d\"isarah と D の音になっていることに注意。",
   },
   {
     en: "Scarab",
