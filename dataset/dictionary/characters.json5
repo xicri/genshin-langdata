@@ -525,8 +525,8 @@
     ja: "バーべロス",
     zhCN: "芭比洛斯",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "魔女会・コードB。モナの師匠 (おばば)", // TODO: v4.8 期間限定イベントのクエストムービーによりモナの師匠であることが確定
-    notesZh: "魔女会代号B。莫娜的师傅（老太婆）", // TODO: v4.8 限时事件任务电影确认自己是莫娜的导师
+    notes: "魔女会・コードB。モナの師匠 (おばば)", // In a quest movie in the limited-time event of v4.8 in Simulanka, it is explicitly mentioned that Barbelos and Mona's old hag are identical person.
+    notesZh: "魔女会代号B。莫娜的师傅（老太婆）", // v4.8 限时事件任务电影确认自己是莫娜的导师
   },
   {
     en: "the old hag",
