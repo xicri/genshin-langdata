@@ -1164,6 +1164,18 @@
     pronunciationJa: "みつじゅうチャーシュー", // TODO Need check
     tags: [ "food" ],
   },
+  {
+    en: "Crisp Croissant Combo",
+    ja: "カリカリクロワッサン",
+    zhCN: "酥酥羊角包",
+    tags: [ "food" ],
+  },
+  {
+    en: "Blubbrecream",
+    ja: "プクプクアイスクリーム",
+    zhCN: "膨膨冰淇淋",
+    tags: [ "food" ],
+  },
 
   //
   // Specialties (オリジナル料理)

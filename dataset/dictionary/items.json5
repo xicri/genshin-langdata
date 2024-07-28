@@ -1253,6 +1253,12 @@
     pronunciationJa: "にじゅうし",
     tags: [ "fontaine", "item" ],
   },
+  {
+    en: "Dreams of the Ancient Capital",
+    ja: "旧都夢夜奇譚",
+    zhCN: "旧都梦夜奇谭",
+    tags: [ "event", "item" ],
+  },
 
   //
   // Gadgets
@@ -1638,5 +1644,40 @@
     zhCN: "帆影游风",
     pronunciationJa: "ほかげにたわむるかぜ", // TODO Need Check
     notes: "ガイアのコスチューム",
+  },
+  {
+    en: "Banboo Rain",
+    ja: "竹身雨化",
+    zhCN: "雨化竹身",
+    pronunciationJa: "ちくしんうか",
+    notes: "行秋のコスチューム",
+  },
+  {
+    en: "Twilight Blossom",
+    ja: "玄玉遥芳",
+    zhCN: "玄玉瑶芳",
+    pronunciationJa: "げんぎょくようほう",
+    notes: "甘雨のコスチューム",
+  },
+  {
+    en: "FrostFlower Dew",
+    ja: "冷花幽露",
+    zhCN: "冷花幽露",
+    pronunciationJa: "れいかゆうろ",
+    notes: "申鶴のコスチューム",
+  },
+  {
+    en: "Breeze of Sabaa",
+    ja: "東風はこぶ花の吐息",
+    zhCN: "莎邦之息",
+    pronunciationJa: "とうふうはこぶはなのといき", // TODO Need Check
+    notes: "ニィロウのコスチューム",
+  },
+  {
+    en: "Phantom in Boots",
+    ja: "麗しき怪傑",
+    zhCN: "倩影游侠",
+    pronunciationJa: "うるわしきかいけつ",
+    notes: "綺良々のコスチューム",
   },
 ]
