@@ -825,6 +825,7 @@
     ja: "魔水",
     zhCN: "魔水",
     pronunciationJa: "ますい",
+    tags: [ "event" ],
   },
 
 ]
