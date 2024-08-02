@@ -28,7 +28,7 @@
     "marked": "^13.0.3",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.1.2",
-    "vitest": "^2.0.4",
-    "wrangler": "^3.67.1"
+    "vitest": "^2.0.5",
+    "wrangler": "^3.68.0"
   }
 }
