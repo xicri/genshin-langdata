@@ -934,6 +934,13 @@
     pronunciationJa: "せきげつのシルエット", // Source: Voice over ― More About Arlecchino: V (アルレッキーノを知る・5)
     tags: [ "weapon", "polearm" ],
   },
+  {
+    en: "Lumidouce Elegy",
+    ja: "ルミドゥースの挽歌",
+    zhCN: "柔灯挽歌",
+    pronunciationJa: "ルミドゥースのばんか",
+    tags: [ "weapon", "polearm" ],
+  },
 
   //
   // Bows

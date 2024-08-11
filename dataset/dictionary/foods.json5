@@ -1176,6 +1176,19 @@
     zhCN: "膨膨冰淇淋",
     tags: [ "food" ],
   },
+  {
+    en: "Fricassee de Poulet",
+    ja: "フリカッセ・ドゥ・プーレ",
+    zhCN: "魔术特调",
+    tags: [ "food" ],
+  },
+  {
+    en: "A Magical Mix",
+    ja: "マジックスペシャル",
+    zhCN: "奶油炖鸡",
+    tags: [ "food" ],
+    notes: "KFCコラボ",
+  },
 
   //
   // Specialties (オリジナル料理)
