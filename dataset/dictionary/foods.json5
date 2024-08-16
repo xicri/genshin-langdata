@@ -1176,6 +1176,19 @@
     zhCN: "膨膨冰淇淋",
     tags: [ "food" ],
   },
+  {
+    en: "Fricassee de Poulet",
+    ja: "フリカッセ・ドゥ・プーレ",
+    zhCN: "奶油炖鸡",
+    tags: [ "food" ],
+  },
+  {
+    en: "A Magical Mix",
+    ja: "マジックスペシャル",
+    zhCN: "魔术特调",
+    tags: [ "food" ],
+    notes: "v4.8 中に中国で実施された、ケンタッキーフライドチキンとのコラボに伴って配布された飲み物",
+  },
 
   //
   // Specialties (オリジナル料理)

@@ -188,6 +188,22 @@
 
   // v4.8
   {
+    en: "Energy Amplifier: Lemma",
+    ja: "エネルギー原盤・補題",
+    zhCN: "导能原盘·引理",
+    pronunciationJa: "エネルギーげんばんほだい",
+    tags: [ "event" ],
+    notes: "v4.8 期間限定イベント",
+  },
+  {
+    en: "Outside the Canvas, Inside the Lens: Dew-Kissed Chapter",
+    ja: "旅の写真に閃きを・雫の章",
+    zhCN: "画外旅照·浮露之章",
+    pronunciationJa: "たびのしゃしんにひらめきをしずくのしょう",
+    tags: [ "event" ],
+    notes: "v4.8 期間限定イベント",
+  },
+  {
     en: "Summertide Scales and Tales",
     ja: "陽夏！悪龍？童話の王国！",
     zhCN: "欢夏！邪龙？童话国！",
@@ -1052,7 +1068,7 @@
     en: "Bing-Bang Finchball",
     ja: "カラコロ! チュンボール",
     zhCN: "哐哐当当雀雀球",
-    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ、または v4.8 期間限定イベント",
     tags: [ "event" ],
   },
   {
@@ -1434,8 +1450,8 @@
     en: "Dvorak",
     ja: "ドヴォルザーク",
     zhCN: "德沃沙克",
-    notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) に登場する人物",
-    tags: [ "event", "character-sub" ],
+    notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) やv4.6 期間限定イベントなどに登場する人物",
+    tags: [ "event", "character-sub", "liyue", "inazuma", "fontaine" ],
   },
   {
     en: "Nascent Bamboo Shoot",

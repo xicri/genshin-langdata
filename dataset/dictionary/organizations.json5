@@ -537,7 +537,7 @@
   {
     en: "Eclipse",
     ja: "黒日",
-    zhCN: "黒日",
+    zhCN: "黑日",
     pronunciationJa: "こくじつ", // TODO Need Check
     tags: [ "khaenriah", "organization" ],
     notes: "カールンイアの古代王朝",
