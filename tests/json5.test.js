@@ -70,7 +70,6 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "tags" ||
         key === "variants" ||
         key === "examples" ||
-        key === "_meta" ||
         key === "createdAt" ||
         key === "updatedAt",
         `"${key}" is not a valid key.`
@@ -96,33 +95,6 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
           variantsKey === "zhCN" ,
           `"variants.${variantsKey}" is not a valid key.`
         );
-      }
-    }
-
-    if (word._meta) {
-      expect(typeof word._meta).toBe("object");
-
-      if (typeof word._meta.translator !== "undefined") {
-        ok(
-          typeof word._meta.translator === "object" ||
-          typeof word._meta.translator === "boolean",
-          `
-_meta.translator must be object or boolean but actually it is ${typeof word._meta.translator}.
-Value: ${word._meta.translator}
-`
-        );
-
-        if (typeof word._meta.translator === "object") {
-          ok(
-            typeof word._meta.translator.enToJa === "boolean" &&
-            typeof word._meta.translator.jaToEn === "boolean",
-            `
-_meta.translator.enToJa and _meta.translator.jaToEn must be boolean but actually enToJa is ${typeof typeof word._meta.translator.enToJa} and jaToEn is ${typeof word._meta.translator.jaToEn}.
-Value of enToJa: ${word._meta.translator.enToJa}
-Value of jaToEn: ${word._meta.translator.jaToEn}
-`
-          );
-        }
       }
     }
 
