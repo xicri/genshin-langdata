@@ -395,12 +395,6 @@
     notes: "聖遺物ではなく、ローレンス家等を指す方の「旧貴族」。aristocrat は単に「貴族」の意で、「旧」の意味は省略されている。",
     notesZh: "指劳伦斯家族等旧贵族。aristocrat本身只是「贵族」的意思，并不包含「旧」的意思。",
     tags: [ "mondstadt" ],
-    _meta: {
-      translator: {
-        enToJa: true,
-        jaToEn: false, // 聖遺物の「旧貴族」と判別が困難なため
-      },
-    },
   },
   {
     en: "Mika Schmidt",
@@ -2078,9 +2072,6 @@
     zhCN: "（对雷电将军的尊称）",
     tags: [ "inazuma", "how-to-call" ],
     notes: "一般的には「神よ、」などと呼びかける時に \"Almighty God, \" などと使う場合がある。",
-    _meta: {
-      translator: false,
-    },
   },
   {
     en: "Electro Archon",

@@ -989,14 +989,6 @@
     zhCN: "珊瑚宫",
     pronunciationJa: "さんごのみや",
     tags: [ "inazuma", "location", "facility" ],
-    _meta: {
-      translator: {
-        enToJa: true,
-        // 「珊瑚宮」は単に Sangonomiya と訳し、珊瑚宮心海のことを指す場合でも、
-        // 地名としての珊瑚宮を指す場合でも、どちらでも意味が通るようにしておく。
-        jaToEn: false,
-      },
-    },
   },
   {
     en: "Bourou Village",
