@@ -557,9 +557,6 @@
     ja: "(マルチプレイへの) 加入申請",
     zhCN: "申请加入",
     pronunciationJa: "かにゅうしんせい",
-    _meta: {
-      translator: false,
-    },
   },
   {
     en: "achievement",

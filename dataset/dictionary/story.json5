@@ -8,9 +8,6 @@
     zhCN: "原神（标题）",
     pronunciationJa: "げんしん",
     notes: "ゲームタイトル。神の目を持つ者を指す「原神」は allogene。",
-    _meta: {
-      translator: false,
-    },
   },
   {
     en: "allogene",
@@ -18,12 +15,6 @@
     zhCN: "原神",
     pronunciationJa: "げんしん",
     notes: "タイトルではなく、神の目を持つ者を意味する言葉としての「原神」。英語版タイトルは Genshin Impact",
-    _meta: {
-      translator: {
-        jaToEn: false, // Superseded by Genshin Impact
-        enToJa: true,
-      },
-    },
   },
   {
     en: "Vision",
