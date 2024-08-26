@@ -174,7 +174,7 @@ export class Dictionary {
   #compileMarkdown() {
     marked.use({
       renderer: {
-        link(href, title, text) {
+        link({ href, text }) {
           if (href.startsWith("http://") || href.startsWith("https://")) {
             return `<a href="${href}" target="_blank" rel="noopener">${text}</a>`;
           } else {
