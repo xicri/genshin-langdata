@@ -181,18 +181,15 @@ export class Dictionary {
             return `<a href="${href}">${text}</a>`;
           }
         },
-        paragraph(text) {
-          return text;
-        },
       },
     });
 
     this.#words = this.#words.map(word => {
       if (word.notes) {
-        word.notes = marked.parse(word.notes);
+        word.notes = marked.parseInline(word.notes);
       }
       if (word.notesZh) {
-        word.notesZh = marked.parse(word.notesZh);
+        word.notesZh = marked.parseInline(word.notesZh);
       }
 
       return word;
