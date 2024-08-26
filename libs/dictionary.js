@@ -174,25 +174,22 @@ export class Dictionary {
   #compileMarkdown() {
     marked.use({
       renderer: {
-        link(href, title, text) {
+        link({ href, text }) {
           if (href.startsWith("http://") || href.startsWith("https://")) {
             return `<a href="${href}" target="_blank" rel="noopener">${text}</a>`;
           } else {
             return `<a href="${href}">${text}</a>`;
           }
         },
-        paragraph(text) {
-          return text;
-        },
       },
     });
 
     this.#words = this.#words.map(word => {
       if (word.notes) {
-        word.notes = marked.parse(word.notes);
+        word.notes = marked.parseInline(word.notes);
       }
       if (word.notesZh) {
-        word.notesZh = marked.parse(word.notesZh);
+        word.notesZh = marked.parseInline(word.notesZh);
       }
 
       return word;
