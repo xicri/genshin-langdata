@@ -519,4 +519,25 @@
     tags: [ "fontaine", "domain" ],
     notesZh: "吞星之鲸的掉落物",
   },
+  {
+    en: "Waterfall Wen",
+    ja: "滝を臨む廃都",
+    zhCN: "临瀑之城",
+    pronunciationJa: "たきをのぞむはいと",
+    tags: [ "fontaine", "domain" ],
+  },
+  {
+    en: "Faded Theater",
+    ja: "色褪せた劇場",
+    zhCN: "褪色的剧场",
+    pronunciationJa: "いろあせたげきじょう",
+    tags: [ "fontaine", "domain" ],
+  },
+  {
+    en: "Scattered Ruins",
+    ja: "ぼろぼろの廃墟",
+    zhCN: "零落丘墟",
+    pronunciationJa: "ぼろぼろのはいきょ",
+    tags: [ "fontaine", "domain" ],
+  },
 ]

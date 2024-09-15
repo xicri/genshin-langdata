@@ -260,6 +260,15 @@
     notes: "魔神任務第四章第五幕",
   },
 
+  // Traveler
+  {
+    en: "Bedtime Story",
+    ja: "ベッドタイムストーリー",
+    zhCN: "睡前故事",
+    tags: [ "sumeru", "quest-archon" ],
+    notes: "魔神任務第四章第六幕",
+  },
+
   {
     en: "Interlude",
     ja: "間章",
@@ -2244,9 +2253,18 @@
     tags: [ "fontaine", "quest-story" ],
   },
   {
+    en: "Diluvies Chapter",
+    ja: "潮汐の章",
+    zhCN: "潮涌之章",
+    pronunciationJa: "ちょうせきのしょう",
+    notes: "ヌヴィレットの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
     en: "Cerberus Chapter",
     ja: "獄守犬の章",
     zhCN: "守狱犬之章",
+    pronunciationJa: "ごくもりけんのしょう",
     notes: "リオセスリの伝説任務",
     tags: [ "fontaine", "quest-story" ],
   },
@@ -2255,7 +2273,60 @@
     ja: "頌歌者の章",
     zhCN: "司颂之章",
     pronunciationJa: "しょうかしゃのしょう",
+    notes: "フリーナの伝説任務",
     tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Rosa Multiflora Chapter",
+    ja: "野薔薇の章",
+    zhCN: "野蔷薇之章",
+    pronunciationJa: "のばらのしょう",
+    notes: "ナヴィアの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Grus Serena Chapter",
+    ja: "閑鶴の章",
+    zhCN: "闲鹤之章",
+    pronunciationJa: "かんかくのしょう",
+    notes: "閑雲の伝説任務",
+    tags: [ "liyue", "quest-story" ],
+  },
+  {
+    en: "Cisoria Chapter",
+    ja: "糸切鋏の章",
+    zhCN: "丝切铗之章",
+    pronunciationJa: "いときりばさみのしょう",
+    notes: "千織の伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Ignis Purgatorius Chapter",
+    ja: "浄煉の炎の章",
+    zhCN: "净炼火之章",
+    notes: "アルレッキーノの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Rappiera Chapter",
+    ja: "レイピアの章",
+    zhCN: "迅捷剑之章",
+    notes: "クロリンデの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Nereides Chapter",
+    ja: "ネレイスの章",
+    zhCN: "海精之章",
+    notes: "シグウィンの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Ponum de Ambra Chapter",
+    ja: "ポムム・ドゥ・アンブラの章",
+    zhCN: "香氛瓶之章",
+    notes: "エミリエの伝説任務",
+    tags: [ "sumeru", "quest-story" ],
   },
 
   //
