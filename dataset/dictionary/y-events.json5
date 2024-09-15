@@ -439,6 +439,14 @@
 
   // v4.7
   {
+    en: "An Everlasting Dream Intertwined",
+    ja: "永き夢を紡いで",
+    zhCN: "纺坠终久之梦",
+    pronunciationJa: "ながきゆめをつむいで",
+    tags: [ "event" ],
+    notes: "v4.7 バージョンサブタイトル",
+  },
+  {
     en: "Mutual Security Enhancing Simulation",
     ja: "堅守演習",
     zhCN: "安固诸方之述演",
@@ -479,6 +487,14 @@
   },
 
   // v4.6
+  {
+    en: "Two Worlds Aflame, the Crimson Night Fades",
+    ja: "双界に至る炎、熄えゆく赤夜",
+    zhCN: "两界为火，赤夜将熄",
+    pronunciationJa: "そうかいにいたるほのおきえゆくせきや", // TODO Need Check
+    tags: [ "event" ],
+    notes: "v4.6 バージョンサブタイトル",
+  },
   {
     en: "Windtrace: Seekers and Strategy",
     ja: "風の行方・妙策の陣",

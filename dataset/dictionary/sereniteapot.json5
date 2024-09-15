@@ -264,6 +264,13 @@
     pronunciationJa: "トーチざい",
     tags: [ "sereniteapot", "fontaine" ],
   },
+  {
+    en: "Ash Wood",
+    ja: "ホワイトアッシュ材",
+    zhCN: "白梣木",
+    pronunciationJa: "ホワイトアッシュざい",
+    tags: [ "sereniteapot", "fontaine" ],
+  },
 
   //
   // Furnishing (調度品)

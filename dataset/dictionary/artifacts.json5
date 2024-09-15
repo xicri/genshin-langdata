@@ -489,4 +489,33 @@
       zhCN: [ "乐团套" ],
     },
   },
+  {
+    en: "Song of Days Past",
+    ja: "在りし日の歌",
+    zhCN: "昔时之歌",
+    pronunciationJa: "ありしひのうた",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Nighttime Whispers in the Echoing Woods",
+    ja: "残暑の森で囁かれる夜話",
+    zhCN: "回声之林夜话",
+    pronunciationJa: "ざんしょのもりでささやかれるよばなし",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Fragment of Harmonic Whimsy",
+    ja: "諧律奇想の断章",
+    zhCN: "谐律异想断章",
+    pronunciationJa: "かいりつきそうのだんしょう",
+    notes: "諧律は中国語で調和・ハーモニーを意味する言葉。日本では戦前に使われていた旧語",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Unfinished Reverie",
+    ja: "遂げられなかった想い",
+    zhCN: "未竟的遐思",
+    pronunciationJa: "とげられなかったおもい",
+    tags: [ "artifact" ],
+  },
 ]
