@@ -489,4 +489,92 @@
     tags: [ "fontaine" ],
     // related: [ "bullet-barnacle" ]
   },
+
+  //
+  // Natlan
+  //
+  {
+    en: "Blue Mountain Spoonbill",
+    ja: "アオヤマヘラサギ",
+    zhCN: "山蓝琵鹭",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Red Flamingo",
+    ja: "赤フラミンゴ",
+    zhCN: "赤鹳",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Halberd-Crest Bird",
+    ja: "ハルバード・サイチョウ",
+    zhCN: "戟冠鸟",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Thick-Feathered Ruffed Pheasant",
+    ja: "エリマキキジ",
+    zhCN: "厚羽围脖雉",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Flowcurrent Bird",
+    ja: "漂流ペンギン",
+    zhCN: "浮流鸟",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Flowfire Bird",
+    ja: "浮燃ペンギン",
+    zhCN: "浮燃鳥",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Brown Deer",
+    ja: "ブラウンディア",
+    zhCN: "棕鹿",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Alpaca",
+    ja: "モコモコ駄獣",
+    zhCN: "绵驮兽",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Capybara",
+    ja: "カピバラ",
+    zhCN: "豚兽",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Long-Necked Rhino",
+    ja: "クビナガライノ",
+    zhCN: "长颈角犀",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Flying Squirrel",
+    ja: "フライングモモンガ",
+    zhCN: "飞鼯",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Pyro Crystalfly",
+    ja: "炎晶蝶",
+    zhCN: "火晶蝶",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Phlogiston Aphid",
+    ja: "燃素ミツムシ",
+    zhCN: "燃素蜜虫",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Crystal Beetle",
+    ja: "クリスタルビートル",
+    zhCN: "固晶甲虫",
+    tags: [ "natlan", "living-being" ],
+  },
 ]

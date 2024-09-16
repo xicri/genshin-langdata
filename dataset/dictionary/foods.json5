@@ -1189,6 +1189,81 @@
     tags: [ "food" ],
     notes: "v4.8 中に中国で実施された、ケンタッキーフライドチキンとのコラボに伴って配布された飲み物",
   },
+  {
+    en: "Glittering Gemstones",
+    ja: "きらきらジュエリー",
+    zhCN: "宝石闪闪",
+    tags: [ "food" ],
+  },
+  {
+    en: "Hot Spring O'Clock",
+    ja: "温泉タイム",
+    zhCN: "温泉时光",
+    pronunciationJa: "おんせんタイム",
+    tags: [ "food" ],
+  },
+  {
+    en: "Puff Pops",
+    ja: "ドキドキポンポン",
+    zhCN: "咚咚嘭嘭",
+    tags: [ "food" ],
+  },
+  {
+    en: "Saurus Crackers",
+    ja: "ちび竜ビスケット",
+    zhCN: "龙龙饼干",
+    pronunciationJa: "ちびりゅうビスケット",
+    tags: [ "food" ],
+  },
+  {
+    en: "Chocolate",
+    ja: "チョコレート",
+    zhCN: "巧克力",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fried Shrimp Beanballs",
+    ja: "アカラジェ",
+    zhCN: "炸虾豆球",
+    tags: [ "food" ],
+  },
+  {
+    en: "Blazed Meat Stew",
+    ja: "プレイズ・ミートシチュー",
+    zhCN: "火焰炖肉",
+    tags: [ "food" ],
+  },
+  {
+    en: "Forest of Color",
+    ja: "カラフルフォレスト",
+    zhCN: "多彩之森",
+    tags: [ "food" ],
+  },
+  {
+    en: "Grainfruit Mear Soup",
+    ja: "グレイン・ポソレ",
+    zhCN: "粒果肉汤",
+    tags: [ "food" ],
+  },
+  {
+    en: "Grainfruit Chips",
+    ja: "グレインチップス",
+    zhCN: "的粒果片片",
+    tags: [ "food" ],
+  },
+  {
+    en: "Grilled in Mint Sauce",
+    ja: "魚のミントソースグリル",
+    zhCN: "薄荷酱烤鱼",
+    pronunciationJa: "さかなのミントソースグリル",
+    tags: [ "food" ],
+  },
+  {
+    en: "Cup O'Grainfruit",
+    ja: "グレインカップ",
+    zhCN: "粒果杯",
+    tags: [ "food" ],
+  },
 
   //
   // Specialties (オリジナル料理)
@@ -1765,6 +1840,29 @@
     pronunciationJa: "えいようたっぷりバランスしょく",
     tags: [ "food", "fontaine" ],
     notes: "シグウィンのオリジナル料理",
+  },
+  {
+    en: "A Fragrant Feast of Flavors",
+    ja: "香り交じり合う風味",
+    zhCN: "香馥繁味",
+    pronunciationJa: "かおりまじりあうふうみ",
+    tags: [ "food", "fontaine" ],
+    notes: "エミリエのオリジナル料理",
+  },
+  {
+    en: "Impeccably Organized",
+    ja: "きっちりチップス",
+    zhCN: "齐齐整整",
+    tags: [ "food", "natlan" ],
+    notes: "カチーナのオリジナル料理",
+  },
+  {
+    en: "Pass the Luck",
+    ja: "幸運のおすそわけ",
+    zhCN: "好运传递",
+    pronunciationJa: "こううんのおすそわけ",
+    tags: [ "food", "natlan" ],
+    notes: "ムアラニのオリジナル料理",
   },
 
   //

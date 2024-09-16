@@ -514,6 +514,38 @@
   },
 
   //
+  // Natlan
+  //
+  {
+    en: "Night Kingdom",
+    ja: "夜神の国",
+    zhCN: "夜神之国",
+    pronunciationJa: "やがみのくに",
+    tags: [ "natlan", "organization" ],
+  },
+  {
+    en: "Wayob",
+    ja: "大霊",
+    zhCN: "大灵",
+    pronunciationJa: "たいえい",
+    tags: [ "natlan", "organization", "living-being" ],
+  },
+  {
+    en: "\"Pilgrimage\"",
+    ja: "帰火聖夜の巡礼",
+    zhCN: "归火圣夜巡礼",
+    pronunciationJa: "きかせいやのじゅんれい",
+    tags: [ "natlan", "organization" ],
+  },
+  {
+    en: "\"Night Warden Wars\"",
+    ja: "夜巡者の戦争",
+    zhCN: "巡夜者战争",
+    pronunciationJa: "よじゅんしゃのせんそう",
+    tags: [ "natlan", "organization" ],
+  },
+
+  //
   // Snezhnaya & Fatui
   //
   {

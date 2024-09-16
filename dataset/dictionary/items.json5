@@ -140,6 +140,14 @@
     notes: "oculus はラテン語で「目」の意",
   },
   {
+    en: "Pyroculus",
+    ja: "失われた炎神の瞳",
+    zhCN: "散失的火神瞳",
+    pronunciationJa: "うしなわれたえんじんのひとみ",
+    tags: [ "item", "natlan" ],
+    notes: "oculus はラテン語で「目」の意",
+  },
+  {
     en: "Anemoculus Resonance Stone",
     ja: "風神の瞳の共鳴石",
     zhCN: "风神瞳共鸣石",
@@ -173,6 +181,13 @@
     zhCN: "水神瞳共鸣石",
     pronunciationJa: "すいじんのひとみのきょうめいせき",
     tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Pyroculus Resonance Stone",
+    ja: "炎神の瞳の共鳴石",
+    zhCN: "火神瞳共鸣石",
+    pronunciationJa: "えんじんのひとみのきょうめいせき",
+    tags: [ "item", "natlan" ],
   },
   {
     en: "Crimson Agate",
@@ -238,6 +253,13 @@
     zhCN: "水之印",
     pronunciationJa: "みずのしるし",
     tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Pyro Sigil",
+    ja: "炎の印",
+    zhCN: "火之印",
+    pronunciationJa: "ほのおのしるし",
+    tags: [ "item", "natlan" ],
   },
   {
     en: "Liyue Shrine of Depths Key",
@@ -817,7 +839,7 @@
     ja: "萃凝晶",
     zhCN: "萃凝晶",
     pronunciationJa: "すいぎょうしょう", // TODO Need Check
-    tags: [ "item", "fontaine" ],
+    tags: [ "item", "fontaine", "natlan" ],
   },
 
   //
@@ -1259,6 +1281,13 @@
     zhCN: "旧都梦夜奇谭",
     tags: [ "event", "item" ],
   },
+  {
+    en: "The Tale of Qoyllor and Ukuku",
+    ja: "クイールとウククの物語",
+    zhCN: "奎伊露和乌库库的故事	",
+    pronunciationJa: "クイールとウククのものがたり",
+    tags: [ "natlan", "item" ],
+  },
 
   //
   // Gadgets
@@ -1329,6 +1358,13 @@
     ja: "画像サンプリング写真機",
     zhCN: "图形样本留影机",
     tags: [ "fontaine", "item", "event" ],
+  },
+  {
+    en: "Graffiti Kamera",
+    ja: "ラクガキ写真機",
+    zhCN: "涂鸦留影机",
+    pronunciationJa: "ラクガキしゃしんき",
+    tags: [ "natlan", "item", "event" ],
   },
 
   //
@@ -1566,6 +1602,46 @@
     zhCN: "浊水幻灵克星",
     pronunciationJa: "だくすいげんれいイチコロリ", // TODO Need Check
     tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Grainfruit",
+    ja: "グレインの実",
+    zhCN: "颗粒果",
+    pronunciationJa: "グレインのみ",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Candlecap Mushroom",
+    ja: "キャンドルキノコ",
+    zhCN: "烛伞蘑菇",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Embercore Flower",
+    ja: "エンバーコアフラワー",
+    zhCN: "烬芯花",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Spinel Fruit",
+    ja: "スピネルの実",
+    zhCN: "澄晶实",
+    pronunciationJa: "スピネルのみ",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Cacahuatl",
+    ja: "ショコアトゥルの種",
+    zhCN: "苦种",
+    pronunciationJa: "ショコアトゥルのみ",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Night Jade",
+    ja: "夜の玉",
+    zhCN: "夜之玉",
+    pronunciationJa: "よるのぎょく",
+    tags: [ "item", "natlan" ],
   },
 
   //

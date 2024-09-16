@@ -774,4 +774,111 @@
     pronunciationJa: "くだけたけんのつか",
     tags: [ "fontaine", "drop" ],
   },
+
+  {
+    en: "Axis of the Secret Source",
+    ja: "秘源のベアリング",
+    zhCN: "秘源轴",
+    pronunciationJa: "ひげんのベアリング",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Sheath of the Secret Source",
+    ja: "秘源のシース",
+    zhCN: "秘源机鞘",
+    pronunciationJa: "ひげんのシース",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Heart of the Secret Source",
+    ja: "秘源のコア",
+    zhCN: "秘源真芯",
+    pronunciationJa: "ひげんのコア",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Shard of a Shattered Will",
+    ja: "砕けた意思の欠片",
+    zhCN: "意志破碎的残片",
+    pronunciationJa: "くだけたいしのけっぺん",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Locus of a Clear Will",
+    ja: "明瞭な意思の偶像",
+    zhCN: "意志明晰的寄偶",
+    pronunciationJa: "めいりょうないしのぐうぞう",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Sigil of a Striding Will",
+    ja: "巡る意思の偶像",
+    zhCN: "意志巡游的符像",
+    pronunciationJa: "めぐるいしのぐうぞう",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Ignited Stone",
+    ja: "燃え盛る石",
+    zhCN: "聚燃的石块",
+    pronunciationJa: "もえさかるいし",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Ignited Seed of Life",
+    ja: "燃え盛る命の種",
+    zhCN: "聚燃的命种",
+    pronunciationJa: "もえさかるいのちのたね",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Ignited Seeing Eye",
+    ja: "燃え盛る遊像の眼",
+    zhCN: "聚燃的游像眼",
+    pronunciationJa: "もえさかるゆうぞうのめ",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Juvenile Fang",
+    ja: "未熟な牙",
+    zhCN: "稚嫩的尖齿",
+    pronunciationJa: "みじゅくなきば",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Seasoned Fang",
+    ja: "熟練の牙",
+    zhCN: "老练的坚齿",
+    pronunciationJa: "じゅくれんなきば",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Tyrant's Fang",
+    ja: "覇道の牙",
+    zhCN: "横行霸者的利齿",
+    pronunciationJa: "はどうのきば",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Sentry's Wooden Whistle",
+    ja: "従戦士の木笛",
+    zhCN: "卫从的木哨",
+    pronunciationJa: "じゅうせんしのもくてき", // TODO Need Check
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Warrior's Metal Whistle",
+    ja: "戦士の鉄笛",
+    zhCN: "战士的铁哨",
+    pronunciationJa: "せんしのてってき", // TODO Need Check
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Saurian-Crowned Warrior's Golden Whistle",
+    ja: "竜冠戦士の金笛",
+    zhCN: "龙冠武士的金哨",
+    pronunciationJa: "りゅうかんせんしのきんてき", // TODO Need Check
+    tags: [ "natlan", "drop" ],
+  },
+
 ]
