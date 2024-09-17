@@ -44,7 +44,7 @@
     pronunciationJa: "せいれんそざい",
     tags: [ "weapon" ],
     notes: "イベント報酬の武器などの精錬に用いる、専用の素材のこと",
-    // notesEn: "A specialized material to refine weapons acquired in the limited-time events"
+    notesEn: "A specialized material to refine weapons acquired in the limited-time events.",
   },
 
   //
@@ -260,7 +260,7 @@
     pronunciationJa: "マルテンスのばんのうほござい",
     tags: [ "weapon" ],
     notes: "サーンドルの渡し守の精錬素材",
-    // notesEn: "Refinement material for Fleuve Cendre Ferryman",
+    notesEn: "Refinement material for Fleuve Cendre Ferryman",
   },
   {
     en: "The Dockhand's Assistant",
@@ -1136,7 +1136,7 @@
     pronunciationJa: "かすみいろのほうじゅ",
     tags: [ "weapon" ],
     notes: "落霞の精錬素材",
-    // notesEn: "Refinement Material for Fading Twilight"
+    notesEn: "Refinement Material for Fading Twilight",
   },
   {
     en: "End of the Line",
@@ -1166,7 +1166,7 @@
     zhCN: "凝恒的脂蜡",
     tags: [ "weapon" ],
     notes: "トキの嘴の精錬素材",
-    // notesEn: "Refinement material for Ibis Piercer",
+    notesEn: "Refinement material for Ibis Piercer",
   },
   {
     en: "Song of Stillness",

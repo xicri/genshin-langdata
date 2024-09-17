@@ -1567,7 +1567,7 @@
     pronunciationJa: "ふしぎなほんのページ",
     tags: [ "item", "fontaine" ],
     notes: "啓示の書の散逸したページ",
-    // notesEn: "Scattered pages of the Book of Revealing"
+    notesEn: "Scattered pages of the Book of Revealing",
     // related: [ "book-of-revealing" ]
   },
   {
@@ -1594,7 +1594,7 @@
     pronunciationJa: "とくべつきょかけん",
     tags: [ "item", "fontaine" ],
     notes: "メロピデ要塞で流通する通貨のようなもの",
-    // notesEn: "Currency used in the Fortress of Meropide"
+    notesEn: "Currency used in the Fortress of Meropide",
   },
   {
     en: "Hydro Phantasm Taint-B-Gone",

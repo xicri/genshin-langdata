@@ -589,7 +589,8 @@
     ja: "マーガレット",
     zhCN: "玛格丽特",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "キャッツテールの店主", // en: Boss at Cat's Tail
+    notes: "キャッツテールの店主",
+    notesEn: "Boss at Cat's Tail",
     notesZh: "猫尾酒馆的店主",
   },
   {
@@ -597,7 +598,8 @@
     ja: "ドゥラフ・カッツェレイン",
     zhCN: "杜拉夫·凯茨莱茵",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "ディオナの父親で清泉町の狩人のリーダー", // en: Diona's father and the head of the hunters in Springvale
+    notes: "ディオナの父親で清泉町の狩人のリーダー",
+    notesEn: "Diona's father and the head of the hunters in Springvale",
     notesZh: "迪奥娜的父亲、清泉镇的猎人首领",
   },
   {
@@ -761,6 +763,7 @@
     zhCN: "楠塔克",
     tags: [ "mondstadt", "character-sub" ],
     notes: "モンドの漁師",
+    notesEn: "Mondstadt Angler",
   },
   {
     en: "Marjorie",
@@ -1479,7 +1482,7 @@
     zhCN: "嘉玮",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月の漁師",
-    // notesEn: "Liyue Angler",
+    notesEn: "Liyue Angler",
   },
   {
     en: "Ying'er",
@@ -2301,7 +2304,7 @@
     zhCN: "久利由卖",
     tags: [ "inazuma", "character-sub" ],
     notes: "世界任務「パエトーンたちはみな踊る」に登場するキャラクター",
-    // notesEn: "A character appears in a World Quest \"The Phaethons' Syrtos\"",
+    notesEn: "A character appears in a World Quest \"The Phaethons' Syrtos\"",
   },
   {
     en: "Date",
@@ -2437,7 +2440,7 @@
     tags: [ "inazuma", "character-sub" ],
     notes: "稲妻の漁師",
     pinyins: [{ char: "椛", pron: "hua1" }],
-    // notesEn: "Inazuman Angler",
+    notesEn: "Inazuman Angler",
   },
   {
     en: "Kid Kujirai",
@@ -2814,7 +2817,7 @@
     zhCN: "鲁梅拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの漁師",
-    // notesEn: "Sumeru Angler",
+    notesEn: "Sumeru Angler",
   },
   {
     en: "Karkata",
@@ -3297,7 +3300,7 @@
     zhCN: "兰弥那离",
     tags: [ "sumeru", "character-sub" ],
     notes: "たくさんの宝箱がある部屋にいるアランナラ",
-    // notesEn: "An Aranara in the room with a lot of Chests",
+    notesEn: "An Aranara in the room with a lot of Chests",
   },
   {
     en: "Khayyam",
@@ -3542,7 +3545,7 @@
     zhCN: "西摩格",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「善悪のクヴァレナ」で言及される、霊光百種を創造した神鳥",
-    // notesEn: "A divine bird which created coutless motes of Khvarena mentioned in a world quest \"Khvarena of Good and Evil\""
+    notesEn: "A divine bird which created coutless motes of Khvarena mentioned in a world quest \"Khvarena of Good and Evil\"",
     notesZh: "世界任务「善恶的赫瓦雷纳」中提到的神鸟",
   },
   {
@@ -3905,7 +3908,7 @@
     zhCN: "阿鲁埃",
     tags: [ "fontaine", "character-sub" ],
     notes: "カフェ・ルツェルンの店主",
-    // notesEn: "The boss of Café Lucerne",
+    notesEn: "The boss of Café Lucerne",
   },
   {
     en: "Delaroche",
@@ -3913,7 +3916,7 @@
     zhCN: "德拉萝诗",
     tags: [ "fontaine", "character-sub" ],
     notes: "フォンテーヌの漁師",
-    // notesEn: "Fontaine Angler",
+    notesEn: "Fontaine Angler",
   },
   {
     en: "Boucicaut",
@@ -3921,7 +3924,7 @@
     zhCN: "布希柯",
     tags: [ "fontaine", "character-sub" ],
     notes: "ダーモヴィル雑貨店の店主",
-    // notesEn: "The manager of Damoville Purveyor",
+    notesEn: "The manager of Damoville Purveyor",
     // related: [ "damoville-purveyor" ],
   },
   {
@@ -3986,7 +3989,7 @@
     zhCN: "玛塞勒",
     tags: [ "fontaine", "character-sub" ],
     notes: "カブリエール商会の会長。魔神任務第4章第2幕に登場",
-    // notesEn: "The head of Confrerie of Cabriere. Appears in the Archon Quest Chapter Ⅳ Act Ⅱ"
+    notesEn: "The head of Confrerie of Cabriere. Appears in the Archon Quest Chapter Ⅳ Act Ⅱ",
   },
   {
     en: "Vacher",
@@ -4902,6 +4905,7 @@
     zhCN: "山下",
     pronunciationJa: "やました",
     notes: "部族見聞「ユバンキの廻焔」に登場するアビス教団の使者。「淵上」と称するものと同一人物",
+    notesEn: "The same chatacter as Enjou. His Japanese name is pronunced Yamashita and the English name Sanka may be a mistranslation.",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -4967,7 +4971,7 @@
     ja: "相棒",
     zhCN: "伙伴 / 搭档",
     notes: "タルタリヤ、鹿野院平蔵、ナヴィアの旅人に対する呼び方。英語版では、タルタリヤは comrade と、鹿野院平蔵とナヴィアは partner と呼ぶ。中国語版では、タルタリヤは「伙伴」と、鹿野院平蔵とナヴィアは「搭档」と呼ぶ",
-    // notesEn: "Childe, Shikanoin Heizou, and Navia call Traveler so. While Childe calls them \"comrade\" and Shikanoin Heizou and Navia calls them \"partner\" in English version, Childe calls them 伙伴 and Shikanoin Heizou and Navia calls them 搭档 in Chinese. In Japanese version, all three calls them 相棒."
+    notesEn: "Childe, Shikanoin Heizou, and Navia call Traveler so. While Childe calls them \"comrade\" and Shikanoin Heizou and Navia calls them \"partner\" in English version, Childe calls them 伙伴 and Shikanoin Heizou and Navia calls them 搭档 in Chinese. In Japanese version, all three calls them 相棒.",
     notesZh: "公子、鹿野院平藏和娜维娅称呼旅行者的方式。在中文中，公子称呼旅行者为“伙伴”，但是鹿野院平藏和娜维娅称呼旅行者为“搭档”。在英文中，公子称呼旅行者为“comrade”，但是鹿野院平藏和娜维娅称呼旅行者为“partner”。在日语中，他们三人都称呼旅行者为“相棒“。",
     tags: [ "snezhnaya", "liyue", "inazuma", "fontaine", "how-to-call" ],
     examples: [
