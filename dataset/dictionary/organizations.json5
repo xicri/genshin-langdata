@@ -521,7 +521,7 @@
     ja: "夜神の国",
     zhCN: "夜神之国",
     pronunciationJa: "やがみのくに",
-    tags: [ "natlan", "organization" ],
+    tags: [ "natlan", "location" ],
   },
   {
     en: "Wayob",
