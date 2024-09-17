@@ -1,9 +1,9 @@
 import { ok } from "node:assert";
+import { DateTime } from "luxon";
 import { expect, test } from "vitest";
 
 import tags from "../dataset/tags.json";
 import words from "../dist/words.json";
-import { DateTime } from "luxon";
 
 function isURL(urlStr) {
   try {
