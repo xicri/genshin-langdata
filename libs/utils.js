@@ -2,6 +2,7 @@ import { readdir, readFile } from "node:fs/promises";
 import JSON5 from "json5";
 
 export async function loadJSON(path, options = { json5: false }) {
+  console.info(`Loading ${ path }`);
   const jsonStr = await readFile(path, { encoding: "utf-8" });
   return (options.json5 ? JSON5 : JSON).parse(jsonStr);
 }
