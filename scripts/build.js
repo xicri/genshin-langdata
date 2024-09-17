@@ -1,19 +1,16 @@
 import { copyFile, mkdir, rm } from "fs/promises";
 import { resolve } from "path";
-import { fileURLToPath } from "url";
 import { Dictionary } from "../libs/dictionary.js";
 
-const __dirname = fileURLToPath(new URL(".", import.meta.url));
-
-await rm(resolve(__dirname, "../dist"), { recursive: true, force: true });
-await mkdir(resolve(__dirname, "../dist/redirect/"), { recursive: true });
+await rm(resolve(import.meta.dirname, "../dist"), { recursive: true, force: true });
+await mkdir(resolve(import.meta.dirname, "../dist/redirect/"), { recursive: true });
 
 const dictionary = new Dictionary();
 await dictionary.load();
-await dictionary.buildJSON(resolve(__dirname, "../dist"));
+await dictionary.buildJSON(resolve(import.meta.dirname, "../dist"));
 
 await Promise.all([
-  copyFile(resolve(__dirname, "../dataset/tags.json"), resolve(__dirname, "../dist/tags.json")),
-  copyFile(resolve(__dirname, "../dataset/redirect/words.json"), resolve(__dirname, "../dist/redirect/words.json")),
-  copyFile(resolve(__dirname, "../dataset/redirect/tags.json"), resolve(__dirname, "../dist/redirect/tags.json")),
+  copyFile(resolve(import.meta.dirname, "../dataset/tags.json"), resolve(import.meta.dirname, "../dist/tags.json")),
+  copyFile(resolve(import.meta.dirname, "../dataset/redirect/words.json"), resolve(import.meta.dirname, "../dist/redirect/words.json")),
+  copyFile(resolve(import.meta.dirname, "../dataset/redirect/tags.json"), resolve(import.meta.dirname, "../dist/redirect/tags.json")),
 ]);

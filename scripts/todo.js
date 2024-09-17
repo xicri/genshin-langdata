@@ -1,10 +1,8 @@
 import { readdir, readFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
 import { resolve } from "node:path";
 import JSON5 from "json5";
 
-const __dirname = fileURLToPath(new URL(".", import.meta.url));
-const dicDir = resolve(__dirname, "../dataset/dictionary");
+const dicDir = resolve(import.meta.dirname, "../dataset/dictionary");
 const json5FileNames = await readdir(dicDir);
 
 console.info("# Words without Chinese translation");

@@ -7,11 +7,8 @@ import { marked } from "marked";
 import fetch from "node-fetch";
 import { resolve } from "path";
 import pinyinTone from "pinyin-tone";
-import { fileURLToPath } from "url";
 
 import { jsonTo, loadJSONs } from "./utils.js";
-
-const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
 async function writeFileSJIS(file, data) {
   await rm(file, { force: true });
@@ -28,7 +25,7 @@ export class Dictionary {
   #loaded = false;
 
   async load() {
-    this.#words = await loadJSONs(resolve(__dirname, "../dataset/dictionary"), { json5: true });
+    this.#words = await loadJSONs(resolve(import.meta.dirname, "../dataset/dictionary"), { json5: true });
     this.#addIDs();
     this.#compileMarkdown();
     this.#convertPinyinToneLetters();
