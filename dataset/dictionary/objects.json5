@@ -1190,4 +1190,41 @@
     zhCN: "巨大的贝壳",
     tags: [ "fontaine", "object" ],
   },
+
+  //
+  // Natlan
+  //
+  {
+    en: "Sharky Surfboard",
+    ja: "ざぶざぶサメくん",
+    zhCN: "鲨鲨冲浪板",
+    notes: "ムアラニ愛用のサーフボード",
+    tags: [ "natlan", "object" ],
+  },
+  {
+    en: "Turbo Twirly",
+    ja: "ぐるぐるコマちゃん",
+    zhCN: "冲天转转",
+    notes: "カチーナ愛用の乗用ドリルマシン",
+    tags: [ "natlan", "object" ],
+  },
+  {
+    en: "Obsidian Totem Pole",
+    ja: "黒曜石のトーテムポール",
+    zhCN: "曜石图腾柱",
+    pronunciationJa: "こくようせきのトーテムポール",
+    tags: [ "natlan", "object" ],
+  },
+  {
+    en: "Spiritspeaker Stone",
+    ja: "スピリットストーン",
+    zhCN: "灵觉髄石",
+    tags: [ "natlan", "object" ],
+  },
+  {
+    en: "Spiritway",
+    ja: "スピリットウェイ",
+    zhCN: "游隙灵道",
+    tags: [ "natlan", "object" ],
+  },
 ]

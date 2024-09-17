@@ -307,4 +307,31 @@
     pronunciationJa: "はつつゆのみなもと",
     tags: [ "fontaine", "specialty" ],
   },
+
+  // Natlan
+  {
+    en: "Sprayfeather Gill",
+    ja: "波しぶきのエラ",
+    zhCN: "浪沫羽鳃",
+    pronunciationJa: "なみしぶきのエラ",
+    tags: [ "specialty", "natlan" ],
+  },
+  {
+    en: "Quenepa Berry",
+    ja: "ケネパベリー",
+    zhCN: "青蜜莓",
+    tags: [ "specialty", "natlan" ],
+  },
+  {
+    en: "Saurian Claw Succulent",
+    ja: "サウリアンサキュレント",
+    zhCN: "肉龙掌",
+    tags: [ "specialty", "natlan" ],
+  },
+  {
+    en: "Brilliant Chrysanthemum",
+    ja: "シャクギク",
+    zhCN: "灼灼彩菊",
+    tags: [ "specialty", "natlan" ],
+  },
 ]

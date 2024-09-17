@@ -274,6 +274,14 @@
     en: "Sword of Narzissenkreuz",
     ja: "水仙十字の剣",
     zhCN: "水仙十字之剑",
+    pronunciationJa: "すいせんじゅうじのけん",
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Flute of Ezpitzal",
+    ja: "エズピツァルの笛",
+    zhCN: "息燧之笛",
+    pronunciationJa: "エズピツァルのふえ",
     tags: [ "weapon", "sword" ],
   },
   // ★5
@@ -596,9 +604,15 @@
     ja: "スーパーアルティメット覇王魔剣",
     zhCN: "究极霸王超级魔剑",
     pronunciationJa: "スーパーアルティメットはおうまけん",
-    tags: [ "weapon", "claymore" ],
+    tags: [ "weapon", "claymore", "event" ],
     notes: "v4.3 期間限定イベント「薔薇と銃士」報酬",
     notesZh: "v4.3 活动「蔷薇与铳枪」奖励",
+  },
+  {
+    en: "Earth Shaker",
+    ja: "アースシェイカー",
+    zhCN: "撼地者",
+    tags: [ "weapon", "claymore" ],
   },
   // ★5
   {
@@ -852,9 +866,16 @@
     ja: "砂中の賢者達の問答",
     zhCN: "沙中伟贤的对答",
     pronunciationJa: "さちゅうのけんじゃたちのもんどう",
-    tags: [ "weapon", "polearm" ],
+    tags: [ "weapon", "polearm", "event" ],
     notes: "v4.5 期間限定イベント「巧みなる錬金経営」報酬",
     notesZh: "v4.5 活动「升炼研巧万策金」奖励",
+  },
+  {
+    en: "Footprint of the Rainbow",
+    ja: "虹の行方",
+    zhCN: "虹的行迹",
+    pronunciationJa: "にじのゆくえ",
+    tags: [ "weapon", "polearm" ],
   },
   // ★5
   {
@@ -1167,6 +1188,12 @@
     zhCN: "测距规",
     tags: [ "weapon", "bow" ],
   },
+  {
+    en: "Chain Breaker",
+    ja: "チェーンブレイカー",
+    zhCN: "碎链",
+    tags: [ "weapon", "bow" ],
+  },
   // ★5
   {
     en: "Skyward Harp",
@@ -1247,7 +1274,7 @@
     ja: "築雲",
     zhCN: "筑云",
     pronunciationJa: "ちくうん",
-    tags: [ "weapon", "bow" ],
+    tags: [ "weapon", "bow", "event" ],
     notes: "v4.7 期間限定イベント「堅守演習」報酬",
     notesZh: "v4.7 活动「安固诸方之述演」奖励",
   },
@@ -1463,6 +1490,22 @@
     pronunciationJa: "はてなきこんぺきのうた",
     tags: [ "weapon", "catalyst" ],
   },
+  {
+    en: "Ash-Graven Drinking Horn",
+    ja: "蒼紋の角杯",
+    zhCN: "苍纹角杯",
+    pronunciationJa: "そうもんのかくはい",
+    notes: "v5.0 期間限定イベント「巡れ！ワンダフルグラフィティ」報酬",
+    notesZh: "v5.0 活动「绮绘的踪绪」奖励",
+    tags: [ "weapon", "catalyst", "event" ],
+  },
+  {
+    en: "Ring of Yaxche",
+    ja: "ヤシュチェの環",
+    zhCN: "木棉之环",
+    pronunciationJa: "ヤシュチェのかん",
+    tags: [ "weapon", "catalyst" ],
+  },
   // ★5
   {
     en: "Skyward Atlas",
@@ -1553,6 +1596,12 @@
     ja: "鶴鳴の余韻",
     zhCN: "鹤鸣余音",
     pronunciationJa: "かくめいのよいん",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Surf's Up",
+    ja: "サーフィンタイム",
+    zhCN: "冲浪时光",
     tags: [ "weapon", "catalyst" ],
   },
 ]

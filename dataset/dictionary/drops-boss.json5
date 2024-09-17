@@ -458,4 +458,18 @@
     pronunciationJa: "ざんかのとうそく",
     tags: [ "fontaine", "drop-boss" ],
   },
+  {
+    en: "Overripe Flamegranate",
+    ja: "フレイムグレネード・爛熱",
+    zhCN: "过熟的火榴果",
+    pronunciationJa: "フレイムグレネードらんねつ",
+    tags: [ "natlan", "drop-boss" ],
+  },
+  {
+    en: "Mark of the Binding Blessing",
+    ja: "祝福の縛印",
+    zhCN: "受祝所缚之印",
+    pronunciationJa: "しゅくふくのばくいん",
+    tags: [ "natlan", "drop-boss" ],
+  },
 ]

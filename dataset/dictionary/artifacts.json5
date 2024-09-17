@@ -518,4 +518,18 @@
     pronunciationJa: "とげられなかったおもい",
     tags: [ "artifact" ],
   },
+  {
+    en: "Obsidian Codex",
+    ja: "黒曜の秘典",
+    zhCN: "黑曜秘典",
+    pronunciationJa: "こくようのひてん",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Scroll of the Hero of Cinder City",
+    ja: "灰燼の都に立つ英雄の絵巻",
+    zhCN: "烬城勇者绘卷",
+    pronunciationJa: "かいじんのみやこにたつえいゆうのえまき",
+    tags: [ "artifact" ],
+  },
 ]

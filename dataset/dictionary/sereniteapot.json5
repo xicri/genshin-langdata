@@ -271,6 +271,34 @@
     pronunciationJa: "ホワイトアッシュざい",
     tags: [ "sereniteapot", "fontaine" ],
   },
+  {
+    en: "Flammabomb Wood",
+    ja: "フレイムボム材",
+    zhCN: "燃爆木",
+    pronunciationJa: "フレイムボムざい",
+    tags: [ "sereniteapot", "natlan" ],
+  },
+  {
+    en: "Peach Palm Wood",
+    ja: "ピーチココナッツ材",
+    zhCN: "桃椰子木",
+    pronunciationJa: "ピーチココナッツざい",
+    tags: [ "sereniteapot", "natlan" ],
+  },
+  {
+    en: "White Chestnut Oak Wood",
+    ja: "ホワイトオーク材",
+    zhCN: "白栗栎木",
+    pronunciationJa: "ホワイトオークざい",
+    tags: [ "sereniteapot", "natlan" ],
+  },
+  {
+    en: "Ashen Aratiku Wood",
+    ja: "アッシェンロリニア材",
+    zhCN: "灰灰楼林木",
+    pronunciationJa: "アッシェンロリニアざい",
+    tags: [ "sereniteapot", "natlan" ],
+  },
 
   //
   // Furnishing (調度品)

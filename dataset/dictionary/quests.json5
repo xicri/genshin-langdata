@@ -269,6 +269,24 @@
     notes: "魔神任務第四章第六幕",
   },
 
+  // Natlan
+  {
+    en: "Flowers Resplendent on the Sun-Scorched Sojourn",
+    ja: "栄華と炎天の途",
+    zhCN: "荣花与炎日之途",
+    pronunciationJa: "えいがとえんてんのと",
+    tags: [ "natlan", "quest-archon" ],
+    notes: "魔神任務第五章第一幕",
+  },
+  {
+    en: "Black Stone Under a White Stone",
+    ja: "白石に埋もれし黒石",
+    zhCN: "黑石湮落白石下",
+    pronunciationJa: "はくせきにうもれしこくせき",  // TODO Need Check
+    tags: [ "natlan", "quest-archon" ],
+    notes: "魔神任務第五章第二幕",
+  },
+
   {
     en: "Interlude",
     ja: "間章",
@@ -1917,6 +1935,80 @@
     tags: [ "fontaine", "quest-world" ],
   },
 
+  // World Quests - Natlan
+  {
+    en: "Between Pledge and Forgettance",
+    ja: "約束と忘却の間に",
+    zhCN: "在应许与遗忘之间",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "In the Footsteps of the Chosen of Dragons",
+    ja: "龍に選ばれし者の旅路",
+    zhCN: "龙选者的旅迹",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Shadows of the Mountains",
+    ja: "山々の影",
+    zhCN: "群山的影子",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Tale of Dreams Plucked From Fire",
+    ja: "炎から夢を取り出す話",
+    zhCN: "火中取梦的故事",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "The Call of Mystical Martial Arts",
+    ja: "伝説の武術のいざない",
+    zhCN: "神秘武学的召唤",
+    tags: [ "mondstadt", "liyue", "quest-world" ],
+  },
+  {
+    en: "The Case of the Crafting Bench",
+    ja: "合成台の謎",
+    zhCN: "合成台疑案",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "The Road Ahead",
+    ja: "先へ続く道",
+    zhCN: "将行之路",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "To Wish Upon a Star",
+    ja: "星に願いを",
+    zhCN: "向星星许愿",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Stride on Rainbows, Split the Waves",
+    ja: "虹に乗って波を切り裂く！",
+    zhCN: "踏虹破浪！",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "To the Night, What is the Night's",
+    ja: "夜に帰す夜",
+    zhCN: "将夜晚放还于夜晚",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Ripe For Trouble",
+    ja: "熟れない実",
+    zhCN: "熟是生非",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Toward Red-Hot Adventure!",
+    ja: "燃える冒険へ！",
+    zhCN: "	朝着炽热的冒险！",
+    tags: [ "natlan", "quest-world" ],
+  },
+
   //
   // World Quests - Random Quests
   //
@@ -3293,6 +3385,50 @@
     zhCN: "力争上游",
     pronunciationJa: "たかみをめざせ",
     tags: [ "quest-daily", "fontaine" ],
+  },
+
+  // Natlan
+  {
+    en: "Hey! Calm Down!",
+    ja: "おーい！落ち着け！",
+    zhCN: "嗨！冷静点！",
+    pronunciationJa: "おーいおちつけ",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Internal Combustion Change",
+    ja: "火炎に向かって進め",
+    zhCN: "内燃奔进",
+    pronunciationJa: "かえんにむかってすすめ",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Cloud-Soaring Saurians",
+    ja: "雲上の竜と共に",
+    zhCN: "龙共云飞",
+    pronunciationJa: "うんじょうのりゅうとともに",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Swelling Springs",
+    ja: "飛泉のスピリット",
+    zhCN: "飞泉游隙",
+    pronunciationJa: "ひせんのスピリット",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Just a Lil' Flaunting",
+    ja: "小手調べ",
+    zhCN: "略显身手",
+    pronunciationJa: "こてしらべ",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Saurian Versus Mountain",
+    ja: "竜と山",
+    zhCN: "龙与山",
+    pronunciationJa: "りゅうとやま",
+    tags: [ "quest-daily", "natlan" ],
   },
 
   //

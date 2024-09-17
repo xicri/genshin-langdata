@@ -879,4 +879,57 @@
     pronunciationJa: "いのちのけいやく",
     tags: [ "fontaine" ],
   },
+
+  //
+  // Natlan
+  //
+  {
+    en: "Phlogiston",
+    ja: "燃素",
+    zhCN: "燃素",
+    pronunciationJa: "ねんそ",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Saurian Infwelling",
+    ja: "竜憑依",
+    zhCN: "龙之魂附",
+    pronunciationJa: "りゅうひょうい",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Nightsoul",
+    ja: "夜塊",
+    zhCN: "夜魂",
+    pronunciationJa: "やこん",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Nightsoul Burst",
+    ja: "夜塊バースト",
+    zhCN: "夜魂迸发",
+    pronunciationJa: "やこんバースト",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Nightsoul's Blessing",
+    ja: "夜魂の加護",
+    zhCN: "夜魂加持",
+    pronunciationJa: "やこんのかご",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Nightsoul Point",
+    ja: "夜塊値",
+    zhCN: "夜魂值",
+    pronunciationJa: "やこんち",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Nightsoul Transmission",
+    ja: "夜魂トランス",
+    zhCN: "夜魂传递",
+    pronunciationJa: "やこんトランス",
+    tags: [ "natlan" ],
+  },
 ]
