@@ -13,6 +13,8 @@ module.exports = {
 
   rules: {
     "node/no-unpublished-import": "off",
+    // Disabled because TypeScript validate it instead
+    "vitest/valid-expect": "off",
   },
 
   overrides: [
