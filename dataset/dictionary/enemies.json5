@@ -788,7 +788,6 @@
       ja: [ "デッドエージェント" ],
     },
     notes: "日本語は「デッド」(dead = 死) ではなく「デット」(debt = 債務) であることに注意",
-    // notesEn: "In Japanese, it is called \"Debt Agent\". It is frequently mistaken as \"Dead Agent\" by Japanese speakers"
   },
   {
     en: "Fatui Skirmisher",
