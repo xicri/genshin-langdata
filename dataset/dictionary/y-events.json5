@@ -200,7 +200,7 @@
     ja: "カラフルギフト",
     zhCN: "彩绘赠礼",
     tags: [ "event" ],
-    notes: "v5.0 期間限定イベントの子イベント",
+    notes: "v5.0 期間限定イベント「巡れ! ワンダフルグラフィティ」の子イベント",
   },
   {
     en: "Search for Inspiration",
@@ -208,7 +208,7 @@
     zhCN: "探寻灵感",
     pronunciationJa: "ヒラメキさがし",
     tags: [ "event" ],
-    notes: "v5.0 期間限定イベントの子イベント",
+    notes: "v5.0 期間限定イベント「巡れ! ワンダフルグラフィティ」の子イベント",
   },
   {
     en: "Dodoco's Boom-Bastic Escapades",
@@ -224,7 +224,7 @@
     zhCN: "「炫彩呆子」的涂鸦手记",
     pronunciationJa: "カラフルノロマのしょき",
     tags: [ "event", "item" ],
-    notes: "v5.0 期間限定イベント内で貰えるアイテム。簡体字の「涂鸦」とは書きなぐるという意味",
+    notes: "v5.0 期間限定イベント「巡れ! ワンダフルグラフィティ」内で貰えるアイテム。簡体字の「涂鸦」とは書きなぐるという意味",
   },
   {
     en: "\"The Sea's Silent Shade\"",
@@ -232,7 +232,7 @@
     zhCN: "「「凝静的海色」",
     pronunciationJa: "しずかなうみいろ",
     tags: [ "event", "weapon-material" ],
-    notes: "v5.0 期間限定イベント内で貰える配布武器「蒼紋の角杯」の強化アイテム",
+    notes: "v5.0 期間限定イベント「巡れ! ワンダフルグラフィティ」内で貰える配布武器「蒼紋の角杯」の強化アイテム",
   },
 
   // v4.8
