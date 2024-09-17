@@ -2380,7 +2380,7 @@
     ja: "聖火競技場",
     zhCN: "圣火竞技场",
     pronunciationJa: "せいかきょうぎじょう",
-    tags: [ "natlan", "location", "organization" ],
+    tags: [ "natlan", "location" ],
   },
   {
     en: "Stadium of the Sacred Flame: Chuwen Fair",
@@ -2394,7 +2394,7 @@
     ja: "聖火競技場・パックス神殿",
     zhCN: "圣火竞技场·帕克斯神庙",
     pronunciationJa: "せいかきょうぎじょうパックスしんでん",
-    tags: [ "natlan", "location", "organization" ],
+    tags: [ "natlan", "location" ],
   },
   {
     en: "Tablet of Tona",
@@ -2436,7 +2436,7 @@
     ja: "先人の神殿",
     zhCN: "祖遗庙宇",
     pronunciationJa: "せんじんのしんでん",
-    tags: [ "natlan", "location", "organization" ],
+    tags: [ "natlan", "location" ],
   },
   {
     en: "Abandoned Temple's Sanctuary of Offerings",
@@ -2444,7 +2444,7 @@
     zhCN: "遗留庙宇的祭奠所",
     pronunciationJa: "のこされたしんでんのとむらうば",
     notes: "世界任務「夜に帰す夜」で開放される先人の神殿の地下",
-    tags: [ "natlan", "location", "organization" ],
+    tags: [ "natlan", "location" ],
   },
   {
     en: "Phlogiston Extraction Research Center",

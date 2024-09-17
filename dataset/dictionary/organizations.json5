@@ -528,21 +528,21 @@
     ja: "大霊",
     zhCN: "大灵",
     pronunciationJa: "たいれい",
-    tags: [ "natlan", "organization", "living-being" ],
+    tags: [ "natlan", "living-being" ],
   },
   {
     en: "\"Pilgrimage\"",
     ja: "帰火聖夜の巡礼",
     zhCN: "归火圣夜巡礼",
     pronunciationJa: "きかせいやのじゅんれい",
-    tags: [ "natlan", "organization" ],
+    tags: [ "natlan" ],
   },
   {
     en: "\"Night Warden Wars\"",
     ja: "夜巡者の戦争",
     zhCN: "巡夜者战争",
     pronunciationJa: "よじゅんしゃのせんそう",
-    tags: [ "natlan", "organization" ],
+    tags: [ "natlan" ],
   },
 
   //
