@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises";
-import { DateTime } from "luxon";
 import { resolve } from "node:path";
+import { DateTime } from "luxon";
 import { expect, test, beforeAll, afterAll } from "vitest";
 
 import { Dictionary } from "../libs/dictionary.js";
