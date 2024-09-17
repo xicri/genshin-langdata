@@ -2458,7 +2458,7 @@
     ja: "トヤック源泉地",
     zhCN: "涌流地",
     pronunciationJa: "トヤックげんせんち",
-    tags: [ "natlan", "location", "facility" ],
+    tags: [ "natlan", "location" ],
   },
   {
     en: "\"People of the Springs\"",
