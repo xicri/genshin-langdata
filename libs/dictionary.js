@@ -230,6 +230,7 @@ export class Dictionary {
         日本語: word.ja,
         日本語読み: word.pronunciationJa,
         備考: word.notes,
+        // eslint-disable-next-line quote-props -- Quotes are necessary when "・" is in the key
         "誤記・通称等": [].concat(word.variants?.ja ?? [], word.variants?.en ?? []).join("・"),
         タグ: word.tags?.join(", "),
       };
