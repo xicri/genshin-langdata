@@ -1,12 +1,9 @@
 import { readFile } from "fs/promises";
 import { DateTime } from "luxon";
 import { resolve } from "path";
-import { fileURLToPath } from "url";
 import { expect, test, beforeAll, afterAll } from "vitest";
 
 import { Dictionary } from "../libs/dictionary.js";
-
-const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
 const consoleInfoOriginal = global.console.info;
 
@@ -95,7 +92,7 @@ test("addUpdateAt() adds updatedAt properly", async () => {
     },
   ];
 
-  const distDir = resolve(__dirname, "../cache/test/dic");
+  const distDir = resolve(import.meta.dirname, "../cache/test/dic");
   const dic = new Dictionary();
   await dic.loadWithDummies({ wordsLocal, wordsProd });
   await dic.buildJSON(distDir);
@@ -148,7 +145,7 @@ test("Pinyin's tone numbers are converted properly", async () => {
     },
   ];
 
-  const distDir = resolve(__dirname, "../cache/test/dic");
+  const distDir = resolve(import.meta.dirname, "../cache/test/dic");
   const dic = new Dictionary();
   await dic.loadWithDummies({ wordsLocal, wordsProd });
   await dic.buildJSON(distDir);
