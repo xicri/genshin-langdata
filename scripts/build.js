@@ -1,5 +1,5 @@
-import { copyFile, mkdir, rm } from "fs/promises";
-import { resolve } from "path";
+import { copyFile, mkdir, rm } from "node:fs/promises";
+import { resolve } from "node:path";
 import { Dictionary } from "../libs/dictionary.js";
 
 await rm(resolve(import.meta.dirname, "../dist"), { recursive: true, force: true });

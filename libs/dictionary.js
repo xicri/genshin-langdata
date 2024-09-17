@@ -1,11 +1,11 @@
-import { mkdir, open, rm, writeFile } from "fs/promises";
+import { mkdir, open, rm, writeFile } from "node:fs/promises";
 import iconv from "iconv-lite";
 import { klona } from "klona/json";
 import { isEqual } from "lodash-es";
 import { DateTime } from "luxon";
 import { marked } from "marked";
 import fetch from "node-fetch";
-import { resolve } from "path";
+import { resolve } from "node:path";
 import pinyinTone from "pinyin-tone";
 
 import { jsonTo, loadJSONs } from "./utils.js";

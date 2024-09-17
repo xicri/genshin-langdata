@@ -1,4 +1,4 @@
-import { ok } from "assert";
+import { ok } from "node:assert";
 import { expect, test } from "vitest";
 
 import tags from "../dataset/tags.json";
