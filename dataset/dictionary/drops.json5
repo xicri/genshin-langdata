@@ -123,7 +123,7 @@
     ja: "霧虚ろの灯芯",
     zhCN: "雾虚灯芯",
     pronunciationJa: "きりうつろのとうしん",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "蛍術師のドロップアイテム (★4)",
   },
   {
@@ -131,7 +131,7 @@
     ja: "霧虚ろの草嚢",
     zhCN: "雾虚草囊",
     pronunciationJa: "きりうつろのそうのう",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "蛍術師のドロップアイテム (★3)",
   },
   {
@@ -139,7 +139,7 @@
     ja: "霧虚ろの花粉",
     zhCN: "雾虚花粉",
     pronunciationJa: "きりうつろのかふん",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "蛍術師のドロップアイテム (★2)",
   },
   {
@@ -147,7 +147,7 @@
     ja: "検査官の刀",
     zhCN: "督察长祭刀",
     pronunciationJa: "けんさかんのかたな",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "デットエージェントのドロップアイテム (★4)",
   },
   {
@@ -155,7 +155,7 @@
     ja: "エージェントの刀",
     zhCN: "特工祭刀",
     pronunciationJa: "エージェントのかたな",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "デットエージェントのドロップアイテム (★3)",
   },
   {
@@ -163,7 +163,7 @@
     ja: "猟兵の刀",
     zhCN: "猎兵祭刀",
     pronunciationJa: "りょうへいのかたな",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "デットエージェントのドロップアイテム (★2)",
   },
   {
@@ -171,7 +171,7 @@
     ja: "偏光プリズム",
     zhCN: "偏光棱镜",
     pronunciationJa: "へんこうプリズム",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "ミラーメイデンのドロップアイテム (★4)",
   },
   {
@@ -179,7 +179,7 @@
     ja: "水晶プリズム",
     zhCN: "水晶棱镜",
     pronunciationJa: "すいしょうプリズム",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "ミラーメイデンのドロップアイテム (★3)",
   },
   {
@@ -187,7 +187,7 @@
     ja: "暗色プリズム",
     zhCN: "黯淡棱镜",
     pronunciationJa: "あんしょくプリズム",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "ミラーメイデンのドロップアイテム (★2)",
   },
   {
@@ -338,7 +338,7 @@
     ja: "尉官の記章",
     zhCN: "尉官的徽记",
     pronunciationJa: "いかんのきしょう",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "ファデュイのドロップアイテム (★3)",
   },
   {
@@ -346,7 +346,7 @@
     ja: "士官の記章",
     zhCN: "士官的徽记",
     pronunciationJa: "しかんのきしょう",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "ファデュイのドロップアイテム (★2)",
   },
   {
@@ -354,7 +354,7 @@
     ja: "新兵の記章",
     zhCN: "新兵的徽记",
     pronunciationJa: "しんぺいのきしょう",
-    tags: [ "drop", "snezhnaya" ],
+    tags: [ "drop", "fatui" ],
     notes: "ファデュイのドロップアイテム (★1)",
   },
   {

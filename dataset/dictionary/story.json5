@@ -756,7 +756,7 @@
     en: "Harbinger",
     ja: "執行官 / ファトゥス",
     zhCN: "执行官",
-    tags: [ "snezhnaya", "title" ],
+    tags: [ "fatui", "title" ],
     notes: "ファデュイの執行官を指す。",
     examples: [{
       en: "Eighth of the Fatui Harbingers",
