@@ -70,13 +70,13 @@
     }
   },
   "snezhnaya": {
-    "en": "Snezhnaya / Fatui",
-    "ja": "スネージナヤ・ファデュイ",
-    "zh-CN": "至冬·愚人众",
+    "en": "Snezhnaya",
+    "ja": "スネージナヤ",
+    "zh-CN": "至冬",
     "title": {
-      "en": "Chinese & Japanese translations for words related to Snezhnaya & Fatui",
-      "ja": "スネージナヤ・ファデュイに関する言葉の英語・中国語表記一覧",
-      "zh-CN": "关于至冬·愚人众的词语的英语和日语翻译"
+      "en": "Chinese & Japanese translations for words related to Snezhnaya",
+      "ja": "スネージナヤに関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于至冬的词语的英语和日语翻译"
     }
   },
   "khaenriah": {
@@ -207,6 +207,16 @@
       "en": "Chinese & Japanese translations for organizations in Genshin Impact",
       "ja": "原神に登場する組織の英語・中国語表記一覧",
       "zh-CN": "原神中出现的团体组织相关的英语和日语翻译"
+    }
+  },
+  "fatui": {
+    "en": "Fatui",
+    "ja": "ファデュイ",
+    "zh-CN": "愚人众",
+    "title": {
+      "en": "Chinese & Japanese translations for words related to Fatui",
+      "ja": "ファデュイに関する言葉の英語・中国語表記一覧",
+      "zh-CN": "愚人众的词语的英语和日语翻译"
     }
   },
   "facility": {

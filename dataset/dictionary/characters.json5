@@ -737,7 +737,7 @@
     en: "Viktor",
     ja: "ヴィクトル",
     zhCN: "维克多",
-    tags: [ "mondstadt", "snezhnaya", "character-sub" ],
+    tags: [ "mondstadt", "fatui", "character-sub" ],
   },
   {
     en: "Glory",
@@ -1616,38 +1616,38 @@
     en: "Anton Melnikov",
     ja: "アントン・メルニコフ",
     zhCN: "安东",
-    tags: [ "liyue", "snezhnaya", "character-sub" ],
+    tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
     en: "Antoha",
     ja: "アントハー",
     zhCN: "安托哈",
     // Note: Antoha is a slang form of Anton, and there's no such difference in Chinese.
-    tags: [ "liyue", "snezhnaya", "character-sub" ],
+    tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
     en: "Ninth Company Brevet Commander",
     ja: "「第九中隊」臨時隊長",
     zhCN: "「第九中队」临时队长",
-    tags: [ "liyue", "snezhnaya", "title" ],
+    tags: [ "liyue", "fatui", "title" ],
   },
   {
     en: "Temur",
     ja: "ティモール",
     zhCN: "提莫尔",
-    tags: [ "liyue", "snezhnaya", "character-sub" ],
+    tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
     en: "Danila",
     ja: "ダニーラ",
     zhCN: "达尼拉",
-    tags: [ "liyue", "snezhnaya", "character-sub" ],
+    tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
     en: "Radomir",
     ja: "ラドミール",
     zhCN: "拉多米尔",
-    tags: [ "liyue", "snezhnaya", "character-sub" ],
+    tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
     en: "Yanbo",
@@ -1659,7 +1659,7 @@
     en: "Katarina",
     ja: "カタリナ",
     zhCN: "卡塔琳娜",
-    tags: [ "liyue", "snezhnaya", "character-sub" ],
+    tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
     en: "Xamaran",
@@ -2496,7 +2496,7 @@
     en: "Lyudochka Snezhevna",
     ja: "リュドヒカ・シュナイツェフナ",
     zhCN: "柳达希卡·雪奈茨芙娜",
-    tags: [ "inazuma", "snezhnaya", "character-sub", "enemy" ],
+    tags: [ "inazuma", "fatui", "character-sub", "enemy" ],
   },
   {
     en: "Momoyo",
@@ -3064,7 +3064,7 @@
     en: "Zoya Snezhevna",
     ja: "ゾーヤ・シュナイツェフナ",
     zhCN: "佐娅·雪奈茨芙娜",
-    tags: [ "sumeru", "snezhnaya", "character-sub" ],
+    tags: [ "sumeru", "fatui", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。", // TODO: ファデュイの大尉 = Captain of Fatui
     notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。愚人众的大尉。",
   },
@@ -4603,14 +4603,14 @@
     en: "Peruere",
     ja: "ペルヴェーレ",
     zhCN: "佩露薇利",
-    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss" ],
+    tags: [ "fatui", "fontaine", "character-main", "enemy-boss" ],
     notes: "アルレッキーノの本名",
   },
   {
     en: "Crucabena",
     ja: "クルセビナ",
     zhCN: "库嘉维娜",
-    tags: [ "snezhnaya", "fontaine", "character-sub" ],
+    tags: [ "fatui", "fontaine", "character-sub" ],
     notes: "先代の「召使」。アルレッキーノの伝説任務などに登場する人物",
   },
   {
@@ -5018,7 +5018,8 @@
     en: "Tartaglia",
     ja: "タルタリヤ",
     zhCN: "达达利亚",
-    tags: [ "snezhnaya", "liyue", "character-main", "enemy-boss" ],
+    // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
+    tags: [ "fatui", "snezhnaya", "liyue", "character-main", "enemy-boss" ],
     notes: "[公子](/childe/)の通称",
     notesZh: "[公子](/childe/)的通称",
     variants: {
@@ -5032,13 +5033,15 @@
     pronunciationJa: "こうし",
     notes: "[タルタリヤ](/tartaglia/)のコードネーム。英語圏では Tartaglia よりも Childe と呼ばれることが多い印象。",
     notesZh: "[达达利亚](/tartaglia/)的代号。英语圈中，Childe 比 Tartaglia 更常见。",
-    tags: [ "snezhnaya", "liyue", "character-main", "title", "how-to-call", "enemy-boss" ],
+    // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
+    tags: [ "fatui", "snezhnaya", "liyue", "character-main", "title", "how-to-call", "enemy-boss" ],
   },
   {
     en: "Ajax",
     ja: "アヤックス",
     zhCN: "阿贾克斯",
-    tags: [ "snezhnaya", "liyue", "character-main", "enemy-boss" ],
+    // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
+    tags: [ "fatui", "snezhnaya", "liyue", "character-main", "enemy-boss" ],
   },
   {
     en: "comrade / partner",
@@ -5047,7 +5050,8 @@
     notes: "タルタリヤ、鹿野院平蔵、ナヴィアの旅人に対する呼び方。英語版では、タルタリヤは comrade と、鹿野院平蔵とナヴィアは partner と呼ぶ。中国語版では、タルタリヤは「伙伴」と、鹿野院平蔵とナヴィアは「搭档」と呼ぶ",
     notesEn: "Childe, Shikanoin Heizou, and Navia call Traveler so. While Childe calls them \"comrade\" and Shikanoin Heizou and Navia calls them \"partner\" in English version, Childe calls them 伙伴 and Shikanoin Heizou and Navia calls them 搭档 in Chinese. In Japanese version, all three calls them 相棒.",
     notesZh: "公子、鹿野院平藏和娜维娅称呼旅行者的方式。在中文中，公子称呼旅行者为“伙伴”，但是鹿野院平藏和娜维娅称呼旅行者为“搭档”。在英文中，公子称呼旅行者为“comrade”，但是鹿野院平藏和娜维娅称呼旅行者为“partner”。在日语中，他们三人都称呼旅行者为“相棒“。",
-    tags: [ "snezhnaya", "liyue", "inazuma", "fontaine", "how-to-call" ],
+    // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
+    tags: [ "fatui", "snezhnaya", "liyue", "inazuma", "fontaine", "how-to-call" ],
     examples: [
       {
         en: "It's a deal then, partner!",
@@ -5065,14 +5069,15 @@
     en: "Foul Legacy Transformation",
     ja: "魔王武装",
     zhCN: "魔王武装",
-    tags: [ "snezhnaya", "liyue" ],
+    // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
+    tags: [ "fatui", "snezhnaya", "liyue" ],
   },
   {
     en: "La Signora",
     ja: "淑女 / シニョーラ",
     zhCN: "女士",
     pronunciationJa: "しゅくじょ / シニョーラ",
-    tags: [ "snezhnaya", "inazuma", "enemy-boss", "character-sub" ],
+    tags: [ "fatui", "inazuma", "enemy-boss", "character-sub" ],
     notes: "単に \"Signora\" と、イタリア語の定冠詞 \"La\" を省略して呼ばれることも多い。「淑女」の訳として \"The Fair Lady\" が当てられているように見える箇所もあるが、一般に他のキャラクターから「淑女」と呼ばれる際は、英語版では \"Signora\" と呼ばれており、また「シニョーラ」とコードネーム「淑女」の区別もないものとして扱われているため、ここでは「淑女」の訳として \"Signora\" を当てた。",
     notesZh: "单纯使用 \"Signora\" 而护士意大利语的定冠词 \"La\" 的情况也很常见。一般其他的角色称呼「女士」的时候，英语版中常常直接使用 \"Signora\" 称呼。日语中使用汉字或片假名的情况都有，两者并无区别。",
     examples: [{
@@ -5086,21 +5091,21 @@
     en: "Rosalyne-Kruzchka Lohefalter",
     ja: "ロザリン・クルーズチカ・ローエファルタ",
     zhCN: "罗莎琳·克鲁兹希卡·洛厄法特",
-    tags: [ "snezhnaya", "inazuma", "enemy-boss", "character-sub" ],
+    tags: [ "fatui", "inazuma", "enemy-boss", "character-sub" ],
   },
   {
     en: "Crimson Witch of Embers",
     ja: "焚尽の灼炎魔女",
     zhCN: "焚尽的炽炎魔女",
     pronunciationJa: "ふんじんのしゃくえんまじょ",
-    tags: [ "snezhnaya", "inazuma", "enemy-boss", "title" ],
+    tags: [ "fatui", "inazuma", "enemy-boss", "title" ],
   },
   {
     en: "Crimson Lotus Moth",
     ja: "紅蓮蛾",
     zhCN: "红莲蛾",
     pronunciationJa: "ぐれんが",
-    tags: [ "object", "snezhnaya", "inazuma" ],
+    tags: [ "object", "fatui", "inazuma" ],
   },
   {
     en: "Scaramouche",
@@ -5108,7 +5113,7 @@
     zhCN: "斯卡拉姆齐",
     notes: "英語での発音は「スカラムーシュ」。([出典動画](https://youtu.be/TmaAOV4SJNQ?t=122)) 中国のプレイヤーの間では「スカラマシュ」(斯卡拉姆齐) よりも「散兵」の名で呼ばれることが多い。",
     notesZh: "中国的玩家往往称呼「散兵」，而英语和日语的玩家常常使用「斯卡拉姆齐」称呼。",
-    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main" ],
   },
   {
     en: "Balladeer",
@@ -5117,14 +5122,14 @@
     pronunciationJa: "ざんひょう",
     notes: "中国のプレイヤーの間では「スカラマシュ」(斯卡拉姆齐) よりも「散兵」の名で呼ばれることが多い。",
     notesZh: "中国的玩家往往称呼「散兵」，而英语和日语的玩家常常使用「斯卡拉姆齐」称呼。",
-    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title" ],
   },
   {
     en: "Kunikuzushi",
     ja: "国崩",
     zhCN: "国崩",
     pronunciationJa: "くにくずし",
-    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title" ],
   },
   {
     en: "Everlasting Lord of Arcane Wisdom",
@@ -5132,21 +5137,21 @@
     zhCN: "七叶寂照秘密主",
     // Source: https://twitter.com/genshin_kanji/status/1588074644778627072
     pronunciationJa: "しちようじゃくしょうひみつしゅ",
-    tags: [ "snezhnaya", "inazuma", "sumeru", "enemy-boss" ],
+    tags: [ "fatui", "inazuma", "sumeru", "enemy-boss" ],
   },
   {
     en: "Shouki no Kami, the Prodigal",
     ja: "正機の神",
     zhCN: "正机之神",
     pronunciationJa: "しょうきのかみ",
-    tags: [ "snezhnaya", "inazuma", "sumeru", "enemy-boss" ],
+    tags: [ "fatui", "inazuma", "sumeru", "enemy-boss" ],
   },
   {
     en: "Wanderer",
     ja: "放浪者",
     zhCN: "流浪者",
     pronunciationJa: "ほうろうしゃ",
-    tags: [ "snezhnaya", "inazuma", "sumeru", "character-main", "title" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title" ],
   },
   {
     en: "Pantalone",
@@ -5154,7 +5159,7 @@
     zhCN: "潘塔罗涅",
     notes: "[富者](/regrator/)の通称",
     notesZh: "[富人](/regrator/)的通称",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "fatui", "character-sub" ],
   },
   {
     en: "Regrator",
@@ -5163,7 +5168,7 @@
     pronunciationJa: "ふしゃ",
     notes: "[パンタローネ](/pantalone/)のコードネーム",
     notesZh: "[潘塔罗涅](/pantalone/)的代号",
-    tags: [ "snezhnaya", "character-sub", "title" ],
+    tags: [ "fatui", "character-sub", "title" ],
   },
   {
     en: "Il Dottore",
@@ -5171,7 +5176,7 @@
     zhCN: "多托雷",
     notes: "[博士](/the-doctor/)の通称。英語版でも、イタリア語の定冠詞 Il を省略して呼ばれることがある。",
     notesZh: "[博士](/the-doctor/)的通称。英语版也有省略意大利语定冠词 Il 的情况。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "fatui", "character-sub" ],
   },
   {
     en: "The Doctor",
@@ -5180,7 +5185,7 @@
     pronunciationJa: "はかせ", // Source: https://twitter.com/Genshin_7/status/1546348419945361411
     notes: "[ドットーレ](/il-dottore/)のコードネーム",
     notesZh: "[多托雷](/il-dottore/)的代号",
-    tags: [ "snezhnaya", "character-sub", "title" ],
+    tags: [ "fatui", "character-sub", "title" ],
     variants: {
       ja: [ "はくし" ],
     },
@@ -5191,7 +5196,7 @@
     zhCN: "普契涅拉",
     notes: "[雄鶏](/the-rooster/)の通称",
     notesZh: "[公鸡](/the-rooster/)的通称",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "fatui", "character-sub" ],
   },
   {
     en: "The Rooster",
@@ -5200,7 +5205,7 @@
     zhCN: "公鸡",
     notes: "[プルチネッラ](/pulcinella/)のコードネーム",
     notesZh: "[普契涅拉](/pulcinella/)的代号",
-    tags: [ "snezhnaya", "character-sub", "title" ],
+    tags: [ "fatui", "character-sub", "title" ],
   },
   {
     en: "Il Capitano",
@@ -5208,7 +5213,7 @@
     zhCN: "卡皮塔诺",
     notes: "[隊長](/the-captain/)の通称",
     notesZh: "[队长](/the-captain/)的通称",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "fatui", "character-sub" ],
   },
   {
     en: "The Captain",
@@ -5217,7 +5222,7 @@
     pronunciationJa: "たいちょう",
     notes: "[カピターノ](/il-capitano/)のコードネーム",
     notesZh: "[卡皮塔诺](/il-capitano/)的代号",
-    tags: [ "snezhnaya", "natlan", "character-sub", "title" ],
+    tags: [ "fatui", "natlan", "character-sub", "title" ],
   },
   {
     en: "Columbina",
@@ -5225,7 +5230,7 @@
     zhCN: "哥伦比娅",
     notes: "[少女](/damselette/)の通称",
     notesZh: "[少女](/damselette/)的通称",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "fatui", "character-sub" ],
   },
   {
     en: "Damselette",
@@ -5234,7 +5239,7 @@
     pronunciationJa: "しょうじょ",
     notes: "[コロンビーナ](/columbina/)のコードネーム",
     notesZh: "[哥伦比娅](/columbina/)的代号",
-    tags: [ "snezhnaya", "character-sub", "title" ],
+    tags: [ "fatui", "character-sub", "title" ],
   },
   {
     en: "Arlecchino",
@@ -5242,7 +5247,7 @@
     zhCN: "阿蕾奇诺",
     notes: "[召使](/the-knave/)の通称",
     notesZh: "[仆人](/the-knave/)的通称",
-    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss" ],
+    tags: [ "fatui", "fontaine", "character-main", "enemy-boss" ],
   },
   {
     en: "The Knave",
@@ -5251,7 +5256,7 @@
     pronunciationJa: "めしつかい",
     notes: "[アルレッキーノ](/arlecchino/)のコードネーム",
     notesZh: "[阿蕾奇诺](/arlecchino/)的代号",
-    tags: [ "snezhnaya", "fontaine", "character-main", "enemy-boss", "title" ],
+    tags: [ "fatui", "fontaine", "character-main", "enemy-boss", "title" ],
   },
   {
     en: "Sandrone",
@@ -5259,7 +5264,7 @@
     zhCN: "桑多涅",
     notes: "[傀儡](/marionette/)の通称",
     notesZh: "[木偶](/marionette/)的通称",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "fatui", "character-sub" ],
   },
   {
     en: "Marionette",
@@ -5268,7 +5273,7 @@
     pronunciationJa: "かいらい",
     notes: "[サンドローネ](/sandrone/)のコードネーム",
     notesZh: "[桑多涅](/sandrone/)的代号",
-    tags: [ "snezhnaya", "character-sub", "title" ],
+    tags: [ "fatui", "character-sub", "title" ],
   },
   {
     en: "Pierro",
@@ -5276,7 +5281,7 @@
     zhCN: "皮耶罗",
     notes: "[道化](/the-jester/)の通称。以前はペドロリーノという名前だったが変更されたという情報もある",
     notesZh: "[丑角](/the-jester/)的通称。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "fatui", "character-sub" ],
     variants: {
       ja: [ "ペドロリーノ" ],
       en: [ "Pedrolino" ],
@@ -5289,7 +5294,7 @@
     pronunciationJa: "どうけ",
     notes: "[ピエロ](/pierro/)のコードネーム",
     notesZh: "[皮耶罗](/pierro/)的代号",
-    tags: [ "snezhnaya", "character-sub", "title" ],
+    tags: [ "fatui", "character-sub", "title" ],
   },
   {
     en: "Tsaritsa",
@@ -5328,7 +5333,7 @@
     en: "Snezhevna",
     ja: "シュナイツェフナ",
     zhCN: "雪奈茨芙娜",
-    tags: [ "snezhnaya" ],
+    tags: [ "fatui" ],
     notes: "召使の孤児院出身の女性が名乗る姓",
     notesZh: "仆人的孤儿院出身的女性所用的姓",
   },
@@ -5336,7 +5341,7 @@
     en: "Snezhevich",
     ja: "シュナイツェビッチ",
     zhCN: "雪奈茨维奇",
-    tags: [ "snezhnaya" ],
+    tags: [ "fatui" ],
     notes: "召使の孤児院出身の男性が名乗る姓",
     notesZh: "仆人的孤儿院出身的男性所用的姓",
   },

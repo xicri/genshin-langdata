@@ -742,14 +742,14 @@
     ja: "雷蛍術師",
     zhCN: "雷萤术士",
     pronunciationJa: "らいけいじゅつし",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
   },
   {
     en: "Cryo Cicin Mage",
     ja: "氷蛍術師",
     zhCN: "冰萤术士",
     pronunciationJa: "ひょうけいじゅつし",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
   },
   {
     en: "Cicin",
@@ -783,7 +783,7 @@
     en: "Fatui Pyro Agent",
     ja: "ファデュイ・デットエージェント・炎",
     zhCN: "愚人众·火之债务处理人",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "デッドエージェント" ],
     },
@@ -794,7 +794,7 @@
     ja: "ファデュイ先遣隊",
     zhCN: "愚人众先遣队",
     pronunciationJa: "ファデュイせんけんたい",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "先遣隊" ],
     },
@@ -804,7 +804,7 @@
     ja: "ファデュイ先遣隊・遊撃兵・炎銃",
     zhCN: "愚人众先遣队·火铳游击兵",
     pronunciationJa: "ファデュイせんけんたい・ゆうげきへい・えんじゅう",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "炎銃" ],
       zhCN: [ "火枪" ],
@@ -816,7 +816,7 @@
     ja: "ファデュイ先遣隊・遊撃兵・岩使い",
     zhCN: "愚人众先遣队·岩使游击兵",
     pronunciationJa: "ファデュイせんけんたい・ゆうげきへい・いわつかい",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "岩使い" ],
       zhCN: [ "岩枪" ],
@@ -827,7 +827,7 @@
     ja: "ファデュイ先遣隊・重衛士・氷銃",
     zhCN: "愚人众先遣队·冰铳重卫士",
     pronunciationJa: "ファデュイせんけんたい・じゅうえいし・ひょうじゅう",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "氷銃" ],
       zhCN: [ "冰枪" ],
@@ -839,7 +839,7 @@
     ja: "ファデュイ先遣隊・重衛士・水銃",
     zhCN: "愚人众先遣队·水铳重卫士",
     pronunciationJa: "ファデュイせんけんたい・じゅうえいし・すいじゅう",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "水銃" ],
       zhCN: [ "水胖" ],
@@ -851,7 +851,7 @@
     ja: "ファデュイ先遣隊・前鋒軍・風拳",
     zhCN: "愚人众先遣队·风拳前锋军",
     pronunciationJa: "ファデュイせんけんたい・ぜんぽうぐん・ふうけん",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "風拳" ],
       zhCN: [ "风拳" ],
@@ -862,7 +862,7 @@
     ja: "ファデュイ先遣隊・前鋒軍・雷ハンマー",
     zhCN: "愚人众先遣队·雷锤前锋军",
     pronunciationJa: "ファデュイせんけんたい・ぜんぽうぐん・かみなりハンマー",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     variants: {
       ja: [ "雷ハンマー" ],
       zhCN: [ "雷锤" ],
@@ -872,28 +872,28 @@
     en: "Snezhnayan Maiden",
     ja: "冬国の仕女",
     zhCN: "冬国仕女",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
     notes: "ミラーメイデン (Mirror Maiden) の一般名",
   },
   {
     en: "Mirror Maiden",
     ja: "ミラーメイデン",
     zhCN: "愚人众·藏镜仕女",
-    tags: [ "snezhnaya", "enemy" ],
+    tags: [ "fatui", "enemy" ],
   },
   {
     en: "Frost Operative",
     ja: "氷霜の従者",
     zhCN: "霜役人",
     pronunciationJa: "ひょうせつのじゅうしゃ",
-    tags: [ "snezhnaya", "fontaine", "enemy" ],
+    tags: [ "fatui", "fontaine", "enemy" ],
   },
   {
     en: "Wind Operative",
     ja: "烈風の従者",
     zhCN: "风役人",
     pronunciationJa: "れっぷうのじゅうしゃ",
-    tags: [ "snezhnaya", "fontaine", "enemy" ],
+    tags: [ "fatui", "fontaine", "enemy" ],
   },
 
   {

@@ -509,7 +509,7 @@
     ja: "壁炉の家",
     zhCN: "壁炉之家",
     pronunciationJa: "ハウス・オブ・ハース",
-    tags: [ "fontaine", "snezhnaya", "organization" ],
+    tags: [ "fontaine", "fatui", "organization" ],
     notes: "召使の運営する孤児院",
   },
 
@@ -552,7 +552,7 @@
     en: "Fatui",
     ja: "ファデュイ / 愚人衆",
     zhCN: "愚人众",
-    tags: [ "snezhnaya", "organization" ],
+    tags: [ "fatui", "organization" ],
   },
 
   //
