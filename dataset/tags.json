@@ -269,6 +269,16 @@
       "zh-CN": "原神中的每日委托的英语和日语翻译"
     }
   },
+  "quest-tribal": {
+    "en": "Tribal Chronicles",
+    "ja": "部族見聞",
+    "zh-CN": "部族纪闻",
+    "title": {
+      "en": "Chinese & Japanese translations for the Tribal Chronicles in Genshin Impact",
+      "ja": "原神の部族見聞の英語・中国語表記一覧",
+      "zh-CN": "原神中的部族纪闻的英语和日语翻译"
+    }
+  },
   "item": {
     "en": "Item",
     "ja": "アイテム",

@@ -1849,12 +1849,16 @@
     tags: [ "food", "fontaine" ],
     notes: "エミリエのオリジナル料理",
   },
+
+  // Natlan
   {
     en: "Impeccably Organized",
     ja: "きっちりチップス",
     zhCN: "齐齐整整",
     tags: [ "food", "natlan" ],
+    notesEn: "Kachina's specialty",
     notes: "カチーナのオリジナル料理",
+    notesZh: "卡齐娜的特色料理",
   },
   {
     en: "Pass the Luck",
@@ -1862,9 +1866,20 @@
     zhCN: "好运传递",
     pronunciationJa: "こううんのおすそわけ",
     tags: [ "food", "natlan" ],
+    notesEn: "Mualani's specialty",
     notes: "ムアラニのオリジナル料理",
+    notesZh: "玛拉妮的特色料理",
   },
 
+  {
+    en: "Saurian Hunter's Reward",
+    ja: "竜狩り人の褒賞",
+    zhCN: "猎龙者的犒赏",
+    tags: [ "food", "natlan" ],
+    notesEn: "Kinich's specialty",
+    notes: "キィニチのオリジナル料理",
+    notesZh: "基尼奇的特色料理",
+  },
   //
   // Ingredients (食材)
   //
