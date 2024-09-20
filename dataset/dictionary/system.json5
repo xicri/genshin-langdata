@@ -932,4 +932,11 @@
     pronunciationJa: "やこんトランス",
     tags: [ "natlan" ],
   },
+  {
+    en: "TurnFire",
+    ja: "廻焔",
+    zhCN: "回火",
+    pronunciationJa: "かいえん",
+    tags: [ "natlan" ],
+  },
 ]

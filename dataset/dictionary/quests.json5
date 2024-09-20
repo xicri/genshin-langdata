@@ -2422,6 +2422,40 @@
   },
 
   //
+  // Tribal Chronicles
+  //
+  {
+    en: "Tribal Chronicles",
+    ja: "部族見聞",
+    zhCN: "部族纪闻",
+    pronunciationJa: "ぶぞくけんぶん",
+    tags: [ "quest-tribal" ],
+  },
+
+  // Natlan
+  {
+    en: "Where the Springs Return",
+    ja: "流泉の帰す場所",
+    zhCN: "流泉所归之处",
+    pronunciationJa: "りゅうせんのかえすばしょ",
+    tags: [ "natlan", "quest-tribal" ],
+  },
+  {
+    en: "Yupanqui's Turnfire",
+    ja: "ユパンキの廻焔",
+    zhCN: "尤潘基的回火",
+    pronunciationJa: "ユパンキのかいえん",
+    tags: [ "natlan", "quest-tribal" ],
+  },
+  {
+    en: "A Prayer for Blessings, Told to Crested Peaks",
+    ja: "祝福を祈り、テペトルに告ぐ",
+    zhCN: "祈祝福愿，倾告嵴锋",
+    pronunciationJa: "しゅくふくをいのりテペトルにつぐ",
+    tags: [ "natlan", "quest-tribal" ],
+  },
+
+  //
   // Commission Quests
   //
   {
@@ -3428,6 +3462,27 @@
     ja: "竜と山",
     zhCN: "龙与山",
     pronunciationJa: "りゅうとやま",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Hmm? Natlan?",
+    ja: "えっ？ナタ？",
+    zhCN: "咦？纳塔？",
+    pronunciationJa: "えっナタ",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Sharpshooter on Hand",
+    ja: "手に妙影",
+    zhCN: "妙影在手",
+    pronunciationJa: "てにみょうえん",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Prophets of Pop",
+    ja: "流行りの音楽",
+    zhCN: "流行音乐，谁先知？",
+    pronunciationJa: "はやりのおんがく",
     tags: [ "quest-daily", "natlan" ],
   },
 

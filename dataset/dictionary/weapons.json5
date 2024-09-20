@@ -679,6 +679,13 @@
     pronunciationJa: "さいだん",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "Fang of the Mountain King",
+    ja: "山の王の長牙",
+    zhCN: "山王长牙",
+    pronunciationJa: "やまのおうのちょうが",
+    tags: [ "weapon", "claymore" ],
+  },
 
   //
   // Polearm
