@@ -511,6 +511,7 @@
     pronunciationJa: "ハウス・オブ・ハース",
     tags: [ "fontaine", "fatui", "organization" ],
     notes: "召使の運営する孤児院",
+    notesEn: "An orphanage run by The Knave",
   },
 
   //

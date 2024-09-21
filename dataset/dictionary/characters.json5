@@ -582,6 +582,7 @@
     zhCN: "赫塔",
     tags: [ "mondstadt", "character-sub" ],
     notes: "モンド評判任務の受付キャラクター",
+    notesEn: "A representative character for the reputation quests in Mondstadt.",
     notesZh: "蒙德声望任务的交付角色",
   },
   {
@@ -1474,6 +1475,7 @@
     zhCN: "小雨",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月評判任務の受付キャラクター",
+    notesEn: "A representative character for the reputation quests in Liyue.",
     notesZh: "璃月声望任务的交付角色",
   },
   {
@@ -2938,6 +2940,7 @@
     zhCN: "阿芬迪",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメール評判任務の受付キャラクター",
+    notesEn: "A representative character for the reputation quests in Sumeru.",
     notesZh: "须弥声望任务的交付角色",
   },
   {
@@ -3065,7 +3068,8 @@
     ja: "ゾーヤ・シュナイツェフナ",
     zhCN: "佐娅·雪奈茨芙娜",
     tags: [ "sumeru", "fatui", "character-sub" ],
-    notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。", // TODO: ファデュイの大尉 = Captain of Fatui
+    notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。",
+    notesEn: "A character mentioned in the World Quest \"The Dirge of Bilqis\". A captain of Fatui.",
     notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。愚人众的大尉。",
   },
   {
@@ -3561,7 +3565,8 @@
     ja: "ジャルジャー",
     zhCN: "贾尔贾",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「浮光鳴召」で試練を課してくる花霊", // 試練: trial
+    notes: "世界任務「浮光鳴召」で試練を課してくる花霊",
+    notesEn: "A pari who offers trials in the world quest \"Lightcall Resonance\".",
   },
   {
     en: "Fedhri",
@@ -3865,7 +3870,8 @@
     ja: "ユーフラシア",
     zhCN: "欧芙",
     tags: [ "fontaine", "character-sub" ],
-    notes: "フォンテーヌ評判任務の受付キャラクター。スチームバード新聞の編集長", // スチームバード新聞の編集長: the Chief Editor of The Steambird
+    notes: "フォンテーヌ評判任務の受付キャラクター。スチームバード新聞の編集長",
+    notesEn: "A representative character for the reputation quests in Fontaine. The Chief Editor of The Steambird.",
   },
   {
     en: "Estelle",
@@ -5061,6 +5067,7 @@
     zhCN: "公子",
     pronunciationJa: "こうし",
     notes: "[タルタリヤ](/tartaglia/)のコードネーム。英語圏では Tartaglia よりも Childe と呼ばれることが多い印象。",
+    notesEn: "[Tartaglia](/tartaglia/)'s codename.",
     notesZh: "[达达利亚](/tartaglia/)的代号。英语圈中，Childe 比 Tartaglia 更常见。",
     // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
     tags: [ "fatui", "snezhnaya", "liyue", "character-main", "title", "how-to-call", "enemy-boss" ],
@@ -5204,6 +5211,7 @@
     zhCN: "富人",
     pronunciationJa: "ふしゃ",
     notes: "[パンタローネ](/pantalone/)のコードネーム",
+    notesEn: "[Pantalone](/pantalone/)'s codename.",
     notesZh: "[潘塔罗涅](/pantalone/)的代号",
     tags: [ "fatui", "character-sub", "title" ],
   },
@@ -5221,6 +5229,7 @@
     zhCN: "博士",
     pronunciationJa: "はかせ", // Source: https://twitter.com/Genshin_7/status/1546348419945361411
     notes: "[ドットーレ](/il-dottore/)のコードネーム",
+    notesEn: "[Il Dottore](/il-dottore/)'s codename.",
     notesZh: "[多托雷](/il-dottore/)的代号",
     tags: [ "fatui", "character-sub", "title" ],
     variants: {
@@ -5241,6 +5250,7 @@
     pronunciationJa: "おんどり",
     zhCN: "公鸡",
     notes: "[プルチネッラ](/pulcinella/)のコードネーム",
+    notesEn: "[Pulcinella](/pulcinella/)'s codename.",
     notesZh: "[普契涅拉](/pulcinella/)的代号",
     tags: [ "fatui", "character-sub", "title" ],
   },
@@ -5258,6 +5268,7 @@
     zhCN: "队长",
     pronunciationJa: "たいちょう",
     notes: "[カピターノ](/il-capitano/)のコードネーム",
+    notesEn: "[Il Capitano](/il-capitano/)'s codename.",
     notesZh: "[卡皮塔诺](/il-capitano/)的代号",
     tags: [ "fatui", "natlan", "character-sub", "title" ],
   },
@@ -5275,6 +5286,7 @@
     zhCN: "少女",
     pronunciationJa: "しょうじょ",
     notes: "[コロンビーナ](/columbina/)のコードネーム",
+    notesEn: "[Columbina](/columbina/)'s codename.",
     notesZh: "[哥伦比娅](/columbina/)的代号",
     tags: [ "fatui", "character-sub", "title" ],
   },
@@ -5292,6 +5304,7 @@
     zhCN: "仆人",
     pronunciationJa: "めしつかい",
     notes: "[アルレッキーノ](/arlecchino/)のコードネーム",
+    notesEn: "[Arlecchino](/arlecchino/)'s codename.",
     notesZh: "[阿蕾奇诺](/arlecchino/)的代号",
     tags: [ "fatui", "fontaine", "character-main", "enemy-boss", "title" ],
   },
@@ -5309,6 +5322,7 @@
     zhCN: "木偶",
     pronunciationJa: "かいらい",
     notes: "[サンドローネ](/sandrone/)のコードネーム",
+    notesEn: "[Sandrone](/sandrone/)'s codename.",
     notesZh: "[桑多涅](/sandrone/)的代号",
     tags: [ "fatui", "character-sub", "title" ],
   },
@@ -5330,6 +5344,7 @@
     zhCN: "丑角",
     pronunciationJa: "どうけ",
     notes: "[ピエロ](/pierro/)のコードネーム",
+    notesEn: "[Pierro](/pierro/)'s codename.",
     notesZh: "[皮耶罗](/pierro/)的代号",
     tags: [ "fatui", "character-sub", "title" ],
   },
