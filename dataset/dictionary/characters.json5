@@ -5237,9 +5237,18 @@
     en: "Il Dottore",
     ja: "ドットーレ",
     zhCN: "多托雷",
-    notes: "[博士](/the-doctor/)の通称。英語版でも、イタリア語の定冠詞 Il を省略して呼ばれることがある。",
+    notes: "[博士](/the-doctor/)の通称。英語版でも、イタリア語の定冠詞 Il を省略して呼ばれることがある。英語の Il は大文字の i と小文字の L であり、Ⅱ (ローマ数字の2) や ii、LL などではないことに注意",
     notesZh: "[博士](/the-doctor/)的通称。英语版也有省略意大利语定冠词 Il 的情况。",
     tags: [ "fatui", "character-sub" ],
+    variants: {
+      en: [
+        "ii Dottore",
+        "LL Dottore",
+        // 2 in Roman number
+        "Ⅱ Dottore",
+        "ⅱ Dottore",
+      ],
+    },
   },
   {
     en: "The Doctor",
@@ -5276,9 +5285,18 @@
     en: "Il Capitano",
     ja: "カピターノ",
     zhCN: "卡皮塔诺",
-    notes: "[隊長](/the-captain/)の通称",
+    notes: "[隊長](/the-captain/)の通称。英語の Il は大文字の i と小文字の L であり、Ⅱ (ローマ数字の2) や ii、LL などではないことに注意",
     notesZh: "[队长](/the-captain/)的通称",
-    tags: [ "fatui", "character-sub" ],
+    tags: [ "fatui", "natlan", "character-sub" ],
+    variants: {
+      en: [
+        "ii Capitano",
+        "LL Capitano",
+        // 2 in Roman number
+        "Ⅱ Capitano",
+        "ⅱ Capitano",
+      ],
+    },
   },
   {
     en: "The Captain",
