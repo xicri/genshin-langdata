@@ -1260,7 +1260,6 @@
     ja: "海乱鬼・炎威",
     zhCN: "海乱鬼·炎威",
     pronunciationJa: "かいらぎ・えんい", // TODO Need Check for 炎威's pronunciation
-    notes: "「海乱鬼」は、史実では倭寇 (室町時代や安土桃山時代の日本の海賊) の別名。",
     tags: [ "enemy", "inazuma" ],
   },
   {
@@ -1268,7 +1267,6 @@
     ja: "海乱鬼・雷騰",
     zhCN: "海乱鬼·雷腾",
     pronunciationJa: "かいらぎ・らいとう", // TODO Need Check for 雷騰's pronunciation
-    notes: "「海乱鬼」は、史実では倭寇 (室町時代や安土桃山時代の日本の海賊) の別名。",
     tags: [ "enemy", "inazuma" ],
   },
   {
