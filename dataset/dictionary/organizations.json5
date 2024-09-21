@@ -307,6 +307,13 @@
     notes: "Dey とは、史実ではオスマン帝国支配下のアルジェリア、リビア、チュニジアなどの支配者に与えられた称号のこと。参考: [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4_(%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E5%B8%9D%E5%9B%BD))",
   },
   {
+    en: "The Eremites",
+    ja: "エルマイト旅団",
+    zhCN: "镀金旅团",
+    pronunciationJa: "エルマイトりょだん",
+    tags: [ "sumeru", "organization", "enemy" ],
+  },
+  {
     en: "Corps of Thirty",
     ja: "三十人団",
     pronunciationJa: "さんじゅうにんだん",

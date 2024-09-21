@@ -1537,13 +1537,6 @@
   },
 
   {
-    en: "The Eremites",
-    ja: "エルマイト旅団",
-    zhCN: "镀金旅团",
-    pronunciationJa: "エルマイトりょだん",
-    tags: [ "sumeru", "organization", "enemy" ],
-  },
-  {
     en: "Eremite Axe Vanguard",
     ja: "エルマイト旅団・アックス",
     zhCN: "镀金旅团·阵前斧手",
