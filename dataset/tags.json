@@ -369,6 +369,16 @@
       "zh-CN": "原神中的食物的英语和日语翻译"
     }
   },
+  "book": {
+    "en": "Book",
+    "ja": "書籍",
+    "zh-CN": "书籍",
+    "title": {
+      "en": "Chinese & Japanese translations for book titles in Genshin Impact",
+      "ja": "原神に登場する書籍名の英語・中国語表記一覧",
+      "zh-CN": "原神中出现的书籍的英语和日语翻译"
+    }
+  },
   "outfit": {
     "en": "Outfit",
     "ja": "コスチューム",
