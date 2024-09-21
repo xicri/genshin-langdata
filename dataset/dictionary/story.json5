@@ -779,17 +779,20 @@
     ja: "運命の織機",
     zhCN: "命运的织机",
     pronunciationJa: "うんめいのしょっき",
+    tags: [ "khaenriah" ],
   },
   {
     en: "Inteyvat",
     ja: "インテイワット",
     zhCN: "因提瓦特",
+    tags: [ "khaenriah" ],
   },
   {
     en: "curse of immortality",
     ja: "不死の呪い",
     zhCN: "不死诅咒",
     notes: "ダインスレイヴなど一部のカーンルイア人が掛けられた呪い",
+    tags: [ "khaenriah" ],
   },
 
   //
