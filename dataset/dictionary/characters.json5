@@ -1626,7 +1626,6 @@
     en: "Antoha",
     ja: "アントハー",
     zhCN: "安托哈",
-    // Note: Antoha is a slang form of Anton, and there's no such difference in Chinese.
     notes: "アントン・メルニコフの呼び名",
     notesEn: "Anton Melnikov's nickname",
     tags: [ "liyue", "fatui", "character-sub" ],
