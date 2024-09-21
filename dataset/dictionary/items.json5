@@ -1213,6 +1213,7 @@
     pronunciationJa: "だくすいげんれいイチコロリ", // TODO Need Check
     tags: [ "item", "fontaine" ],
   },
+  // ▼▼ TODO Check if they are ingredients ▼▼
   {
     en: "Grainfruit",
     ja: "グレインの実",
@@ -1246,6 +1247,7 @@
     pronunciationJa: "ショコアトゥルのみ",
     tags: [ "item", "natlan" ],
   },
+  // ▲▲ TODO Check if they are ingredients ▲▲
   {
     en: "Night Jade",
     ja: "夜の玉",
