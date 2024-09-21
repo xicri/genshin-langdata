@@ -520,7 +520,7 @@
     zhCN: "芭比洛斯",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードB。モナの師匠 (おばば)", // In a quest movie in the limited-time event of v4.8 in Simulanka, it is explicitly mentioned that Barbelos and Mona's old hag are identical person.
-    notesZh: "魔女会代号B。莫娜的师傅（老太婆）", // v4.8 限时事件任务电影确认自己是莫娜的导师
+    notesZh: "魔女会代号B。莫娜的师傅（老太婆）",
   },
   {
     en: "the old hag",
@@ -903,7 +903,7 @@
     zhCN: "客卿",
     pronunciationJa: "かっけい",
     tags: [ "liyue", "title" ],
-    notes: "鍾離の往生堂における地位。guest と訳されている箇所もある。", // Source: v2.4「流るる星霜、華咲きて」特設ページ https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
+    notes: "鍾離の往生堂における地位。guest と訳されている箇所もある。", // Source: v2.4 Fleeting Colors in Flight preview page https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
     notesZh: "钟离在往生堂的职位。也有被翻译为guest的地方。",
   },
   {
@@ -946,7 +946,7 @@
     ja: "護法夜叉",
     zhCN: "护法夜叉",
     pronunciationJa: "ごほうやしゃ",
-    // Source of Vigilant Yaksha: v2.4「流るる星霜、華咲きて」特設ページ https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
+    // Source of Vigilant Yaksha: v2.4 Fleeting Colors in Flight preview page https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
     notes: "魈の称号。「護法夜叉大将」(Vigilant Yaksha) と記される場合もある。",
     notesZh: "魈的称号",
     tags: [ "liyue", "title" ],
@@ -5517,12 +5517,12 @@
     notes: "[スルトロッチ](/surtalogi)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり。スカークの師匠",
   },
   {
-    en: "Rächer of Solnari",
+    en: "Rächer of Solnari", // Not "a", but "ä" (with umlaut)
     ja: "月の狩人",
     zhCN: "猎月人",
     pronunciationJa: "つきのかりゅうど",
     tags: [ "khaenriah", "character-sub" ],
-    notes: "[スルトロッチ](/surtalogi)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり", // 「ä」はアルファベット文字ではないウムラウトつき
+    notes: "[スルトロッチ](/surtalogi)の俗名。[カーンルイアの五大罪人](/the-five-sinners-of-khaenriah)のひとり",
   },
   {
     en: "The Five Sinners of Khaenri'ah",
