@@ -1,6 +1,6 @@
 [
   //
-  // General
+  // International
   //
   {
     en: "Adventurers' Guild",
@@ -8,6 +8,20 @@
     zhCN: "冒险家协会",
     pronunciationJa: "ぼうけんしゃきょうかい",
     tags: [ "organization" ],
+  },
+  {
+    en: "Abyss Order",
+    ja: "アビス教団",
+    zhCN: "深渊教团",
+    pronunciationJa: "アビスきょうだん",
+    tags: [ "enemy", "organization" ],
+  },
+  {
+    en: "Treasure Hoarders",
+    ja: "宝盗団",
+    zhCN: "盗宝团",
+    pronunciationJa: "ほうとうだん",
+    tags: [ "enemy", "organization" ],
   },
 
   //

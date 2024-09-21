@@ -572,13 +572,6 @@
 
   // Abyss Order
   {
-    en: "Abyss Order",
-    ja: "アビス教団",
-    zhCN: "深渊教团",
-    pronunciationJa: "アビスきょうだん",
-    tags: [ "enemy", "organization" ],
-  },
-  {
     en: "Abyss Mage",
     ja: "アビスの魔術師",
     zhCN: "深渊法师",
@@ -650,13 +643,6 @@
   },
 
   // Treasure Hoarders
-  {
-    en: "Treasure Hoarders",
-    ja: "宝盗団",
-    zhCN: "盗宝团",
-    pronunciationJa: "ほうとうだん",
-    tags: [ "enemy", "organization" ],
-  },
   {
     en: "Treasure Hoarders - Scout",
     ja: "宝盗団・斥候",
