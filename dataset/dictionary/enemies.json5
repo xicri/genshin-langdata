@@ -405,7 +405,8 @@
     pronunciationJa: "かわったヒルチャール",
     tags: [ "enemy", "abyss" ],
     variants: {
-      ja: [ "変なヒルチャール", "へんなヒルチャール" ],
+      ja: [ "変なヒルチャール", "へんなヒルチャール", "社長", "ダーウェイ" ],
+      en: [ "Dawei" ],
       zhCN: [ "大伟丘" ],
     },
   },
@@ -434,34 +435,35 @@
     ja: "遺跡守衛",
     zhCN: "遗迹守卫",
     pronunciationJa: "いせきしゅえい",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Field Tiller",
     ja: "耕運機",
     zhCN: "耕地机",
     pronunciationJa: "こううんき",
+    tags: [ "kaenriah" ],
   },
   {
     en: "Ruin Hunter",
     ja: "遺跡ハンター",
     zhCN: "遗迹猎者",
     pronunciationJa: "いせきハンター",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Ruin Grader",
     ja: "遺跡重機",
     zhCN: "遗迹重机",
     pronunciationJa: "いせきじゅうき",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Ruin Sentinel",
     ja: "遺跡機兵",
     zhCN: "遗迹机兵",
     pronunciationJa: "いせききへい",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
     notes: "遺跡巡視者・遺跡偵察者・遺跡防衛者・遺跡殲滅者の総称",
   },
   {
@@ -469,7 +471,7 @@
     ja: "遺跡巡視者",
     zhCN: "遗迹巡弋者",
     pronunciationJa: "いせきじゅんししゃ",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
     pinyins: [{ char: "弋", pron: "yi4" }],
   },
   {
@@ -477,34 +479,34 @@
     ja: "遺跡偵察者",
     zhCN: "遗迹侦察者",
     pronunciationJa: "いせきていさつしゃ",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Ruin Defender",
     ja: "遺跡防衛者",
     zhCN: "遗迹防卫者",
     pronunciationJa: "いせきぼうえいしゃ",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Ruin Destroyer",
     ja: "遺跡殲滅者",
     zhCN: "遗迹歼击者",
     pronunciationJa: "いせきせんめつしゃ",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Ruin Serpent",
     ja: "遺跡サーペント",
     zhCN: "遗迹巨蛇",
     pronunciationJa: "いせきサーペント",
-    tags: [ "enemy-boss", "liyue" ],
+    tags: [ "enemy-boss", "liyue", "kaenriah" ],
   },
   {
     en: "Haftvad the Worm",
     ja: "七嗣の虫",
     zhCN: "七嗣之虫",
-    tags: [ "enemy-boss", "liyue" ],
+    tags: [ "enemy-boss", "liyue", "kaenriah" ],
     notes: "世界任務「層岩巨淵深遊記」で、層岩巨淵最深部で戦う遺跡サーペントの名前",
   },
   {
@@ -512,26 +514,26 @@
     ja: "遺跡ドレイク",
     zhCN: "遗迹龙兽",
     pronunciationJa: "いせきドレイク",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Ruin Drake: Earthguard",
     ja: "遺跡ドレイク・陸行",
     zhCN: "遗迹龙兽・地巡",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Ruin Drake: Skywatch",
     ja: "遺跡ドレイク・飛空",
     zhCN: "遗迹龙兽・空巡",
-    tags: [ "enemy" ],
+    tags: [ "enemy", "kaenriah" ],
   },
   {
     en: "Aeonblight Drake",
     ja: "兆載永劫ドレイク",
     zhCN: "兆载永劫龙兽",
     pronunciationJa: "ちょうさいようごうドレイク",
-    tags: [ "enemy-boss", "sumeru" ],
+    tags: [ "enemy-boss", "sumeru", "kaenriah" ],
   },
 
   {
@@ -567,7 +569,7 @@
     ja: "半永久統制マトリックス",
     zhCN: "半永恒统辖矩阵",
     pronunciationJa: "はんえいきゅうとうせいマトリックス",
-    tags: [ "enemy-boss", "sumeru" ],
+    tags: [ "enemy-boss", "sumeru", "kaenriah" ],
   },
 
   // Abyss Order
@@ -1119,25 +1121,25 @@
     en: "Bathysmal Vishap",
     ja: "アビサルヴィシャップ",
     zhCN: "深海龙蜥",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy", "inazuma", "fontaine" ],
   },
   {
     en: "Primordial Bathysmal Vishap",
     ja: "アビサルヴィシャップ・原種",
     zhCN: "深海龙蜥·原种",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy", "inazuma", "fontaine" ],
   },
   {
     en: "Rimebiter Bathysmal Vishap",
     ja: "アビサルヴィシャップ・噛氷",
     zhCN: "深海龙蜥·啮冰",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy", "inazuma", "fontaine" ],
   },
   {
     en: "Bolteater Bathysmal Vishap",
     ja: "アビサルヴィシャップ・呑雷",
     zhCN: "深海龙蜥·吞雷",
-    tags: [ "enemy", "inazuma" ],
+    tags: [ "enemy", "inazuma", "fontaine" ],
   },
   {
     en: "Bathysmal Vishap Herd",
@@ -1193,7 +1195,7 @@
     en: "Osial",
     ja: "オセル",
     zhCN: "奥赛尔",
-    notes: "発音は「オサイアル」",
+    notes: "英語の発音は「オサイアル」",
     tags: [ "enemy-boss", "liyue" ],
   },
   {
@@ -1674,7 +1676,7 @@
     en: "Setekh Wenut",
     ja: "風蝕ウェネト",
     zhCN: "风蚀沙虫",
-    tags: [ "sumeru", "enemy" ],
+    tags: [ "sumeru", "enemy-boss" ],
   },
 
   {
@@ -1682,7 +1684,7 @@
     ja: "マラーナの化身",
     zhCN: "无留陀的化身",
     pronunciationJa: "マラーナのけしん",
-    tags: [ "sumeru", "enemy" ],
+    tags: [ "sumeru", "enemy-boss" ],
   },
   {
     en: "Guardian of Apep's Oasis",
@@ -2082,8 +2084,8 @@
     en: "local legend",
     ja: "地方伝説",
     zhCN: "地方传奇",
-    tags: [ "fontaine", "enemy" ],
-    notes: "フォンテーヌに点在する、強めの敵個体",
+    tags: [ "enemy" ],
+    notes: "フォンテーヌ以降の国に点在する、強力な敵個体",
   },
   {
     en: "Vivianne of the Lake",
@@ -2167,7 +2169,7 @@
     en: "Hydro Tulpa",
     ja: "水形タルパ",
     zhCN: "水形幻人",
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy-boss" ],
   },
   {
     en: "Maintenance Mek: Gold Leader",
@@ -2181,7 +2183,7 @@
     ja: "呑星の鯨",
     zhCN: "吞星之鲸",
     pronunciationJa: "どんせいのくじら",
-    tags: [ "fontaine", "enemy" ],
+    tags: [ "fontaine", "enemy-boss" ],
   },
   {
     en: "Xuanwen Beast",
@@ -2421,7 +2423,7 @@
     ja: "溶岩の像・流燃体",
     zhCN: "熔岩游像·流燃体",
     pronunciationJa: "ようがんのぞうりゅうねんたい",
-    tags: [ "natlan", "enemy-boss" ],
+    tags: [ "natlan", "enemy" ],
   },
 
 ]

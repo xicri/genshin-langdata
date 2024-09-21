@@ -72,8 +72,9 @@
     en: "Endora",
     ja: "エンドラー",
     zhCN: "嫣朵拉",
-    tags: [ "character-sub", "item" ],
+    tags: [ "event", "character-sub", "item" ],
     pinyins: [{ char: "嫣", pron: "yan1" }],
+    notes: "v.1.4 期間限定イベント「純水の願い」に登場する小さな純水精霊"
   },
   {
     en: "Dandy",
@@ -401,10 +402,6 @@
     ja: "ミカ・シュミット",
     zhCN: "米卡·施密特",
     tags: [ "mondstadt", "character-main" ],
-    variants: {
-      en: [ "Mika", "Schmidt" ],
-      ja: [ "ミカ", "シュミット" ],
-    },
   },
   {
     en: "Front-Line Surveyor",
@@ -527,7 +524,7 @@
     ja: "おばば",
     zhCN: "老太婆",
     tags: [ "mondstadt", "how-to-call" ],
-    notes: "モナの自身の師匠に対する呼び方。old hag は、一般には意地悪な高齢女性を揶揄して呼ぶ言葉。",
+    notes: "モナからバーベロスに対する呼び方。old hag は、一般には意地悪な高齢女性を揶揄して呼ぶ言葉。",
     notesZh: "莫娜对她的师傅的称呼。old hag一般是对高龄女性的带有贬义的称呼。",
   },
   {
