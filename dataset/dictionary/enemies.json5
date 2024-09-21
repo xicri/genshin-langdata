@@ -738,6 +738,14 @@
 
   // Fatui
   {
+    en: "Cicin Mage",
+    ja: "蛍術師",
+    zhCN: "萤术士",
+    pronunciationJa: "けいじゅつし",
+    notes: "雷蛍術師・氷蛍術士の総称",
+    tags: [ "fatui", "enemy" ],
+  },
+  {
     en: "Electro Cicin Mage",
     ja: "雷蛍術師",
     zhCN: "雷萤术士",
