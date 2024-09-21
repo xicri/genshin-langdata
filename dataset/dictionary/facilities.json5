@@ -451,6 +451,6 @@
     ja: "北国銀行",
     zhCN: "北国银行",
     pronunciationJa: "きたくにぎんこう",
-    tags: [ "snezhnaya", "liyue", "facility" ],
+    tags: [ "snezhnaya", "liyue", "fontaine", "facility" ],
   },
 ]
