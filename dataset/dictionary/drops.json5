@@ -339,7 +339,7 @@
     zhCN: "尉官的徽记",
     pronunciationJa: "いかんのきしょう",
     tags: [ "drop", "fatui" ],
-    notes: "ファデュイのドロップアイテム (★3)",
+    notes: "ファデュイ先遣隊・デットエージェント・蛍術師のドロップアイテム (★3)",
   },
   {
     en: "Sergeant's Insignia",
@@ -347,7 +347,7 @@
     zhCN: "士官的徽记",
     pronunciationJa: "しかんのきしょう",
     tags: [ "drop", "fatui" ],
-    notes: "ファデュイのドロップアイテム (★2)",
+    notes: "ファデュイ先遣隊・デットエージェント・蛍術師のドロップアイテム (★2)",
   },
   {
     en: "Recruit's Insignia",
@@ -355,7 +355,7 @@
     zhCN: "新兵的徽记",
     pronunciationJa: "しんぺいのきしょう",
     tags: [ "drop", "fatui" ],
-    notes: "ファデュイのドロップアイテム (★1)",
+    notes: "ファデュイ先遣隊・デットエージェント・蛍術師のドロップアイテム (★1)",
   },
   {
     en: "Golden Raven Insignia",
