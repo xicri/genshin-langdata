@@ -4952,14 +4952,14 @@
     ja: "コンガマトー",
     zhCN: "康加玛托",
     notes: "部族見聞「ユパンキの廻焔」に登場する巨大なユムカ竜",
-    tags: [ "natlan", "character-sub" ],
+    tags: [ "natlan", "character-sub", "enemy-boss" ],
   },
   {
     en: "Mountain King",
     ja: "山の王",
     zhCN: "山王",
     notes: "コンガマトーへの敬称",
-    tags: [ "natlan", "character-sub", "how-to-call" ],
+    tags: [ "natlan", "character-sub", "how-to-call", "enemy-boss" ],
   },
   {
     en: "Ponini",
