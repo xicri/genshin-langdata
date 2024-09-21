@@ -14,7 +14,7 @@
   },
   {
     en: "Crepes Suzette",
-    ja: "クレームクレープシュゼット", // TODO Check if it is HoYoverse's mistype
+    ja: "クレームクレープシュゼット",
     zhCN: "桔桔薄饼",
     tags: [ "food" ],
   },
