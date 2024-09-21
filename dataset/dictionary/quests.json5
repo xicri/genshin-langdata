@@ -2429,7 +2429,7 @@
     ja: "部族見聞",
     zhCN: "部族纪闻",
     pronunciationJa: "ぶぞくけんぶん",
-    tags: [ "quest-tribal" ],
+    tags: [ "natlan", "quest-tribal" ],
   },
 
   // Natlan
