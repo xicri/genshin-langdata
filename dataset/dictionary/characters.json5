@@ -5175,7 +5175,7 @@
     zhCN: "斯卡拉姆齐",
     notes: "英語での発音は「スカラムーシュ」。([出典動画](https://youtu.be/TmaAOV4SJNQ?t=122)) 中国のプレイヤーの間では「スカラマシュ」(斯卡拉姆齐) よりも「散兵」の名で呼ばれることが多い。",
     notesZh: "中国的玩家往往称呼「散兵」，而英语和日语的玩家常常使用「斯卡拉姆齐」称呼。",
-    tags: [ "fatui", "inazuma", "sumeru", "character-main" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main", "enemy-boss" ],
   },
   {
     en: "Balladeer",
@@ -5184,14 +5184,14 @@
     pronunciationJa: "ざんひょう",
     notes: "中国のプレイヤーの間では「スカラマシュ」(斯卡拉姆齐) よりも「散兵」の名で呼ばれることが多い。",
     notesZh: "中国的玩家往往称呼「散兵」，而英语和日语的玩家常常使用「斯卡拉姆齐」称呼。",
-    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title", "enemy-boss" ],
   },
   {
     en: "Kunikuzushi",
     ja: "国崩",
     zhCN: "国崩",
     pronunciationJa: "くにくずし",
-    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title", "enemy-boss" ],
   },
   {
     en: "Everlasting Lord of Arcane Wisdom",
@@ -5213,7 +5213,7 @@
     ja: "放浪者",
     zhCN: "流浪者",
     pronunciationJa: "ほうろうしゃ",
-    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title" ],
+    tags: [ "fatui", "inazuma", "sumeru", "character-main", "title", "enemy-boss" ],
   },
   {
     en: "Pantalone",
