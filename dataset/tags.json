@@ -330,9 +330,9 @@
     }
   },
   "gemstone": {
-    "en": "Gemstone",
-    "ja": "宝石",
-    "zh-CN": "宝石",
+    "en": "Gemstone Material",
+    "ja": "宝石素材",
+    "zh-CN": "宝石材料",
     "title": {
       "en": "Chinese & Japanese translations for the gemstones in Genshin Impact",
       "ja": "原神の宝石素材の英語・中国語表記一覧",
