@@ -369,6 +369,16 @@
       "zh-CN": "原神中的食物的英语和日语翻译"
     }
   },
+  "outfit": {
+    "en": "Outfit",
+    "ja": "コスチューム",
+    "zh-CN": "衣装",
+    "title": {
+      "en": "Chinese & Japanese translations for outfits in Genshin Impact",
+      "ja": "原神のコスチュームの英語・中国語表記一覧",
+      "zh-CN": "原神中的衣装的英语和日语翻译"
+    }
+  },
   "artifact": {
     "en": "Artifact",
     "ja": "聖遺物",

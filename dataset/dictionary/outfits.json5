@@ -5,12 +5,14 @@
     zhCN: "海风之梦",
     pronunciationJa: "うみかぜのゆめ",
     notes: "ジンのコスチューム",
+    tags: [ "outfit", "mondstadt" ],
   },
   {
     en: "Summertime Sparkle",
     ja: "サマータイムスパークル",
     zhCN: "闪耀协奏",
     notes: "バーバラのコスチューム",
+    tags: [ "outfit", "mondstadt" ],
   },
   {
     en: "Opulent Splendor",
@@ -19,6 +21,7 @@
     pronunciationJa: "げいきょのまい",
     notes: "刻晴のコスチューム",
     pinyins: [{ char: "跹", pron: "xian1" }],
+    tags: [ "outfit", "liyue" ],
   },
   {
     en: "Orchid's Evening Gown",
@@ -26,6 +29,7 @@
     zhCN: "纱中幽兰",
     pronunciationJa: "しゃのゆうらん",
     notes: "凝光のコスチューム",
+    tags: [ "outfit", "liyue" ],
   },
   {
     en: "Red Dead of Night",
@@ -33,18 +37,21 @@
     zhCN: "殷红终夜",
     notes: "ディルックのコスチューム",
     pinyins: [{ char: "殷", pron: "yan1" }],
+    tags: [ "outfit", "mondstadt" ],
   },
   {
     en: "Ein Immernachtstraum",
     ja: "極夜の真夢",
     zhCN: "极夜真梦",
     notes: "フィッシュルのコスチューム",
+    tags: [ "outfit", "mondstadt" ],
   },
   {
     en: "Springbloom Missive",
     ja: "花時に訪れた手紙",
     zhCN: "花时来信",
     notes: "神里綾華のコスチューム",
+    tags: [ "outfit", "inazuma", "fontaine" ],
   },
   {
     en: "A Sobriquet Under Shade",
@@ -52,12 +59,14 @@
     zhCN: "叶隐芳名",
     pronunciationJa: "はにかくれしほうめい",
     notes: "リサのコスチューム",
+    tags: [ "outfit", "mondstadt", "sumeru" ],
   },
   {
     en: "Blossoming Starlight",
     ja: "星燭に揺れる爛花",
     zhCN: "琪花星烛",
     notes: "クレーのコスチューム",
+    tags: [ "outfit", "mondstadt" ],
   },
   {
     en: "Sailwind Shadow",
@@ -65,6 +74,7 @@
     zhCN: "帆影游风",
     pronunciationJa: "ほかげにたわむるかぜ", // TODO Need Check
     notes: "ガイアのコスチューム",
+    tags: [ "outfit", "mondstadt", "sumeru" ],
   },
   {
     en: "Banboo Rain",
@@ -72,6 +82,7 @@
     zhCN: "雨化竹身",
     pronunciationJa: "ちくしんうか",
     notes: "行秋のコスチューム",
+    tags: [ "outfit", "liyue", "fontaine" ],
   },
   {
     en: "Twilight Blossom",
@@ -79,6 +90,7 @@
     zhCN: "玄玉瑶芳",
     pronunciationJa: "げんぎょくようほう",
     notes: "甘雨のコスチューム",
+    tags: [ "outfit", "liyue" ],
   },
   {
     en: "FrostFlower Dew",
@@ -86,6 +98,7 @@
     zhCN: "冷花幽露",
     pronunciationJa: "れいかゆうろ",
     notes: "申鶴のコスチューム",
+    tags: [ "outfit", "liyue" ],
   },
   {
     en: "Breeze of Sabaa",
@@ -93,6 +106,7 @@
     zhCN: "莎邦之息",
     pronunciationJa: "とうふうはこぶはなのといき", // TODO Need Check
     notes: "ニィロウのコスチューム",
+    tags: [ "outfit", "sumeru" ],
   },
   {
     en: "Phantom in Boots",
@@ -100,5 +114,6 @@
     zhCN: "倩影游侠",
     pronunciationJa: "うるわしきかいけつ",
     notes: "綺良々のコスチューム",
+    tags: [ "outfit", "inazuma", "fontaine" ],
   },
 ]
