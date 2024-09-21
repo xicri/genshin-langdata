@@ -2698,7 +2698,7 @@
     ja: "草神",
     zhCN: "草神",
     tags: [ "sumeru", "title" ],
-    pronunciationJa: "そうしん", // Source: https://mobile.twitter.com/genshin_kanji/status/1553941527684337664
+    pronunciationJa: "そうしん", // Source: https://x.com/genshin_kanji/status/1553941527684337664
     variants: {
       ja: [ "そうじん", "くさかみ", "くさがみ" ],
     },
@@ -5196,7 +5196,7 @@
     en: "Everlasting Lord of Arcane Wisdom",
     ja: "七葉寂照秘密主",
     zhCN: "七叶寂照秘密主",
-    // Source: https://twitter.com/genshin_kanji/status/1588074644778627072
+    // Source: https://x.com/genshin_kanji/status/1588074644778627072
     pronunciationJa: "しちようじゃくしょうひみつしゅ",
     tags: [ "fatui", "inazuma", "sumeru", "enemy-boss" ],
   },
