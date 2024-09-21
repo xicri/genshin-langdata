@@ -5167,7 +5167,7 @@
     ja: "紅蓮蛾",
     zhCN: "红莲蛾",
     pronunciationJa: "ぐれんが",
-    tags: [ "object", "fatui", "inazuma" ],
+    tags: [ "living-being", "fatui", "inazuma" ],
   },
   {
     en: "Scaramouche",
