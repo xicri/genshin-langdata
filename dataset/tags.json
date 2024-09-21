@@ -340,12 +340,12 @@
     }
   },
   "talent-material": {
-    "en": "Talent Level-Up Material",
-    "ja": "天賦育成素材",
+    "en": "Talent Material",
+    "ja": "天賦素材",
     "zh-CN": "天赋养成素材",
     "title": {
-      "en": "Chinese & Japanese translations for talent level-up materials in Genshin Impact",
-      "ja": "原神の天賦育成素材の英語・中国語表記一覧",
+      "en": "Chinese & Japanese translations for talent materials in Genshin Impact",
+      "ja": "原神の天賦素材の英語・中国語表記一覧",
       "zh-CN": "原神中的天赋养成素材的英语和日语翻译"
     }
   },
