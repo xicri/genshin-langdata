@@ -15,6 +15,9 @@
     "release": "./scripts/release.sh"
   },
   "dependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "@types/luxon": "^3.4.2",
+    "@types/node": "^22.5.5",
     "dotenv": "^16.0.0",
     "eslint": "^8.0.0",
     "eslint-config-xicri": "latest",

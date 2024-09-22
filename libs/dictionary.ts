@@ -8,9 +8,10 @@ import { marked } from "marked";
 import fetch from "node-fetch";
 import pinyinTone from "pinyin-tone";
 
-import { jsonTo, loadJSONs } from "./utils.js";
+import { jsonTo, loadJSONs } from "./utils.ts";
+import type { SourceWord } from "./types.ts";
 
-async function writeFileSJIS(file, data) {
+async function writeFileSJIS(file: string, data: string): Promise<void> {
   await rm(file, { force: true });
 
   const buffer = iconv.encode(data, "Shift_JIS");
@@ -20,11 +21,11 @@ async function writeFileSJIS(file, data) {
 }
 
 export class Dictionary {
-  #words = [];
-  #dummyWordsProd;
-  #loaded = false;
+  #words: Word[] = [];
+  #dummyWordsProd?: Word[];
+  #loaded: boolean = false;
 
-  async load() {
+  async load(): Promise<void> {
     this.#words = await loadJSONs(resolve(import.meta.dirname, "../dataset/dictionary"), { json5: true });
     this.#addIDs();
     this.#compileMarkdown();
@@ -37,12 +38,14 @@ export class Dictionary {
 
   /**
    * Load words based on dummy words for testing
-   * @param {object} options - Options
-   * @param {Array} options.wordsLocal - Dummy for dataset/dictionary/*.json5
-   * @param {Array} options.wordsProd - Dummy for https://dataset.genshin-dictionary.com/words.json
-   * @returns {Promise<void>} - Promise object
+   * @param options - Options
+   * @param options.wordsLocal - Dummy for dataset/dictionary/*.json5
+   * @param options.wordsProd - Dummy for https://dataset.genshin-dictionary.com/words.json
+   * @returns Promise object
    */
-  async loadWithDummies({ wordsLocal, wordsProd }) {
+  async loadWithDummies(
+    { wordsLocal, wordsProd }: { wordsLocal: Word[], wordsProd: Word[] }
+  ): Promise<void> {
     this.#words = wordsLocal;
     this.#dummyWordsProd = wordsProd;
 
@@ -55,7 +58,7 @@ export class Dictionary {
     this.#loaded = true;
   }
 
-  async buildJSON(distDir) {
+  async buildJSON(distDir: string): Promise<void> {
     if (!this.#loaded) {
       throw new Error("Dictionary is not loaded yet. Run dictionary.load() first.");
     }
@@ -71,7 +74,7 @@ export class Dictionary {
     ]);
   }
 
-  #addIDs() {
+  #addIDs(): void {
     this.#words = this.#words.map(word => {
       if (!word.id) {
         word.id = word.en
@@ -94,12 +97,12 @@ export class Dictionary {
     });
   }
 
-  async #addTimestamps() {
+  async #addTimestamps(): Promise<void> {
     try {
       const res = await fetch("https://dataset.genshin-dictionary.com/words.json");
 
       if (res.status < 400 || this.#dummyWordsProd) {
-        const wordsProd = this.#dummyWordsProd ?? await res.json();
+        const wordsProd: Word[] = this.#dummyWordsProd ?? await res.json() as Word[];
 
         this.#words = this.#words.map(wordLocal => {
           const wordProd = wordsProd.find(wordProd => wordLocal.id === wordProd.id);

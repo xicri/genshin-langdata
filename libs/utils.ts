@@ -29,14 +29,21 @@ export async function loadJSONs(dirPath, options = { json5: false }) {
 
 /**
  * Convert JSON to CSV or TSV
- * @param {string} format - target format. "csv" or "tsv".
- * @param {object} objs - object to convert to CSV or TSV
- * @param {object} options - options
- * @param {boolean} options.header - add header or not
- * @param {boolean} options.quotes - if false, do not enclose values with doublequotes. default is true.
- * @returns {string} CSV or TSV string
+ * @param format - target format. "csv" or "tsv".
+ * @param objs - object to convert to CSV or TSV
+ * @param options - options
+ * @param options.header - add header or not
+ * @param options.quotes - if false, do not enclose values with doublequotes. default is true.
+ * @returns CSV or TSV string
  */
-export function jsonTo(format, objs, options = { header: true, quotes: true }) {
+export function jsonTo(
+  format: string,
+  objs: { [key: string]: unknown },
+  options = {
+    header: true,
+    quotes: true,
+  },
+): string {
   if (!Array.isArray(objs)) {
     throw new Error("Given JSON must be an array.");
   }
@@ -46,7 +53,7 @@ export function jsonTo(format, objs, options = { header: true, quotes: true }) {
   }
 
   // List all of the keys
-  const keys = [];
+  const keys: string[] = [];
   for (const obj of objs) {
     for (const key of Object.keys(obj)) {
       if (!keys.includes(key)) {
