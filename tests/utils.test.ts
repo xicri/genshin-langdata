@@ -1,5 +1,5 @@
 import { expect, test } from "vitest";
-import words from "../dist/words.json";
+import words from "../dist/words.json" with { type: "json" };
 
 test("words[].id is properly converted from the English words", () => {
   for (const word of words) {

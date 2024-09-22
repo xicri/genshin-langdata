@@ -16,6 +16,9 @@
     "prepare": "jiti scripts/build-prep.ts"
   },
   "dependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "@types/luxon": "^3.4.2",
+    "@types/node": "^22.5.5",
     "dotenv": "^16.5.0",
     "iconv-lite": "^0.6.3",
     "jiti": "^2.4.2",
@@ -25,6 +28,7 @@
     "marked": "^15.0.8",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.2.5",
+    "type-fest": "^4.40.1",
     "typescript": "^5.2.2",
     "vitest": "^3.1.2",
     "wrangler": "^4.12.0"

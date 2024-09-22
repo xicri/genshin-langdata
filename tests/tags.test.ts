@@ -1,5 +1,5 @@
 import { expect, test } from "vitest";
-import tags from "../dist/tags.json";
+import tags from "../dist/tags.json" with { type: "json" };
 
 test("property values of tag JSON complies the format.", async () => {
   for (const [ tag, { en, ja, title }] of Object.entries(tags)) {

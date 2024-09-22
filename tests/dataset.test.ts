@@ -2,8 +2,8 @@ import { ok } from "node:assert";
 import { DateTime } from "luxon";
 import { expect, test } from "vitest";
 
-import tags from "../dist/tags.json";
-import words from "../dist/words.json";
+import tags from "../dist/tags.json" with { type: "json" };
+import words from "../dist/words.json" with { type: "json" };
 
 const simplifiedChars = [
   "·", // "・"
@@ -94,7 +94,7 @@ const japaneseChars = [
   "盧", // "卢"
 ];
 
-function isURL(urlStr) {
+function isURL(urlStr: string) {
   try {
     new URL(urlStr);
     return true;
