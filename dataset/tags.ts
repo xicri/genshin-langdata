@@ -1,4 +1,4 @@
-import type { Tags } from "../libs/types";
+import type { Tags } from "../libs/types.ts";
 
 export const tags = {
   mondstadt: {

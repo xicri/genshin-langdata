@@ -1,17 +1,17 @@
 import { readdir } from "node:fs/promises";
 import { join } from "node:path";
 import { flatten } from "lodash-es";
-import type { Word } from "./types.ts";
+import type { SourceWord } from "./types.ts";
 
 /**
  * Load all the *.ts files in the directory and concatenate contents to one array.
  * @param dirPath - path to the directory containing JSONs
  * @returns concatenated JS array object of the loaded JSONs
  */
-export async function importAll(dirPath: string): Promise<Word[]> {
+export async function importAll(dirPath: string): Promise<SourceWord[]> {
   const fileNames = await readdir(dirPath);
 
-  const datasets: Word[][] = await Promise.all(
+  const datasets: SourceWord[][] = await Promise.all(
     fileNames.map((fileName) => import(join(dirPath, fileName)))
   );
 
@@ -29,7 +29,7 @@ export async function importAll(dirPath: string): Promise<Word[]> {
  */
 export function jsonTo(
   format: string,
-  objs: { [key: string]: unknown },
+  objs: { [key: string]: string | number | undefined }[],
   options = {
     header: true,
     quotes: true,

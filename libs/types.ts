@@ -55,16 +55,16 @@ export type Word = {
     zhCN?: string[];
   };
   /** The date this word is added */
-  createdAt: string;
+  createdAt?: string;
   /** The date this word is updated */
-  updatedAt: string;
+  updatedAt?: string;
 };
 
 /**
  * Word object for the source datasets in this repository.
  * Use `Word` type instead for public opendata.
  */
-export type SourceWord = Omit<Word, "createdAt" | "updatedAt"> & {
+export type SourceWord = Omit<Word, "id" | "createdAt" | "updatedAt"> & {
   id?: Word["id"];
 };
 

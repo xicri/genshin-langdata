@@ -9,7 +9,11 @@ import fetch from "node-fetch";
 import pinyinTone from "pinyin-tone";
 
 import { jsonTo, loadJSONs } from "./utils.ts";
-import type { SourceWord } from "./types.ts";
+import type { Word, SourceWord } from "./types.ts";
+
+type CsvReadyObject = {
+  [key: string]: string | undefined;
+};
 
 async function writeFileSJIS(file: string, data: string): Promise<void> {
   await rm(file, { force: true });
@@ -44,7 +48,7 @@ export class Dictionary {
    * @returns Promise object
    */
   async loadWithDummies(
-    { wordsLocal, wordsProd }: { wordsLocal: Word[], wordsProd: Word[] }
+    { wordsLocal, wordsProd }: { wordsLocal: SourceWord[], wordsProd: Word[] }
   ): Promise<void> {
     this.#words = wordsLocal;
     this.#dummyWordsProd = wordsProd;
@@ -171,7 +175,7 @@ export class Dictionary {
     }
   }
 
-  #compileMarkdown() {
+  #compileMarkdown(): void {
     marked.use({
       renderer: {
         link({ href, text }) {
@@ -196,7 +200,7 @@ export class Dictionary {
     });
   }
 
-  #reverseSortByUpdatedOn() {
+  #reverseSortByUpdatedOn(): void {
     this.#words.sort((wordA, wordB) => {
       const updatedOnA = DateTime.fromISO(wordA.updatedAt);
       const updatedOnB = DateTime.fromISO(wordB.updatedAt);
@@ -211,7 +215,7 @@ export class Dictionary {
     });
   }
 
-  #convertPinyinToneLetters() {
+  #convertPinyinToneLetters(): void {
     this.#words = this.#words.map(word => {
       if (word.pinyins) {
         word.pinyins = word.pinyins.map(pinyin => {
@@ -225,9 +229,9 @@ export class Dictionary {
     });
   }
 
-  #toCSV() {
+  #toCSV(): string {
     const json = this.#words.map(word => {
-      const flattened = {
+      const flattened: CsvReadyObject = {
         ID: word.id,
         英語: word.en,
         日本語: word.ja,
