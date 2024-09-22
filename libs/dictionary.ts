@@ -8,7 +8,7 @@ import { marked } from "marked";
 import fetch from "node-fetch";
 import pinyinTone from "pinyin-tone";
 
-import { jsonTo, loadJSONs } from "./utils.js";
+import { jsonTo, loadJSONs } from "./utils.ts";
 
 async function writeFileSJIS(file, data) {
   await rm(file, { force: true });

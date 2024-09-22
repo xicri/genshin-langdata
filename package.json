@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "node scripts/build.js",
-    "todo": "node scripts/todo.js",
+    "todo": "jiti scripts/todo.ts",
     "test": "npm run build && vitest run",
     "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate",
     "release": "./scripts/release.sh"
@@ -17,6 +17,7 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "iconv-lite": "^0.6.3",
+    "jiti": "^2.4.2",
     "json5": "^2.2.2",
     "klona": "^2.0.4",
     "lodash-es": "^4.17.21",
