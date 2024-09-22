@@ -161,7 +161,12 @@ export class Dictionary {
         throw new Error("dataset.genshin-dictionary.com unavailable");
       }
     } catch (err) {
-      if (err.name === "FetchError" || err.message === "dataset.genshin-dictionary.com unavailable") {
+      if (
+        err instanceof Error && (
+          err.name === "FetchError" ||
+          err.message === "dataset.genshin-dictionary.com unavailable"
+        )
+      ) {
         console.warn("[WARNING] createdAt is reset since production API is unavailable.");
 
         this.#words = this.#words.map(wordLocal => {
@@ -190,10 +195,10 @@ export class Dictionary {
 
     this.#words = this.#words.map(word => {
       if (word.notes) {
-        word.notes = marked.parseInline(word.notes);
+        word.notes = marked.parseInline(word.notes, { async: false });
       }
       if (word.notesZh) {
-        word.notesZh = marked.parseInline(word.notesZh);
+        word.notesZh = marked.parseInline(word.notesZh, { async: false });
       }
 
       return word;
@@ -211,6 +216,8 @@ export class Dictionary {
         return 0; // Keep the order as is
       } else if (updatedOnB < updatedOnA) {
         return -1; // wordA is newer than wordB
+      } else {
+        throw new Error("Something technically wrong in Dictionary.#reverseSortByUpdatedOn()");
       }
     });
   }
@@ -238,7 +245,10 @@ export class Dictionary {
         日本語読み: word.pronunciationJa,
         備考: word.notes,
         // eslint-disable-next-line quote-props -- Quotes are necessary when "・" is in the key
-        "誤記・通称等": [].concat(word.variants?.ja ?? [], word.variants?.en ?? []).join("・"),
+        "誤記・通称等": [
+          ...(word.variants?.ja ?? []),
+          ...(word.variants?.en ?? []),
+        ].join("・"),
         タグ: word.tags?.join(", "),
       };
 

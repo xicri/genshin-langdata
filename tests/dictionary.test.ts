@@ -109,16 +109,16 @@ test("addUpdateAt() adds updatedAt properly", async () => {
 
   const today = DateTime.now().toISODate();
 
-  expect(amber.createdAt).toBe("2022-01-01");
-  expect(amber.updatedAt).toBe("2022-01-01");
-  expect(outrider.createdAt).toBe("2022-01-01");
-  expect(outrider.updatedAt).toBe(today);
-  expect(baronBunny.createdAt).toBe(today);
-  expect(baronBunny.updatedAt).toBe(today);
-  expect(orobaxi.createdAt).toBe(today);
-  expect(orobaxi.updatedAt).toBe(today);
-  expect(newWord.createdAt).toBe(today);
-  expect(newWord.updatedAt).toBe(today);
+  expect(amber?.createdAt).toBe("2022-01-01");
+  expect(amber?.updatedAt).toBe("2022-01-01");
+  expect(outrider?.createdAt).toBe("2022-01-01");
+  expect(outrider?.updatedAt).toBe(today);
+  expect(baronBunny?.createdAt).toBe(today);
+  expect(baronBunny?.updatedAt).toBe(today);
+  expect(orobaxi?.createdAt).toBe(today);
+  expect(orobaxi?.updatedAt).toBe(today);
+  expect(newWord?.createdAt).toBe(today);
+  expect(newWord?.updatedAt).toBe(today);
 });
 
 test("Pinyin's tone numbers are converted properly", async () => {
