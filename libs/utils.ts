@@ -1,3 +1,23 @@
+import { readdir } from "node:fs/promises";
+import { join } from "node:path";
+import { flatten } from "lodash-es";
+import type { Word } from "./types.ts";
+
+/**
+ * Load all the *.ts files in the directory and concatenate contents to one array.
+ * @param dirPath - path to the directory containing JSONs
+ * @returns concatenated JS array object of the loaded JSONs
+ */
+export async function importAll(dirPath: string): Promise<Word[]> {
+  const fileNames = await readdir(dirPath);
+
+  const datasets: Word[][] = await Promise.all(
+    fileNames.map((fileName) => import(join(dirPath, fileName)))
+  );
+
+  return flatten(datasets);
+}
+
 /**
  * Convert JSON to CSV or TSV
  * @param format - target format. "csv" or "tsv".
