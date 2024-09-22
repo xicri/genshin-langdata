@@ -3,7 +3,8 @@ import { resolve } from "node:path";
 import { DateTime } from "luxon";
 import { expect, test, beforeAll, afterAll } from "vitest";
 
-import { Dictionary } from "../libs/dictionary.js";
+import { Dictionary } from "../libs/dictionary.ts";
+import type { Word, SourceWord } from "../libs/types.ts";
 
 const consoleInfoOriginal = global.console.info;
 
@@ -16,7 +17,7 @@ afterAll(() => {
 });
 
 test("addUpdateAt() adds updatedAt properly", async () => {
-  const wordsLocal = [
+  const wordsLocal: SourceWord[] = [
     {
       en: "Amber",
       ja: "アンバー",
@@ -50,7 +51,7 @@ test("addUpdateAt() adds updatedAt properly", async () => {
       id: "some-new-word",
     },
   ];
-  const wordsProd = [
+  const wordsProd: Word[] = [
     // No change
     {
       en: "Amber",
@@ -98,7 +99,7 @@ test("addUpdateAt() adds updatedAt properly", async () => {
   await dic.buildJSON(distDir);
 
   const jsonStr = await readFile(resolve(distDir, "words.json"), { encoding: "utf-8" });
-  const wordsResults = JSON.parse(jsonStr);
+  const wordsResults = JSON.parse(jsonStr) as Word[];
 
   const amber = wordsResults.find(word => word.en === "Amber");
   const outrider = wordsResults.find(word => word.en === "Outrider");
@@ -108,20 +109,20 @@ test("addUpdateAt() adds updatedAt properly", async () => {
 
   const today = DateTime.now().toISODate();
 
-  expect(amber.createdAt).toBe("2022-01-01");
-  expect(amber.updatedAt).toBe("2022-01-01");
-  expect(outrider.createdAt).toBe("2022-01-01");
-  expect(outrider.updatedAt).toBe(today);
-  expect(baronBunny.createdAt).toBe(today);
-  expect(baronBunny.updatedAt).toBe(today);
-  expect(orobaxi.createdAt).toBe(today);
-  expect(orobaxi.updatedAt).toBe(today);
-  expect(newWord.createdAt).toBe(today);
-  expect(newWord.updatedAt).toBe(today);
+  expect(amber?.createdAt).toBe("2022-01-01");
+  expect(amber?.updatedAt).toBe("2022-01-01");
+  expect(outrider?.createdAt).toBe("2022-01-01");
+  expect(outrider?.updatedAt).toBe(today);
+  expect(baronBunny?.createdAt).toBe(today);
+  expect(baronBunny?.updatedAt).toBe(today);
+  expect(orobaxi?.createdAt).toBe(today);
+  expect(orobaxi?.updatedAt).toBe(today);
+  expect(newWord?.createdAt).toBe(today);
+  expect(newWord?.updatedAt).toBe(today);
 });
 
 test("Pinyin's tone numbers are converted properly", async () => {
-  const wordsLocal = [
+  const wordsLocal: SourceWord[] = [
     {
       en: "Amakumo Peak",
       ja: "天雲峠",
@@ -130,8 +131,8 @@ test("Pinyin's tone numbers are converted properly", async () => {
       pinyins: [{ char: "峠", pron: "qia3" }],
       tags: [ "inazuma", "location" ],
     },
-  ];
-  const wordsProd = [
+  ] as const;
+  const wordsProd: Word[] = [
     {
       id: "amakumo-peak",
       en: "Amakumo Peak",
@@ -143,7 +144,7 @@ test("Pinyin's tone numbers are converted properly", async () => {
       createdAt: "2022-01-01",
       updatedAt: "2023-04-19",
     },
-  ];
+  ] as const;
 
   const distDir = resolve(import.meta.dirname, "../cache/test/dic");
   const dic = new Dictionary();
