@@ -234,6 +234,30 @@
     tags: [ "event", "weapon-material" ],
     notes: "v5.0 期間限定イベント「巡れ! ワンダフルグラフィティ」内で貰える配布武器「蒼紋の角杯」の強化アイテム",
   },
+  {
+    en: "Of Thorns and Crowns",
+    ja: "いばらと栄冠",
+    zhCN: "荆棘与勋冠",
+    pronunciationJa: "いばらとえいかん",
+    tags: [ "event" ],
+    notes: "v5.0 期間限定イベント",
+  },
+  {
+    en: "Mementos of Teyvat",
+    ja: "テイワットの思い出",
+    zhCN: "提瓦特忆画",
+    pronunciationJa: "テイワットのおもいで",
+    tags: [ "event" ],
+    notes: "4周年記念 期間限定イベント",
+  },
+  {
+    en: "A Honest Promotion",
+    ja: "良心的なキャンペーン",
+    zhCN: "善良促销",
+    pronunciationJa: "りょうしんてきなキャンペーン",
+    tags: [ "event", "quest-world" ],
+    notes: "4周年記念 期間限定のワールドクエスト",
+  },
 
   // v4.8
   {

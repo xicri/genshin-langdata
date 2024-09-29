@@ -1601,6 +1601,13 @@
     pronunciationJa: "とあるフォンテーヌじんのおもいで",
     tags: [ "sumeru", "quest-world" ],
   },
+  {
+    en: "The Path of Papers",
+    ja: "学を求む長き道",
+    zhCN: "求学漫漫路",
+    pronunciationJa: "がくをもとむながきみち",
+    tags: [ "sumeru", "quest-world" ],
+  },
 
   // Fontaine
   {
@@ -3483,6 +3490,30 @@
     ja: "流行りの音楽",
     zhCN: "流行音乐，谁先知？",
     pronunciationJa: "はやりのおんがく",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Daydream Club: Thermal Hypnosis",
+    ja: "空想クラブ・熱エネルギー睡眠導入",
+    zhCN: "空想俱乐部・热能催眠",
+    pronunciationJa: "くうそうクラブねつエネルギーすいみんどうにゅう",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Grow Up Quickly, Littl'Un",
+    ja: "はやく大きくなーれ！",
+    zhCN: "小小人儿，快长大",
+    pronunciationJa: "はやくおおきくなーれ",
+    tags: [ "quest-daily", "natlan" ],
+  },
+  {
+    en: "Grow Up Quickly, Littl'Un...? (Epilogue)", // The original title does not have (Epilogue)
+    ja: "はやく大きくなーれ…？",
+    zhCN: "小小人儿，快长大…？",
+    notesEn: "The original title does not have (Epilogue). Added due to constraints of key generation.",
+    notes: "英語の原題には (Epilogue) はついていません。システム制約によりキーを重複させないための処置です。",
+    notesZh: "原英文标题不包括（Epilogue）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    pronunciationJa: "はやくおおきくなーれ",
     tags: [ "quest-daily", "natlan" ],
   },
 

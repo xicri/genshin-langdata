@@ -2488,6 +2488,13 @@
     pronunciationJa: "とうえんしゃのひとう",
     tags: [ "natlan", "location" ],
   },
+  {
+    en: "\"Flower-Feather Clan\"",
+    ja: "「花翼の集」",
+    zhCN: "「花羽会」",
+    pronunciationJa: "かよくのつどい", // Note: ふりがなについては魔神任務5章1部 帰火聖夜の巡礼、大会運営のパラムのチャスカ紹介ボイスを参考
+    tags: [ "natlan", "location", "organization" ],
+  },
 
   //
   // Snezhnaya

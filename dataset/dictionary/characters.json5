@@ -2880,7 +2880,10 @@
     en: "Alrani",
     ja: "アラニ",
     zhCN: "爱拉尼",
-    tags: [ "sumeru", "inazuma", "character-sub" ],
+    notesEn: "Character appearing in many world quests, including \"And This Treasure Goes To...\", \"The Path of Papers\"",
+    notes: "「霊矩のお宝」「学を求む長き道」など、多くの世界任務に登場する人物",
+    notesZh: "出现在「灵矩有宝予何人」，「求学漫漫路」等众多世界任务中的角色",
+    tags: [ "sumeru", "liyue", "inazuma", "natlan", "character-sub" ],
   },
   {
     en: "Ahangar",
@@ -3691,6 +3694,15 @@
     zhCN: "奥乌兹",
     tags: [ "sumeru", "character-sub" ],
   },
+  {
+    en: "Narzam",
+    ja: "ナザム",
+    zhCN: "娜赞",
+    notesEn: "Character appearing in the world quest \"The Path of Papers\"",
+    notes: "世界任務「学を求む長き道」に登場する人物",
+    notesZh: "世界任务「求学漫漫路」中出现的角色",
+    tags: [ "sumeru", "natlan", "character-sub" ],
+  },
 
   //
   // Fontaine ― Playable Characters
@@ -3724,8 +3736,7 @@
     en: "Egeria",
     ja: "エゲリア",
     zhCN: "厄歌莉娅",
-    tags: [ "fontaine", "character-main" ],
-    notes: "タグのプレイアブル・NPC 分類は仮",
+    tags: [ "fontaine", "character-sub" ],
   },
   {
     en: "Navia",
@@ -5030,6 +5041,25 @@
     zhCN: "特拉佐莉",
     notes: "部族見聞「祝福を祈り、テペトルに告ぐ」第二幕に登場する人物",
     tags: [ "natlan", "character-sub" ],
+  },
+  {
+    en: "Ifa",
+    ja: "イファ",
+    zhCN: "伊法",
+    notesEn: "Saurian vet from the \"Flower-Feather Clan\"",
+    notes: "「花翼の集」の竜医。タグのプレイアブル・NPC 分類は仮", // TODO ムアラニ/カチーナ/キィニチのボイスでのみ出てくる人物
+    notesZh: "「花羽会」中的龙医",
+    tags: [ "natlan", "character-sub" ],
+  },
+  {
+    en: "Pyro Archon",
+    ja: "炎神",
+    zhCN: "火神",
+    tags: [ "natlan", "title" ],
+    pronunciationJa: "えんじん",
+    variants: {
+      en: [ "Pyro God", "God of Pyro" ],
+    },
   },
 
   //
