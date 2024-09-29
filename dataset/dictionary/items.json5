@@ -1380,6 +1380,20 @@
     pronunciationJa: "ラクガキしゃしんき",
     tags: [ "natlan", "item", "event" ],
   },
+  {
+    en: "Paimon's Kamera",
+    ja: "パイモンの写真機",
+    zhCN: "派蒙的留影机",
+    pronunciationJa: "パイモンのしゃしんき",
+    tags: [ "natlan", "item", "event" ],
+  },
+  {
+    en: "Firstborn Firesprite",
+    ja: "新生の霊炎",
+    zhCN: "初诞灵焰",
+    pronunciationJa: "しんせいのれいえん",
+    tags: [ "item" ],
+  },
 
   //
   // Quest Items
