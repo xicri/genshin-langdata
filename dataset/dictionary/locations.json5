@@ -2492,7 +2492,7 @@
     en: "\"Flower-Feather Clan\"",
     ja: "「花翼の集」",
     zhCN: "「花羽会」",
-    pronunciationJa: "かよくのつどい", // Note: ふりがなについては魔神任務5章1部 帰火聖夜の巡礼、大会運営のパラムのチャスカ紹介ボイスを参考
+    pronunciationJa: "かよくのつどい", // Source of Japanese pronunciation: Introduction for Chasca by Balam, an organizer of Pilgrimage, in Archon Quest Chapter 5 Act 1
     tags: [ "natlan", "location", "organization" ],
   },
 
