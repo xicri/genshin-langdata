@@ -5047,7 +5047,7 @@
     ja: "イファ",
     zhCN: "伊法",
     notesEn: "Saurian vet from the \"Flower-Feather Clan\"",
-    notes: "「花翼の集」の竜医。タグのプレイアブル・NPC 分類は仮", // TODO ムアラニ/カチーナ/キィニチのボイスでのみ出てくる人物
+    notes: "「花翼の集」の竜医。タグのプレイアブル・NPC 分類は仮", // TODO A person who is mentioned in Mualani, Kachina,  and Kinichi's voice-overs.
     notesZh: "「花羽会」中的龙医",
     tags: [ "natlan", "character-sub" ],
   },
