@@ -3507,7 +3507,7 @@
     tags: [ "quest-daily", "natlan" ],
   },
   {
-    en: "Grow Up Quickly, Littl'Un...? (Epilogue)", // The original title does not have (Epilogue)
+    en: "Grow Up Quickly, Littl'Un...? (Epilogue)", // The original title does not have (Epilogue) ― TODO: Allow the same English title
     ja: "はやく大きくなーれ…？",
     zhCN: "小小人儿，快长大…？",
     notesEn: "The original title does not have (Epilogue). Added due to constraints of key generation.",
