@@ -369,14 +369,14 @@
   {
     en: "Guide to Conflict",
     ja: "「紛争」の導き",
-    zhCN: "「纷争」的指引	",
+    zhCN: "「纷争」的指引",
     pronunciationJa: "ふんそうのみちびき",
     tags: [ "talent-material", "natlan" ],
   },
   {
     en: "Philosophies of Conflict",
     ja: "「紛争」の哲学",
-    zhCN: "「纷争」的哲学	",
+    zhCN: "「纷争」的哲学",
     pronunciationJa: "ふんそうのてつがく",
     tags: [ "talent-material", "natlan" ],
   },
