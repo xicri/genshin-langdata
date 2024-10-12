@@ -533,7 +533,7 @@
   {
     en: "I. Ivanovna N.",
     ja: "I・イヴァノヴナ・N",
-    zhCN: "I・伊万诺夫娜・N",
+    zhCN: "I·伊万诺夫娜·N",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードJ",
     notesZh: "魔女会代号J。",
@@ -544,7 +544,7 @@
     zhCN: "安德斯多特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードM。イノシシプリンセスの作者。フルネームは「アンヤ・M・アンデシュドッテル」(英: Anya M. Andersdotter, 簡中: 安雅·M·安德斯多特) と思われる", // Source of her fullname: Event movie in Simulanka in v4.8
-    notesZh: "魔女会代号M。《野猪公主》的作者。，安雅·M·安德斯多特 (英: Anya M. Andersdotter, 日: アンヤ・M・アンデシュドッテル) 似乎是全名",
+    notesZh: "魔女会代号M。《野猪公主》的作者。安雅·M·安德斯多特 (英: Anya M. Andersdotter, 日: アンヤ・M・アンデシュドッテル) 似乎是全名",
   },
   {
     en: "Nicole Reeyn",
@@ -4627,7 +4627,7 @@
   {
     en: "Morris",
     ja: "モリス",
-    zhCN: "モリス",
+    zhCN: "莫里斯",
     tags: [ "event", "fontaine", "character-sub" ],
     notes: "v4.3 期間限定イベント「薔薇と銃士」に登場する人物",
   },
@@ -4938,7 +4938,7 @@
   {
     en: "Toba",
     ja: "トバ",
-    zhCN: "トバ",
+    zhCN: "多巴",
     notes: "部族見聞「ユパンキの廻焔」に登場する人物",
     tags: [ "natlan", "character-sub" ],
   },
