@@ -5,6 +5,39 @@ import { expect, test } from "vitest";
 import tags from "../dataset/tags.json";
 import words from "../dist/words.json";
 
+const japaneseChars = [
+  "・", // "·"
+  "鳥", // "鸟"
+  "竜", // "龙"
+  "災", // "灾"
+  "戦", // "战"
+  "猟", // "猎"
+  "風", // "风"
+  "楓", // "枫"
+  "隊", // "队"
+  "長", // "长"
+  "錬", // "炼"
+  "閉", // "闭"
+  "終", // "终"
+  "絶", // "绝"
+  "紛", // "纷"
+  "納", // "纳"
+  "緑", // "绿"
+  "約", // "约"
+  "綺", // "绮"
+  "鋸", // "锯"
+  "鳴", // "鸣"
+  "黒", // "黑"
+  "競", // "竞"
+  "場", // "场"
+  "尋", // "寻"
+  "茲", // "兹"
+  "駄", // "驮"
+  "獣", // "兽"
+  "霊", // "灵"
+  "聖", // "圣"
+];
+
 function isURL(urlStr) {
   try {
     new URL(urlStr);
@@ -180,6 +213,17 @@ test("if property values of dictionary JSON complies the format.", async () => {
           ok(isURL(example.refURL), `Invalid refURL of ${word.en}: ${example.refURL}`);
         }
       }
+    }
+
+    // Check simplified Chinese characters
+    if (!word.zhCN) {
+      return;
+    }
+
+    expect(word.zhCN).not.toMatch(/[ぁ-んァ-ヴー]/);
+
+    for (const jaChar of japaneseChars) {
+      expect(word.zhCN).not.toContain(jaChar);
     }
   }
 });
