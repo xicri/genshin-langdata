@@ -155,11 +155,14 @@ test("if property values of dictionary JSON complies the format.", async () => {
   for (const word of words) {
     expect(typeof word.id).toBe("string");
     expect(typeof word.en).toBe("string");
+    expect(word.en).equal(word.en.trim());
     if (word.ja) {
       expect(typeof word.ja).toBe("string");
+      expect(word.ja).equal(word.ja.trim());
     }
     if (word.zhCN) {
       expect(typeof word.zhCN).toBe("string");
+      expect(word.zhCN).equal(word.zhCN.trim());
     }
 
     if (typeof word.notes !== "undefined") {

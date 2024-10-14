@@ -2444,5 +2444,12 @@
     pronunciationJa: "ようがんのぞうりゅうねんたい",
     tags: [ "natlan", "enemy-boss" ],
   },
+  {
+    en: "Secret Source Automation: Configuration Device",
+    ja: "秘源機兵・精巧デバイス",
+    zhCN: "秘源机兵·构型械",
+    pronunciationJa: "ひげんきへいセイコウデバイス",
+    tags: [ "natlan", "enemy-boss" ],
+  },
 
 ]

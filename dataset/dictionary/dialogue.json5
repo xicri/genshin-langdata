@@ -336,4 +336,15 @@
     tags: [ "fontaine", "dialogue" ],
     notesZh: "芙宁娜的内心自白",
   },
+
+  //
+  // Natlan
+  //
+  {
+    en: "For Natlan",
+    ja: "ナタのために",
+    zhCN: "为了纳塔",
+    tags: [ "dialogue", "natlan" ],
+    notes: "ナタの戦士の気勢をあげるセリフ",
+  },
 ]

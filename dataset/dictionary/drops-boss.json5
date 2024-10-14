@@ -472,4 +472,11 @@
     pronunciationJa: "しゅくふくのばくいん",
     tags: [ "natlan", "drop-boss" ],
   },
+  {
+    en: "Gold-Inscribed Secret Source Core",
+    ja: "金紋の刻まれた源核",
+    zhCN: "秘刻金纹的源核",
+    pronunciationJa: "きんもんのきざまれたげんかく",
+    tags: [ "natlan", "drop-boss" ],
+  },
 ]

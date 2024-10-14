@@ -750,6 +750,38 @@
   },
 
   //
+  // Natlan
+  //
+  {
+    en: "\"Pilgrimage\"",
+    ja: "帰火聖夜の巡礼",
+    zhCN: "归火圣夜巡礼",
+    pronunciationJa: "きかせいやのじゅんれい",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "\"Night Warden Wars\"",
+    ja: "夜巡者の戦争",
+    zhCN: "巡夜者战争",
+    pronunciationJa: "よじゅんしゃのせんそう",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Night Wars",  // Notes:【原神】ストーリームービー「夜明け前」の字幕で確認
+    ja: "夜猟者の戦争",
+    zhCN: "狩夜者战争",
+    pronunciationJa: "やりょうしゃのせんそう",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Ode of Resurrection",
+    ja: "反魂の詩",
+    zhCN: "还魂诗",
+    pronunciationJa: "はんごんのうた",  // Notes:【原神】ストーリームービー「夜明け前」のボイスで確認
+    tags: [ "natlan" ],
+  },
+
+  //
   // Snezhnaya / Fatui
   //
   {

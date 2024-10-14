@@ -518,32 +518,11 @@
   // Natlan
   //
   {
-    en: "Night Kingdom",
-    ja: "夜神の国",
-    zhCN: "夜神之国",
-    pronunciationJa: "やがみのくに",
-    tags: [ "natlan", "location" ],
-  },
-  {
-    en: "Wayob",
-    ja: "大霊",
-    zhCN: "大灵",
-    pronunciationJa: "たいれい",
-    tags: [ "natlan", "living-being" ],
-  },
-  {
-    en: "\"Pilgrimage\"",
-    ja: "帰火聖夜の巡礼",
-    zhCN: "归火圣夜巡礼",
-    pronunciationJa: "きかせいやのじゅんれい",
-    tags: [ "natlan" ],
-  },
-  {
-    en: "\"Night Warden Wars\"",
-    ja: "夜巡者の戦争",
-    zhCN: "巡夜者战争",
-    pronunciationJa: "よじゅんしゃのせんそう",
-    tags: [ "natlan" ],
+    en: "Saurian Relics Association",
+    ja: "龍の遺物研究会",  // Notes: この項目は「竜」ではなく「龍」の文字が使われている
+    zhCN: "龙遗物研究协会",
+    pronunciationJa: "りゅうのいぶつけんきゅうかい",
+    tags: [ "natlan", "organization" ],
   },
 
   //

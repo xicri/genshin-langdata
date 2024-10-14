@@ -494,6 +494,13 @@
   // Natlan
   //
   {
+    en: "Wayob",
+    ja: "大霊",
+    zhCN: "大灵",
+    pronunciationJa: "たいれい",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
     en: "Blue Mountain Spoonbill",
     ja: "アオヤマヘラサギ",
     zhCN: "山蓝琵鹭",

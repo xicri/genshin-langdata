@@ -334,6 +334,13 @@
     tags: [ "item", "fontaine" ],
   },
   {
+    en: "Pyro Treasure Compass",
+    ja: "炎のトレジャーコンパス",
+    zhCN: "火之寻宝罗盘",
+    pronunciationJa: "ほのおのトレジャーコンパス",
+    tags: [ "item", "natlan" ],
+  },
+  {
     en: "NRE (Menu 30)",
     ja: "三〇式・携帯式栄養袋",
     zhCN: "叁零式·便携营养袋",
@@ -1302,6 +1309,20 @@
     pronunciationJa: "しらひめとろくにんのこびと",
     tags: [ "natlan", "item" ],
   },
+  {
+    en: "Record of Hanan Pacha",
+    ja: "ハナン・パチャの記録",
+    zhCN: "哈南帕查记事",
+    pronunciationJa: "ハナンパチャのきろく",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "The Volcano Lord and the Shadow Pins",
+    ja: "火山大王と影縫いの針",
+    zhCN: "火山大王与缝影针",
+    pronunciationJa: "かざんだいおうとかげぬいのはり",
+    tags: [ "natlan", "item" ],
+  },
 
   //
   // Gadgets
@@ -1385,7 +1406,14 @@
     ja: "パイモンの写真機",
     zhCN: "派蒙的留影机",
     pronunciationJa: "パイモンのしゃしんき",
-    tags: [ "natlan", "item", "event" ],
+    tags: [ "item", "event" ],
+  },
+  {
+    en: "Mementos of Teyvat Albums",
+    ja: "テイワットの思い出のアルバム",
+    zhCN: "提瓦特忆册",
+    pronunciationJa: "テイワットのおもいでのアルバム",
+    tags: [ "item", "event" ],
   },
   {
     en: "Firstborn Firesprite",
@@ -1669,6 +1697,48 @@
     ja: "夜の玉",
     zhCN: "夜之玉",
     pronunciationJa: "よるのぎょく",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Blazing Flint Ore",
+    ja: "灼熱の燧原鉱",
+    zhCN: "灼燃的燧原矿",
+    pronunciationJa: "しゃくねつのすいげんこう",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Pilgrim's Chronicle",
+    ja: "聖宵の旅織り",
+    zhCN: "圣夜旅织",
+    pronunciationJa: "せいしょうのたびおり",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Felix Felicium",
+    ja: "「幸運の祝福」",
+    zhCN: "「幸运祝福」",
+    pronunciationJa: "こううんのしゅくふく",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Path of Turnfire",
+    ja: "廻焔の道",
+    zhCN: "回火之路",
+    pronunciationJa: "かいえんのみち",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Somewhat Aged Copy of \"Tequit the Brave\"",
+    ja: "やや古びた『勇敢なテクィ』",
+    zhCN: "略显陈旧的《勇敢的特奎》",
+    pronunciationJa: "ややふるびたゆうかんなテクィ",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Spanking New Copy of \"Tequit the Brave\"",
+    ja: "新品同様の『勇敢なテクィ』",
+    zhCN: "整洁崭新的《勇敢的特奎》",
+    pronunciationJa: "しんぴんんどうようのゆうかんなテクィ",
     tags: [ "item", "natlan" ],
   },
 
