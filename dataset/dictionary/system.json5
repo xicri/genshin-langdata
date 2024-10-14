@@ -939,4 +939,11 @@
     pronunciationJa: "かいえん",
     tags: [ "natlan" ],
   },
+  {
+    en: "Ancient Name",
+    ja: "古名",
+    zhCN: "古名",
+    pronunciationJa: "こめい",
+    tags: [ "natlan" ],
+  },
 ]

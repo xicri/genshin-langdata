@@ -186,6 +186,32 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v5.1
+  {
+    en: "Aphid Treasure Trace",
+    ja: "追え！ミツムシのお宝",
+    zhCN: "寻溯蜜虫之宝",
+    pronunciationJa: "おえミツムシのおたから",
+    tags: [ "event" ],
+    notes: " v5.1 期間限定イベント",
+  },
+  {
+    en: "phid Treasure",
+    ja: "ミツムシのお宝",
+    zhCN: "蜜虫之宝",
+    pronunciationJa: "ミツムシのおたから",
+    tags: [ "event", "quest-world", "natlan" ],
+    notes: "v5.1 期間限定のワールドクエスト",
+  },
+  {
+    en: "Last Ride of the Bugbuster Squad",
+    ja: "虫捕り隊最後の出撃",
+    zhCN: "捉虫小队最后出击",
+    pronunciationJa: "むしとりたいさいごのしゅつげき",
+    tags: [ "event", "quest-world", "natlan" ],
+    notes: "v5.1 期間限定のワールドクエスト",
+  },
+
   // v5.0
   {
     en: "Traces of Artistry",

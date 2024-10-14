@@ -442,6 +442,31 @@
   },
 
   //
+  // Natlan
+  //
+  {
+    en: "Weary Inn",
+    ja: "草臥の家",
+    zhCN: "倦意之屋",
+    pronunciationJa: "くさぶしのいえ",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "Zakan's Street Bites",
+    ja: "ザカンの屋台",
+    zhCN: "扎坎小吃摊",
+    pronunciationJa: "ザカンのやたい",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "Muhuru's Gemporium",
+    ja: "ムフル宝石店",
+    zhCN: "穆胡鲁宝石铺",
+    pronunciationJa: "ムフルほうせきてん",
+    tags: [ "natlan", "facility" ],
+  },
+
+  //
   // Snezhnaya & Fatui
   //
 

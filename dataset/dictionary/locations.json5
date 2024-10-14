@@ -2313,6 +2313,13 @@
     tags: [ "natlan", "location" ],
   },
   {
+    en: "Night Kingdom",
+    ja: "夜神の国",
+    zhCN: "夜神之国",
+    pronunciationJa: "やがみのくに",
+    tags: [ "natlan", "location" ],
+  },
+  {
     en: "Tequemecam Valley",
     ja: "テケメカンの谷",
     zhCN: "坚岩隘谷",
@@ -2493,6 +2500,20 @@
     ja: "「花翼の集」",
     zhCN: "「花羽会」",
     pronunciationJa: "かよくのつどい", // Source of Japanese pronunciation: Introduction for Chasca by Balam, an organizer of Pilgrimage, in Archon Quest Chapter 5 Act 1
+    tags: [ "natlan", "location", "organization" ],
+  },
+  {
+    en: "\"Masters of the Night-Wind\"",
+    ja: "「謎煙の主」",
+    zhCN: "「烟谜主」",
+    pronunciationJa: "めいえんのあるじ",
+    tags: [ "natlan", "location", "organization" ],
+  },
+  {
+    en: "\"Collective of Plenty\"",
+    ja: "「豊穣の邦」",
+    zhCN: "「沃陆之邦」",
+    pronunciationJa: "ほうじょうのくに",
     tags: [ "natlan", "location", "organization" ],
   },
 

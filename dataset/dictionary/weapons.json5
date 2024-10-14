@@ -284,6 +284,12 @@
     pronunciationJa: "エズピツァルのふえ",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Sturdy Bone",
+    ja: "ストロング・ボーン",
+    zhCN: "弥坚骨",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -385,6 +391,13 @@
     ja: "有楽御簾切",
     zhCN: "有乐御簾切",
     pronunciationJa: "うらくみすぎり",
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Peak Patrol Song",
+    ja: "岩峰を巡る歌",
+    zhCN: "岩峰巡歌",
+    pronunciationJa: "がんほうをめぐるうた",
     tags: [ "weapon", "sword" ],
   },
 
@@ -882,6 +895,13 @@
     ja: "虹の行方",
     zhCN: "虹的行迹",
     pronunciationJa: "にじのゆくえ",
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Mountain-Bracing Bolt",
+    ja: "鎮山の釘",
+    zhCN: "镇山之钉",
+    pronunciationJa: "ちんざんのくぎ",
     tags: [ "weapon", "polearm" ],
   },
   // ★5
