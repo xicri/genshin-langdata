@@ -201,7 +201,7 @@
     zhCN: "蜜虫之宝",
     pronunciationJa: "ミツムシのおたから",
     tags: [ "event", "quest-world", "natlan" ],
-    notes: "v5.1 期間限定のワールドクエスト",
+    notes: "v5.1 期間限定イベント「追え! ミツムシのお宝」内で発生する世界任務",
   },
   {
     en: "Last Ride of the Bugbuster Squad",
@@ -209,7 +209,7 @@
     zhCN: "捉虫小队最后出击",
     pronunciationJa: "むしとりたいさいごのしゅつげき",
     tags: [ "event", "quest-world", "natlan" ],
-    notes: "v5.1 期間限定のワールドクエスト",
+    notes: "v5.1 期間限定イベント「追え! ミツムシのお宝」内で発生する世界任務",
   },
 
   // v5.0
