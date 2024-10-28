@@ -15,6 +15,11 @@
     "moduleResolution": "nodenext",
     "isolatedModules": true,
 
+
+    "outDir": "./dist",
+    "declaration": false,
+    "newLine": "lf",
+    "removeComments": true,
     "noEmit": true
   },
   "include": [
