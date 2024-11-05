@@ -37,6 +37,16 @@
     tags: [ "sereniteapot", "character-sub" ],
   },
   {
+    en: "Rain Calmer",
+    ja: "銷虹霽雨真君",
+    zhCN: "销虹霁雨真君",
+    pronunciationJa: "しょうこうせいうしんくん",
+    tags: [ "sereniteapot", "title" ],
+    notesEn: "Tubby's adeptus name and title",
+    notes: "マルの称号・仙号",
+    notesZh: "阿圆的称号·仙号",
+  },
+  {
     en: "Chubby",
     ja: "ウル",
     zhCN: "阿嘟",
@@ -48,6 +58,9 @@
     zhCN: "寻瑰纳琦真君",
     pronunciationJa: "じんかいのうきしんくん",
     tags: [ "sereniteapot", "title" ],
+    notesEn: "Chubby's adeptus name and title",
+    notes: "ウルの称号・仙号",
+    notesZh: "阿嘟的称号·仙号",
   },
   {
     en: "Traveling Depot",

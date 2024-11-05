@@ -3443,6 +3443,13 @@
     pronunciationJa: "たかみをめざせ",
     tags: [ "quest-daily", "fontaine" ],
   },
+  {
+    en: "Traces of Back Pain",
+    ja: "腰痛の痕跡",
+    zhCN: "腰痛的痕迹",
+    pronunciationJa: "ようつうのこんせき",
+    tags: [ "quest-daily", "fontaine" ],
+  },
 
   // Natlan
   {

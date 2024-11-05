@@ -275,6 +275,28 @@
     pronunciationJa: "みなみじゅうじぶとうかい",
     tags: [ "liyue", "inazuma" ],
   },
+  {
+    en: "Adeptus name",
+    ja: "仙名 / 仙号",
+    zhCN: "仙名 / 仙号",
+    pronunciationJa: "せんめい / せんごう",
+    tags: [ "liyue", "title" ],
+    notes: "仙人に対しての称号。日本語や中国語の会話で、パイモンは留雲借風真君に申鶴の「仙名」を尋ね、塵歌壺でマルは自分の「仙号」は…と語っている。人型とそれ以外で使い分けている模様。英語ではどちらも同じ",
+    notesZh: "对隐士的称号。在中文和日语的对话中，派蒙向留云借风真君询问申鹤的「仙名」，在尘歌壶中，阿圆说他的「仙号」是。人形生物和其他类型之间的用法似乎有所不同。在英语中，两者的待遇相同",
+  },
+  {
+    en: "Adeptal energy",  // notes: 閑雲の伝説任務「四方山話」の電光両輪疾走機での説明など、一番多く使われている英語表記
+    ja: "仙力",
+    zhCN: "仙力",
+    pronunciationJa: "せんりき",
+    tags: [ "liyue" ],
+    variants: {
+      en: [
+        "their strength to man it", // notes: 魔人任務 第一章第三幕「回天」で凝光が「新帰終機」の説明で語っている英語表記
+        "a portion of their strength", // notes: 七七のキャラクターストーリ4の説明の英語表記
+      ],
+    },
+  },
 
   //
   // Inazuma
@@ -356,6 +378,13 @@
     tags: [ "inazuma" ],
     notes: "「太陽の子」に対して「パエトーン」とルビが振られており同義",
     notesEn: "This word is used as a ruby for \"Sunchildren\", so Sunchildren and Phaethons are same meaning.",
+  },
+  {
+    en: "Youkai powers",
+    ja: "妖力",  // notes: 八重神子のキャラクターストーリー4や綺良々のボイス「神の目」について…で語られている
+    zhCN: "妖力",
+    pronunciationJa: "ようりょく",
+    tags: [ "inazuma" ],
   },
 
   //
