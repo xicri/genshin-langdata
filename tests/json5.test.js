@@ -36,6 +36,7 @@ const japaneseChars = [
   "獣", // "兽"
   "霊", // "灵"
   "聖", // "圣"
+  "別", // "别"
 ];
 
 function isURL(urlStr) {

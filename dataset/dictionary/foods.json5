@@ -1102,7 +1102,12 @@
     zhCN: "韦西鸡",
     tags: [ "food" ],
   },
-
+  {
+    en: "Stuffed N' Mashed Potatoes",
+    ja: "カウサ",
+    zhCN: "夹心土豆泥",
+    tags: [ "food" ],
+  },
 
   // ★★★★★
   {
