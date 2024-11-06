@@ -290,6 +290,7 @@
     zhCN: "仙力",
     pronunciationJa: "せんりき",
     tags: [ "liyue" ],
+    notes: "仙力の英語訳としては adeptal energy が最もよく使われているが、その他 \"their strength to man it\" や \"a portion of their strength\" などの表現も用いられる",
     variants: {
       en: [
         "their strength to man it", // notes: 魔人任務 第一章第三幕「回天」で凝光が「新帰終機」の説明で語っている英語表記
