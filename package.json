@@ -15,7 +15,7 @@
     "release": "./scripts/release.sh"
   },
   "dependencies": {
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.4.7",
     "eslint": "^8.57.1",
     "eslint-config-xicri": "latest",
     "iconv-lite": "^0.6.3",
@@ -26,7 +26,7 @@
     "marked": "^14.1.3",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.2.4",
-    "vitest": "^2.1.7",
-    "wrangler": "^3.91.0"
+    "vitest": "^2.1.8",
+    "wrangler": "^3.93.0"
   }
 }
