@@ -8,6 +8,8 @@
     "todo": "node scripts/todo.js",
     "test": "pnpm run build && vitest run",
     "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
+    "clean": "git clean -dX --exclude=\"!.env\" --force",
+    "refresh": "pnpm run clean && rm --force ./pnpm-lock.yaml && corepack up && pnpm install",
     "release": "./scripts/release.sh"
   },
   "dependencies": {
