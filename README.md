@@ -66,7 +66,6 @@ However, if you want to validate JSON5s on your local machine, follow the instur
 You need following requirements:
 
 - Node.js: The latest LTS version recommended
-- npm: The latest version recommended
 - (Windows only) PowerShell 7+
   - Some npm scripts needs `&&` support
 
@@ -74,19 +73,20 @@ To run validation:
 
 ```shell
 $ cd /path/to/genshin-langdata
-$ npm ci
-$ npm test
-$ npm run lint
+$ corepack enable
+$ pnpm install
+$ pnpm run test
+$ pnpm run lint
 ```
 
 ### Utility scripts
 
-`npm run todo` lists the words without Chinese translation.
+`pnpm run todo` lists the words without Chinese translation.
 
 Example:
 
 ```shell
-$ npm run todo
+$ pnpm run todo
 
 > todo
 > node scripts/todo.js
