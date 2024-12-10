@@ -9,6 +9,8 @@
     "test": "pnpm build && vitest run",
     "lint": "pnpm build && tsc --noEmit",
     "release": "./scripts/release.sh",
+    "clean": "git clean -dX --exclude=\"!.env\" --force",
+    "refresh": "pnpm clean && rm --force ./pnpm-lock.yaml && corepack up && pnpm install",
     "prepare": "jiti scripts/build-prep.ts"
   },
   "dependencies": {
