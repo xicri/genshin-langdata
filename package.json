@@ -3,14 +3,10 @@
   "private": true,
   "license": "SEE LICENSE IN LICENSE.md",
   "type": "module",
-  "engines": {
-    "node": "22.x",
-    "npm": ">=10.0.0"
-  },
   "scripts": {
     "build": "node scripts/build.js",
     "todo": "node scripts/todo.js",
-    "test": "npm run build && vitest run",
+    "test": "pnpm run build && vitest run",
     "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
     "release": "./scripts/release.sh"
   },
@@ -28,5 +24,10 @@
     "pinyin-tone": "^2.2.4",
     "vitest": "^2.1.8",
     "wrangler": "^3.99.0"
-  }
+  },
+  "engines": {
+    "node": "22.x",
+    "pnpm": ">=9"
+  },
+  "packageManager": "pnpm@9.15.2+sha512.93e57b0126f0df74ce6bff29680394c0ba54ec47246b9cf321f0121d8d9bb03f750a705f24edc3c1180853afd7c2c3b94196d0a3d53d3e069d9e2793ef11f321"
 }
