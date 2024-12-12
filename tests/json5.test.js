@@ -37,6 +37,8 @@ const japaneseChars = [
   "霊", // "灵"
   "聖", // "圣"
   "別", // "别"
+  "庫", // "库"
+  "誇", // "夸"
 ];
 
 function isURL(urlStr) {
@@ -166,8 +168,19 @@ test("if property values of dictionary JSON complies the format.", async () => {
       expect(word.zhCN).equal(word.zhCN.trim());
     }
 
+    if (typeof word.notesEn !== "undefined") {
+      expect(typeof word.notesEn).toBe("string");
+      expect(word.notesEn).equal(word.notesEn.trim());
+    }
+
     if (typeof word.notes !== "undefined") {
       expect(typeof word.notes).toBe("string");
+      expect(word.notes).equal(word.notes.trim());
+    }
+
+    if (typeof word.notesZh !== "undefined") {
+      expect(typeof word.notesZh).toBe("string");
+      expect(word.notesZh).equal(word.notesZh.trim());
     }
 
     if (typeof word.pronunciationJa !== "undefined" && word.pronunciationJa !== null) {

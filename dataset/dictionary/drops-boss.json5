@@ -479,4 +479,11 @@
     pronunciationJa: "きんもんのきざまれたげんかく",
     tags: [ "natlan", "drop-boss" ],
   },
+  {
+    en: "Ensnaring Gaze",
+    ja: "深遠と絡み合う眼差し",
+    zhCN: "深邃纠缠的凝视",
+    pronunciationJa: "しんえんとからみあうまなざし", // TODO need check
+    tags: [ "natlan", "drop-boss" ],
+  },
 ]
