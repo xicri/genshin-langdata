@@ -880,5 +880,23 @@
     pronunciationJa: "りゅうかんせんしのきんてき", // TODO Need Check
     tags: [ "natlan", "drop" ],
   },
+  {
+    en: "Refractive Bud",
+    ja: "折光の胚芽",
+    zhCN: "折光的胚芽",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Bewildering Broadleaf",
+    ja: "誘光の広葉",
+    zhCN: "惑光的阔叶",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Illusory Leafcoil",
+    ja: "光惑う渦葉のコア",
+    zhCN: "迷光的蜷叶之心",
+    tags: [ "natlan", "drop" ],
+  },
 
 ]
