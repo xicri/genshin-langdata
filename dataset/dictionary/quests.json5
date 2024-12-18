@@ -302,6 +302,14 @@
     tags: [ "natlan", "quest-archon" ],
     notes: "魔神任務第五章第四幕",
   },
+  {
+    en: "All Fires Fuel the Flame",
+    ja: "万火、一に帰す",
+    zhCN: "万火归一",
+    pronunciationJa: "ばんかいちにきす",
+    tags: [ "natlan", "quest-archon" ],
+    notes: "魔神任務第五章幕間",
+  },
 
   {
     en: "Interlude",
@@ -2031,6 +2039,42 @@
     zhCN: "朝着炽热的冒险！",
     tags: [ "natlan", "quest-world" ],
   },
+  {
+    en: "From One Case to Another",
+    ja: "事件は次々に",
+    zhCN: "从一案到另一案",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Beat the Clock: 24 Hours",
+    ja: "タイムリミットは二十四時間",
+    zhCN: "时限二十四小时",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Dancin' in the Moonlight",
+    ja: "月光に舞え",
+    zhCN: "月光中共舞",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Lost Traveler in the Ashen Realm",
+    ja: "流灰の国の迷える旅人",
+    zhCN: "流灰之国的迷旅人",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Sauro-Vet's Dilemma",
+    ja: "竜医の悩み",
+    zhCN: "龙医生的困境",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "A Saurian Lover's Ordinary Days",
+    ja: "とある竜マニアの平凡な暮らし",
+    zhCN: "爱龙人的平凡生活",
+    tags: [ "natlan", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -2475,6 +2519,20 @@
     ja: "祝福を祈り、テペトルに告ぐ",
     zhCN: "祈祝福愿，倾告嵴锋",
     pronunciationJa: "しゅくふくをいのりテペトルにつぐ",
+    tags: [ "natlan", "quest-tribal" ],
+  },
+  {
+    en: "Of Fading Flowers and Falling Feathers",
+    ja: "塵に帰す花、堕ちる羽",
+    zhCN: "花之归尘，羽之将坠",
+    pronunciationJa: "ちりにきすはなおちるはね",
+    tags: [ "natlan", "quest-tribal" ],
+  },
+  {
+    en: "Memories Flowing With Color",
+    ja: "流れゆく色の記憶",
+    zhCN: "流淌着色彩的回忆",
+    pronunciationJa: "ながれゆくいろのきおく",
     tags: [ "natlan", "quest-tribal" ],
   },
 

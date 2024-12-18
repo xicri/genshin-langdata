@@ -2313,6 +2313,48 @@
     tags: [ "natlan", "enemy" ],
   },
   {
+    en: "Winged Warrior: Skysoarer",
+    ja: "結羽の勇士・空を舞う者",
+    pronunciationJa: "ゆうはのゆうし・そらをまうもの", // TODO need check
+    zhCN: "结羽勇士·腾空士",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Winged Warrior: Feathershedder",
+    ja: "結羽の勇士・羽を削ぐ者",
+    pronunciationJa: "ゆうはのゆうし・はねをそぐもの", // TODO need check
+    zhCN: "结羽勇士·削羽人",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Winged Warrior: Skymaster",
+    ja: "結羽の勇士・空を統べる者",
+    zhCN: "结羽勇士·驭空客",
+    pronunciationJa: "ゆうはのゆうし・そらをすべるもの", // TODO need check
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Spiritspeaker Warrior: Determinator",
+    ja: "霊覚の勇士・掌意師",
+    zhCN: "灵觉勇士·执意师",
+    pronunciationJa: "れいかくのゆうし・しょういし", // TODO need check
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Spiritspeaker Warrior: Psychokinetic",
+    ja: "霊覚の勇士・念力師",
+    zhCN: "灵觉勇士·控念师",
+    pronunciationJa: "れいかくのゆうし・ねんりきし", // TODO need check
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Spiritspeaker Warrior: Contemplator",
+    ja: "霊覚の勇士・瞑思師",
+    zhCN: "灵觉勇士·冥思者",
+    pronunciationJa: "れいかくのゆうし・めいしし", // TODO need check
+    tags: [ "natlan", "enemy" ],
+  },
+  {
     en: "Tepetlisaurus Warrior: Shard Striker",
     ja: "テペトル竜戦士・砕晶のハンマー",
     zhCN: "嵴锋龙武士·碎晶打者",
@@ -2352,6 +2394,34 @@
     ja: "コホラ竜戦士・裂礁のガトリング",
     zhCN: "鳍游龙武士·裂礁之涛",
     pronunciationJa: "コホラりゅうせんしれっしょうのガトリング",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Qucusaurus Warrior: Heartstar Hammer",
+    ja: "クク竜戦士・鍛治の槌",
+    zhCN: "绒翼龙武士·膛星之锤",
+    pronunciationJa: "ククりゅうせんし・かじのつち",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Qucusaurus Warrior: Blazing Sky",
+    ja: "クク竜戦士・蒼天の焔",
+    zhCN: "绒翼龙武士·长空明焰",
+    pronunciationJa: "ククりゅうせんし・そうてんのほのお",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Iktomisaurus Warrior: Icy Tidebearer",
+    ja: "イクトミ竜戦士・寒流を運ぶ者",
+    zhCN: "暝视龙武士·寒涌持者",
+    pronunciationJa: "イクトミりゅうせんし・かんりゅうをはこぶもの",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Iktomisaurus Warrior: Cryocrystal Cannon",
+    ja: "イクトミ竜戦士・氷晶の砲手",
+    zhCN: "暝视龙武士·冰晶炮手",
+    pronunciationJa: "イクトミりゅうせんし・ひょうしょうのほうしゅ",
     tags: [ "natlan", "enemy" ],
   },
   {
@@ -2397,6 +2467,34 @@
     tags: [ "natlan", "enemy", "living-being" ],
   },
   {
+    en: "Qucusaurus Chick",
+    ja: "クク仔竜",
+    zhCN: "幼绒翼龙",
+    pronunciationJa: "ククこりゅう",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
+    en: "Qucusaurus",
+    ja: "クク竜",
+    zhCN: "绒翼龙",
+    pronunciationJa: "ククりゅう",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
+    en: "Iktomisaurus Chick",
+    ja: "イクトミ仔竜",
+    zhCN: "幼暝视龙",
+    pronunciationJa: "イクトミこりゅう",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
+    en: "Iktomisaurus",
+    ja: "イクトミ竜",
+    zhCN: "暝视龙",
+    pronunciationJa: "イクトミりゅう",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
     en: "Eroding Avatar of Lava",
     ja: "溶岩の像・土蝕者",
     zhCN: "熔岩游像·蚀土者",
@@ -2421,6 +2519,25 @@
     en: "Foliar-Swift Wayob Manifestation",
     ja: "疾葉・大霊の化身",
     zhCN: "疾叶·大灵显化身",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Biting-Cold Wayob Manifestation",
+    ja: "凛烈・大霊の化身",
+    zhCN: "凛冽·大灵显化身",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Burning-Aflame Wayob Manifestation",
+    ja: "焚焼・大霊の化身",
+    zhCN: "焚燃·大灵显化身",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Tenebrous Mimiflora",
+    ja: "深遠なるミミックフローラ",
+    zhCN: "深邃拟覆叶",
+    pronunciationJa: "しんえんなるミミックフローラ",
     tags: [ "natlan", "enemy" ],
   },
   {
@@ -2449,6 +2566,13 @@
     ja: "秘源機兵・精巧デバイス",
     zhCN: "秘源机兵·构型械",
     pronunciationJa: "ひげんきへいせいこうデバイス",
+    tags: [ "natlan", "enemy-boss" ],
+  },
+  {
+    en: "Tenebrous Papilla",
+    ja: "深遠なるミミックパピラ",
+    zhCN: "深邃摹结株",
+    pronunciationJa: "しんえんなるミミックパピラ",
     tags: [ "natlan", "enemy-boss" ],
   },
 

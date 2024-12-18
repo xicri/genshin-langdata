@@ -186,6 +186,72 @@
     tags: [ "event", "character-sub" ],
   },
 
+  // v5.2
+  {
+    en: "Claw Convoy",
+    ja: "アニマルトゥギャザー",
+    zhCN: "伴爪同行",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v5.2",
+    notes: "v5.2 期間限定イベント",
+    notesZh: "v5.2 中的限时活动",
+  },
+  {
+    en: "Iktomi Spiritseeking Scrolls",
+    ja: "スピリットを求めしウォーベン",
+    zhCN: "暝视寻灵织卷",
+    pronunciationJa: "スピリットをもとめしウォーベン",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v5.2",
+    notes: "v5.2 期間限定イベント",
+    notesZh: "v5.2 中的限时活动",
+  },
+  {
+    en: "Search for Lost Spilits",
+    ja: "探せ！ロストスピリット",
+    zhCN: "迷途灵性的搜觅",
+    pronunciationJa: "さがせロストスピリット",
+    tags: [ "event" ],
+    notesEn: "v5.2 Sub-events of the Limited Time Event \"Iktomi Spiritseeking Scrolls\"",
+    notes: "v5.2 期間限定イベント「スピリットを求めしウォーベン」の子イベント",
+    notesZh: "限时活动「暝视寻灵织卷」v5.2 子活动",
+  },
+  {
+    en: "Evil Banisher",
+    ja: "イビル・バニッシュ",
+    zhCN: "斥逐与驱散恶客",
+    tags: [ "event" ],
+    notesEn: "v5.2 Sub-events of the Limited Time Event \"Iktomi Spiritseeking Scrolls\"",
+    notes: "v5.2 期間限定イベント「スピリットを求めしウォーベン」の子イベント",
+    notesZh: "限时活动「暝视寻灵织卷」v5.2 子活动",
+  },
+  {
+    en: "Restoring Fragmented Records",
+    ja: "千切れた古記録の復元",
+    zhCN: "破碎旧录之规复",
+    pronunciationJa: "ちぎれたこきろくのふくげん",
+    tags: [ "event" ],
+    notesEn: "v5.2 Sub-events of the Limited Time Event \"Iktomi Spiritseeking Scrolls\"",
+    notes: "v5.2 期間限定イベント「スピリットを求めしウォーベン」の子イベント",
+    notesZh: "限时活动「暝视寻灵织卷」v5.2 子活动",
+  },
+  {
+    en: "Leyla",
+    ja: "ルラ",
+    zhCN: "勒拉",
+    tags: [ "event", "natlan", "character-sub" ],
+    notes: "v5.2 期間限定イベント「スピリットを求めしウォーベン」に登場する人物",
+  },
+  {
+    en: "Kokuchuu",
+    ja: "谷中",
+    zhCN: "谷中",
+    pronunciationJa: "たになか",
+    tags: [ "event", "natlan", "character-sub" ],
+    notesEn: "The same chatacter as Enjou and Sanka. His Japanese name is pronunced Taninaka and the English name Kokuchuu may be a mistranslation.",
+    notes: "v5.2 期間限定イベント「スピリットを求めしウォーベン」に登場するアビス教団の使者。「淵上」「山下」と称するものと同一人物",
+  },
+
   // v5.1
   {
     en: "Aphid Treasure Trace",
@@ -194,7 +260,7 @@
     pronunciationJa: "おえミツムシのおたから",
     tags: [ "event" ],
     notesEn: "Limited Time Event in v5.1",
-    notes: " v5.1 期間限定イベント",
+    notes: "v5.1 期間限定イベント",
     notesZh: "v5.1 中的限时活动",
   },
   {
@@ -225,7 +291,7 @@
     pronunciationJa: "ついおくれんぎょうスリルへん",
     tags: [ "event" ],
     notesEn: "Limited Time Event in v5.1",
-    notes: " v5.1 期間限定イベント",
+    notes: "v5.1 期間限定イベント",
     notesZh: "v5.1 中的限时活动",
   },
   {
@@ -235,7 +301,7 @@
     pronunciationJa: "キャンディとばらのうた",
     tags: [ "event" ],
     notesEn: "Limited Time Event in v5.1",
-    notes: " v5.1 期間限定イベント",
+    notes: "v5.1 期間限定イベント",
     notesZh: "v5.1 中的限时活动",
   },
   {
@@ -245,7 +311,7 @@
     pronunciationJa: "かのじょにサプライズを",
     tags: [ "event", "quest-story" ],
     notesEn: "Limited Time Event in v5.1",
-    notes: " v5.1 期間限定イベント",
+    notes: "v5.1 期間限定イベント",
     notesZh: "v5.1 中的限时活动",
   },
   {
@@ -255,7 +321,7 @@
     pronunciationJa: "ゆらゆらフロートしゃ",
     tags: [ "event" ],
     notesEn: "v5.1 Sub-events of the Limited Time Event \"Chromatic Ode of Candies and Roses\"",
-    notes: " v5.1 期間限定イベント「キャンディと薔薇の歌」の子イベント",
+    notes: "v5.1 期間限定イベント「キャンディと薔薇の歌」の子イベント",
     notesZh: "限时活动「彩糖与蔷薇的幻色颂」v5.1 子活动",
   },
   {
@@ -265,7 +331,7 @@
     pronunciationJa: "うつつをみるゆめ",
     tags: [ "event" ],
     notesEn: "v5.1 Sub-events of the Limited Time Event \"Chromatic Ode of Candies and Roses\"",
-    notes: " v5.1 期間限定イベント「キャンディと薔薇の歌」の子イベント",
+    notes: "v5.1 期間限定イベント「キャンディと薔薇の歌」の子イベント",
     notesZh: "限时活动「彩糖与蔷薇的幻色颂」v5.1 子活动",
   },
   {
@@ -275,7 +341,7 @@
     pronunciationJa: "きしのけんこう",
     tags: [ "event" ],
     notesEn: "v5.1 Sub-events of the Limited Time Event \"Chromatic Ode of Candies and Roses\"",
-    notes: " v5.1 期間限定イベント「キャンディと薔薇の歌」の子イベント",
+    notes: "v5.1 期間限定イベント「キャンディと薔薇の歌」の子イベント",
     notesZh: "限时活动「彩糖与蔷薇的幻色颂」v5.1 子活动",
   },
   {
@@ -285,7 +351,7 @@
     pronunciationJa: "そうはのうたげ",
     tags: [ "event" ],
     notesEn: "Limited Time Event in v5.1",
-    notes: " v5.1 期間限定イベント",
+    notes: "v5.1 期間限定イベント",
     notesZh: "v5.1 中的限时活动",
   },
 

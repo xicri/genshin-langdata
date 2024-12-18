@@ -1276,6 +1276,34 @@
     pronunciationJa: "ショコアトゥルすい",
     tags: [ "food" ],
   },
+  {
+    en: "Mystique Soup",
+    ja: "ミステリードリンク",
+    zhCN: "奇瑰之汤",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sing Your Heart Out",
+    ja: "高らかな歌声",
+    zhCN: "纵声欢唱",
+    pronunciationJa: "たからかなうたごえ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Grainfruit Wrap",
+    ja: "グレインラップ",
+    zhCN: "粒果裹裹",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sour Sauce Ceviche",
+    ja: "セビチェ",
+    zhCN: "酸汁腌鱼",
+    tags: [ "food", "natlan", "quest-world" ],
+    notesEn: "Reward for the World Quest \"A Saurian Lover's Ordinary Days\"",
+    notes: "世界任務「とある竜マニアの平凡な暮らし」報酬",
+    notesZh: "世界任务「爱龙人的平凡生活」奖励",
+  },
 
   //
   // Specialties (オリジナル料理)
@@ -1977,6 +2005,25 @@
     notesEn: "Xilonen's specialty",
     notes: "シロネンのオリジナル料理",
     notesZh: "希诺宁的特色料理",
+  },
+  {
+    en: "Moment of Respite",
+    ja: "しばしの休息",
+    zhCN: "歇止一刻",
+    pronunciationJa: "しばしのきゅうそく",
+    tags: [ "food", "natlan" ],
+    notesEn: "Chasca's specialty",
+    notes: "チャスカのオリジナル料理",
+    notesZh: "恰斯卡的特色料理",
+  },
+  {
+    en: "Honey-Glazed Ceviche",
+    ja: "ハニーセビチェ",
+    zhCN: "蜜汁腌鱼",
+    tags: [ "food", "natlan" ],
+    notesEn: "Ororon's specialty",
+    notes: "オロルンのオリジナル料理",
+    notesZh: "欧洛伦的特色料理",
   },
 
   //

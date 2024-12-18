@@ -2516,6 +2516,123 @@
     pronunciationJa: "ほうじょうのくに",
     tags: [ "natlan", "location", "organization" ],
   },
+  {
+    en: "Quahuacan Cliff",
+    ja: "クァワカン断崖",
+    zhCN: "翘枝崖",
+    pronunciationJa: "クァワカンだんがい",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Malinalco Grotto",
+    ja: "マリナルコ洞窟",
+    zhCN: "荧草窟",
+    pronunciationJa: "マリナルコどうくつ",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Xalac Vale",
+    ja: "シャラクの谷",
+    zhCN: "漫曛谷",
+    pronunciationJa: "シャラクのたに",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Scorchwind Trial Grounds",
+    ja: "風炎の試験場",
+    zhCN: "焚风试炼处",
+    pronunciationJa: "ふうえんのしけんじょう",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Sacrificial Altar of Enigmatic Land",
+    ja: "謎土の祭祀場",
+    zhCN: "谜土祭祀场",
+    pronunciationJa: "めいどのさいしじょう", // TODO need check
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Ochkanatlan",
+    ja: "オシカ・ナタ",
+    zhCN: "奥奇卡纳塔",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Furnace of Fiery Embers",
+    ja: "燼火焼尽の地",
+    zhCN: "烬火炽燃所",
+    pronunciationJa: "じんかじょうじんのち",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Ashflow Street",
+    ja: "アッシュフロー街",
+    zhCN: "流灰之街",
+    pronunciationJa: "アッシュフローがい",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Vision Serpent's Sanctum",
+    ja: "幻蛇の宮殿",
+    zhCN: "幻蛇之宫",
+    pronunciationJa: "げんじゃのきゅうでん", // TODO need check
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Vucub Caquix Tower",
+    ja: "カキシュの塔",
+    zhCN: "火鹦之塔",
+    pronunciationJa: "カキシュのとう",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Old Core of Chu'ulel",
+    ja: "昔日の統律の心",
+    zhCN: "旧日的统律之心",
+    pronunciationJa: "せきじつのとうりつのこころ", // TODO need check
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Core of Chu'ulel",
+    ja: "統律の心",
+    zhCN: "统律之心",
+    pronunciationJa: "とうりつのこころ", // TODO need check
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Cradle of Fleeting Dreams",
+    ja: "幻夢のクレイドル",
+    zhCN: "空梦的起始",
+    pronunciationJa: "げんむのクレイドル", // TODO need check
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Nursery of Nightmares",
+    ja: "ナーサリー・オブ・ナイトメア",
+    zhCN: "噩梦的温床",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Isle of Tozoz",
+    ja: "トゾス島",
+    zhCN: "托佐兹之岛",
+    pronunciationJa: "トゾスとう",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Legendary Tonatiuh",
+    ja: "伝説の天蛇の船",
+    zhCN: "传说中的天蛇船",
+    pronunciationJa: "でんせつのてんじゃのふね",
+    tags: [ "natlan", "location" ],
+  },
+  {
+    en: "Tecoloapan Bay",
+    ja: "テコロアパン湾",
+    zhCN: "浮羽之湾",
+    pronunciationJa: "テコロアパンわん",
+    tags: [ "natlan", "location" ],
+  },
 
   //
   // Snezhnaya
@@ -2532,6 +2649,13 @@
     zhCN: "至冬宫",
     tags: [ "snezhnaya", "location", "facility" ],
     notes: "Zapolyarny はロシア北西部に実在する町の名前",
+  },
+  {
+    en: "Nod-Krai",
+    ja: "ナド・クライ",
+    zhCN: "挪德卡莱",
+    tags: [ "snezhnaya", "location" ],
+    notes: "v5.1 期間限定イベント「百貨珍品」の中で、商人の立本からもたらされた情報",
   },
 
   //
