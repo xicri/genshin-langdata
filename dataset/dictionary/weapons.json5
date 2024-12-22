@@ -290,6 +290,16 @@
     zhCN: "弥坚骨",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Calamity of Eshu",
+    ja: "厄水の災い",
+    zhCN: "厄水之祸",
+    pronunciationJa: "やくみずのわざわい",
+    tags: [ "weapon", "sword" ],
+    notesEn: "v5.2 Reward for the Limited Time Event \"Iktomi Spiritseeking Scrolls\"",
+    notes: "v5.2 期間限定イベント「スピリットを求めしウォーベン」報酬",
+    notesZh: "v5.2 限时活动「暝视寻灵织卷」奖励",
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -1216,9 +1226,25 @@
     tags: [ "weapon", "bow" ],
   },
   {
+    en: "Cloudforged",
+    ja: "築雲",
+    zhCN: "筑云",
+    pronunciationJa: "ちくうん",
+    tags: [ "weapon", "bow", "event" ],
+    notes: "v4.7 期間限定イベント「堅守演習」報酬",
+    notesZh: "v4.7 活动「安固诸方之述演」奖励",
+  },
+  {
     en: "Chain Breaker",
     ja: "チェーンブレイカー",
     zhCN: "碎链",
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "Flower-Wreathed Feathers",
+    ja: "花飾りの羽",
+    zhCN: "缀花之翎",
+    pronunciationJa: "かねかざりのはね",
     tags: [ "weapon", "bow" ],
   },
   // ★5
@@ -1297,18 +1323,16 @@
     tags: [ "weapon", "bow" ],
   },
   {
-    en: "Cloudforged",
-    ja: "築雲",
-    zhCN: "筑云",
-    pronunciationJa: "ちくうん",
-    tags: [ "weapon", "bow", "event" ],
-    notes: "v4.7 期間限定イベント「堅守演習」報酬",
-    notesZh: "v4.7 活动「安固诸方之述演」奖励",
-  },
-  {
     en: "Silvershower Heartstrings",
     ja: "白雨心弦",
     zhCN: "白雨心弦",
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "Astral Vulture's Crimson Plumage",
+    ja: "星鷹の紅き羽",
+    zhCN: "星鹫赤羽",
+    pronunciationJa: "せいしゅうのあかきはね",
     tags: [ "weapon", "bow" ],
   },
 
@@ -1531,6 +1555,13 @@
     ja: "ヤシュチェの環",
     zhCN: "木棉之环",
     pronunciationJa: "ヤシュチェのかん",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Waveriding Whirl",
+    ja: "波乗りの旋回",
+    zhCN: "乘浪的回旋",
+    pronunciationJa: "なみのりのせんかい",
     tags: [ "weapon", "catalyst" ],
   },
   // ★5

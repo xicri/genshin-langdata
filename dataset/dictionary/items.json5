@@ -1012,6 +1012,20 @@
     pronunciationJa: "メンテマシナリー・はっきんひぞうがた",
     tags: [ "item", "fontaine" ],
   },
+  {
+    en: "Dusk Sunfish",
+    ja: "黄昏マンボウ",
+    zhCN: "晚霞翻车鲀",
+    pronunciationJa: "たそがれマンボウ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Pseudoshark Unihornfish",
+    ja: "サメモドキツノ魚",
+    pronunciationJa: "サメモドキツノぎょ",
+    zhCN: "伪装鲨鲨独角鱼",
+    tags: [ "item" ],
+  },
 
   //
   // Bait (釣り餌)
@@ -1068,6 +1082,18 @@
     ja: "メンテマシナリーの閃光釣り餌",
     zhCN: "维护机关频闪诱饵",
     tags: [ "item", "fontaine" ],
+  },
+  {
+    en: "Spinelgrain Bait",
+    ja: "スピネルグレインの餌",
+    zhCN: "澄晶果粒饵",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Emberglow Bait",
+    ja: "エンバー餌",
+    zhCN: "温火饵",
+    tags: [ "item", "natlan" ],
   },
 
   //
@@ -1321,6 +1347,13 @@
     ja: "火山大王と影縫いの針",
     zhCN: "火山大王与缝影针",
     pronunciationJa: "かざんだいおうとかげぬいのはり",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "The Tale of Kuntur",
+    ja: "クントゥルの物語",
+    zhCN: "昆图尔的故事",
+    pronunciationJa: "クントゥルのものがたり",
     tags: [ "natlan", "item" ],
   },
 
@@ -1739,6 +1772,13 @@
     ja: "新品同様の『勇敢なテクィ』",
     zhCN: "整洁崭新的《勇敢的特奎》",
     pronunciationJa: "しんぴんんどうようのゆうかんなテクィ",
+    tags: [ "item", "natlan" ],
+  },
+  {
+    en: "A Nameless Adventurer's Notes",
+    ja: "無名冒険者のノート",
+    zhCN: "无名冒险家的笔记",
+    pronunciationJa: "むめいぼうけんしゃのノート",
     tags: [ "item", "natlan" ],
   },
 
