@@ -534,6 +534,14 @@
     zhCN: "愚人众",
     tags: [ "fatui", "organization" ],
   },
+  {
+    en: "Voynich Guild",
+    ja: "ヴォイニッチ商会",
+    zhCN: "伏尼契商会",
+    pronunciationJa: "ヴォイニッチしょうかい",
+    tags: [ "snezhnaya", "organization" ],
+    notes: "v5.1 期間限定イベント「百貨珍品」の中で、商人の立本からもたらされた情報",
+  },
 
   //
   // Khaenri'ah
