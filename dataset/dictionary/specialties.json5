@@ -334,4 +334,18 @@
     zhCN: "灼灼彩菊",
     tags: [ "specialty", "natlan" ],
   },
+  {
+    en: "Withering Purpurbloom",
+    ja: "枯れ紫菖",
+    zhCN: "枯叶紫英",
+    tags: [ "specialty", "natlan" ],
+    pronunciationJa: "かれししょう", // TODO need check
+  },
+  {
+    en: "Glowing Hornshroom",
+    ja: "蛍光ツノキノコ",
+    zhCN: "微光角菌",
+    tags: [ "specialty", "natlan" ],
+    pronunciationJa: "けいこうツノキノコ",
+  },
 ]
