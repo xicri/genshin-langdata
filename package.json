@@ -23,7 +23,7 @@
     "klona": "^2.0.4",
     "lodash-es": "^4.17.21",
     "luxon": "^3.5.0",
-    "marked": "^15.0.4",
+    "marked": "^15.0.5",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.2.4",
     "vitest": "^2.1.8",
