@@ -1239,7 +1239,7 @@
     en: "Festive Drum",
     ja: "綺宴の鼓",
     zhCN: "绮筵之鼓",
-    pronunciationJa: "きえんのこ",  // きえんのつづみ? TODO Need check
+    pronunciationJa: "きえんのこ", // きえんのつづみ? TODO Need check
     notes: "稲妻の「根付の源」で購入可能な楽器",
     tags: [ "item", "inazuma" ],
   },
