@@ -709,6 +709,13 @@
     pronunciationJa: "やまのおうのちょうが",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "A Thousand Blazing Suns",
+    ja: "千烈の日輪",
+    zhCN: "焚曜千阳",
+    pronunciationJa: "せんれつのにちりん",
+    tags: [ "weapon", "claymore" ],
+  },
 
   //
   // Polearm

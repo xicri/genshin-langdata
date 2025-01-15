@@ -1236,6 +1236,14 @@
     tags: [ "item", "inazuma" ],
   },
   {
+    en: "Festive Drum",
+    ja: "綺宴の鼓",
+    zhCN: "绮筵之鼓",
+    pronunciationJa: "きえんのこ",  // きえんのつづみ? TODO Need check
+    notes: "稲妻の「根付の源」で購入可能な楽器",
+    tags: [ "item", "inazuma" ],
+  },
+  {
     en: "A Thousand Nights",
     ja: "千夜物語",
     zhCN: "千夜故事集",
@@ -1354,6 +1362,56 @@
     ja: "クントゥルの物語",
     zhCN: "昆图尔的故事",
     pronunciationJa: "クントゥルのものがたり",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Djem Djem Drum",
+    ja: "ジャンペ",
+    zhCN: "聚聚鼓",
+    notes: "流泉の衆の「ジャンペ楽器店」で購入可能な楽器",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Ukulele",
+    ja: "ウクレレ",
+    zhCN: "悠可琴",
+    notes: "流泉の衆の「ジャンペ楽器店」で購入可能な楽器",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Tatankasaurus",
+    ja: "ちび竜ビスケット・ライノ",
+    zhCN: "龙龙饼干·突角",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Qucusaurus",
+    ja: "ちび竜ビスケット・クク",
+    zhCN: "龙龙饼干·绒翼",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Yumkasaurus",
+    ja: "ちび竜ビスケット・ユムカ",
+    zhCN: "龙龙饼干·匿叶",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Iktomisaurus",
+    ja: "ちび竜ビスケット・イクトミ",
+    zhCN: "龙龙饼干·暝视",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Koholasaurus",
+    ja: "ちび竜ビスケット・コホラ",
+    zhCN: "龙龙饼干·鳍游",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Tepetlisaurus",
+    ja: "ちび竜ビスケット・テペトル",
+    zhCN: "龙龙饼干·嵴锋",
     tags: [ "natlan", "item" ],
   },
 
@@ -1893,5 +1951,19 @@
     zhCN: "倩影游侠",
     pronunciationJa: "うるわしきかいけつ",
     notes: "綺良々のコスチューム",
+  },
+  {
+    en: "Cherries Snow-Laden",
+    ja: "残雪に咲く紅",
+    zhCN: "宿雪桃紅",
+    pronunciationJa: "ざんせつにさくくれない",
+    notes: "胡桃のコスチューム",
+  },
+  {
+    en: "New Year's Cheer",
+    ja: "大つごもりの歓声",
+    zhCN: "歲夜歡譁",
+    pronunciationJa: "おおつごもりのかんせい",
+    notes: "香菱のコスチューム",
   },
 ]

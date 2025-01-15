@@ -571,4 +571,11 @@
     pronunciationJa: "レインボースピリットのち",
     tags: [ "natlan", "domain" ],
   },
+  {
+    en: "Stone Stele Records",
+    ja: "石碑の記録",
+    zhCN: "碑碣的记录",
+    pronunciationJa: "せきひのきろく",
+    tags: [ "natlan", "domain" ],
+  },
 ]

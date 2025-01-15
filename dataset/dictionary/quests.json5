@@ -310,6 +310,14 @@
     tags: [ "natlan", "quest-archon" ],
     notes: "魔神任務第五章幕間",
   },
+  {
+    en: "Incandescent Ode of Resurrection",
+    ja: "灼烈の反魂の詩",
+    zhCN: "炽烈的还魂诗",
+    pronunciationJa: "しゃくれつのはんごんのうた",
+    tags: [ "natlan", "quest-archon" ],
+    notes: "魔神任務第五章五幕",
+  },
 
   {
     en: "Interlude",
@@ -2075,6 +2083,41 @@
     zhCN: "爱龙人的平凡生活",
     tags: [ "natlan", "quest-world" ],
   },
+  {
+    en: "A Saurian Returns to the Nest",
+    ja: "竜の帰巣",
+    zhCN: "龙的归巢",
+    pronunciationJa: "りゅうのきそう",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Charge Forward! Go, Go, Go!",
+    ja: "進め！進め！進め！",
+    zhCN: "向前冲！冲！冲！",
+    pronunciationJa: "すすめ・すすめ・すすめ",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Molting Season",
+    ja: "換羽期",
+    zhCN: "换羽时节",
+    pronunciationJa: "かんうき",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Every Aspect of a Warrior",
+    ja: "勇士の姿",
+    zhCN: "士的每一面",
+    pronunciationJa: "ゆうしのすがた",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "A Hero's Approval!",
+    ja: "英雄たちのお墨付き！",
+    zhCN: "来自英雄的认证！",
+    pronunciationJa: "えいゆうたちのおすみつき",
+    tags: [ "natlan", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -2486,6 +2529,13 @@
     zhCN: "香氛瓶之章",
     notes: "エミリエの伝説任務",
     tags: [ "sumeru", "quest-story" ],
+  },
+  {
+    en: "Sol Invictus Chapter",
+    ja: "不敗の日輪の章",
+    zhCN: "不敗阳焔之章",
+    notes: "マーヴィカの伝説任務",
+    tags: [ "natlan", "quest-story" ],
   },
 
   //
