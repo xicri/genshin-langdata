@@ -1304,6 +1304,19 @@
     notes: "世界任務「とある竜マニアの平凡な暮らし」報酬",
     notesZh: "世界任务「爱龙人的平凡生活」奖励",
   },
+  {
+    en: "Magmic Ode",
+    ja: "炎岩の歌",
+    pronunciationJa: "えんがんのうた",  // TODO need check
+    zhCN: "炎岩之颂",
+    tags: [ "food" ],
+  },
+  {
+    en: "Tatacos",
+    ja: "タタコス",
+    zhCN: "塔塔可",
+    tags: [ "food" ],
+  },
 
   //
   // Specialties (オリジナル料理)
@@ -2024,6 +2037,26 @@
     notesEn: "Ororon's specialty",
     notes: "オロルンのオリジナル料理",
     notesZh: "欧洛伦的特色料理",
+  },
+  {
+    en: "Hymn of Gathered Flame",
+    ja: "集いし炎の賛歌",
+    zhCN: "簇火赞歌",
+    pronunciationJa: "つどいしほのおのさんか",
+    tags: [ "food", "natlan" ],
+    notesEn: "Mavuika's specialty",
+    notes: "マーヴィカのオリジナル料理",
+    notesZh: "玛薇卡的特色料理",
+  },
+  {
+    en: "Secret Art",
+    ja: "唯一無二の秘法",
+    zhCN: "独门秘法",
+    pronunciationJa: "ゆいいつむにのひほう",
+    tags: [ "food", "natlan" ],
+    notesEn: "Citlali's specialty",
+    notes: "シトラリのオリジナル料理",
+    notesZh: "茜特菈莉的特色料理",
   },
 
   //

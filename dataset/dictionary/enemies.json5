@@ -2575,5 +2575,25 @@
     pronunciationJa: "しんえんなるミミックパピラ",
     tags: [ "natlan", "enemy-boss" ],
   },
+  {
+    en: "Gosoythoth",
+    ja: "グーシィ・トース",
+    zhCN: "古斯托特",
+    tags: [ "natlan", "enemy-boss" ],
+  },
+  {
+    en: "Lord of Eroded Primal Fire",
+    ja: "蝕まれし源焔の主",
+    zhCN: "蚀灭的源焰之主",
+    pronunciationJa: "むしばまれしげんえんのあるじ",  // TOOO need check
+    tags: [ "natlan", "enemy-boss" ],
+  },
+  {
+    en: "Wayward Hermetic Spiritspeaker",
+    ja: "迷える霊覚の修験者",
+    zhCN: "灵觉隐修的迷者",
+    pronunciationJa: "まよえるれいかくのしゅげんじゃ",
+    tags: [ "natlan", "enemy-boss" ],
+  },
 
 ]

@@ -486,4 +486,32 @@
     pronunciationJa: "しんえんとからみあうまなざし", // TODO need check
     tags: [ "natlan", "drop-boss" ],
   },
+  {
+    en: "Talisman of the Enigmatic Land",
+    ja: "謎土の護符",
+    zhCN: "谜土的护符",
+    pronunciationJa: "めいどのごふ", // TODO need check
+    tags: [ "natlan", "drop-boss" ],
+  },
+  {
+    en: "Eroded Horn",
+    ja: "蝕滅の焔角",
+    zhCN: "蚀灭的灵犀",
+    pronunciationJa: "しょくめつのえんかく", // TODO need check
+    tags: [ "natlan", "drop-boss" ],
+  },
+  {
+    en: "Eroded Sunfire",
+    ja: "蝕滅の陽炎",
+    zhCN: "蚀灭的阳焰",
+    pronunciationJa: "しょくめつのかげろう", // TODO need check
+    tags: [ "natlan", "drop-boss" ],
+  },
+  {
+    en: "Eroded Scale-Feather",
+    ja: "蝕滅の羽鱗",
+    zhCN: "蚀灭的鳞羽",
+    pronunciationJa: "しょくめつのうりん", // TODO need check
+    tags: [ "natlan", "drop-boss" ],
+  },
 ]
