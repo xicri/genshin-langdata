@@ -490,7 +490,7 @@
     en: "Talisman of the Enigmatic Land",
     ja: "謎土の護符",
     zhCN: "谜土的护符",
-    pronunciationJa: "なぞちのごふ", // TODO need check
+    pronunciationJa: "めいどのごふ", // TODO need check
     tags: [ "natlan", "drop-boss" ],
   },
   {
