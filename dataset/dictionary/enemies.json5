@@ -2585,7 +2585,7 @@
     en: "Lord of Eroded Primal Fire",
     ja: "蝕まれし源焔の主",
     zhCN: "蚀灭的源焰之主",
-    pronunciationJa: "むしばまれしげんえんのしゅ",  // TOOO need check
+    pronunciationJa: "むしばまれしげんえんのあるじ",  // TOOO need check
     tags: [ "natlan", "enemy-boss" ],
   },
   {
