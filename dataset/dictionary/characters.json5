@@ -1932,6 +1932,26 @@
     zhCN: "沃特蒙泰涅",
     tags: [ "liyue", "fontaine", "character-sub" ],
   },
+  {
+    en: "Tao Dou",
+    ja: "桃都",
+    zhCN: "桃都",
+    pronunciationJa: "とうと",
+    tags: [ "liyue", "character-sub" ],
+    notesEn: "The god that once existed in Liyue",
+    notes: "璃月にかつて存在した魔神",
+    notesZh: "曾经存在于璃月的魔神",
+  },
+  {
+    en: "Bune",
+    ja: "擘那",
+    zhCN: "擘那",
+    pronunciationJa: "はくな",  // TODO Need check
+    tags: [ "liyue", "character-sub" ],
+    notesEn: "The original name of God Tao Dou",
+    notes: "魔神桃都の本来の名",
+    notesZh: "魔神桃都的原名",
+  },
 
   //
   // Inazuma - Main Characters
