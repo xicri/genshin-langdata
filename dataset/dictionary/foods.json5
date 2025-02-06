@@ -172,6 +172,20 @@
     pronunciationJa: "かもにくのコンフィ",
     tags: [ "food" ],
   },
+  {
+    en: "Jadevein Tea Eggs",
+    ja: "玉紋茶葉蛋",
+    zhCN: "玉纹茶叶蛋",
+    pronunciationJa: "ぎょくもんちゃばたん",
+    tags: [ "food" ],
+  },
+  {
+    en: "Chenyu Brew",
+    ja: "沈玉茶",
+    zhCN: "沉玉茶露",
+    pronunciationJa: "ちんぎょくちゃ",
+    tags: [ "food" ],
+  },
 
   // ★★
   {
@@ -521,6 +535,20 @@
     en: "Fonta",
     ja: "フォンタ",
     zhCN: "枫达",
+    tags: [ "food" ],
+  },
+  {
+    en: "Tea-Smoked Squab",
+    ja: "仔鳩の茶葉燻製",
+    zhCN: "茶熏乳鸽",
+    pronunciationJa: "こばとのちゃばくんせい",
+    tags: [ "food" ],
+  },
+  {
+    en: "Qingxin Flower Cake",
+    ja: "清心の花パイ",
+    zhCN: "清心花饼",
+    pronunciationJa: "せいしんのはなパイ",
     tags: [ "food" ],
   },
 
@@ -1108,6 +1136,12 @@
     zhCN: "夹心土豆泥",
     tags: [ "food" ],
   },
+  {
+    en: "Drunken Plums in Snow",
+    ja: "梅落雪間酔",
+    zhCN: "梅落雪间醉",
+    tags: [ "food" ],
+  },
 
   // ★★★★★
   {
@@ -1633,6 +1667,16 @@
     pronunciationJa: "やむちゃしようぜ",
     tags: [ "food", "liyue" ],
     notes: "嘉明のオリジナル料理",
+  },
+  {
+    en: "Jade-Cut Flowers",
+    ja: "花に翦玉",
+    zhCN: "玉剪着花",
+    pronunciationJa: "はなにせんぎょく",
+    tags: [ "food", "liyue" ],
+    notesEn: "Lan Yan's Specialty",
+    notes: "藍硯のオリジナル料理",
+    notesZh: "蓝砚的特色料理",
   },
 
   // Inazuma

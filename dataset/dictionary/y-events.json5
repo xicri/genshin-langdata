@@ -121,7 +121,7 @@
     ja: "海灯祭",
     zhCN: "海灯节",
     pronunciationJa: "かいとうさい",
-    notes: "v1.3、v2.4、v3.4、及び v4.4 期間限定イベント。璃月の祭り。",
+    notes: "v1.3、v2.4、v3.4、v4.4 及び v5.3 期間限定イベント。璃月の祭り。",
     tags: [ "liyue", "event" ],
   },
   {
@@ -233,6 +233,110 @@
     notes: "v5.3 期間限定イベント",
     notesZh: "v5.3 中的限时活动",
   },
+  {
+    en: "Springtime Charms",
+    ja: "春光が輝く桃符",
+    zhCN: "春曦画桃符",
+    pronunciationJa: "しゅんこうがかがやくとうふ",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v5.3",
+    notes: "v5.3 期間限定イベント",
+    notesZh: "v5.3 中的限时活动",
+  },
+  {
+    en: "Immortal Combat",
+    ja: "八奇乱闘",
+    zhCN: "八奇乱斗",
+    pronunciationJa: "はっきらんとう",
+    tags: [ "event" ],
+    notesEn: "v5.3 Sub-events of the Limited Time Event \"Springtime Charms\"",
+    notes: "v5.3 期間限定イベント「春光が輝く桃符」の子イベント",
+    notesZh: "限时活动「春曦画桃符」v5.3 子活动",
+  },
+  {
+    en: "Drills by Lamplight",
+    ja: "灯下演武",
+    zhCN: "灯下演武",
+    pronunciationJa: "とうかえんぶ",
+    tags: [ "event" ],
+    notesEn: "v5.3 Sub-events of the Limited Time Event \"Springtime Charms\"",
+    notes: "v5.3 期間限定イベント「春光が輝く桃符」の子イベント",
+    notesZh: "限时活动「春曦画桃符」v5.3 子活动",
+  },
+  {
+    en: "Custom Gift Envelope",
+    ja: "祝灯状",
+    zhCN: "如意祝柬",
+    pronunciationJa: "しゅくとうじょう",
+    tags: [ "event" ],
+    notesEn: "v5.3 Sub-events of the Limited Time Event \"Springtime Charms\", as well as the cards used",
+    notes: "v5.3 期間限定イベント「春光が輝く桃符」の子イベント、および使用されるカード",
+    notesZh: "限时活动「春曦画桃符」v5.3 子活动、以及使用的卡片",
+  },
+  {
+    en: "Eight Adepts",
+    ja: "八奇仙",
+    zhCN: "八奇仙",
+    pronunciationJa: "はっきせん",
+    tags: [ "event", "liyue", "title", "how-to-call" ],
+  },
+  {
+    en: "Lone Butterfly of the Crimson Flame",
+    ja: "朱赤引火冥蝶",
+    zhCN: "朱赤引火幽蝶",
+    pronunciationJa: "しゅせきいんかめいちょう",  // TODO Need check
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+  {
+    en: "Jade-Plumed Silverwing",
+    ja: "銀翎翦玉玄鳥",
+    zhCN: "银翎翦玉玄鸟",
+    pronunciationJa: "ぎんりょうせんぎょくげんちょう",  // TODO Need check
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+  {
+    en: "Gold-Eyed Celadon Mare",
+    ja: "金目乗黄月駒",
+    zhCN: "金目乘黄月驹",
+    pronunciationJa: "きんもくじょうおうげっく",  // TODO Need check
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+  {
+    en: "Sage Hu",
+    ja: "瓢箪真人",
+    zhCN: "瓠真人",
+    pronunciationJa: "ひょうたんしんじん",  // TODO Need check
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+  {
+    en: "Sage Jian",
+    ja: "鑑真人",
+    zhCN: "鉴真人",
+    pronunciationJa: "かがみしんじん",  // TODO Need check
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+  {
+    en: "Yunlai Angler",
+    ja: "雲来釣爺",
+    zhCN: "云来钓叟",
+    pronunciationJa: "うんらいちょうや",
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+  {
+    en: "Wuwang Kid",
+    ja: "無妄童子 / 無妄の翁",
+    zhCN: "无妄童子",
+    pronunciationJa: "むぼうどうじ / むぼうのおきな",  // TODO Need check
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+  {
+    en: "Wind Reader",
+    ja: "万象風角霊官",
+    zhCN: "万象风角灵官",
+    pronunciationJa: "ばんしょうふうかくれんかん",
+    tags: [ "event", "liyue", "character-sub" ],
+  },
+
   // v5.2
   {
     en: "Claw Convoy",

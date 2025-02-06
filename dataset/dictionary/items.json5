@@ -1839,6 +1839,20 @@
     pronunciationJa: "むめいぼうけんしゃのノート",
     tags: [ "item", "natlan" ],
   },
+  {
+    en: "Hu Tao: Plum Branch",
+    ja: "「胡桃・梅の枝」",
+    zhCN: "「胡桃·梅枝」",
+    pronunciationJa: "ふーたお・うめのえだ",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Zhongli: Rex Coin",
+    ja: "「鍾離・帝銭」",
+    zhCN: "「钟离·帝钱」",
+    pronunciationJa: "しょうり・ていせん",
+    tags: [ "item", "liyue" ],
+  },
 
   //
   // Dresesings

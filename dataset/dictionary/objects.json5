@@ -279,6 +279,13 @@
     pronunciationJa: "せんぞう",
     tags: [ "object", "liyue" ],
   },
+  {
+    en: "Rattan Figure",
+    ja: "藤人形",
+    zhCN: "藤人",
+    pronunciationJa: "とうにんぎょう",
+    tags: [ "object", "liyue" ],
+  },
 
   //
   // Inazuma
