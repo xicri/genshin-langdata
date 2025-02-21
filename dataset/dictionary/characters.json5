@@ -2375,6 +2375,7 @@
   {
     en: "Kichiboushi",
     ja: "吉法師",
+    pronunciationJa: "きっぽうし",
     zhCN: "吉法师",
     tags: [ "inazuma", "character-sub" ],
   },
