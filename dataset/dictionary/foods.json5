@@ -1033,6 +1033,13 @@
     zhCN: "花果三重奏",
     tags: [ "food" ],
   },
+  {
+    en: "Bathhouse Manjuu",
+    ja: "銭湯まんじゅう",
+    pronunciationJa: "せんとうまんじゅう",
+    zhCN: "钱汤馒头",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -1792,6 +1799,16 @@
     notesEn: "Kirara's specialty",
     notes: "綺良々のオリジナル料理",
     notesZh: "绮良良的特色料理",
+  },
+  {
+    en: "Dreams of Healing",
+    ja: "夢一夜の癒し",
+    zhCN: "一梦治愈",
+    pronunciationJa: "ゆめひとよのいやし",
+    tags: [ "food", "inazuma" ],
+    notesEn: "Yumemizuki Mizuki's specialty",
+    notes: "夢見月瑞希のオリジナル料理",
+    notesZh: "梦见月瑞希的特色料理",
   },
 
   // Sumeru

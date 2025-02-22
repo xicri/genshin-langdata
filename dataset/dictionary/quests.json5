@@ -2399,6 +2399,14 @@
     tags: [ "inazuma", "quest-story" ],
   },
   {
+    en: "Tapirus Somniator Chapter",
+    ja: "獏枕の章",
+    pronunciationJa: "ばくまくらのしょう",
+    zhCN: "貘枕之章",
+    notes: "夢見月瑞希の伝説任務",
+    tags: [ "inazuma", "quest-story" ],
+  },
+  {
     en: "Vulpes Zerda Chapter",
     ja: "フェネックの章",
     pronunciationJa: "フェネックのしょう",

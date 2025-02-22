@@ -228,6 +228,13 @@
     zhCN: "远航之风",
     tags: [ "inazuma", "facility" ],
   },
+  {
+    en: "Aisa Bathhouse",
+    ja: "秋沙銭湯",
+    zhCN: "秋沙钱汤",
+    pronunciationJa: "あいさせんとう",
+    tags: [ "inazuma", "facility" ],
+  },
 
   //
   // Sumeru
@@ -477,6 +484,13 @@
     ja: "ジャンペ楽器店",
     zhCN: "金贝乐棚",
     pronunciationJa: "ジャンペがっきてん",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "\"Yumekizuki's Cozy Cornder\"",
+    ja: "「夢見月のホッと一息」",
+    zhCN: "「梦见月的舒心小站」",
+    pronunciationJa: "ゆめみづきのホッとひといき",
     tags: [ "natlan", "facility" ],
   },
 
