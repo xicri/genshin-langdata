@@ -921,6 +921,15 @@
     pronunciationJa: "ちんざんのくぎ",
     tags: [ "weapon", "polearm" ],
   },
+  {
+    en: "Tamayuratei no Ohanashi",
+    ja: "玉響停の御噺",
+    zhCN: "且住亭御咄",
+    pronunciationJa: "たまゆらていのおはなし",
+    tags: [ "weapon", "polearm", "event" ],
+    notes: "v5.4 期間限定イベント「三川遊芸夢綺譚」報酬",
+    notesZh: "v5.4 活动「三川游艺绮梦谭」奖励",
+  },
   // ★5
   {
     en: "Primordial Jade Winged-Spear",
@@ -1667,6 +1676,13 @@
     en: "Surf's Up",
     ja: "サーフィンタイム",
     zhCN: "冲浪时光",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Sunny Morning Sleep-In",
+    ja: "寝正月の初晴",
+    zhCN: "寝正月初晴",
+    pronunciationJa: "ねしょうがつのはつばれ",
     tags: [ "weapon", "catalyst" ],
   },
 ]

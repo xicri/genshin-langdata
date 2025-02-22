@@ -47,6 +47,9 @@ const japaneseChars = [
   "見", // "见"
   "覘", // "觇"
   "滅", // "灭"
+  "藍", // "蓝"
+  "斎", // "斋"
+  "閣", // "阁"
 ];
 
 function isURL(urlStr) {
