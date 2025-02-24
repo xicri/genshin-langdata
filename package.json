@@ -25,8 +25,8 @@
     "luxon": "^3.5.0",
     "marked": "^15.0.7",
     "node-fetch": "^3.2.4",
-    "pinyin-tone": "^2.2.4",
-    "vitest": "^3.0.5",
-    "wrangler": "^3.109.1"
+    "pinyin-tone": "^2.2.5",
+    "vitest": "^3.0.6",
+    "wrangler": "^3.109.3"
   }
 }
