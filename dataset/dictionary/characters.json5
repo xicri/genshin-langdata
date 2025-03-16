@@ -139,6 +139,13 @@
     notes: "イスタロトの称号",
     notesZh: "伊斯塔露的称号",
   },
+  {
+    en: "The Trinity of Moon Goddesses",
+    ja: "月の三女神",
+    zhCN: "三月女神",
+    pronunciationJa: "つきのさんめがみ",
+    tags: [ "how-to-call", "title" ],
+  },
 
   //
   // Mondstadt - Main Characters
@@ -5204,6 +5211,22 @@
     tags: [ "natlan", "character-main" ],
   },
   {
+    en: "Ifa",
+    ja: "イファ",
+    zhCN: "伊法",
+    notesEn: "Veterinarian from the \"Flower-Feather Clan\"",
+    notes: "「花翼の集」の獣医",
+    notesZh: "「花羽会」中的兽医",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
+    en: "Cacucu",
+    ja: "カクーク",
+    zhCN: "咔库库",
+    notes: "イファが連れているクク竜",
+    tags: [ "natlan", "character-main" ],
+  },
+  {
     en: "Bidii",
     ja: "ビディー", // Notes: アイテム「聖宵の旅織り」で確認
     zhCN: "庇笛",
@@ -5666,7 +5689,7 @@
     zhCN: "山下",
     pronunciationJa: "やました",
     notes: "部族見聞「ユパンキの廻焔」に登場するアビス教団の使者。「淵上」と称するものと同一人物",
-    notesEn: "The same chatacter as Enjou. His Japanese name is pronunced Yamashita and the English name Sanka may be a mistranslation.",
+    notesEn: "The same character as Enjou. His Japanese name is pronunced Yamashita and the English name Sanka may be a mistranslation.",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -5773,15 +5796,6 @@
     ja: "ニペガ",
     zhCN: "妮佩卡",
     notes: "部族見聞「祝福を祈り、テペトルに告ぐ」第三幕に登場する人物",
-    tags: [ "natlan", "character-sub" ],
-  },
-  {
-    en: "Ifa",
-    ja: "イファ",
-    zhCN: "伊法",
-    notesEn: "Veterinarian from the \"Flower-Feather Clan\"",
-    notes: "「花翼の集」の獣医。タグのプレイアブル・NPC 分類は仮", // TODO A person who is mentioned in Mualani, Kachina,  and Kinichi's voice-overs.
-    notesZh: "「花羽会」中的兽医",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6039,7 +6053,7 @@
     tags: [ "natlan", "character-sub" ],
   },
   {
-    en: "Cohitta",
+    en: "Cochitta",
     ja: "コチッタ",
     zhCN: "柯奇妲",
     notes: "第五章幕間に登場する人物",
@@ -6509,13 +6523,6 @@
     ja: "トラポ",
     zhCN: "特拉波",
     notes: "部族見聞「流れゆく色の記憶」に登場するイクトミ竜",
-    tags: [ "natlan", "character-sub" ],
-  },
-  {
-    en: "Cacucu",
-    ja: "カクーク",
-    zhCN: "咔库库",
-    notes: "イファが連れているクク竜",
     tags: [ "natlan", "character-sub" ],
   },
   {

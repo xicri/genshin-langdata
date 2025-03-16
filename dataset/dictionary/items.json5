@@ -885,11 +885,14 @@
     en: "Crystalfish",
     ja: "水晶宴",
     zhCN: "水晶宴",
+    pronunciationJa: "すいしょうえん",
     tags: [ "item" ],
   },
   {
     en: "Dawncatcher",
+    ja: "擒霞客",
     zhCN: "擒霞客",
+    pronunciationJa: "きんかきゃく",  // TODO Need Check
     tags: [ "item" ],
   },
   {
@@ -900,37 +903,47 @@
   },
   {
     en: "Akai Maou",
+    ja: "赤魔王",
     zhCN: "赤魔王",
+    pronunciationJa: "あかまおう",
     tags: [ "item" ],
   },
   {
     en: "Lunged Stickleback",
+    ja: "ブレストゲウオ",
     zhCN: "肺棘鱼",
     tags: [ "item" ],
   },
   {
     en: "Snowstrider",
+    ja: "雪ノ君",
     zhCN: "雪中君",
+    pronunciationJa: "ゆきのきみ",
     tags: [ "item" ],
   },
   {
     en: "Venomspine Fish",
+    ja: "ポイズントゲウオ",
     zhCN: "鸩棘鱼",
     tags: [ "item" ],
     pinyins: [{ char: "鸩", pron: "zhen4" }],
   },
   {
     en: "Divda Ray",
+    ja: "ディフダエイ",
     zhCN: "迪芙妲鳐",
     tags: [ "item" ],
   },
   {
     en: "Floating Ray",
+    ja: "浮遊エイ",
     zhCN: "幽浮鳐",
+    pronunciationJa: "ふゆうエイ",
     tags: [ "item" ],
   },
   {
     en: "Formalo Ray",
+    ja: "フォーマルハウトエイ",
     zhCN: "佛玛洛鳐",
     tags: [ "item" ],
   },
@@ -938,26 +951,35 @@
     en: "Brown Shirakodai",
     ja: "褐チョウチョウウオ",
     zhCN: "流纹褐蝶鱼",
+    pronunciationJa: "かつチョウチョウウオ",  // TODO Need Check
     tags: [ "item" ],
   },
   {
     en: "Abiding Angelfish",
+    ja: "長寿仙",
     zhCN: "长生仙",
+    pronunciationJa: "ちょうじゅせん",
     tags: [ "item" ],
   },
   {
     en: "Raimei Angelfish",
+    ja: "雷鳴仙",
     zhCN: "雷鸣仙",
+    pronunciationJa: "らいめいせん",
     tags: [ "item" ],
   },
   {
     en: "Moonfin",
+    ja: "月光魚",
     zhCN: "月光鳍",
+    pronunciationJa: "げっこうぎょ / げっこううお",
     tags: [ "item" ],
   },
   {
     en: "Purple Shirakodai",
+    ja: "紫チョウチョウウオ",
     zhCN: "流纹京紫蝶鱼",
+    pronunciationJa: "むらさきチョウチョウウオ",
     tags: [ "item" ],
   },
   {
@@ -969,12 +991,16 @@
   },
   {
     en: "Golden Koi",
+    ja: "金赤リュウノコ",
     zhCN: "金赤假龙",
+    pronunciationJa: "きんせきリュウノコ",  // TODO Need Check
     tags: [ "item" ],
   },
   {
     en: "Rusty Koi",
+    ja: "錆色リュウノコ",
     zhCN: "锖假龙",
+    pronunciationJa: "さびいろリュウノコ",
     tags: [ "item" ],
     pinyins: [{ char: "锖", pron: "qiang1" }],
   },
@@ -989,6 +1015,7 @@
     en: "Bitter Pufferfish",
     ja: "苦鉄砲フグ",
     zhCN: "苦炮鲀",
+    pronunciationJa: "にがてっぽうフグ",
     tags: [ "item" ],
   },
   {
@@ -1022,8 +1049,57 @@
   {
     en: "Pseudoshark Unihornfish",
     ja: "サメモドキツノ魚",
-    pronunciationJa: "サメモドキツノぎょ",
+    pronunciationJa: "サメモドキツノぎょ / サメモドキツノうお",
     zhCN: "伪装鲨鲨独角鱼",
+    tags: [ "item" ],
+  },
+  {
+    en: "Bejeweled Unihornfish",
+    ja: "キラキラツノ魚",
+    pronunciationJa: "キラキラツノぎょ / キラキラツノうお",
+    zhCN: "宝石独角鱼",
+    tags: [ "item", "event" ],
+  },
+  {
+    en: "Phony Phlogiston Unihornfish",
+    ja: "疑似燃素ツノ魚",
+    pronunciationJa: "ぎじねんそツノぎょ / ぎじねんそツノうお",
+    zhCN: "拟似燃素独角鱼",
+    tags: [ "item" ],
+  },
+  {
+    en: "Greenwave Sunfish",
+    ja: "青波マンボウ",
+    pronunciationJa: "あおなみマンボウ",
+    zhCN: "青浪翻车鲀",
+    tags: [ "item" ],
+  },
+  {
+    en: "Peach of the Deep Waves",
+    ja: "浮沈蜜桃",
+    pronunciationJa: "ふちんみっとう",  // TODO Need Check
+    zhCN: "沉波蜜桃",
+    tags: [ "item" ],
+  },
+  {
+    en: "Halcyon Jade Axe Marlin",
+    ja: "翠玉ハチェットウオ",
+    pronunciationJa: "すいぎょくハチェットウオ",
+    zhCN: "翡玉斧枪鱼",
+    tags: [ "item" ],
+  },
+  {
+    en: "Floral Rapidfighting Fish",
+    ja: "百花の闘流魚",
+    pronunciationJa: "ひゃっかのとうりゅうぎょ",
+    zhCN: "繁花斗士急流鱼",
+    tags: [ "item" ],
+  },
+  {
+    en: "Diving Rapidfighting Fish",
+    ja: "深潜の闘流魚",
+    pronunciationJa: "しんせんのとうりゅうぎょ",
+    zhCN: "深潜斗士急流鱼",
     tags: [ "item" ],
   },
 
