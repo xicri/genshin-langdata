@@ -27,6 +27,6 @@
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.2.5",
     "vitest": "^3.0.8",
-    "wrangler": "^3.114.0"
+    "wrangler": "^4.1.0"
   }
 }
