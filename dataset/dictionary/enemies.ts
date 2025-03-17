@@ -2294,7 +2294,7 @@ export default [
     ja: "重甲ヤドカニ",
     zhCN: "重甲蟹",
     zhTW: "重甲蟹",
-    pronunciationJa: "じゅうこうヤドカニ", // TODO Need Check
+    pronunciationJa: "じゅうこうヤドカニ",
     tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
@@ -2302,7 +2302,7 @@ export default [
     ja: "堅盾重甲ヤドカニ",
     zhCN: "坚盾重甲蟹",
     zhTW: "堅盾重甲蟹",
-    pronunciationJa: "けんじゅんじゅうこうヤドカニ", // TODO Need Check
+    pronunciationJa: "けんじゅんじゅうこうヤドカニ",
     tags: [ "fontaine", "enemy", "living-being" ],
   },
   {
