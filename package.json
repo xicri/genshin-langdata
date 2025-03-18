@@ -11,13 +11,11 @@
     "build": "node scripts/build.js",
     "todo": "node scripts/todo.js",
     "test": "npm run build && vitest run",
-    "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
+    "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate",
     "release": "./scripts/release.sh"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "eslint": "^8.57.1",
-    "eslint-config-xicri": "latest",
     "iconv-lite": "^0.6.3",
     "json5": "^2.2.2",
     "klona": "^2.0.4",
