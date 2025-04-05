@@ -5,15 +5,24 @@ import { expect, test } from "vitest";
 import tags from "../dataset/tags.json";
 import words from "../dist/words.json";
 
+const simplifiedChars = [
+  "·", // "・"
+];
+
 const japaneseChars = [
   "・", // "·"
+  "島", // "岛"
   "鳥", // "鸟"
+  "鳩", // "鸠"
+  "鳴", // "鸣"
   "竜", // "龙"
   "災", // "灾"
   "戦", // "战"
   "猟", // "猎"
   "風", // "风"
   "楓", // "枫"
+  "陣", // "阵"
+  "隕", // "陨"
   "隊", // "队"
   "長", // "长"
   "錬", // "炼"
@@ -25,8 +34,8 @@ const japaneseChars = [
   "緑", // "绿"
   "約", // "约"
   "綺", // "绮"
+  "結", // "结"
   "鋸", // "锯"
-  "鳴", // "鸣"
   "黒", // "黑"
   "競", // "竞"
   "場", // "场"
@@ -42,6 +51,7 @@ const japaneseChars = [
   "徳", // "德"
   "陽", // "阳"
   "録", // "录"
+  "鈴", // "铃"
   "偵", // "侦"
   "夢", // "梦"
   "見", // "见"
@@ -52,10 +62,36 @@ const japaneseChars = [
   "閣", // "阁"
   "魚", // "鱼"
   "鳳", // "凤"
-  "鳩", // "鸠"
   "剤", // "剂"
   "熱", // "热"
   "誠", // "诚"
+  "話", // "话"
+  "識", // "识"
+  "議", // "议"
+  "謁", // "谒"
+  "脈", // "脉"
+  "単", // "单"
+  "墜", // "坠"
+  "処", // "处"
+  "跡", // "迹"
+  "飲", // "饮"
+  "審", // "审"
+  "庁", // "厅"
+  "廬", // "庐"
+  "離", // "离"
+  "験", // "验"
+  "備", // "备"
+  "僕", // "仆"
+  "倫", // "伦"
+  "団", // "团"
+  "響", // "响"
+  "無", // "无"
+  "執", // "执"
+  "氷", // "冰"
+  "巻", // "卷"
+  "貢", // "贡"
+  "頁", // "页"
+  "盧", // "卢"
 ];
 
 function isURL(urlStr) {
@@ -249,15 +285,19 @@ test("if property values of dictionary JSON complies the format.", async () => {
       }
     }
 
-    // Check simplified Chinese characters
-    if (!word.zhCN) {
-      return;
+    // Check if simplified Chinese contains Japanese characters.
+    if (word.zhCN) {
+      expect(word.zhCN).not.toMatch(/[ぁ-んァ-ヴー]/);
+
+      for (const jaChar of japaneseChars) {
+        expect(word.zhCN).not.toContain(jaChar);
+      }
     }
-
-    expect(word.zhCN).not.toMatch(/[ぁ-んァ-ヴー]/);
-
-    for (const jaChar of japaneseChars) {
-      expect(word.zhCN).not.toContain(jaChar);
+    // Check if Japanese contains simplified Chinese characters.
+    if (word.ja) {
+      for (const chZnChar of simplifiedChars) {
+        expect(word.ja).not.toContain(chZnChar);
+      }
     }
   }
 });

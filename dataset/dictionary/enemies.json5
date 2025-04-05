@@ -517,13 +517,13 @@
   {
     en: "Ruin Drake: Earthguard",
     ja: "遺跡ドレイク・陸行",
-    zhCN: "遗迹龙兽・地巡",
+    zhCN: "遗迹龙兽·地巡",
     tags: [ "enemy" ],
   },
   {
     en: "Ruin Drake: Skywatch",
     ja: "遺跡ドレイク・飛空",
-    zhCN: "遗迹龙兽・空巡",
+    zhCN: "遗迹龙兽·空巡",
     tags: [ "enemy" ],
   },
   {
@@ -544,21 +544,21 @@
   {
     en: "Primal Construct: Prospector",
     ja: "プライマル構造体・探査機",
-    zhCN: "元能构装体・勘探机",
+    zhCN: "元能构装体·勘探机",
     pronunciationJa: "プライマルこうぞうたい・たんさき",
     tags: [ "enemy", "sumeru" ],
   },
   {
     en: "Primal Construct: Reshaper",
     ja: "プライマル構造体・再構築",
-    zhCN: "元能构装体・重塑仪",
+    zhCN: "元能构装体·重塑仪",
     pronunciationJa: "プライマルこうぞうたい・さいこうちく",
     tags: [ "enemy", "sumeru" ],
   },
   {
     en: "Primal Construct: Repulsor",
     ja: "プライマル構造体・重力場発生器",
-    zhCN: "元能构装体・力场发生器",
+    zhCN: "元能构装体·力场发生器",
     pronunciationJa: "プライマルこうぞうたい・じゅうりょくばはっせいき",
     tags: [ "enemy", "sumeru" ],
   },
@@ -1581,14 +1581,14 @@
   {
     en: "Eremite Desert Clearwater",
     ja: "エルマイト旅団・サンドウォーター",
-    zhCN: "镀金旅团・沙中净水",
+    zhCN: "镀金旅团·沙中净水",
     pronunciationJa: "エルマイトりょだん・サンドウォーター",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Eremite Sunfrost",
     ja: "エルマイト旅団・サンフロスト",
-    zhCN: "镀金旅团・炽阳凝冰",
+    zhCN: "镀金旅团·炽阳凝冰",
     pronunciationJa: "エルマイトりょだん・サンフロスト",
     tags: [ "sumeru", "enemy" ],
   },
@@ -1616,14 +1616,14 @@
   {
     en: "Eremite Stone Enchanter",
     ja: "エルマイト旅団・ストーンエンチャンター",
-    zhCN: "镀金旅团・魔岩役使",
+    zhCN: "镀金旅团·魔岩役使",
     pronunciationJa: "エルマイトりょだん・ストーンエンチャンター",
     tags: [ "sumeru", "enemy" ],
   },
   {
     en: "Eremite Galehunter",
     ja: "エルマイト旅団・ゲイルハンター",
-    zhCN: "镀金旅团・灵风猎手",
+    zhCN: "镀金旅团·灵风猎手",
     pronunciationJa: "エルマイトりょだん・ゲイルハンター",
     tags: [ "sumeru", "enemy" ],
   },
@@ -2014,7 +2014,9 @@
     zhCN: "重甲护盾",
     pronunciationJa: "じゅうこうシールド", // TODO Need Check
     tags: [ "fontaine" ],
+    notesEn: "Ability obtained from the Sternshield Crab variant",
     notes: "重甲ヤドカニ亜種から獲得できる能力",
+    notesZh: "从异色重甲蟹获得的能力",
   },
   {
     en: "Hunter's Ray",
@@ -2026,9 +2028,12 @@
   {
     en: "Fontemer Water Blade",
     ja: "原海水刃",
+    zhCN: "原海水刃",
     pronunciationJa: "げんかいすいじん", // TODO Need Check
     tags: [ "fontaine" ],
+    notesEn: "Ability obtained from the Hunter's Ray variant",
     notes: "狩猟刀エイ亜種から獲得できる能力",
+    notesZh: "从异色猎刀鳐获得的能力",
   },
   {
     en: "Blubberbeast",
@@ -2192,7 +2197,7 @@
   },
   {
     en: "Maintenance Mek: Gold Leader",
-    ja: "メンテマシナリー·黄金統率型",
+    ja: "メンテマシナリー・黄金統率型",
     zhCN: "维护机关·澄金领队型",
     pronunciationJa: "メンテマシナリーおうごんとうそつがた",
     tags: [ "fontaine", "enemy" ],
@@ -2355,6 +2360,27 @@
     tags: [ "natlan", "enemy" ],
   },
   {
+    en: "Ferocious Warrior: Wrestler",
+    ja: "猛進の勇士・マイティガイ",
+    zhCN: "横蛮勇士·摔跤客",
+    pronunciationJa: "もうしんのゆうし・マイティガイ",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Ferocious Warrior: Human Ram",
+    ja: "猛進の勇士・スマッシャー",
+    zhCN: "横蛮勇士·冲撞手",
+    pronunciationJa: "もうしんのゆうし・スマッシャー",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Ferocious Warrior: Grappler",
+    ja: "猛進の勇士・グラップラー",
+    zhCN: "横蛮勇士·抓扑人",
+    pronunciationJa: "もうしんのゆうし・グラップラー",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
     en: "Tepetlisaurus Warrior: Shard Striker",
     ja: "テペトル竜戦士・砕晶のハンマー",
     zhCN: "嵴锋龙武士·碎晶打者",
@@ -2422,6 +2448,20 @@
     ja: "イクトミ竜戦士・氷晶の砲手",
     zhCN: "暝视龙武士·冰晶炮手",
     pronunciationJa: "イクトミりゅうせんし・ひょうしょうのほうしゅ",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Tatankasaurus Warrior: Skybreaker",
+    ja: "ライノ竜戦士・破空の響動",
+    zhCN: "突角龙武士·破空轰动",
+    pronunciationJa: "ライノりゅうせんし・はくうのきょうどう",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
+    en: "Tatankasaurus Warrior: Spiritlight Chaser",
+    ja: "ライノ竜戦士・霊明の追縛",
+    zhCN: "突角龙武士·追缉灵光",
+    pronunciationJa: "ライノりゅうせんし・れいめいのついばく",
     tags: [ "natlan", "enemy" ],
   },
   {
@@ -2495,6 +2535,20 @@
     tags: [ "natlan", "enemy", "living-being" ],
   },
   {
+    en: "Tatankasaur Whelp",
+    ja: "ライノ仔竜",
+    zhCN: "幼突角龙",
+    pronunciationJa: "ライノこりゅう",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
+    en: "Tatankasaurus",
+    ja: "ライノ竜",
+    zhCN: "突角龙",
+    pronunciationJa: "ライノりゅう",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
     en: "Eroding Avatar of Lava",
     ja: "溶岩の像・土蝕者",
     zhCN: "熔岩游像·蚀土者",
@@ -2541,6 +2595,12 @@
     tags: [ "natlan", "enemy" ],
   },
   {
+    en: "Furnace Shell Mountain Weasel",
+    ja: "マグマイタチ",
+    zhCN: "炉壳山鼬",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
     en: "Gluttonous Yumkasaur Mountain King",
     ja: "山の王・貪食のユムカ竜",
     zhCN: "贪食匿叶龙山王",
@@ -2585,14 +2645,22 @@
     en: "Lord of Eroded Primal Fire",
     ja: "蝕まれし源焔の主",
     zhCN: "蚀灭的源焰之主",
+    notes: "シウコアトルの肩書き",
     pronunciationJa: "むしばまれしげんえんのあるじ",  // TOOO need check
-    tags: [ "natlan", "enemy-boss" ],
+    tags: [ "natlan", "enemy-boss", "title", "how-to-call" ],
   },
   {
     en: "Wayward Hermetic Spiritspeaker",
     ja: "迷える霊覚の修験者",
     zhCN: "灵觉隐修的迷者",
     pronunciationJa: "まよえるれいかくのしゅげんじゃ",
+    tags: [ "natlan", "enemy-boss" ],
+  },
+  {
+    en: "Lava Dragon Statue",
+    ja: "輝ける溶岩の龍像",
+    zhCN: "熔岩辉龙像",
+    pronunciationJa: "かがやけるようがんのりゅうぞう",
     tags: [ "natlan", "enemy-boss" ],
   },
 

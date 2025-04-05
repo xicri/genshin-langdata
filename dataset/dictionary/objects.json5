@@ -1249,4 +1249,20 @@
     notes: "シトラリが元素スキルで召喚するキャラクター",
     tags: [ "natlan", "object" ],
   },
+  {
+    en: "Secret Source Dragon Idol",
+    ja: "秘源の龍像",
+    zhCN: "秘源龙像",
+    pronunciationJa: "ひげんのりゅうぞう",
+    notes: "世界任務「破滅の予兆と最後の通牒」などに登場する超大型の機械龍。名称は「謁山の古場」内の研究者ノートに記載",
+    tags: [ "natlan", "object" ],
+  },
+  {
+    en: "Secret Source Dragon... Cannon?",
+    ja: "秘源の龍像の…首?",
+    zhCN: "秘源龙像.…首?",
+    pronunciationJa: "ひげんのりゅうぞうのくび",
+    notes: "「秘源の龍像」を構成するひとつのブロック。名称はチュートリアルに記載",
+    tags: [ "natlan", "object" ],  // Notes: 側面から衝撃波攻撃してくるがenemyとは違うと思う
+  },
 ]

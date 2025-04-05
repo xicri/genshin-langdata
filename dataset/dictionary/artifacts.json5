@@ -532,4 +532,18 @@
     pronunciationJa: "かいじんのみやこにたつえいゆうのえまき",
     tags: [ "artifact" ],
   },
+  {
+    en: "Long Night's Oath",
+    ja: "長き夜の誓い",
+    zhCN: "长夜之誓",
+    pronunciationJa: "ながきよるのちかい",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Finale of the Deep Galleries",
+    ja: "深廊の終曲",
+    zhCN: "深廊终曲",
+    pronunciationJa: "しんろうのしゅうきょく",
+    tags: [ "artifact" ],
+  },
 ]
