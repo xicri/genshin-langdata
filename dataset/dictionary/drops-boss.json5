@@ -514,4 +514,11 @@
     pronunciationJa: "しょくめつのうりん", // TODO need check
     tags: [ "natlan", "drop-boss" ],
   },
+  {
+    en: "Sparkless Statue Core",
+    ja: "龍像の無智なるコア",
+    zhCN: "龙像的无智核",
+    pronunciationJa: "りゅうぞうのむちなるコア",
+    tags: [ "natlan", "drop-boss" ],
+  },
 ]

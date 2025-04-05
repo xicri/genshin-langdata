@@ -578,4 +578,11 @@
     pronunciationJa: "せきひのきろく",
     tags: [ "natlan", "domain" ],
   },
+  {
+    en: "Derelict Masonry Dock",
+    ja: "荒れ果てた創造の地",
+    zhCN: "荒废砌造坞",
+    pronunciationJa: "あれはてたそうぞうのち",
+    tags: [ "natlan", "domain" ],
+  },
 ]

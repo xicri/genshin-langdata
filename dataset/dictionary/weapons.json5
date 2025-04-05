@@ -1685,4 +1685,10 @@
     pronunciationJa: "ねしょうがつのはつばれ",
     tags: [ "weapon", "catalyst" ],
   },
+  {
+    en: "Vivid Notions",
+    ja: "ヴィヴィッド・ハート",
+    zhCN: "溢彩心念",
+    tags: [ "weapon", "catalyst" ],
+  },
 ]

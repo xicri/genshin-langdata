@@ -966,4 +966,11 @@
     notes: "「アビス侵蝕症候群」の治療薬",
     notesZh: "「渊蚀综合征」的解毒剂",
   },
+  {
+    en: "Epic Feast Showdown",
+    ja: "熱闘の宴",
+    zhCN: "豪宴热斗",
+    pronunciationJa: "ねっとうのうたげ",
+    tags: [ "natlan" ],
+  },
 ]

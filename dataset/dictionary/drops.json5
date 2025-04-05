@@ -898,5 +898,25 @@
     zhCN: "迷光的蜷叶之心",
     tags: [ "natlan", "drop" ],
   },
-
+  {
+    en: "Cold-Cracked Shellshard",
+    ja: "冷えた鱗甲の欠片",
+    zhCN: "冷裂壳块",
+    pronunciationJa: "ひえたりんこうのけっぺん",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Warm Back-Shell",
+    ja: "熱を秘めた鱗甲",
+    zhCN: "蕴热的背壳",
+    pronunciationJa: "ねつをひめたりんこう",
+    tags: [ "natlan", "drop" ],
+  },
+  {
+    en: "Blazing Prismshell",
+    ja: "燃える鱗甲のプリズム",
+    zhCN: "明燃的棱状壳",
+    pronunciationJa: "もえるりんこうのプリズム",
+    tags: [ "natlan", "drop" ],
+  },
 ]

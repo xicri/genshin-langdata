@@ -1236,19 +1236,26 @@
     tags: [ "item", "mondstadt" ],
   },
   {
-    en: "Sangonomiya Chronicles",
-    ja: "珊瑚宮記",
-    zhCN: "珊瑚宫记",
-    pronunciationJa: "さんごのみやき",
-    tags: [ "item", "inazuma" ],
-  },
-  {
     en: "Yakshas: The Guardian Adepti",
     ja: "仙衆夜叉 / 護法仙衆夜叉録",
     zhCN: "仙众夜叉 / 护法仙众夜叉录",
     pronunciationJa: "せんしゅうやしゃ / ごほうせんしゅうやしゃろく",
     tags: [ "item", "title", "liyue" ],
     notes: "魈を含む5人の夜叉の称号、又は同名の書籍名",
+  },
+  {
+    en: "Mt. Lingmeng Gossip",
+    ja: "霊濛山の夜話",
+    zhCN: "灵濛山夜话",
+    pronunciationJa: "れいもうさんのよばなし",
+    tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Sangonomiya Chronicles",
+    ja: "珊瑚宮記",
+    zhCN: "珊瑚宫记",
+    pronunciationJa: "さんごのみやき",
+    tags: [ "item", "inazuma" ],
   },
   {
     en: "A Legend of Sword",
@@ -1312,11 +1319,10 @@
     tags: [ "item", "inazuma" ],
   },
   {
-    en: "Festive Drum",
-    ja: "綺宴の鼓",
-    zhCN: "绮筵之鼓",
-    pronunciationJa: "きえんのこ", // きえんのつづみ? TODO Need check
-    notes: "稲妻の「根付の源」で購入可能な楽器",
+    en: "Glimpses of Mysterious Inazuma",
+    ja: "稲妻秘聞録",
+    zhCN: "稻妻秘见录",
+    pronunciationJa: "いなずまひぶんろく",
     tags: [ "item", "inazuma" ],
   },
   {
@@ -1441,59 +1447,31 @@
     tags: [ "natlan", "item" ],
   },
   {
-    en: "Djem Djem Drum",
-    ja: "ジャンペ",
-    zhCN: "聚聚鼓",
-    notes: "流泉の衆の「ジャンペ楽器店」で購入可能な楽器",
+    en: "Fires of Autumn Twilight",
+    ja: "秋暮の炎",
+    zhCN: "秋暮之炎",
+    pronunciationJa: "しゅうぼのほのお",
     tags: [ "natlan", "item" ],
   },
   {
-    en: "Ukulele",
-    ja: "ウクレレ",
-    zhCN: "悠可琴",
-    notes: "流泉の衆の「ジャンペ楽器店」で購入可能な楽器",
-    tags: [ "natlan", "item" ],
-  },
-  {
-    en: "Saurus Crackers: Tatankasaurus",
-    ja: "ちび竜ビスケット・ライノ",
-    zhCN: "龙龙饼干·突角",
-    tags: [ "natlan", "item" ],
-  },
-  {
-    en: "Saurus Crackers: Qucusaurus",
-    ja: "ちび竜ビスケット・クク",
-    zhCN: "龙龙饼干·绒翼",
-    tags: [ "natlan", "item" ],
-  },
-  {
-    en: "Saurus Crackers: Yumkasaurus",
-    ja: "ちび竜ビスケット・ユムカ",
-    zhCN: "龙龙饼干·匿叶",
-    tags: [ "natlan", "item" ],
-  },
-  {
-    en: "Saurus Crackers: Iktomisaurus",
-    ja: "ちび竜ビスケット・イクトミ",
-    zhCN: "龙龙饼干·暝视",
-    tags: [ "natlan", "item" ],
-  },
-  {
-    en: "Saurus Crackers: Koholasaurus",
-    ja: "ちび竜ビスケット・コホラ",
-    zhCN: "龙龙饼干·鳍游",
-    tags: [ "natlan", "item" ],
-  },
-  {
-    en: "Saurus Crackers: Tepetlisaurus",
-    ja: "ちび竜ビスケット・テペトル",
-    zhCN: "龙龙饼干·嵴锋",
+    en: "The Headless Coquitao",
+    ja: "首無しのコクイタオ",
+    zhCN: "无头的科奎塔奥",
+    pronunciationJa: "くびなしのコクイタオ",
     tags: [ "natlan", "item" ],
   },
 
   //
   // Gadgets
   //
+  {
+    en: "Festive Drum",
+    ja: "綺宴の鼓",
+    zhCN: "绮筵之鼓",
+    pronunciationJa: "きえんのこ", // きえんのつづみ? TODO Need check
+    notes: "稲妻の「根付の源」で購入可能な楽器",
+    tags: [ "item", "inazuma" ],
+  },
   {
     en: "Aranyaka",
     ja: "森林書",
@@ -1588,6 +1566,20 @@
     zhCN: "初诞灵焰",
     pronunciationJa: "しんせいのれいえん",
     tags: [ "item" ],
+  },
+  {
+    en: "Djem Djem Drum",
+    ja: "ジャンペ",
+    zhCN: "聚聚鼓",
+    notes: "流泉の衆の「ジャンペ楽器店」で購入可能な楽器",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Ukulele",
+    ja: "ウクレレ",
+    zhCN: "悠可琴",
+    notes: "流泉の衆の「ジャンペ楽器店」で購入可能な楽器",
+    tags: [ "natlan", "item" ],
   },
 
   //
@@ -1827,13 +1819,6 @@
     tags: [ "item", "fontaine" ],
   },
   {
-    en: "Grainfruit",
-    ja: "グレインの実",
-    zhCN: "颗粒果",
-    pronunciationJa: "グレインのみ",
-    tags: [ "item", "natlan" ],
-  },
-  {
     en: "Candlecap Mushroom",
     ja: "キャンドルキノコ",
     zhCN: "烛伞蘑菇",
@@ -1916,6 +1901,42 @@
     tags: [ "item", "natlan" ],
   },
   {
+    en: "Saurus Crackers: Tatankasaurus",
+    ja: "ちび竜ビスケット・ライノ",
+    zhCN: "龙龙饼干·突角",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Qucusaurus",
+    ja: "ちび竜ビスケット・クク",
+    zhCN: "龙龙饼干·绒翼",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Yumkasaurus",
+    ja: "ちび竜ビスケット・ユムカ",
+    zhCN: "龙龙饼干·匿叶",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Iktomisaurus",
+    ja: "ちび竜ビスケット・イクトミ",
+    zhCN: "龙龙饼干·暝视",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Koholasaurus",
+    ja: "ちび竜ビスケット・コホラ",
+    zhCN: "龙龙饼干·鳍游",
+    tags: [ "natlan", "item" ],
+  },
+  {
+    en: "Saurus Crackers: Tepetlisaurus",
+    ja: "ちび竜ビスケット・テペトル",
+    zhCN: "龙龙饼干·嵴锋",
+    tags: [ "natlan", "item" ],
+  },
+  {
     en: "Hu Tao: Plum Branch",
     ja: "「胡桃・梅の枝」",
     zhCN: "「胡桃·梅枝」",
@@ -1928,6 +1949,20 @@
     zhCN: "「钟离·帝钱」",
     pronunciationJa: "しょうり・ていせん",
     tags: [ "item", "liyue" ],
+  },
+  {
+    en: "Green Berryshroom",
+    ja: "緑トロピカルキノコ",
+    zhCN: "绿果果菇",
+    pronunciationJa: "みどりトロピカルキノコ",
+    tags: [ "item", "natlan" ],  // Notes: なぜかFoodではない
+  },
+  {
+    en: "That Which Was Once Ehecatl",
+    ja: "かつて「エカトル」だったもの",
+    zhCN: "曾是「厄卡特尔」之物",
+    notes: "かつてエカトルの意識が入れられ、今は機能を止めた秘源の龍従",
+    tags: [ "item", "natlan" ],
   },
 
   //

@@ -506,4 +506,12 @@
     pronunciationJa: "きたくにぎんこう",
     tags: [ "snezhnaya", "liyue", "fontaine", "facility" ],
   },
+  {
+    en: "Clink-Clank Krumkake Craftshop",
+    ja: "カチャカチャ・クルムカケ工房",
+    zhCN: "叮铃哐啷蛋卷工坊",
+    notes: "期間限定Webイベント「空月の歌」の情報",
+    pronunciationJa: "カチャカチャ・クルムカケこうぼう",
+    tags: [ "snezhnaya", "facility" ],
+  },
 ]
