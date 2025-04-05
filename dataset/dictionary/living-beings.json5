@@ -584,4 +584,17 @@
     zhCN: "固晶甲虫",
     tags: [ "natlan", "living-being" ],
   },
+  {
+    en: "Cacaua Goat",
+    ja: "ショコアトルヤギ",
+    zhCN: "苦苦羊",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Ancient Scarlet-Plume Finch",
+    ja: "朱羽ヤマガラ・古種",
+    zhCN: "朱羽古团雀",
+    pronunciationJa: "しゅばねやまがら・こしゅ",  // TODO Need Check
+    tags: [ "natlan", "living-being" ],
+  },
 ]

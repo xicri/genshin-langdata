@@ -2118,6 +2118,69 @@
     pronunciationJa: "えいゆうたちのおすみつき",
     tags: [ "natlan", "quest-world" ],
   },
+  {
+    en: "Path to the Flaming Peaks",
+    ja: "炎の崖に至る道",
+    zhCN: "朝向炎崖之路",
+    pronunciationJa: "ほのおのがけにいたるみち",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Investigator of Ancient Ruins",
+    ja: "拝山の道",
+    zhCN: "觐山之路",
+    pronunciationJa: "はいざんのみち",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Nahuatzin's Leap",
+    ja: "ナワツィンの跳躍",
+    zhCN: "纳华钦之跃",
+    pronunciationJa: "ナワツィンのちょうやく",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "A Finale Emberforged",
+    ja: "炎を辿り、終局へと帰る",
+    zhCN: "溯火而归的终局",
+    pronunciationJa: "ほのおをたどり、しゅうきょくへとかえる",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "The Frozen, Rekindling Land",
+    ja: "冷灰と再燃の地",
+    zhCN: "冷薪与重燃之地",
+    pronunciationJa: "れいかいとさいねんのち",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "An Omen of Annihilation and the Final Entreaty",
+    ja: "破滅の予兆と最後の通牒",
+    zhCN: "毁灭预兆与最后的通牒",
+    pronunciationJa: "はめつのよちょうとさいごのつうちょう",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Sing, Ho, For the Greatness of Fat!",
+    ja: "おお！偉大なる脂肪よ！",
+    zhCN: "哦！伟大的脂肪！",
+    pronunciationJa: "おお・いだいなるしぼうよ",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Is \"Intensity\" Really the Key?",
+    ja: "「烈力」は役に立つ?",
+    zhCN: "「烈度」，有用吗",
+    pronunciationJa: "れつりきはやくにたつ",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Someday, We All Must Walk Alone",
+    ja: "独り立ちの日",
+    zhCN: "终有独行之日",
+    pronunciationJa: "ひとりだちのひ",
+    tags: [ "natlan", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -2591,6 +2654,13 @@
     ja: "流れゆく色の記憶",
     zhCN: "流淌着色彩的回忆",
     pronunciationJa: "ながれゆくいろのきおく",
+    tags: [ "natlan", "quest-tribal" ],
+  },
+  {
+    en: "Mushroom Realm Mystery",
+    ja: "キノコ奇譚",
+    zhCN: "蘑境菌奇",
+    pronunciationJa: "キノコきたん",
     tags: [ "natlan", "quest-tribal" ],
   },
 

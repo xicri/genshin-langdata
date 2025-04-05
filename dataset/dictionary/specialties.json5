@@ -348,4 +348,18 @@
     tags: [ "specialty", "natlan" ],
     pronunciationJa: "けいこうツノキノコ",
   },
+  {
+    en: "Dracolite",
+    ja: "琉鱗石",
+    zhCN: "琉鳞石",
+    tags: [ "specialty", "natlan" ],
+    pronunciationJa: "りゅうりんせき", // TODO need check
+  },
+  {
+    en: "Skysplit Gembloom",
+    ja: "岩裂の花",
+    zhCN: "云岩裂叶",
+    tags: [ "specialty", "natlan" ],
+    pronunciationJa: "がんれつのはな", // TODO need check
+  },
 ]

@@ -186,6 +186,12 @@
     pronunciationJa: "ちんぎょくちゃ",
     tags: [ "food" ],
   },
+  {
+    en: "Magma Eggs",
+    ja: "まっくろタマゴ",
+    zhCN: "乌乌黑蛋",
+    tags: [ "food" ],
+  },
 
   // ★★
   {
@@ -550,6 +556,40 @@
     zhCN: "清心花饼",
     pronunciationJa: "せいしんのはなパイ",
     tags: [ "food" ],
+  },
+  {
+    en: "Forest of Color",
+    ja: "カラフルフォレスト",
+    zhCN: "多彩之森",
+    tags: [ "food" ],
+  },
+  {
+    en: "Grainfruit Chips",
+    ja: "グレインチップス",
+    zhCN: "的粒果片片",
+    tags: [ "food" ],
+  },
+  {
+    en: "Puffed Grainfruit Bars",
+    ja: "グレインスティック",
+    zhCN: "粒果膨膨棒",
+    tags: [ "food" ],
+  },
+  {
+    en: "Cheesy Mushroom Skewer",
+    ja: "チーズとキノコの串焼き",
+    zhCN: "酪烤菇菇串",
+    pronunciationJa: "チーズとキノコのくしやき",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sour Sauce Ceviche",
+    ja: "セビチェ",
+    zhCN: "酸汁腌鱼",
+    tags: [ "food", "natlan", "quest-world" ],
+    notesEn: "Reward for the World Quest \"A Saurian Lover's Ordinary Days\"",
+    notes: "世界任務「とある竜マニアの平凡な暮らし」報酬",
+    notesZh: "世界任务「爱龙人的平凡生活」奖励",
   },
 
   // ★★★
@@ -1031,13 +1071,73 @@
     en: "Fruity Trio",
     ja: "花と果実のトリオ",
     zhCN: "花果三重奏",
+    pronunciationJa: "はなとくだもののトリオ",
+    tags: [ "food" ],
+  },
+  {
+    en: "La Lettre a Focalors",
+    ja: "フォカロルスのために",
+    zhCN: "致水神",
+    tags: [ "food" ],
+  },
+  {
+    en: "Blubber Profiterole",
+    ja: "プクプクシュークリーム",
+    zhCN: "膨膨泡芙",
+    tags: [ "food" ],
+  },
+  {
+    en: "A Magical Mix",
+    ja: "マジックスペシャル",
+    zhCN: "魔术特调",
+    tags: [ "food" ],
+    notes: "v4.8 中に中国で実施された、ケンタッキーフライドチキンとのコラボに伴って配布された飲み物",
+  },
+  {
+    en: "Exclusive Scoop: Gourmet Column",
+    ja: "独占秘話・グルメコラム",
+    zhCN: "独家秘闻·美食专栏",
+    pronunciationJa: "どくせんひわ・グルメコラム",
+    tags: [ "food" ],
+  },
+  {
+    en: "Magmic Ode",
+    ja: "炎岩の歌",
+    pronunciationJa: "えんがんのうた",  // TODO need check
+    zhCN: "炎岩之颂",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fried Shrimp Beanballs",
+    ja: "アカラジェ",
+    zhCN: "炸虾豆球",
+    tags: [ "food" ],
+  },
+  {
+    en: "Tatacos",
+    ja: "タタコス",
+    zhCN: "塔塔可",
     tags: [ "food" ],
   },
   {
     en: "Bathhouse Manjuu",
     ja: "銭湯まんじゅう",
-    pronunciationJa: "せんとうまんじゅう",
     zhCN: "钱汤馒头",
+    pronunciationJa: "せんとうまんじゅう",
+    tags: [ "food" ],
+  },
+  {
+    en: "Saurus Crackers",
+    ja: "ちび竜ビスケット",
+    zhCN: "龙龙饼干",
+    pronunciationJa: "ちびりゅうビスケット",
+    tags: [ "food" ],
+  },
+  {
+    en: "Fruits Aplenty",
+    ja: "豊穣のフルーツジュース",
+    zhCN: "沃陆果饮",
+    pronunciationJa: "ほうじょうのフルーツジュース",
     tags: [ "food" ],
   },
 
@@ -1149,6 +1249,38 @@
     zhCN: "梅落雪间醉",
     tags: [ "food" ],
   },
+  {
+    en: "Puff Pops",
+    ja: "ドキドキポンポン",
+    zhCN: "咚咚嘭嘭",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sing Your Heart Out",
+    ja: "高らかな歌声",
+    zhCN: "纵声欢唱",
+    pronunciationJa: "たからかなうたごえ",
+    tags: [ "food" ],
+  },
+  {
+    en: "Glittering Gemstones",
+    ja: "きらきらジュエリー",
+    zhCN: "宝石闪闪",
+    tags: [ "food" ],
+  },
+  {
+    en: "Hot Spring O'Clock",
+    ja: "温泉タイム",
+    zhCN: "温泉时光",
+    pronunciationJa: "おんせんタイム",
+    tags: [ "food" ],
+  },
+  {
+    en: "Harvest's Boon",
+    ja: "ハーベスト・ブーン",
+    zhCN: "丰稔之赐",
+    tags: [ "food" ],
+  },
 
   // ★★★★★
   {
@@ -1229,48 +1361,9 @@
     tags: [ "food" ],
   },
   {
-    en: "A Magical Mix",
-    ja: "マジックスペシャル",
-    zhCN: "魔术特调",
-    tags: [ "food" ],
-    notes: "v4.8 中に中国で実施された、ケンタッキーフライドチキンとのコラボに伴って配布された飲み物",
-  },
-  {
-    en: "Glittering Gemstones",
-    ja: "きらきらジュエリー",
-    zhCN: "宝石闪闪",
-    tags: [ "food" ],
-  },
-  {
-    en: "Hot Spring O'Clock",
-    ja: "温泉タイム",
-    zhCN: "温泉时光",
-    pronunciationJa: "おんせんタイム",
-    tags: [ "food" ],
-  },
-  {
-    en: "Puff Pops",
-    ja: "ドキドキポンポン",
-    zhCN: "咚咚嘭嘭",
-    tags: [ "food" ],
-  },
-  {
-    en: "Saurus Crackers",
-    ja: "ちび竜ビスケット",
-    zhCN: "龙龙饼干",
-    pronunciationJa: "ちびりゅうビスケット",
-    tags: [ "food" ],
-  },
-  {
     en: "Chocolate",
     ja: "チョコレート",
     zhCN: "巧克力",
-    tags: [ "food" ],
-  },
-  {
-    en: "Fried Shrimp Beanballs",
-    ja: "アカラジェ",
-    zhCN: "炸虾豆球",
     tags: [ "food" ],
   },
   {
@@ -1280,21 +1373,9 @@
     tags: [ "food" ],
   },
   {
-    en: "Forest of Color",
-    ja: "カラフルフォレスト",
-    zhCN: "多彩之森",
-    tags: [ "food" ],
-  },
-  {
     en: "Grainfruit Mear Soup",
     ja: "グレイン・ポソレ",
     zhCN: "粒果肉汤",
-    tags: [ "food" ],
-  },
-  {
-    en: "Grainfruit Chips",
-    ja: "グレインチップス",
-    zhCN: "的粒果片片",
     tags: [ "food" ],
   },
   {
@@ -1324,38 +1405,15 @@
     tags: [ "food" ],
   },
   {
-    en: "Sing Your Heart Out",
-    ja: "高らかな歌声",
-    zhCN: "纵声欢唱",
-    pronunciationJa: "たからかなうたごえ",
-    tags: [ "food" ],
-  },
-  {
     en: "Grainfruit Wrap",
     ja: "グレインラップ",
     zhCN: "粒果裹裹",
     tags: [ "food" ],
   },
   {
-    en: "Sour Sauce Ceviche",
-    ja: "セビチェ",
-    zhCN: "酸汁腌鱼",
-    tags: [ "food", "natlan", "quest-world" ],
-    notesEn: "Reward for the World Quest \"A Saurian Lover's Ordinary Days\"",
-    notes: "世界任務「とある竜マニアの平凡な暮らし」報酬",
-    notesZh: "世界任务「爱龙人的平凡生活」奖励",
-  },
-  {
-    en: "Magmic Ode",
-    ja: "炎岩の歌",
-    pronunciationJa: "えんがんのうた",  // TODO need check
-    zhCN: "炎岩之颂",
-    tags: [ "food" ],
-  },
-  {
-    en: "Tatacos",
-    ja: "タタコス",
-    zhCN: "塔塔可",
+    en: "Cheesy Crab Hotpot",
+    ja: "パステル・デ・ハイバ",
+    zhCN: "酪香蟹蟹锅",
     tags: [ "food" ],
   },
 
@@ -2119,6 +2177,25 @@
     notes: "シトラリのオリジナル料理",
     notesZh: "茜特菈莉的特色料理",
   },
+  {
+    en: "Mt. Mushroom(For One)",
+    ja: "マウント・マッシュルーム(一人前)",
+    zhCN: "菇菇山脉(单人份)",
+    pronunciationJa: "マウント・マッシュルームいちにんまえ",
+    tags: [ "food", "natlan" ],
+    notesEn: "Varesa's specialty",
+    notes: "ヴァレサのオリジナル料理",
+    notesZh: "瓦雷莎的特色料理",
+  },
+  {
+    en: "Gold-Standard Healthy Meal",
+    ja: "ゴールドヘルシーメニュー",
+    zhCN: "金牌健康餐",
+    tags: [ "food", "natlan" ],
+    notesEn: "Iansan's specialty",
+    notes: "イアンサのオリジナル料理",
+    notesZh: "伊安珊的特色料理",
+  },
 
   //
   // Ingredients (食材)
@@ -2357,21 +2434,17 @@
     tags: [ "food", "fontaine" ],
   },
   {
-    en: "La Lettre a Focalors",
-    ja: "フォカロルスのために",
-    zhCN: "致水神",
-    tags: [ "fontaine", "food" ],
+    en: "Grainfruit",
+    ja: "グレインの実",
+    zhCN: "颗粒果",
+    pronunciationJa: "グレインのみ",
+    tags: [ "natlan", "food" ],
   },
   {
-    en: "Blubber Profiterole",
-    ja: "プクプクシュークリーム",
-    zhCN: "膨膨泡芙",
-    tags: [ "fontaine", "food" ],
-  },
-  {
-    en: "Exclusive Scoop: Gourmet Column",
-    ja: "独占秘話·グルメコラム",
-    zhCN: "独家秘闻・美食专栏",
-    tags: [ "fontaine", "food" ],
+    en: "Red Berryshroom",
+    ja: "赤トロピカルキノコ",
+    zhCN: "红果果菇",
+    pronunciationJa: "あかトロピカルキノコ",
+    tags: [ "natlan", "food" ],
   },
 ]

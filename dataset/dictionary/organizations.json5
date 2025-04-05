@@ -524,6 +524,14 @@
     pronunciationJa: "りゅうのいぶつけんきゅうかい",
     tags: [ "natlan", "organization" ],
   },
+  {
+    en: "\"Blood of Egungun\"",
+    ja: "「エグングンの血」", // Notes: イアンサのプロフィール > キャラクターストーリー1より
+    zhCN: "「沃贡贡之血」",
+    pronunciationJa: "エグングンのち",
+    notes: "イアンサが属する部族",
+    tags: [ "natlan" ],
+  },
 
   //
   // Snezhnaya & Fatui
@@ -541,6 +549,28 @@
     pronunciationJa: "ヴォイニッチしょうかい",
     tags: [ "snezhnaya", "organization" ],
     notes: "v5.1 期間限定イベント「百貨珍品」の中で、商人の立本からもたらされた情報",
+  },
+  {
+    en: "LightKeepers",
+    ja: "ライトキーバー",
+    zhCN: "执灯人",
+    notes: "期間限定Webイベント「空月の空」の情報",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "The Wild Hunt",
+    ja: "ワイルドハント",
+    zhCN: "狂猎",
+    notes: "アビスの軍勢。期間限定Webイベント「空月の空」の情報",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Frostmoon Scions",
+    ja: "霜月の子",
+    zhCN: "霜月之子",
+    pronunciationJa: "しもつきのこ",
+    notes: "期間限定Webイベント「空月の空」の情報",
+    tags: [ "snezhnaya" ],
   },
 
   //
