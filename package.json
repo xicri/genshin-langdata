@@ -20,11 +20,11 @@
     "json5": "^2.2.2",
     "klona": "^2.0.4",
     "lodash-es": "^4.17.21",
-    "luxon": "^3.6.0",
+    "luxon": "^3.6.1",
     "marked": "^15.0.7",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.2.5",
-    "vitest": "^3.0.8",
+    "vitest": "^3.1.1",
     "wrangler": "^4.7.2"
   }
 }
