@@ -3022,7 +3022,16 @@
     tags: [ "sumeru", "title" ],
     notesEn: "Nahida's name as a god",
     notes: "ナヒーダの魔神名",
-    notesZh: "纳西妲之魔神的名字",
+    notesZh: "纳西妲的魔神名字",
+  },
+  {
+    en: "Blessed One of Wisdom, Mahakusaladhamma",
+    ja: "摩訶善法マハークサナリ知恵の主",
+    zhCN: "摩诃善法大吉祥智慧主",
+    tags: [ "sumeru", "title" ],
+    notesEn: "The honorific title of Nahida",
+    notes: "ナヒーダの尊称",
+    notesZh: "纳西妲的敬称",
   },
   {
     en: "Sethos",
