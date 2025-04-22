@@ -597,4 +597,11 @@
     pronunciationJa: "しゅばねやまがら・こしゅ",  // TODO Need Check
     tags: [ "natlan", "living-being" ],
   },
+  {
+    en: "Ancient Firewalker Spoonbill",
+    ja: "トモシビヘラサギ・古種",
+    zhCN: "游炎古琵鹭",
+    pronunciationJa: "トモシビヘラサギ・こしゅ",
+    tags: [ "natlan", "living-being" ],
+  },
 ]

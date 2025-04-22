@@ -585,4 +585,11 @@
     pronunciationJa: "あれはてたそうぞうのち",
     tags: [ "natlan", "domain" ],
   },
+  {
+    en: "Rest Area Entrance",
+    ja: "休憩所の入り口",
+    zhCN: "歇息处的入口",
+    pronunciationJa: "きゅうけいしょのいりぐち",
+    tags: [ "natlan", "domain" ],
+  },
 ]
