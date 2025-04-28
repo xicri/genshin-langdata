@@ -204,6 +204,26 @@
 
   // v5.5
   {
+    en: "Quirky Quaking Arena",
+    ja: "たぎれ！奇妙な競技場",
+    zhCN: "奇逸角技隆隆擂台",
+    pronunciationJa: "たぎれきみょうなきょうぎじょう",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v5.5",
+    notes: "v5.5 期間限定イベント",
+    notesZh: "v5.5 中的限时活动",
+  },
+  {
+    en: "Unlimited Fighting Championship",
+    ja: "無差別格闘トーナメント",
+    zhCN: "无极限超激格斗赛",
+    pronunciationJa: "むさべつかくとうトーナメント",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v5.5",
+    notes: "v5.5 期間限定イベント",
+    notesZh: "v5.5 中的限时活动",
+  },
+  {
     en: "Tournament of Glory in Bloom",
     ja: "栄華のバトルアリーナ",
     zhCN: "荣花竞捷之争",

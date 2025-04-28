@@ -2175,6 +2175,13 @@
     tags: [ "natlan", "quest-world" ],
   },
   {
+    en: "The Lone Isle Named Night",
+    ja: "夜という名の孤島",
+    zhCN: "名为夜的孤岛",
+    pronunciationJa: "よるというなのことう",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
     en: "Someday, We All Must Walk Alone",
     ja: "独り立ちの日",
     zhCN: "终有独行之日",
