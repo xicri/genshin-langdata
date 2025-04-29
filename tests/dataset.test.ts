@@ -114,7 +114,7 @@ test("words[].id only includes alphanumerics & hypnens", async () => {
 });
 
 test("if dictionary JSON5s has no duplicate words", async () => {
-  for (const { id, en, ja, zhCN } of words) {
+  for (const { id, en, ja, zhCN, zhTW } of words) {
     ok(words.filter(word => word.en === en).length === 1, `Duplicate English: ${en}`);
     if (ja) {
       ok(
@@ -127,7 +127,14 @@ test("if dictionary JSON5s has no duplicate words", async () => {
       ok(
         words.filter(word => word.zhCN === zhCN).length === 0 ||
         words.filter(word => word.zhCN === zhCN).length === 1,
-        `Duplicate Chinese: ${zhCN}`
+        `Duplicate Simplified Chinese: ${zhCN}`
+      );
+    }
+    if (zhTW) {
+      ok(
+        words.filter(word => word.zhTW === zhTW).length === 0 ||
+        words.filter(word => word.zhTW === zhTW).length === 1,
+        `Duplicate Traditional Chinese: ${zhTW}`
       );
     }
 
@@ -143,7 +150,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
 
     // Required keys
     ok(keys.includes("en"), `Following word does not include English: ${JSON.stringify(word, null, 2)}`);
-    ok(keys.includes("zhCN") || keys.includes("ja"), `Following word does not include neither Japanese nor Chinese: ${JSON.stringify(word, null, 2)}`);
+    ok(keys.includes("zhCN") || keys.includes("zhTW") || keys.includes("ja"), `Following word does not include neither Japanese nor Chinese: ${JSON.stringify(word, null, 2)}`);
 
     // Check if invalid key exists
     for (const key of keys) {
@@ -152,6 +159,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "en" ||
         key === "ja" ||
         key === "zhCN" ||
+        key === "zhTW" ||
         key === "pronunciationJa" ||
         key === "pinyins" ||
         key === "notes" ||
@@ -182,7 +190,8 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         ok(
           variantsKey === "en" ||
           variantsKey === "ja" ||
-          variantsKey === "zhCN" ,
+          variantsKey === "zhCN" ||
+          variantsKey === "zhTW",
           `"variants.${variantsKey}" is not a valid key.`
         );
       }
@@ -195,6 +204,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
             exampleKey === "en" ||
             exampleKey === "ja" ||
             exampleKey === "zhCN" ||
+            exampleKey === "zhTW" ||
             exampleKey === "ref" ||
             exampleKey === "refURL",
             `"examples[].${exampleKey}" is not a valid key.`
@@ -219,6 +229,10 @@ test("if property values of dictionary JSON complies the format.", async () => {
     if (word.zhCN) {
       expect(typeof word.zhCN).toBe("string");
       expect(word.zhCN).equal(word.zhCN.trim());
+    }
+    if (word.zhTW) {
+      expect(typeof word.zhTW).toBe("string");
+      expect(word.zhTW).equal(word.zhTW.trim());
     }
 
     if (typeof word.notesEn !== "undefined") {
@@ -256,7 +270,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
     if (word.variants) {
       expect(typeof word.variants).toBe("object");
 
-      for (const lang of [ "en", "ja", "zhCN" ]) {
+      for (const lang of [ "en", "ja", "zhCN", "zhTW" ]) {
         if (typeof word.variants?.[lang] !== "undefined" && word.variants?.[lang] !== null) {
           ok(Array.isArray(word.variants[lang]), `word.variants.${lang} should be array but actually ${word.variants[lang]}`);
 
@@ -274,6 +288,9 @@ test("if property values of dictionary JSON complies the format.", async () => {
         if (example.zhCN) {
           expect(typeof example.zhCN).toBe("string");
         }
+        if (example.zhTW) {
+          expect(typeof example.zhTW).toBe("string");
+        }
 
         if (typeof example.ref !== "undefined") {
           expect(typeof example.ref).toBe("string");
@@ -285,7 +302,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
       }
     }
 
-    // Check if simplified Chinese contains Japanese characters.
+    // Check if Chinese contains Japanese characters.
     if (word.zhCN) {
       expect(word.zhCN).not.toMatch(/[ぁ-んァ-ヴー]/);
 
@@ -293,7 +310,14 @@ test("if property values of dictionary JSON complies the format.", async () => {
         expect(word.zhCN).not.toContain(jaChar);
       }
     }
-    // Check if Japanese contains simplified Chinese characters.
+    if (word.zhTW) {
+      expect(word.zhTW).not.toMatch(/[ぁ-んァ-ヴー]/);
+
+      for (const jaChar of japaneseChars) {
+        expect(word.zhTW).not.toContain(jaChar);
+      }
+    }
+    // Check if Japanese contains Chinese characters.
     if (word.ja) {
       for (const chZnChar of simplifiedChars) {
         expect(word.ja).not.toContain(chZnChar);
