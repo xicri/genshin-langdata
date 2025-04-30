@@ -1,0 +1,8 @@
+{
+  "json5.schemas": [{
+    "fileMatch": [
+      "./dataset/dictionary/*.json5"
+    ],
+    "url": "./dataset/schema-words.json"
+  }]
+}

@@ -28,7 +28,6 @@ Thumbs.db
 
 # Editors
 .idea/
-.vscode/
 
 # Built files
 dist/
