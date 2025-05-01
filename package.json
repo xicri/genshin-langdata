@@ -8,11 +8,12 @@
     "npm": ">=10.0.0"
   },
   "scripts": {
-    "build": "node scripts/build.js",
+    "build": "jiti scripts/build-prep.ts && jiti scripts/build-release.ts",
     "todo": "jiti scripts/todo.ts",
     "test": "npm run build && vitest run",
     "lint": "npm run build && tsc --noEmit",
-    "release": "./scripts/release.sh"
+    "release": "./scripts/release.sh",
+    "prepare": "jiti scripts/build-prep.ts"
   },
   "dependencies": {
     "dotenv": "^16.5.0",
