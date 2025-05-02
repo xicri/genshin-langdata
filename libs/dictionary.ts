@@ -220,6 +220,8 @@ export class Dictionary {
         return 0; // Keep the order as is
       } else if (updatedOnB < updatedOnA) {
         return -1; // wordA is newer than wordB
+      } else {
+        throw new Error("Something technically wrong in Dictionary.#reverseSortByUpdatedOn()");
       }
     });
   }
