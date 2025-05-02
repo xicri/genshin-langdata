@@ -99,7 +99,7 @@ function isURL(urlStr: string) {
     new URL(urlStr);
     return true;
   } catch (err) {
-    if (err.name === "TypeError") { // invalid URL
+    if (err instanceof Error && err.name === "TypeError") { // invalid URL
       return false;
     } else {
       throw err;

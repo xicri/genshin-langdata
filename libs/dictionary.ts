@@ -163,7 +163,12 @@ export class Dictionary {
         throw new Error("dataset.genshin-dictionary.com unavailable");
       }
     } catch (err) {
-      if (err.name === "FetchError" || err.message === "dataset.genshin-dictionary.com unavailable") {
+      if (
+        err instanceof Error && (
+          err.name === "FetchError" ||
+          err.message === "dataset.genshin-dictionary.com unavailable"
+        )
+      ) {
         console.warn("[WARNING] createdAt is reset since production API is unavailable.");
 
         this.#words = this.#words.map(wordLocal => {
@@ -204,6 +209,13 @@ export class Dictionary {
 
   #reverseSortByUpdatedOn(): void {
     this.#words.sort((wordA, wordB) => {
+      if (!wordA.updatedAt) {
+        throw new Error(`"${ wordA.en }" does not have updatedAt property`)
+      }
+      if (!wordB.updatedAt) {
+        throw new Error(`"${ wordB.en }" does not have updatedAt property`)
+      }
+
       const updatedOnA = DateTime.fromISO(wordA.updatedAt);
       const updatedOnB = DateTime.fromISO(wordB.updatedAt);
 
