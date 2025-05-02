@@ -36,7 +36,7 @@ export function jsonTo(
   // Convert object to lines of CSV
   const lines = objs.map(obj =>
     keys.map(key => {
-      let val = obj[key]?.replaceAll("\"", "\"\"");
+      let val = obj[key]?.toString().replaceAll("\"", "\"\"");
 
       if (typeof val === "undefined") {
         val = "";
