@@ -192,10 +192,10 @@ export class Dictionary {
 
     this.#words = this.#words.map(word => {
       if (word.notes) {
-        word.notes = marked.parseInline(word.notes);
+        word.notes = marked.parseInline(word.notes, { async: false });
       }
       if (word.notesZh) {
-        word.notesZh = marked.parseInline(word.notesZh);
+        word.notesZh = marked.parseInline(word.notesZh, { async: false });
       }
 
       return word;
