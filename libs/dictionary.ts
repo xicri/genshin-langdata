@@ -89,7 +89,7 @@ export class Dictionary {
           .replaceAll("ä", "a") // e.g. diona kätzlein -> diona katzlein
           .replace(/é/g, "e") // e.g. mini seelie: rosé -> mini seelie: rose
           // e.g. the great mountain survey ⅱ -> the great mountain survey 2
-          .replace(/[ⅰ-ⅻ]/g, match => String.fromCharCode(match.charCodeAt() - 8511))
+          .replace(/[ⅰ-ⅻ]/g, match => String.fromCharCode(match.charCodeAt(0) - 8511))
           .replace(/\./g, " ") // e.g. "mt. hulao" -> "mt  hulao"
           .replace(/&/g, " and ") // e.g. "crab ham & veggie bake" -> "crab ham  and  veggie bake"
           .replace(/:/g, " ") // e.g. "battlefront: misty dungeon" -> "battlefront  misty dungeon"
