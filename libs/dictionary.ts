@@ -216,7 +216,7 @@ export class Dictionary {
 
       if (updatedOnA < updatedOnB) {
         return 1; // wordB is newer than wordA
-      } else if (updatedOnA === updatedOnB) {
+      } else if (updatedOnA.toMillis() === updatedOnB.toMillis()) {
         return 0; // Keep the order as is
       } else if (updatedOnB < updatedOnA) {
         return -1; // wordA is newer than wordB
