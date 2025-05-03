@@ -1,7 +1,6 @@
 import { mkdir, open, rm, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import iconv from "iconv-lite";
-import { klona } from "klona/json";
 import { isEqual } from "lodash-es";
 import { DateTime } from "luxon";
 import { marked } from "marked";
@@ -121,12 +120,8 @@ export class Dictionary {
             // ▲▲ Migration ▲▲
 
             if (wordProd.updatedAt) {
-              const _wordLocal = klona(wordLocal);
-              const _wordProd = klona(wordProd);
-              delete _wordLocal.id;
-              delete _wordProd.id;
-              delete _wordProd.createdAt;
-              delete _wordProd.updatedAt;
+              const { id: _, ..._wordLocal } = wordLocal;
+              const { id: __, createdAt, updatedAt, ..._wordProd } = wordProd;
 
               if (isEqual(_wordLocal, _wordProd)) {
                 wordLocal.updatedAt = wordProd.updatedAt;
