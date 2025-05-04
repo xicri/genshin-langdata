@@ -1,4 +1,4 @@
-import type { SourceWord } from "../../libs/types.ts";
+import type { SourceWord } from "../schema.ts";
 
 export default [
   // TODO need check

@@ -9,7 +9,7 @@ import pinyinTone from "pinyin-tone";
 import { jsonTo } from "./utils.ts";
 import { words } from "../dataset/dictionary/index.ts";
 import type { SetOptional } from "type-fest";
-import type { Word, SourceWord } from "./types.ts";
+import type { Word, SourceWord } from "../dataset/schema.ts";
 
 type IntermediateWord = SetOptional<Word, "id">;
 type CsvReadyObject = {

@@ -1,4 +1,4 @@
-import type { Tags } from "../libs/types.ts";
+import type { Tags } from "./schema.ts";
 
 export const tags = {
   "mondstadt": {

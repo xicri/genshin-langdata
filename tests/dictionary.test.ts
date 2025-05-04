@@ -4,7 +4,7 @@ import { DateTime } from "luxon";
 import { expect, test, beforeAll, afterAll } from "vitest";
 
 import { Dictionary } from "../libs/dictionary.ts";
-import type { Word, SourceWord } from "../libs/types.ts";
+import type { Word, SourceWord } from "../dataset/schema.ts";
 
 const consoleInfoOriginal = global.console.info;
 
