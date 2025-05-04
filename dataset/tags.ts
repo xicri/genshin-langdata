@@ -1,4 +1,15 @@
-import type { Tags } from "./schema.ts";
+type Tags = {
+  [tagId: string]: {
+    en: string,
+    ja: string,
+    "zh-CN": string,
+    title: {
+      en: string,
+      ja: string,
+      "zh-CN": string,
+    }
+  }
+};
 
 export const tags = {
   "mondstadt": {
