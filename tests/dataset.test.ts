@@ -270,7 +270,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
     if (word.variants) {
       expect(typeof word.variants).toBe("object");
 
-      for (const lang of [ "en", "ja", "zhCN", "zhTW" ]) {
+      for (const lang of [ "en", "ja", "zhCN", "zhTW" ] as const) {
         if (typeof word.variants?.[lang] !== "undefined" && word.variants?.[lang] !== null) {
           ok(Array.isArray(word.variants[lang]), `word.variants.${lang} should be array but actually ${word.variants[lang]}`);
 
@@ -285,19 +285,19 @@ test("if property values of dictionary JSON complies the format.", async () => {
       for (const example of word.examples) {
         expect(typeof example.en).toBe("string");
         expect(typeof example.ja).toBe("string");
-        if (example.zhCN) {
+        if ("zhCN" in example) {
           expect(typeof example.zhCN).toBe("string");
         }
-        if (example.zhTW) {
+        if ("zhTW" in example) {
           expect(typeof example.zhTW).toBe("string");
         }
 
-        if (typeof example.ref !== "undefined") {
+        if ("ref" in example) {
           expect(typeof example.ref).toBe("string");
         }
 
-        if (typeof example.refURL !== "undefined") {
-          ok(isURL(example.refURL), `Invalid refURL of ${word.en}: ${example.refURL}`);
+        if ("refURL" in example) {
+          ok(isURL(example.refURL ?? ""), `Invalid refURL of ${word.en}: ${example.refURL}`);
         }
       }
     }
