@@ -9,9 +9,9 @@ import pinyinTone from "pinyin-tone";
 import { jsonTo } from "./utils.ts";
 import { words } from "../dataset/dictionary/index.ts";
 import type { SetOptional } from "type-fest";
-import type { Word, SourceWord } from "../dataset/schema.ts";
+import type { BuiltWord, SourceWord } from "../dataset/schema.ts";
 
-type IntermediateWord = SetOptional<Word, "id">;
+type IntermediateWord = SetOptional<BuiltWord, "id">;
 type CsvReadyObject = {
   [key: string]: string | undefined;
 };
@@ -27,7 +27,7 @@ async function writeFileSJIS(file: string, data: string): Promise<void> {
 
 export class Dictionary {
   #words: IntermediateWord[] = [];
-  #dummyWordsProd?: Word[];
+  #dummyWordsProd?: BuiltWord[];
   #loaded: boolean = false;
 
   async load(): Promise<void> {
@@ -49,7 +49,7 @@ export class Dictionary {
    * @returns Promise object
    */
   async loadWithDummies(
-    { wordsLocal, wordsProd }: { wordsLocal: SourceWord[], wordsProd: Word[] }
+    { wordsLocal, wordsProd }: { wordsLocal: SourceWord[], wordsProd: BuiltWord[] }
   ): Promise<void> {
     this.#words = wordsLocal;
     this.#dummyWordsProd = wordsProd;
@@ -107,7 +107,7 @@ export class Dictionary {
       const res = await fetch("https://dataset.genshin-dictionary.com/words.json");
 
       if (res.status < 400 || this.#dummyWordsProd) {
-        const wordsProd: Word[] = this.#dummyWordsProd ?? await res.json() as Word[];
+        const wordsProd: BuiltWord[] = this.#dummyWordsProd ?? await res.json() as BuiltWord[];
 
         this.#words = this.#words.map(wordLocal => {
           const wordProd = wordsProd.find(wordProd => wordLocal.id === wordProd.id);

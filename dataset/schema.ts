@@ -3,7 +3,7 @@ import { tags } from "./tags.ts";
 type TagID = keyof typeof tags;
 
 /** Word object */
-export type Word = {
+export type BuiltWord = {
   /** Slug for this word */
   id: string;
   /** English translation */
@@ -64,6 +64,6 @@ export type Word = {
  * Word object for the source datasets in this repository.
  * Use `Word` type instead for public opendata.
  */
-export type SourceWord = Omit<Word, "id" | "createdAt" | "updatedAt"> & {
-  id?: Word["id"];
+export type SourceWord = Omit<BuiltWord, "id" | "createdAt" | "updatedAt"> & {
+  id?: BuiltWord["id"];
 };

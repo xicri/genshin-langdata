@@ -4,7 +4,7 @@ import { DateTime } from "luxon";
 import { expect, test, beforeAll, afterAll } from "vitest";
 
 import { Dictionary } from "../libs/dictionary.ts";
-import type { Word, SourceWord } from "../dataset/schema.ts";
+import type { BuiltWord, SourceWord } from "../dataset/schema.ts";
 
 const consoleInfoOriginal = global.console.info;
 
@@ -51,7 +51,7 @@ test("addUpdateAt() adds updatedAt properly", async () => {
       id: "some-new-word",
     },
   ];
-  const wordsProd: Word[] = [
+  const wordsProd: BuiltWord[] = [
     // No change
     {
       en: "Amber",
@@ -99,7 +99,7 @@ test("addUpdateAt() adds updatedAt properly", async () => {
   await dic.buildJSON(distDir);
 
   const jsonStr = await readFile(resolve(distDir, "words.json"), { encoding: "utf-8" });
-  const wordsResults = JSON.parse(jsonStr) as Word[];
+  const wordsResults = JSON.parse(jsonStr) as BuiltWord[];
 
   const amber = wordsResults.find(word => word.en === "Amber");
   const outrider = wordsResults.find(word => word.en === "Outrider");
@@ -132,7 +132,7 @@ test("Pinyin's tone numbers are converted properly", async () => {
       tags: [ "inazuma", "location" ],
     },
   ] as const;
-  const wordsProd: Word[] = [
+  const wordsProd: BuiltWord[] = [
     {
       id: "amakumo-peak",
       en: "Amakumo Peak",
