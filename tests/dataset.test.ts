@@ -215,115 +215,438 @@ test("if property values of dictionary JSON complies the format.", async () => {
   }
 });
 
-test("if the each translations do not include characters from the other languages", async () => {
-  const simplifiedChars = [
-    "·", // "・"
-  ];
+test("if the each translations do not include characters from the other languages", {
+  timeout: 45000
+}, async () => {
+  type LangSpecificChars = {
+    ja: string;
+    "zh-CN": string;
+    "zh-TW"?: string;
+  }[];
 
-  const japaneseChars = [
-    "島", // "岛"
-    "鳥", // "鸟"
-    "鳩", // "鸠"
-    "鳴", // "鸣"
-    "竜", // "龙"
-    "災", // "灾"
-    "戦", // "战"
-    "猟", // "猎"
-    "風", // "风"
-    "楓", // "枫"
-    "陣", // "阵"
-    "隕", // "陨"
-    "隊", // "队"
-    "長", // "长"
-    "錬", // "炼"
-    "閉", // "闭"
-    "終", // "终"
-    "絶", // "绝"
-    "紛", // "纷"
-    "納", // "纳"
-    "緑", // "绿"
-    "約", // "约"
-    "綺", // "绮"
-    "結", // "结"
-    "鋸", // "锯"
-    "黒", // "黑"
-    "競", // "竞"
-    "場", // "场"
-    "尋", // "寻"
-    "茲", // "兹"
-    "駄", // "驮"
-    "獣", // "兽"
-    "霊", // "灵"
-    "聖", // "圣"
-    "別", // "别"
-    "庫", // "库"
-    "誇", // "夸"
-    "徳", // "德"
-    "陽", // "阳"
-    "録", // "录"
-    "鈴", // "铃"
-    "偵", // "侦"
-    "夢", // "梦"
-    "見", // "见"
-    "覘", // "觇"
-    "滅", // "灭"
-    "藍", // "蓝"
-    "斎", // "斋"
-    "閣", // "阁"
-    "魚", // "鱼"
-    "鳳", // "凤"
-    "剤", // "剂"
-    "熱", // "热"
-    "誠", // "诚"
-    "話", // "话"
-    "識", // "识"
-    "議", // "议"
-    "謁", // "谒"
-    "脈", // "脉"
-    "単", // "单"
-    "墜", // "坠"
-    "処", // "处"
-    "跡", // "迹"
-    "飲", // "饮"
-    "審", // "审"
-    "庁", // "厅"
-    "廬", // "庐"
-    "離", // "离"
-    "験", // "验"
-    "備", // "备"
-    "僕", // "仆"
-    "倫", // "伦"
-    "団", // "团"
-    "響", // "响"
-    "無", // "无"
-    "執", // "执"
-    "氷", // "冰"
-    "巻", // "卷"
-    "貢", // "贡"
-    "頁", // "页"
-    "盧", // "卢"
+  const langSpecificChars: LangSpecificChars = [
+    {
+      ja: "・",
+      "zh-CN": "·",
+      "zh-TW": "·",
+    },
+    {
+      ja: "島",
+      "zh-CN": "岛",
+      "zh-TW": "島",
+    },
+    {
+      ja: "鳥",
+      "zh-CN": "鸟",
+      "zh-TW": "鳥",
+    },
+    {
+      ja: "鳩",
+      "zh-CN": "鸠",
+    },
+    {
+      ja: "鳴",
+      "zh-CN": "鸣",
+      "zh-TW": "鳴",
+    },
+    {
+      ja: "竜",
+      "zh-CN": "龙",
+    },
+    {
+      ja: "災",
+      "zh-CN": "灾",
+      "zh-TW": "災",
+    },
+    {
+      ja: "戦",
+      "zh-CN": "战",
+    },
+    {
+      ja: "猟",
+      "zh-CN": "猎",
+    },
+    {
+      ja: "風",
+      "zh-CN": "风",
+      "zh-TW": "風",
+    },
+    {
+      ja: "楓",
+      "zh-CN": "枫",
+      "zh-TW": "楓",
+    },
+    {
+      ja: "陣",
+      "zh-CN": "阵",
+      "zh-TW": "陣",
+    },
+    {
+      ja: "隕",
+      "zh-CN": "陨",
+      "zh-TW": "隕",
+    },
+    {
+      ja: "隊",
+      "zh-CN": "队",
+      "zh-TW": "隊",
+    },
+    {
+      ja: "長",
+      "zh-CN": "长",
+      "zh-TW": "長",
+    },
+    {
+      ja: "錬",
+      "zh-CN": "炼",
+    },
+    {
+      ja: "閉",
+      "zh-CN": "闭",
+      "zh-TW": "閉",
+    },
+    {
+      ja: "終",
+      "zh-CN": "终",
+      "zh-TW": "終"
+    },
+    {
+      ja: "絶",
+      "zh-CN": "绝",
+    },
+    {
+      ja: "紛",
+      "zh-CN": "纷",
+      "zh-TW": "紛",
+    },
+    {
+      ja: "納",
+      "zh-CN": "纳",
+      "zh-TW": "納",
+    },
+    {
+      ja: "緑",
+      "zh-CN": "绿",
+    },
+    {
+      ja: "約",
+      "zh-CN": "约",
+      "zh-TW": "約",
+    },
+    {
+      ja: "綺",
+      "zh-CN": "绮",
+      "zh-TW": "綺",
+    },
+    {
+      ja: "結",
+      "zh-CN": "结",
+      "zh-TW": "結",
+    },
+    {
+      ja: "鋸",
+      "zh-CN": "锯",
+      "zh-TW": "鋸",
+    },
+    {
+      ja: "黒",
+      "zh-CN": "黑",
+      "zh-TW": "黑",
+    },
+    {
+      ja: "競",
+      "zh-CN": "竞",
+      "zh-TW": "競",
+    },
+    {
+      ja: "場",
+      "zh-CN": "场",
+      "zh-TW": "場",
+    },
+    {
+      ja: "尋",
+      "zh-CN": "寻",
+      "zh-TW": "尋",
+    },
+    {
+      ja: "茲",
+      "zh-CN": "兹",
+      "zh-TW": "茲",
+    },
+    {
+      ja: "駄",
+      "zh-CN": "驮",
+    },
+    {
+      ja: "獣",
+      "zh-CN": "兽",
+    },
+    {
+      ja: "霊",
+      "zh-CN": "灵",
+    },
+    {
+      ja: "聖",
+      "zh-CN": "圣",
+      "zh-TW": "聖",
+    },
+    {
+      ja: "別",
+      "zh-CN": "别",
+      "zh-TW": "別",
+    },
+    {
+      ja: "庫",
+      "zh-CN": "库",
+      "zh-TW": "庫",
+    },
+    {
+      ja: "誇",
+      "zh-CN": "夸",
+      "zh-TW": "誇",
+    },
+    {
+      ja: "徳",
+      "zh-CN": "德",
+      "zh-TW": "德",
+    },
+    {
+      ja: "陽",
+      "zh-CN": "阳",
+      "zh-TW": "陽",
+    },
+    {
+      ja: "録",
+      "zh-CN": "录",
+    },
+    {
+      ja: "鈴",
+      "zh-CN": "铃",
+      "zh-TW": "鈴",
+    },
+    {
+      ja: "偵",
+      "zh-CN": "侦",
+      "zh-TW": "偵",
+    },
+    {
+      ja: "夢",
+      "zh-CN": "梦",
+      "zh-TW": "夢",
+    },
+    {
+      ja: "見",
+      "zh-CN": "见",
+      "zh-TW": "見",
+    },
+    {
+      ja: "覘",
+      "zh-CN": "觇",
+      "zh-TW": "覘",
+    },
+    {
+      ja: "滅",
+      "zh-CN": "灭",
+      "zh-TW": "滅",
+    },
+    {
+      ja: "藍",
+      "zh-CN": "蓝",
+      "zh-TW": "藍",
+    },
+    {
+      ja: "斎",
+      "zh-CN": "斋",
+    },
+    {
+      ja: "閣",
+      "zh-CN": "阁",
+      "zh-TW": "閣",
+    },
+    {
+      ja: "魚",
+      "zh-CN": "鱼",
+      "zh-TW": "魚",
+    },
+    {
+      ja: "鳳",
+      "zh-CN": "凤",
+    },
+    {
+      ja: "剤",
+      "zh-CN": "剂",
+    },
+    {
+      ja: "熱",
+      "zh-CN": "热",
+      "zh-TW": "熱",
+    },
+    {
+      ja: "誠",
+      "zh-CN": "诚",
+      "zh-TW": "誠",
+    },
+    {
+      ja: "話",
+      "zh-CN": "话",
+      "zh-TW": "話",
+    },
+    {
+      ja: "識",
+      "zh-CN": "识",
+      "zh-TW": "識",
+    },
+    {
+      ja: "議",
+      "zh-CN": "议",
+      "zh-TW": "議",
+    },
+    {
+      ja: "謁",
+      "zh-CN": "谒",
+      "zh-TW": "謁",
+    },
+    {
+      ja: "脈",
+      "zh-CN": "脉",
+      "zh-TW": "脈",
+    },
+    {
+      ja: "単",
+      "zh-CN": "单",
+    },
+    {
+      ja: "墜",
+      "zh-CN": "坠",
+      "zh-TW": "墜",
+    },
+    {
+      ja: "処",
+      "zh-CN": "处",
+    },
+    {
+      ja: "跡",
+      "zh-CN": "迹",
+      "zh-TW": "跡",
+    },
+    {
+      ja: "飲",
+      "zh-CN": "饮",
+      "zh-TW": "飲",
+    },
+    {
+      ja: "審",
+      "zh-CN": "审",
+      "zh-TW": "審",
+    },
+    {
+      ja: "庁",
+      "zh-CN": "厅",
+    },
+    {
+      ja: "廬",
+      "zh-CN": "庐",
+      "zh-TW": "廬",
+    },
+    {
+      ja: "離",
+      "zh-CN": "离",
+      "zh-TW": "離",
+    },
+    {
+      ja: "験",
+      "zh-CN": "验",
+    },
+    {
+      ja: "備",
+      "zh-CN": "备",
+      "zh-TW": "備",
+    },
+    {
+      ja: "僕",
+      "zh-CN": "仆",
+      "zh-TW": "僕",
+    },
+    {
+      ja: "倫",
+      "zh-CN": "伦",
+      "zh-TW": "倫",
+    },
+    {
+      ja: "団",
+      "zh-CN": "团",
+    },
+    {
+      ja: "響",
+      "zh-CN": "响",
+      "zh-TW": "響",
+    },
+    {
+      ja: "無",
+      "zh-CN": "无",
+      "zh-TW": "無",
+    },
+    {
+      ja: "執",
+      "zh-CN": "执",
+      "zh-TW": "執",
+    },
+    {
+      ja: "氷",
+      "zh-CN": "冰",
+      "zh-TW": "冰",
+    },
+    {
+      ja: "巻",
+      "zh-CN": "卷",
+      "zh-TW": "卷",
+    },
+    {
+      ja: "貢",
+      "zh-CN": "贡",
+      "zh-TW": "貢",
+    },
+    {
+      ja: "頁",
+      "zh-CN": "页",
+      "zh-TW": "頁",
+    },
+    {
+      ja: "盧",
+      "zh-CN": "卢",
+      "zh-TW": "盧",
+    },
   ];
 
   for (const word of words) {
-    // Check if Chinese contains Japanese characters.
     if (word.zhCN) {
       expect(word.zhCN).not.toMatch(/[ぁ-んァ-ヴー]/);
-
-      for (const jaChar of japaneseChars) {
-        expect(word.zhCN).not.toContain(jaChar);
-      }
     }
+
     if (word.zhTW) {
       expect(word.zhTW).not.toMatch(/[ぁ-んァ-ヴー]/);
-
-      for (const jaChar of japaneseChars) {
-        expect(word.zhTW).not.toContain(jaChar);
-      }
     }
-    // Check if Japanese contains Chinese characters.
-    if (word.ja) {
-      for (const chZnChar of simplifiedChars) {
-        expect(word.ja).not.toContain(chZnChar);
+
+    for (const char of langSpecificChars) {
+      if (word.ja && word.zhCN) {
+        if (char.ja !== char["zh-CN"]) {
+          expect(word.ja).not.toContain(char["zh-CN"]);
+          expect(word.zhCN).not.toContain(char.ja);
+        }
+      }
+
+      if (word.ja && word.zhTW) {
+        if (char.ja !== char["zh-TW"]) {
+          expect(word.ja).not.toContain(char["zh-TW"]);
+          expect(word.zhTW).not.toContain(char.ja);
+        }
+      }
+
+      if (word.zhCN && word.zhTW) {
+        if (char["zh-CN"] !== char["zh-TW"]) {
+          expect(word.zhCN).not.toContain(char["zh-TW"]);
+          expect(word.zhTW).not.toContain(char["zh-CN"]);
+        }
       }
     }
   }
