@@ -8,6 +8,8 @@ on:
     branches:
       - main
 
+permissions: {}
+
 jobs:
   preview:
     if: ${{ github.ref != 'refs/heads/main' }}
