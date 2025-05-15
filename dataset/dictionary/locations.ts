@@ -220,7 +220,7 @@ export default [
     zhCN: "风龙废墟",
     zhTW: "風龍廢墟",
     pronunciationJa: "ふうりゅうはいきょ",
-    tags: [ "mondstadt", "location" ],
+    tags: [ "mondstadt", "location", "domain" ],
   },
 
   {

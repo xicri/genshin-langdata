@@ -2241,6 +2241,14 @@ export default [
     notes: "かつてエカトルの意識が入れられ、今は機能を止めた秘源の龍従",
     tags: [ "item", "natlan" ],
   },
+  {
+    en: "Dazzling, Mysterious Gift",
+    ja: "煌めく神秘的なギフト",
+    zhCN: "绮灿而神秘的赠礼",
+    zhTW: "綺燦而神秘的贈禮",
+    pronunciationJa: "きらめくしんぴてきなギフト",
+    tags: [ "item", "mondstadt" ],
+  },
 
   //
   // Dresesings
