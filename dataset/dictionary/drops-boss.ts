@@ -590,4 +590,12 @@ export default [
     pronunciationJa: "りゅうぞうのむちなるコア",
     tags: [ "natlan", "drop-boss" ],
   },
+  {
+    en: "Secret Source Airflow Accumulator",
+    ja: "秘源の蓄圧機",
+    zhCN: "秘源积气喉",
+    zhTW: "秘源積氣喉",
+    pronunciationJa: "ひげんのちくあつき",
+    tags: [ "natlan", "drop-boss" ],
+  },
 ] as const satisfies SourceWord[];

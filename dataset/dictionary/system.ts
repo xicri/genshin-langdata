@@ -817,6 +817,18 @@ export default [
   },
 
   //
+  // Monstadt
+  //
+  {
+    en: "The Mages' Tea Party",
+    ja: "魔女のお茶会",
+    zhCN: "魔女的茶会",
+    zhTW: "魔女的茶會",
+    pronunciationJa: "まじょのおちゃかい",
+    tags: [ "mondstadt" ],
+  },
+
+  //
   // Inazuma
   //
   {

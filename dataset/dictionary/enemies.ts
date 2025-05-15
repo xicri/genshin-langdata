@@ -1162,6 +1162,22 @@ export default [
     notes: "無相の雷のコードネーム",
   },
   {
+    en: "Ascended King",
+    ja: "昇揚のキング",
+    zhCN: "升扬之王",
+    zhTW: "昇揚之王",
+    pronunciationJa: "しょうようのキング",
+    tags: [ "enemy-boss", "mondstadt" ],
+  },
+  {
+    en: "Sublimated Queen",
+    ja: "昇華のクイーン",
+    zhCN: "升华之后",
+    zhTW: "昇華之后",
+    pronunciationJa: "しょうかのクイーン",
+    tags: [ "enemy-boss", "mondstadt" ],
+  },
+  {
     en: "Geo Hypostasis",
     ja: "無相の岩",
     zhCN: "无相之岩",
@@ -3035,6 +3051,14 @@ export default [
     zhCN: "熔岩辉龙像",
     zhTW: "熔岩輝龍像",
     pronunciationJa: "かがやけるようがんのりゅうぞう",
+    tags: [ "natlan", "enemy-boss" ],
+  },
+  {
+    en: "Secret Source Automation: Overseer Device",
+    ja: "秘源機兵・統御デバイス",
+    zhCN: "秘源机兵·统御械",
+    zhTW: "秘源機兵·統御械",
+    pronunciationJa: "ひげんきへいとうぎょデバイス",
     tags: [ "natlan", "enemy-boss" ],
   },
 ] as const satisfies SourceWord[];

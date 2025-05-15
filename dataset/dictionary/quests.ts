@@ -38,6 +38,15 @@ export default [
     tags: [ "mondstadt", "quest-archon" ],
     notes: "魔神任務序章第三幕",
   },
+  {
+    en: "Paralogism",
+    ja: "背理",
+    zhCN: "悖理",
+    zhTW: "悖理",
+    pronunciationJa: "はいり",
+    tags: [ "mondstadt", "quest-archon" ],
+    notes: "魔神任務第間章第四幕",
+  },
 
   // Liyue
   {
@@ -356,7 +365,7 @@ export default [
     zhTW: "熾烈的還魂詩",
     pronunciationJa: "しゃくれつのはんごんのうた",
     tags: [ "natlan", "quest-archon" ],
-    notes: "魔神任務第五章五幕",
+    notes: "魔神任務第五章第五幕",
   },
 
   {
@@ -2971,8 +2980,17 @@ export default [
     ja: "不敗の日輪の章",
     zhCN: "不敗阳焔之章",
     zhTW: "不敗陽焔之章",
+    pronunciationJa: "ふはいのにちりんのしょう",
     notes: "マーヴィカの伝説任務",
     tags: [ "natlan", "quest-story" ],
+  },
+  {
+    en: "Dulciaria Structura Chapter",
+    ja: "ピエス・モンテの章",
+    zhCN: "香糕塔之章",
+    zhTW: "香糕塔之章",
+    notes: "エスコフィエの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
   },
 
   //

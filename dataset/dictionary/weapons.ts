@@ -1164,6 +1164,14 @@ export default [
     pronunciationJa: "ルミドゥースのばんか",
     tags: [ "weapon", "polearm" ],
   },
+  {
+    en: "Symphonist of Scents",
+    ja: "香りのシンフォニスト",
+    zhCN: "香韵奏者",
+    zhTW: "香韻奏者",
+    pronunciationJa: "かおりのシンフォニスト",
+    tags: [ "weapon", "polearm" ],
+  },
 
   //
   // Bows
@@ -1442,6 +1450,18 @@ export default [
     zhCN: "缀花之翎",
     zhTW: "綴花之翎",
     pronunciationJa: "かねかざりのはね",
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "Sequence of Solitude",
+    ja: "冷寂の音",
+    zhCN: "冷寂迸音",
+    zhTW: "冷寂迸音",
+    pronunciationJa: "れいじゃくのね / れいじゃくのおと",
+    notesEn: "v5.6 Limited Time Event \"Whirling Waltz\" Reward",
+    notes: "v5.6 期間限定イベント「ハーモニック・ワルツ」報酬",
+    notesZh: "v5.6 限时活动「和旋舞剧」奖励",
+    
     tags: [ "weapon", "bow" ],
   },
   // ★5

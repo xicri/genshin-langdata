@@ -1474,6 +1474,20 @@ export default [
     zhTW: "豐稔之賜",
     tags: [ "food" ],
   },
+  {
+    en: "Candy Shells",
+    ja: "シェルキャンディー",
+    zhCN: "贝壳彩糖",
+    zhTW: "貝殻彩糖",
+    tags: [ "food" ],
+  },
+  {
+    en: "Petit Gateau Debord: Revised Version",
+    ja: "ミニドゥボールケーキ・改良版",
+    zhCN: "德波小蛋糕·改良型",
+    zhTW: "德波小蛋糕·改良型",
+    tags: [ "food" ],
+  },
 
   // ★★★★★
   {
@@ -2395,6 +2409,16 @@ export default [
     tags: [ "food", "fontaine" ],
     notes: "エミリエのオリジナル料理",
   },
+  {
+    en: "Gateau Debord: Magnifique",
+    ja: "ドゥボールケーキ・デラックス",
+    zhCN: "德波大蛋糕·绚丽型",
+    zhTW: "德波大蛋糕·絢麗型",
+    tags: [ "food", "fontaine" ],
+    notesEn: "Escoffier's specialty",
+    notes: "エスコフィエのオリジナル料理",
+    notesZh: "爱可菲的特色料理",
+  },
 
   // Natlan
   {
@@ -2501,6 +2525,16 @@ export default [
     notesEn: "Iansan's specialty",
     notes: "イアンサのオリジナル料理",
     notesZh: "伊安珊的特色料理",
+  },
+  {
+    en: "Emotional Support",
+    ja: "心の支え",
+    zhCN: "情感支持",
+    zhTW: "感情支持",
+    tags: [ "food", "natlan" ],
+    notesEn: "Ifa's specialty",
+    notes: "イファのオリジナル料理",
+    notesZh: "伊法的特色料理",
   },
 
   //
