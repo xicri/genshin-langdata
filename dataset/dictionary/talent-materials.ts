@@ -79,7 +79,7 @@ export default [
     zhCN: "升扬样本·骑士",
     zhTW: "升揚樣本·騎士",
     pronunciationJa: "しょうようのサンプルナイト",
-    tags: [ "talent-material", "mondstadt" ],
+    tags: [ "drop-boss", "mondstadt" ],
   },
   {
     en: "Ascended Sample: Queen",
@@ -87,7 +87,7 @@ export default [
     zhCN: "升扬样本·王族",
     zhTW: "升揚樣本·王族",
     pronunciationJa: "しょうようのサンプルおうぞく",
-    tags: [ "talent-material", "mondstadt" ],
+    tags: [ "drop-boss", "mondstadt" ],
   },
   {
     en: "Ascended Sample: Rook",
@@ -95,7 +95,7 @@ export default [
     zhCN: "升扬样本·战车",
     zhTW: "升揚樣本·戰車",
     pronunciationJa: "しょうようのサンプルルーク",
-    tags: [ "talent-material", "mondstadt" ],
+    tags: [ "drop-boss", "mondstadt" ],
   },
   {
     en: "Teachings of Prosperity",
