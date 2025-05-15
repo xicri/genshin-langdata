@@ -159,7 +159,7 @@ export default [
   },
   {
     en: "Naberius",
-    ja: "ナベリウス",  // notes: 魔人任務「背理」で名前が出て来る
+    ja: "ナベリウス",  // Mentioned in an archon quest "Paralogism"
     zhCN: "纳贝里士",
     zhTW: "納貝里士",
     tags: [ "mondstadt", "khaenriah", "character-sub" ],
@@ -169,7 +169,7 @@ export default [
   },
   {
     en: "Ruler of Life",
-    ja: "生の執政",  // notes: 魔人任務「背理」で名前が出て来る
+    ja: "生の執政",  // Mentioned in an archon quest "Paralogism"
     zhCN: "生之执政",
     zhTW: "生之執政",
     pronunciationJa: "せいのしっせい",
