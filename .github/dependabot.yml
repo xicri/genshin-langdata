@@ -7,15 +7,6 @@ updates:
     assignees:
       - "xicri"
     groups:
-      security:
-        applies-to: "security-updates"
-        update-types:
-          - "minor"
-          - "patch"
-      security-breaking:
-        applies-to: "security-updates"
-        update-types:
-          - "major"
       compatible:
         applies-to: "version-updates"
         update-types:
@@ -28,3 +19,12 @@ updates:
       interval: "weekly"
     assignees:
       - "xicri"
+    groups:
+      security:
+        applies-to: "security-updates"
+        patterns:
+          - "*"
+      normal:
+        applies-to: "version-updates"
+        patterns:
+          - "*"
