@@ -13,6 +13,19 @@ Use API: https://dataset.genshin-dictionary.com/words.json
 Translation dataset for Genshin Dictionary is included in [dataset/](https://github.com/xicri/genshin-langdata/tree/main/dataset) directry.
 The dataset is written in JSON5.
 
+### Requirements
+
+- Node.js (The latest LTS recommended)
+- Corepack (The latest version recommended)
+  - Corepack should be bundled with Node.js as of Node.js v22, but it is planned to be separately distributed in the future versions.
+
+### Set up
+
+```sh
+corepack use pnpm@10
+pnpm install
+```
+
 ### Directory structure
 
 ```
@@ -36,11 +49,11 @@ See [API document](https://genshin-dictionary.com/opendata/). (Currently only Ja
 
 #### pinyins
 
-When you add Chinese pronunciation in pinyin, you can use tone numbers (e.g. `qia3`) in source JSON5 files. It is transformed to tone letters (e.g. `qiǎ`) on build.
+When you add Chinese pronunciation in pinyin, you can use tone numbers (e.g. `qia3`) in source TypeScript files under dataset/dictionary/. It is transformed to tone letters (e.g. `qiǎ`) on build.
 
 e.g.
 
-```json5
+```ts
   {
     // ...
     zhCN: "天云峠",
