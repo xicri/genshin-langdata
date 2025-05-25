@@ -578,10 +578,10 @@ export default [
   },
   {
     en: "Nighttime Whispers in the Echoing Woods",
-    ja: "残暑の森で囁かれる夜話",
+    ja: "残響の森で囁かれる夜話",
     zhCN: "回声之林夜话",
     zhTW: "回聲之林夜話",
-    pronunciationJa: "ざんしょのもりでささやかれるよばなし",
+    pronunciationJa: "ざんきょうのもりでささやかれるよばなし",
     tags: [ "artifact" ],
   },
   {
