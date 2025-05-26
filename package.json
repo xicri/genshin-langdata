@@ -3,16 +3,14 @@
   "private": true,
   "license": "SEE LICENSE IN LICENSE.md",
   "type": "module",
-  "engines": {
-    "node": "22.x",
-    "npm": ">=10.0.0"
-  },
   "scripts": {
     "build": "jiti scripts/build-prep.ts && jiti scripts/build-release.ts",
     "todo": "jiti scripts/todo.ts",
-    "test": "npm run build && vitest run",
-    "lint": "npm run build && tsc --noEmit",
+    "test": "pnpm build && vitest run",
+    "lint": "pnpm build && tsc --noEmit",
     "release": "./scripts/release.sh",
+    "clean": "git clean -dX --exclude=\"!.env\" --force",
+    "refresh": "pnpm clean && rm --force ./pnpm-lock.yaml && corepack up && pnpm install",
     "prepare": "jiti scripts/build-prep.ts"
   },
   "dependencies": {
@@ -31,5 +29,10 @@
     "typescript": "^5.2.2",
     "vitest": "^3.1.4",
     "wrangler": "^4.16.1"
-  }
+  },
+  "engines": {
+    "node": "22.x",
+    "pnpm": ">=10"
+  },
+  "packageManager": "pnpm@10.11.0+sha512.6540583f41cc5f628eb3d9773ecee802f4f9ef9923cc45b69890fb47991d4b092964694ec3a4f738a420c918a333062c8b925d312f42e4f0c263eb603551f977"
 }
