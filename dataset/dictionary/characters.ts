@@ -7733,7 +7733,7 @@ export default [
   {
     en: "Sage-Lord of Fungi",
     ja: "キノコの賢主",
-    zhCN: "蕈之賢主",
+    zhCN: "蕈之贤主",
     zhTW: "蕈之賢主",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
     tags: [ "natlan", "character-sub", "sumeru", "title", "how-to-call" ],
@@ -7777,7 +7777,7 @@ export default [
     zhTW: "比夫蘢",
     notesEn: "Sage-Lord of Fungi's name as a god",
     notes: "「キノコの賢主」の魔神名",
-    notesZh: "蕈之賢主之魔神的名字",
+    notesZh: "蕈之贤主之魔神的名字",
     tags: [ "natlan", "sumeru", "character-sub" ],
   },
   {

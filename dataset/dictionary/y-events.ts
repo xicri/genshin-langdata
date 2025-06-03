@@ -481,7 +481,7 @@ export default [
   {
     en: "Nampole",
     ja: "ナンポール",
-    zhCN: "纳博爾",
+    zhCN: "纳博尔",
     zhTW: "納博爾",
     notes: "v5.5 期間限定イベント「栄華のバトルアリーナ」に登場する人物",
     tags: [ "event", "natlan", "character-sub" ],
