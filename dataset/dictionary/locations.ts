@@ -3139,7 +3139,6 @@ export default [
     zhCN: "挪德卡莱",
     zhTW: "挪德卡萊",
     tags: [ "nodkrai", "location" ],
-    notes: "v5.1 期間限定イベント「百貨珍品」の中で、商人の立本からもたらされた情報",
   },
   {
     en: "Hiisi Island",
