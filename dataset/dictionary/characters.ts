@@ -7990,7 +7990,7 @@ export default [
     zhTW: "雪國的妖精",
     notes: "期間限定Webイベント「空月の歌」の情報",
     pronunciationJa: "ゆきぐにのようせい",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "nodkrai", "character-sub" ],
   },
 
   //
