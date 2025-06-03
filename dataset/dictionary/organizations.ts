@@ -2,7 +2,7 @@ import type { SourceWord } from "../../libs/types.ts";
 
 export default [
   //
-  // General
+  // Global
   //
   {
     en: "Adventurers' Guild",
@@ -11,6 +11,13 @@ export default [
     zhTW: "冒險家協會",
     pronunciationJa: "ぼうけんしゃきょうかい",
     tags: [ "organization" ],
+  },
+  {
+    en: "Fatui",
+    ja: "ファデュイ / 愚人衆",
+    zhCN: "愚人众",
+    zhTW: "愚人眾",
+    tags: [ "fatui", "organization" ],
   },
 
   //
@@ -601,17 +608,6 @@ export default [
     pronunciationJa: "エグングンのち",
     notes: "イアンサが属する部族",
     tags: [ "natlan" ],
-  },
-
-  //
-  // Snezhnaya & Fatui
-  //
-  {
-    en: "Fatui",
-    ja: "ファデュイ / 愚人衆",
-    zhCN: "愚人众",
-    zhTW: "愚人眾",
-    tags: [ "fatui", "organization" ],
   },
 
   //
