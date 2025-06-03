@@ -14,7 +14,7 @@ export default [
   },
   {
     en: "Fatui",
-    ja: "ファデュイ / 愚人衆",
+    ja: "ファデュイ",
     zhCN: "愚人众",
     zhTW: "愚人眾",
     tags: [ "fatui", "organization" ],
