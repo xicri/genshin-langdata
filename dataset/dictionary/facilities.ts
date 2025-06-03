@@ -565,7 +565,20 @@ export default [
   },
 
   //
-  // Snezhnaya & Fatui
+  // Nod-Krai
+  //
+  {
+    en: "Clink-Clank Krumkake Craftshop",
+    ja: "カチャカチャ・クルムカケ工房",
+    zhCN: "叮铃哐啷蛋卷工坊",
+    zhTW: "叮鈴哐啷蛋卷工坊",
+    notes: "期間限定Webイベント「空月の歌」の情報",
+    pronunciationJa: "カチャカチャ・クルムカケこうぼう",
+    tags: [ "nodkrai", "facility" ],
+  },
+
+  //
+  // Snezhnaya
   //
 
   // TODO need check
@@ -576,14 +589,5 @@ export default [
     zhTW: "北國銀行",
     pronunciationJa: "きたくにぎんこう",
     tags: [ "snezhnaya", "liyue", "fontaine", "facility" ],
-  },
-  {
-    en: "Clink-Clank Krumkake Craftshop",
-    ja: "カチャカチャ・クルムカケ工房",
-    zhCN: "叮铃哐啷蛋卷工坊",
-    zhTW: "叮鈴哐啷蛋卷工坊",
-    notes: "期間限定Webイベント「空月の歌」の情報",
-    pronunciationJa: "カチャカチャ・クルムカケこうぼう",
-    tags: [ "nodkrai", "facility" ],
   },
 ] as const satisfies SourceWord[];
