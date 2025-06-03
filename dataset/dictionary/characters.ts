@@ -7943,6 +7943,19 @@ export default [
   },
 
   //
+  // Nod-Krai
+  //
+  {
+    en: "Snowland Fae",
+    ja: "雪国の妖精",
+    zhCN: "雪国的妖精",
+    zhTW: "雪國的妖精",
+    notes: "期間限定Webイベント「空月の歌」の情報",
+    pronunciationJa: "ゆきぐにのようせい",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+
+  //
   // Snezhnaya
   //
   {
@@ -7981,15 +7994,6 @@ export default [
     notes: "初代氷神。期間限定Webイベント「空月の歌」の情報",
     notesEn: "first Cryo Archon",
     notesZh: "初代冰神",
-    tags: [ "snezhnaya", "character-sub" ],
-  },
-  {
-    en: "Snowland Fae",
-    ja: "雪国の妖精",
-    zhCN: "雪国的妖精",
-    zhTW: "雪國的妖精",
-    notes: "期間限定Webイベント「空月の歌」の情報",
-    pronunciationJa: "ゆきぐにのようせい",
     tags: [ "snezhnaya", "character-sub" ],
   },
 

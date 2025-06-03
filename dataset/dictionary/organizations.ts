@@ -2,7 +2,7 @@ import type { SourceWord } from "../../libs/types.ts";
 
 export default [
   //
-  // General
+  // Global
   //
   {
     en: "Adventurers' Guild",
@@ -11,6 +11,13 @@ export default [
     zhTW: "冒險家協會",
     pronunciationJa: "ぼうけんしゃきょうかい",
     tags: [ "organization" ],
+  },
+  {
+    en: "Fatui",
+    ja: "ファデュイ",
+    zhCN: "愚人众",
+    zhTW: "愚人眾",
+    tags: [ "fatui", "organization" ],
   },
 
   //
@@ -604,22 +611,15 @@ export default [
   },
 
   //
-  // Snezhnaya & Fatui
+  // Nod-Krai
   //
-  {
-    en: "Fatui",
-    ja: "ファデュイ / 愚人衆",
-    zhCN: "愚人众",
-    zhTW: "愚人眾",
-    tags: [ "fatui", "organization" ],
-  },
   {
     en: "Voynich Guild",
     ja: "ヴォイニッチ商会",
     zhCN: "伏尼契商会",
     zhTW: "伏尼契商會",
     pronunciationJa: "ヴォイニッチしょうかい",
-    tags: [ "snezhnaya", "organization" ],
+    tags: [ "nodkrai", "organization" ],
     notes: "v5.1 期間限定イベント「百貨珍品」の中で、商人の立本からもたらされた情報",
   },
   {
@@ -628,7 +628,7 @@ export default [
     zhCN: "执灯人",
     zhTW: "執燈人",
     notes: "期間限定Webイベント「空月の空」の情報",
-    tags: [ "snezhnaya", "organization" ],
+    tags: [ "nodkrai", "organization" ],
   },
   {
     en: "The Wild Hunt",
@@ -636,7 +636,7 @@ export default [
     zhCN: "狂猎",
     zhTW: "狂獵",
     notes: "アビスの軍勢。期間限定Webイベント「空月の空」の情報",
-    tags: [ "snezhnaya", "organization" ],
+    tags: [ "nodkrai", "organization" ],
   },
   {
     en: "Frostmoon Scions",
@@ -645,7 +645,7 @@ export default [
     zhTW: "霜月之子",
     pronunciationJa: "しもつきのこ",
     notes: "期間限定Webイベント「空月の空」の情報",
-    tags: [ "snezhnaya" ],
+    tags: [ "nodkrai" ],
   },
 
   //
