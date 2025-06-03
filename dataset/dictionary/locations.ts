@@ -3116,6 +3116,25 @@ export default [
   },
 
   //
+  // Nod-Krai
+  //
+  {
+    en: "Nod-Krai",
+    ja: "ナド・クライ",
+    zhCN: "挪德卡莱",
+    zhTW: "挪德卡萊",
+    tags: [ "nodkrai", "location" ],
+  },
+  {
+    en: "Hiisi Island",
+    ja: "ヒーシ島",
+    zhCN: "希汐岛",
+    zhTW: "希汐島",
+    tags: [ "nodkrai", "location" ],
+    notes: "期間限定Webイベント「空月の歌」の情報",
+  },
+
+  //
   // Snezhnaya
   //
   {
@@ -3132,21 +3151,6 @@ export default [
     zhTW: "至冬宮",
     tags: [ "snezhnaya", "location", "facility" ],
     notes: "Zapolyarny はロシア北西部に実在する町の名前",
-  },
-  {
-    en: "Nod-Krai",
-    ja: "ナド・クライ",
-    zhCN: "挪德卡莱",
-    zhTW: "挪德卡萊",
-    tags: [ "nodkrai", "location" ],
-  },
-  {
-    en: "Hiisi Island",
-    ja: "ヒーシ島",
-    zhCN: "希汐岛",
-    zhTW: "希汐島",
-    tags: [ "nodkrai", "location" ],
-    notes: "期間限定Webイベント「空月の歌」の情報",
   },
 
   //
