@@ -584,6 +584,6 @@ export default [
     zhTW: "叮鈴哐啷蛋卷工坊",
     notes: "期間限定Webイベント「空月の歌」の情報",
     pronunciationJa: "カチャカチャ・クルムカケこうぼう",
-    tags: [ "snezhnaya", "facility" ],
+    tags: [ "nodkrai", "facility" ],
   },
 ] as const satisfies SourceWord[];
