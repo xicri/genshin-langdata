@@ -232,6 +232,36 @@ export default [
 
   // v5.6
   {
+    en: "Legends Ablaze: Cross-Border Brawl",
+    ja: "灼熱伝説・クロスオーバー大乱闘",
+    zhCN: "炽烈传说·跨界乱斗",
+    zhTW: "熾烈傳說·跨界亂鬥",
+    tags: [ "event", "natlan" ],
+    notesEn: "Limited Time Event in v5.6",
+    notes: "v5.6 期間限定イベント",
+    notesZh: "v5.6 中的限时活动",
+  },
+  {
+    en: "Operation Downpour Simulation",
+    ja: "豪雨演習",
+    zhCN: "雨阵奔流之述演",
+    zhTW: "雨陣奔流之述演",
+    tags: [ "event", "fontaine" ],
+    notesEn: "Limited Time Event in v5.6",
+    notes: "v5.6 期間限定イベント",
+    notesZh: "v5.6 中的限时活动",
+  },
+  {
+    en: "Chronicle of Shifting Stratagems",
+    ja: "智将戦記",
+    zhCN: "机谋变策战记",
+    zhTW: "機謀變策戰記",
+    tags: [ "event", "fontaine" ],
+    notesEn: "Limited Time Event in v5.6",
+    notes: "v5.6 期間限定イベント",
+    notesZh: "v5.6 中的限时活动",
+  },
+  {
     en: "Whirling Waltz",
     ja: "ハーモニック・ワルツ",
     zhCN: "和旋舞剧",

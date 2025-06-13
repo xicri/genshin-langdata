@@ -85,6 +85,18 @@ export const tags = {
       "zh-TW": "關於納塔的詞語的英語和日語翻譯"
     }
   },
+  "nodkrai": {
+    "en": "Nod-Krai",
+    "ja": "ナド・クライ",
+    "zh-CN": "挪德卡莱",
+    "zh-TW": "挪德卡萊",
+    "title": {
+      "en": "Chinese & Japanese translations for words related to Nod-Krai",
+      "ja": "ナド・クライに関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于挪德卡莱的词语的英语和日语翻译",
+      "zh-TW": "關於挪德卡萊的詞語的英語和日語翻譯"
+    }
+  },
   "snezhnaya": {
     "en": "Snezhnaya",
     "ja": "スネージナヤ",
