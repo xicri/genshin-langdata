@@ -5950,8 +5950,8 @@ export default [
   {
     en: "Baraka",
     ja: "バレカ", // Notes: アイテム「聖宵の旅織り」で確認
-    zhCN: "巴菜卡",
-    zhTW: "巴菜卡",
+    zhCN: "巴莱卡",
+    zhTW: "巴萊卡",
     notesEn: "Ancient names inherited by Xilonen",
     notes: "シロネンが継承した古名",
     notesZh: "希诺宁继承的古名",
