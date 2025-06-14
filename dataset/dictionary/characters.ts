@@ -5824,8 +5824,8 @@ export default [
   {
     en: "Hilaire",
     ja: "イレイル",
-    zhCN: "伊菜尔",
-    zhTW: "伊菜爾",
+    zhCN: "伊莱尔",
+    zhTW: "伊萊爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "エスコフィエの伝説任務に登場する人物",
   },
