@@ -539,6 +539,7 @@ export default [
     pronunciationJa: "いせきじゅんししゃ",
     tags: [ "enemy" ],
     pinyins: [{ char: "弋", pron: "yi4" }],
+    zhuyins: [{ char: "弋", pron: "ㄧˋ" }],
   },
   {
     en: "Ruin Scout",
@@ -934,6 +935,7 @@ export default [
       zhTW: [ "火槍" ],
     },
     pinyins: [{ char: "铳", pron: "chong4" }],
+    zhuyins: [{ char: "銃", pron: "ㄔㄨㄥˋ" }],
   },
   {
     en: "Fatui Skirmisher - Geochanter Bracer",
@@ -961,6 +963,7 @@ export default [
       zhTW: [ "冰槍" ],
     },
     pinyins: [{ char: "铳", pron: "chong4" }],
+    zhuyins: [{ char: "銃", pron: "ㄔㄨㄥˋ" }],
   },
   {
     en: "Fatui Skirmisher - Hydrogunner Legionnaire",
@@ -975,6 +978,7 @@ export default [
       zhTW: [ "水胖" ],
     },
     pinyins: [{ char: "铳", pron: "chong4" }],
+    zhuyins: [{ char: "銃", pron: "ㄔㄨㄥˋ" }],
   },
   {
     en: "Fatui Skirmisher - Anemoboxer Vanguard",
@@ -1412,6 +1416,7 @@ export default [
     pronunciationJa: "ばっせい",
     tags: [ "enemy-boss", "liyue" ],
     pinyins: [{ char: "跋", pron: "ba2" }, { char: "掣", pron: "che4" }],
+    zhuyins: [{ char: "跋", pron: "ㄅㄚˊ" }, { char: "掣", pron: "ㄔㄜˋ" }],
   },
   {
     en: "The Avenger of the Vortex",
@@ -1649,6 +1654,7 @@ export default [
     pronunciationJa: "こくじゃきし・さいがんのおの", // TODO Need Check
     tags: [ "enemy" ],
     pinyins: [{ char: "钺", pron: "yue4" }],
+    zhuyins: [{ char: "鉞", pron: "ㄩㄝˋ" }],
   },
   {
     en: "The Black Serpents",
@@ -1668,6 +1674,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Fungi で、原義は「菌類」。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Floating Hydro Fungus",
@@ -1677,6 +1684,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Floating Hydro Fungi。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Floating Dendro Fungus",
@@ -1686,6 +1694,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Floating Dendro Fungi。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Stretchy Anemo Fungus",
@@ -1695,6 +1704,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Stretchy Anemo Fungi と思われる。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Stretchy Geo Fungus",
@@ -1704,6 +1714,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Stretchy Geo Fungi と思われる。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Stretchy Pyro Fungus",
@@ -1713,6 +1724,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Stretchy Pyro Fungi と思われる。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Whirling Electro Fungus",
@@ -1722,6 +1734,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Electro Fungi と思われる。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Whirling Cryo Fungus",
@@ -1731,6 +1744,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Cryo Fungi と思われる。",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Whirling Pyro Fungus",
@@ -1740,6 +1754,7 @@ export default [
     tags: [ "enemy", "sumeru" ],
     notes: "英語の複数形は Whirling Pyro Fungi と思われる",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Grounded Hydroshroom",
@@ -1748,6 +1763,7 @@ export default [
     zhTW: "陸行水本真蕈",
     tags: [ "enemy", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Grounded Geoshroom",
@@ -1756,6 +1772,7 @@ export default [
     zhTW: "陸行巖本真蕈",
     tags: [ "enemy", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Winged Dendroshroom",
@@ -1764,6 +1781,7 @@ export default [
     zhTW: "有翼草本真蕈",
     tags: [ "enemy", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Winged Cryoshroom",
@@ -1772,6 +1790,7 @@ export default [
     zhTW: "有翼冰本真蕈",
     tags: [ "enemy", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Jadeplume Terrorshroom",
@@ -1780,6 +1799,7 @@ export default [
     zhTW: "翠翎恐蕈",
     tags: [ "enemy-boss", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
 
   {

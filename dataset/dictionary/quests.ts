@@ -570,6 +570,7 @@ export default [
     pronunciationJa: "サイコロ、ねことカードのせんじょう",
     tags: [ "mondstadt", "quest-world" ],
     pinyins: [{ char: "骰", pron: "tou2" }],
+    zhuyins: [{ char: "骰", pron: "ㄊㄡˊ" }],
   },
   {
     en: "Come Try Genius Invokation TCG!",
@@ -622,6 +623,7 @@ export default [
     pronunciationJa: "かいじょうのかでん",
     tags: [ "liyue", "quest-world" ],
     pinyins: [{ char: "钿", pron: "dian4" }],
+    zhuyins: [{ char: "鈿", pron: "ㄉㄧㄢˋ" }],
   },
   {
     en: "A Lone Ship In Guyun",
@@ -764,6 +766,7 @@ export default [
       zhTW: [ "古云有螭" ],
     },
     pinyins: [{ char: "螭", pron: "chi1" }],
+    zhuyins: [{ char: "螭", pron: "ㄔ" }],
   },
   {
     en: "A Provisional Arrangement",
@@ -829,6 +832,7 @@ export default [
     pronunciationJa: "さかんだくにははいどにもどる",
     tags: [ "liyue", "quest-world" ],
     pinyins: [{ char: "囿", pron: "you4" }],
+    zhuyins: [{ char: "囿", pron: "ㄧㄡˋ" }],
   },
   {
     en: "A Little Game",
@@ -845,6 +849,7 @@ export default [
     pronunciationJa: "ろっかのふうけいが",
     tags: [ "liyue", "quest-world" ],
     pinyins: [{ char: "渌", pron: "lu4" }],
+    zhuyins: [{ char: "淥", pron: "ㄌㄨˋ" }],
   },
   {
     en: "Fishing For Jade",
@@ -980,6 +985,7 @@ export default [
     pronunciationJa: "かみざくらおおはらい",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "祓", pron: "fu2" }],
+    zhuyins: [{ char: "祓", pron: "ㄈㄨˊ" }],
   },
   {
     en: "Yougou Cleansing",
@@ -989,6 +995,7 @@ export default [
     pronunciationJa: "ようごうばらい",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "祓", pron: "fu2" }],
+    zhuyins: [{ char: "祓", pron: "ㄈㄨˊ" }],
   },
   {
     en: "Tatara Tales",
@@ -998,6 +1005,7 @@ export default [
     pronunciationJa: "たたらものがたり",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "鞴", pron: "bei4" }],
+    zhuyins: [{ char: "鞴", pron: "ㄅㄟˋ" }],
   },
   {
     en: "Orobashi's Legacy",
@@ -1232,6 +1240,7 @@ export default [
     zhTW: "「海祇之牙」",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "祇", pron: "qi2" }],
+    zhuyins: [{ char: "祇", pron: "ㄑㄧˊ" }],
   },
   {
     en: "\"Tail of Watatsumi\"",
@@ -1240,6 +1249,7 @@ export default [
     zhTW: "「海祇之尾」",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "祇", pron: "qi2" }],
+    zhuyins: [{ char: "祇", pron: "ㄑㄧˊ" }],
   },
   {
     en: "\"Heart of Watatsumi\"",
@@ -1248,6 +1258,7 @@ export default [
     zhTW: "「海祇之心」",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "祇", pron: "qi2" }],
+    zhuyins: [{ char: "祇", pron: "ㄑㄧˊ" }],
   },
   {
     en: "Divine Plant of the Depths",
@@ -1381,6 +1392,7 @@ export default [
     pronunciationJa: "やちまたひこのしれん",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "衢", pron: "qu2" }],
+    zhuyins: [{ char: "衢", pron: "ㄑㄩˊ" }],
   },
   {
     en: "Yachimatahime's Trial",
@@ -1390,6 +1402,7 @@ export default [
     pronunciationJa: "やちまたひめのしれん",
     tags: [ "inazuma", "quest-world" ],
     pinyins: [{ char: "衢", pron: "qu2" }],
+    zhuyins: [{ char: "衢", pron: "ㄑㄩˊ" }],
   },
   {
     en: "Kunado's Trial",
@@ -1502,7 +1515,8 @@ export default [
     zhCN: "日轮与菅名山",
     zhTW: "日輪與菅名山",
     tags: [ "inazuma", "quest-world" ],
-    pinyins: [{ char: "菅", pron: "jian2" }],
+    pinyins: [{ char: "菅", pron: "jian1" }],
+    zhuyins: [{ char: "菅", pron: "ㄐㄧㄢ" }],
   },
   {
     en: "The Saga of Mr. Forgetful",
@@ -1671,6 +1685,7 @@ export default [
     tags: [ "sumeru", "quest-world" ],
     notes: "森林書から連なる世界任務の1つ",
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Courage is in the Heart",
@@ -2678,7 +2693,8 @@ export default [
     pronunciationJa: "ながひしゃくのしょう",
     notes: "香菱の伝説任務",
     tags: [ "liyue", "quest-story" ],
-    pinyins: [{ char: "杓", pron: "shao2" }],
+    pinyins: [{ char: "杓", pron: "biāo" }],
+    zhuyins: [{ char: "杓", pron: "ㄅㄧㄠ" }],
   },
   {
     en: "Fabulae Textile Chapter",
@@ -2862,6 +2878,7 @@ export default [
     notes: "アルハイゼンの伝説任務",
     tags: [ "sumeru", "quest-story" ],
     pinyins: [{ char: "隼", pron: "sun3" }],
+    zhuyins: [{ char: "隼", pron: "ㄙㄨㄣˇ" }],
   },
   {
     en: "Mantichora Chapter",
@@ -3500,6 +3517,7 @@ export default [
     pronunciationJa: "ほこらよ、もういちどすがたをあらわしてください",
     tags: [ "inazuma", "quest-daily" ],
     pinyins: [{ char: "龛", pron: "kan1" }],
+    zhuyins: [{ char: "龕", pron: "ㄎㄢ" }],
   },
   {
     en: "Playing With Fire... Works",

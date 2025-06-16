@@ -168,6 +168,7 @@ export default [
     pronunciationJa: "すぎざい",
     tags: [ "sereniteapot", "mondstadt" ],
     pinyins: [{ char: "杉", pron: "sha1" }],
+    zhuyins: [{ char: "杉", pron: "ㄕㄚ" }],
   },
   {
     en: "Fragrant Cedar Wood",
@@ -277,6 +278,7 @@ export default [
     zhTW: "檉木",
     tags: [ "sereniteapot", "sumeru" ],
     pinyins: [{ char: "柽", pron: "cheng1" }],
+    zhuyins: [{ char: "檉", pron: "ㄔㄥ" }],
   },
   {
     en: "Mountain Date Wood",
@@ -375,5 +377,6 @@ export default [
     zhTW: "千籟至音·颻揚",
     tags: [ "sereniteapot" ],
     pinyins: [{ char: "飖", pron: "yao2" }],
+    zhuyins: [{ char: "颻", pron: "ㄧㄠˊ" }],
   },
 ] as const satisfies SourceWord[];

@@ -646,6 +646,7 @@ export default [
     tags: [ "sumeru" ],
     notes: "アランナラの言葉で「人」",
     pinyins: [{ char: "菈", pron: "la1" }],
+    zhuyins: [{ char: "菈", pron: "ㄌㄚ" }],
   },
   {
     en: "Festival Utsava",
@@ -678,6 +679,7 @@ export default [
     tags: [ "sumeru" ],
     notes: "アランナラの言葉で「森」",
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Valuka",

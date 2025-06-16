@@ -249,6 +249,7 @@ export default [
     pronunciationJa: "ちゅうげんのおしえ",
     tags: [ "talent-material", "sumeru" ],
     pinyins: [{ char: "诤", pron: "zheng4" }],
+    zhuyins: [{ char: "諍", pron: "ㄓㄥˋ" }],
   },
   {
     en: "Guide to Admonition",
@@ -258,6 +259,7 @@ export default [
     pronunciationJa: "ちゅうげんのみちびき",
     tags: [ "talent-material", "sumeru" ],
     pinyins: [{ char: "诤", pron: "zheng4" }],
+    zhuyins: [{ char: "諍", pron: "ㄓㄥˋ" }],
   },
   {
     en: "Philosophies of Admonition",
@@ -267,6 +269,7 @@ export default [
     pronunciationJa: "ちゅうげんのてつがく",
     tags: [ "talent-material", "sumeru" ],
     pinyins: [{ char: "诤", pron: "zheng4" }],
+    zhuyins: [{ char: "諍", pron: "ㄓㄥˋ" }],
   },
   {
     en: "Teachings of Ingenuity",

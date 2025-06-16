@@ -306,6 +306,7 @@ export default [
     pronunciationJa: "りーゆぇのちれいだんのかぎ",
     tags: [ "item", "liyue" ],
     pinyins: [{ char: "龛", pron: "kan1" }],
+    zhuyins: [{ char: "龕", pron: "ㄎㄢ" }],
   },
   {
     en: "Fontaine Shrine of Depths Key",
@@ -315,6 +316,7 @@ export default [
     pronunciationJa: "フォンテーヌのちれいだんのかぎ",
     tags: [ "item", "fontaine" ],
     pinyins: [{ char: "龛", pron: "kan1" }],
+    zhuyins: [{ char: "龕", pron: "ㄎㄢ" }],
   },
   {
     en: "Adepti Seeker's Stove",
@@ -451,6 +453,7 @@ export default [
     pronunciationJa: "きんきめっきゃくのふだ",
     tags: [ "item", "liyue" ],
     pinyins: [{ char: "箓", pron: "lu4" }],
+    zhuyins: [{ char: "籙", pron: "ㄌㄨˋ" }],
   },
   {
     en: "Memento Lens",
@@ -548,6 +551,7 @@ export default [
     zhTW: "歲時之晷",
     tags: [ "item", "liyue" ],
     pinyins: [{ char: "晷", pron: "gui3" }],
+    zhuyins: [{ char: "晷", pron: "ㄍㄨㄟˇ" }],
   },
   {
     en: "Cup of Commons",
@@ -978,6 +982,7 @@ export default [
     zhTW: "花鱂",
     tags: [ "item" ],
     pinyins: [{ char: "鳉", pron: "jiang1" }],
+    zhuyins: [{ char: "鱂", pron: "ㄐㄧㄤ" }],
   },
   {
     en: "Glaze Medaka",
@@ -986,6 +991,7 @@ export default [
     zhTW: "琉璃花鱂",
     tags: [ "item" ],
     pinyins: [{ char: "鳉", pron: "jiang1" }],
+    zhuyins: [{ char: "鱂", pron: "ㄐㄧㄤ" }],
   },
   {
     en: "Sweet-Flower Medaka",
@@ -994,6 +1000,7 @@ export default [
     zhTW: "甜甜花鱂",
     tags: [ "item" ],
     pinyins: [{ char: "鳉", pron: "jiang1" }],
+    zhuyins: [{ char: "鱂", pron: "ㄐㄧㄤ" }],
   },
   {
     en: "Aizen Medaka",
@@ -1003,6 +1010,7 @@ export default [
     pronunciationJa: "あいぜんグッピー",
     tags: [ "item" ],
     pinyins: [{ char: "鳉", pron: "jiang1" }],
+    zhuyins: [{ char: "鱂", pron: "ㄐㄧㄤ" }],
   },
   {
     en: "Crystalfish",
@@ -1057,6 +1065,7 @@ export default [
     zhTW: "鴆棘魚",
     tags: [ "item" ],
     pinyins: [{ char: "鸩", pron: "zhen4" }],
+    zhuyins: [{ char: "鴆", pron: "ㄓㄣˋ" }],
   },
   {
     en: "Divda Ray",
@@ -1144,6 +1153,7 @@ export default [
     pronunciationJa: "さびいろリュウノコ",
     tags: [ "item" ],
     pinyins: [{ char: "锖", pron: "qiang1" }],
+    zhuyins: [{ char: "錆", pron: "ㄑㄧㄤ" }],
   },
   {
     en: "Pufferfish",
@@ -1449,6 +1459,7 @@ export default [
     zhTW: "䴉巷物語",
     tags: [ "item", "inazuma" ],
     pinyins: [{ char: "鹮", pron: "huan2" }],
+    zhuyins: [{ char: "䴉", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "New Chronicles of the Six Kitsune",
@@ -1703,6 +1714,7 @@ export default [
     zhTW: "苦舍桓",
     tags: [ "item", "sumeru" ],
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Scarlet Sand Slate",
@@ -1834,6 +1846,7 @@ export default [
     pronunciationJa: "そせいたづな",
     tags: [ "item", "inazuma" ],
     pinyins: [{ char: "辔", pron: "pei4" }],
+    zhuyins: [{ char: "轡", pron: "ㄆㄟˋ" }],
   },
   {
     en: "Divine Bridle",
@@ -1843,6 +1856,7 @@ export default [
     pronunciationJa: "みこしたづな",
     tags: [ "item", "inazuma" ],
     pinyins: [{ char: "辔", pron: "pei4" }],
+    zhuyins: [{ char: "轡", pron: "ㄆㄟˋ" }],
   },
   {
     en: "Waters of Lethe",
@@ -1875,6 +1889,7 @@ export default [
     zhTW: "桓斯彌利底",
     tags: [ "item", "sumeru" ],
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Vasoma Fruit",
@@ -1883,6 +1898,7 @@ export default [
     zhTW: "恆素果",
     tags: [ "item", "sumeru" ],
     pinyins: [{ char: "恒", pron: "heng2" }],
+    zhuyins: [{ char: "恆", pron: "ㄏㄥˊ" }],
   },
   {
     en: "Barsam Flower",
@@ -1892,6 +1908,7 @@ export default [
     tags: [ "item", "sumeru" ],
     notes: "世界任務「アグニホトラ経」終章で作るアランハオマの原料の1つ",
     pinyins: [{ char: "钵", pron: "bo1" }],
+    zhuyins: [{ char: "缽", pron: "ㄅㄛ" }],
   },
   {
     en: "Arahaoma",
@@ -1951,6 +1968,7 @@ export default [
     zhTW: "淨光翎",
     tags: [ "item", "sumeru" ],
     pinyins: [{ char: "翎", pron: "ling2" }],
+    zhuyins: [{ char: "翎", pron: "ㄌㄧㄥˊ" }],
   },
   {
     en: "Korybantes",
@@ -2284,6 +2302,7 @@ export default [
     pronunciationJa: "げいきょのまい",
     notes: "刻晴のコスチューム",
     pinyins: [{ char: "跹", pron: "xian1" }],
+    zhuyins: [{ char: "躚", pron: "ㄒㄧㄢ" }],
   },
   {
     en: "Orchid's Evening Gown",
@@ -2300,6 +2319,7 @@ export default [
     zhTW: "殷紅終夜",
     notes: "ディルックのコスチューム",
     pinyins: [{ char: "殷", pron: "yan1" }],
+    zhuyins: [{ char: "殷", pron: "ㄧㄣ" }],
   },
   {
     en: "Ein Immernachtstraum",

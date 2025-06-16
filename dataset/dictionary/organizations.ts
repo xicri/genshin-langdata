@@ -278,6 +278,7 @@ export default [
     tags: [ "inazuma", "organization" ],
     notes: "綺良々の所属する配達会社",
     pinyins: [{ char: "狛", pron: "bo2" }],
+    zhuyins: [{ char: "狛", pron: "ㄅㄛˊ" }],
   },
 
   {

@@ -64,6 +64,7 @@ export default [
     tags: [ "drop-boss", "sumeru" ],
     notes: "無相の草のドロップアイテム。滅諍とは仏教の戒律の一種で、僧団内での裁判規定のようなもの。参照: [Wikipedia](https://ja.wikipedia.org/wiki/%E6%BB%85%E8%AB%8D)",
     pinyins: [{ char: "诤", pron: "zheng4" }],
+    zhuyins: [{ char: "諍", pron: "ㄓㄥˋ" }],
   },
   {
     en: "Hoarfrost Core",
@@ -169,6 +170,7 @@ export default [
     tags: [ "drop-boss", "sumeru" ],
     notes: "マッシュラプトルのドロップアイテム",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Perpetual Caliber",
@@ -348,6 +350,7 @@ export default [
     tags: [ "drop-boss", "liyue" ],
     notes: "若陀龍王のドロップアイテム",
     pinyins: [{ char: "鎏", pron: "liu2" }],
+    zhuyins: [{ char: "鎏", pron: "ㄌㄧㄡˊ" }],
   },
   // La Signora
   {
@@ -394,6 +397,7 @@ export default [
     tags: [ "drop-boss", "inazuma" ],
     notes: "禍津御建鳴神命のドロップアイテム",
     pinyins: [{ char: "禊", pron: "xi4" }],
+    zhuyins: [{ char: "禊", pron: "ㄒㄧˋ" }],
   },
   {
     en: "The Meaning of Aeons",
@@ -456,6 +460,7 @@ export default [
     tags: [ "drop-boss", "sumeru" ],
     notes: "アペプのオアシス守護者のドロップアイテム",
     pinyins: [{ char: "亘", pron: "gen4" }],
+    zhuyins: [{ char: "亙", pron: "ㄍㄣˋ" }],
   },
   {
     en: "Lightless Silk String",

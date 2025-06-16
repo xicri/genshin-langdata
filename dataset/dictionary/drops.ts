@@ -413,6 +413,7 @@ export default [
     tags: [ "drop" ],
     notes: "宝盗団のドロップアイテム (★3)",
     pinyins: [{ char: "擢", pron: "zhuo2" }],
+    zhuyins: [{ char: "擢", pron: "ㄓㄨㄛˊ" }],
   },
   {
     en: "Silver Raven Insignia",
@@ -467,6 +468,7 @@ export default [
     tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★1)",
     pinyins: [{ char: "镡", pron: "xin2" }],
+    zhuyins: [{ char: "鐔", pron: "ㄒㄧㄣˊ" }],
   },
   {
     en: "Kageuchi Handguard",
@@ -477,6 +479,7 @@ export default [
     tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★2)",
     pinyins: [{ char: "镡", pron: "xin2" }],
+    zhuyins: [{ char: "鐔", pron: "ㄒㄧㄣˊ" }],
   },
   {
     en: "Famed Handguard",
@@ -487,6 +490,7 @@ export default [
     tags: [ "drop", "inazuma" ],
     notes: "野伏衆のドロップアイテム (★3)",
     pinyins: [{ char: "镡", pron: "xin2" }],
+    zhuyins: [{ char: "鐔", pron: "ㄒㄧㄣˊ" }],
   },
   {
     en: "Concealed Claw",
@@ -521,6 +525,7 @@ export default [
     tags: [ "drop", "sumeru" ],
     notes: "キノコンのドロップアイテム (★1)",
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Luminescent Pollen",
@@ -583,6 +588,7 @@ export default [
     tags: [ "drop" ],
     notes: "黒蛇衆のドロップアイテム (★3)",
     pinyins: [{ char: "夤", pron: "yin2" }],
+    zhuyins: [{ char: "夤", pron: "ㄧㄣˊ" }],
   },
   {
     en: "Deathly Statuette",
@@ -668,6 +674,7 @@ export default [
     tags: [ "drop" ],
     notes: "聖骸獣のドロップアイテム (★4)",
     pinyins: [{ char: "锲", pron: "qie4" }],
+    zhuyins: [{ char: "鍥", pron: "ㄑㄧㄝˋ" }],
   },
   {
     en: "A Flower Yet to Bloom",

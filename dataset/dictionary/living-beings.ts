@@ -142,6 +142,7 @@ export default [
     zhTW: "蕈豬",
     tags: [ "living-being", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Weasel Thief",
@@ -309,6 +310,7 @@ export default [
     pronunciationJa: "だじゅう",
     tags: [ "living-being", "enemy", "sumeru" ],
     pinyins: [{ char: "驮", pron: "tuo2" }],
+    zhuyins: [{ char: "馱", pron: "ㄊㄨㄛˊ" }],
   },
   {
     en: "Shaggy Sumpter Beast",
@@ -318,6 +320,7 @@ export default [
     pronunciationJa: "モジャモジャだじゅう",
     tags: [ "living-being", "enemy", "sumeru" ],
     pinyins: [{ char: "牦", pron: "mao2" }, { char: "驮", pron: "tuo2" }],
+    zhuyins: [{ char: "犛", pron: "ㄇㄠˊ" }, { char: "馱", pron: "ㄊㄨㄛˊ" }],
   },
   {
     en: "Desert Sumpter Beast",
@@ -378,6 +381,7 @@ export default [
     zhTW: "長鬢虎羅闍",
     tags: [ "living-being", "enemy", "sumeru" ],
     pinyins: [{ char: "阇", pron: "du1" }],
+    zhuyins: [{ char: "闍", pron: "ㄉㄨ" }],
   },
   {
     en: "Sumpter Beastlord",
@@ -467,6 +471,7 @@ export default [
     zhTW: "玳龜",
     tags: [ "living-being", "sumeru" ],
     pinyins: [{ char: "玳", pron: "dai4" }],
+    zhuyins: [{ char: "玳", pron: "ㄉㄞˋ" }],
   },
 
   //
@@ -489,6 +494,7 @@ export default [
     zhCN: "美露莘",
     zhTW: "美露莘",
     pinyins: [{ char: "莘", pron: "xin1" }],
+    zhuyins: [{ char: "莘", pron: "ㄒㄧㄣ" }],
     tags: [ "fontaine", "living-being" ],
   },
   {

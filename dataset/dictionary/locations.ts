@@ -156,6 +156,7 @@ export default [
     pronunciationJa: "ちかいのみさき",
     tags: [ "mondstadt", "location" ],
     pinyins: [{ char: "岬", pron: "jia3" }],
+    zhuyins: [{ char: "岬", pron: "ㄐㄧㄚˇ" }],
   },
 
   {
@@ -358,6 +359,7 @@ export default [
     pronunciationJa: "ちこがん",
     tags: [ "liyue", "location" ],
     pinyins: [{ char: "螭", pron: "chi1" }],
+    zhuyins: [{ char: "螭", pron: "ㄔ" }],
   },
   {
     en: "Jade Chamber",
@@ -382,6 +384,7 @@ export default [
     zhTW: "珠鈿舫",
     tags: [ "liyue", "facility" ],
     pinyins: [{ char: "钿", pron: "dian4" }, { char: "舫", pron: "fang3" }],
+    zhuyins: [{ char: "鈿", pron: "ㄉㄧㄢˋ" }, { char: "舫", pron: "ㄈㄤˇ" }],
   },
   {
     en: "Golden House",
@@ -485,6 +488,7 @@ export default [
       ja: [ "びんりん" ],
     },
     pinyins: [{ char: "珉", pron: "min2" }],
+    zhuyins: [{ char: "珉", pron: "ㄇㄧㄣˊ" }],
   },
   {
     en: "Luhua Pool",
@@ -494,6 +498,7 @@ export default [
     pronunciationJa: "ろくかのいけ",
     tags: [ "liyue", "location" ],
     pinyins: [{ char: "渌", pron: "lu4" }],
+    zhuyins: [{ char: "淥", pron: "ㄌㄨˋ" }],
   },
   {
     en: "Tianqiu Valley",
@@ -511,6 +516,7 @@ export default [
     pronunciationJa: "すいけつざか",
     tags: [ "liyue", "location" ],
     pinyins: [{ char: "玦", pron: "jue2" }],
+    zhuyins: [{ char: "玦", pron: "ㄐㄩㄝˊ" }],
   },
   {
     en: "Jueyun Karst",
@@ -560,6 +566,7 @@ export default [
     pronunciationJa: "おくぞうさん",
     tags: [ "liyue", "location" ],
     pinyins: [{ char: "藏", pron: "cang2" }],
+    zhuyins: [{ char: "藏", pron: "ㄘㄤˊ" }],
   },
 
   {
@@ -586,6 +593,7 @@ export default [
     pronunciationJa: "てきかしゅう",
     tags: [ "liyue", "location" ],
     pinyins: [{ char: "荻", pron: "di2" }],
+    zhuyins: [{ char: "荻", pron: "ㄉㄧˊ" }],
   },
   {
     en: "Stone Gate",
@@ -933,6 +941,7 @@ export default [
     pronunciationJa: "こんだむら",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "绀", pron: "gan4" }],
+    zhuyins: [{ char: "紺", pron: "ㄍㄢˋ" }],
   },
   {
     en: "Byakko Plain",
@@ -1015,6 +1024,7 @@ export default [
     pronunciationJa: "たたらすな",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "鞴", pron: "bei4" }],
+    zhuyins: [{ char: "鞴", pron: "ㄅㄟˋ" }],
   },
   {
     en: "Mikage Furnace",
@@ -1041,6 +1051,7 @@ export default [
     pronunciationJa: "なづちのはま",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "椎", pron: "zhui1" }],
+    zhuyins: [{ char: "椎", pron: "ㄓㄨㄟ" }],
   },
 
   {
@@ -1051,6 +1062,7 @@ export default [
     pronunciationJa: "ヤシオリじま",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "酝", pron: "yun4" }],
+    zhuyins: [{ char: "醞", pron: "ㄩㄣˋ" }],
   },
   {
     en: "Musoujin Gorge",
@@ -1071,6 +1083,7 @@ export default [
     pronunciationJa: "ふじとうとりで",
     tags: [ "inazuma", "location", "facility" ],
     pinyins: [{ char: "砦", pron: "zhai4" }],
+    zhuyins: [{ char: "砦", pron: "ㄓㄞˋ" }],
   },
   {
     en: "Fort Mumei",
@@ -1080,6 +1093,7 @@ export default [
     pronunciationJa: "むみょうとりで",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "砦", pron: "zhai4" }],
+    zhuyins: [{ char: "砦", pron: "ㄓㄞˋ" }],
   },
   {
     en: "Higi Village",
@@ -1114,6 +1128,7 @@ export default [
     pronunciationJa: "わたつみじま",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "祇", pron: "qi2" }],
+    zhuyins: [{ char: "祇", pron: "ㄑㄧˊ" }],
   },
   {
     en: "Sangonomiya Shrine",
@@ -1221,6 +1236,7 @@ export default [
     pronunciationJa: "ひらうみとりで",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "砦", pron: "zhai4" }],
+    zhuyins: [{ char: "砦", pron: "ㄓㄞˋ" }],
   },
   {
     en: "Koseki Village",
@@ -1256,6 +1272,7 @@ export default [
     zhTW: "天雲峠",
     pronunciationJa: "あまくもとうげ",
     pinyins: [{ char: "峠", pron: "qia3" }],
+    zhuyins: [{ char: "峠", pron: "ㄑㄧㄚˇ" }],
     tags: [ "inazuma", "location" ],
   },
 
@@ -1307,6 +1324,7 @@ export default [
     pronunciationJa: "カンナざん",
     tags: [ "inazuma", "location" ],
     pinyins: [{ char: "菅", pron: "jian1" }],
+    zhuyins: [{ char: "菅", pron: "ㄐㄧㄢ" }],
   },
   {
     en: "Moshiri Ceremonial Site",
@@ -1487,6 +1505,7 @@ export default [
     pronunciationJa: "チャトラカムどうくつ",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
 
   {
@@ -1511,6 +1530,7 @@ export default [
     pronunciationJa: "ヤスナゆうきょう",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "谒", pron: "ye4" }],
+    zhuyins: [{ char: "謁", pron: "ㄧㄝˋ" }],
   },
   {
     en: "Apam Woods",
@@ -1577,6 +1597,7 @@ export default [
     zhTW: "桓那蘭那",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Mahavanaranapna",
@@ -1586,6 +1607,7 @@ export default [
     tags: [ "sumeru", "location" ],
     notes: "アランナラの言葉で、夢の中のヴァナラーナを指す",
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
 
   {
@@ -1603,6 +1625,7 @@ export default [
     zhTW: "往昔的桓那蘭那",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Sand-Embraced Home",
@@ -1750,6 +1773,7 @@ export default [
     pronunciationJa: "しゃくせきのおか",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "铄", pron: "shuo4" }],
+    zhuyins: [{ char: "鑠", pron: "ㄕㄨㄛˋ" }],
   },
   {
     en: "The Mausoleum of King Deshret",
@@ -1866,6 +1890,7 @@ export default [
     pronunciationJa: "アル・アジフのすな",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "啁", pron: "zhao1" }, { char: "哳", pron: "zha1" }],
+    zhuyins: [{ char: "啁", pron: "ㄓㄠ" }, { char: "哳", pron: "ㄓㄚ" }],
   },
   {
     en: "Qusayr Al-Inkhida'",
@@ -1883,6 +1908,7 @@ export default [
     pronunciationJa: "せいこうのさきゅう",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "镔", pron: "bin1" }],
+    zhuyins: [{ char: "鑌", pron: "ㄅㄧㄣ" }],
   },
   {
     en: "Mt. Damavand",
@@ -1963,6 +1989,7 @@ export default [
     pronunciationJa: "アル・スークルきゅうでん",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "酣", pron: "han1" }, { char: "乐", pron: "le4" }],
+    zhuyins: [{ char: "酣", pron: "ㄏㄢ" }, { char: "樂", pron: "ㄌㄜˋ" }],
   },
   {
     en: "Deshret's Glass Goblet",
@@ -1989,6 +2016,7 @@ export default [
     zhTW: "蒼漠囿土",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "囿", pron: "you4" }],
+    zhuyins: [{ char: "囿", pron: "ㄧㄡˋ" }],
   },
 
   {
@@ -2048,6 +2076,7 @@ export default [
     zhTW: "浮羅囿",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "囿", pron: "you4" }],
+    zhuyins: [{ char: "囿", pron: "ㄧㄡˋ" }],
   },
   {
     en: "Vourukasha Oasis",
@@ -2074,6 +2103,7 @@ export default [
     pronunciationJa: "バルソムのおか",
     tags: [ "sumeru", "location" ],
     pinyins: [{ char: "跋", pron: "ba2" }],
+    zhuyins: [{ char: "跋", pron: "ㄅㄚˊ" }],
   },
   {
     en: "Tulaytullah",

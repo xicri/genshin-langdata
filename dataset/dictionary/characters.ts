@@ -77,6 +77,7 @@ export default [
     zhTW: "嫣朵拉",
     tags: [ "character-sub", "item" ],
     pinyins: [{ char: "嫣", pron: "yan1" }],
+    zhuyins: [{ char: "嫣", pron: "ㄧㄢ" }],
   },
   {
     en: "Dandy",
@@ -518,6 +519,7 @@ export default [
     notes: "英語での発音は「ユーラ」",
     tags: [ "mondstadt", "character-main" ],
     pinyins: [{ char: "菈", pron: "la1" }],
+    zhuyins: [{ char: "菈", pron: "ㄌㄚ" }],
   },
   {
     en: "Spindrift Knight",
@@ -1132,6 +1134,7 @@ export default [
     pronunciationJa: "しんえん",
     tags: [ "liyue", "character-main" ],
     pinyins: [{ char: "焱", pron: "yan4" }],
+    zhuyins: [{ char: "焱", pron: "ㄧㄢˋ" }],
   },
   {
     en: "Zhongli",
@@ -1184,6 +1187,7 @@ export default [
     notes: "発音は「シァオ」([参考動画](https://youtu.be/p10yiwULJA8?t=310))",
     tags: [ "liyue", "character-main" ],
     pinyins: [{ char: "魈", pron: "xiao1" }],
+    zhuyins: [{ char: "魈", pron: "ㄒㄧㄠ" }],
   },
   {
     en: "Conqueror of Demons",
@@ -1271,6 +1275,7 @@ export default [
     tags: [ "liyue", "character-main" ],
     notes: "英語の発音は「バイジュ」",
     pinyins: [{ char: "术", pron: "zhu2" }],
+    zhuyins: [{ char: "朮", pron: "ㄓㄨˊ" }],
   },
   {
     en: "Dr. Baizhu",
@@ -1535,6 +1540,7 @@ export default [
       zhTW: [ "若陀" ],
     },
     pinyins: [{ char: "若", pron: "re3" }],
+    zhuyins: [{ char: "若", pron: "ㄖㄜˇ" }],
   },
   {
     en: "Guoba",
@@ -1671,6 +1677,7 @@ export default [
     zhTW: "掇星攫辰天君",
     tags: [ "liyue", "title" ],
     pinyins: [{ char: "掇", pron: "duo1" }, { char: "攫", pron: "jue2" }],
+    zhuyins: [{ char: "掇", pron: "ㄉㄨㄛ" }, { char: "攫", pron: "ㄐㄩㄝˊ" }],
   },
   {
     en: "Chef Mao",
@@ -2509,6 +2516,7 @@ export default [
     },
     tags: [ "inazuma", "character-main" ],
     pinyins: [{ char: "裟", pron: "sha1" }],
+    zhuyins: [{ char: "裟", pron: "ㄕㄚ" }],
   },
   {
     en: "Shikanoin Heizou",
@@ -2695,6 +2703,7 @@ export default [
     pronunciationJa: "ひいらぎひろし",
     tags: [ "inazuma", "character-sub" ],
     pinyins: [{ char: "柊", pron: "zhong1" }],
+    zhuyins: [{ char: "柊", pron: "ㄓㄨㄥ" }],
   },
   {
     en: "Wakamurasaki",
@@ -2763,6 +2772,7 @@ export default [
     zhTW: "阿瑠",
     tags: [ "inazuma", "character-sub" ],
     pinyins: [{ char: "瑠", pron: "liu2" }],
+    zhuyins: [{ char: "瑠", pron: "ㄌㄧㄡˊ" }],
   },
   {
     en: "Kama",
@@ -3027,6 +3037,7 @@ export default [
     tags: [ "inazuma", "character-sub" ],
     notes: "稲妻の漁師",
     pinyins: [{ char: "椛", pron: "hua1" }],
+    zhuyins: [{ char: "椛", pron: "ㄏㄨㄚ" }],
     notesEn: "Inazuman Angler",
   },
   {
@@ -3865,6 +3876,7 @@ export default [
     notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。マシーラの娘。",
     notesZh: "世界任务「翅膀折断的猎鹰」「已逝去的末日」中登场的角色。塔尼特部族的成员之一。马塞拉的女儿。",
     pinyins: [{ char: "菈", pron: "la1" }],
+    zhuyins: [{ char: "菈", pron: "ㄌㄚ" }],
   },
   {
     en: "Masseira",
@@ -4122,6 +4134,7 @@ export default [
     zhTW: "蘭耆都",
     tags: [ "sumeru", "character-sub" ],
     pinyins: [{ char: "耆", pron: "qi2" }],
+    zhuyins: [{ char: "耆", pron: "ㄑㄧˊ" }],
   },
   {
     en: "Aramuhukunda",
@@ -4370,6 +4383,7 @@ export default [
     notes: "ソルシュが旅人に任じた記録者としての役割",
     notesZh: "斯露莎给旅行者的称号",
     pinyins: [{ char: "谒", pron: "ye4" }],
+    zhuyins: [{ char: "謁", pron: "ㄧㄝˋ" }],
   },
   {
     en: "Nasejuna",
@@ -8442,6 +8456,7 @@ export default [
     zhTW: "白鵠騎士",
     tags: [ "khaenriah", "title" ],
     pinyins: [{ char: "鹄", pron: "hu2" }],
+    zhuyins: [{ char: "鵠", pron: "ㄏㄨˊ" }],
   },
   {
     en: "Hroptatyr",

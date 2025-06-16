@@ -168,6 +168,7 @@ export default [
     },
     tags: [ "food" ],
     pinyins: [{ char: "噌", pron: "ceng1" }],
+    zhuyins: [{ char: "噌", pron: "ㄔㄥ" }],
   },
   {
     en: "Soba Noodles",
@@ -848,6 +849,7 @@ export default [
     zhTW: "醃篤鮮",
     tags: [ "food" ],
     pinyins: [{ char: "笃", pron: "du3" }],
+    zhuyins: [{ char: "篤", pron: "ㄉㄨˇ" }],
   },
   {
     en: "Jade Fruit Soup",
@@ -1044,6 +1046,7 @@ export default [
     pronunciationJa: "こんだに",
     tags: [ "food" ],
     pinyins: [{ char: "绀", pron: "gan4" }],
+    zhuyins: [{ char: "紺", pron: "ㄍㄢˋ" }],
   },
   {
     en: "Sakura Mochi",
@@ -1918,6 +1921,7 @@ export default [
     tags: [ "food", "liyue" ],
     notes: "鍾離のオリジナル料理",
     pinyins: [{ char: "笃", pron: "du3" }],
+    zhuyins: [{ char: "篤", pron: "ㄉㄨˇ" }],
   },
   {
     en: "Ghostly March",
@@ -2171,6 +2175,7 @@ export default [
     zhTW: "憧憬",
     pronunciationJa: "あこがれ",
     pinyins: [{ char: "憧", pron: "chong1" }, { char: "憬", pron: "jing3" }],
+    zhuyins: [{ char: "憧", pron: "ㄔㄨㄥ" }, { char: "憬", pron: "ㄐㄧㄥˇ" }],
     tags: [ "food", "sumeru" ],
     notes: "コレイのオリジナル料理",
   },
@@ -2738,6 +2743,7 @@ export default [
     zhTW: "星蕈",
     tags: [ "food", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Activated Starshroom",
@@ -2746,6 +2752,7 @@ export default [
     zhTW: "活化的星蕈",
     tags: [ "food", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Scorched Starshroom",
@@ -2754,6 +2761,7 @@ export default [
     zhTW: "枯焦的星蕈",
     tags: [ "food", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Zaytun Peach",

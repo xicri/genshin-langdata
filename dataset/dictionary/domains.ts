@@ -252,6 +252,7 @@ export default [
     },
     tags: [ "liyue", "domain" ],
     pinyins: [{ char: "岫", pron: "xiu4" }],
+    zhuyins: [{ char: "岫", pron: "ㄒㄧㄡˋ" }],
   },
   {
     en: "Hidden Palace of Zhou Formula",
@@ -345,6 +346,7 @@ export default [
     pronunciationJa: "すみれいろノにわ",
     tags: [ "inazuma", "domain" ],
     pinyins: [{ char: "堇", pron: "jin3" }],
+    zhuyins: [{ char: "堇", pron: "ㄐㄧㄣˇ" }],
   },
   {
     en: "Court of Flowing Sand",
@@ -377,6 +379,7 @@ export default [
     pronunciationJa: "もみじノにわ",
     tags: [ "inazuma", "domain" ],
     pinyins: [{ char: "椛", pron: "hua1" }],
+    zhuyins: [{ char: "椛", pron: "ㄏㄨㄚ" }],
   },
   {
     en: "Formation Estate",
@@ -428,6 +431,7 @@ export default [
     tags: [ "inazuma", "domain" ],
     notes: "禍津御建鳴神命戦の秘境名。",
     pinyins: [{ char: "殁", pron: "mo4" }],
+    zhuyins: [{ char: "殁", pron: "ㄇㄛˋ" }],
   },
 
   //

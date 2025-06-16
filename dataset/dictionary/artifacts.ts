@@ -174,6 +174,7 @@ export default [
       ja: [ "来歆" ],
     },
     pinyins: [{ char: "歆", pron: "xin1" }],
+    zhuyins: [{ char: "歆", pron: "ㄒㄧㄣ" }],
   },
   {
     en: "The Exile",
@@ -220,6 +221,7 @@ export default [
     },
     // Misread word
     pinyins: [{ char: "角", pron: "jue2" }, { char: "斗", pron: "dou4" }, { char: "士", pron: "shi4" }],
+    zhuyins: [{ char: "角", pron: "ㄐㄧㄠˇ" }, { char: "鬥", pron: "ㄉㄡˋ" }, { char: "士", pron: "ㄕˋ" }],
   },
   {
     en: "Golden Troupe",
@@ -352,6 +354,7 @@ export default [
       zhTW: [ "海染套" ],
     },
     pinyins: [{ char: "砗", pron: "che1" }, { char: "磲", pron: "qu2" }],
+    zhuyins: [{ char: "硨", pron: "ㄔㄜ" }, { char: "磲", pron: "ㄑㄩ" }],
   },
   {
     en: "Pale Flame",

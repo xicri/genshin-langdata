@@ -28,6 +28,7 @@ export default [
     tags: [ "weapon-material", "mondstadt" ],
     notes: "★3武器突破素材",
     pinyins: [{ char: "垣", pron: "yuan2" }],
+    zhuyins: [{ char: "垣", pron: "ㄩㄢˊ" }],
   },
   {
     en: "Tile of Decarabian's Tower",
@@ -70,6 +71,7 @@ export default [
     tags: [ "weapon-material", "mondstadt" ],
     notes: "★2武器突破素材",
     pinyins: [{ char: "龀", pron: "he2" }],
+    zhuyins: [{ char: "齔", pron: "ㄏㄜˊ" }],
   },
   {
     en: "Dream of the Dandelion Gladiator",
@@ -507,6 +509,7 @@ export default [
     pronunciationJa: "じゅんせいなしずくのかんせん",
     tags: [ "weapon-material", "fontaine" ],
     pinyins: [{ char: "醴", pron: "li3" }],
+    zhuyins: [{ char: "醴", pron: "ㄌㄧˇ" }],
     notes: "★4武器突破素材",
   },
   {
