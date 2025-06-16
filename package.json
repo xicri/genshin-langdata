@@ -29,7 +29,7 @@
     "pinyin-tone": "^2.3.4",
     "type-fest": "^4.41.0",
     "typescript": "^5.2.2",
-    "vitest": "^3.2.2",
-    "wrangler": "^4.19.1"
+    "vitest": "^3.2.3",
+    "wrangler": "^4.20.0"
   }
 }
