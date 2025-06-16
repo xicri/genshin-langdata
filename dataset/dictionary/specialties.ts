@@ -96,6 +96,7 @@ export default [
     pronunciationJa: "げいしょうばな",
     tags: [ "specialty", "liyue" ],
     pinyins: [{ char: "霓", pron: "ni2" }, { char: "裳", pron: "chang2" }],
+    zhuyins: [{ char: "霓", pron: "ㄋㄧˊ" }, { char: "裳", pron: "ㄔㄤˊ" }],
   },
   {
     en: "Violetgrass",
@@ -121,6 +122,7 @@ export default [
     pronunciationJa: "せきはく",
     tags: [ "specialty", "liyue" ],
     pinyins: [{ char: "珀", pron: "po4" }],
+    zhuyins: [{ char: "珀", pron: "ㄆㄛˋ" }],
   },
   {
     en: "Noctilucous Jade",
@@ -175,6 +177,7 @@ export default [
     zhTW: "血斛",
     tags: [ "specialty", "inazuma" ],
     pinyins: [{ char: "斛", pron: "hu2" }],
+    zhuyins: [{ char: "斛", pron: "ㄏㄨˊ" }],
   },
   {
     en: "Lycoris",
@@ -222,6 +225,7 @@ export default [
     zhTW: "幽燈蕈",
     tags: [ "specialty", "inazuma" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   // Sumeru
   {

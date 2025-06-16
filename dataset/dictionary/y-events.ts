@@ -2077,6 +2077,7 @@ export default [
     notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」で修理する装置",
     tags: [ "event", "object" ],
     pinyins: [{ char: "縠", pron: "hu2" }],
+    zhuyins: [{ char: "縠", pron: "ㄏㄨˊ" }],
     variants: {
       zhCN: [ "核心轮毂" ],
       zhTW: [ "核心輪轂" ],
@@ -2294,6 +2295,7 @@ export default [
     zhCN: "伽吠毗陀",
     zhTW: "伽吠毗陀",
     pinyins: [{ char: "毗", pron: "pi2" }],
+    zhuyins: [{ char: "毗", pron: "ㄆㄧˊ" }],
     notes: "v3.7 期間限定イベント「決闘! 召喚の頂!」に登場する人物。七聖召喚の開発者の1人",
     tags: [ "event", "character-sub" ],
   },
@@ -2493,6 +2495,7 @@ export default [
     zhTW: "施芮婭",
     notes: "v3.6 期間限定イベント「轟々たる風砂」の登場人物",
     pinyins: [{ char: "芮", pron: "rui4" }],
+    zhuyins: [{ char: "芮", pron: "ㄖㄨㄟˋ" }],
     tags: [ "event", "character-sub" ],
   },
   {
@@ -2567,6 +2570,7 @@ export default [
     notes: "v3.5 期間限定イベント",
     tags: [ "event" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Lil' Fungus / Lil' Fungi",
@@ -2576,6 +2580,7 @@ export default [
     notes: "v3.5 期間限定イベント「チエキノコン布陣」で用いる、チエキノコンをモチーフにした駒。Lil' Fungus が単数形、Lil' Fungi が複数形。",
     tags: [ "event" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Marvelous Gel",
@@ -2673,6 +2678,7 @@ export default [
     notes: "v3.4 期間限定イベント「華舞う夜の旋律」(海灯祭) で、鍾離から取ってくるよう言われるタケノコ",
     tags: [ "event", "item" ],
     pinyins: [{ char: "蘖", pron: "nie4" }],
+    zhuyins: [{ char: "櫱", pron: "ㄋㄧㄝˋ" }],
   },
   {
     en: "The Exquisite Night Chimes",
@@ -2683,6 +2689,7 @@ export default [
     notes: "v3.4 期間限定イベント。海灯祭のイベント名",
     tags: [ "event" ],
     pinyins: [{ char: "磬", pron: "qing4" }],
+    zhuyins: [{ char: "磬", pron: "ㄑㄧㄥˋ" }],
   },
   {
     en: "Radiant Sparks",
@@ -2859,6 +2866,7 @@ export default [
     notes: "v3.2 期間限定イベント",
     tags: [ "event" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Nilotpala Cup Beast Tamers Tournament",
@@ -3412,6 +3420,7 @@ export default [
     notes: "v2.5 期間限定イベント",
     tags: [ "event" ],
     pinyins: [{ char: "飨", pron: "xiang3" }],
+    zhuyins: [{ char: "饗", pron: "ㄒㄧㄤˇ" }],
   },
   {
     en: "Bokuso Box",

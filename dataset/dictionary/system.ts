@@ -764,6 +764,7 @@ export default [
     zhTW: "元素骰",
     notes: "七聖召喚のカードで用いるサイコロ",
     pinyins: [{ char: "骰", pron: "tou2" }],
+    zhuyins: [{ char: "骰", pron: "ㄊㄡˊ" }],
   },
   {
     en: "roll",
@@ -772,6 +773,7 @@ export default [
     zhTW: "投擲（元素骰）",
     notes: "七聖召喚で元素サイコロを振ること",
     pinyins: [{ char: "骰", pron: "tou2" }],
+    zhuyins: [{ char: "骰", pron: "ㄊㄡˊ" }],
   },
   {
     en: "reroll",
@@ -780,6 +782,7 @@ export default [
     zhTW: "重投（元素骰）",
     notes: "七聖召喚で元素サイコロを振り直すこと",
     pinyins: [{ char: "骰", pron: "tou2" }],
+    zhuyins: [{ char: "骰", pron: "ㄊㄡˊ" }],
   },
   {
     en: "Lucky Coin",

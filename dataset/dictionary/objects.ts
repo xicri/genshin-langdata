@@ -485,6 +485,7 @@ export default [
     pronunciationJa: "ヴァナラーナのゆめのき",
     tags: [ "object", "sumeru" ],
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Vasara Tree",
@@ -607,6 +608,7 @@ export default [
     tags: [ "object", "sumeru" ],
     notes: "洞窟などの入り口を塞いでおり、ライアーの演奏と攻撃により回転して道を開けることができる球状のオブジェクト",
     pinyins: [{ char: "桓", pron: "huan2" }],
+    zhuyins: [{ char: "桓", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Zohrah Mushroom",
@@ -615,6 +617,7 @@ export default [
     zhTW: "須羅蕈",
     tags: [ "object", "sumeru" ],
     pinyins: [{ char: "蕈", pron: "xun4" }],
+    zhuyins: [{ char: "蕈", pron: "ㄒㄩㄣˋ" }],
   },
   {
     en: "Jamikayomars",
@@ -848,6 +851,7 @@ export default [
     pronunciationJa: "ジンニーのほこら",
     tags: [ "object", "sumeru" ],
     pinyins: [{ char: "龛", pron: "kan1" }],
+    zhuyins: [{ char: "龕", pron: "ㄎㄢ" }],
   },
   {
     en: "Jinn Branch",
@@ -925,6 +929,7 @@ export default [
     tags: [ "object", "sumeru" ],
     notes: "ソルシュが開花させることで足場になる花",
     pinyins: [{ char: "芸", pron: "yun2" }],
+    zhuyins: [{ char: "芸", pron: "ㄩㄣˊ" }],
   },
   {
     en: "Sunyata Flower",
@@ -976,6 +981,7 @@ export default [
     tags: [ "object", "sumeru" ],
     notes: "バルソムの丘にある古樹",
     pinyins: [{ char: "跋", pron: "ba2" }],
+    zhuyins: [{ char: "跋", pron: "ㄅㄚˊ" }],
   },
   {
     en: "Soul Bell",
@@ -986,6 +992,7 @@ export default [
     tags: [ "object", "sumeru" ],
     notes: "蒼漠の囿土に点在する、鐘のギミック",
     pinyins: [{ char: "铎", pron: "duo2" }],
+    zhuyins: [{ char: "鐸", pron: "ㄉㄨㄛˊ" }],
   },
   {
     en: "Bright Flame Altar",

@@ -23,12 +23,21 @@ export type Word = {
     /** The pronunciation for `pinyins.char` */
     pron: string;
   }[];
+  /** Zhuyin for rarely-used characters (生僻字) */
+  zhuyins?: {
+    /** A single rarely-used character (生僻字) included in `zhTW` */
+    char: string;
+    /** The pronunciation for `zhuyins.char` */
+    pron: string;
+  }[];
   /** Note in Japanese */
   notes?: string;
   /** Note in English */
   notesEn?: string;
   /** Note in Simplified Chinese */
   notesZh?: string;
+  /** Note in Traditional Chinese */
+  notesZhTW?: string;
   /** Tag IDs for this word */
   tags?: TagID[];
   /**

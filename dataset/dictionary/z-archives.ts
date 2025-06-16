@@ -20,6 +20,7 @@ export default [
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
     pinyins: [{ char: "嵯", pron: "cuo2" }, { char: "峨", pron: "e2" }],
+    zhuyins: [{ char: "嵯", pron: "ㄘㄨㄛˊ" }, { char: "峨", pron: "ㄜˊ" }],
   },
   {
     en: "Sundial of Enduring Jade",
@@ -29,6 +30,7 @@ export default [
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
     pinyins: [{ char: "晷", pron: "gui3" }],
+    zhuyins: [{ char: "晷", pron: "ㄍㄨㄟˇ" }],
   },
   {
     en: "Goblet of Chiseled Crag",
@@ -38,6 +40,7 @@ export default [
     notes: "聖遺物セット「悠久の磐岩」(Archaic Petra) の1つ",
     tags: [ "artifact-piece" ],
     pinyins: [{ char: "巉", pron: "chan2" }],
+    zhuyins: [{ char: "巉", pron: "ㄔㄢˊ" }],
   },
   {
     en: "Mask of Solitude Basalt",
@@ -829,6 +832,7 @@ export default [
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
     pinyins: [{ char: "晷", pron: "gui3" }],
+    zhuyins: [{ char: "晷", pron: "ㄍㄨㄟˇ" }],
   },
   {
     en: "Noble's Pledging Vessel",
@@ -848,6 +852,7 @@ export default [
     notes: "聖遺物セット「千岩牢固」(Tenacity of the Millelith) の1つ",
     tags: [ "artifact-piece" ],
     pinyins: [{ char: "鍪", pron: "mou2" }],
+    zhuyins: [{ char: "鍪", pron: "ㄇㄡˊ" }],
   },
 
   {
@@ -1267,6 +1272,7 @@ export default [
     notes: "モシリの殻の挑戦名",
     tags: [ "inazuma" ],
     pinyins: [{ char: "砺", pron: "li4" }],
+    zhuyins: [{ char: "礪", pron: "ㄌㄧˋ" }],
   },
   {
     en: "Necropolis",

@@ -308,6 +308,7 @@ export default [
     pronunciationJa: "せんきょけん",
     tags: [ "weapon", "sword" ],
     pinyins: [{ char: "坞", pron: "wu4" }],
+    zhuyins: [{ char: "塢", pron: "ㄨˋ" }],
   },
   {
     en: "Sword of Narzissenkreuz",
@@ -368,6 +369,7 @@ export default [
     pronunciationJa: "ざんさんのやいば",
     tags: [ "weapon", "sword" ],
     pinyins: [{ char: "斫", pron: "zhuo2" }],
+    zhuyins: [{ char: "斫", pron: "ㄓㄨㄛˊ" }],
   },
   {
     en: "Primordial Jade Cutter",
@@ -673,6 +675,7 @@ export default [
     pronunciationJa: "マカイラのみずいろ",
     tags: [ "weapon", "claymore" ],
     pinyins: [{ char: "菈", pron: "la1" }],
+    zhuyins: [{ char: "菈", pron: "ㄌㄚ" }],
   },
   {
     en: "Mailed Flower",
@@ -860,6 +863,7 @@ export default [
     pronunciationJa: "ほこやり",
     tags: [ "weapon", "polearm" ],
     pinyins: [{ char: "钺", pron: "yue4" }],
+    zhuyins: [{ char: "鉞", pron: "ㄩㄝˋ" }],
   },
   {
     en: "Black Tassel",
@@ -979,6 +983,7 @@ export default [
     tags: [ "weapon" ],
     notes: "「漁獲」の精錬素材",
     pinyins: [{ char: "枡", pron: "sheng1" }],
+    zhuyins: [{ char: "枡", pron: "ㄕㄥ" }],
   },
   {
     en: "Wavebreaker's Fin",
@@ -1101,6 +1106,7 @@ export default [
       zhTW: [ "貫虹" ],
     },
     pinyins: [{ char: "槊", pron: "shuo4" }],
+    zhuyins: [{ char: "槊", pron: "ㄕㄨㄛˋ" }],
   },
   {
     en: "Staff of Homa",
@@ -1128,6 +1134,7 @@ export default [
       zhTW: [ "薙刀", "剃刀" ],
     },
     pinyins: [{ char: "薙", pron: "ti4" }],
+    zhuyins: [{ char: "薙", pron: "ㄊㄧˋ" }],
   },
   {
     en: "Calamity Queller",
@@ -1276,6 +1283,7 @@ export default [
     pronunciationJa: "ゆみぞう",
     tags: [ "weapon", "bow" ],
     pinyins: [{ char: "藏", pron: "cang2" }],
+    zhuyins: [{ char: "藏", pron: "ㄘㄤˊ" }],
   },
   {
     en: "Prototype Crescent",
@@ -1288,6 +1296,7 @@ export default [
       ja: [ "澹月" ],
     },
     pinyins: [{ char: "澹", pron: "dan4" }],
+    zhuyins: [{ char: "澹", pron: "ㄉㄢˋ" }],
   },
   {
     en: "Compound Bow",
@@ -1394,6 +1403,7 @@ export default [
     pronunciationJa: "トキのくちばし",
     tags: [ "weapon", "bow" ],
     pinyins: [{ char: "鹮", pron: "huan2" }],
+    zhuyins: [{ char: "䴉", pron: "ㄏㄨㄢˊ" }],
   },
   {
     en: "Congealed Pupa Wax",
@@ -1461,7 +1471,7 @@ export default [
     notesEn: "v5.6 Limited Time Event \"Whirling Waltz\" Reward",
     notes: "v5.6 期間限定イベント「ハーモニック・ワルツ」報酬",
     notesZh: "v5.6 限时活动「和旋舞剧」奖励",
-    
+
     tags: [ "weapon", "bow" ],
   },
   // ★5
@@ -1503,6 +1513,7 @@ export default [
       zhTW: [ "終末弓" ],
     },
     pinyins: [{ char: "嗟", pron: "jie1" }],
+    zhuyins: [{ char: "嗟", pron: "ㄐㄧㄝ" }],
   },
   {
     en: "Thundering Pulse",
@@ -1635,6 +1646,7 @@ export default [
     pronunciationJa: "とっきゅうのほうぎょく",
     tags: [ "weapon", "catalyst" ],
     pinyins: [{ char: "珏", pron: "jue2" }],
+    zhuyins: [{ char: "珏", pron: "ㄐㄩㄝˊ" }],
   },
   // ★4
   {
@@ -1687,6 +1699,7 @@ export default [
       ja: [ "金珀" ],
     },
     pinyins: [{ char: "珀", pron: "po4" }],
+    zhuyins: [{ char: "珀", pron: "ㄆㄛˋ" }],
   },
   {
     en: "Mappa Mare",
@@ -1909,6 +1922,7 @@ export default [
     // pronunciationJa: "へきらくのろう", // TODO Need Check
     tags: [ "weapon", "catalyst" ],
     pinyins: [{ char: "珑", pron: "long2" }],
+    zhuyins: [{ char: "瓏", pron: "ㄌㄨㄥˊ" }],
   },
   {
     en: "Tome of the Eternal Flow",

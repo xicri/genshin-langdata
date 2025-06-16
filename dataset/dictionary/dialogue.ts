@@ -246,6 +246,7 @@ export default [
     zhTW: "靖妖儺舞",
     pronunciationJa: "せいようなぶ",
     pinyins: [{ char: "傩", pron: "nuo2" }],
+    zhuyins: [{ char: "儺", pron: "ㄋㄨㄛˊ" }],
     notes: "魈の元素爆発発動時のセリフ。「西洋鍋」という空耳で有名。",
     tags: [ "dialogue" ],
     variants: {
