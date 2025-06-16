@@ -73,6 +73,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "zhTW" ||
         key === "pronunciationJa" ||
         key === "pinyins" ||
+        key === "zhuyins" ||
         key === "notes" ||
         key === "notesEn" ||
         key === "notesZh" ||
@@ -91,6 +92,17 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
           ok(
             pinyinKey === "char" || pinyinKey === "pron",
             `"pinyins[].${pinyinKey}" is not a valid key.`
+          );
+        }
+      }
+    }
+
+    if (word.zhuyins) {
+      for (const zhuyin of word.zhuyins) {
+        for (const zhuyinKey of Object.keys(zhuyin)) {
+          ok(
+            zhuyinKey === "char" || zhuyinKey === "pron",
+            `"zhuyins[].${zhuyinKey}" is not a valid key.`
           );
         }
       }
