@@ -1,6 +1,6 @@
 import { readdir, readFile } from "node:fs/promises";
 import { resolve } from "node:path";
-import { SourceWord } from "../libs/types.ts";
+import type { SourceWord } from "../libs/types.ts";
 
 const dicDir = resolve(import.meta.dirname, "../dataset/dictionary");
 const tsDicFileNames = await readdir(dicDir);

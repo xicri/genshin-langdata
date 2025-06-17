@@ -1,4 +1,4 @@
-import { tags } from "../dataset/tags.ts";
+import type { tags } from "../dataset/tags.ts";
 
 type TagID = keyof typeof tags;
 
