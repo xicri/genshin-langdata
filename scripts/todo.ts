@@ -9,7 +9,7 @@ console.info("# Words without Chinese translation");
 
 for (const tsDicFileName of tsDicFileNames) {
   const dicWords = await import(resolve(dicDir, tsDicFileName)) as SourceWord[];
-  const wordsWithoutChinese = dicWords.filter(word => !word.zhCN);
+  const wordsWithoutChinese = dicWords.filter((word) => !word.zhCN);
 
   if (0 < wordsWithoutChinese.length) {
     console.info(""); // line break
@@ -17,6 +17,6 @@ for (const tsDicFileName of tsDicFileNames) {
   }
 
   for (const word of wordsWithoutChinese) {
-    console.info(`    - ${word.en} (${word.ja})`);
+    console.info(`    - ${ word.en } (${ word.ja })`);
   }
 }

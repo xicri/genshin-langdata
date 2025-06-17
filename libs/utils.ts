@@ -20,7 +20,7 @@ export function jsonTo(
   }
 
   if (format !== "csv" && format !== "tsv") {
-    throw new Error(`Invalid format ${format}; Only "csv" and "tsv" are supported.`);
+    throw new Error(`Invalid format ${ format }; Only "csv" and "tsv" are supported.`);
   }
 
   // List all of the keys
@@ -34,8 +34,8 @@ export function jsonTo(
   }
 
   // Convert object to lines of CSV
-  const lines = objs.map(obj =>
-    keys.map(key => {
+  const lines = objs.map((obj) =>
+    keys.map((key) => {
       let val = obj[key]?.toString().replaceAll("\"", "\"\"");
 
       if (typeof val === "undefined") {
@@ -43,7 +43,7 @@ export function jsonTo(
       } else {
         // wrap with quotes if needed
         if (options.quotes === true) {
-          val = `"${val}"`;
+          val = `"${ val }"`;
         }
       }
 
@@ -51,7 +51,7 @@ export function jsonTo(
     }).join(format === "csv" ? "," : "\t")
   ).join("\r\n");
 
-  const headerLine = keys.map(key => `"${key}"`).join(format === "csv" ? "," : "\t");
+  const headerLine = keys.map((key) => `"${ key }"`).join(format === "csv" ? "," : "\t");
 
   return (options.header ? headerLine + "\r\n" : "") + lines;
 }

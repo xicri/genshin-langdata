@@ -26,31 +26,31 @@ test("words[].id only includes alphanumerics & hypnens", async () => {
 
 test("if dictionary JSON5s has no duplicate words", async () => {
   for (const { id, en, ja, zhCN, zhTW } of words) {
-    ok(words.filter(word => word.en === en).length === 1, `Duplicate English: ${en}`);
+    ok(words.filter((word) => word.en === en).length === 1, `Duplicate English: ${ en }`);
     if (ja) {
       ok(
-        words.filter(word => word.ja === ja).length === 0 ||
-        words.filter(word => word.ja === ja).length === 1,
-        `Duplicate Japanese: ${ja}`
+        words.filter((word) => word.ja === ja).length === 0
+        || words.filter((word) => word.ja === ja).length === 1,
+        `Duplicate Japanese: ${ ja }`
       );
     }
     if (zhCN) {
       ok(
-        words.filter(word => word.zhCN === zhCN).length === 0 ||
-        words.filter(word => word.zhCN === zhCN).length === 1,
-        `Duplicate Simplified Chinese: ${zhCN}`
+        words.filter((word) => word.zhCN === zhCN).length === 0
+        || words.filter((word) => word.zhCN === zhCN).length === 1,
+        `Duplicate Simplified Chinese: ${ zhCN }`
       );
     }
     if (zhTW) {
       ok(
-        words.filter(word => word.zhTW === zhTW).length === 0 ||
-        words.filter(word => word.zhTW === zhTW).length === 1,
-        `Duplicate Traditional Chinese: ${zhTW}`
+        words.filter((word) => word.zhTW === zhTW).length === 0
+        || words.filter((word) => word.zhTW === zhTW).length === 1,
+        `Duplicate Traditional Chinese: ${ zhTW }`
       );
     }
 
     if (typeof id !== "undefined") {
-      ok(words.filter(word => word.id === id).length === 1, `Duplicate ID: ${id}`);
+      ok(words.filter((word) => word.id === id).length === 1, `Duplicate ID: ${ id }`);
     }
   }
 });
@@ -60,29 +60,29 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
     const keys = Object.keys(word);
 
     // Required keys
-    ok(keys.includes("en"), `Following word does not include English: ${JSON.stringify(word, null, 2)}`);
-    ok(keys.includes("zhCN") || keys.includes("zhTW") || keys.includes("ja"), `Following word does not include neither Japanese nor Chinese: ${JSON.stringify(word, null, 2)}`);
+    ok(keys.includes("en"), `Following word does not include English: ${ JSON.stringify(word, null, 2) }`);
+    ok(keys.includes("zhCN") || keys.includes("zhTW") || keys.includes("ja"), `Following word does not include neither Japanese nor Chinese: ${ JSON.stringify(word, null, 2) }`);
 
     // Check if invalid key exists
     for (const key of keys) {
       ok(
-        key === "id" ||
-        key === "en" ||
-        key === "ja" ||
-        key === "zhCN" ||
-        key === "zhTW" ||
-        key === "pronunciationJa" ||
-        key === "pinyins" ||
-        key === "zhuyins" ||
-        key === "notes" ||
-        key === "notesEn" ||
-        key === "notesZh" ||
-        key === "tags" ||
-        key === "variants" ||
-        key === "examples" ||
-        key === "createdAt" ||
-        key === "updatedAt",
-        `"${key}" is not a valid key.`
+        key === "id"
+        || key === "en"
+        || key === "ja"
+        || key === "zhCN"
+        || key === "zhTW"
+        || key === "pronunciationJa"
+        || key === "pinyins"
+        || key === "zhuyins"
+        || key === "notes"
+        || key === "notesEn"
+        || key === "notesZh"
+        || key === "tags"
+        || key === "variants"
+        || key === "examples"
+        || key === "createdAt"
+        || key === "updatedAt",
+        `"${ key }" is not a valid key.`
       );
     }
 
@@ -91,7 +91,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         for (const pinyinKey of Object.keys(pinyin)) {
           ok(
             pinyinKey === "char" || pinyinKey === "pron",
-            `"pinyins[].${pinyinKey}" is not a valid key.`
+            `"pinyins[].${ pinyinKey }" is not a valid key.`
           );
         }
       }
@@ -102,7 +102,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         for (const zhuyinKey of Object.keys(zhuyin)) {
           ok(
             zhuyinKey === "char" || zhuyinKey === "pron",
-            `"zhuyins[].${zhuyinKey}" is not a valid key.`
+            `"zhuyins[].${ zhuyinKey }" is not a valid key.`
           );
         }
       }
@@ -111,11 +111,11 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
     if (word.variants) {
       for (const variantsKey of Object.keys(word.variants)) {
         ok(
-          variantsKey === "en" ||
-          variantsKey === "ja" ||
-          variantsKey === "zhCN" ||
-          variantsKey === "zhTW",
-          `"variants.${variantsKey}" is not a valid key.`
+          variantsKey === "en"
+          || variantsKey === "ja"
+          || variantsKey === "zhCN"
+          || variantsKey === "zhTW",
+          `"variants.${ variantsKey }" is not a valid key.`
         );
       }
     }
@@ -124,13 +124,13 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
       for (const example of word.examples) {
         for (const exampleKey of Object.keys(example)) {
           ok(
-            exampleKey === "en" ||
-            exampleKey === "ja" ||
-            exampleKey === "zhCN" ||
-            exampleKey === "zhTW" ||
-            exampleKey === "ref" ||
-            exampleKey === "refURL",
-            `"examples[].${exampleKey}" is not a valid key.`
+            exampleKey === "en"
+            || exampleKey === "ja"
+            || exampleKey === "zhCN"
+            || exampleKey === "zhTW"
+            || exampleKey === "ref"
+            || exampleKey === "refURL",
+            `"examples[].${ exampleKey }" is not a valid key.`
           );
         }
       }
@@ -179,7 +179,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
 
     if (typeof word.tags !== "undefined" && word.tags !== null) {
       for (const tag of word.tags) {
-        ok(tagIDs.includes(tag), `Invalid tag ${tag} is found in the word ${word.en} (${word.ja})`);
+        ok(tagIDs.includes(tag), `Invalid tag ${ tag } is found in the word ${ word.en } (${ word.ja })`);
       }
     }
 
@@ -195,7 +195,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
 
       for (const lang of [ "en", "ja", "zhCN", "zhTW" ] as const) {
         if (typeof word.variants?.[lang] !== "undefined" && word.variants?.[lang] !== null) {
-          ok(Array.isArray(word.variants[lang]), `word.variants.${lang} should be array but actually ${word.variants[lang]}`);
+          ok(Array.isArray(word.variants[lang]), `word.variants.${ lang } should be array but actually ${ word.variants[lang] }`);
 
           for (const variant of word.variants[lang]) {
             expect(typeof variant).toBe("string");
@@ -220,7 +220,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
         }
 
         if ("refURL" in example) {
-          ok(isURL(example.refURL ?? ""), `Invalid refURL of ${word.en}: ${example.refURL}`);
+          ok(isURL(example.refURL ?? ""), `Invalid refURL of ${ word.en }: ${ example.refURL }`);
         }
       }
     }
@@ -228,7 +228,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
 });
 
 test("if the each translations do not include characters from the other languages", {
-  timeout: 45000
+  timeout: 45000,
 }, async () => {
   type LangSpecificChars = {
     ja: string;
@@ -320,7 +320,7 @@ test("if the each translations do not include characters from the other language
     {
       ja: "終",
       "zh-CN": "终",
-      "zh-TW": "終"
+      "zh-TW": "終",
     },
     {
       ja: "絶",
@@ -678,7 +678,7 @@ test("if words are reverse-sorted by `updatedAt`", () => {
 test("if the characters specified in `pinyins.char` exists in `zhCN`", async () => {
   for (const word of words) {
     for (const { char } of (word.pinyins ?? [])) {
-      expect(word.zhCN.includes(char), `Cannot add pinyin to ${word.zhCN} because it does not include "${char}"`).toBe(true);
+      expect(word.zhCN.includes(char), `Cannot add pinyin to ${ word.zhCN } because it does not include "${ char }"`).toBe(true);
     }
   }
 });

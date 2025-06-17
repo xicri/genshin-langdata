@@ -49,7 +49,7 @@ export class Dictionary {
    * @returns Promise object
    */
   async loadWithDummies(
-    { wordsLocal, wordsProd }: { wordsLocal: SourceWord[], wordsProd: Word[] }
+    { wordsLocal, wordsProd }: { wordsLocal: SourceWord[]; wordsProd: Word[]; }
   ): Promise<void> {
     this.#words = wordsLocal;
     this.#dummyWordsProd = wordsProd;
@@ -80,7 +80,7 @@ export class Dictionary {
   }
 
   #addIDs(): void {
-    this.#words = this.#words.map(word => {
+    this.#words = this.#words.map((word) => {
       if (!word.id) {
         word.id = word.en
           .toLowerCase()
@@ -89,7 +89,7 @@ export class Dictionary {
           .replaceAll("ä", "a") // e.g. diona kätzlein -> diona katzlein
           .replace(/é/g, "e") // e.g. mini seelie: rosé -> mini seelie: rose
           // e.g. the great mountain survey ⅱ -> the great mountain survey 2
-          .replace(/[ⅰ-ⅻ]/g, match => String.fromCharCode(match.charCodeAt(0) - 8511))
+          .replace(/[ⅰ-ⅻ]/g, (match) => String.fromCharCode(match.charCodeAt(0) - 8511))
           .replace(/\./g, " ") // e.g. "mt. hulao" -> "mt  hulao"
           .replace(/&/g, " and ") // e.g. "crab ham & veggie bake" -> "crab ham  and  veggie bake"
           .replace(/:/g, " ") // e.g. "battlefront: misty dungeon" -> "battlefront  misty dungeon"
@@ -109,8 +109,8 @@ export class Dictionary {
       if (res.status < 400 || this.#dummyWordsProd) {
         const wordsProd: Word[] = this.#dummyWordsProd ?? await res.json() as Word[];
 
-        this.#words = this.#words.map(wordLocal => {
-          const wordProd = wordsProd.find(wordProd => wordLocal.id === wordProd.id);
+        this.#words = this.#words.map((wordLocal) => {
+          const wordProd = wordsProd.find((wordProd) => wordLocal.id === wordProd.id);
 
           if (wordProd) {
             // ▼▼ Migration ▼▼
@@ -127,7 +127,7 @@ export class Dictionary {
                 wordLocal.updatedAt = wordProd.updatedAt;
               } else {
                 wordLocal.updatedAt = DateTime.now().toISODate();
-                console.info(`[UPDATED] ${wordLocal.ja} (${wordLocal.en})`);
+                console.info(`[UPDATED] ${ wordLocal.ja } (${ wordLocal.en })`);
               }
 
               if (wordProd.createdAt) {
@@ -135,7 +135,7 @@ export class Dictionary {
               } else {
                 // word exists but createdAt is not saved yet
                 wordLocal.createdAt = "1970-01-01";
-                console.info(`[RESET] ${wordLocal.ja} (${wordLocal.en})`);
+                console.info(`[RESET] ${ wordLocal.ja } (${ wordLocal.en })`);
               }
             } else {
               if (wordProd.createdAt) {
@@ -143,13 +143,13 @@ export class Dictionary {
               } else {
                 wordLocal.createdAt = DateTime.now().toISODate();
                 wordLocal.updatedAt = wordLocal.createdAt;
-                console.info(`[NEW] ${wordLocal.ja} (${wordLocal.en})`);
+                console.info(`[NEW] ${ wordLocal.ja } (${ wordLocal.en })`);
               }
             }
           } else {
             wordLocal.createdAt = DateTime.now().toISODate();
             wordLocal.updatedAt = wordLocal.createdAt;
-            console.info(`[NEW] ${wordLocal.ja} (${wordLocal.en})`);
+            console.info(`[NEW] ${ wordLocal.ja } (${ wordLocal.en })`);
           }
 
           return wordLocal;
@@ -160,13 +160,13 @@ export class Dictionary {
     } catch (err) {
       if (
         err instanceof Error && (
-          err.name === "FetchError" ||
-          err.message === "dataset.genshin-dictionary.com unavailable"
+          err.name === "FetchError"
+          || err.message === "dataset.genshin-dictionary.com unavailable"
         )
       ) {
         console.warn("[WARNING] createdAt is reset since production API is unavailable.");
 
-        this.#words = this.#words.map(wordLocal => {
+        this.#words = this.#words.map((wordLocal) => {
           wordLocal.createdAt = wordLocal.updatedAt = "2022-01-01";
 
           return wordLocal;
@@ -182,15 +182,15 @@ export class Dictionary {
       renderer: {
         link({ href, text }) {
           if (href.startsWith("http://") || href.startsWith("https://")) {
-            return `<a href="${href}" target="_blank" rel="noopener">${text}</a>`;
+            return `<a href="${ href }" target="_blank" rel="noopener">${ text }</a>`;
           } else {
-            return `<a href="${href}">${text}</a>`;
+            return `<a href="${ href }">${ text }</a>`;
           }
         },
       },
     });
 
-    this.#words = this.#words.map(word => {
+    this.#words = this.#words.map((word) => {
       if (word.notes) {
         word.notes = marked.parseInline(word.notes, { async: false });
       }
@@ -205,10 +205,10 @@ export class Dictionary {
   #reverseSortByUpdatedOn(): void {
     this.#words.sort((wordA, wordB) => {
       if (!wordA.updatedAt) {
-        throw new Error(`"${ wordA.en }" does not have updatedAt property`)
+        throw new Error(`"${ wordA.en }" does not have updatedAt property`);
       }
       if (!wordB.updatedAt) {
-        throw new Error(`"${ wordB.en }" does not have updatedAt property`)
+        throw new Error(`"${ wordB.en }" does not have updatedAt property`);
       }
 
       const updatedOnA = DateTime.fromISO(wordA.updatedAt);
@@ -227,9 +227,9 @@ export class Dictionary {
   }
 
   #convertPinyinToneLetters(): void {
-    this.#words = this.#words.map(word => {
+    this.#words = this.#words.map((word) => {
       if (word.pinyins) {
-        word.pinyins = word.pinyins.map(pinyin => {
+        word.pinyins = word.pinyins.map((pinyin) => {
           pinyin.pron = pinyinTone(pinyin.pron);
 
           return pinyin;
@@ -241,7 +241,7 @@ export class Dictionary {
   }
 
   #toCSV(): string {
-    const json = this.#words.map(word => {
+    const json = this.#words.map((word) => {
       const flattened: CsvReadyObject = {
         ID: word.id,
         英語: word.en,
@@ -258,10 +258,10 @@ export class Dictionary {
 
       if (word.examples) {
         for (let i = 0; i < word.examples.length; i++) {
-          flattened[`例文${i+1} 英語`] = word.examples[i].en;
-          flattened[`例文${i+1} 日本語`] = word.examples[i].ja;
-          flattened[`例文${i+1} 出典`] = word.examples[i].ref;
-          flattened[`例文${i+1} 出典リンク`] = word.examples[i].refURL;
+          flattened[`例文${ i + 1 } 英語`] = word.examples[i].en;
+          flattened[`例文${ i + 1 } 日本語`] = word.examples[i].ja;
+          flattened[`例文${ i + 1 } 出典`] = word.examples[i].ref;
+          flattened[`例文${ i + 1 } 出典リンク`] = word.examples[i].refURL;
         }
       }
 

@@ -101,11 +101,11 @@ test("addUpdateAt() adds updatedAt properly", async () => {
   const jsonStr = await readFile(resolve(distDir, "words.json"), { encoding: "utf-8" });
   const wordsResults = JSON.parse(jsonStr) as Word[];
 
-  const amber = wordsResults.find(word => word.en === "Amber");
-  const outrider = wordsResults.find(word => word.en === "Outrider");
-  const baronBunny = wordsResults.find(word => word.en === "Baron Bunny");
-  const orobaxi = wordsResults.find(word => word.en === "Orobaxi");
-  const newWord = wordsResults.find(word => word.en === "New Word");
+  const amber = wordsResults.find((word) => word.en === "Amber");
+  const outrider = wordsResults.find((word) => word.en === "Outrider");
+  const baronBunny = wordsResults.find((word) => word.en === "Baron Bunny");
+  const orobaxi = wordsResults.find((word) => word.en === "Orobaxi");
+  const newWord = wordsResults.find((word) => word.en === "New Word");
 
   const today = DateTime.now().toISODate();
 
