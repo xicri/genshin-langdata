@@ -12,9 +12,7 @@ import type { SetOptional } from "type-fest";
 import type { Word, SourceWord } from "./types.ts";
 
 type IntermediateWord = SetOptional<Word, "id">;
-type CsvReadyObject = {
-  [key: string]: string | undefined;
-};
+type CsvReadyObject = Record<string, string | undefined>;
 
 async function writeFileSJIS(file: string, data: string): Promise<void> {
   await rm(file, { force: true });

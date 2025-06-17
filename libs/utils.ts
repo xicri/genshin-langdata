@@ -9,7 +9,7 @@
  */
 export function jsonTo(
   format: string,
-  objs: { [key: string]: string | number | undefined }[],
+  objs: Record<string, string | number | undefined>[],
   options = {
     header: true,
     quotes: true,

@@ -83,17 +83,15 @@ export type SourceWord = Omit<Word, "id" | "createdAt" | "updatedAt"> & {
   id?: Word["id"];
 };
 
-export type Tags = {
-  [tagId: string]: {
+export type Tags = Record<string, {
+  en: string;
+  ja: string;
+  "zh-CN": string;
+  "zh-TW": string;
+  title: {
     en: string;
     ja: string;
     "zh-CN": string;
     "zh-TW": string;
-    title: {
-      en: string;
-      ja: string;
-      "zh-CN": string;
-      "zh-TW": string;
-    };
   };
-};
+}>;
