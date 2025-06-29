@@ -2423,8 +2423,8 @@ export default [
   {
     en: "Every Aspect of a Warrior",
     ja: "勇士の姿",
-    zhCN: "士的每一面",
-    zhTW: "士的每一面",
+    zhCN: "勇士的每一面",
+    zhTW: "勇士的每一面",
     pronunciationJa: "ゆうしのすがた",
     tags: [ "natlan", "quest-world" ],
   },
@@ -2995,7 +2995,7 @@ export default [
   {
     en: "Sol Invictus Chapter",
     ja: "不敗の日輪の章",
-    zhCN: "不敗阳焔之章",
+    zhCN: "不败阳焰之章",
     zhTW: "不敗陽焔之章",
     pronunciationJa: "ふはいのにちりんのしょう",
     notes: "マーヴィカの伝説任務",

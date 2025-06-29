@@ -341,12 +341,12 @@ export default [
   {
     en: "Violet Court",
     ja: "菫色ノ庭",
-    zhCN: "堇色之庭",
-    zhTW: "堇色之庭",
+    zhCN: "菫色之庭",
+    zhTW: "菫色之庭",
     pronunciationJa: "すみれいろノにわ",
     tags: [ "inazuma", "domain" ],
-    pinyins: [{ char: "堇", pron: "jin3" }],
-    zhuyins: [{ char: "堇", pron: "ㄐㄧㄣˇ" }],
+    pinyins: [{ char: "菫", pron: "jin3" }],
+    zhuyins: [{ char: "菫", pron: "ㄐㄧㄣˇ" }],
   },
   {
     en: "Court of Flowing Sand",

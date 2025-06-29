@@ -2401,7 +2401,7 @@ export default [
   {
     en: "Cherries Snow-Laden",
     ja: "残雪に咲く紅",
-    zhCN: "宿雪桃紅",
+    zhCN: "宿雪桃红",
     zhTW: "宿雪桃紅",
     pronunciationJa: "ざんせつにさくくれない",
     notes: "胡桃のコスチューム",
@@ -2409,7 +2409,7 @@ export default [
   {
     en: "New Year's Cheer",
     ja: "大つごもりの歓声",
-    zhCN: "歲夜歡譁",
+    zhCN: "岁夜欢哗",
     zhTW: "歲夜歡譁",
     pronunciationJa: "おおつごもりのかんせい",
     notes: "香菱のコスチューム",

@@ -873,8 +873,8 @@ export default [
   {
     en: "Varka",
     ja: "ファルカ",
-    zhCN: "法尓迦",
-    zhTW: "法尓迦",
+    zhCN: "法尔伽",
+    zhTW: "法爾伽",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -885,7 +885,7 @@ export default [
     pronunciationJa: "だいだんちょう",
     tags: [ "mondstadt", "title" ],
     notes: "ファルカの西風騎士団における職名。",
-    notesZh: "法尓迦在西风骑士团的职位名。",
+    notesZh: "法尔伽在西风骑士团的职位名。",
     examples: [{
       en: "I will now be reading Grand Master Varka's letter aloud for you all.",
       ja: "ファルカ大団長からの手紙を読ませていただきます。",
@@ -4539,7 +4539,7 @@ export default [
   {
     en: "Sylvain",
     ja: "シルヴァン",
-    zhCN: "席尓万",
+    zhCN: "席尔万",
     zhTW: "席尓萬",
     tags: [ "sumeru", "character-sub" ],
     notes: "エミリエの伝説任務に登場する人物",
@@ -6932,7 +6932,7 @@ export default [
   {
     en: "Chimalli",
     ja: "チマリ",
-    zhCN: "奇馬利",
+    zhCN: "奇马利",
     zhTW: "奇馬利",
     notes: "ナタを守る竜戦士。第五章第四幕に登場する人物",
     tags: [ "natlan", "character-sub" ],
@@ -6956,7 +6956,7 @@ export default [
   {
     en: "Ullanta",
     ja: "ウランタ",
-    zhCN: "烏蘭塔",
+    zhCN: "乌兰塔",
     zhTW: "烏蘭塔",
     notes: "懸木の民の伝達使。第五章第四幕に登場する人物",
     tags: [ "natlan", "character-sub" ],
@@ -7332,8 +7332,8 @@ export default [
   {
     en: "Ixlel",
     ja: "イレール",
-    zhCN: "伊雷尔",
-    zhTW: "伊雷爾",
+    zhCN: "伊蕾尔",
+    zhTW: "伊蕾爾",
     notesEn: "True Name is \"Ix Uxul Tz'ib Bolon Ch'ule-L\"",
     notes: "正式名は「イ・クェクシ・ツボロン・ク・レール」。世界任務「流灰の国の迷える旅人」に登場する竜",
     notesZh: "真名是「伊·奎库叙·茨博隆·库·雷尔」",
@@ -7763,7 +7763,7 @@ export default [
   {
     en: "Asmu",
     ja: "アスム",
-    zhCN: "愛茜蘑",
+    zhCN: "爱茜蘑",
     zhTW: "愛茜蘑",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
     tags: [ "natlan", "character-sub" ],
@@ -7771,7 +7771,7 @@ export default [
   {
     en: "Huzziya",
     ja: "フッズィヤ",
-    zhCN: "菇兹亞",
+    zhCN: "菇兹亚",
     zhTW: "菇茲亞",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
     tags: [ "natlan", "character-sub" ],

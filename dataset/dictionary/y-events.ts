@@ -730,7 +730,7 @@ export default [
   {
     en: "Shuyu's Baffling Beetle Battle Bowl",
     ja: "漱玉奇巧虫相撲大玄境",
-    zhCN: "漱玉工奇鬥蟲大玄境",
+    zhCN: "漱玉工奇斗虫大玄境",
     zhTW: "漱玉工奇鬥蟲大玄境",
     pronunciationJa: "そうぎょくきこうむしずもうだいげんきょう",
     tags: [ "event" ],
@@ -1140,8 +1140,8 @@ export default [
   {
     en: "\"The Sea's Silent Shade\"",
     ja: "静かな海色",
-    zhCN: "「「凝静的海色」",
-    zhTW: "「「凝靜的海色」",
+    zhCN: "「凝静的海色」",
+    zhTW: "「凝靜的海色」",
     pronunciationJa: "しずかなうみいろ",
     tags: [ "event", "weapon-material" ],
     notes: "v5.0 期間限定イベント「巡れ! ワンダフルグラフィティ」内で貰える配布武器「蒼紋の角杯」の強化アイテム",
