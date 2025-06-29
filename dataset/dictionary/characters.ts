@@ -7771,7 +7771,7 @@ export default [
   {
     en: "Huzziya",
     ja: "フッズィヤ",
-    zhCN: "亚",
+    zhCN: "菇茲亚",
     zhTW: "菇茲亞",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
     tags: [ "natlan", "character-sub" ],
