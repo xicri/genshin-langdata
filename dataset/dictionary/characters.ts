@@ -874,7 +874,7 @@ export default [
     en: "Varka",
     ja: "ファルカ",
     zhCN: "法尔伽",
-    zhTW: "法尓迦",
+    zhTW: "法爾伽",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
