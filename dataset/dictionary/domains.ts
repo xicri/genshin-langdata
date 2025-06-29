@@ -341,7 +341,7 @@ export default [
   {
     en: "Violet Court",
     ja: "菫色ノ庭",
-    zhCN: "堇色之庭",
+    zhCN: "菫色之庭",
     zhTW: "堇色之庭",
     pronunciationJa: "すみれいろノにわ",
     tags: [ "inazuma", "domain" ],

@@ -1736,7 +1736,7 @@ export default [
   {
     en: "Definitely Not Bar Food!",
     ja: "絶対オツマミじゃない",
-    zhCN: "绝不是下酒菜",
+    zhCN: "绝对不是下酒菜",
     zhTW: "絕不是下酒菜",
     pronunciationJa: "ぜったいオツマミじゃない",
     tags: [ "food", "mondstadt" ],
@@ -1754,7 +1754,7 @@ export default [
   {
     en: "Invigorating Pizza",
     ja: "眠気覚ましピザ",
-    zhCN: "提升醒脑披萨",
+    zhCN: "提神醒脑披萨",
     zhTW: "提升醒腦披薩",
     pronunciationJa: "ねむけざましピザ",
     tags: [ "food", "mondstadt" ],

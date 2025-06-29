@@ -407,7 +407,7 @@ export default [
   {
     en: "Golden Raven Insignia",
     ja: "ゴールドの鴉マーク",
-    zhCN: "擢金鸦印",
+    zhCN: "攫金鸦印",
     zhTW: "擢金鴉印",
     pronunciationJa: "ゴールドのカラスマーク",
     tags: [ "drop" ],
