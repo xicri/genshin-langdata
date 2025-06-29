@@ -1602,7 +1602,7 @@ export default [
   {
     en: "Mahavanaranapna",
     ja: "マハヴァナラーナパナ",
-    zhCN: "桓那兰那",
+    zhCN: "玛哈桓那兰那薜那",
     zhTW: "瑪哈桓那蘭那薜那",
     tags: [ "sumeru", "location" ],
     notes: "アランナラの言葉で、夢の中のヴァナラーナを指す",

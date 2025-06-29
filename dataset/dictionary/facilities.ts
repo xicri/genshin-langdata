@@ -350,7 +350,7 @@ export default [
   {
     en: "Pharos Lighthouse",
     ja: "ファロス灯台",
-    zhCN: "法罗斯灯塔",
+    zhCN: "法逻斯灯塔",
     zhTW: "法邏斯燈塔",
     pronunciationJa: "ファロスとうだい",
     tags: [ "sumeru", "facility" ],

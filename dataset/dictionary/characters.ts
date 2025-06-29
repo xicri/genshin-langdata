@@ -7333,7 +7333,7 @@ export default [
     en: "Ixlel",
     ja: "イレール",
     zhCN: "伊蕾尔",
-    zhTW: "伊雷爾",
+    zhTW: "伊蕾爾",
     notesEn: "True Name is \"Ix Uxul Tz'ib Bolon Ch'ule-L\"",
     notes: "正式名は「イ・クェクシ・ツボロン・ク・レール」。世界任務「流灰の国の迷える旅人」に登場する竜",
     notesZh: "真名是「伊·奎库叙·茨博隆·库·雷尔」",
