@@ -473,6 +473,14 @@ export default [
     pronunciationJa: "がんほうをめぐるうた",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Azurelight",
+    ja: "蒼耀",
+    zhCN: "苍耀",
+    zhTW: "蒼耀",
+    pronunciationJa: "そうよう",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores
