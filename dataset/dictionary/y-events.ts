@@ -269,7 +269,7 @@ export default [
     tags: [ "event", "sumeru" ],
     notesEn: "v5.7 Sub-events of the Limited Time Event \"Battle of Imagined Arrays\"",
     notes: "v5.7 期間限定イベント「知略バトル大作戦」の子イベント",
-    notesZh: "",  // TODO Does it make sense?: "限时活动「阵列推想大作战」v5.7 子活动"?
+    notesZh: "限时活动「阵列推想大作战」v5.7 子活动",
   },
   {
     en: "Companion Caper Chronicles",
