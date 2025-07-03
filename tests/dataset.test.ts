@@ -77,6 +77,7 @@ test("if dictionary JSON does not have invalid keys", async () => { // eslint-di
         key === "notes" ||
         key === "notesEn" ||
         key === "notesZh" ||
+        key === "notesZhTW" ||
         key === "tags" ||
         key === "variants" ||
         key === "examples" ||
@@ -171,6 +172,11 @@ test("if property values of dictionary JSON complies the format.", async () => {
     if (typeof word.notesZh !== "undefined") {
       expect(typeof word.notesZh).toBe("string");
       expect(word.notesZh).equal(word.notesZh.trim());
+    }
+
+    if (typeof word.notesZhTW !== "undefined") {
+      expect(typeof word.notesZhTW).toBe("string");
+      expect(word.notesZhTW).equal(word.notesZhTW.trim());
     }
 
     if (typeof word.pronunciationJa !== "undefined" && word.pronunciationJa !== null) {
