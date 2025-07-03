@@ -1315,6 +1315,21 @@ export default [
     pronunciationJa: "ほうじょうのフルーツジュース",
     tags: [ "food" ],
   },
+  {
+    en: "Meatnado",
+    ja: "獣肉ハリケーン",
+    zhCN: "兽肉旋风",
+    zhTW: "獸肉旋風",
+    pronunciationJa: "けものにくハリケーン",
+    tags: [ "food" ],
+  },
+  {
+    en: "Apple Roly Poly",
+    ja: "アップルシュトゥルーデル",
+    zhCN: "苹果卷卷",
+    zhTW: "蘋果捲捲",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -1822,6 +1837,17 @@ export default [
     pronunciationJa: "しん・ふうじんヒュッツポット",
     tags: [ "food", "mondstadt" ],
     notes: "ウェンティのオリジナル料理",
+  },
+  {
+    en: "\"Chatter of joyful Nights\"",
+    ja: "「夜の歓談」",
+    zhCN: "「欢夜畅谈」",
+    zhTW: "「歡夜暢談」",
+    pronunciationJa: "よるのかんだん",
+    tags: [ "food", "mondstadt" ],
+    notesEn: "Dahlia's specialty",
+    notes: "ダリアのオリジナル料理",
+    notesZh: "塔利雅的特色料理",
   },
 
   // Liyue
@@ -2580,6 +2606,18 @@ export default [
     notesEn: "Ifa's specialty",
     notes: "イファのオリジナル料理",
     notesZh: "伊法的特色料理",
+  },
+
+  // etcetera
+  {
+    en: "\"Abyssal Bounty\"",
+    ja: "「暗き淵の獲物」",
+    zhCN: "「暗渊之获」",
+    zhTW: "「暗淵之獲」",
+    tags: [ "food" ],
+    notesEn: "Skirk's specialty",
+    notes: "スカークのオリジナル料理",
+    notesZh: "丝柯克的特色料理",
   },
 
   //

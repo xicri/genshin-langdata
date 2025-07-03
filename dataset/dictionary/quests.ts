@@ -368,6 +368,17 @@ export default [
     notes: "魔神任務第五章第五幕",
   },
 
+  // Traveler
+  {
+    en: "A Space and Time for You",
+    ja: "あなたのいる時空",
+    zhCN: "你存在的时空",
+    zhTW: "你存在的時空",
+    pronunciationJa: "あなたのいるじくう",
+    tags: [ "natlan", "quest-archon" ],
+    notes: "魔神任務第五章第六幕",
+  },
+  
   {
     en: "Interlude",
     ja: "間章",
@@ -3008,6 +3019,15 @@ export default [
     zhTW: "香糕塔之章",
     notes: "エスコフィエの伝説任務",
     tags: [ "fontaine", "quest-story" ],
+  },
+  {
+    en: "Crystallina Chapter",
+    ja: "クリスタリナの章",
+    zhCN: "磷星之章",
+    zhTW: "磷星之章",
+    pronunciationJa: "クリスタリナのしょう",
+    notes: "スカークの伝説任務",
+    tags: [ "quest-story" ],
   },
 
   //

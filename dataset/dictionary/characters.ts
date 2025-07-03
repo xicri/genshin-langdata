@@ -1016,7 +1016,15 @@ export default [
     notes: "世界任務「自由の風に向かって」に登場する人物",
     tags: [ "mondstadt", "character-sub" ],
   },
-
+  {
+    en: "Ulrike",
+    ja: "ウルリーケ",
+    zhCN: "乌尔丽克",
+    zhTW: "烏爾麗克",
+    tags: [ "mondstadt", "character-sub" ],
+    notesEn: "Thoma's mother",
+    notes: "トーマの母親",
+  },
   //
   // Liyue - Main Characters
   //
@@ -7955,6 +7963,22 @@ export default [
     notesZh: "从世界任务“名为夜的孤岛”带回的龙蛋孵化出的幼嵴锋龙。在世界任务“终有独行之日”结束后，前往歇息处的入口时可获得的活动奖励",
     tags: [ "natlan", "character-sub", "item" ],
   },
+  {
+    en: "Sutura",
+    ja: "ストゥーラ",
+    zhCN: "苏图拉",
+    zhTW: "蘇圖拉",
+    notes: "魔神任務「あなたのいる時空」に登場する人物",
+    tags: [ "natlan", "character-sub" ],
+  },
+  {
+    en: "Kantalo",
+    ja: "カンタル",
+    zhCN: "坎塔鲁",
+    zhTW: "坎塔魯",
+    notes: "魔神任務「あなたのいる時空」に登場する人物",
+    tags: [ "natlan", "character-sub" ],
+  },
 
   //
   // Nod-Krai
@@ -7967,6 +7991,13 @@ export default [
     notes: "期間限定Webイベント「空月の歌」の情報",
     pronunciationJa: "ゆきぐにのようせい",
     tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Ineffa",
+    ja: "イネファ",
+    zhCN: "伊涅芙",
+    zhTW: "伊涅芙",
+    tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
 
   //
@@ -8543,5 +8574,29 @@ export default [
     pronunciationJa: "カーンルイアのごだいつみびと",
     tags: [ "khaenriah", "character-sub" ],
     notes: "カーンルイアを裏切った5人の罪人の通称",
+  },
+  {
+    en: "Skofnungr",
+    ja: "スクフヌーガ",
+    zhCN: "斯克弗努格",
+    zhTW: "斯克弗努格",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "伝説任務「クリスタリナの章」に登場する人物",
+  },
+  {
+    en: "Direidyth",
+    ja: "ティレル",
+    zhCN: "蒂莱尔",
+    zhTW: "蒂萊爾",
+    tags: [ "khaenriah", "natlan", "character-sub" ],
+    notes: "魔神任務「あなたのいる時空」に登場する人物",
+  },
+  {
+    en: "Haden",
+    ja: "ハーデン",
+    zhCN: "哈登",
+    zhTW: "哈登",
+    tags: [ "khaenriah", "natlan", "character-sub" ],
+    notes: "魔神任務「あなたのいる時空」に登場するアビスの使徒",
   },
 ] as const satisfies SourceWord[];

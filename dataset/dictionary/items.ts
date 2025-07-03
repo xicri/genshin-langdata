@@ -613,6 +613,14 @@ export default [
     zhTW: "晚風圓號",
     tags: [ "item" ],
   },
+  {
+    en: "\"Lingering Euphonia\"",
+    ja: "「余韻」",
+    zhCN: "「余音」",
+    zhTW: "「餘音」",
+    pronunciationJa: "よいん",
+    tags: [ "item" ],
+  },
 
   //
   // Character EXP Material
@@ -2266,6 +2274,22 @@ export default [
     zhTW: "綺燦而神秘的贈禮",
     pronunciationJa: "きらめくしんぴてきなギフト",
     tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Dream-Mirror Remnant",
+    ja: "夢魂の残影",
+    zhCN: "魂梦残影",
+    zhTW: "魂夢殘影",
+    pronunciationJa: "むこんのざんえい",
+    tags: [ "item" ],
+  },
+  {
+    en: "Key to the \"Hibernation Chamber\"",
+    ja: "「スリープポッド」の鍵",
+    zhCN: "「休眠仓」的钥匙",
+    zhTW: "「休眠仓」的钥匙",
+    pronunciationJa: "スリープポッドのかぎ",
+    tags: [ "item" ],
   },
 
   //

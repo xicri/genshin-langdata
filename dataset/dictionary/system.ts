@@ -1127,4 +1127,12 @@ export default [
     pronunciationJa: "ねっとうのうたげ",
     tags: [ "natlan" ],
   },
+  // etcetera
+  {
+    en: "Hibernation Chamber on the spaceship",
+    ja: "宇宙船スリープポッド",
+    zhCN: "飞船休眠仓",
+    zhTW: "飛船休眠艙",
+    pronunciationJa: "うちゅうせんスリープポッド",
+  },
 ] as const satisfies SourceWord[];
