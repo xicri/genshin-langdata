@@ -308,7 +308,6 @@ export default [
     zhCN: "逐影猎人",
     zhTW: "逐影獵人",
     tags: [ "artifact" ],
-    notesEn: "The \"Marechaussee\" in the English name is the same as in \"Marechaussee Phantom.\"",
     notes: "英語版にある \"Marechaussee\" は「マレショーセ・ファントム」の「マレショーセ」に同じ。",
     notesZh: "英文名中的「Marechaussee」与「逐影庭」（Marechaussee Phantom）中的「Marechaussee」相同。",
     notesZhTW: "英文名中的「Marechaussee」與「逐影庭」（Marechaussee Phantom）中的「Marechaussee」相同。",
