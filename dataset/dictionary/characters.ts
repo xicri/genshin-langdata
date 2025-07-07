@@ -11,8 +11,8 @@ export default [
     zhTW: "空",
     pronunciationJa: "そら",
     notes: "男性主人公名。「Aether」の発音は「イーサー」。俗称として MC (Main Character の略) と呼ばれることもある。",
-    notesZh: "男主人公的名字。英語「Aether」為「以太」的意思。",
-    notesZhTW: "男主角的名字。英語「Aether」為「以太」的意思。",
+    notesZh: "男主人公的名字。英文「Aether」为「以太」的意思。",
+    notesZhTW: "男主角的名字。英文「Aether」為「以太」的意思。",
     tags: [ "character-main" ],
   },
   {
@@ -22,8 +22,8 @@ export default [
     zhTW: "熒",
     pronunciationJa: "ほたる",
     notes: "女性主人公名。「Lumine」の発音は「ルミーン」と思われるが諸説あり。俗称として MC (Main Character の略) と呼ばれることもある。",
-    notesZh: "女主人公的名字。英語「Lumine」為「发光」的意思。",
-    notesZhTW: "女主角的名字。英語「Lumine」為「發光」的意思。",
+    notesZh: "女主人公的名字。英文「Lumine」为「发光」的意思。",
+    notesZhTW: "女主角的名字。英文「Lumine」為「發光」的意思。",
     tags: [ "character-main" ],
   },
   // TODO need check
