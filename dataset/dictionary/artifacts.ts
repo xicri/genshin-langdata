@@ -607,10 +607,9 @@ export default [
     zhCN: "谐律异想断章",
     zhTW: "諧律異想斷章",
     pronunciationJa: "かいりつきそうのだんしょう",
-    notesEn: "\"諧律\" means \"harmony\" in Chinese. In Japanese, it is an obsolete term used before World War II.",
-    notes: "諧律は中国語で調和・ハーモニーを意味する言葉。日本では戦前に使われていた旧語。",
-    notesZh: "「谐律」在汉语中表示调和、和谐。在日语中是二战前使用的旧词。",
-    notesZhTW: "「諧律」在漢語中表示調和、和諧。在日語中是二戰前使用的舊詞。",
+    notes: "諧律は中国語で調和・ハーモニーを意味する言葉。日本では戦前に使われていた旧語",
+    notesZh: "「谐律」在汉语中表示调和、和谐。",
+    notesZhTW: "「諧律」在漢語中表示調和、和諧。",
     tags: [ "artifact" ],
   },
   {
