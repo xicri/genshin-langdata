@@ -3079,7 +3079,7 @@ export default [
     zhCN: "久利由卖",
     zhTW: "久利由賣",
     tags: [ "inazuma", "character-sub" ],
-    notes: "世界任務「パエトーンたちはみな踊る」に登場するキャラクター.",
+    notes: "世界任務「パエトーンたちはみな踊る」に登場するキャラクター",
     notesEn: "A character appeared in the World Quest \"The Phaethons' Syrtos.\"",
     notesZh: "世界任务「法厄同们全跳舞」中的登场角色。",
     notesZhTW: "世界任務「法厄同們全跳舞」中的登場角色。",
