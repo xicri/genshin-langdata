@@ -1945,7 +1945,7 @@ export default [
     zhCN: "百晓",
     zhTW: "百曉",
     tags: [ "liyue", "character-sub" ],
-    notes: "群玉閣の秘書の1人",
+    notes: "凝光の秘書の1人",
     notesZh: "凝光的秘书之一。",
     notesZhTW: "凝光的秘書之一。",
   },
