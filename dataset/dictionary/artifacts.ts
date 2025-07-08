@@ -117,7 +117,10 @@ export default [
     zhCN: "炽烈的炎之魔女",
     zhTW: "熾烈的炎之魔女",
     pronunciationJa: "もえさかるほのおのまじょ",
+    notesEn: "Commonly abbreviated as \"Crimson Witch\" or \"CW.\"",
     notes: "通称「火魔女」。CW と略されることも。",
+    notesZh: "通称「炎之魔女」。英文版则简称为「CW」。",
+    notesZhTW: "通稱「炎之魔女」。英文版則簡稱為「CW」。",
     tags: [ "artifact" ],
     variants: {
       ja: [ "火魔女" ],
@@ -306,6 +309,8 @@ export default [
     zhTW: "逐影獵人",
     tags: [ "artifact" ],
     notes: "英語版にある \"Marechaussee\" は「マレショーセ・ファントム」の「マレショーセ」に同じ",
+    notesZh: "英文名中的「Marechaussee」与「逐影庭」（Marechaussee Phantom）中的「Marechaussee」相同。",
+    notesZhTW: "英文名中的「Marechaussee」與「逐影庭」（Marechaussee Phantom）中的「Marechaussee」相同。",
     variants: {
       zhCN: [ "逐影套", "猎人套" ],
       zhTW: [ "逐影套", "獵人套" ],
@@ -392,7 +397,10 @@ export default [
     zhCN: "祭火礼冠",
     zhTW: "祭火禮冠",
     pronunciationJa: "ひまつりのかんむり",
+    notesEn: "Part of the \"Prayers for Illumination\" artifact set.",
     notes: "聖遺物セット「火祭りの人」(Prayers for Illumination) の1つ",
+    notesZh: "圣遗物套装「祭火之人」之一。",
+    notesZhTW: "聖遺物套裝「祭火之人」之一。",
     tags: [ "artifact-piece" ],
   },
   {
@@ -409,7 +417,10 @@ export default [
     zhCN: "祭冰礼冠",
     zhTW: "祭冰禮冠",
     pronunciationJa: "こおりまつりのかんむり",
+    notesEn: "Part of the \"Prayers for Springtime\" artifact set.",
     notes: "聖遺物セット「氷祭りの人」(Prayers for Springtime) の1つ",
+    notesZh: "圣遗物套装「祭冰之人」之一。",
+    notesZhTW: "聖遺物套裝「祭冰之人」之一。",
     tags: [ "artifact-piece" ],
   },
   {
@@ -426,7 +437,10 @@ export default [
     zhCN: "祭雷礼冠",
     zhTW: "祭雷禮冠",
     pronunciationJa: "かみなりまつりのかんむり",
+    notesEn: "Part of the \"Prayers for Wisdom\" artifact set.",
     notes: "聖遺物セット「雷祭りの人」(Prayers for Wisdom) の1つ",
+    notesZh: "圣遗物套装「祭雷之人」之一。",
+    notesZhTW: "聖遺物套裝「祭雷之人」之一。",
     tags: [ "artifact-piece" ],
   },
   {
@@ -594,6 +608,8 @@ export default [
     zhTW: "諧律異想斷章",
     pronunciationJa: "かいりつきそうのだんしょう",
     notes: "諧律は中国語で調和・ハーモニーを意味する言葉。日本では戦前に使われていた旧語",
+    notesZh: "「谐律」在汉语中表示调和、和谐。",
+    notesZhTW: "「諧律」在漢語中表示調和、和諧。",
     tags: [ "artifact" ],
   },
   {

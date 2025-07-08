@@ -197,6 +197,9 @@ export class Dictionary {
       if (word.notesZh) {
         word.notesZh = marked.parseInline(word.notesZh, { async: false });
       }
+      if (word.notesZhTW) {
+        word.notesZhTW = marked.parseInline(word.notesZhTW, { async: false });
+      }
 
       return word;
     });

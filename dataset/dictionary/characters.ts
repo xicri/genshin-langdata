@@ -10,8 +10,9 @@ export default [
     zhCN: "空",
     zhTW: "空",
     pronunciationJa: "そら",
-    notes: "男性主人公名。発音は「イーサー」。俗称として MC (Main Character の略?) と呼ばれることもある。",
-    notesZh: "男主人公的名字。",
+    notes: "男性主人公名。英語版の \"Aether\" の発音は「イーサー」。俗称として MC (Main Character の略) と呼ばれることもある。",
+    notesZh: "男主人公的名字。英文「Aether」为「以太」的意思。",
+    notesZhTW: "男主角的名字。英文「Aether」為「以太」的意思。",
     tags: [ "character-main" ],
   },
   {
@@ -20,8 +21,9 @@ export default [
     zhCN: "荧",
     zhTW: "熒",
     pronunciationJa: "ほたる",
-    notes: "女性主人公名。発音は「ルミーン」と思われるが諸説あり。俗称として MC (Main Character の略?) と呼ばれることもある。",
-    notesZh: "女主人公的名字",
+    notes: "女性主人公名。英語版の \"Lumine\" の発音は「ルミーン」と思われるが諸説あり。俗称として MC (Main Character の略) と呼ばれることもある。",
+    notesZh: "女主人公的名字。英文「Lumine」为「发光」的意思。",
+    notesZhTW: "女主角的名字。英文「Lumine」為「發光」的意思。",
     tags: [ "character-main" ],
   },
   // TODO need check
@@ -31,7 +33,9 @@ export default [
     zhCN: "旅行者",
     zhTW: "旅行者",
     pronunciationJa: "たびびと",
-    notes: "俗称として MC (Main Character の略?) と呼ばれることもある",
+    notes: "俗称として MC (Main Character の略) と呼ばれることもある",
+    notesZh: "俗称「MC」（Main Character 的缩写）。",
+    notesZhTW: "俗稱「MC」（Main Character 的縮寫）。",
     tags: [ "title", "how-to-call" ],
   },
   {
@@ -61,7 +65,8 @@ export default [
     pronunciationJa: "そらとぶちびすけ",
     tags: [ "title" ],
     notes: "荒瀧一斗がパイモンに付けたあだ名。Lavender Melon はスミレウリのこと。直訳すると「空飛ぶスミレウリ」",
-    notesZh: "荒泷一斗给派蒙起的绰号。",
+    notesZh: "荒泷一斗给派蒙起的绰号。日文「チビ助」意思是「小不点」。",
+    notesZhTW: "荒瀧一斗給派蒙起的綽號。日文「チビ助」意思是「小不點」。",
   },
   {
     en: "Katheryne",
@@ -114,7 +119,8 @@ export default [
     tags: [ "how-to-call", "character-sub" ],
     notesEn: "Another name for Phanes",
     notes: "パネースの別の呼び方",
-    notesZh: "法涅斯的另一个名称",
+    notesZh: "法涅斯的代称。",
+    notesZhTW: "法涅斯的代稱。",
   },
   {
     en: "Ronova",
@@ -122,9 +128,10 @@ export default [
     zhCN: "若娜瓦",
     zhTW: "若娜瓦",
     tags: [ "natlan", "character-sub" ],
-    notesEn: "An envoy of Heavenly Principle who holds the title of \"Ruler of Death\"",
+    notesEn: "An envoy of Heavenly Principle who holds the title of \"Ruler of Death.\"",
     notes: "「死の執政」の肩書を持つ天理の使者",
-    notesZh: "拥有「死之执政」头衔的天理使者",
+    notesZh: "天理座下四影之一的「死之执政」。",
+    notesZhTW: "天理座下四影之一的「死之執政」。",
   },
   {
     en: "Ruler of Death",
@@ -135,7 +142,8 @@ export default [
     tags: [ "natlan", "title" ],
     notesEn: "Ronova's title",
     notes: "ロノヴァの称号",
-    notesZh: "若娜瓦的的称号",
+    notesZh: "若娜瓦的称号。",
+    notesZhTW: "若娜瓦的稱號。",
   },
   {
     en: "Istaroth",
@@ -143,9 +151,10 @@ export default [
     zhCN: "伊斯塔露",
     zhTW: "伊斯塔露",
     tags: [ "mondstadt", "inazuma", "character-sub" ],
-    notesEn: "An envoy of Heavenly Principle who holds the title of \"Ruler of Time\"",
+    notesEn: "An envoy of Heavenly Principle who holds the title of \"Ruler of Time.\"",
     notes: "「時間の執政」の肩書を持つ天理の使者",
-    notesZh: "拥有「时间之执政」头衔的天理使者",
+    notesZh: "天理座下四影之一的「时间之执政」。",
+    notesZhTW: "天理座下四影之一的「時間之執政」。",
   },
   {
     en: "Ruler of Time",
@@ -156,7 +165,8 @@ export default [
     tags: [ "mondstadt", "inazuma", "title" ],
     notesEn: "Istaroth's title",
     notes: "イスタロトの称号",
-    notesZh: "伊斯塔露的称号",
+    notesZh: "伊斯塔露的称号。",
+    notesZhTW: "伊斯塔露的稱號。",
   },
   {
     en: "Naberius",
@@ -164,9 +174,10 @@ export default [
     zhCN: "纳贝里士",
     zhTW: "納貝里士",
     tags: [ "mondstadt", "khaenriah", "character-sub" ],
-    notesEn: "An envoy of Heavenly Principle who holds the title of \"Ruler of Life\"",
+    notesEn: "An envoy of Heavenly Principle who holds the title of \"Ruler of Life.\"",
     notes: "「生の執政」の肩書を持つ天理の使者",
-    notesZh: "拥有「生之执政」头衔的天理使者",
+    notesZh: "天理座下四影之一的「生之执政」。",
+    notesZhTW: "天理座下四影之一的「生之執政」。",
   },
   {
     en: "Ruler of Life",
@@ -177,7 +188,8 @@ export default [
     tags: [ "mondstadt", "khaenriah", "title" ],
     notesEn: "Naberius' title",
     notes: "ナベリウスの称号",
-    notesZh: "纳贝里士的称号",
+    notesZh: "纳贝里士的称号。",
+    notesZhTW: "納貝里士的稱號。",
   },
   {
     en: "The Trinity of Moon Goddesses",
@@ -251,7 +263,8 @@ export default [
     pronunciationJa: "かわいこちゃん",
     tags: [ "mondstadt", "how-to-call" ],
     notes: "リサの旅人に対する呼び方",
-    notesZh: "丽莎对旅行者的称呼",
+    notesZh: "丽莎对旅行者的称呼。",
+    notesZhTW: "麗莎對旅行者的稱呼。",
   },
   {
     en: "Venti",
@@ -268,6 +281,8 @@ export default [
     pronunciationJa: "ぎんゆうやろう",
     tags: [ "mondstadt", "how-to-call" ],
     notes: "tone-deaf は「音痴の」の意",
+    notesZh: "英文中「tone-deaf」是「五音不全」的意思，「bard」即「吟游诗人」。日文「野郎」略有贬义，但也可作为亲切的称呼。",
+    notesZhTW: "英文中「tone-deaf」是「五音不全」的意思，「bard」即「吟遊詩人」。日文「野郎」略有貶義，但也可作為親切的稱呼。",
   },
   {
     en: "Razor",
@@ -309,8 +324,9 @@ export default [
     ja: "断罪の皇女",
     zhCN: "断罪之皇女",
     zhTW: "斷罪之皇女",
-    notes: "英語ではなくドイツ語",
-    notesZh: "英语原文是德语",
+    notes: "英語版では英語ではなくドイツ語が用いられている",
+    notesZh: "「Prinzessin der Verurteilung」是德文。",
+    notesZhTW: "「Prinzessin der Verurteilung」是德文。",
     tags: [ "mondstadt", "title" ],
   },
   {
@@ -319,6 +335,8 @@ export default [
     zhCN: "艾米",
     zhTW: "艾米",
     notes: "フィッシュルの本名",
+    notesZh: "菲谢尔的本名。",
+    notesZhTW: "菲謝爾的本名。",
     tags: [ "mondstadt", "title" ],
   },
   {
@@ -341,7 +359,8 @@ export default [
     zhCN: "幽夜净土",
     zhTW: "幽夜淨土",
     notes: "英語版はドイツ語で「常夜の王国」の意。",
-    notesZh: "英语版内容在德语中是「常夜的王国」的意思。",
+    notesZh: "「Immernachtreich」在德文中是「常夜的王国」的意思。",
+    notesZhTW: "「Immernachtreich」在德文中是「常夜的王國」的意思。",
     tags: [ "mondstadt" ],
   },
   {
@@ -375,7 +394,8 @@ export default [
     zhCN: "荣誉骑士哥哥",
     zhTW: "榮譽騎士哥哥",
     notes: "クレーの空に対する呼び方",
-    notesZh: "可莉对空的称呼",
+    notesZh: "可莉对旅行者（空）的称呼。",
+    notesZhTW: "可莉對旅行者（空）的稱呼。",
     tags: [ "mondstadt", "how-to-call" ],
   },
   {
@@ -384,7 +404,8 @@ export default [
     zhCN: "荣誉骑士姐姐",
     zhTW: "榮譽騎士姐姐",
     notes: "クレーの蛍に対する呼び方",
-    notesZh: "可莉对荧的称呼",
+    notesZh: "可莉对旅行者（荧）的称呼。",
+    notesZhTW: "可莉對旅行者（熒）的稱呼。",
     tags: [ "mondstadt", "how-to-call" ],
   },
   {
@@ -418,7 +439,8 @@ export default [
     pronunciationJa: "はんせいしつ",
     tags: [ "mondstadt" ],
     notes: "「反省室に閉じ込められる」は \"be grounded\"。",
-    notesZh: "「关禁闭室」的英语说法是\"be grounded\"",
+    notesZh: "「关禁闭室」的英文说法是「be grounded」。",
+    notesZhTW: "「關禁閉室」的英文說法是「be grounded」。",
     examples: [{
       en: "Yeesh, if Jean was listening to this... Klee might find herself grounded for an awful lot longer.",
       ja: "はあ、ジンがこの話を聞いたら…きっと、クレーの反省室で過ごす時間が長くなるだろうな…",
@@ -442,6 +464,8 @@ export default [
     zhTW: "芭芭拉·佩奇",
     tags: [ "mondstadt", "character-main" ],
     notes: "姓については、日本語では表記揺れあり。英語版の発音は「バーバラ・ペッグ」",
+    notesZh: "姓氏「Pegg」在日文中有两种写法。英文版姓氏曾作「Page」，但现在已改为「Pegg」。",
+    notesZhTW: "姓氏「Pegg」在日文中有兩種寫法。英文版姓氏曾作「Page」，但現在已改為「Pegg」。",
   },
   {
     en: "Sucrose",
@@ -466,7 +490,8 @@ export default [
     tags: [ "mondstadt", "title" ],
     notesEn: "Albedo's title",
     notes: "アルベドの称号",
-    notesZh: "阿贝多的称号",
+    notesZh: "阿贝多的称号。",
+    notesZhTW: "阿貝多的稱號。",
   },
   {
     en: "Chief Alchemist",
@@ -476,6 +501,8 @@ export default [
     pronunciationJa: "しゅせきれんきんじゅつし",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドの西風騎士団における職名",
+    notesZh: "阿贝多在西风骑士团中的职位名。",
+    notesZhTW: "阿貝多在西風騎士團中的職位名。",
   },
   {
     en: "Captain of the Investigation Team",
@@ -485,6 +512,8 @@ export default [
     pronunciationJa: "ちょうさしょうたいたいちょう",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドの西風騎士団における職名",
+    notesZh: "阿贝多在西风骑士团中的职位名。",
+    notesZhTW: "阿貝多在西風騎士團中的職位名。",
   },
   {
     en: "Calx",
@@ -494,6 +523,8 @@ export default [
     pronunciationJa: "はくあ",
     tags: [ "mondstadt", "title" ],
     notes: "アルベドのペンネーム",
+    notesZh: "阿贝多的笔名。",
+    notesZhTW: "阿貝多的筆名。",
   },
   {
     en: "Astrologist Mona Megistus",
@@ -507,8 +538,9 @@ export default [
     ja: "ロサリア",
     zhCN: "罗莎莉亚",
     zhTW: "羅莎莉亞",
-    notes: "英語では「ロザリア」と発音される。カタカナで表すと崩壊 3rd のロザリア・アリーンと全く同名に見えるが、こちらは Rozaliya と綴る。",
-    notesZh: "与崩坏3中的角色萝莎莉娅·阿琳的名字几乎完全一样。该角色的英语官方名字写作Rozaliya，中文写作「**萝**莎莉**娅**」，日语写作「ロ**ザ**リア」。",
+    notes: "英語では「ロザリア」と発音される。崩壊 3rd のロ**ザ**リア・アリーンは、英語では \"Rozaliya\"、簡体字中国語では「**萝**莎莉**娅**」、繁体字中国語では「**蘿**莎莉**婭**」と表記され、微妙に異なる。",
+    notesZh: "与《崩坏 3》中的角色萝莎莉娅·阿琳的名字几乎完全一样。该角色的英文官方名字写作「Rozaliya」，中文写作「**萝**莎莉**娅**」，日文写作「ロ**ザ**リア」。",
+    notesZhTW: "與《崩壞 3rd》中的角色蘿莎莉婭·阿琳的名字幾乎完全一樣。該角色的英文官方名字寫作「Rozaliya」，中文寫作「**蘿**莎莉**婭**」，日文寫作「ロ**ザ**リア」。",
     tags: [ "mondstadt", "character-main" ],
   },
   {
@@ -530,7 +562,8 @@ export default [
     tags: [ "mondstadt", "title" ],
     notesEn: "Eula's title",
     notes: "エウルアの称号",
-    notesZh: "优菈的称号",
+    notesZh: "优菈的称号。",
+    notesZhTW: "優菈的稱號。",
   },
   {
     en: "Captain of the Reconnaissance Company",
@@ -540,6 +573,8 @@ export default [
     pronunciationJa: "ゆうげきしょうたいたいちょう",
     tags: [ "mondstadt", "title" ],
     notes: "エウルアの西風騎士団における職名",
+    notesZh: "优菈在西风骑士团中的职位名。",
+    notesZhTW: "優菈在西風騎士團中的職位名。",
   },
   {
     en: "aristocrat",
@@ -548,7 +583,8 @@ export default [
     zhTW: "舊貴族",
     pronunciationJa: "きゅうきぞく",
     notes: "聖遺物ではなく、ローレンス家等を指す方の「旧貴族」。aristocrat は単に「貴族」の意で、「旧」の意味は省略されている。",
-    notesZh: "指劳伦斯家族等旧贵族。aristocrat本身只是「贵族」的意思，并不包含「旧」的意思。",
+    notesZh: "「旧贵族」指蒙德的劳伦斯家族等。「aristocrat」意思是「贵族」，并不包含「旧」的含义。",
+    notesZhTW: "「舊貴族」指蒙德的勞倫斯家族等。「aristocrat」意思是「貴族」，並不包含「舊」的含義。",
     tags: [ "mondstadt" ],
   },
   {
@@ -570,7 +606,8 @@ export default [
     pronunciationJa: "ぜんしんそくりょうし",
     tags: [ "mondstadt", "title" ],
     notes: "ミカの西風騎士団における職名",
-    notesZh: "米卡的在西风骑士团中的职位名",
+    notesZh: "米卡在西风骑士团中的职位名。",
+    notesZhTW: "米卡在西風騎士團中的職位名。",
   },
   {
     en: "Barbatos",
@@ -578,9 +615,10 @@ export default [
     zhCN: "巴巴托斯",
     zhTW: "巴巴託斯",
     tags: [ "mondstadt", "title" ],
-    notesEn: "Venti's name as a god",
+    notesEn: "Venti's Goetic name.",
     notes: "ウェンティの魔神名",
-    notesZh: "温迪之魔神的名字",
+    notesZh: "温迪的魔神名。",
+    notesZhTW: "溫迪的魔神名。",
   },
   {
     en: "Anemo Archon",
@@ -590,7 +628,8 @@ export default [
     tags: [ "mondstadt", "title" ],
     pronunciationJa: "ふうじん",
     notes: "Anemo God、God of Anemo などのように表記される場合もある。",
-    notesZh: "也有写作Anemo God, God of Anemo等的情况。",
+    notesZh: "英文也有写作「Anemo God」、「God of Anemo」等的情况。",
+    notesZhTW: "英文也有寫作「Anemo God」、「God of Anemo」等的情況。",
     variants: {
       en: [ "Anemo God", "God of Anemo" ],
     },
@@ -628,7 +667,8 @@ export default [
     zhTW: "終天的閉幕曲",
     pronunciationJa: "しゅうてんのフィナーレ",
     notes: "トワリンの技、又はトワリン戦の曲名 (※曲名は日本語では「終焉のフィナーレ」となっている)",
-    notesZh: "特瓦林的技能名, 也是与特瓦林战斗时的BGM的曲名。",
+    notesZh: "特瓦林的技能名, 也是与特瓦林战斗时的 BGM 曲名。",
+    notesZhTW: "特瓦林的技能名, 也是與特瓦林戰鬥時的 BGM 曲名。",
     tags: [ "mondstadt" ],
   },
   {
@@ -653,7 +693,8 @@ export default [
     zhTW: "安德留斯",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
     notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
-    notesZh: "日语中常常单独称作「狼」, 英语中同样也有称作\"wolf\"的情况。中文中常常称作「北风的狼王」或北风狼。",
+    notesZh: "日文中常简称「狼」, 英文中同样也有称作「wolf」的情况。中文中则通称「北风之狼王」（简作「北风狼」）。",
+    notesZhTW: "日文中常簡稱「狼」, 英文中同樣也有稱作「wolf」的情況。中文中則通稱「北風之狼王」（簡作「北風狼」）。",
     variants: {
       ja: [ "アンドレアス" ],
     },
@@ -665,7 +706,8 @@ export default [
     zhTW: "玻瑞亞斯",
     tags: [ "mondstadt", "enemy-boss", "character-sub" ],
     notes: "日本語では単に「狼」と呼ばれることもあり、英語でも同様に \"wolf\" と呼ばれる",
-    notesZh: "英语中有时直接称作 \"Wolf\"，日语中也有直接称作「狼」的情况。中文中常常称作「北风的狼王」或「北风狼」。",
+    notesZh: "日文中常简称「狼」, 英文中同样也有称作「wolf」的情况。中文中则通称「北风之狼王」（简作「北风狼」）。",
+    notesZhTW: "日文中常簡稱「狼」, 英文中同樣也有稱作「wolf」的情況。中文中則通稱「北風之狼王」（簡作「北風狼」）。",
   },
   {
     en: "Dominator of Wolves",
@@ -682,7 +724,8 @@ export default [
     zhTW: "艾莉絲",
     tags: [ "mondstadt", "character-sub" ],
     notes: "クレーの母。魔女会・コードA",
-    notesZh: "可莉的母亲。魔女会代号A。",
+    notesZh: "可莉的母亲。魔女会代号 A。",
+    notesZhTW: "可莉的母親。魔女會代號 A。",
   },
   {
     en: "Rhinedottir",
@@ -690,8 +733,9 @@ export default [
     zhCN: "莱茵多特",
     zhTW: "萊茵多特",
     tags: [ "mondstadt", "khaenriah", "character-sub" ],
-    notes: "黄金の通称を持つ。カーンルイアの五大罪人のひとり。アルベドの創造者。魔女会・コードR。英語における発音は「ラインドッタァ」",
-    notesZh: "阿贝多的创造者。魔女会代号R。",
+    notes: "アルベドの創造者。カーンルイアの五大罪人の一人で、「黄金」の通称を持つ。魔女会・コードR。英語における発音は「ラインドッタァ」",
+    notesZh: "阿贝多的创造者，坎瑞亚五大罪人之一，通称「黄金」。魔女会代号 R。",
+    notesZhTW: "阿貝多的創造者，坎瑞亞五大罪人之一，通稱「黃金」。魔女會代號 R。",
   },
   {
     en: "Barbeloth",
@@ -700,7 +744,8 @@ export default [
     zhTW: "芭比洛斯",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードB。モナの師匠 (おばば)", // In a quest movie in the limited-time event of v4.8 in Simulanka, it is explicitly mentioned that Barbelos and Mona's old hag are identical person.
-    notesZh: "魔女会代号B。莫娜的师傅（老太婆）",
+    notesZh: "魔女会代号 B。莫娜的师父，被莫娜称为「老太婆」。",
+    notesZhTW: "魔女會代號 B。莫娜的師父，被莫娜稱為「老太婆」。",
   },
   {
     en: "the old hag",
@@ -709,7 +754,8 @@ export default [
     zhTW: "老太婆",
     tags: [ "mondstadt", "how-to-call" ],
     notes: "モナの自身の師匠に対する呼び方。old hag は、一般には意地悪な高齢女性を揶揄して呼ぶ言葉。",
-    notesZh: "莫娜对她的师傅的称呼。old hag一般是对高龄女性的带有贬义的称呼。",
+    notesZh: "莫娜对她的师父的称呼。英文中「old hag」一般是对高龄女性的带有贬义的称呼。",
+    notesZhTW: "莫娜對她的師父的稱呼。英文中「old hag」一般是對高齡女性的帶有貶義的稱呼。",
   },
   {
     en: "I. Ivanovna N.",
@@ -718,7 +764,8 @@ export default [
     zhTW: "I·伊萬諾夫娜·N",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードJ",
-    notesZh: "魔女会代号J。",
+    notesZh: "魔女会代号 J。",
+    notesZhTW: "魔女會代號 J。",
   },
   {
     en: "Andersdotter",
@@ -727,7 +774,8 @@ export default [
     zhTW: "安德斯多特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードM。イノシシプリンセスの作者。フルネームは「アンヤ・M・アンデシュドッテル」(英: Anya M. Andersdotter, 簡中: 安雅·M·安德斯多特) と思われる", // Source of her fullname: Event movie in Simulanka in v4.8
-    notesZh: "魔女会代号M。《野猪公主》的作者。安雅·M·安德斯多特 (英: Anya M. Andersdotter, 日: アンヤ・M・アンデシュドッテル) 似乎是全名",
+    notesZh: "魔女会代号 M。《野猪公主》的作者。全名可能为「安雅·M·安德斯多特」（英：Anya M. Andersdotter，日：アンヤ・M・アンデシュドッテル）。",
+    notesZhTW: "魔女會代號 M。《野豬公主》的作者。全名可能為「安雅·M·安德斯多特」（英：Anya M. Andersdotter，日：アンヤ・M・アンデシュドッテル）。",
   },
   {
     en: "Nicole Reeyn",
@@ -736,7 +784,8 @@ export default [
     zhTW: "尼可·萊恩",
     tags: [ "mondstadt", "character-sub" ],
     notes: "魔女会・コードN。英語版におけるファーストネームの発音は「ニコル」",
-    notesZh: "魔女会代号N。",
+    notesZh: "魔女会代号 N。",
+    notesZhTW: "魔女會代號 N。",
   },
   {
     en: "Timaeus",
@@ -752,7 +801,8 @@ export default [
     zhTW: "塞琉斯 / 居勒什",
     tags: [ "mondstadt", "sumeru", "character-sub" ],
     notes: "サイリュスはモンドの冒険者協会の支部長。ジュライセンはスメール教令院におけるリサとセノの師。英語版ではどちらも Cyrus と表記される。発音も同じで、どちらも「サイラス」。",
-    notesZh: "塞琉斯是蒙德冒险家协会的分会长。居勒什事须弥教令院的丽莎和赛诺的老师。在英语版中两人都被称作Cyrus，发音也相同。",
+    notesZh: "塞琉斯是蒙德冒险家协会的分会长。居勒什是须弥教令院中丽莎和赛诺的老师。在英文版中两人都被称作「Cyrus」，发音也相同。",
+    notesZhTW: "塞琉斯是蒙德冒險家協會的分會長。居勒什是須彌教令院中麗莎和賽諾的老師。在英文版中兩人都被稱作「Cyrus」，發音也相同。",
   },
   {
     en: "Adelinde",
@@ -760,8 +810,9 @@ export default [
     zhCN: "爱德琳",
     zhTW: "愛德琳",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "ラグヴィンド家のメイド長",
-    notesZh: "莱艮芬德家族（迪卢克的家族）的女仆长",
+    notes: "ラグヴィンド家 (ディルックの家) のメイド長",
+    notesZh: "莱艮芬德家族（迪卢克的家族）的女仆长。",
+    notesZhTW: "萊艮芬德家族（迪盧克的家族）的女僕長。",
   },
   {
     en: "Hertha",
@@ -771,7 +822,8 @@ export default [
     tags: [ "mondstadt", "character-sub" ],
     notes: "モンド評判任務の受付キャラクター",
     notesEn: "A representative character for the reputation quests in Mondstadt.",
-    notesZh: "蒙德声望任务的交付角色",
+    notesZh: "蒙德声望任务的交付角色。",
+    notesZhTW: "蒙德聲望任務的交付角色。",
   },
   {
     en: "Margaret",
@@ -780,8 +832,9 @@ export default [
     zhTW: "瑪格麗特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "キャッツテールの店主",
-    notesEn: "Boss at Cat's Tail",
-    notesZh: "猫尾酒馆的店主",
+    notesEn: "Boss at Cat's Tail.",
+    notesZh: "猫尾酒馆的店主。",
+    notesZhTW: "貓尾酒館的店主。",
   },
   {
     en: "Draff Kätzlein",
@@ -790,8 +843,9 @@ export default [
     zhTW: "杜拉夫·凱茨萊茵",
     tags: [ "mondstadt", "character-sub" ],
     notes: "ディオナの父親で清泉町の狩人のリーダー",
-    notesEn: "Diona's father and the head of the hunters in Springvale",
-    notesZh: "迪奥娜的父亲、清泉镇的猎人首领",
+    notesEn: "Diona's father and the head of the hunters in Springvale.",
+    notesZh: "迪奥娜的父亲，清泉镇的猎人首领。",
+    notesZhTW: "迪奧娜的父親，清泉鎮的獵人首領。",
   },
   {
     en: "Ellin",
@@ -835,7 +889,8 @@ export default [
     zhTW: "霍夫曼·施密特",
     tags: [ "mondstadt", "character-sub" ],
     notes: "ミカの兄",
-    notesZh: "米卡的哥哥",
+    notesZh: "米卡的哥哥。",
+    notesZhTW: "米卡的哥哥。",
     variants: {
       en: [ "Huffman", "Schmidt" ],
       ja: [ "ホフマン", "シュミット" ],
@@ -868,7 +923,9 @@ export default [
     zhCN: "西蒙·佩奇",
     zhTW: "西蒙·佩奇",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "姓については表記揺れあり。英語版の発音は「シーマス・ペッグ」",
+    notes: "日本語版では姓について表記揺れがある。英語版の発音は「シーマス・ペッグ」",
+    notesZh: "姓氏「Pegg」在日文中有两种写法。英文版姓氏曾作「Page」，但现在已改为「Pegg」。",
+    notesZhTW: "姓氏「Pegg」在日文中有兩種寫法。英文版姓氏曾作「Page」，但現在已改為「Pegg」。",
   },
   {
     en: "Varka",
@@ -886,6 +943,8 @@ export default [
     tags: [ "mondstadt", "title" ],
     notes: "ファルカの西風騎士団における職名。",
     notesZh: "法尔伽在西风骑士团的职位名。",
+    notesZhTW: "法爾伽在西風騎士團的職位名。",
+
     examples: [{
       en: "I will now be reading Grand Master Varka's letter aloud for you all.",
       ja: "ファルカ大団長からの手紙を読ませていただきます。",
@@ -979,7 +1038,9 @@ export default [
     zhTW: "楠塔克",
     tags: [ "mondstadt", "character-sub" ],
     notes: "モンドの漁師",
-    notesEn: "Mondstadt Angler",
+    notesEn: "Mondstadt Angler.",
+    notesZh: "蒙德的渔夫。",
+    notesZhTW: "蒙德的漁夫。",
   },
   {
     en: "Marjorie",
@@ -988,7 +1049,8 @@ export default [
     zhTW: "瑪喬麗",
     tags: [ "mondstadt", "character-sub" ],
     notes: "「栄光の風」の店主",
-    notesZh: "「荣光之风」的店主",
+    notesZh: "「荣光之风」的店主。",
+    notesZhTW: "「榮光之風」的店主。",
   },
   {
     en: "Callirhoe",
@@ -997,7 +1059,8 @@ export default [
     zhTW: "卡莉露",
     tags: [ "mondstadt", "fontaine", "character-sub" ],
     notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」に登場する純水精霊",
-    notesZh: "v4.1 活动「游水酝诗籍」的纯水精灵",
+    notesZh: "v4.1 活动「游水酝诗籍」的纯水精灵。",
+    notesZhTW: "v4.1 活動「遊水醞詩籍」的純水精靈。",
   },
   {
     en: "Wolfy",
@@ -1007,6 +1070,8 @@ export default [
     pronunciationJa: "こオオカミ",
     tags: [ "mondstadt", "character-sub" ],
     notes: "幻想シアターの控え室に登場するキャラクター",
+    notesZh: "幻想真境剧诗的休息室中的登场角色。",
+    notesZhTW: "幻想真境劇詩的休息室中的登場角色。",
   },
   {
     en: "Sansa",
@@ -1014,6 +1079,8 @@ export default [
     zhCN: "莎莎",
     zhTW: "莎莎",
     notes: "世界任務「自由の風に向かって」に登場する人物",
+    notesZh: "世界任务「致自由之风」中的登场角色。",
+    notesZhTW: "世界任務「致自由之風」中的登場角色。",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
@@ -1054,7 +1121,8 @@ export default [
     pronunciationJa: "ユーヘン",
     notesEn: "Keqing's title",
     notes: "刻晴の称号。中国では、北斗七星の1つであるおおぐま座ε星が「玉衡」と呼ばれることに由来。 参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)",
-    notesZh: "刻晴的称号。该名字来自于北斗七星中的玉衡星。 [维基百科](https://zh.wikipedia.org/wiki/%E7%8E%89%E8%A1%A1_(%E6%81%92%E6%98%9F)) [百度百科](https://baike.baidu.com/item/%E7%8E%89%E8%A1%A1/75319)",
+    notesZh: "刻晴的称号。该名字来自于北斗七星中的玉衡星。 [维基百科](https://zh.wikipedia.org/wiki/%E7%8E%89%E8%A1%A1_(%E6%81%92%E6%98%9F))；[百度百科](https://baike.baidu.com/item/%E7%8E%89%E8%A1%A1/75319)。",
+    notesZhTW: "刻晴的稱號。該名字來自於北斗七星中的玉衡星。 [維基百科](https://zh.wikipedia.org/wiki/%E7%8E%89%E8%A1%A1_(%E6%81%92%E6%98%9F))。",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1074,7 +1142,8 @@ export default [
     pronunciationJa: "テンチュエン",
     notesEn: "Ningguang's title",
     notes: "凝光の称号。中国では、北斗七星の1つであるおおぐま座δ星が「天権」と呼ばれることに由来。参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)",
-    notesZh: "凝光的称号。该名字来自于北斗七星中的天权星，也被称作文曲星，掌管学问。 [维基百科](https://zh.wikipedia.org/zh-cn/%E5%A4%A9%E6%AC%8A) [百度百科](https://baike.baidu.com/item/%E5%A4%A9%E6%9D%83/5233911)",
+    notesZh: "凝光的称号。该名字来自于北斗七星中的天权星，也被称作「文曲星」，掌管学问。 [维基百科](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%AC%8A)；[百度百科](https://baike.baidu.com/item/%E5%A4%A9%E6%9D%83/5233911)。",
+    notesZhTW: "凝光的稱號。該名字來自於北斗七星中的天權星，也被稱作「文曲星」，掌管學問。 [維基百科](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%AC%8A)。",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1094,7 +1163,8 @@ export default [
     pronunciationJa: "きゅうくどやくしんくん",
     notesEn: "Qiqi's adeptus name",
     notes: "七七の仙名",
-    notesZh: "七七的仙名",
+    notesZh: "七七的仙名。",
+    notesZhTW: "七七的仙名。",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1113,7 +1183,8 @@ export default [
     zhTW: "枕玉",
     pronunciationJa: "ちんぎょく",
     notes: "行秋のペンネーム",
-    notesZh: "行秋的笔名",
+    notesZh: "行秋的笔名。",
+    notesZhTW: "行秋的筆名。",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1151,7 +1222,8 @@ export default [
     zhTW: "鍾離",
     pronunciationJa: "しょうり",
     notes: "読みは「ヂョンリー」([参考動画](https://youtu.be/p10yiwULJA8?t=118))",
-    notesZh: "锺离是中国古代早已有之的一个汉字复姓。根据国务院在2013年公布的由国家语委和教育部制定的《通用规范汉字表》，在人名姓氏中使用的「钟」字应当恢复使用「锺」字。 [维基百科：钟离姓](https://zh.wikipedia.org/wiki/鍾離姓) [百度百科：钟离姓](https://baike.baidu.com/item/钟离姓/10971667) [教育部：通用规范汉字表](https://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)",
+    notesZh: "「锺离」（曾经简化字写作「钟离」）是中国古代早已有之的汉字复姓。根据国务院在2013年公布的由国家语委和教育部制定的《通用规范汉字表》，在人名姓氏中使用的「钟」字应当改为「锺」字。[维基百科](https://zh.wikipedia.org/wiki/鍾離姓)；[百度百科](https://baike.baidu.com/item/钟离姓/10971667)；[教育部通用规范汉字表](https://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)。",
+    notesZhTW: "「鍾離」是中國古代早已有之的漢字複姓。[維基百科](https://zh.wikipedia.org/wiki/%E9%8D%BE%E9%9B%A2%E5%A7%93)。",
     tags: [ "liyue", "character-main" ],
     variants: {
       ja: [ "鐘離" ],
@@ -1165,7 +1237,8 @@ export default [
     pronunciationJa: "かっけい",
     tags: [ "liyue", "title" ],
     notes: "鍾離の往生堂における地位。guest と訳されている箇所もある。", // Source: v2.4 Fleeting Colors in Flight preview page https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
-    notesZh: "钟离在往生堂的职位。也有被翻译为guest的地方。",
+    notesZh: "钟离在往生堂的职位。在英文版有时候也译作「guest」（客人）。",
+    notesZhTW: "鍾離在往生堂的職位。在英文版有時候也譯作「guest」（客人）。",
   },
   {
     en: "Mr. Zhongli",
@@ -1174,8 +1247,9 @@ export default [
     zhTW: "鍾離先生",
     pronunciationJa: "しょうりせんせい / しょうりさん",
     tags: [ "liyue", "how-to-call" ],
-    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。香菱などは、英語版では Mr. Zhongli、日本語では「鍾離さん」と呼ぶ。(鍾離のエピソード動画「想定外の支出」など [日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80))",
-    notesZh: "中文版中称作「钟离先生」的地方，英语版中并非一定使用了 Mr. 的前缀。",
+    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。例えば香菱などは、英語版では Mr. Zhongli、日本語では「鍾離さん」と呼ぶ。(鍾離のエピソード動画「想定外の支出」など [日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80))",
+    notesZh: "在日文版中，即使是称呼「钟离先生」的场景，英文版有时也会直接称呼「Zhongli」，并不总是带有「Mr.」。例如香菱在英文版中称呼为「Mr. Zhongli」，而在日文版中则称呼为「鍾離さん」。（参考钟离角色PV「额外的记账」：[日文版](https://youtu.be/5slzVViNrtA?t=79)、[英文版](https://youtu.be/CvCzYbVei04?t=80)。）",
+    notesZhTW: "在日文版中，即使是稱呼「鍾離先生」的場景，英文版有時也會直接稱呼「Zhongli」，並不總是帶有「Mr.」。例如香菱在英文版中稱呼為「Mr. Zhongli」，而在日文版中則稱呼為「鍾離さん」。（參考鍾離角色PV「額外的記帳」：[日文版](https://youtu.be/5slzVViNrtA?t=79)、[英文版](https://youtu.be/CvCzYbVei04?t=80)。）",
   },
   {
     en: "Jade Shield",
@@ -1184,6 +1258,8 @@ export default [
     zhTW: "玉璋護盾",
     pronunciationJa: "ぎょくしょうシールド",
     notes: "鍾離の元素スキルで生成されるシールド",
+    notesZh: "钟离元素战技生成的护盾。",
+    notesZhTW: "鍾離元素戰技生成的護盾。",
     tags: [ "liyue" ],
   },
   {
@@ -1205,7 +1281,8 @@ export default [
     pronunciationJa: "こうまたいせい",
     notesEn: "Xiao's title",
     notes: "魈の称号",
-    notesZh: "魈的称号",
+    notesZh: "魈的称号。",
+    notesZhTW: "魈的稱號。",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1217,7 +1294,8 @@ export default [
     // Source of Vigilant Yaksha: v2.4 Fleeting Colors in Flight preview page https://webstatic-sea.hoyoverse.com/ys/event/e20211227-pre/
     notesEn: "Xiao's title",
     notes: "魈の称号。「護法夜叉大将」(Vigilant Yaksha) と記される場合もある。",
-    notesZh: "魈的称号",
+    notesZh: "魈的称号。日文版中有时会补上「大将」二字。英文版另有「Vigilant Yaksha」，亦表示护法夜叉。",
+    notesZhTW: "魈的稱號。日文版中有時會補上「大將」二字。英文版另有「Vigilant Yaksha」，亦表示護法夜叉。",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1228,7 +1306,7 @@ export default [
     pronunciationJa: "きんほう",
     notesEn: "Xiao's title",
     notes: "魈の称号",
-    notesZh: "魈的称号",
+    notesZh: "魈的称号。",
     tags: [ "liyue", "title" ],
   },
   {
@@ -1293,7 +1371,8 @@ export default [
     pronunciationJa: "びゃくせんせい",
     tags: [ "liyue", "how-to-call" ],
     notes: "七七などからの白朮の呼び名",
-    notesZh: "七七等对白术的称呼",
+    notesZh: "七七对白术的称呼。",
+    notesZhTW: "七七對白朮的稱呼。",
   },
   // ▼▼ TODO Become a main character in the upcoming version? ▼▼
   {
@@ -1321,6 +1400,8 @@ export default [
     pronunciationJa: "うんせんせい / うんざがしら",
     tags: [ "liyue", "how-to-call" ],
     notes: "雲菫への敬称",
+    notesZh: "对云堇的敬称。",
+    notesZhTW: "對雲堇的敬稱。",
   },
   {
     en: "Shenhe",
@@ -1353,7 +1434,9 @@ export default [
     zhTW: "月桂",
     pronunciationJa: "ユェーグェイ",
     tags: [ "liyue", "object" ],
-    notes: "ヨォーヨの持っている人形 (?)",
+    notes: "ヨォーヨの持っている人形 (留雲借風真君が作ったからくり)",
+    notesZh: "瑶瑶手中拿的布偶，留云借风真君打造的仙家法宝。",
+    notesZhTW: "瑤瑤手中拿的布偶，留雲借風真君打造的仙家法寶。",
   },
   {
     en: "Jade Radish",
@@ -1363,6 +1446,8 @@ export default [
     pronunciationJa: "しらたまだいこん", // need confirmation
     tags: [ "liyue" ],
     notes: "月桂が投げる武器",
+    notesZh: "月桂投掷的武器。",
+    notesZhTW: "月桂投擲的武器。",
   },
   {
     en: "Mega Radish",
@@ -1372,7 +1457,8 @@ export default [
     pronunciationJa: "ちょうスゴイだいこん",
     tags: [ "liyue" ],
     notes: "ヨォーヨが完凸している場合に月桂が投げる武器",
-    notesZh: "瑶瑶满命之后月桂投掷的武器的名字",
+    notesZh: "瑶瑶满命之后月桂投掷的武器的名字。",
+    notesZhTW: "瑤瑤滿命之後月桂投擲的武器的名字。",
   },
   {
     en: "Morax",
@@ -1380,9 +1466,10 @@ export default [
     zhCN: "摩拉克斯",
     zhTW: "摩拉克斯",
     tags: [ "liyue", "title" ],
-    notesEn: "Zhongli's name as a god",
+    notesEn: "Zhongli's Goetic name.",
     notes: "鍾離の魔神名",
-    notesZh: "钟离之魔神的名字",
+    notesZh: "钟离的魔神名。",
+    notesZhTW: "鍾離的魔神名。",
   },
   {
     en: "Rex Lapis",
@@ -1391,9 +1478,10 @@ export default [
     zhTW: "岩王帝君",
     pronunciationJa: "がんおうていくん",
     tags: [ "liyue", "title", "how-to-call" ],
-    notesEn: "Honorary title to Morax",
+    notesEn: "Honorary title to Morax.",
     notes: "モラクスへの尊称",
-    notesZh: "対摩拉克斯的尊称",
+    notesZh: "对摩拉克斯的尊称。",
+    notesZhTW: "對摩拉克斯的尊稱。",
     variants: {
       zhCN: [ "岩王爷", "阎王爷" ],
       zhTW: [ "岩王爺", "閻王爺" ],
@@ -1419,7 +1507,8 @@ export default [
     tags: [ "liyue", "character-main" ],
     notesEn: "Cloud Retainer's popular name",
     notes: "留雲借風真君の俗名",
-    notesZh: "留云借风真君的俗名",
+    notesZh: "留云借风真君入世后起的新名字。",
+    notesZhTW: "留雲借風真君入世後起的新名字。",
   },
   {
     en: "Gaming",
@@ -1449,7 +1538,8 @@ export default [
     tags: [ "liyue", "character-sub", "sereniteapot" ],
     notesEn: "Streetward Rambler's popular name",
     notes: "歌塵浪市真君の俗名",
-    notesZh: "歌尘浪市真君的俗名",
+    notesZh: "歌尘浪市真君入世后的称呼。",
+    notesZhTW: "歌塵浪市真君入世後的稱呼。",
   },
   {
     en: "Streetward Rambler",
@@ -1460,7 +1550,8 @@ export default [
     tags: [ "liyue", "character-sub", "sereniteapot" ],
     notesEn: "Madame Ping's adeptus name and title",
     notes: "ピンばあやの称号・仙名",
-    notesZh: "萍姥姥的称号·仙名",
+    notesZh: "萍姥姥的称号和仙名。",
+    notesZhTW: "萍姥姥的稱號和仙名。",
   },
   {
     en: "Uncle Tian",
@@ -1480,6 +1571,7 @@ export default [
     notesEn: "Uncle Tian's title",
     notes: "天おじの称号。中国では、北斗七星の1つであるおおぐま座α星が「天枢」と呼ばれることに由来。参考: [Wikipedia: 北斗七星](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F#%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E6%98%9F)",
     notesZh: "天叔的称号。来自于北斗七星中的天枢星。",
+    notesZhTW: "天叔的稱號。來自於北斗七星中的天樞星。",
   },
   {
     en: "Moon Carver",
@@ -1490,7 +1582,8 @@ export default [
     tags: [ "liyue", "character-sub" ],
     notesEn: "Houzhang's adeptus name and title",
     notes: "候章の称号・仙名",
-    notesZh: "侯章的称号·仙名",
+    notesZh: "侯章的称号和仙名。",
+    notesZhTW: "侯章的稱號和仙名。",
   },
   {
     en: "Mountain Shaper",
@@ -1501,7 +1594,8 @@ export default [
     tags: [ "liyue", "character-sub" ],
     notesEn: "Jiehu's adeptus name and title",
     notes: "接笏の称号・仙名",
-    notesZh: "接笏的称号·仙名",
+    notesZh: "接笏的称号和仙名。",
+    notesZhTW: "接笏的稱號和仙名。",
   },
   {
     en: "Uncle Mountain Shaper",
@@ -1511,7 +1605,8 @@ export default [
     pronunciationJa: "りすいおじちゃん",
     tags: [ "liyue", "how-to-call" ],
     notes: "ヨォーヨの理水畳山真君に対する呼び方",
-    notesZh: "瑶瑶对理水叠山真君的称呼",
+    notesZh: "瑶瑶对理水叠山真君的称呼。",
+    notesZhTW: "瑤瑤對理水疊山真君的稱呼。",
   },
   {
     en: "Cloud Retainer",
@@ -1520,9 +1615,10 @@ export default [
     zhTW: "留雲借風真君",
     pronunciationJa: "りゅううんしゃくふうしんくん",
     tags: [ "liyue", "character-sub" ],
-    notesEn: "Xianyun's adeptus name and title",
+    notesEn: "Xianyun's adeptus name and title.",
     notes: "閑雲の称号・仙名",
-    notesZh: "闲云的称号·仙名",
+    notesZh: "闲云的称号和仙名。",
+    notesZhTW: "閒雲的稱號和仙名。",
   },
   {
     en: "Aunty Cloud Retainer",
@@ -1532,7 +1628,8 @@ export default [
     pronunciationJa: "りゅううんおばちゃん",
     tags: [ "liyue", "how-to-call" ],
     notes: "ヨォーヨの留雲借風真君に対する呼び方",
-    notesZh: "瑶瑶对留云借风真君的称呼",
+    notesZh: "瑶瑶对留云借风真君的称呼。",
+    notesZhTW: "瑤瑤對留雲借風真君的稱呼。",
   },
   {
     en: "Azhdaha",
@@ -1540,7 +1637,9 @@ export default [
     zhCN: "若陀龙王",
     zhTW: "若陀龍王",
     pronunciationJa: "じゃくだりゅうおう",
-    notes: "読みは「エイジダハ」",
+    notes: "英語の発音は「エイジダハ」",
+    notesZh: "英文「Azhdaha」开头的元音为闭口音「ei」。",
+    notesZhTW: "英文「Azhdaha」開頭的元音為閉口音「ei」。",
     tags: [ "liyue", "character-sub", "enemy-boss" ],
     variants: {
       ja: [ "若陀竜王", "若蛇龍王", "若蛇竜王", "若陀" ],
@@ -1560,12 +1659,13 @@ export default [
   {
     en: "Marchosius",
     ja: "マルコシアス",
-    zhCN: "马克修斯",
-    zhTW: "馬克修斯",
+    zhCN: "马科修斯",
+    zhTW: "馬科修斯",
     tags: [ "liyue", "title" ],
-    notesEn: "Guoba's former name",
-    notes: "グゥオパァーのかつての名前",
-    notesZh: "锅巴的原名",
+    notesEn: "Guoba's Goetic name.",
+    notes: "グゥオパァーの魔神名",
+    notesZh: "锅巴的魔神名。",
+    notesZhTW: "鍋巴的魔神名。",
   },
   {
     en: "God of the Stove",
@@ -1576,7 +1676,8 @@ export default [
     tags: [ "liyue", "title" ],
     notesEn: "Marchosius(Guoba)'s title",
     notes: "マルコシアス (グゥオパァー) の称号",
-    notesZh: "马克修斯 (锅巴) 的称号",
+    notesZh: "马科修斯（锅巴）的称号。",
+    notesZhTW: "馬科修斯（鍋巴）的稱號。",
   },
   {
     en: "Bosacius",
@@ -1586,7 +1687,8 @@ export default [
     pronunciationJa: "ふしゃ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
-    notesZh: "仙众夜叉之一",
+    notesZh: "仙众夜叉之一。",
+    notesZhTW: "仙眾夜叉之一。",
   },
   {
     en: "Marshal Vritras",
@@ -1597,7 +1699,8 @@ export default [
     tags: [ "liyue", "title" ],
     notesEn: "Bosacius's title",
     notes: "仙衆夜叉・浮舎の称号",
-    notesZh: "仙众夜叉·浮舍的称号",
+    notesZh: "仙众夜叉「浮舍」的称号。",
+    notesZhTW: "仙眾夜叉「浮舍」的稱號。",
   },
   {
     en: "Menogias",
@@ -1607,7 +1710,8 @@ export default [
     pronunciationJa: "みぬ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
-    notesZh: "仙众夜叉之一",
+    notesZh: "仙众夜叉之一。",
+    notesZhTW: "仙眾夜叉之一。",
   },
   {
     en: "General Kapisas",
@@ -1618,7 +1722,8 @@ export default [
     tags: [ "liyue", "title" ],
     notesEn: "Menogias's title",
     notes: "仙衆夜叉・弥怒の称号",
-    notesZh: "仙众夜叉·弥怒的称号",
+    notesZh: "仙众夜叉「弥怒」的称号。",
+    notesZhTW: "仙眾夜叉「彌怒」的稱號。",
   },
   {
     en: "Bonanus",
@@ -1628,7 +1733,8 @@ export default [
     pronunciationJa: "ばつなん",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
-    notesZh: "仙众夜叉之一",
+    notesZh: "仙众夜叉之一。",
+    notesZhTW: "仙眾夜叉之一。",
   },
   {
     en: "General Chizapus",
@@ -1639,7 +1745,8 @@ export default [
     tags: [ "liyue", "title" ],
     notesEn: "Bonanus's title",
     notes: "仙衆夜叉・伐難の称号",
-    notesZh: "仙众夜叉·伐难的称号",
+    notesZh: "仙众夜叉「伐难」的称号。",
+    notesZhTW: "仙眾夜叉「伐難」的稱號。",
   },
   {
     en: "Indarias",
@@ -1649,7 +1756,8 @@ export default [
     pronunciationJa: "おうたつ",
     tags: [ "liyue", "character-sub" ],
     notes: "仙衆夜叉の1人",
-    notesZh: "仙众夜叉之一",
+    notesZh: "仙众夜叉之一。",
+    notesZhTW: "仙眾夜叉之一。",
   },
   {
     en: "General Musatas",
@@ -1658,9 +1766,10 @@ export default [
     zhTW: "火鼠大將",
     pronunciationJa: "かそたいしょう",
     tags: [ "liyue", "title" ],
-    notesEn: "Indarias's title",
+    notesEn: "Indarias's title.",
     notes: "仙衆夜叉・応達の称号",
-    notesZh: "仙众夜叉·应达的称号",
+    notesZh: "仙众夜叉「应达」的称号。",
+    notesZhTW: "仙眾夜叉「應達」的稱號。",
   },
   {
     en: "Pervases",
@@ -1694,7 +1803,8 @@ export default [
     zhTW: "卯師傅",
     pronunciationJa: "うーししょう",
     notes: "香菱の父",
-    notesZh: "香菱的父亲",
+    notesZh: "香菱的父亲。",
+    notesZhTW: "香菱的父親。",
     tags: [ "liyue", "character-sub" ],
   },
   {
@@ -1711,6 +1821,8 @@ export default [
     zhTW: "胭兒",
     tags: [ "liyue", "character-sub" ],
     notes: "世界任務『「螭」の話』「広海の守護」などに登場する宝盗団の幹部",
+    notesZh: "世界任务「古云有『螭』」、「广海的守望」等中登场的盗宝团干部。",
+    notesZhTW: "世界任務「古雲有『螭』」、「廣海的守望」等中登場的盜寶團幹部。",
   },
   {
     en: "\"Big Sis\"",
@@ -1719,6 +1831,8 @@ export default [
     zhTW: "「大姐」",
     tags: [ "liyue", "title" ],
     notes: "イェンの通り名",
+    notesZh: "胭儿的通称。",
+    notesZhTW: "胭兒的通稱。",
   },
   {
     en: "Guizhong",
@@ -1735,9 +1849,10 @@ export default [
     zhCN: "哈艮图斯",
     zhTW: "哈艮圖斯",
     tags: [ "liyue", "title" ],
-    notesEn: "Guizhong's name as a god",
+    notesEn: "Guizhong's Goetic name.",
     notes: "帰終の魔神名",
-    notesZh: "归终之魔神的名字",
+    notesZh: "归终的魔神名。",
+    notesZhTW: "歸終的魔神名。",
   },
   {
     en: "God of Dust",
@@ -1748,13 +1863,14 @@ export default [
     tags: [ "liyue", "title" ],
     notesEn: "Guizhong's title",
     notes: "帰終の魔神としての称号",
-    notesZh: "归终的魔神称号",
+    notesZh: "归终的魔神称号。",
+    notesZhTW: "歸終的魔神稱號。",
   },
   {
     en: "Havria",
     ja: "ヘウリア",
-    zhCN: "赫乌利亚",
-    zhTW: "赫烏利亞",
+    zhCN: "赫乌莉亚",
+    zhTW: "赫烏莉亞",
     tags: [ "liyue", "character-sub" ],
   },
   {
@@ -1766,7 +1882,8 @@ export default [
     tags: [ "liyue", "title" ],
     notesEn: "Havria's title",
     notes: "ヘウリアの魔神としての称号",
-    notesZh: "赫乌利亚的魔神称号",
+    notesZh: "赫乌莉亚的魔神称号。",
+    notesZhTW: "赫烏莉亞的魔神稱號。",
   },
   {
     en: "Sea Gazer",
@@ -1776,7 +1893,8 @@ export default [
     pronunciationJa: "なるみせいかしんくん",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月の仙人の一人",
-    notesZh: "璃月仙人之一",
+    notesZh: "璃月仙人之一。",
+    notesZhTW: "璃月仙人之一。",
   },
   {
     en: "Skybracer",
@@ -1786,7 +1904,8 @@ export default [
     pronunciationJa: "いしょうどうてんしんくん",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月の仙人の一人",
-    notesZh: "璃月仙人之一",
+    notesZh: "璃月仙人之一。",
+    notesZhTW: "璃月仙人之一。",
   },
   {
     en: "Changsheng",
@@ -1796,7 +1915,8 @@ export default [
     pronunciationJa: "ちょうせい",
     tags: [ "liyue", "character-sub" ],
     notes: "白朮が連れている蛇",
-    notesZh: "跟着白术（其脖子上）的蛇",
+    notesZh: "白术脖子上的蛇。",
+    notesZhTW: "白朮脖子上的蛇。",
   },
   {
     en: "Baiwen",
@@ -1805,8 +1925,9 @@ export default [
     zhCN: "百闻",
     zhTW: "百聞",
     tags: [ "liyue", "character-sub" ],
-    notes: "群玉閣の秘書の1人",
-    notesZh: "群玉阁的秘书之一",
+    notes: "凝光の秘書の1人",
+    notesZh: "凝光的秘书之一。",
+    notesZhTW: "凝光的秘書之一。",
   },
   {
     en: "Baishi",
@@ -1814,8 +1935,9 @@ export default [
     zhCN: "百识",
     zhTW: "百識",
     tags: [ "liyue", "character-sub" ],
-    notes: "群玉閣の秘書の1人",
-    notesZh: "群玉阁的秘书之一",
+    notes: "凝光の秘書の1人",
+    notesZh: "凝光的秘书之一。",
+    notesZhTW: "凝光的秘書之一。",
   },
   {
     en: "Baixiao",
@@ -1823,8 +1945,9 @@ export default [
     zhCN: "百晓",
     zhTW: "百曉",
     tags: [ "liyue", "character-sub" ],
-    notes: "群玉閣の秘書の1人",
-    notesZh: "群玉阁的秘书之一",
+    notes: "凝光の秘書の1人",
+    notesZh: "凝光的秘书之一。",
+    notesZhTW: "凝光的秘書之一。",
   },
   {
     en: "Verr Goldet",
@@ -1866,7 +1989,8 @@ export default [
     tags: [ "liyue", "character-sub" ],
     notes: "璃月評判任務の受付キャラクター",
     notesEn: "A representative character for the reputation quests in Liyue.",
-    notesZh: "璃月声望任务的交付角色",
+    notesZh: "璃月声望任务的交付角色。",
+    notesZhTW: "璃月聲望任務的交付角色。",
   },
   {
     en: "Jiawei",
@@ -1875,7 +1999,9 @@ export default [
     zhTW: "嘉瑋",
     tags: [ "liyue", "character-sub" ],
     notes: "璃月の漁師",
-    notesEn: "Liyue Angler",
+    notesEn: "Liyue Angler.",
+    notesZh: "璃月的渔夫。",
+    notesZhTW: "璃月的漁夫。",
   },
   {
     en: "Ying'er",
@@ -1894,6 +2020,9 @@ export default [
     pronunciationJa: "せきしょう", // TODO Need Check
     tags: [ "liyue", "character-sub" ],
     notes: "鉱石を売っている店「解翠行」の店主",
+    notesEn: "Owner of the ore shop \"Jade Mystery\".",
+    notesZh: "赌石铺「解翠行」的店主。",
+    notesZhTW: "賭石鋪「解翠行」的店主。",
   },
   {
     en: "Lan",
@@ -2027,10 +2156,12 @@ export default [
   {
     en: "Anton Melnikov",
     ja: "アントン・メルニコフ",
-    zhCN: "安东",
-    zhTW: "安東",
+    zhCN: "安东·梅利尼科夫",
+    zhTW: "安東·梅利尼科夫",
     notes: "層岩巨淵に取り残されたファデュイ「第九中隊」の臨時隊長",
-    notesEn: "Brevet Commander of the Ninth Company, a Fatui company got lost in The Casm.",
+    notesEn: "Brevet Commander of the Ninth Company, a Fatui company got lost in The Chasm.",
+    notesZh: "被困在层岩巨渊的愚人众第九连队的临时连长。",
+    notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的臨時連長。",
     tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
@@ -2039,16 +2170,20 @@ export default [
     zhCN: "安托哈",
     zhTW: "安託哈",
     notes: "アントン・メルニコフの呼び名",
-    notesEn: "Anton Melnikov's nickname",
+    notesEn: "Anton Melnikov's nickname.",
+    notesZh: "安东·梅利尼科夫的昵称。",
+    notesZhTW: "安東·梅利尼科夫的暱稱。",
     tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
     en: "Ninth Company Brevet Commander",
     ja: "「第九中隊」臨時隊長",
-    zhCN: "「第九中队」临时队长",
-    zhTW: "「第九中隊」臨時隊長",
+    zhCN: "「第九连队」临时连长",
+    zhTW: "「第九連隊」臨時連長",
     notes: "アントン・メルニコフの肩書",
-    notesEn: "Anton Melnikov's title",
+    notesEn: "Anton Melnikov's title.",
+    notesZh: "安东·梅利尼科夫的头衔。",
+    notesZhTW: "安東·梅利尼科夫的頭銜。",
     tags: [ "liyue", "fatui", "title" ],
   },
   {
@@ -2057,7 +2192,9 @@ export default [
     zhCN: "提莫尔",
     zhTW: "提莫爾",
     notes: "層岩巨淵に取り残されたファデュイ「第九中隊」の隊員",
-    notesEn: "A member of the Ninth Company, a Fatui company got lost in The Casm.",
+    notesEn: "A member of the Ninth Company, a Fatui company got lost in The Chasm.",
+    notesZh: "被困在层岩巨渊的愚人众第九连队的队员。",
+    notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的隊員。",
     tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
@@ -2066,7 +2203,9 @@ export default [
     zhCN: "达尼拉",
     zhTW: "達尼拉",
     notes: "層岩巨淵に取り残されたファデュイ「第九中隊」の隊員",
-    notesEn: "A member of the Ninth Company, a Fatui company got lost in The Casm.",
+    notesEn: "A member of the Ninth Company, a Fatui company got lost in The Chasm.",
+    notesZh: "被困在层岩巨渊的愚人众第九连队的队员。",
+    notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的隊員。",
     tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
@@ -2075,7 +2214,9 @@ export default [
     zhCN: "拉多米尔",
     zhTW: "拉多米爾",
     notes: "層岩巨淵に取り残されたファデュイ「第九中隊」の隊員",
-    notesEn: "A member of the Ninth Company, a Fatui company got lost in The Casm.",
+    notesEn: "A member of the Ninth Company, a Fatui company got lost in The Chasm.",
+    notesZh: "被困在层岩巨渊的愚人众第九连队的队员。",
+    notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的隊員。",
     tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
@@ -2091,7 +2232,9 @@ export default [
     zhCN: "卡塔琳娜",
     zhTW: "卡塔琳娜",
     notes: "層岩巨淵・蛍光隘路にいる雷蛍術師",
-    notesEn: "An Electro Cicin Mage in The Glowing Narrows, The Casm.",
+    notesEn: "An Electro Cicin Mage in The Glowing Narrows, The Chasm.",
+    notesZh: "层岩巨渊·荧光狭道中的雷萤术士。",
+    notesZhTW: "層岩巨淵·螢光狹道中的雷螢術士。",
     tags: [ "liyue", "fatui", "character-sub" ],
   },
   {
@@ -2108,6 +2251,8 @@ export default [
     zhTW: "戚定",
     tags: [ "liyue", "character-sub" ],
     notes: "世界任務「巨淵の恩恵」で登場する、人形を探している鉱夫",
+    notesZh: "世界任务「巨渊的馈赠」中的登场角色，寻找丢失娃娃的矿工。",
+    notesZhTW: "世界任務「巨淵的饋贈」中的登場角色，尋找丟失娃娃的礦工。",
   },
   {
     en: "Kun Jun",
@@ -2116,6 +2261,8 @@ export default [
     zhTW: "昆鈞",
     tags: [ "liyue", "character-sub" ],
     notes: "鍾離の伝説任務に登場する人物",
+    notesZh: "钟离的传说任务 古闻之章·第二幕「匪石」中的登场角色。",
+    notesZhTW: "鍾離的傳說任務 古聞之章·第二幕「匪石」中的登場角色。",
   },
   {
     en: "Boyang",
@@ -2125,6 +2272,8 @@ export default [
     pronunciationJa: "はくよう",
     tags: [ "liyue", "character-sub" ],
     notes: "夜蘭の先祖",
+    notesZh: "夜兰的祖先。",
+    notesZhTW: "夜蘭的祖先。",
   },
   {
     en: "Fujin",
@@ -2134,7 +2283,8 @@ export default [
     pronunciationJa: "ふきん",
     tags: [ "liyue", "character-sub" ],
     notes: "世界任務「沈玉の祝福」などに登場する、名もなき魔神眷属の仙人",
-    notesZh: "仙人是无名魔神的仆从",
+    notesZh: "世界任务「沉玉祝珑」等中登场的仙人，无名魔神的眷属。",
+    notesZhTW: "世界任務「沉玉祝瓏」等中登場的仙人，無名魔神的眷屬。",
   },
   {
     en: "Lingyuan",
@@ -2144,7 +2294,8 @@ export default [
     pronunciationJa: "れいえん",
     tags: [ "liyue", "character-sub" ],
     notes: "名もなき魔神眷属の仙人",
-    notesZh: "仙人是无名魔神的仆从",
+    notesZh: "世界任务「沉玉祝珑」等中登场的仙人，无名魔神的仆从。",
+    notesZhTW: "世界任務「沉玉祝瓏」等中登場的仙人，無名魔神的仆從。",
   },
   {
     en: "Herblord",
@@ -2154,7 +2305,8 @@ export default [
     pronunciationJa: "やくくん",
     tags: [ "liyue", "character-sub" ],
     notes: "名もなき魔神眷属の仙人",
-    notesZh: "仙人是无名魔神的仆从",
+    notesZh: "世界任务「沉玉祝珑」等中登场的仙人，无名魔神的仆从。",
+    notesZhTW: "世界任務「沉玉祝瓏」等中登場的仙人，無名魔神的仆從。",
   },
   {
     en: "Uncle Luo",
@@ -2204,7 +2356,8 @@ export default [
     pronunciationJa: "こうしょう",
     tags: [ "liyue", "character-sub" ],
     notes: "削月築陽真君の俗名",
-    notesZh: "削月筑阳真君的俗名",
+    notesZh: "v4.4 活动「彩鹞栉春风」中，削月筑阳真君来到璃月港后起的名字。",
+    notesZhTW: "v4.4 活動「彩鷂櫛春風」中，削月築陽真君來到璃月港後起的名字。",
   },
   {
     en: "Jiehu",
@@ -2214,7 +2367,8 @@ export default [
     pronunciationJa: "せっしゃく",
     tags: [ "liyue", "character-sub" ],
     notes: "理水畳山真君の俗名",
-    notesZh: "理水叠山真君的俗名",
+    notesZh: "v4.4 活动「彩鹞栉春风」中，理水叠山真君来到璃月港后起的名字。",
+    notesZhTW: "v4.4 活動「彩鷂櫛春風」中，理水疊山真君來到璃月港後起的名字。",
   },
   {
     en: "Yip Tak",
@@ -2238,9 +2392,10 @@ export default [
     zhTW: "桃都",
     pronunciationJa: "とうと",
     tags: [ "liyue", "character-sub" ],
-    notesEn: "The god that once existed in Liyue",
+    notesEn: "The god that once existed in Liyue.",
     notes: "璃月にかつて存在した魔神",
-    notesZh: "曾经存在于璃月的魔神",
+    notesZh: "曾经存在于璃月的魔神。",
+    notesZhTW: "曾經存在於璃月的魔神。",
   },
   {
     en: "Bune",
@@ -2249,9 +2404,10 @@ export default [
     zhTW: "擘那",
     pronunciationJa: "はくな",  // TODO Need check
     tags: [ "liyue", "character-sub" ],
-    notesEn: "The original name of God Tao Dou",
+    notesEn: "The Goetic name of the god Tao Dou.",
     notes: "魔神桃都の本来の名",
-    notesZh: "魔神桃都的原名",
+    notesZh: "桃都的魔神名。",
+    notesZhTW: "桃都的魔神名。",
   },
 
   //
@@ -2297,7 +2453,8 @@ export default [
     zhTW: "小姐",
     pronunciationJa: "おじょう",
     notes: "トーマの神里綾華に対する呼び方",
-    notesZh: "托马对神里绫华的称呼",
+    notesZh: "托马对神里绫华的称呼。",
+    notesZhTW: "托馬對神里綾華的稱呼。",
     tags: [ "inazuma", "how-to-call" ],
   },
   {
@@ -2319,7 +2476,8 @@ export default [
     zhTW: "家主大人",
     pronunciationJa: "わか",
     notes: "トーマの神里綾人に対する呼び方",
-    notesZh: "托马对神里绫人的称呼",
+    notesZh: "托马对神里绫人的称呼。",
+    notesZhTW: "托馬對神里綾人的稱呼。",
     tags: [ "inazuma", "how-to-call" ],
   },
   {
@@ -2339,7 +2497,8 @@ export default [
     zhTW: "神里家家政官",
     pronunciationJa: "かみさとけのけいし",
     notes: "神里家でのトーマの役職",
-    notesZh: "神里家中托马的职位",
+    notesZh: "托马在神里家中的职位。",
+    notesZhTW: "托馬在神里家中的職位。",
     tags: [ "inazuma", "title" ],
   },
   {
@@ -2349,7 +2508,8 @@ export default [
     zhTW: "地頭蛇",
     pronunciationJa: "かおやく",
     notes: "トーマは稲妻の「顔役」である。",
-    notesZh: "托马是稻妻的地头蛇",
+    notesZh: "托马自称为稻妻的地头蛇。",
+    notesZhTW: "托馬自稱為稻妻的地頭蛇。",
     tags: [ "inazuma", "title" ],
   },
   {
@@ -2376,7 +2536,8 @@ export default [
     pronunciationJa: "やえさま",
     tags: [ "inazuma", "how-to-call" ],
     notes: "八重神子が部下などから呼ばれる際の敬称",
-    notesZh: "八重神子的部下对其的敬称",
+    notesZh: "八重神子的下属对其的敬称。",
+    notesZhTW: "八重神子的下屬對其的敬稱。",
   },
   {
     en: "Fried Tofu With All the Frills",
@@ -2403,7 +2564,8 @@ export default [
     pronunciationJa: "あらたき・てんかだいいち・いっと",
     tags: [ "inazuma", "title" ],
     notes: "Numero Uno はイタリア語で「ナンバーワン」の意。",
-    notesZh: "Numero Uno是意大利语中 Number One 的意思。",
+    notesZh: "「Numero Uno」是意大利文，即「Number One」，第一名的意思。",
+    notesZhTW: "「Numero Uno」是義大利文，即「Number One」，第一名的意思。",
   },
   {
     en: "Bull-Chucker",
@@ -2412,7 +2574,9 @@ export default [
     zhTW: "放牛的",
     pronunciationJa: "うしつかいやろう",
     tags: [ "inazuma", "title" ],
-    notes: "直訳は「牛を放り投げる者」",
+    notes: "英語版は直訳すると「牛を放り投げる者」",
+    notesZh: "日文「野郎」略有贬义，但也可作为亲切的称呼。与派蒙给温迪起的绰号「吟遊野郎」（卖唱的）相呼应。",
+    notesZhTW: "日文「野郎」略有貶義，但也可作為親切的稱呼。與派蒙給溫迪起的綽號「吟遊野郎」（賣唱的）相呼應。",
   },
   {
     en: "Ushi",
@@ -2468,7 +2632,10 @@ export default [
     zhTW: "深海舌鮃魚",
     pronunciationJa: "しんかいウシノシタ",
     tags: [ "inazuma", "title" ],
-    notes: "珊瑚宮心海のハンドルネーム (?)",
+    notes: "珊瑚宮心海のペンネーム",
+    notesEn: "Sangonomiya Kokomi's pen name.",
+    notesZh: "珊瑚宫心海的笔名。",
+    notesZhTW: "珊瑚宮心海的筆名。",
     examples: [
       {
         en: "You took your time. I was starting to wonder if you got lost walking on the seabed, Miss \"Sole of the Deep.\"",
@@ -2485,8 +2652,9 @@ export default [
     zhCN: "（对珊瑚宫心海或雷电将军的尊称）",
     zhTW: "（對珊瑚宮心海或雷電將軍的尊稱）",
     tags: [ "inazuma", "how-to-call" ],
-    notes: "単に Her Excellency のみで主君を指したり、Her Excellency, Sangonomiya などのように名前の前に付けて用いたりする。一般用語でも、高貴な人物に対して [Her/His/Your] Excellency が用いられる。",
-    notesZh: "单纯使用 Her Excellency 即指代君主，如 Her Excellency, Sangonomiya 这样加在名字前面。在一般用语中，对高贵的任务也使用 [Her/His/Your] Excellency 的说法。",
+    notes: "自らの主君を指す言葉であり、単に \"Her Excellency\" のみ、または \"Her Excellency, Sangonomiya\" のように名前の前に付けて用いる。一般用語としては「閣下」と訳されることが多く、高貴な人物に対して [Her/His/Your] Excellency が用いられる。",
+    notesZh: "英文「Her Excellency」意为「阁下」，是对地位崇高的人的敬称，使用时可单独使用，也可以加在名字前面，如「Her Excellency, Sangonomiya」。",
+    notesZhTW: "英文「Her Excellency」意為「閣下」，是對地位崇高的人的敬稱，使用時可單獨使用，也可以加在名字前面，如「Her Excellency, Sangonomiya」。",
     examples: [
       {
         en: "The fact we're even able to hold out is thanks to the brilliant strategic mind of Her Excellency, Sangonomiya. We're also indebted to the great courage shown by General Gorou and the resistance troops.",
@@ -2550,6 +2718,8 @@ export default [
     pronunciationJa: "ネコそうきゅうびん",
     tags: [ "inazuma" ],
     notes: "綺良々が元素スキルで変身する、ダンボールのような箱に入ったネコの状態のこと",
+    notesZh: "绮良良发动元素战技后化为的形态，箱子形状的猫。",
+    notesZhTW: "綺良良施放元素戰技後化為的形態，箱子形狀的貓。",
   },
   {
     en: "Cat Grass Cardamom",
@@ -2558,6 +2728,8 @@ export default [
     zhTW: "貓草豆蔻",
     tags: [ "inazuma" ],
     notes: "綺良々が元素爆発で生成するネコ型の草元素爆弾のこと",
+    notesZh: "绮良良发动元素爆发后生成的猫咪形态的草元素炸弹。",
+    notesZhTW: "綺良良施放元素爆發後生成的貓咪形狀的草元素炸彈。",
   },
   {
     en: "Raiden Shogun",
@@ -2573,9 +2745,10 @@ export default [
     zhCN: "巴尔",
     zhTW: "巴爾",
     tags: [ "inazuma", "title" ],
-    notesEn: "The first Electro Archon. Makoto's name as a god",
+    notesEn: "The first Electro Archon. Makoto's Goetic name.",
     notes: "初代雷神。眞の魔神名",
-    notesZh: "第一雷神。真之魔神的名字",
+    notesZh: "初代雷神「真」的魔神名。",
+    notesZhTW: "初代雷神「真」的魔神名。",
   },
   {
     en: "Beelzebul",
@@ -2583,9 +2756,10 @@ export default [
     zhCN: "巴尔泽布",
     zhTW: "巴爾澤布",
     tags: [ "inazuma", "title" ],
-    notesEn: "The second Electro Archon. Ei's name as a god",
+    notesEn: "The second Electro Archon. Ei's Goetic name.",
     notes: "二代目雷神。影の魔神名",
-    notesZh: "第二雷神。影之魔神的名字",
+    notesZh: "二代雷神「影」的魔神名。",
+    notesZhTW: "二代雷神「影」的魔神名。",
   },
   {
     en: "Almighty Shogun",
@@ -2594,6 +2768,8 @@ export default [
     zhTW: "（對雷電將軍的尊稱）",
     tags: [ "inazuma", "how-to-call" ],
     notes: "一般的には「神よ、」などと呼びかける時に \"Almighty God, \" などと使う場合がある。",
+    notesZh: "英文版中对雷电将军的尊称，在呼告时使用，类似「Almighty God, ...」。",
+    notesZhTW: "英文版中對雷電將軍的尊稱，在呼告時使用，類似「Almighty God, ...」。",
   },
   {
     en: "Electro Archon",
@@ -2602,10 +2778,8 @@ export default [
     zhTW: "雷神",
     tags: [ "inazuma", "title" ],
     pronunciationJa: "らいじん",
-    notes: "雷電将軍のことを \"God\" と称するシーンがあることから、Electro God も間違いではないと思われる。",
-    notesZh: "因为有直接对雷电将军称呼 \"God\" 的情况，所以我认为 Electro God 的说法也不算错。",
     variants: {
-      en: [ "Electro God", "God of Electro" ],
+      en: [ "Electro God", "God of Electro" ],  // Never used in-game
     },
   },
   {
@@ -2667,7 +2841,8 @@ export default [
     zhTW: "長野原龍之介",
     pronunciationJa: "ながのはらりゅうのすけ",
     notes: "宵宮の父",
-    notesZh: "长野原宵宫的父亲",
+    notesZh: "宵宫的父亲。",
+    notesZhTW: "宵宮的父親。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -2701,7 +2876,8 @@ export default [
       en: [ "Kazari" ],
     },
     notes: "以前は英語版では \"Kazari\" となっていたが、v2.7で修正された。",
-    notesZh: "以前英语版中称作 \"Kazari\"，但在 v2.7 中被修正了。",
+    notesZh: "英文版曾错译为「Kazari」，但在 v2.7 中被修正了。",
+    notesZhTW: "英文版曾錯譯為「Kazari」，但在 v2.7 中被修正了。",
   },
   {
     en: "Hiiragi Hiroshi",
@@ -2721,6 +2897,8 @@ export default [
     pronunciationJa: "わかむらさき",
     tags: [ "inazuma", "character-sub" ],
     notes: "四方八方の網を売ってくれる人物",
+    notesZh: "「四方八方之网」的设计者。",
+    notesZhTW: "「四方八方之網」的設計者。",
   },
   {
     en: "Ioroi",
@@ -2738,6 +2916,8 @@ export default [
     pronunciationJa: "きっぽうし",
     tags: [ "inazuma", "character-sub" ],
     notes: "鎮守の森に住む妖狸",
+    notesZh: "镇守之森的妖狸。",
+    notesZhTW: "鎮守之森的妖狸。",
   },
   {
     en: "Shousei",
@@ -2747,6 +2927,8 @@ export default [
     pronunciationJa: "しょうじょう",
     tags: [ "inazuma", "character-sub" ],
     notes: "鎮守の森に住む妖狸",
+    notesZh: "镇守之森的妖狸。",
+    notesZhTW: "鎮守之森的妖狸。",
   },
   {
     en: "Gyoubu Koban",
@@ -2756,6 +2938,8 @@ export default [
     pronunciationJa: "ぎょうぶこばん",
     tags: [ "inazuma", "character-sub" ],
     notes: "鎮守の森に住む妖狸",
+    notesZh: "镇守之森的妖狸。",
+    notesZhTW: "鎮守之森的妖狸。",
   },
   {
     en: "Xavier",
@@ -2764,7 +2948,8 @@ export default [
     zhTW: "澤維爾",
     tags: [ "inazuma", "character-sub" ],
     notes: "空想クラブの一員",
-    notesZh: "空想俱乐部的一员",
+    notesZh: "空想俱乐部的成员。",
+    notesZhTW: "空想俱樂部的成員。",
   },
   {
     en: "Film Kamera",
@@ -2826,6 +3011,8 @@ export default [
     zhTW: "奧羅巴斯",
     tags: [ "inazuma", "character-sub" ],
     notes: "v2.1 以降、Orobashi と Orobaxi の両表記が混在している",
+    notesZh: "v2.1 起，英文版混用「Orobashi」和「Orobaxi」。",
+    notesZhTW: "v2.1 起，英文版混用「Orobashi」和「Orobaxi」。",
   },
   {
     en: "Orobashi no Mikoto",
@@ -2834,8 +3021,10 @@ export default [
     zhTW: "遠呂羽氏尊",
     tags: [ "inazuma", "character-sub" ],
     notes: "「オロバシ」については、v2.1 以降 Orobashi と Orobaxi の両表記が混在しているが、「オロバシノミコト」については \"Orobaxi no Mikoto\" と表記されている箇所は見つかっていない",
+    notesZh: "虽然英文版自 v2.1 起混用「Orobashi」和「Orobaxi」，但「远吕羽氏尊」在英文版中还是统一译作「Orobashi no Mikoto」。",
+    notesZhTW: "雖然英文版自 v2.1 起混用「Orobashi」和「Orobaxi」，但「遠呂羽氏尊」在英文版中還是統一譯作「Orobashi no Mikoto」。",
     variants: {
-      en: [ "Orobaxi no Mikoto" ],
+      en: [ "Orobaxi no Mikoto" ],  // Never used in-game
     },
   },
   {
@@ -2891,7 +3080,9 @@ export default [
     zhTW: "久利由賣",
     tags: [ "inazuma", "character-sub" ],
     notes: "世界任務「パエトーンたちはみな踊る」に登場するキャラクター",
-    notesEn: "A character appears in a World Quest \"The Phaethons' Syrtos\"",
+    notesEn: "A character appeared in the World Quest \"The Phaethons' Syrtos.\"",
+    notesZh: "世界任务「法厄同们全跳舞」中的登场角色。",
+    notesZhTW: "世界任務「法厄同們全跳舞」中的登場角色。",
   },
   {
     en: "Date",
@@ -2901,6 +3092,8 @@ export default [
     pronunciationJa: "だて",
     tags: [ "inazuma", "character-sub" ],
     notes: "世界任務「伊達の挑戦状」に登場するキャラクター",
+    notesZh: "世界任务「伊达的挑战状」中的登场角色。",
+    notesZhTW: "世界任務「伊達的挑戰狀」中的登場角色。",
   },
   {
     en: "Michiya",
@@ -2909,7 +3102,9 @@ export default [
     zhTW: "宮地",
     pronunciationJa: "みやじ",
     tags: [ "inazuma", "character-sub" ],
-    notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳?",
+    notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳と思われる",
+    notesZh: "世界任务「三色档案」中的登场角色。英文版错将「宮地」（Miyaji）译成了「Michiya」。",
+    notesZhTW: "世界任務「三色檔案」中的登場角色。英文版錯將「宮地」（Miyaji）譯成了「Michiya」。",
   },
   {
     en: "Spartacus",
@@ -2926,6 +3121,8 @@ export default [
     pronunciationJa: "すぱだのひこ",
     tags: [ "inazuma", "character-sub" ],
     notes: "スパルタクスの稲妻式の名前",
+    notesZh: "斯巴达克的稻妻式名字。",
+    notesZhTW: "斯巴達克的稻妻式名字。",
   },
   {
     en: "Teppei",
@@ -2941,6 +3138,8 @@ export default [
     zhCN: "旭东",
     zhTW: "旭東",
     notes: "全能グルメチームの一員",
+    notesZh: "全能美食队的成员。",
+    notesZhTW: "全能美食隊的成員。",
     tags: [ "character-sub" ],
   },
   {
@@ -2949,6 +3148,8 @@ export default [
     zhCN: "朱莉",
     zhTW: "朱莉",
     notes: "全能グルメチームの一員",
+    notesZh: "全能美食队的成员。",
+    notesZhTW: "全能美食隊的成員。",
     tags: [ "character-sub" ],
   },
   {
@@ -2957,6 +3158,8 @@ export default [
     zhCN: "芭尔瓦涅",
     zhTW: "芭爾瓦涅",
     notes: "全能グルメチームの一員",
+    notesZh: "全能美食队的成员。",
+    notesZhTW: "全能美食隊的成員。",
     tags: [ "character-sub" ],
   },
   {
@@ -2966,6 +3169,8 @@ export default [
     zhTW: "龜井宗久",
     pronunciationJa: "かめいむねひさ",
     notes: "全能グルメチームの一員",
+    notesZh: "全能美食队的成员。",
+    notesZhTW: "全能美食隊的成員。",
     tags: [ "character-sub" ],
   },
   {
@@ -2975,6 +3180,8 @@ export default [
     zhTW: "廣海",
     pronunciationJa: "ひろみ",
     notes: "世界任務「広海の守護」に登場する勘定奉行の役人",
+    notesZh: "世界任务「广海的守望」中的勘定奉行官员。",
+    notesZhTW: "世界任務「廣海的守望」中的勘定奉行官員。",
     tags: [ "inazuma", "character-sub" ],
     // related: [ "hiromis-watch" ]
   },
@@ -2985,6 +3192,8 @@ export default [
     zhTW: "阿順",
     pronunciationJa: "じゅん",
     notes: "世界任務「広海の守護」に登場する宝盗団員",
+    notesZh: "世界任务「广海的守望」中的盗宝团成员。",
+    notesZhTW: "世界任務「廣海的守望」中的盜寶團成員。",
     tags: [ "inazuma", "character-sub" ],
     // related: [ "hiromis-watch" ]
   },
@@ -3112,7 +3321,9 @@ export default [
     zhCN: "柳达希卡·雪奈茨芙娜",
     zhTW: "柳達希卡·雪奈茨芙娜",
     notes: "世界任務「特別なおみくじ」に登場するファデュイ隊員",
-    notesEn: "A Fatui member appeared in the World Quest \"The Very Special Fortune Slip\".",
+    notesEn: "A Fatui member appeared in the World Quest \"The Very Special Fortune Slip.\"",
+    notesZh: "世界任务「特别的御神签」中的愚人众成员。",
+    notesZhTW: "世界任務「特別的御神籤」中的愚人眾成員。",
     tags: [ "inazuma", "fatui", "character-sub", "enemy" ],
   },
   {
@@ -3157,6 +3368,8 @@ export default [
     zhTW: "江村一玄齋",
     pronunciationJa: "えむらいちげんさい",
     notes: "伝説任務「獏枕の章」に登場する人物",
+    notesZh: "梦见月瑞希的传说任务 貘枕之章·第一幕「食梦者的忧郁」中的登场角色。",
+    notesZhTW: "夢見月瑞希的傳說任務 貘枕之章·第一幕「食夢者的憂鬱」中的登場角色。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3166,6 +3379,8 @@ export default [
     zhTW: "江村中彌",
     pronunciationJa: "えむらちゅうや",
     notes: "伝説任務「獏枕の章」に登場する人物。江村一玄斎の本名",
+    notesZh: "梦见月瑞希的传说任务 貘枕之章·第一幕「食梦者的忧郁」中的登场角色。江村一玄斋的本名。",
+    notesZhTW: "夢見月瑞希的傳說任務 貘枕之章·第一幕「食夢者的憂鬱」中的登場角色。江村一玄齋的本名。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3175,6 +3390,8 @@ export default [
     zhTW: "金井",
     pronunciationJa: "かない",
     notes: "伝説任務「獏枕の章」に登場する人物",
+    notesZh: "梦见月瑞希的传说任务 貘枕之章·第一幕「食梦者的忧郁」中的登场角色。",
+    notesZhTW: "夢見月瑞希的傳說任務 貘枕之章·第一幕「食夢者的憂鬱」中的登場角色。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3184,6 +3401,8 @@ export default [
     zhTW: "薄田",
     pronunciationJa: "すすきだ",
     notes: "伝説任務「獏枕の章」に登場する人物",
+    notesZh: "梦见月瑞希的传说任务 貘枕之章·第一幕「食梦者的忧郁」中的登场角色。",
+    notesZhTW: "夢見月瑞希的傳說任務 貘枕之章·第一幕「食夢者的憂鬱」中的登場角色。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3193,6 +3412,8 @@ export default [
     zhTW: "海彥",
     pronunciationJa: "うみひこ",
     notes: "伝説任務「獏枕の章」に登場する人物",
+    notesZh: "梦见月瑞希的传说任务 貘枕之章·第一幕「食梦者的忧郁」中的登场角色。",
+    notesZhTW: "夢見月瑞希的傳說任務 貘枕之章·第一幕「食夢者的憂鬱」中的登場角色。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3202,6 +3423,8 @@ export default [
     zhTW: "夢魔",
     pronunciationJa: "むま",
     notes: "伝説任務「獏枕の章」に登場する妖怪",
+    notesZh: "梦见月瑞希的传说任务 貘枕之章·第一幕「食梦者的忧郁」中的妖怪。",
+    notesZhTW: "夢見月瑞希的傳說任務 貘枕之章·第一幕「食夢者的憂鬱」中的妖怪。",
     tags: [ "inazuma", "character-sub", "title", "how-to-call" ],
   },
   {
@@ -3210,6 +3433,8 @@ export default [
     zhCN: "久吕由命",
     zhTW: "久呂由命",
     notes: "伝説任務「獏枕の章」に登場する妖怪",
+    notesZh: "梦见月瑞希的传说任务 貘枕之章·第一幕「食梦者的忧郁」中的妖怪。",
+    notesZhTW: "夢見月瑞希的傳說任務 貘枕之章·第一幕「食夢者的憂鬱」中的妖怪。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3219,6 +3444,8 @@ export default [
     zhTW: "御輿千代",
     pronunciationJa: "みこしちよ",
     notes: "v5.4 期間限定イベント「三川遊芸夢綺譚」など稲妻の過去の物語に登場する鬼",
+    notesZh: "v5.4 活动「三川游艺绮梦谭」动画中出现，鬼族少女，雷电将军麾下的爱将。",
+    notesZhTW: "v5.4 活動「三川遊藝綺夢譚」動畫中出現，鬼族少女，雷電將軍麾下的愛將。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3228,6 +3455,8 @@ export default [
     zhTW: "笹百合",
     pronunciationJa: "ささゆり",
     notes: "v5.4 期間限定イベント「三川遊芸夢綺譚」など稲妻の過去の物語に登場する天狗",
+    notesZh: "v5.4 活动「三川游艺绮梦谭」动画中出现，天狗，雷电将军麾下的爱将。",
+    notesZhTW: "v5.4 活動「三川遊藝綺夢譚」動畫中出現，天狗，雷電將軍麾下的愛將。",
     tags: [ "inazuma", "character-sub" ],
   },
   {
@@ -3237,6 +3466,8 @@ export default [
     zhTW: "卓也",
     pronunciationJa: "たくや",
     notes: "荒瀧一斗の伝説任務「天ノ牛の章」、v5.4 期間限定イベントに登場する鬼",
+    notesZh: "荒泷一斗的传说任务 天牛之章·第一幕「赤金魂」、v5.4 活动「三川游艺绮梦谭」中的登场角色，青鬼后裔。",
+    notesZhTW: "荒瀧一斗的傳說任務 天牛之章·第一幕「赤金魂」、v5.4 活動「三川遊藝綺夢譚」中的登場角色，青鬼後裔。",
     tags: [ "inazuma", "character-sub" ],
   },
 
@@ -3279,6 +3510,8 @@ export default [
     zhCN: "巡林官",
     zhTW: "巡林官",
     notes: "ティナリの役職",
+    notesZh: "提纳里的职务。",
+    notesZhTW: "提納里的職務。",
     tags: [ "sumeru", "title" ],
   },
   {
@@ -3287,6 +3520,8 @@ export default [
     zhCN: "提纳里师父",
     zhTW: "提納裡師父",
     notes: "コレイのティナリに対する呼び方",
+    notesZh: "柯莱对提纳里的称呼。",
+    notesZhTW: "柯萊對提納里的稱呼。",
     tags: [ "sumeru", "how-to-call" ],
   },
   {
@@ -3312,7 +3547,8 @@ export default [
     pronunciationJa: "まりんびょう",
     tags: [ "sumeru" ],
     notes: "Eleazar の原義はユダヤ人の男性名で、聖書にも Eleazar という司教が登場する。意味は「神が助けた」",
-    notesZh: "Eleazar的原意是犹太人的男性名，在《圣经》中也有名为Eleazar的祭司。",
+    notesZh: "英文「Eleazar」是犹太男子名，在《圣经》中也有名为「Eleazar」的祭司，意为「神助」。",
+    notesZhTW: "英文「Eleazar」是猶太男子名，在《聖經》中也有名為「Eleazar」的祭司，意為「神助」。",
   },
   {
     en: "Dori Sangemah Bay",
@@ -3388,7 +3624,8 @@ export default [
     zhTW: "琺露珊前輩",
     tags: [ "sumeru", "how-to-call" ],
     notes: "ファルザンが、自身をこのように呼ぶよう他人に求める呼び方",
-    notesZh: "珐露珊希望他人如此称呼她自己。",
+    notesZh: "珐露珊希望他人如此称呼她。",
+    notesZhTW: "琺露珊希望他人如此稱呼她。",
   },
   {
     en: "Kaveh",
@@ -3427,6 +3664,8 @@ export default [
     zhTW: "摩耶之殿",
     tags: [ "sumeru" ],
     notes: "ナヒーダの元素爆発で展開される領域",
+    notesZh: "纳西妲元素爆发展开的领域。",
+    notesZhTW: "納西妲元素爆發展開的領域。",
   },
   {
     en: "Lesser Lord Kusanali",
@@ -3436,7 +3675,8 @@ export default [
     tags: [ "sumeru", "title" ],
     notesEn: "Honorary title to Nahida. The current Dendro Archon",
     notes: "ナヒーダへの尊称。現在の草神",
-    notesZh: "対纳西妲的尊称。现任草神",
+    notesZh: "对现任草神纳西妲的尊称。",
+    notesZhTW: "對現任草神納西妲的尊稱。",
   },
   {
     en: "Dendro Archon",
@@ -3463,9 +3703,10 @@ export default [
     zhCN: "布耶尔",
     zhTW: "布耶爾",
     tags: [ "sumeru", "title" ],
-    notesEn: "Nahida's name as a god",
+    notesEn: "Nahida's Goetic name.",
     notes: "ナヒーダの魔神名",
-    notesZh: "纳西妲的魔神名字",
+    notesZh: "纳西妲的魔神名。",
+    notesZhTW: "納西妲的魔神名。",
   },
   {
     en: "Blessed One of Wisdom, Mahakusaladhamma",
@@ -3473,9 +3714,10 @@ export default [
     zhCN: "摩诃善法大吉祥智慧主",
     zhTW: "摩訶善法大吉祥智慧主",
     tags: [ "sumeru", "title" ],
-    notesEn: "The honorific title of Nahida",
+    notesEn: "The honorific title of Nahida.",
     notes: "ナヒーダの尊称",
-    notesZh: "纳西妲的敬称",
+    notesZh: "对纳西妲的敬称。",
+    notesZhTW: "對納西妲的敬稱。",
   },
   {
     en: "Sethos",
@@ -3502,9 +3744,10 @@ export default [
     zhCN: "娜布·玛莉卡塔",
     zhTW: "娜布·瑪莉卡塔",
     tags: [ "sumeru", "character-sub" ],
-    notesEn: "Goddess of Flowers's True Name",
+    notesEn: "Goddess of Flowers's True Name.",
     notes: "花神の真名",
-    notesZh: "花神的真名",
+    notesZh: "花神的真名。",
+    notesZhTW: "花神的真名。",
   },
   {
     en: "Greater Lord Rukkhadevata",
@@ -3512,9 +3755,10 @@ export default [
     zhCN: "大慈树王",
     zhTW: "大慈樹王",
     tags: [ "sumeru", "character-sub" ],
-    notesEn: "The first Dendro Archon",
+    notesEn: "The first Dendro Archon.",
     notes: "初代草神",
-    notesZh: "第一草神",
+    notesZh: "初代草神。",
+    notesZhTW: "初代草神。",
     variants: {
       ja: [ "マハールッカデヴァタ" ],
     },
@@ -3526,6 +3770,8 @@ export default [
     zhTW: "阿扎爾",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメール教令院の大賢者",
+    notesZh: "须弥教令院的大贤者。",
+    notesZhTW: "須彌教令院的大賢者。",
   },
   {
     en: "Grand Sage",
@@ -3535,6 +3781,8 @@ export default [
     pronunciationJa: "だいけんじゃ",
     tags: [ "sumeru", "title" ],
     notes: "アザールのスメール教令院における職位",
+    notesZh: "阿扎尔在须弥教令院的职务。",
+    notesZhTW: "阿扎爾在須彌教令院的職務。",
   },
   {
     en: "sage",
@@ -3566,7 +3814,8 @@ export default [
     zhTW: "海芭夏",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務に登場",
-    notesZh: "在须弥的魔神任务中登场的角色。",
+    notesZh: "须弥魔神任务中的登场角色。",
+    notesZhTW: "須彌魔神任務中的登場角色。",
   },
   {
     en: "Dunyarzad Homayani",
@@ -3575,7 +3824,8 @@ export default [
     zhTW: "迪娜澤黛·呼瑪伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務等に登場するキャラクター。ディシアの雇い主の家の娘",
-    notesZh: "在须弥的魔神任务中登场的角色。迪希雅的雇主家的女儿。",
+    notesZh: "须弥魔神任务中的登场角色，迪希雅的雇主家的女儿。",
+    notesZhTW: "須彌魔神任務中的登場角色，迪希雅的雇主家的女兒。",
   },
   {
     en: "Asfand",
@@ -3598,7 +3848,8 @@ export default [
     zhTW: "塞塔蕾",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務に登場するキャラクター",
-    notesZh: "在须弥的魔神任务中登场的角色。",
+    notesZh: "须弥魔神任务中的登场角色。",
+    notesZhTW: "須彌魔神任務中的登場角色。",
   },
   {
     en: "Rahman",
@@ -3607,7 +3858,8 @@ export default [
     zhTW: "拉赫曼",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの魔神任務に登場するキャラクター",
-    notesZh: "在须弥的魔神任务中登场的角色。",
+    notesZh: "须弥魔神任务中的登场角色。",
+    notesZhTW: "須彌魔神任務中的登場角色。",
   },
   {
     en: "Loumelat",
@@ -3616,6 +3868,8 @@ export default [
     zhTW: "魯梅拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールの漁師",
+    notesZh: "须弥的渔夫。",
+    notesZhTW: "須彌的漁夫。",
     notesEn: "Sumeru Angler",
   },
   {
@@ -3625,7 +3879,8 @@ export default [
     zhTW: "卡卡塔",
     tags: [ "sumeru", "character-sub" ],
     notes: "ティナリの伝説任務に登場するキャラクター",
-    notesZh: "提纳里的传说任务中登场的智能机器",
+    notesZh: "提纳里的传说任务 郭狐之章·第一幕「没有答案的课题」中登场的机械螃蟹。",
+    notesZhTW: "提納里的傳說任務 郭狐之章·第一幕「沒有答案的課題」中登場的機械螃蟹。",
   },
   {
     en: "Mechanical Crab",
@@ -3634,7 +3889,8 @@ export default [
     zhTW: "機械螃蟹",
     tags: [ "sumeru", "title" ],
     notes: "ティナリの伝説任務に登場するキャラクター",
-    notesZh: "提纳里的传说任务中登场的角色",
+    notesZh: "提纳里的传说任务 郭狐之章·第一幕「没有答案的课题」中的登场角色。",
+    notesZhTW: "提納里的傳說任務 郭狐之章·第一幕「沒有答案的課題」中的登場角色。",
   },
   {
     en: "Abattouy",
@@ -3643,7 +3899,8 @@ export default [
     zhTW: "阿巴圖伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "ティナリの伝説任務に登場するキャラクター",
-    notesZh: "提纳里的传说任务中登场的角色",
+    notesZh: "提纳里的传说任务 郭狐之章·第一幕「没有答案的课题」中的登场角色。",
+    notesZhTW: "提納里的傳說任務 郭狐之章·第一幕「沒有答案的課題」中的登場角色。",
   },
   {
     en: "Inayah",
@@ -3652,7 +3909,8 @@ export default [
     zhTW: "阿娜耶",
     tags: [ "sumeru", "character-sub" ],
     notes: "ニィロウの伝説任務に登場するキャラクター",
-    notesZh: "妮露的传说任务中登场的角色",
+    notesZh: "妮露的传说任务 睡莲之章·第一幕「致智慧者」中的登场角色。",
+    notesZhTW: "妮露的傳說任務 睡蓮之章·第一幕「致智慧者」中的登場角色。",
   },
   {
     en: "Sheikh Zubayr",
@@ -3661,16 +3919,18 @@ export default [
     zhTW: "謝赫祖拜爾",
     tags: [ "sumeru", "character-sub" ],
     notes: "ニィロウが所属するズバイルシアターのマネージャー",
-    notesZh: "妮露所属的祖拜尔剧场的经理",
+    notesZh: "妮露所属的祖拜尔剧场的经理。",
+    notesZhTW: "妮露所屬的祖拜爾劇場的經理。",
   },
   {
     en: "Alrani",
     ja: "アラニ",
     zhCN: "爱拉尼",
     zhTW: "愛拉尼",
-    notesEn: "Character appearing in many world quests, including \"And This Treasure Goes To...\", \"The Path of Papers\"",
+    notesEn: "Character appearing in many world quests, including \"And This Treasure Goes To...\", \"The Path of Papers.\"",
     notes: "「霊矩のお宝」「学を求む長き道」など、多くの世界任務に登場する人物",
-    notesZh: "出现在「灵矩有宝予何人」，「求学漫漫路」等众多世界任务中的角色",
+    notesZh: "世界任务「灵矩有宝予何人」、「求学漫漫路」等中的登场角色。",
+    notesZhTW: "世界任務「靈矩有寶予何人」、「求學漫漫路」等中的登場角色。",
     tags: [ "sumeru", "liyue", "inazuma", "natlan", "character-sub" ],
   },
   {
@@ -3687,7 +3947,8 @@ export default [
     zhTW: "娜比雅",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女",
-    notesZh: "须弥城内的少女占卜师",
+    notesZh: "须弥城内的少女占卜师。",
+    notesZhTW: "須彌城內的少女占卜師。",
   },
   {
     en: "Harut",
@@ -3696,7 +3957,8 @@ export default [
     zhTW: "哈魯特",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
-    notesZh: "须弥城内的少女占卜师饲养的猫",
+    notesZh: "须弥城内的少女占卜师饲养的猫。",
+    notesZhTW: "須彌城內的少女占卜師飼養的貓。",
   },
   {
     en: "Marut",
@@ -3705,7 +3967,8 @@ export default [
     zhTW: "瑪魯特",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる占い師の少女ナビヤの飼い猫",
-    notesZh: "须弥城内的少女占卜师饲养的猫",
+    notesZh: "须弥城内的少女占卜师饲养的猫。",
+    notesZhTW: "須彌城內的少女占卜師飼養的貓。",
   },
   {
     en: "Aryadeva",
@@ -3714,7 +3977,8 @@ export default [
     zhTW: "阿亞德瓦",
     tags: [ "sumeru", "character-sub" ],
     notes: "スメールシティ内にいる小説家で、元スケプティック団員。元ネタは2〜3世紀頃の僧アーリヤデーヴァか",
-    notesZh: "须弥城内的小说家，矫论团前成员。原型可能是2-3世纪的印度大乘佛教中的人物圣天。",
+    notesZh: "须弥城内的小说家，矫论团前成员。原型可能是2-3世纪的印度大乘佛教中的人物「圣天」。",
+    notesZhTW: "須彌城內的小說家，矯論團前成員。原型可能是2-3世紀的印度大乘佛教中的人物「聖天」。",
   },
   {
     en: "Arezo",
@@ -3723,7 +3987,8 @@ export default [
     zhTW: "阿蓮佐",
     tags: [ "sumeru", "character-sub" ],
     notes: "ヴィマラ村にいるホッセイニの姉",
-    notesZh: "维摩庄中的胡塞尼的姐姐",
+    notesZh: "维摩庄中胡塞尼的姐姐。",
+    notesZhTW: "維摩莊中胡塞尼的姐姐。",
   },
   {
     en: "Sadife",
@@ -3732,6 +3997,8 @@ export default [
     zhTW: "賽達菲",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「プルビルニの戒め」に登場する人物",
+    notesZh: "世界任务「普尔比鲁尼之诫」中的登场角色。",
+    notesZhTW: "世界任務「普爾比魯尼之誡」中的登場角色。",
   },
   {
     en: "Augustus Lovelace",
@@ -3740,6 +4007,8 @@ export default [
     zhTW: "奧古斯都·洛夫萊斯",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「とあるフォンテーヌ人の思い出」に登場する人物",
+    notesZh: "世界任务「一个枫丹人的回忆」中的登场角色。",
+    notesZhTW: "世界任務「一個楓丹人的回憶」中的登場角色。",
   },
   {
     en: "Oleg",
@@ -3748,6 +4017,8 @@ export default [
     zhTW: "奧列格",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「騙す者は騙される」に登場するデットエージェント",
+    notesZh: "世界任务「愚人者人愚之」中的登场角色。",
+    notesZhTW: "世界任務「愚人者人愚之」中的登場角色。",
   },
   {
     en: "Effendi",
@@ -3757,7 +4028,8 @@ export default [
     tags: [ "sumeru", "character-sub" ],
     notes: "スメール評判任務の受付キャラクター",
     notesEn: "A representative character for the reputation quests in Sumeru.",
-    notesZh: "须弥声望任务的交付角色",
+    notesZh: "须弥声望任务的交付角色。",
+    notesZhTW: "須彌聲望任務的交付角色。",
   },
   {
     en: "Desertfolk",
@@ -3774,7 +4046,8 @@ export default [
     zhTW: "婕德",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」や「ビルキースの哀歌」に登場するキャラクター",
-    notesZh: "世界任务「黄金梦乡」和「比勒琪丝的哀歌」中登场的角色。",
+    notesZh: "世界任务「黄金梦乡」和「比勒琪丝的哀歌」中的登场角色。",
+    notesZhTW: "世界任務「黃金夢鄉」和「比勒琪絲的哀歌」中的登場角色。",
   },
   {
     en: "Jebrael",
@@ -3783,7 +4056,8 @@ export default [
     zhTW: "哲伯萊勒",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
-    notesZh: "世界任务「黄金梦乡」中登场的角色。",
+    notesZh: "世界任务「黄金梦乡」中的登场角色。",
+    notesZhTW: "世界任務「黃金夢鄉」中的登場角色。",
   },
   {
     en: "Ufairah",
@@ -3792,7 +4066,8 @@ export default [
     zhTW: "優菲",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」や「ビルキースの哀歌」で言及されるキャラクター",
-    notesZh: "世界任务「黄金梦乡」和「比勒琪丝的哀歌」中提及的角色。",
+    notesZh: "世界任务「黄金梦乡」和「比勒琪丝的哀歌」中的背景角色。",
+    notesZhTW: "世界任務「黃金夢鄉」和「比勒琪絲的哀歌」中的背景角色。",
   },
   {
     en: "Tirzad",
@@ -3801,7 +4076,8 @@ export default [
     zhTW: "提爾扎德",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
-    notesZh: "世界任务「黄金梦乡」中登场的角色。",
+    notesZh: "世界任务「黄金梦乡」中的登场角色。",
+    notesZhTW: "世界任務「黃金夢鄉」中的登場角色。",
   },
   {
     en: "Benben",
@@ -3810,7 +4086,8 @@ export default [
     zhTW: "奔奔",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
-    notesZh: "世界任务「黄金梦乡」中登场的角色。",
+    notesZh: "世界任务「黄金梦乡」中的登场角色。",
+    notesZhTW: "世界任務「黃金夢鄉」中的登場角色。",
   },
   {
     en: "Samail",
@@ -3819,7 +4096,8 @@ export default [
     zhTW: "薩梅爾",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「黄金の眠り」に登場するキャラクター",
-    notesZh: "世界任务「黄金梦乡」中登场的角色。",
+    notesZh: "世界任务「黄金梦乡」中的登场角色。",
+    notesZhTW: "世界任務「黃金夢鄉」中的登場角色。",
   },
   {
     en: "Babel Tanit",
@@ -3828,7 +4106,8 @@ export default [
     zhTW: "芭別爾·塔尼特",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。タニット部族の主母。",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。塔尼特部族的主母。",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色。塔尼特部族的主母。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色。塔尼特部族的主母。",
   },
   {
     en: "Matriarch",
@@ -3837,7 +4116,8 @@ export default [
     zhTW: "主母",
     tags: [ "sumeru", "title" ],
     notes: "バベル・タニットの役職名",
-    notesZh: "芭别尔·塔尼特的职位名",
+    notesZh: "芭别尔·塔尼特的职位名。",
+    notesZhTW: "芭別爾·塔尼特的職位名。",
   },
   {
     en: "Liloupar",
@@ -3846,7 +4126,8 @@ export default [
     zhTW: "利露帕爾",
     tags: [ "sumeru", "character-sub", "item" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。ジンニー。",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色（镇灵）。",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色，被封印在魔瓶之中的镇灵。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色，被封印在魔瓶之中的鎮靈。",
   },
   {
     en: "Azariq",
@@ -3855,7 +4136,8 @@ export default [
     zhTW: "阿薩里格",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。タニット部族の1人。",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。塔尼特部族的成员之一。",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色，塔尼特部族的成员。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色，塔尼特部族的成員。",
   },
   {
     en: "Aderfi",
@@ -3864,7 +4146,8 @@ export default [
     zhTW: "阿德菲",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。タニット部族の1人。",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。塔尼特部族的成员之一。",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色，塔尼特部族的成员。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色，塔尼特部族的成員。",
   },
   {
     en: "Yuften",
@@ -3873,7 +4156,8 @@ export default [
     zhTW: "尤夫騰",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」などに登場するキャラクター。タニット部族の1人。",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。塔尼特部族的成员之一。",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色，塔尼特部族的成员。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色，塔尼特部族的成員。",
   },
   {
     en: "Tadhla",
@@ -3882,7 +4166,8 @@ export default [
     zhTW: "塔德菈",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。マシーラの娘。",
-    notesZh: "世界任务「翅膀折断的猎鹰」「已逝去的末日」中登场的角色。塔尼特部族的成员之一。马塞拉的女儿。",
+    notesZh: "世界任务「翅膀折断的猎鹰」、「已逝去的末日」中的登场角色。塔尼特部族的成员。马塞拉的女儿。",
+    notesZhTW: "世界任務「翅膀折斷的獵鷹」、「已逝去的末日」中的登場角色。塔尼特部族的成員。馬塞拉的女兒。",
     pinyins: [{ char: "菈", pron: "la1" }],
     zhuyins: [{ char: "菈", pron: "ㄌㄚ" }],
   },
@@ -3893,7 +4178,8 @@ export default [
     zhTW: "馬塞拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「翼の折れた猟鷹」「過ぎ去りし終末」などに登場するキャラクター。タニット部族の1人。タッドラーの父親。",
-    notesZh: "世界任务「翅膀折断的猎鹰」「已逝去的末日」中登场的角色。塔尼特部族的成员之一。塔德菈的父亲。",
+    notesZh: "世界任务「翅膀折断的猎鹰」、「已逝去的末日」中的登场角色。塔尼特部族的成员。塔德菈的父亲。",
+    notesZhTW: "世界任務「翅膀折斷的獵鷹」、「已逝去的末日」中的登場角色。塔尼特部族的成員。塔德菈的父親。",
   },
   {
     en: "Zoya Snezhevna",
@@ -3901,9 +4187,10 @@ export default [
     zhCN: "佐娅·雪奈茨芙娜",
     zhTW: "佐婭·雪奈茨芙娜",
     tags: [ "sumeru", "fatui", "character-sub" ],
+    notesEn: "A character mentioned in the World Quest \"The Dirge of Bilqis.\" A captain of Fatui.",
     notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター。ファデュイの大尉。",
-    notesEn: "A character mentioned in the World Quest \"The Dirge of Bilqis\". A captain of Fatui.",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。愚人众的大尉。",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色。愚人众的大尉。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色。愚人眾的大尉。",
   },
   {
     en: "Parvezravan",
@@ -3912,7 +4199,8 @@ export default [
     zhTW: "帕維茲拉萬",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」で言及されるキャラクター。「パーヴェズラヴァン陛下」は \"His Majesty Parvezravan\"",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。\"帕维兹拉万陛下\" = \"His Majesty Parvezravan\"",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色。",
     examples: [{
       en: "...It is hard to believe that His Majesty Parvezravan may be bewitched by spectacles conjured by Jinn slaves, and yet he cannot see the foundations of the very earth coming loose under his feet...",
       ja: "…信じられない。パーヴェズラヴァン陛下は知恵のないジンニーの奴隷たちが作った奇観に夢中になり、足元で緩くなっていく地盤に少しも気づかないとは…",
@@ -3928,7 +4216,8 @@ export default [
     zhTW: "佛羅德洛克·弗朗孔斯汀",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」などで言及されるキャラクター",
-    notesZh: "世界任务「比勒琪丝的哀歌」等中提及的角色。",
+    notesZh: "世界任务「比勒琪丝的哀歌」等中的背景角色。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」等中的背景角色。",
   },
   {
     en: "Ferigees",
@@ -3937,7 +4226,8 @@ export default [
     zhTW: "菲莉吉絲",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「ビルキースの哀歌」に登場するキャラクター。「フェリギス殿下」は \"Lady Ferigees\"",
-    notesZh: "世界任务「比勒琪丝的哀歌」中登场的角色。\"菲莉吉丝殿下\" = \"Lady Ferigees\"",
+    notesZh: "世界任务「比勒琪丝的哀歌」中的登场角色。",
+    notesZhTW: "世界任務「比勒琪絲的哀歌」中的登場角色。",
     examples: [{
       en: "...And Lady Ferigees now lacks even the strength for wrath...",
       ja: "…フェリギス殿下も怒る気力を失ったようだ…",
@@ -3953,7 +4243,8 @@ export default [
     zhTW: "赤王",
     tags: [ "sumeru", "character-sub" ],
     notes: "日本語版と英語版においては、v3.1 以前は スカーレットキング (Scarlet King) という名前だったが変更された。中国語版では特に変更は発生していない",
-    notesZh: "日文版和英文版在 v3.1 之前，此角色的名字为「スカーレットキング」(Scarlet King)。中文版没有变化。",
+    notesZh: "在 v3.1 之前，日文版和英文版将此角色的名字译作「Scarlet King / スカーレットキング」，后更改为「King Deshret / キングデシェレト」。中文版没有变化。",
+    notesZhTW: "在 v3.1 之前，日文版和英文版將此角色的名字譯作「Scarlet King / スカーレットキング」，後更改為「King Deshret / キングデシェレト」。中文版沒有變化。",
   },
   {
     en: "Al-Ahmar",
@@ -3961,9 +4252,10 @@ export default [
     zhCN: "阿赫玛尔",
     zhTW: "阿赫瑪爾",
     tags: [ "sumeru", "character-sub" ],
-    notesEn: "King Deshret's True Name",
+    notesEn: "King Deshret's true name.",
     notes: "キングデシェレトの真名",
-    notesZh: "赤王的真名",
+    notesZh: "赤王的真名。",
+    notesZhTW: "赤王的真名。",
   },
   {
     en: "Amun",
@@ -3971,9 +4263,10 @@ export default [
     zhCN: "阿蒙",
     zhTW: "阿蒙",
     tags: [ "sumeru", "character-sub" ],
-    notesEn: "King Deshret's Another Name",
+    notesEn: "King Deshret's alternative name.",
     notes: "キングデシェレトの別名",
-    notesZh: "赤王的别名",
+    notesZh: "赤王的别名。",
+    notesZhTW: "赤王的別名。",
   },
   // ▼▼ Aranaras & related ▼▼
   {
@@ -3990,7 +4283,8 @@ export default [
     zhTW: "法留納",
     tags: [ "sumeru", "character-sub" ],
     notes: "アランナラが過去に出会ったもう1人の金色の髪の人間。通例 Nara (人間) を付けて Nara Varuna。",
-    notesZh: "兰拉娜遇到的另一个金发人类。通常会加上 Nara (人类) 作为后缀，即 Nara Varuna。",
+    notesZh: "兰拉娜遇到的另一个金发人类。通常称为「那菈法留纳」，其中「那菈」在兰那罗口中意为「人类」。",
+    notesZhTW: "蘭拉娜遇到的另一個金髮人類。通常稱為「那菈法留納」，其中「那菈」在蘭那羅口中意為「人類」。",
   },
   {
     en: "Arana",
@@ -4020,7 +4314,7 @@ export default [
     zhTW: "蘭帕卡提",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラたちの妹",
-    notesZh: "进行料理修行的兰那罗们的妹妹",
+    notesZh: "进行料理修行的兰那罗们的妹妹。",
   },
   {
     en: "Aranakula",
@@ -4064,7 +4358,8 @@ export default [
     zhTW: "蘭闡荼",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
-    notesZh: "进行料理修行的兰那罗之一",
+    notesZh: "进行料理修行的兰那罗之一。",
+    notesZhTW: "進行料理修行的蘭那羅之一。",
   },
   {
     en: "Arasaka",
@@ -4073,7 +4368,8 @@ export default [
     zhTW: "蘭薩卡",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
-    notesZh: "进行料理修行的兰那罗之一",
+    notesZh: "进行料理修行的兰那罗之一。",
+    notesZhTW: "進行料理修行的蘭那羅之一。",
   },
   {
     en: "Arapas",
@@ -4082,7 +4378,8 @@ export default [
     zhTW: "蘭阿帕斯",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
-    notesZh: "进行料理修行的兰那罗之一",
+    notesZh: "进行料理修行的兰那罗之一。",
+    notesZhTW: "進行料理修行的蘭那羅之一。",
   },
   {
     en: "Araphala",
@@ -4091,7 +4388,8 @@ export default [
     zhTW: "蘭非拉",
     tags: [ "sumeru", "character-sub" ],
     notes: "料理修行をしていたアランナラの1体",
-    notesZh: "进行料理修行的兰那罗之一",
+    notesZh: "进行料理修行的兰那罗之一。",
+    notesZhTW: "進行料理修行的蘭那羅之一。",
   },
   {
     en: "Ararycan",
@@ -4165,7 +4463,8 @@ export default [
     zhTW: "蘭沙恭",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「勇気を心につけて」に登場するアランナラ",
-    notesZh: "世界任务「勇气戴于心上」中的兰那罗",
+    notesZh: "世界任务「勇气戴于心上」中的兰那罗。",
+    notesZhTW: "世界任務「勇氣戴於心上」中的蘭那羅。",
   },
   {
     en: "Araminali",
@@ -4173,8 +4472,10 @@ export default [
     zhCN: "兰弥那离",
     zhTW: "蘭彌那離",
     tags: [ "sumeru", "character-sub" ],
+    notesEn: "An Aranara in the room with a lot of Chests.",
     notes: "たくさんの宝箱がある部屋にいるアランナラ",
-    notesEn: "An Aranara in the room with a lot of Chests",
+    notesZh: "在有很多宝箱的房间中的兰那罗。",
+    notesZhTW: "在有很多寶箱的房間中的蘭那羅。",
   },
   {
     en: "Khayyam",
@@ -4183,7 +4484,8 @@ export default [
     zhTW: "海亞姆",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「アランナガの思い出」に登場する人物",
-    notesZh: "世界任务「兰纳迦的回忆」中登场的人物",
+    notesZh: "世界任务「兰纳迦的回忆」中的登场角色。",
+    notesZhTW: "世界任務「蘭納迦的回憶」中的登場角色。",
   },
   // ▲▲ Aranaras & related ▲▲
 
@@ -4194,7 +4496,8 @@ export default [
     zhTW: "伊利亞斯",
     tags: [ "sumeru", "character-sub" ],
     notes: "アルハイゼンの伝説任務に登場するキャラクター",
-    notesZh: "艾尔海森的传说任务中登场的角色",
+    notesZh: "艾尔海森的传说任务 天隼之章·第一幕「乌合的虚像」中的登场角色。",
+    notesZhTW: "艾爾海森的傳說任務 天隼之章·第一幕「烏合的虛像」中的登場角色。",
   },
   {
     en: "Siraj",
@@ -4203,7 +4506,8 @@ export default [
     zhTW: "西拉傑",
     tags: [ "sumeru", "character-sub" ],
     notes: "アルハイゼンの伝説任務に登場するキャラクター",
-    notesZh: "艾尔海森的传说任务中登场的角色",
+    notesZh: "艾尔海森的传说任务 天隼之章·第一幕「乌合的虚像」中的登场角色。",
+    notesZhTW: "艾爾海森的傳說任務 天隼之章·第一幕「烏合的虛像」中的登場角色。",
   },
   {
     en: "Kusayla",
@@ -4213,6 +4517,7 @@ export default [
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの父。アフマルの鬚のリーダー",
     notesZh: "迪希雅的父亲。阿赫玛尔之须的首领。",
+    notesZhTW: "迪希雅的父親。阿赫瑪爾之須的首領。",
   },
   {
     en: "Shahzaman Homayani",
@@ -4221,7 +4526,8 @@ export default [
     zhTW: "沙扎曼·呼瑪伊",
     tags: [ "sumeru", "character-sub" ],
     notes: "ドニアザードの父",
-    notesZh: "迪娜泽黛的父亲",
+    notesZh: "迪娜泽黛的父亲。",
+    notesZhTW: "迪娜澤黛的父親。",
   },
   {
     en: "Idrisi",
@@ -4230,7 +4536,8 @@ export default [
     zhTW: "伊德里西",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
-    notesZh: "迪希雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
+    notesZh: "迪希雅的传说任务 蝎尾鬃狮之章·第一幕「狮之血」中的登场角色。阿赫玛尔之须的成员。",
+    notesZhTW: "迪希雅的傳說任務 蠍尾鬃獅之章·第一幕「獅之血」中的登場角色。阿赫瑪爾之須的成員。",
   },
   {
     en: "Bashar",
@@ -4239,7 +4546,8 @@ export default [
     zhTW: "巴沙爾",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
-    notesZh: "迪希雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
+    notesZh: "迪希雅的传说任务 蝎尾鬃狮之章·第一幕「狮之血」中的登场角色。阿赫玛尔之须的成员。",
+    notesZhTW: "迪希雅的傳說任務 蠍尾鬃獅之章·第一幕「獅之血」中的登場角色。阿赫瑪爾之須的成員。",
   },
   {
     en: "Tikriti",
@@ -4248,7 +4556,8 @@ export default [
     zhTW: "提克里蒂",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。アフマルの鬚のメンバー",
-    notesZh: "迪希雅的传说任务中登场的角色。阿赫玛尔之须的成员。",
+    notesZh: "迪希雅的传说任务 蝎尾鬃狮之章·第一幕「狮之血」中的登场角色。阿赫玛尔之须的成员。",
+    notesZhTW: "迪希雅的傳說任務 蠍尾鬃獅之章·第一幕「獅之血」中的登場角色。阿赫瑪爾之須的成員。",
   },
   {
     en: "Mishal",
@@ -4257,7 +4566,8 @@ export default [
     zhTW: "米沙勒",
     tags: [ "sumeru", "character-sub" ],
     notes: "ディシアの伝説任務に登場するキャラクター。神王のレリクスの首領",
-    notesZh: "迪希雅的传说任务中登场的角色。神王之遗的首领。",
+    notesZh: "迪希雅的传说任务 蝎尾鬃狮之章·第一幕「狮之血」中的登场角色。神王之遗的首领。",
+    notesZhTW: "迪希雅的傳說任務 蠍尾鬃獅之章·第一幕「獅之血」中的登場角色。神王之遺的首領。",
   },
 
   {
@@ -4267,7 +4577,8 @@ export default [
     zhTW: "埃德",
     tags: [ "sumeru", "khaenriah", "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター",
-    notesZh: "魔神任务 第三章第六幕「卡利贝尔」中登场的角色",
+    notesZh: "魔神任务 第三章·第六幕「卡利贝尔」中的登场角色。",
+    notesZhTW: "魔神任務 第三章·第六幕「卡利貝爾」中的登場角色。",
   },
   {
     en: "Chlothar Alberich",
@@ -4276,7 +4587,8 @@ export default [
     zhTW: "克洛達爾·亞爾伯裡奇",
     tags: [ "sumeru", "khaenriah", "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」に登場するキャラクター。アビス教団創設者",
-    notesZh: "魔神任务 第三章第六幕「卡利贝尔」中登场的角色",
+    notesZh: "魔神任务 第三章·第六幕「卡利贝尔」中的登场角色。深渊教团创始人。",
+    notesZhTW: "魔神任務 第三章·第六幕「卡利貝爾」中的登場角色。深淵教團創始人。",
   },
   {
     en: "Sinner",
@@ -4286,7 +4598,8 @@ export default [
     pronunciationJa: "つみびと",
     tags: [ "sumeru", "khaenriah", "character-sub" ],
     notes: "魔神任務 第三章第六幕「カリベルト」などに登場するキャラクター",
-    notesZh: "魔神任务 第三章第六幕「卡利贝尔」等中登场的角色",
+    notesZh: "魔神任务 第三章·第六幕「卡利贝尔」中的登场角色。",
+    notesZhTW: "魔神任務 第三章·第六幕「卡利貝爾」中的登場角色。",
   },
 
   {
@@ -4296,7 +4609,8 @@ export default [
     zhTW: "梅赫拉克",
     tags: [ "sumeru", "character-sub" ],
     notes: "カーヴェの工具箱",
-    notesZh: "卡维的工具箱",
+    notesZh: "卡维的工具箱。",
+    notesZhTW: "卡維的工具箱。",
   },
   {
     en: "Zaha Hadi",
@@ -4305,6 +4619,8 @@ export default [
     zhTW: "薩赫哈蒂",
     tags: [ "sumeru", "character-sub" ],
     notes: "カーヴェのデートイベントに登場する人物。カーヴェの母の師",
+    notesZh: "卡维的邀约事件 第一幕「苦与幸的钟摆」中的登场角色。卡维的母亲的老师。",
+    notesZhTW: "卡維的邀約事件 第一幕「苦與幸的鐘擺」中的登場角色。卡維的母親的老師。",
   },
 
   {
@@ -4314,7 +4630,8 @@ export default [
     zhTW: "努爾",
     tags: [ "sumeru", "character-sub" ],
     notes: "ナヒーダの伝説任務第二章に登場するプカプカ水キノコン",
-    notesZh: "纳西妲的传说任务第二章中登场的水蕈兽",
+    notesZh: "纳西妲的传说任务 智慧主之章·第二幕「归乡」中登场的水蕈兽。",
+    notesZhTW: "納西妲的傳說任務 智慧主之章·第二幕「歸鄉」中登場的水蕈獸。",
   },
   {
     en: "Apep",
@@ -4330,9 +4647,10 @@ export default [
     zhCN: "翠草之龙",
     zhTW: "翠草之龍",
     tags: [ "sumeru", "title" ],
-    notesEn: "Apep's title",
+    notesEn: "Apep's title.",
     notes: "アペプの称号",
-    notesZh: "阿佩普的称号",
+    notesZh: "阿佩普的称号。",
+    notesZhTW: "阿佩普的稱號。",
   },
   {
     en: "Dragon King",
@@ -4358,7 +4676,8 @@ export default [
     pronunciationJa: "ソルシュさま",
     tags: [ "sumeru", "how-to-call" ],
     notes: "スケプティック団からのソルシュに対する敬称",
-    notesZh: "矫论团对斯露莎的称呼",
+    notesZh: "矫论团对斯露莎的敬称。",
+    notesZhTW: "矯論團對斯露莎的敬稱。",
   },
   {
     en: "Bloomguard of the Pari",
@@ -4367,9 +4686,10 @@ export default [
     zhTW: "花靈之「勇者」",
     pronunciationJa: "かれいのゆうしゃ",
     tags: [ "sumeru", "title" ],
-    notesEn: "Sorush's title",
+    notesEn: "Sorush's title.",
     notes: "ソルシュの称号",
-    notesZh: "斯露莎的称号",
+    notesZh: "斯露莎的称号。",
+    notesZhTW: "斯露莎的稱號。",
   },
   {
     en: "Twin-Horned Chaplet",
@@ -4379,7 +4699,8 @@ export default [
     pronunciationJa: "にほんづののかかん",
     tags: [ "sumeru" ],
     notes: "ソルシュが被る冠",
-    notesZh: "斯露莎所戴的花冠",
+    notesZh: "斯露莎所戴的花冠。",
+    notesZhTW: "斯露莎所戴的花冠。",
   },
   {
     en: "Yasnapati",
@@ -4389,7 +4710,8 @@ export default [
     pronunciationJa: "えっさんしゅ", // TODO Need Check
     tags: [ "sumeru", "title" ],
     notes: "ソルシュが旅人に任じた記録者としての役割",
-    notesZh: "斯露莎给旅行者的称号",
+    notesZh: "斯露莎给旅行者的称号。",
+    notesZhTW: "斯露莎給旅行者的稱號。",
     pinyins: [{ char: "谒", pron: "ye4" }],
     zhuyins: [{ char: "謁", pron: "ㄧㄝˋ" }],
   },
@@ -4408,7 +4730,8 @@ export default [
     pronunciationJa: "しきしゅ", // Need Check
     tags: [ "sumeru", "title" ],
     notes: "ナセジュナのスケプティック団における役職",
-    notesZh: "那先朱那在矫论团中的职位",
+    notesZh: "那先朱那在矫论团中的职位。",
+    notesZhTW: "那先朱那在矯論團中的職位。",
   },
   {
     en: "Sosi",
@@ -4417,6 +4740,8 @@ export default [
     zhTW: "索希",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「碑銘の研究」に登場するスケプティック団員",
+    notesZh: "世界任务「碑铭的研究」中的登场角色，矫论团成员。",
+    notesZhTW: "世界任務「碑銘的研究」中的登場角色，矯論團成員。",
   },
   {
     en: "Zurvan",
@@ -4425,7 +4750,8 @@ export default [
     zhTW: "祖爾宛",
     tags: [ "sumeru", "character-sub" ],
     notes: "最初の花霊",
-    notesZh: "最初的花灵",
+    notesZh: "最初的花灵。",
+    notesZhTW: "最初的花靈。",
   },
   {
     en: "Mihir",
@@ -4434,7 +4760,8 @@ export default [
     zhTW: "米希爾",
     tags: [ "sumeru", "character-sub" ],
     notes: "アシパトラ・ヴァナの沼に封じられていた花霊",
-    notesZh: "锋刃林泽中被封印的花灵",
+    notesZh: "锋刃林泽中被封印的花灵。",
+    notesZhTW: "鋒刃林澤中被封印的花靈。",
   },
   {
     en: "Rashnu",
@@ -4443,7 +4770,8 @@ export default [
     zhTW: "拉沙魯",
     tags: [ "sumeru", "character-sub" ],
     notes: "バルソムの丘の巨木の下に眠っていた花霊",
-    notesZh: "跋松顶的巨树下睡着的花灵",
+    notesZh: "跋松顶的巨树下睡着的花灵。",
+    notesZhTW: "跋松頂的巨樹下睡著的花靈。",
   },
   {
     en: "Simurgh",
@@ -4451,9 +4779,10 @@ export default [
     zhCN: "西摩格",
     zhTW: "西摩格",
     tags: [ "sumeru", "character-sub" ],
-    notes: "世界任務「善悪のクヴァレナ」で言及される、霊光百種を創造した神鳥",
-    notesEn: "A divine bird which created coutless motes of Khvarena mentioned in a world quest \"Khvarena of Good and Evil\"",
-    notesZh: "世界任务「善恶的赫瓦雷纳」中提到的神鸟",
+    notesEn: "A divine bird mentioned in the world quest \"Khvarena of Good and Evil.\"",
+    notes: "世界任務「善悪のクヴァレナ」で言及される神鳥",
+    notesZh: "世界任务「善恶的赫瓦雷纳」中提到的神鸟。花神死后，大慈树王将其孕育的万千「灵光」变为神鸟「西摩格」。",
+    notesZhTW: "世界任務「善惡的赫瓦雷納」中提到的神鳥。花神死後，大慈樹王將其孕育的萬千「靈光」變為神鳥「西摩格」。",
   },
   {
     en: "Klingsor",
@@ -4462,7 +4791,8 @@ export default [
     zhTW: "克林索爾",
     tags: [ "sumeru", "character-sub" ],
     notes: "世界任務「善悪のクヴァレナ」で言及される「巡回官」",
-    notesZh: "世界任务「善恶的赫瓦雷纳」中提到的「巡回官」",
+    notesZh: "世界任务「善恶的赫瓦雷纳」中提到的「巡路官」。",
+    notesZhTW: "世界任務「善惡的赫瓦雷納」中提到的「巡路官」。",
   },
   {
     en: "Jarjar",
@@ -4470,8 +4800,10 @@ export default [
     zhCN: "贾尔贾",
     zhTW: "賈爾賈",
     tags: [ "sumeru", "character-sub" ],
+    notesEn: "A pari who offers trials in the World Quest \"Lightcall Resonance.\"",
     notes: "世界任務「浮光鳴召」で試練を課してくる花霊",
-    notesEn: "A pari who offers trials in the world quest \"Lightcall Resonance\".",
+    notesZh: "世界任务「浮光鸣召」中提供试炼的花灵。",
+    notesZhTW: "世界任務「浮光鳴召」中提供試煉的花靈。",
   },
   {
     en: "Fedhri",
@@ -4480,6 +4812,8 @@ export default [
     zhTW: "菲多赫",
     tags: [ "sumeru", "character-sub" ],
     notes: "甘露の池の前にいる花霊",
+    notesZh: "甘露池前的花灵。",
+    notesZhTW: "甘露池前的花靈。",
   },
   {
     en: "Aarav",
@@ -4488,6 +4822,8 @@ export default [
     zhTW: "阿拉夫",
     tags: [ "sumeru", "character-sub" ],
     notes: "マハマトラの1人",
+    notesZh: "艾尔海森的传说任务 天隼之章·第一幕「乌合的虚像」、赛诺的传说任务 金狼之章·第二幕「守诺者」中的登场角色。教令院的风纪官。",
+    notesZhTW: "艾爾海森的傳說任務 天隼之章·第一幕「烏合的虛像」、賽諾的傳說任務 金狼之章·第二幕「守諾者」中的登場角色。教令院的風紀官。",
   },
   {
     en: "Bamoun",
@@ -4495,6 +4831,8 @@ export default [
     zhCN: "巴穆恩",
     zhTW: "巴穆恩",
     notes: "セノの伝説任務に登場する人物",
+    notesZh: "赛诺的传说任务 金狼之章·第二幕「守诺者」中的登场角色。",
+    notesZhTW: "賽諾的傳說任務 金狼之章·第二幕「守諾者」中的登場角色。",
     tags: [ "sumeru", "character-sub" ],
   },
   {
@@ -4511,7 +4849,8 @@ export default [
     zhTW: "阿託莎",
     tags: [ "sumeru", "character-sub" ],
     notes: "魔神任務 第四章第六幕「ベッドタイムストーリー」に登場する人物",
-    notesZh: "魔神任务 第四章第六幕「睡前故事」中登场的角色",
+    notesZh: "魔神任务 第四章·第六幕「睡前故事」中的登场角色。",
+    notesZhTW: "魔神任務 第四章·第六幕「睡前故事」中的登場角色。",
   },
   {
     en: "Bahram",
@@ -4534,7 +4873,8 @@ export default [
     zhTW: "卡利貝爾·亞爾伯裡奇",
     tags: [ "sumeru", "khaenriah", "character-sub" ],
     notes: "魔神任務 第四章第六幕「ベッドタイムストーリー」に登場するキャラクター。厳密にはカリベルトはコロタールの私生児であるためアルベリヒ姓ではないが「ベッドタイムストーリー」「世界規模の語り」の中で旅人は青年の姿にカリベルト・アルベリヒと呼んでいる",
-    notesZh: "魔神任务 第四章第六幕「睡前故事」中登场的角色",
+    notesZh: "魔神任务 第四章·第六幕「睡前故事」中的登场角色。克洛达尔·亚尔伯里奇的私生子。",
+    notesZhTW: "魔神任務 第四章·第六幕「睡前故事」中的登場角色。克洛達爾·亞爾伯裡奇的私生子。",
   },
   {
     en: "Edgar",
@@ -4543,6 +4883,8 @@ export default [
     zhTW: "艾德加",
     tags: [ "sumeru", "character-sub" ],
     notes: "エミリエの伝説任務に登場する人物",
+    notesZh: "艾梅莉埃的传说任务 香氛瓶之章·第一幕「花债血偿」中的登场角色。",
+    notesZhTW: "艾梅莉埃的傳說任務 香氛瓶之章·第一幕「花債血償」中的登場角色。",
   },
   {
     en: "Sylvain",
@@ -4551,6 +4893,8 @@ export default [
     zhTW: "席尓萬",
     tags: [ "sumeru", "character-sub" ],
     notes: "エミリエの伝説任務に登場する人物",
+    notesZh: "艾梅莉埃的传说任务 香氛瓶之章·第一幕「花债血偿」中的登场角色。",
+    notesZhTW: "艾梅莉埃的傳說任務 香氛瓶之章·第一幕「花債血償」中的登場角色。",
   },
   {
     en: "Lucien",
@@ -4559,6 +4903,8 @@ export default [
     zhTW: "盧西恩",
     tags: [ "sumeru", "character-sub" ],
     notes: "エミリエの伝説任務に登場する人物",
+    notesZh: "艾梅莉埃的传说任务 香氛瓶之章·第一幕「花债血偿」中的登场角色。",
+    notesZhTW: "艾梅莉埃的傳說任務 香氛瓶之章·第一幕「花債血償」中的登場角色。",
   },
   {
     en: "Yelena",
@@ -4567,6 +4913,8 @@ export default [
     zhTW: "葉蓮娜",
     tags: [ "sumeru", "character-sub" ],
     notes: "エミリエの伝説任務に登場する人物",
+    notesZh: "艾梅莉埃的传说任务 香氛瓶之章·第一幕「花债血偿」中的登场角色。",
+    notesZhTW: "艾梅莉埃的傳說任務 香氛瓶之章·第一幕「花債血償」中的登場角色。",
   },
   {
     en: "Kirya",
@@ -4575,6 +4923,8 @@ export default [
     zhTW: "基里亞",
     tags: [ "sumeru", "character-sub" ],
     notes: "エミリエの伝説任務に登場する人物",
+    notesZh: "艾梅莉埃的传说任务 香氛瓶之章·第一幕「花债血偿」中的登场角色。",
+    notesZhTW: "艾梅莉埃的傳說任務 香氛瓶之章·第一幕「花債血償」中的登場角色。",
   },
   {
     en: "Shyam",
@@ -4602,9 +4952,10 @@ export default [
     ja: "ナザム",
     zhCN: "娜赞",
     zhTW: "娜贊",
-    notesEn: "Character appearing in the world quest \"The Path of Papers\"",
+    notesEn: "Character appearing in the World Quest \"The Path of Papers.\"",
     notes: "世界任務「学を求む長き道」に登場する人物",
-    notesZh: "世界任务「求学漫漫路」中出现的角色",
+    notesZh: "世界任务「求学漫漫路」中的登场角色。",
+    notesZhTW: "世界任務「求學漫漫路」中的登場角色。",
     tags: [ "sumeru", "natlan", "character-sub" ],
   },
 
@@ -4646,9 +4997,10 @@ export default [
     zhCN: "厄歌莉娅",
     zhTW: "厄歌莉婭",
     tags: [ "fontaine", "character-sub" ],
-    notesEn: "The first Hydro Archon",
+    notesEn: "The first Hydro Archon.",
     notes: "初代水神",
-    notesZh: "第一水神",
+    notesZh: "初代水神。",
+    notesZhTW: "初代水神。",
   },
   {
     en: "Navia",
@@ -4664,6 +5016,8 @@ export default [
     zhTW: "大小姐",
     tags: [ "fontaine", "how-to-call" ],
     notes: "ナヴィアの侍従たちからのナヴィアに対する呼び方",
+    notesZh: "娜维娅的侍从们对她的称呼。",
+    notesZhTW: "娜維婭的侍從們對她的稱呼。",
   },
   {
     en: "Wriothesley",
@@ -4679,6 +5033,8 @@ export default [
     zhTW: "公爵",
     tags: [ "fontaine", "title" ],
     notes: "リオセスリの爵位",
+    notesZh: "莱欧斯利的爵位。",
+    notesZhTW: "萊歐斯利的爵位。",
   },
   {
     en: "Sigewinne",
@@ -4715,6 +5071,8 @@ export default [
     zhTW: "最高審判官",
     tags: [ "fontaine", "title" ],
     notes: "ヌヴィレットの役職",
+    notesZh: "那维莱特的职位。",
+    notesZhTW: "那維萊特的職位。",
   },
   {
     en: "Monsieur Neuvillette",
@@ -4723,6 +5081,8 @@ export default [
     zhTW: "那維萊特大人",
     tags: [ "fontaine", "how-to-call" ],
     notes: "ヌヴィレットの部下たちからの呼び方。Monsieur はフランス語で Mr. に相当する語",
+    notesZh: "那维莱特的部下们对他的称呼。法语「Monsieur」即「Mister」。",
+    notesZhTW: "那維萊特的部下們對他的稱呼。法語「Monsieur」即「Mister」。",
   },
   {
     en: "Furina",
@@ -4738,6 +5098,8 @@ export default [
     zhTW: "芙寧娜女士",
     tags: [ "fontaine", "how-to-call" ],
     notes: "フリーナの部下たちからの呼び方",
+    notesZh: "芙宁娜的部下们对她的称呼。",
+    notesZhTW: "芙寧娜的部下們對她的稱呼。",
   },
   {
     en: "Focalors",
@@ -4745,9 +5107,10 @@ export default [
     zhCN: "芙卡洛斯",
     zhTW: "芙卡洛斯",
     tags: [ "fontaine", "title" ],
-    notesEn: "The second Hydro Archon",
+    notesEn: "The second Hydro Archon.",
     notes: "二代目水神",
-    notesZh: "第二水神",
+    notesZh: "二代水神。",
+    notesZhTW: "二代水神。",
   },
   {
     en: "Hydro Archon",
@@ -4798,7 +5161,8 @@ export default [
     zhTW: "阿蘭·吉約丹",
     tags: [ "fontaine", "character-sub" ],
     notes: "フォンテーヌ科学院の創立者",
-    notesZh: "枫丹科学院的创始人",
+    notesZh: "枫丹科学院的创始人。",
+    notesZhTW: "楓丹科學院的創始人。",
   },
   {
     en: "Lord-Artificer",
@@ -4809,7 +5173,8 @@ export default [
     tags: [ "fontaine", "title" ],
     notesEn: "Alain Guillotin's title",
     notes: "アラン・ギヨタンの称号",
-    notesZh: "阿兰·吉约丹的称号",
+    notesZh: "阿兰·吉约丹的称号。",
+    notesZhTW: "阿蘭·吉約丹的稱號。",
   },
   {
     en: "Silver",
@@ -4818,6 +5183,8 @@ export default [
     zhTW: "西爾弗",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィアの侍従の1人。サングラスを掛けている若い方",
+    notesZh: "娜维娅的侍从之一。戴着墨镜的年轻人。",
+    notesZhTW: "娜維婭的侍從之一。戴著墨鏡的年輕人。",
   },
   {
     en: "Melus",
@@ -4826,6 +5193,8 @@ export default [
     zhTW: "邁勒斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィアの侍従の1人。眼鏡を掛けている高齢な方",
+    notesZh: "娜维娅的侍从之一。戴着眼镜的老年人。",
+    notesZhTW: "娜維婭的侍從之一。戴著眼鏡的老年人。",
   },
   {
     en: "Callas",
@@ -4834,6 +5203,8 @@ export default [
     zhTW: "卡雷斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィアの父",
+    notesZh: "娜维娅的父亲。",
+    notesZhTW: "娜維婭的父親。",
   },
   {
     en: "Euphrasie",
@@ -4841,8 +5212,10 @@ export default [
     zhCN: "欧芙",
     zhTW: "歐芙",
     tags: [ "fontaine", "character-sub" ],
-    notes: "フォンテーヌ評判任務の受付キャラクター。スチームバード新聞の編集長",
     notesEn: "A representative character for the reputation quests in Fontaine. The Chief Editor of The Steambird.",
+    notes: "フォンテーヌ評判任務の受付キャラクター。スチームバード新聞の編集長",
+    notesZh: "枫丹声望任务的交付角色。《蒸汽鸟报》的主编。",
+    notesZhTW: "楓丹聲望任務的交付角色。《蒸汽鳥報》的主編。",
   },
   {
     en: "Estelle",
@@ -4851,6 +5224,8 @@ export default [
     zhTW: "伊絲黛萊",
     tags: [ "fontaine", "character-sub" ],
     notes: "フォンテーヌの鍛冶屋",
+    notesZh: "枫丹的铁匠铺。",
+    notesZhTW: "楓丹的鐵匠鋪。",
   },
   {
     en: "Livre",
@@ -4859,6 +5234,8 @@ export default [
     zhTW: "利弗",
     tags: [ "fontaine", "character-sub" ],
     notes: "レシュッツのクロックワーク工房の店主",
+    notesZh: "「莱舒的发条工坊」的店主。",
+    notesZhTW: "「萊舒的發條工坊」的店主。",
   },
   {
     en: "Caron",
@@ -4867,6 +5244,8 @@ export default [
     zhTW: "卡隆",
     tags: [ "fontaine", "character-sub" ],
     notes: "ルポート時計店の店主",
+    notesZh: "勒波特钟表店的店主。",
+    notesZhTW: "勒波特鐘表店的店主。",
   },
   {
     en: "Maillardet",
@@ -4875,6 +5254,8 @@ export default [
     zhTW: "梅雅德",
     tags: [ "fontaine", "character-sub" ],
     notes: "氷風組曲の戦闘開始受付キャラクター",
+    notesZh: "与梅雅德对话以触发「冰风组曲」挑战。梅雅德是枫丹科学院的研究员。",
+    notesZhTW: "與梅雅德對話以觸發「冰風組曲」挑戰。梅雅德是楓丹科學院的研究員。",
   },
   {
     en: "Antoine Roger",
@@ -4883,6 +5264,8 @@ export default [
     zhTW: "安東·羅傑",
     tags: [ "fontaine", "character-sub" ],
     notes: "アントーン・ロジャー飛行マシナリーの開発者",
+    notesZh: "「安东・罗杰飞行器」的发明者。",
+    notesZhTW: "「安東·羅傑飛行器」的發明者。",
   },
   {
     en: "Arouet",
@@ -4890,8 +5273,10 @@ export default [
     zhCN: "阿鲁埃",
     zhTW: "阿魯埃",
     tags: [ "fontaine", "character-sub" ],
+    notesEn: "The boss of Café Lucerne.",
     notes: "カフェ・ルツェルンの店主",
-    notesEn: "The boss of Café Lucerne",
+    notesZh: "露泽咖啡厅的店主。",
+    notesZhTW: "「咖啡廳·露澤」的店主。",  // miHoYo, what happened to your consistency?
   },
   {
     en: "Vaneigem",
@@ -4901,7 +5286,8 @@ export default [
     tags: [ "fontaine", "character-sub" ],
     notesEn: "Boss of Hotel Debord",
     notes: "ホテル・ドゥポォールの支配人",
-    notesZh: "德波大饭店的老板",
+    notesZh: "德波大饭店的老板。",
+    notesZhTW: "德波大飯店的老闆。",
   },
   {
     en: "Leone",
@@ -4909,9 +5295,10 @@ export default [
     zhCN: "蕾欧妮",
     zhTW: "蕾歐妮",
     tags: [ "fontaine", "character-sub" ],
-    notesEn: "The Hostess of Hotel Debord",
+    notesEn: "The Hostess of Hotel Debord.",
     notes: "ホテル・ドゥポォールの接待係",
-    notesZh: "德波大饭店的招待员",
+    notesZh: "德波大饭店的招待员。",
+    notesZhTW: "德波大飯店的招待員。",
   },
   {
     en: "Argalia",
@@ -4919,9 +5306,10 @@ export default [
     zhCN: "艾嘉莉亚",
     zhTW: "艾嘉莉亞",
     tags: [ "fontaine", "character-sub" ],
-    notesEn: "The Hostess of Hotel Debord",
+    notesEn: "The Hostess of Hotel Debord.",
     notes: "ホテル・ドゥポォールの接待係",
-    notesZh: "德波大饭店的招待员",
+    notesZh: "德波大饭店的招待员。",
+    notesZhTW: "德波大飯店的招待員。",
   },
   {
     en: "Renaud",
@@ -4931,7 +5319,8 @@ export default [
     tags: [ "fontaine", "character-sub" ],
     notesEn: "A guest of Hotel Debord",
     notes: "ホテル・ドゥポォールの客",
-    notesZh: "德波大饭店的客人",
+    notesZh: "德波大饭店的顾客。",
+    notesZhTW: "德波大飯店的顧客。",
   },
   {
     en: "Eloise",
@@ -4941,7 +5330,8 @@ export default [
     tags: [ "fontaine", "character-sub" ],
     notesEn: "Critic. A guest of Hotel Debord",
     notes: "評議員。ホテル・ドゥポォールの客",
-    notesZh: "评议员。德波大饭店的客人",
+    notesZh: "评论员。德波大饭店的顾客。",
+    notesZhTW: "評論員。德波大飯店的顧客。",
   },
   {
     en: "Delaroche",
@@ -4949,8 +5339,10 @@ export default [
     zhCN: "德拉萝诗",
     zhTW: "德拉蘿詩",
     tags: [ "fontaine", "character-sub" ],
+    notesEn: "Fontaine angler.",
     notes: "フォンテーヌの漁師",
-    notesEn: "Fontaine Angler",
+    notesZh: "枫丹的渔夫。",
+    notesZhTW: "楓丹的漁夫。",
   },
   {
     en: "Boucicaut",
@@ -4958,8 +5350,10 @@ export default [
     zhCN: "布希柯",
     zhTW: "布希柯",
     tags: [ "fontaine", "character-sub" ],
+    notesEn: "The manager of Damoville Purveyor.",
     notes: "ダーモヴィル雑貨店の店主",
-    notesEn: "The manager of Damoville Purveyor",
+    notesZh: "达莫维百货的店主。",
+    notesZhTW: "達莫維百貨的店主。",
     // related: [ "damoville-purveyor" ],
   },
   {
@@ -4969,6 +5363,8 @@ export default [
     zhTW: "愛貝爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "クレメンタイン線 (ロマリタイムハーバー ↔ フォンテーヌ廷) の巡水船のガイドを務めるメリュジーヌ",
+    notesZh: "克莱门汀线（海露港 ↔ 枫丹廷）巡轨船的美露莘导游。",
+    notesZhTW: "克萊門汀線（海露港 ↔ 楓丹廷）巡軌船的美露莘導遊。",
   },
   {
     en: "Elphane",
@@ -4977,14 +5373,18 @@ export default [
     zhTW: "歐菲妮",
     tags: [ "fontaine", "character-sub" ],
     notes: "ナヴィア線 (フォンテーヌ廷 ↔ ポート・マルコット) の巡水船のガイドを務めるメリュジーヌ",
+    notesZh: "娜维娅线（枫丹廷 ↔ 伊黎耶岛）巡轨船的美露莘导游。",
+    notesZhTW: "娜維婭線（楓丹廷 ↔ 伊黎耶島）巡軌船的美露莘導遊。",
   },
   {
     en: "Gestionnaire",
     ja: "共律官",
     zhCN: "复律官",
-    zhTW: "復律官",
+    zhTW: "複律官",
     tags: [ "fontaine", "title" ],
     notes: "フォンテーヌの役人",
+    notesZh: "枫丹复律庭的官员。",
+    notesZhTW: "楓丹複律庭的官員。",
   },
   {
     en: "Salsa",
@@ -4993,6 +5393,8 @@ export default [
     zhTW: "薩莎",
     tags: [ "fontaine", "character-sub" ],
     notes: "フォンテーヌ各地で風景画を描こうとしている少女",
+    notesZh: "世界任务「好东西，坏品味」中的登场角色，在枫丹各地绘制风景画的少女。",
+    notesZhTW: "世界任務「好東西，壞品味」中的登場角色，在楓丹各地繪製風景畫的少女。",
   },
   {
     en: "Berrypuff",
@@ -5001,6 +5403,8 @@ export default [
     zhTW: "嗚嗚葡萄",
     tags: [ "fontaine", "character-sub", "living-being" ],
     notes: "希望の道にいるプクプク獣",
+    notesZh: "希望之路中出现的膨膨兽。",
+    notesZhTW: "希望之路中出現的膨膨獸。",
   },
   {
     en: "Cowell",
@@ -5009,6 +5413,8 @@ export default [
     zhTW: "考威爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
+    notesZh: "魔神任务 第四章·第一幕「白露与黑潮的序诗」中的登场角色。",
+    notesZhTW: "魔神任務 第四章·第一幕「白露與黑潮的序詩」中的登場角色。",
   },
   {
     en: "Halsey",
@@ -5017,6 +5423,8 @@ export default [
     zhTW: "海爾希",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
+    notesZh: "魔神任务 第四章·第一幕「白露与黑潮的序诗」中的登场角色。",
+    notesZhTW: "魔神任務 第四章·第一幕「白露與黑潮的序詩」中的登場角色。",
   },
   {
     en: "Liliane",
@@ -5025,6 +5433,8 @@ export default [
     zhTW: "莉莉安",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第1幕に登場するキャラクター",
+    notesZh: "魔神任务 第四章·第一幕「白露与黑潮的序诗」中的登场角色。",
+    notesZhTW: "魔神任務 第四章·第一幕「白露與黑潮的序詩」中的登場角色。",
   },
   {
     en: "Marcel",
@@ -5032,8 +5442,10 @@ export default [
     zhCN: "玛塞勒",
     zhTW: "瑪塞勒",
     tags: [ "fontaine", "character-sub" ],
+    notesEn: "The head of Confrerie of Cabriere. Appears in the Archon Quest Chapter IV, Act II.",
     notes: "カブリエール商会の会長。魔神任務第4章第2幕に登場",
-    notesEn: "The head of Confrerie of Cabriere. Appears in the Archon Quest Chapter Ⅳ Act Ⅱ",
+    notesZh: "卡布里埃商会的会长。魔神任务 第四章·第二幕「仿若无因飘落的轻雨」中的登场角色。",
+    notesZhTW: "卡布里埃商會的會長。魔神任務 第四章·第二幕「仿若無因飄落的輕雨」中的登場角色。",
   },
   {
     en: "Vacher",
@@ -5042,6 +5454,8 @@ export default [
     zhTW: "瓦謝",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第2幕に登場するキャラクター",
+    notesZh: "魔神任务 第四章·第二幕「仿若无因飘落的轻雨」中的登场角色。玛塞勒的真名。",
+    notesZhTW: "魔神任務 第四章·第二幕「仿若無因飄落的輕雨」中的登場角色。瑪塞勒的真名。",
   },
   {
     en: "Vigneire",
@@ -5050,6 +5464,8 @@ export default [
     zhTW: "薇涅爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "魔神任務第4章第2幕に登場するキャラクター",
+    notesZh: "魔神任务 第四章·第二幕「仿若无因飘落的轻雨」中的登场角色。",
+    notesZhTW: "魔神任務 第四章·第二幕「仿若無因飄落的輕雨」中的登場角色。",
   },
   {
     en: "Jacques",
@@ -5057,7 +5473,9 @@ export default [
     zhCN: "杰克",
     zhTW: "傑克",
     tags: [ "fontaine", "character-sub" ],
-    notes: "魔神任務第4章第2幕で言及されるキャラクター",
+    notes: "魔神任務第4章第2幕に登場するキャラクター",
+    notesZh: "魔神任务 第四章·第二幕「仿若无因飘落的轻雨」中的登场角色。",
+    notesZhTW: "魔神任務 第四章·第二幕「仿若無因飄落的輕雨」中的登場角色。",
   },
   {
     en: "Phantom Weasel",
@@ -5066,6 +5484,8 @@ export default [
     zhTW: "怪盜貂將",
     tags: [ "fontaine", "character-sub" ],
     notes: "リネの伝説任務で言及されるキャラクター",
+    notesZh: "林尼的传说任务 黑斑猫之章·第一幕「被遗忘的怪盗」中的背景角色。",
+    notesZhTW: "林尼的傳說任務 黑斑貓之章·第一幕「被遺忘的怪盜」中的背景角色。",
   },
   {
     en: "Cesar",
@@ -5074,6 +5494,8 @@ export default [
     zhTW: "塞薩爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "リネの伝説任務で言及されるキャラクター",
+    notesZh: "林尼的传说任务 黑斑猫之章·第一幕「被遗忘的怪盗」中的背景角色。",
+    notesZhTW: "林尼的傳說任務 黑斑貓之章·第一幕「被遺忘的怪盜」中的背景角色。",
   },
   {
     en: "Jemma",
@@ -5082,6 +5504,8 @@ export default [
     zhTW: "嘉瑪",
     tags: [ "fontaine", "character-sub" ],
     notes: "リネの伝説任務に登場するキャラクター",
+    notesZh: "林尼的传说任务 黑斑猫之章·第一幕「被遗忘的怪盗」中的登场角色。",
+    notesZhTW: "林尼的傳說任務 黑斑貓之章·第一幕「被遺忘的怪盜」中的登場角色。",
   },
   {
     en: "Lorenzo",
@@ -5090,6 +5514,8 @@ export default [
     zhTW: "洛倫佐",
     tags: [ "fontaine", "character-sub" ],
     notes: "リネの伝説任務に登場するキャラクター",
+    notesZh: "林尼的传说任务 黑斑猫之章·第一幕「被遗忘的怪盗」中的登场角色。",
+    notesZhTW: "林尼的傳說任務 黑斑貓之章·第一幕「被遺忘的怪盜」中的登場角色。",
   },
   {
     en: "Mamere",
@@ -5098,6 +5524,8 @@ export default [
     zhTW: "瑪梅赫",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「古き色合い」に登場するメリュジーヌ",
+    notesZh: "世界任务「古老的颜色」中登场的美露莘。",
+    notesZhTW: "世界任務「古老的顏色」中登場的美露莘。",
   },
   {
     en: "Seymour",
@@ -5106,6 +5534,8 @@ export default [
     zhTW: "西摩爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「古き色合い」に登場するクロックワーク・マシナリー",
+    notesZh: "世界任务「古老的颜色」中登场的发条机关。",
+    notesZhTW: "世界任務「古老的顏色」中登場的發條機關。",
   },
   {
     en: "Ann",
@@ -5114,6 +5544,8 @@ export default [
     zhTW: "安",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「水仙のアン」に登場する純水精霊",
+    notesZh: "世界任务「水仙的安」中登场的纯水精灵。",
+    notesZhTW: "世界任務「水仙的安」中登場的純水精靈。",
   },
   {
     en: "Narcissus",
@@ -5122,6 +5554,8 @@ export default [
     zhTW: "納西索斯",
     tags: [ "fontaine", "character-sub", "enemy" ],
     notes: "世界任務「水仙のアン」に登場する「悪龍」",
+    notesZh: "世界任务「水仙的安」中登场的「恶龙」。",
+    notesZhTW: "世界任務「水仙的安」中登場的「惡龍」。",
   },
   {
     en: "Verenata",
@@ -5129,7 +5563,9 @@ export default [
     zhCN: "薇蕾娜妲",
     zhTW: "薇蕾娜妲",
     tags: [ "fontaine", "character-sub" ],
-    notes: "世界任務「こんなのかぼちゃスープじゃない…」「旧世の残した音」などに登場するメリュジーヌ",
+    notes: "世界任務「『こんなのかぼちゃスープじゃない…』」「旧世の残した音」などに登場するメリュジーヌ",
+    notesZh: "世界任务「『这可不是南瓜汤…』」、「旧世遗音」中登场的美露莘。",
+    notesZhTW: "世界任務「『這可不是南瓜湯…』」、「舊世遺音」中登場的美露莘。",
   },
   {
     en: "Carabosse",
@@ -5138,6 +5574,8 @@ export default [
     zhTW: "卡莉珀絲",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「旧世の残した音」に登場するメリュジーヌ",
+    notesZh: "世界任务「旧世遗音」中登场的美露莘。",
+    notesZhTW: "世界任務「舊世遺音」中登場的美露莘。",
   },
   {
     en: "Topyas",
@@ -5146,6 +5584,8 @@ export default [
     zhTW: "託皮婭",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「旧世の残した音」に登場するメリュジーヌ",
+    notesZh: "世界任务「旧世遗音」中登场的美露莘。",
+    notesZhTW: "世界任務「舊世遺音」中登場的美露莘。",
   },
   {
     en: "Canotila",
@@ -5154,6 +5594,8 @@ export default [
     zhTW: "夏諾蒂拉",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「秘教と啓示の書」に登場するメリュジーヌ",
+    notesZh: "世界任务「秘诲揭示之书」中登场的美露莘。",
+    notesZhTW: "世界任務「秘誡揭示之書」中登場的美露莘。",
   },
   {
     en: "Ahes",
@@ -5162,6 +5604,8 @@ export default [
     zhTW: "艾伊絲",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「孤帆幽影」に登場するメリュジーヌ",
+    notesZh: "世界任务「孤帆幽影」中登场的美露莘。",
+    notesZhTW: "世界任務「孤帆幽影」中登場的美露莘。",
   },
   {
     en: "Puca",
@@ -5170,6 +5614,8 @@ export default [
     zhTW: "芙佳",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「奇石冒険記」などに登場するメリュジーヌ",
+    notesZh: "世界任务「奇石历险记」中登场的美露莘。",
+    notesZhTW: "世界任務「奇石歷險記」中登場的美露莘。",
   },
   {
     en: "Chesil",
@@ -5178,6 +5624,8 @@ export default [
     zhTW: "切瑟爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「奇石冒険記」に登場する人物",
+    notesZh: "世界任务「奇石历险记」中的登场角色。",
+    notesZhTW: "世界任務「奇石歷險記」中的登場角色。",
   },
   {
     en: "Cosanzeana",
@@ -5186,6 +5634,8 @@ export default [
     zhTW: "柯莎",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「好事魔多し」などに登場する、花を育てているメリュジーヌ",
+    notesZh: "世界任务「好事多磨」中登场的美露莘。",
+    notesZhTW: "世界任務「好事多磨」中登場的美露莘。",
   },
   {
     en: "Jakob Ingold",
@@ -5194,6 +5644,8 @@ export default [
     zhTW: "雅各布·英戈德",
     tags: [ "fontaine", "character-sub" ],
     notes: "水仙十字結社の一員。世界任務「古き色合い」などに登場する人物",
+    notesZh: "水仙十字结社成员。世界任务「古老的颜色」中的登场角色。",
+    notesZhTW: "水仙十字結社成員。世界任務「古老的顏色」中的登場角色。",
   },
   {
     en: "Lyris",
@@ -5202,6 +5654,8 @@ export default [
     zhTW: "莉利絲",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「まだ終わらない物語」などに登場する純水精霊",
+    notesZh: "世界任务「尚未结束的故事」中登场的纯水精灵。",
+    notesZhTW: "世界任務「尚未結束的故事」中登場的純水精靈。",
   },
   {
     en: "Mary-Ann",
@@ -5210,6 +5664,8 @@ export default [
     zhTW: "瑪麗安",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「水仙のアン」などに登場する純水精霊。人間であるマリアン・ギヨタンとは別人格。",
+    notesZh: "世界任务「水仙的安」中登场的纯水精灵。与人类玛丽安·吉约丹有着不同的人格。",
+    notesZhTW: "世界任務「水仙的安」中登場的純水精靈。與人類瑪麗安·吉約丹有著不同的人格。",
   },
   {
     en: "Mary-Ann Guillotin",
@@ -5218,6 +5674,8 @@ export default [
     zhTW: "瑪麗安·吉約丹",
     tags: [ "fontaine", "character-sub" ],
     notes: "純水精霊のマリアンとは別人格の人間",
+    notesZh: "与纯水精灵玛丽安有着不同的人格。",
+    notesZhTW: "與純水精靈瑪麗安有著不同的人格。",
   },
   {
     en: "Rene de Petrichor",
@@ -5226,6 +5684,8 @@ export default [
     zhTW: "雷內·德·佩特莉可",
     tags: [ "fontaine", "character-sub" ],
     notes: "水仙十字結社の一員。ナルツィッセンクロイツの人間時代の名前",
+    notesZh: "水仙十字结社成员。纳齐森科鲁兹的前身。",
+    notesZhTW: "水仙十字結社成員。納齊森科魯茲的前身。",
   },
   {
     en: "Karl Ingold",
@@ -5233,7 +5693,9 @@ export default [
     zhCN: "卡尔·英戈德",
     zhTW: "卡爾·英戈德",
     tags: [ "fontaine", "character-sub" ],
-    notes: "日本語版では通例「カールおじさん」と呼ばれるが、英語版には「おじさん」に該当する表現はなく、単に \"Karl\" と呼ばれている",
+    notes: "日本語版や中国語版では通例「カールおじさん」(簡: 卡尔叔叔 / 繁: 卡爾叔叔)と呼ばれるが、英語版には「おじさん」に該当する表現はなく、単に \"Karl\" と呼ばれている",
+    notesZh: "日文中版常称为「卡尔叔叔（カールおじさん）」。英文版中则直接称为「Karl」。",
+    notesZhTW: "日文中版常稱為「卡爾叔叔（カールおじさん）」。英文版中則直接稱為「Karl」。",
   },
   {
     en: "Carter Scherbius",
@@ -5256,6 +5718,8 @@ export default [
     zhTW: "維吉爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「フォンテーヌからのメッセージ」などに登場する人物",
+    notesZh: "世界任务「一条枫丹信息」等中的登场角色。",
+    notesZhTW: "世界任務「一則楓丹訊息」等中的登場角色。",
     // related: [ "a-fontainian-message" ]
   },
   {
@@ -5265,6 +5729,8 @@ export default [
     zhTW: "桑尼",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「フォンテーヌからのメッセージ」に登場する人物",
+    notesZh: "世界任务「一条枫丹信息」中的登场角色。",
+    notesZhTW: "世界任務「一則楓丹訊息」中的登場角色。",
     // related: [ "a-fontainian-message" ]
   },
   {
@@ -5275,7 +5741,8 @@ export default [
     tags: [ "fontaine", "title" ],
     notesEn: "Sonny's title",
     notes: "ソニィの称号",
-    notesZh: "桑尼的称号",
+    notesZh: "世界任务「一条枫丹信息」中的登场角色桑尼的称号。",
+    notesZhTW: "世界任務「一則楓丹訊息」中的登場角色桑尼的稱號。",
     // related: [ "a-fontainian-message" ]
   },
   {
@@ -5285,6 +5752,8 @@ export default [
     zhTW: "盧卡",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「フォンテーヌからのメッセージ」に登場する人物",
+    notesZh: "世界任务「一条枫丹信息」中的登场角色。",
+    notesZhTW: "世界任務「一則楓丹訊息」中的登場角色。",
     // related: [ "a-fontainian-message" ]
   },
   {
@@ -5295,7 +5764,8 @@ export default [
     tags: [ "fontaine", "title" ],
     notesEn: "Luca's title",
     notes: "ルカの称号",
-    notesZh: "卢卡的称号",
+    notesZh: "世界任务「一条枫丹信息」中的登场角色卢卡的称号。",
+    notesZhTW: "世界任務「一則楓丹訊息」中的登場角色盧卡的稱號。",
     // related: [ "a-fontainian-message" ]
   },
   {
@@ -5305,6 +5775,8 @@ export default [
     zhTW: "恩裡",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「ぜんぜんよだれが止まらない!」「まだまだよだれが止まらない!」に登場する人物",
+    notesZh: "世界任务「真是让人垂涎欲滴！」、「依旧让人垂涎欲滴！」中的登场角色。",
+    notesZhTW: "世界任務「真是讓人垂涎欲滴！」、「依舊讓人垂涎欲滴！」中的登場角色。",
     // related: [ "truly-mouthwatering", "still-mouthwatering" ]
   },
   {
@@ -5314,6 +5786,8 @@ export default [
     zhTW: "艾尤恩",
     tags: [ "fontaine", "natlan", "character-sub" ],
     notes: "パレ・メルモニアの職員。世界任務「一通の知らせ」「些細な出来事」「とある印章」、デイリー依頼「仕事の意味って…?」「公の用件」などに登場する人物",
+    notesZh: "沫芒宫职员。世界任务「一份通知」、「一件小事」、「一枚印章」等，以及每日委托「工作的意义是…？」、「一场公差」等中登场的角色。",
+    notesZhTW: "沫芒宮職員。世界任務「一份通知」、「一件小事」、「一枚印章」等，以及每日委託「工作的意義是…？」、「一場公差」等中登場的角色。",
     // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
   },
   {
@@ -5323,6 +5797,8 @@ export default [
     zhTW: "洛耶茨",
     tags: [ "fontaine", "character-sub" ],
     notes: "パレ・メルモニアの職員。アイオーヌの共律庭での先輩。世界任務「一通の知らせ」「些細な出来事」「とある印章」、デイリー依頼「公の用件」などに登場する人物",
+    notesZh: "沫芒宫职员。艾尤恩的复律庭前辈。世界任务「一份通知」、「一件小事」、「一枚印章」等，以及每日委托「一场公差」等中登场的角色。",
+    notesZhTW: "沫芒宮職員。艾尤恩的複律庭前輩。世界任務「一份通知」、「一件小事」、「一枚印章」等，以及每日委託「一場公差」等中登場的角色。",
     // related: [ "a-certain-notice", "a-certain-trifle", "a-certain-stamp" ]
   },
   {
@@ -5332,6 +5808,8 @@ export default [
     zhTW: "瑟米安",
     tags: [ "fontaine", "character-sub" ],
     notes: "パレ・メルモニアの職員。世界任務「些細な出来事」「とある印章」などに登場する共律官",
+    notesZh: "沫芒宫职员。世界任务「一件小事」、「一枚印章」等中登场的复律官。",
+    notesZhTW: "沫芒宮職員。世界任務「一件小事」、「一枚印章」等中登場的複律官。",
     // related: [ "a-certain-trifle", "a-certain-stamp" ]
   },
   {
@@ -5341,6 +5819,8 @@ export default [
     zhTW: "勒莫迪埃",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「泉は再び湧きいづる」に登場する人物",
+    notesZh: "世界任务「泉有重喷日」中的登场角色。",
+    notesZhTW: "世界任務「泉有重噴日」中的登場角色。",
     // related: [ "the-fountain-flows-again" ]
   },
   {
@@ -5350,6 +5830,8 @@ export default [
     zhTW: "厄代爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "世界任務「泉は再び湧きいづる」に登場する人物",
+    notesZh: "世界任务「泉有重喷日」中的登场角色。",
+    notesZhTW: "世界任務「泉有重噴日」中的登場角色。",
     // related: [ "the-fountain-flows-again" ]
   },
   {
@@ -5359,6 +5841,8 @@ export default [
     zhTW: "莉諾蕾婭",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「少なくともお魚は知っている」に登場する記者",
+    notesZh: "每日委托「至少鱼知道」中登场的记者。",
+    notesZhTW: "每日委託「至少魚知道」中登場的記者。",
     // related: [ "at-least-the-fish-know" ]
   },
   {
@@ -5368,6 +5852,8 @@ export default [
     zhTW: "德皮耶裡",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「審美眼の評定」シリーズに登場する画家",
+    notesZh: "每日委托「审美力批判」系列中登场的画家。",
+    notesZhTW: "每日委託「審美力批判」系列中登場的畫家。",
     // related: [ "aesthetic-critique-self-critique" ]
   },
   {
@@ -5377,6 +5863,8 @@ export default [
     zhTW: "奧雷勒",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
+    notesZh: "每日委托「他们的童年」系列中的登场角色。",
+    notesZhTW: "每日委託「他們的童年」系列中的登場角色。",
     // related: [ "their-childhood" ]
   },
   {
@@ -5386,6 +5874,8 @@ export default [
     zhTW: "韋呂",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
+    notesZh: "每日委托「他们的童年」系列中的登场角色。",
+    notesZhTW: "每日委託「他們的童年」系列中的登場角色。",
     // related: [ "their-childhood" ]
   },
   {
@@ -5395,6 +5885,8 @@ export default [
     zhTW: "洛薇",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「彼らの子供時代」シリーズに登場する人物",
+    notesZh: "每日委托「他们的童年」系列中的登场角色。",
+    notesZhTW: "每日委託「他們的童年」系列中的登場角色。",
     // related: [ "their-childhood" ]
   },
   {
@@ -5404,6 +5896,8 @@ export default [
     zhTW: "伊維斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "依頼任務「水底の日々」に登場する潜水士",
+    notesZh: "每日委托「水底的日子」中登场的潜水员。",
+    notesZhTW: "每日委託「水底的日子」中登場的潛水員。",
     // related: [ "days-beneath-the-waves" ]
   },
 
@@ -5414,6 +5908,8 @@ export default [
     zhTW: "法拉娜",
     tags: [ "fontaine", "sumeru", "character-sub" ],
     notes: "カーヴェの母",
+    notesZh: "卡维的母亲。",
+    notesZhTW: "卡維的母親。",
   },
   {
     en: "Lochknight",
@@ -5430,7 +5926,8 @@ export default [
     zhTW: "加爾恰",
     tags: [ "fontaine", "character-sub" ],
     notes: "空想クラブの一員",
-    notesZh: "空想俱乐部的一员",
+    notesZh: "空想俱乐部成员。",
+    notesZhTW: "空想俱樂部成員。",
   },
   {
     en: "Lutong",
@@ -5440,6 +5937,7 @@ export default [
     tags: [ "character-sub", "liyue" ],
     notes: "ガルシアの助手 (?)",
     notesZh: "加尔恰的助手 (?)",
+    notesZhTW: "加爾恰的助手 (?)",
   },
   {
     en: "Numbering Machine",
@@ -5448,7 +5946,8 @@ export default [
     zhTW: "推數機",
     tags: [ "fontaine" ],
     notes: "ガルシアの研究対象",
-    notesZh: "加尔恰的研究对象",
+    notesZh: "加尔恰的研究对象。",
+    notesZhTW: "加爾恰的研究對象。",
   },
   {
     en: "Mécantre",
@@ -5457,7 +5956,8 @@ export default [
     zhTW: "梅康頓",
     tags: [ "fontaine", "character-sub" ],
     notes: "空想クラブの一員",
-    notesZh: "空想俱乐部的一员",
+    notesZh: "空想俱乐部成员。",
+    notesZhTW: "空想俱樂部成員。",
   },
   {
     en: "Babisse",
@@ -5466,7 +5966,8 @@ export default [
     zhTW: "巴比斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "空想クラブの一員",
-    notesZh: "空想俱乐部的一员",
+    notesZh: "空想俱乐部成员。",
+    notesZhTW: "空想俱樂部成員。",
   },
   {
     en: "super-sized cannon",
@@ -5475,7 +5976,8 @@ export default [
     zhTW: "超級大炮",
     tags: [ "fontaine" ],
     notes: "メカントルとバビスの研究対象",
-    notesZh: "梅康顿和巴比斯的研究对象",
+    notesZh: "梅康顿和巴比斯的研究对象。",
+    notesZhTW: "梅康頓和巴比斯的研究對象。",
   },
   {
     en: "Giverny",
@@ -5645,6 +6147,8 @@ export default [
     zhTW: "沙龍成員",
     tags: [ "fontaine", "character-sub", "how-to-call" ],
     notes: "ウーシア状態のフリーナが召喚する、水でできた三体の幻形生物",
+    notesZh: "芙宁娜在荒性状态下召唤的三位水元素幻形生物。",
+    notesZhTW: "芙寧娜在荒性狀態下召喚的三位水元素幻形生物。",
   },
   {
     en: "Gentilhomme Usher",
@@ -5653,6 +6157,8 @@ export default [
     zhTW: "烏瑟勳爵",
     tags: [ "fontaine", "character-sub" ],
     notes: "ウーシア状態のフリーナが召喚する、水でできたマンマルタコ",
+    notesZh: "芙宁娜在荒性状态下召唤的水元素球球章鱼。",
+    notesZhTW: "芙寧娜在荒性狀態下召喚的水元素球球章魚。",
   },
   {
     en: "Surintendante Chevalmarin",
@@ -5661,6 +6167,8 @@ export default [
     zhTW: "海薇瑪夫人",
     tags: [ "fontaine", "character-sub" ],
     notes: "ウーシア状態のフリーナが召喚する、水でできたアワアワタツノコ",
+    notesZh: "芙宁娜在荒性状态下召唤的水元素泡泡海马。",
+    notesZhTW: "芙寧娜在荒性狀態下召喚的水元素泡泡海馬。",
   },
   {
     en: "Mademoiselle Crabaletta",
@@ -5669,6 +6177,8 @@ export default [
     zhTW: "謝貝蕾妲小姐",
     tags: [ "fontaine", "character-sub" ],
     notes: "ウーシア状態のフリーナが召喚する、水でできた重甲ヤドカニ",
+    notesZh: "芙宁娜在荒性状态下召唤的水元素重甲蟹。",
+    notesZhTW: "芙寧娜在荒性狀態下召喚的水元素重甲蟹。",
   },
   {
     en: "Carole",
@@ -5677,6 +6187,8 @@ export default [
     zhTW: "卡蘿蕾",
     tags: [ "fontaine", "character-sub" ],
     notes: "ヌヴィレットの伝説任務に登場するメリュジーヌ",
+    notesZh: "那维莱特的传说任务 潮涌之章·第一幕「往日留痕」中登场的美露莘。",
+    notesZhTW: "那維萊特的傳說任務 潮湧之章·第一幕「往日留痕」中登場的美露莘。",
   },
   {
     en: "Vautrin",
@@ -5685,6 +6197,8 @@ export default [
     zhTW: "沃特林",
     tags: [ "fontaine", "character-sub" ],
     notes: "ヌヴィレットの伝説任務に登場する人物",
+    notesZh: "那维莱特的传说任务 潮涌之章·第一幕「往日留痕」中的登场角色。",
+    notesZhTW: "那維萊特的傳說任務 潮湧之章·第一幕「往日留痕」中的登場角色。",
   },
   {
     en: "Faissolle",
@@ -5693,6 +6207,8 @@ export default [
     zhTW: "費索勒",
     tags: [ "fontaine", "character-sub" ],
     notes: "リオセスリの伝説任務に登場する人物",
+    notesZh: "莱欧斯利的传说任务 守狱犬之章·第一幕「于怨嗟之地重生」中的登场角色。",
+    notesZhTW: "萊歐斯利的傳說任務 守獄犬之章·第一幕「於怨嗟之地重生」中的登場角色。",
   },
   {
     en: "Dougier",
@@ -5701,6 +6217,8 @@ export default [
     zhTW: "杜吉耶",
     tags: [ "fontaine", "character-sub" ],
     notes: "リオセスリの伝説任務に登場する人物",
+    notesZh: "莱欧斯利的传说任务 守狱犬之章·第一幕「于怨嗟之地重生」中的登场角色。",
+    notesZhTW: "萊歐斯利的傳說任務 守獄犬之章·第一幕「於怨嗟之地重生」中的登場角色。",
   },
   {
     en: "Avice",
@@ -5709,6 +6227,8 @@ export default [
     zhTW: "阿維絲",
     tags: [ "fontaine", "character-sub" ],
     notes: "リオセスリの伝説任務に登場する人物",
+    notesZh: "莱欧斯利的传说任务 守狱犬之章·第一幕「于怨嗟之地重生」中的登场角色。",
+    notesZhTW: "萊歐斯利的傳說任務 守獄犬之章·第一幕「於怨嗟之地重生」中的登場角色。",
   },
   {
     en: "Peruere",
@@ -5717,6 +6237,8 @@ export default [
     zhTW: "佩露薇利",
     tags: [ "fatui", "fontaine", "character-main", "enemy-boss" ],
     notes: "アルレッキーノの本名",
+    notesZh: "阿蕾奇诺的本名。",
+    notesZhTW: "阿蕾奇諾的本名。",
   },
   {
     en: "Crucabena",
@@ -5725,6 +6247,8 @@ export default [
     zhTW: "庫嘉維娜",
     tags: [ "fatui", "fontaine", "character-sub" ],
     notes: "先代の「召使」。アルレッキーノの伝説任務などに登場する人物",
+    notesZh: "前任「仆人」。在阿蕾奇诺的传说任务中的背景角色。",
+    notesZhTW: "前任「僕人」。在阿蕾奇諾的傳說任務中的背景角色。",
   },
   {
     en: "Clervie",
@@ -5733,6 +6257,8 @@ export default [
     zhTW: "克雷薇",
     tags: [ "fontaine", "character-sub" ],
     notes: "アルレッキーノの伝説任務などに登場する人物",
+    notesZh: "阿蕾奇诺的传说任务 净炼火之章·第一幕「炉火熄灭之际」中的登场角色。",
+    notesZhTW: "阿蕾奇諾的傳說任務 淨煉火之章·第一幕「爐火熄滅之際」中的登場角色。",
   },
   {
     en: "Osse",
@@ -5741,6 +6267,8 @@ export default [
     zhTW: "小嗚斯",
     tags: [ "fontaine", "character-sub" ],
     notes: "「ウラノポリスのウラニデス」の略称",
+    notesZh: "「乌兰诺珀里斯的乌兰依代」的简称。",
+    notesZhTW: "「烏蘭諾波里斯的烏蘭依代」的簡稱。",
   },
   {
     en: "Boethius",
@@ -5770,6 +6298,8 @@ export default [
     zhTW: "萊提西婭",
     tags: [ "fontaine", "character-sub" ],
     notes: "千織の伝説任務などに登場する人物",
+    notesZh: "千织的传说任务 丝切铗之章·第一幕「当他们谈起今夜」中的登场角色。",
+    notesZhTW: "千織的傳說任務 絲切鉗之章·第一幕「當他們談起今夜」中的登場角色。",
   },
   {
     en: "Uther",
@@ -5778,6 +6308,8 @@ export default [
     zhTW: "厄舍",
     tags: [ "fontaine", "character-sub" ],
     notes: "千織の伝説任務などに登場する人物",
+    notesZh: "千织的传说任务 丝切铗之章·第一幕「当他们谈起今夜」中的登场角色。",
+    notesZhTW: "千織的傳說任務 絲切鉗之章·第一幕「當他們談起今夜」中的登場角色。",
   },
   {
     en: "Florian",
@@ -5786,6 +6318,8 @@ export default [
     zhTW: "弗洛萊恩",
     tags: [ "fontaine", "character-sub" ],
     notes: "クロリンデの伝説任務に登場する人物",
+    notesZh: "克洛琳德的传说任务 迅捷剑之章·第一幕「夜色无声」中的登场角色。",
+    notesZhTW: "克洛琳德的傳說任務 迅捷劍之章·第一幕「夜色無聲」中的登場角色。",
   },
   {
     en: "Rawat",
@@ -5794,6 +6328,8 @@ export default [
     zhTW: "拉瓦特",
     tags: [ "fontaine", "character-sub" ],
     notes: "シグウィンの伝説任務に登場する人物",
+    notesZh: "希格雯的传说任务 海精之章·第一幕「谎言的温度」中的登场角色。",
+    notesZhTW: "希格雯的傳說任務 海精之章·第一幕「謊言的溫度」中的登場角色。",
   },
   {
     en: "Potton",
@@ -5802,6 +6338,8 @@ export default [
     zhTW: "波頓",
     tags: [ "fontaine", "character-sub" ],
     notes: "シグウィンの伝説任務に登場する人物",
+    notesZh: "希格雯的传说任务 海精之章·第一幕「谎言的温度」中的登场角色。",
+    notesZhTW: "希格雯的傳說任務 海精之章·第一幕「謊言的溫度」中的登場角色。",
   },
   {
     en: "Wolsey",
@@ -5818,6 +6356,8 @@ export default [
     pronunciationJa: "まじょばあさん",
     tags: [ "fontaine", "character-sub", "how-to-call" ],
     notes: "シグウィンを人間の姿に変える薬を作った医者の先生。シグウィンの伝説任務に登場する人物",
+    notesZh: "希格雯的传说任务 海精之章·第一幕「谎言的温度」中的背景角色。希格雯的老师，制作了将希格雯变成人类的药剂。",
+    notesZhTW: "希格雯的傳說任務 海精之章·第一幕「謊言的溫度」中的背景角色。希格雯的老師，製作了將希格雯變成人類的藥劑。",
   },
   {
     en: "Savanna",
@@ -5826,6 +6366,8 @@ export default [
     zhTW: "莎凡娜",
     tags: [ "fontaine", "character-sub" ],
     notes: "エスコフィエの伝説任務に登場する人物",
+    notesZh: "爱可菲的传说任务 香糕塔之章·第一幕「珍上至珍」中的登场角色。",
+    notesZhTW: "愛可菲的傳說任務 香糕塔之章·第一幕「珍上至珍」中的登場角色。",
   },
   {
     en: "Monica",
@@ -5834,6 +6376,8 @@ export default [
     zhTW: "莫妮卡",
     tags: [ "fontaine", "character-sub" ],
     notes: "エスコフィエの伝説任務に登場する人物",
+    notesZh: "爱可菲的传说任务 香糕塔之章·第一幕「珍上至珍」中的登场角色。",
+    notesZhTW: "愛可菲的傳說任務 香糕塔之章·第一幕「珍上至珍」中的登場角色。",
   },
   {
     en: "Firmin",
@@ -5842,6 +6386,8 @@ export default [
     zhTW: "菲爾曼",
     tags: [ "fontaine", "character-sub" ],
     notes: "エスコフィエの伝説任務に登場する人物",
+    notesZh: "爱可菲的传说任务 香糕塔之章·第一幕「珍上至珍」中的登场角色。",
+    notesZhTW: "愛可菲的傳說任務 香糕塔之章·第一幕「珍上至珍」中的登場角色。",
   },
   {
     en: "Hilaire",
@@ -5850,6 +6396,8 @@ export default [
     zhTW: "伊萊爾",
     tags: [ "fontaine", "character-sub" ],
     notes: "エスコフィエの伝説任務に登場する人物",
+    notesZh: "爱可菲的传说任务 香糕塔之章·第一幕「珍上至珍」中的登场角色。",
+    notesZhTW: "愛可菲的傳說任務 香糕塔之章·第一幕「珍上至珍」中的登場角色。",
   },
   {
     en: "Modeste",
@@ -5858,6 +6406,8 @@ export default [
     zhTW: "莫德斯特",
     tags: [ "fontaine", "character-sub" ],
     notes: "エスコフィエの伝説任務に登場する人物",
+    notesZh: "爱可菲的传说任务 香糕塔之章·第一幕「珍上至珍」中的登场角色。",
+    notesZhTW: "愛可菲的傳說任務 香糕塔之章·第一幕「珍上至珍」中的登場角色。",
   },
   {
     en: "Savelli",
@@ -5866,6 +6416,8 @@ export default [
     zhTW: "薩維利",
     tags: [ "fontaine", "character-sub" ],
     notes: "エスコフィエの伝説任務に登場する人物",
+    notesZh: "爱可菲的传说任务 香糕塔之章·第一幕「珍上至珍」中的登场角色。",
+    notesZhTW: "愛可菲的傳說任務 香糕塔之章·第一幕「珍上至珍」中的登場角色。",
   },
 
   //
@@ -5883,9 +6435,10 @@ export default [
     ja: "ウモジャ", // Notes: アイテム「聖宵の旅織り」で確認
     zhCN: "沃摩延",
     zhTW: "沃摩延",
-    notesEn: "Ancient names inherited by Mualani",
+    notesEn: "The Ancient Name inherited by Mualani.",
     notes: "ムアラニが継承した古名",
-    notesZh: "玛拉妮继承的古名",
+    notesZh: "玛拉妮继承的「古名」。",
+    notesZhTW: "瑪拉妮繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -5900,9 +6453,10 @@ export default [
     ja: "ウッサビーティ", // Notes: アイテム「聖宵の旅織り」で確認
     zhCN: "乌沙博蒂",
     zhTW: "烏沙博蒂",
-    notesEn: "Ancient names inherited by Kachina",
+    notesEn: "The Ancient Name inherited by Kachina.",
     notes: "カチーナが継承した古名",
-    notesZh: "卡齐娜继承的古名",
+    notesZh: "卡齐娜继承的「古名」。",
+    notesZhTW: "卡齊娜繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -5917,9 +6471,10 @@ export default [
     ja: "マリポ", // Notes: アイテム「聖宵の旅織り」で確認
     zhCN: "马力卜",
     zhTW: "馬力卜",
-    notesEn: "Ancient names inherited by Kinich",
+    notesEn: "The Ancient Name inherited by Kinich.",
     notes: "キィニチが継承した古名",
-    notesZh: "基尼奇继承的古名",
+    notesZh: "基尼奇继承的「古名」。",
+    notesZhTW: "基尼奇繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -5948,9 +6503,10 @@ export default [
     ja: "ウクンボク",
     zhCN: "乌昆博库",
     zhTW: "烏昆博庫",
-    notesEn: "Ancient names inherited by Citlali",
+    notesEn: "The Ancient Name inherited by Citlali.",
     notes: "シトラリが継承した古名",
-    notesZh: "茜特菈莉继承的古名",
+    notesZh: "茜特菈莉继承的「古名」。",
+    notesZhTW: "茜特菈莉繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -5974,9 +6530,10 @@ export default [
     ja: "バレカ", // Notes: アイテム「聖宵の旅織り」で確認
     zhCN: "巴莱卡",
     zhTW: "巴萊卡",
-    notesEn: "Ancient names inherited by Xilonen",
+    notesEn: "The Ancient Name inherited by Xilonen.",
     notes: "シロネンが継承した古名",
-    notesZh: "希诺宁继承的古名",
+    notesZh: "希诺宁继承的「古名」。",
+    notesZhTW: "希諾寧繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -5991,9 +6548,10 @@ export default [
     ja: "ウウィーゾ",
     zhCN: "乌威佐",
     zhTW: "烏威佐",
-    notesEn: "Ancient names inherited by Iansan",
+    notesEn: "The Ancient Name inherited by Iansan.",
     notes: "イアンサが継承した古名",
-    notesZh: "伊安珊继承的古名",
+    notesZh: "伊安珊继承的「古名」。",
+    notesZhTW: "伊安珊繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -6008,9 +6566,10 @@ export default [
     ja: "ヴーカ",
     zhCN: "武卡",
     zhTW: "武卡",
-    notesEn: "Ancient names inherited by Chasca",
+    notesEn: "The Ancient Name inherited by Chasca.",
     notes: "チャスカが継承した古名",
-    notesZh: "恰斯卡继承的古名",
+    notesZh: "恰斯卡继承的「古名」。",
+    notesZhTW: "恰斯卡繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -6036,9 +6595,10 @@ export default [
     ja: "シュバランケ",
     zhCN: "希巴拉克",
     zhTW: "希巴拉克",
-    notesEn: "The first Pyro Archon",
+    notesEn: "The first Pyro Archon.",
     notes: "初代炎神",
-    notesZh: "第一火神",
+    notesZh: "初代火神。",
+    notesZhTW: "初代火神。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6046,9 +6606,10 @@ export default [
     ja: "ハボリム",  // Notes:【原神】ストーリームービー「夜明け前」の字幕で確認
     zhCN: "赫布里穆",
     zhTW: "赫布里穆",
-    notesEn: "Mavuika's name as a god",
+    notesEn: "Mavuika's Goetic name.",
     notes: "マーヴィカの魔神名",
-    notesZh: "玛薇卡继之魔神的名字",
+    notesZh: "玛薇卡的魔神名。",
+    notesZhTW: "瑪薇卡的魔神名。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -6056,9 +6617,10 @@ export default [
     ja: "キオンゴズイ",  // Notes: アイテム「聖宵の旅織り」で確認
     zhCN: "基扬戈兹",
     zhTW: "基揚戈茲",
-    notesEn: "Ancient names inherited by Mavuika",
+    notesEn: "The Ancient Name inherited by Mavuika.",
     notes: "マーヴィカが継承した古名",
-    notesZh: "玛薇卡继承的古名",
+    notesZh: "玛薇卡继承的「古名」。",
+    notesZhTW: "瑪薇卡繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -6080,9 +6642,10 @@ export default [
     ja: "イファ",
     zhCN: "伊法",
     zhTW: "伊法",
-    notesEn: "Veterinarian from the \"Flower-Feather Clan\"",
+    notesEn: "Veterinarian from the \"Flower-Feather Clan.\"",
     notes: "「花翼の集」の獣医",
-    notesZh: "「花羽会」中的兽医",
+    notesZh: "「花羽会」中的兽医。",
+    notesZhTW: "「花羽會」中的獸醫。",
     tags: [ "natlan", "character-main" ],
   },
   {
@@ -6091,6 +6654,8 @@ export default [
     zhCN: "咔库库",
     zhTW: "咔庫庫",
     notes: "イファが連れているクク竜",
+    notesZh: "伊法养的绒翼龙。",
+    notesZhTW: "伊法養的絨翼龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6098,9 +6663,10 @@ export default [
     ja: "ビディー", // Notes: アイテム「聖宵の旅織り」で確認
     zhCN: "庇笛",
     zhTW: "庇笛",
-    notesEn: "Ancient names inherited by Ororon",
+    notesEn: "The Ancient Name inherited by Ororon.",
     notes: "オロルンが継承した古名",
-    notesZh: "欧洛伦继承的古名",
+    notesZh: "欧洛伦继承的「古名」。",
+    notesZhTW: "歐洛倫繼承的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -6108,9 +6674,10 @@ export default [
     ja: "パカル",
     zhCN: "帕加尔",
     zhTW: "帕加爾",
-    notesEn: "Chief, Children of Echoes",
+    notesEn: "Chief of the Children of Echoes.",
     notes: "「こだまの子」族長",
-    notesZh: "「回声之子」首领",
+    notesZh: "「回声之子」首领。",
+    notesZhTW: "「回聲之子」首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6118,9 +6685,10 @@ export default [
     ja: "ワイナ",
     zhCN: "瓦伊纳",
     zhTW: "瓦伊納",
-    notesEn: "Chief, Scions of the Canopy",
+    notesEn: "Chief of the Scions of the Canopy.",
     notes: "「懸木の民」族長",
-    notesZh: "「悬木人」首领",
+    notesZh: "「悬木人」首领。",
+    notesZhTW: "「懸木人」首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6128,9 +6696,10 @@ export default [
     ja: "アミナ",
     zhCN: "阿米娜",
     zhTW: "阿米娜",
-    notesEn: "Chief, People of the Springs",
+    notesEn: "Chief of the People of the Springs.",
     notes: "「流泉の衆」族長",
-    notesZh: "「流泉之众」首领",
+    notesZh: "「流泉之众」首领。",
+    notesZhTW: "「流泉之眾」首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6139,6 +6708,8 @@ export default [
     zhCN: "帕兰",
     zhTW: "帕蘭",
     notes: "「帰火聖夜の巡礼」大会運営者",
+    notesZh: "「归火圣夜巡礼」的主持人。",
+    notesZhTW: "「歸火聖夜巡禮」的主持人。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6147,6 +6718,8 @@ export default [
     zhCN: "拉马奈",
     zhTW: "拉馬奈",
     notes: "「帰火聖夜の巡礼」大会運営者",
+    notesZh: "「归火圣夜巡礼」的运营者。",
+    notesZhTW: "「歸火聖夜巡禮」的運營者。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6155,6 +6728,8 @@ export default [
     zhCN: "图尼娜",
     zhTW: "圖尼娜",
     notes: "「帰火聖夜の巡礼」大会運営者",
+    notesZh: "「归火圣夜巡礼」的运营者。",
+    notesZhTW: "「歸火聖夜巡禮」的運營者。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6163,6 +6738,8 @@ export default [
     zhCN: "凯塔",
     zhTW: "凱塔",
     notes: "聖火競技場内での灼石の円盤管理者",
+    notesZh: "圣火竞技场内「煅石之轮」的管理者。",
+    notesZhTW: "聖火競技場內「鍛石之輪」的管理者。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6171,6 +6748,8 @@ export default [
     zhCN: "阿隆",
     zhTW: "阿隆",
     notes: "聖火競技場内の鍛冶職人",
+    notesZh: "圣火竞技场内「皈礼熔炉」的老板。",
+    notesZhTW: "聖火競技場內「歸禮熔爐」的老闆。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6179,6 +6758,8 @@ export default [
     zhCN: "艾库瓦",
     zhTW: "艾庫瓦",
     notes: "聖火競技場内の屋台店主",
+    notesZh: "圣火竞技场内的摊贩。",
+    notesZhTW: "聖火競技場內的攤販。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6187,6 +6768,8 @@ export default [
     zhCN: "西帕克",
     zhTW: "西帕克",
     notes: "聖火競技場内の「ザカンの屋台」店主",
+    notesZh: "圣火竞技场内「扎坎小吃摊」的摊主。",
+    notesZhTW: "聖火競技場內「扎坎小吃攤」的攤主。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6195,6 +6778,8 @@ export default [
     zhCN: "阿格莫",
     zhTW: "阿格莫",
     notes: "聖火競技場内の「ザカンの屋台」配達員",
+    notesZh: "圣火竞技场内「扎坎小吃摊」的外卖员。",
+    notesZhTW: "聖火競技場內「扎坎小吃攤」的外賣員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6203,6 +6788,8 @@ export default [
     zhCN: "钦特利",
     zhTW: "欽特利",
     notes: "聖火競技場内の屋台店主",
+    notesZh: "圣火竞技场内的摊贩。",
+    notesZhTW: "聖火競技場內的攤販。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6211,6 +6798,8 @@ export default [
     zhCN: "夏安卡",
     zhTW: "夏安卡",
     notes: "聖火競技場内の「草臥の家」オーナー",
+    notesZh: "圣火竞技场内「倦意之屋」的老板。",
+    notesZhTW: "聖火競技場內「倦意之屋」的老闆。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6219,6 +6808,8 @@ export default [
     zhCN: "希伊亚",
     zhTW: "希伊亞",
     notes: "聖火競技場内の「草臥の家」接客係",
+    notesZh: "圣火竞技场内「倦意之屋」的接待员。",
+    notesZhTW: "聖火競技場內「倦意之屋」的接待員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6227,6 +6818,8 @@ export default [
     zhCN: "曼萨",
     zhTW: "曼薩",
     notes: "聖火競技場内の冒険者協会の支部長",
+    notesZh: "圣火竞技场内的冒险家协会分会长。",
+    notesZhTW: "聖火競技場內的冒險家協會分會長。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6235,6 +6828,8 @@ export default [
     zhCN: "布纳马",
     zhTW: "布納馬",
     notes: "聖火競技場内の合成台管理者",
+    notesZh: "圣火竞技场内的合成台的管理者。",
+    notesZhTW: "聖火競技場內的合成台的管理者。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6243,6 +6838,8 @@ export default [
     zhCN: "希亚赫",
     zhTW: "希亞赫",
     notes: "聖火競技場内の「龍の遺物研究会」管理人",
+    notesZh: "圣火竞技场内「龙遗物研究协会」的管理员。",
+    notesZhTW: "聖火競技場內「龍遺物研究協會」的管理員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6251,6 +6848,8 @@ export default [
     zhCN: "娜玛卡",
     zhTW: "娜瑪卡",
     notes: "聖火競技場内の竜の世話係",
+    notesZh: "圣火竞技场内的龙的照料员。",
+    notesZhTW: "聖火競技場內的龍的照料員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6259,6 +6858,8 @@ export default [
     zhCN: "苏玛克",
     zhTW: "蘇瑪克",
     notes: "世界任務「合成台の謎」に登場する人物",
+    notesZh: "世界任务「合成台疑案」中的登场角色。",
+    notesZhTW: "世界任務「合成台疑案」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6267,6 +6868,8 @@ export default [
     zhCN: "汉佩克",
     zhTW: "漢佩克",
     notes: "世界任務「合成台の謎」に登場する人物",
+    notesZh: "世界任务「合成台疑案」中的登场角色。",
+    notesZhTW: "世界任務「合成台疑案」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6275,6 +6878,8 @@ export default [
     zhCN: "延塔莎",
     zhTW: "延塔莎",
     notes: "聖火競技場内のカフェ店主",
+    notesZh: "圣火竞技场内的咖啡店老板。",
+    notesZhTW: "聖火競技場內的咖啡店老闆。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6283,6 +6888,8 @@ export default [
     zhCN: "卡拉穆鲁",
     zhTW: "卡拉穆魯",
     notes: "「流泉の衆」の黒曜石の日中のトーテムポール管理人",
+    notesZh: "「流泉之众」的「曜石图腾柱」6:00~19:00的管理员。",
+    notesZhTW: "「流泉之眾」的「曜石圖騰柱」6:00~19:00的管理員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6291,6 +6898,8 @@ export default [
     zhCN: "卡胡那",
     zhTW: "卡胡那",
     notes: "「流泉の衆」の黒曜石の夜間のトーテムポール管理人",
+    notesZh: "「流泉之众」的「曜石图腾柱」19:00~6:00的管理员。",
+    notesZhTW: "「流泉之眾」的「曜石圖騰柱」19:00~6:00的管理員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6299,6 +6908,8 @@ export default [
     zhCN: "米卢·努伊",
     zhTW: "米盧·努伊",
     notes: "「流泉の衆」のミュージシャン",
+    notesZh: "「流泉之众」的音乐家。",
+    notesZhTW: "「流泉之眾」的音樂家。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6307,6 +6918,8 @@ export default [
     zhCN: "帕卡·努伊",
     zhTW: "帕卡·努伊",
     notes: "「流泉の衆」のレコード店主",
+    notesZh: "「流泉之众」的唱片店老板。",
+    notesZhTW: "「流泉之眾」的唱片店老闆。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6315,6 +6928,8 @@ export default [
     zhCN: "库珀·努伊",
     zhTW: "庫珀·努伊",
     notes: "「流泉の衆」の食堂店主",
+    notesZh: "「流泉之众」的食堂老板。",
+    notesZhTW: "「流泉之眾」的食堂老闆。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6323,6 +6938,8 @@ export default [
     zhCN: "马西娜·努伊",
     zhTW: "馬西娜·努伊",
     notes: "「流泉の衆」の食堂接客係",
+    notesZh: "「流泉之众」的食堂接待员。",
+    notesZhTW: "「流泉之眾」的食堂接待員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6331,6 +6948,8 @@ export default [
     zhCN: "瓦凯·努伊",
     zhTW: "瓦凱·努伊",
     notes: "「流泉の衆」のガイド",
+    notesZh: "「流泉之众」的导游。",
+    notesZhTW: "「流泉之眾」的導遊。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6339,6 +6958,8 @@ export default [
     zhCN: "佩蕾·努伊",
     zhTW: "佩蕾·努伊",
     notes: "「流泉の衆」の温泉の管理人",
+    notesZh: "「流泉之众」的温泉管理员。",
+    notesZhTW: "「流泉之眾」的溫泉管理員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6347,6 +6968,8 @@ export default [
     zhCN: "安切塔",
     zhTW: "安切塔",
     notes: "「流泉の衆」の古楽器店主",
+    notesZh: "「流泉之众」的「金贝乐棚」老板。",
+    notesZhTW: "「流泉之眾」的「金貝樂棚」老闆。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6355,6 +6978,8 @@ export default [
     zhCN: "爱可",
     zhTW: "愛可",
     notes: "医者。「懸木の民」の黒曜石のトーテムポール管理人",
+    notesZh: "医生，「悬木人」的「曜石图腾柱」管理员。",
+    notesZhTW: "醫生，「懸木人」的「曜石圖騰柱」管理員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6363,6 +6988,8 @@ export default [
     zhCN: "米齐卡",
     zhTW: "米齊卡",
     notes: "「懸木の民」の伝達局員。デイリー依頼「公の用件」などに登場する人物",
+    notesZh: "「悬木人」的「讯使长屋」管理员，每日委托「一场公差」等中的登场角色。",
+    notesZhTW: "「懸木人」的「訊使長屋」管理員，每日委託「一場公差」等中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6371,6 +6998,8 @@ export default [
     zhCN: "图达玛",
     zhTW: "圖達瑪",
     notes: "「懸木の民」の伝達使",
+    notesZh: "「悬木人」的讯使。",
+    notesZhTW: "「懸木人」的訊使。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6379,6 +7008,8 @@ export default [
     zhCN: "雷格巴",
     zhTW: "雷格巴",
     notes: "世界任務「夜に帰す夜」に登場する人物",
+    notesZh: "世界任务「将夜晚放还于夜晚」中的登场角色。",
+    notesZhTW: "世界任務「將夜晚放還於夜晚」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6387,6 +7018,8 @@ export default [
     zhCN: "蒂图",
     zhTW: "蒂圖",
     notes: "世界任務「山々の影」に登場する人物",
+    notesZh: "世界任务「群山的影子」中的登场角色。",
+    notesZhTW: "世界任務「群山的影子」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6396,6 +7029,8 @@ export default [
     zhTW: "荊和",
     pronunciationJa: "けいわ",
     notes: "璃月の宝石商",
+    notesZh: "璃月的宝石商。",
+    notesZhTW: "璃月的寶石商。",
     tags: [ "liyue", "natlan", "character-sub" ],
   },
   {
@@ -6404,6 +7039,8 @@ export default [
     zhCN: "塔莫蕾",
     zhTW: "塔莫蕾",
     notes: "スメールの学者。デイリー依頼「はやく大きくなーれ！」などに登場する人物",
+    notesZh: "须弥的学者，每日委托「小小人儿，快长大」等中的登场角色。",
+    notesZhTW: "須彌的學者，每日委託「小小人兒，快長大」等中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6412,6 +7049,8 @@ export default [
     zhCN: "卡乌胡",
     zhTW: "卡烏胡",
     notes: "守衛。「こだまの子」の黒曜石のトーテムポール管理人",
+    notesZh: "守卫，「回声之子」的「曜石图腾柱」管理员。",
+    notesZhTW: "守衛，「回聲之子」的「曜石圖騰柱」管理員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6420,6 +7059,8 @@ export default [
     zhCN: "阿布帕隆",
     zhTW: "阿布帕隆",
     notes: "「こだまの子」の工房店主。部族見聞「祝福を祈り、テペトルに告ぐ」などに登場する人物",
+    notesZh: "「回声之子」的工坊老板，部族见闻「祈祝福愿，倾告嵴锋」中的登场角色。",
+    notesZhTW: "「回聲之子」的工坊老闆，部族見聞「祈祝福願，傾告嵴鋒」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6428,6 +7069,8 @@ export default [
     zhCN: "伊克娜",
     zhTW: "伊克娜",
     notes: "「こだまの子」の竜戦士。部族見聞「祝福を祈り、テペトルに告ぐ」などに登場する人物",
+    notesZh: "「回声之子」的龙形武士，部族见闻「祈祝福愿，倾告嵴锋」中的登场角色。",
+    notesZhTW: "「回聲之子」的龍形武士，部族見聞「祈祝福願，傾告嵴鋒」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6436,6 +7079,8 @@ export default [
     zhCN: "奥尔科",
     zhTW: "奧爾科",
     notes: "世界任務「星に願いを」に登場する人物",
+    notesZh: "世界任务「向星星许愿」中的登场角色。",
+    notesZhTW: "世界任務「向星星許願」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6444,6 +7089,8 @@ export default [
     zhCN: "卡卡妈妈",
     zhTW: "卡卡媽媽",
     notes: "世界任務「星に願いを」に登場する人物",
+    notesZh: "世界任务「向星星许愿」中的登场角色。",
+    notesZhTW: "世界任務「向星星許願」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6452,6 +7099,8 @@ export default [
     zhCN: "卡兹加",
     zhTW: "卡茲加",
     notes: "デイリー依頼「テペトル竜サロン」などに登場する人物",
+    notesZh: "每日委托「洗理嵴锋」等中的登场角色。",
+    notesZhTW: "每日委託「洗理嵴鋒」等中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6460,6 +7109,8 @@ export default [
     zhCN: "特阿墨",
     zhTW: "特阿墨",
     notes: "デイリー依頼「友達を作る方法」に登場する人物",
+    notesZh: "每日委托「交友之法」中的登场角色。",
+    notesZhTW: "每日委託「交友之法」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6468,6 +7119,8 @@ export default [
     zhCN: "恩孔加",
     zhTW: "恩孔加",
     notes: "「帰火聖夜の巡礼」大会参加者。第五章第一幕に登場する人物",
+    notesZh: "「归火圣夜巡礼」的参赛者，魔神任务 第五章·第一幕「荣花与炎日之途」中的登场角色。",
+    notesZhTW: "「歸火聖夜巡禮」的參賽者，魔神任務 第五章·第一幕「榮花與炎日之途」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6476,6 +7129,8 @@ export default [
     zhCN: "莉琉",
     zhTW: "莉琉",
     notes: "「帰火聖夜の巡礼」大会参加者。第五章第一幕に登場する人物",
+    notesZh: "「归火圣夜巡礼」的参赛者，魔神任务 第五章·第一幕「荣花与炎日之途」中的登场角色。",
+    notesZhTW: "「歸火聖夜巡禮」的參賽者，魔神任務 第五章·第一幕「榮花與炎日之途」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6484,6 +7139,8 @@ export default [
     zhCN: "嘉乌兰妮",
     zhTW: "嘉烏蘭妮",
     notes: "「帰火聖夜の巡礼」大会参加者。第五章第一幕に登場する人物",
+    notesZh: "「归火圣夜巡礼」的参赛者，魔神任务 第五章·第一幕「荣花与炎日之途」中的登场角色。",
+    notesZhTW: "「歸火聖夜巡禮」的參賽者，魔神任務 第五章·第一幕「榮花與炎日之途」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6492,6 +7149,8 @@ export default [
     zhCN: "基班古",
     zhTW: "基班古",
     notes: "「帰火聖夜の巡礼」大会参加者。第五章第一幕に登場する人物",
+    notesZh: "「归火圣夜巡礼」的参赛者，魔神任务 第五章·第一幕「荣花与炎日之途」中的登场角色。",
+    notesZhTW: "「歸火聖夜巡禮」的參賽者，魔神任務 第五章·第一幕「榮花與炎日之途」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6500,6 +7159,8 @@ export default [
     zhCN: "阿伽娅",
     zhTW: "阿伽婭",
     notes: "第五章第一幕に登場する人物",
+    notesZh: "魔神任务 第五章·第一幕「荣花与炎日之途」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第一幕「榮花與炎日之途」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6508,6 +7169,8 @@ export default [
     zhCN: "葵可",
     zhTW: "葵可",
     notes: "チャスカの義妹",
+    notesZh: "恰斯卡的义妹。",
+    notesZhTW: "恰斯卡的義妹。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6516,6 +7179,8 @@ export default [
     zhCN: "维查玛",
     zhTW: "維查瑪",
     notes: "第五章第二幕に登場する人物",
+    notesZh: "魔神任务 第五章·第二幕「黑石湮落白石下」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第二幕「黑石湮落白石下」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6524,6 +7189,8 @@ export default [
     zhCN: "穆尔科",
     zhTW: "穆爾科",
     notes: "第五章第二幕に登場する人物",
+    notesZh: "魔神任务 第五章·第二幕「黑石湮落白石下」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第二幕「黑石湮落白石下」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6532,6 +7199,8 @@ export default [
     zhCN: "科莫奎",
     zhTW: "科莫奎",
     notes: "第五章第二幕に登場するアビスの詠唱者・淵炎",
+    notesZh: "魔神任务 第五章·第二幕「黑石湮落白石下」中的登场角色，深渊咏者・渊火。",
+    notesZhTW: "魔神任務 第五章·第二幕「黑石湮落白石下」中的登場角色，深淵詠者・淵火。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6540,6 +7209,8 @@ export default [
     zhCN: "图帕克",
     zhTW: "圖帕克",
     notes: "過去の英雄。第五章第二幕に登場する人物",
+    notesZh: "魔神任务 第五章·第二幕「黑石湮落白石下」中的登场角色，过去的英雄。",
+    notesZhTW: "魔神任務 第五章·第二幕「黑石湮落白石下」中的登場角色，過去的英雄。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6548,6 +7219,8 @@ export default [
     zhCN: "卡嘉",
     zhTW: "卡嘉",
     notes: "部族見聞「流泉の帰す場所」に登場する人物",
+    notesZh: "部族见闻「流泉所归之处」中的登场角色。",
+    notesZhTW: "部族見聞「流泉所歸之處」中的登場角色。",
     tags: [ "sumeru", "natlan", "character-sub" ],
   },
   {
@@ -6556,6 +7229,8 @@ export default [
     zhCN: "维兰德",
     zhTW: "維蘭德",
     notes: "部族見聞「流泉の帰す場所」に登場する人物",
+    notesZh: "部族见闻「流泉所归之处」中的登场角色。",
+    notesZhTW: "部族見聞「流泉所歸之處」中的登場角色。",
     tags: [ "sumeru", "natlan", "character-sub" ],
   },
   {
@@ -6564,6 +7239,8 @@ export default [
     zhCN: "科奥劳",
     zhTW: "科奧勞",
     notes: "部族見聞「流泉の帰す場所」に登場する人物",
+    notesZh: "部族见闻「流泉所归之处」中的登场角色。",
+    notesZhTW: "部族見聞「流泉所歸之處」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6572,6 +7249,8 @@ export default [
     zhCN: "卡乌鲁",
     zhTW: "卡烏魯",
     notes: "部族見聞「流泉の帰す場所」第二幕に登場する人物",
+    notesZh: "部族见闻「流泉所归之处」第二幕中的登场角色。",
+    notesZhTW: "部族見聞「流泉所歸之處」第二幕中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6580,6 +7259,8 @@ export default [
     zhCN: "基耶霍",
     zhTW: "基耶霍",
     notes: "部族見聞「流泉の帰す場所」第二幕に登場する人物",
+    notesZh: "部族见闻「流泉所归之处」第二幕中的登场角色。",
+    notesZhTW: "部族見聞「流泉所歸之處」第二幕中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6588,6 +7269,8 @@ export default [
     zhCN: "努乌",
     zhTW: "努烏",
     notes: "部族見聞「流泉の帰す場所」第三幕に登場する人物",
+    notesZh: "部族见闻「流泉所归之处」第三幕中的登场角色。",
+    notesZhTW: "部族見聞「流泉所歸之處」第三幕中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6596,6 +7279,8 @@ export default [
     zhCN: "奇科娅",
     zhTW: "奇科婭",
     notes: "世界任務「炎から夢を取り出す話」に登場する人物",
+    notesZh: "世界任务「火中取梦的故事」中的登场角色。",
+    notesZhTW: "世界任務「火中取夢的故事」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6604,6 +7289,8 @@ export default [
     zhCN: "胡妮",
     zhTW: "胡妮",
     notes: "部族見聞「ユパンキの廻焔」に登場する人物",
+    notesZh: "部族见闻「尤潘基的回火」中的登场角色。",
+    notesZhTW: "部族見聞「尤潘基的回火」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6612,6 +7299,8 @@ export default [
     zhCN: "多巴",
     zhTW: "多巴",
     notes: "部族見聞「ユパンキの廻焔」に登場する人物",
+    notesZh: "部族见闻「尤潘基的回火」中的登场角色。",
+    notesZhTW: "部族見聞「尤潘基的回火」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6622,6 +7311,8 @@ export default [
     pronunciationJa: "やました",
     notes: "部族見聞「ユパンキの廻焔」に登場するアビス教団の使者。「淵上」と称するものと同一人物",
     notesEn: "The same character as Enjou. His Japanese name is pronunced Yamashita and the English name Sanka may be a mistranslation.",
+    notesZh: "即深渊教团的「渊上」，在部族见闻「尤潘基的回火」中登场。日文「山下」应读作「Yamashita」，英文版中译为「Sanka」可能是翻译错误。",
+    notesZhTW: "即深淵教團的「淵上」，在部族見聞「尤潘基的回火」中登場。日文「山下」應讀作「Yamashita」，英文版中譯為「Sanka」可能是翻譯錯誤。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6630,6 +7321,8 @@ export default [
     zhCN: "特立尼达",
     zhTW: "特立尼達",
     notes: "部族見聞「ユパンキの廻焔」に登場する人物",
+    notesZh: "部族见闻「尤潘基的回火」中的登场角色。",
+    notesZhTW: "部族見聞「尤潘基的回火」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6638,6 +7331,8 @@ export default [
     zhCN: "蒂亚戈",
     zhTW: "蒂亞戈",
     notes: "部族見聞「ユパンキの廻焔」第三幕に登場する人物",
+    notesZh: "部族见闻「尤潘基的回火」第三幕中的登场角色。",
+    notesZhTW: "部族見聞「尤潘基的回火」第三幕中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6646,6 +7341,8 @@ export default [
     zhCN: "庞塞",
     zhTW: "龐塞",
     notes: "部族見聞「ユパンキの廻焔」第三幕に登場する人物",
+    notesZh: "部族见闻「尤潘基的回火」第三幕中的登场角色。",
+    notesZhTW: "部族見聞「尤潘基的回火」第三幕中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6654,6 +7351,8 @@ export default [
     zhCN: "布基纳",
     zhTW: "布基納",
     notes: "過去の英雄。部族見聞「ユパンキの廻焔」に登場する人物",
+    notesZh: "部族见闻「尤潘基的回火」中的登场角色，过去的英雄。",
+    notesZhTW: "部族見聞「尤潘基的回火」中的登場角色，過去的英雄。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6662,6 +7361,8 @@ export default [
     zhCN: "康加玛托",
     zhTW: "康加瑪託",
     notes: "部族見聞「ユパンキの廻焔」に登場する巨大なユムカ竜",
+    notesZh: "部族见闻「尤潘基的回火」中登场的「贪食匿叶龙山王」。",
+    notesZhTW: "部族見聞「尤潘基的回火」中登場的「貪食匿葉龍山王」。",
     tags: [ "natlan", "character-sub", "enemy-boss" ],
   },
   {
@@ -6671,6 +7372,8 @@ export default [
     zhTW: "山王",
     pronunciationJa: "やまのおう",
     notes: "コンガマトーへの敬称",
+    notesZh: "对康加玛托的尊称。",
+    notesZhTW: "對康加瑪託的尊稱。",
     tags: [ "natlan", "character-sub", "how-to-call", "enemy-boss" ],
   },
   {
@@ -6679,6 +7382,8 @@ export default [
     zhCN: "波尼尼",
     zhTW: "波尼尼",
     notes: "部族見聞「ユパンキの廻焔」に登場するユムカ竜",
+    notesZh: "部族见闻「尤潘基的回火」中登场的匿叶龙。",
+    notesZhTW: "部族見聞「尤潘基的回火」中登場的匿葉龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6687,6 +7392,8 @@ export default [
     zhCN: "波吉吉",
     zhTW: "波吉吉",
     notes: "部族見聞「ユパンキの廻焔」に登場するユムカ竜",
+    notesZh: "部族见闻「尤潘基的回火」中登场的匿叶龙。",
+    notesZhTW: "部族見聞「尤潘基的回火」中登場的匿葉龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6695,6 +7402,8 @@ export default [
     zhCN: "波奇奇",
     zhTW: "波奇奇",
     notes: "部族見聞「ユパンキの廻焔」に登場するユムカ竜",
+    notesZh: "部族见闻「尤潘基的回火」中登场的匿叶龙。",
+    notesZhTW: "部族見聞「尤潘基的回火」中登場的匿葉龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6703,6 +7412,8 @@ export default [
     zhCN: "南娜",
     zhTW: "南娜",
     notes: "部族見聞「ユパンキの廻焔」に登場するユムカ竜",
+    notesZh: "部族见闻「尤潘基的回火」中登场的匿叶龙。",
+    notesZhTW: "部族見聞「尤潘基的回火」中登場的匿葉龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6711,6 +7422,8 @@ export default [
     zhCN: "伊蜜",
     zhTW: "伊蜜",
     notes: "部族見聞「祝福を祈り、テペトルに告ぐ」に登場する人物",
+    notesZh: "部族见闻「祈祝福愿，倾告嵴锋」中的登场角色。",
+    notesZhTW: "部族見聞「祈祝福願，傾告嵴鋒」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6719,6 +7432,8 @@ export default [
     zhCN: "夏温",
     zhTW: "夏溫",
     notes: "部族見聞「祝福を祈り、テペトルに告ぐ」に登場する人物",
+    notesZh: "部族见闻「祈祝福愿，倾告嵴锋」中的登场角色。",
+    notesZhTW: "部族見聞「祈祝福願，傾告嵴鋒」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6727,6 +7442,8 @@ export default [
     zhCN: "特拉佐莉",
     zhTW: "特拉佐莉",
     notes: "部族見聞「祝福を祈り、テペトルに告ぐ」に登場する人物",
+    notesZh: "部族见闻「祈祝福愿，倾告嵴锋」中的登场角色。",
+    notesZhTW: "部族見聞「祈祝福願，傾告嵴鋒」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6735,6 +7452,8 @@ export default [
     zhCN: "妮赫佳",
     zhTW: "妮赫佳",
     notes: "部族見聞「祝福を祈り、テペトルに告ぐ」に登場する人物",
+    notesZh: "部族见闻「祈祝福愿，倾告嵴锋」中的登场角色。",
+    notesZhTW: "部族見聞「祈祝福願，傾告嵴鋒」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6743,6 +7462,8 @@ export default [
     zhCN: "妮佩卡",
     zhTW: "妮佩卡",
     notes: "部族見聞「祝福を祈り、テペトルに告ぐ」第三幕に登場する人物",
+    notesZh: "部族见闻「祈祝福愿，倾告嵴锋」第三幕中的登场角色。",
+    notesZhTW: "部族見聞「祈祝福願，傾告嵴鋒」第三幕中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6759,6 +7480,8 @@ export default [
     zhCN: "科约帕",
     zhTW: "科約帕",
     notes: "聖火競技場内の竜戦士。第五章第三幕に登場する人物",
+    notesZh: "圣火竞技场内的龙形武士，魔神任务 第五章·第三幕「镜与谜烟的彼方」中的登场角色。",
+    notesZhTW: "聖火競技場內的龍形武士，魔神任務 第五章·第三幕「鏡與謎煙的彼方」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6767,6 +7490,8 @@ export default [
     zhCN: "科斯特利茨基",
     zhTW: "科斯特利茨基",
     notes: "第五章第三幕に登場する人物",
+    notesZh: "魔神任务 第五章·第三幕「镜与谜烟的彼方」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第三幕「鏡與謎煙的彼方」中的登場角色。",
     tags: [ "fatui", "natlan", "character-sub" ],
   },
   {
@@ -6775,6 +7500,8 @@ export default [
     zhCN: "巴拉诺夫",
     zhTW: "巴拉諾夫",
     notes: "第五章第三幕に登場する人物",
+    notesZh: "魔神任务 第五章·第三幕「镜与谜烟的彼方」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第三幕「鏡與謎煙的彼方」中的登場角色。",
     tags: [ "fatui", "natlan", "character-sub" ],
   },
   {
@@ -6783,6 +7510,8 @@ export default [
     zhCN: "戈利科夫",
     zhTW: "戈利科夫",
     notes: "第五章第三幕に登場する人物",
+    notesZh: "魔神任务 第五章·第三幕「镜与谜烟的彼方」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第三幕「鏡與謎煙的彼方」中的登場角色。",
     tags: [ "fatui", "natlan", "character-sub" ],
   },
   {
@@ -6791,6 +7520,8 @@ export default [
     zhCN: "雅诺斯基",
     zhTW: "雅諾斯基",
     notes: "第五章第三幕に登場する人物",
+    notesZh: "魔神任务 第五章·第三幕「镜与谜烟的彼方」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第三幕「鏡與謎煙的彼方」中的登場角色。",
     tags: [ "fatui", "natlan", "character-sub" ],
   },
   {
@@ -6799,14 +7530,18 @@ export default [
     zhCN: "塔尔科",
     zhTW: "塔爾科",
     notes: "第五章第三幕に登場する人物",
+    notesZh: "魔神任务 第五章·第三幕「镜与谜烟的彼方」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第三幕「鏡與謎煙的彼方」中的登場角色。",
     tags: [ "fatui", "natlan", "character-sub" ],
   },
   {
-    en: "Trec",
+    en: "Totec",
     ja: "トテク",
     zhCN: "托泰克",
     zhTW: "託泰克",
     notes: "こだまの子の民の竜戦士。第五章第四幕に登場する人物",
+    notesZh: "「回声之子」的龙形武士，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "「回聲之子」的龍形武士，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6815,6 +7550,8 @@ export default [
     zhCN: "昆纳鸟",
     zhTW: "昆納鳥",
     notes: "オロルンの育ての祖父 。第五章第四幕に登場する人物",
+    notesZh: "欧洛伦的养祖父，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "歐洛倫的養祖父，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6823,6 +7560,8 @@ export default [
     zhCN: "库伊米",
     zhTW: "庫伊米",
     notes: "オロルンの育ての祖母。第五章第四幕に登場する人物",
+    notesZh: "欧洛伦的养祖母，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "歐洛倫的養祖母，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6831,6 +7570,8 @@ export default [
     zhCN: "古瑟雷德",
     zhTW: "古瑟雷德",
     notes: "カールンイア時代の「隊長」の部下。第五章第四幕に登場する人物",
+    notesZh: "坎瑞亚时期「队长」的部下，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "坎瑞亞時期「隊長」的部下，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "khaenriah", "natlan", "character-sub" ],
   },
   {
@@ -6839,6 +7580,8 @@ export default [
     zhCN: "桑哈杰",
     zhTW: "桑哈傑",
     notes: "過去の英雄。第五章第四幕に登場する人物",
+    notesZh: "过去的英雄，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "過去的英雄，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6847,6 +7590,8 @@ export default [
     zhCN: "孟尼力克",
     zhTW: "孟尼力克",
     notes: "過去の英雄。第五章第四幕に登場する人物",
+    notesZh: "过去的英雄，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "過去的英雄，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6855,6 +7600,8 @@ export default [
     zhCN: "达尔戈",
     zhTW: "達爾戈",
     notes: "避難する商人。第五章第四幕に登場する人物",
+    notesZh: "避难的商人，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "避難的商人，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6863,6 +7610,8 @@ export default [
     zhCN: "科科庞",
     zhTW: "科科龐",
     notes: "避難する商人。第五章第四幕に登場する人物",
+    notesZh: "避难的商人，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "避難的商人，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6871,6 +7620,8 @@ export default [
     zhCN: "阿尔妲",
     zhTW: "阿爾妲",
     notes: "避難する商人。第五章第四幕に登場する人物",
+    notesZh: "避难的商人，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "避難的商人，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6879,6 +7630,8 @@ export default [
     zhCN: "蓬普",
     zhTW: "蓬普",
     notes: "懸木の民の伝達使。第五章第四幕に登場する人物",
+    notesZh: "「悬木人」的讯使，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "「懸木人」的訊使，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6886,7 +7639,9 @@ export default [
     ja: "ヌスタ",
     zhCN: "努斯妲",
     zhTW: "努斯妲",
-    notes: "努斯妲。第五章第四幕に登場する人物",
+    notes: "第五章第四幕に登場する人物",
+    notesZh: "魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6895,6 +7650,8 @@ export default [
     zhCN: "拉曼",
     zhTW: "拉曼",
     notes: "懸木の民の伝達使。第五章第四幕に登場する人物",
+    notesZh: "「悬木人」的讯使，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "「懸木人」的訊使，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6903,6 +7660,8 @@ export default [
     zhCN: "欧莎薇",
     zhTW: "歐莎薇",
     notes: "逃げ遅れた市民。第五章第四幕に登場する人物",
+    notesZh: "逃难的市民，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "逃難的市民，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6911,6 +7670,8 @@ export default [
     zhCN: "伊约芭",
     zhTW: "伊約芭",
     notes: "逃げ遅れた市民。第五章第四幕に登場する人物",
+    notesZh: "逃难的市民，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "逃難的市民，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6919,6 +7680,8 @@ export default [
     zhCN: "库纳克",
     zhTW: "庫納克",
     notes: "逃げ遅れた市民。第五章第四幕に登場する人物",
+    notesZh: "逃难的市民，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "逃難的市民，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6927,6 +7690,8 @@ export default [
     zhCN: "利别科",
     zhTW: "利別科",
     notes: "逃げ遅れた市民。第五章第四幕に登場する人物",
+    notesZh: "逃难的市民，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "逃難的市民，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6935,6 +7700,8 @@ export default [
     zhCN: "吉恩布",
     zhTW: "吉恩布",
     notes: "ナタを守る竜戦士。第五章第四幕に登場する人物",
+    notesZh: "保卫纳塔的龙形武士，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "保衛納塔的龍形武士，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6943,6 +7710,8 @@ export default [
     zhCN: "奇马利",
     zhTW: "奇馬利",
     notes: "ナタを守る竜戦士。第五章第四幕に登場する人物",
+    notesZh: "保卫纳塔的龙形武士，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "保衛納塔的龍形武士，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6951,6 +7720,8 @@ export default [
     zhCN: "雅蕾希",
     zhTW: "雅蕾希",
     notes: "ナタを守る竜戦士。第五章第四幕に登場する人物",
+    notesZh: "保卫纳塔的龙形武士，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "保衛納塔的龍形武士，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6959,6 +7730,8 @@ export default [
     zhCN: "阿卡马",
     zhTW: "阿卡馬",
     notes: "ナタを守る竜戦士。第五章第四幕に登場する人物",
+    notesZh: "保卫纳塔的龙形武士，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "保衛納塔的龍形武士，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6967,6 +7740,8 @@ export default [
     zhCN: "乌兰塔",
     zhTW: "烏蘭塔",
     notes: "懸木の民の伝達使。第五章第四幕に登場する人物",
+    notesZh: "「悬木人」的讯使，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "「懸木人」的訊使，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6975,6 +7750,8 @@ export default [
     zhCN: "斯塔杜欧",
     zhTW: "斯塔杜歐",
     notes: "ナタを守るファデュイ。第五章第四幕に登場する人物",
+    notesZh: "保卫纳塔的愚人众，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "保衛納塔的愚人眾，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "fatui", "character-sub" ],
   },
   {
@@ -6983,6 +7760,8 @@ export default [
     zhCN: "马兹拉",
     zhTW: "馬茲拉",
     notes: "ナタを守る竜戦士。第五章第四幕に登場する人物",
+    notesZh: "保卫纳塔的龙形武士，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "保衛納塔的龍形武士，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6991,6 +7770,8 @@ export default [
     zhCN: "涅兰",
     zhTW: "涅蘭",
     notes: "ナタを守る竜戦士。第五章第四幕に登場する人物",
+    notesZh: "保卫纳塔的龙形武士，魔神任务 第五章·第四幕「命定将焚的虹光」中的登场角色。",
+    notesZhTW: "保衛納塔的龍形武士，魔神任務 第五章·第四幕「命定將焚的虹光」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -6998,9 +7779,10 @@ export default [
     ja: "ムトタ",
     zhCN: "穆托塔",
     zhTW: "穆託塔",
-    notesEn: "Chief, Flower-Feather Clan",
+    notesEn: "Chief of the Flower-Feather Clan.",
     notes: "「花翼の集」族長",
-    notesZh: "「花羽会」首领",
+    notesZh: "「花羽会」首领。",
+    notesZhTW: "「花羽會」首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7009,6 +7791,8 @@ export default [
     zhCN: "尤庇娅",
     zhTW: "尤庇婭",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7017,6 +7801,8 @@ export default [
     zhCN: "胡里约",
     zhTW: "胡里約",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7025,6 +7811,8 @@ export default [
     zhCN: "马特兰",
     zhTW: "馬特蘭",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7033,6 +7821,8 @@ export default [
     zhCN: "阿图科",
     zhTW: "阿圖科",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7041,6 +7831,8 @@ export default [
     zhCN: "柯奇妲",
     zhTW: "柯奇妲",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7049,6 +7841,8 @@ export default [
     zhCN: "奥科兰",
     zhTW: "奧科蘭",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7057,6 +7851,8 @@ export default [
     zhCN: "伊卡力",
     zhTW: "伊卡力",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7065,6 +7861,8 @@ export default [
     zhCN: "库阿勒",
     zhTW: "庫阿勒",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7073,6 +7871,8 @@ export default [
     zhCN: "穆纳伊",
     zhTW: "穆納伊",
     notes: "第五章幕間に登場する人物",
+    notesZh: "魔神任务 第五章·幕间「万火归一」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·幕間「萬火歸一」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7080,9 +7880,10 @@ export default [
     ja: "アバンディ",
     zhCN: "阿邦迪",
     zhTW: "阿邦迪",
-    notesEn: 'Obsidian Totem Pole manager of "Flower-Feather Clan"',
+    notesEn: 'The manager of the Obsidian Totem Pole of the Flower-Feather Clan.',
     notes: "「花翼の集」の黒曜石のトーテムポール管理人",
-    notesZh: "「花羽会」曜石图腾柱管理员",
+    notesZh: "「花羽会」的「曜石图腾柱」管理员。",
+    notesZhTW: "「花羽會」的「曜石圖騰柱」管理员。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7091,6 +7892,8 @@ export default [
     zhCN: "库斯可",
     zhTW: "庫斯可",
     notes: "チャスカの義父",
+    notesZh: "恰斯卡的义父，部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "恰斯卡的義父，部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7099,6 +7902,8 @@ export default [
     zhCN: "阿尔帕",
     zhTW: "阿爾帕",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7107,6 +7912,8 @@ export default [
     zhCN: "科优尔",
     zhTW: "科優爾",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7115,6 +7922,8 @@ export default [
     zhCN: "朱南",
     zhTW: "朱南",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7123,6 +7932,8 @@ export default [
     zhCN: "穆基",
     zhTW: "穆基",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7131,6 +7942,8 @@ export default [
     zhCN: "瓦斯卡尔",
     zhTW: "瓦斯卡爾",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7139,6 +7952,8 @@ export default [
     zhCN: "皮希加",
     zhTW: "皮希加",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7147,6 +7962,8 @@ export default [
     zhCN: "柯娅",
     zhTW: "柯婭",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場するチャスカの義姉にあたるクク竜",
+    notesZh: "恰斯卡的义姐，部族见闻「花之归尘，羽之将坠」中登场的绒翼龙。",
+    notesZhTW: "恰斯卡的義姐，部族見聞「花之歸塵，羽之將墜」中登場的絨翼龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7155,6 +7972,8 @@ export default [
     zhCN: "奇梅",
     zhTW: "奇梅",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場するコヤの子供のクク仔竜",
+    notesZh: "科娅的孩子，部族见闻「花之归尘，羽之将坠」中登场的绒翼龙。",
+    notesZhTW: "科婭的孩子，部族見聞「花之歸塵，羽之將墜」中登場的絨翼龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7163,6 +7982,8 @@ export default [
     zhCN: "栖木普",
     zhTW: "棲木普",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場するチャスカの育ての母のクク竜",
+    notesZh: "恰斯卡的养母，部族见闻「花之归尘，羽之将坠」中登场的绒翼龙。",
+    notesZhTW: "恰斯卡的養母，部族見聞「花之歸塵，羽之將墜」中登場的絨翼龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7171,6 +7992,8 @@ export default [
     zhCN: "因卡纳克",
     zhTW: "因卡納克",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7179,6 +8002,8 @@ export default [
     zhCN: "特帕尔",
     zhTW: "特帕爾",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7187,6 +8012,8 @@ export default [
     zhCN: "普玛",
     zhTW: "普瑪",
     notes: "部族見聞「塵に帰す花、堕ちる羽」に登場する人物",
+    notesZh: "部族见闻「花之归尘，羽之将坠」中的登场角色。",
+    notesZhTW: "部族見聞「花之歸塵，羽之將墜」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7194,9 +8021,10 @@ export default [
     ja: "ビラム",
     zhCN: "庇兰",
     zhTW: "庇蘭",
-    notesEn: "Chief, Masters of the Night-Wind",
+    notesEn: "Chief of the Masters of the Night-Wind.",
     notes: "「謎煙の主」族長",
-    notesZh: "「烟谜主」首领",
+    notesZh: "「烟谜主」首领。",
+    notesZhTW: "「煙謎主」首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7204,9 +8032,10 @@ export default [
     ja: "シプ",
     zhCN: "奇普",
     zhTW: "奇普",
-    notesEn: 'Obsidian Totem Pole manager of "Masters of the Night-Wind"',
+    notesEn: 'The manager of the Obsidian Totem Pole of the Masters of the Night-Wind.',
     notes: "「謎煙の主」の黒曜石トーテムポール管理人",
-    notesZh: "「烟谜主」曜石图腾柱管理员",
+    notesZh: "「烟谜主」的「曜石图腾柱」管理员。",
+    notesZhTW: "「煙謎主」的「曜石圖騰柱」管理员。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7215,6 +8044,8 @@ export default [
     zhCN: "卡胡鲁",
     zhTW: "卡胡魯",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7223,6 +8054,8 @@ export default [
     zhCN: "托尔特克",
     zhTW: "托爾特克",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7231,6 +8064,8 @@ export default [
     zhCN: "帕朗",
     zhTW: "帕朗",
     notes: "世界任務「事件は次々に」に登場する人物",
+    notesZh: "世界任务「从一案到另一案」中的登场角色。",
+    notesZhTW: "世界任務「從一案到另一案」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7239,6 +8074,8 @@ export default [
     zhCN: "特马乔",
     zhTW: "特馬喬",
     notes: "世界任務「事件は次々に」に登場する人物",
+    notesZh: "世界任务「从一案到另一案」中的登场角色。",
+    notesZhTW: "世界任務「從一案到另一案」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7247,6 +8084,8 @@ export default [
     zhCN: "莉瓦",
     zhTW: "莉瓦",
     notes: "世界任務「事件は次々に」に登場する人物",
+    notesZh: "世界任务「从一案到另一案」中的登场角色。",
+    notesZhTW: "世界任務「從一案到另一案」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7255,6 +8094,8 @@ export default [
     zhCN: "拉密萨纳",
     zhTW: "拉密薩納",
     notes: "世界任務「事件は次々に」に登場する人物",
+    notesZh: "世界任务「从一案到另一案」中的登场角色。",
+    notesZhTW: "世界任務「從一案到另一案」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7263,6 +8104,8 @@ export default [
     zhCN: "塔卢加",
     zhTW: "塔盧加",
     notes: "世界任務「事件は次々に」に登場する人物",
+    notesZh: "世界任务「从一案到另一案」中的登场角色。",
+    notesZhTW: "世界任務「從一案到另一案」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7271,6 +8114,8 @@ export default [
     zhCN: "奥伯龙",
     zhTW: "奧伯龍",
     notes: "世界任務「事件は次々に」に登場するクク仔竜",
+    notesZh: "世界任务「从一案到另一案」中登场的幼绒翼龙。",
+    notesZhTW: "世界任務「從一案到另一案」中登場的幼絨翼龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7279,6 +8124,8 @@ export default [
     zhCN: "「炫彩呆子」",
     zhTW: "「炫彩呆子」",
     notes: "「ラクガキユニオン」メンバー。v5.0 期間限定イベント「巡れ! ワンダフルグラフィティ」などに登場する人物",
+    notesZh: "「涂鸦联盟」成员，v5.0 期间限定活动「绮绘的踪绪」中的登场角色。",
+    notesZhTW: "「塗鴉聯盟」成員，v5.0 期間限定活動「奇繪的蹤緒」中的登場角色。",
     tags: [ "event", "natlan", "character-sub" ],
   },
   {
@@ -7287,6 +8134,8 @@ export default [
     zhCN: "「狂图捕手」",
     zhTW: "「狂圖捕手」",
     notes: "「ラクガキユニオン」リーダー",
+    notesZh: "「涂鸦联盟」的首领。",
+    notesZhTW: "「塗鴉聯盟」的首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7295,6 +8144,8 @@ export default [
     zhCN: "玻娜",
     zhTW: "玻娜",
     notes: "世界任務「流灰の国の迷える旅人」に登場する人物",
+    notesZh: "世界任务「流灰之国的迷旅人」中的登场角色。",
+    notesZhTW: "世界任務「流灰之國的迷旅人」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7303,6 +8154,8 @@ export default [
     zhCN: "绿松石",
     zhTW: "綠松石",
     notes: "世界任務「流灰の国の迷える旅人」に登場する竜。英語版では愛称として Coco とも呼ばれる",
+    notesZh: "世界任务「流灰之国的迷旅人」中的登场角色。英文版中也有着「Coco」的昵称。",
+    notesZhTW: "世界任務「流灰之國的迷旅人」中的登場角色。英文版中也有著「Coco」的暱稱。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7311,6 +8164,8 @@ export default [
     zhCN: "科潘",
     zhTW: "科潘",
     notes: "世界任務「流灰の国の迷える旅人」に登場する人物",
+    notesZh: "世界任务「流灰之国的迷旅人」中的登场角色。",
+    notesZhTW: "世界任務「流灰之國的迷旅人」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7319,6 +8174,8 @@ export default [
     zhCN: "奥奇坎",
     zhTW: "奧奇坎",
     notes: "世界任務「流灰の国の迷える旅人」に登場する竜",
+    notesZh: "世界任务「流灰之国的迷旅人」中登场的龙。",
+    notesZhTW: "世界任務「流灰之國的迷旅人」中登場的龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7327,6 +8184,8 @@ export default [
     zhCN: "莉莉乌",
     zhTW: "莉莉烏",
     notes: "世界任務「流灰の国の迷える旅人」に名前だけ登場する人物。リリウともリリムとも呼ばれている。「帰火聖夜の巡礼」大会参加者とは別人",
+    notesZh: "世界任务「流灰之国的迷旅人」中仅以名字登场的角色。日文版中有「リリウ (Ririu)」和「リリム (Ririmu)」两种称呼。与「归火圣夜巡礼」的参赛者「莉琉」并非同一人。",
+    notesZhTW: "世界任務「流灰之國的迷旅人」中僅以名字登場的角色。日文版中有「リリウ (Ririu)」和「リリム (Ririmu)」兩種稱呼。與「歸火聖夜巡禮」的參賽者「莉琉」並非同一人。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7335,16 +8194,19 @@ export default [
     zhCN: "瓦萨克拉胡巴肯",
     zhTW: "瓦薩克拉胡巴肯",
     notes: "世界任務「流灰の国の迷える旅人」「破滅の予兆と最後の通牒」などに登場する竜",
+    notesZh: "世界任务「流灰之国的迷旅人」、「毁灭预兆与最后的通牒」中的登场角色。",
+    notesZhTW: "世界任務「流灰之國的迷旅人」、「毀滅預兆與最後的通牒」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
     en: "Ixlel",
     ja: "イレール",
-    zhCN: "伊蕾尔",
-    zhTW: "伊蕾爾",
+    zhCN: "伊雷尔",
+    zhTW: "伊雷爾",
     notesEn: "True Name is \"Ix Uxul Tz'ib Bolon Ch'ule-L\"",
     notes: "正式名は「イ・クェクシ・ツボロン・ク・レール」。世界任務「流灰の国の迷える旅人」に登場する竜",
-    notesZh: "真名是「伊·奎库叙·茨博隆·库·雷尔」",
+    notesZh: "真名是「伊·奎库叙·茨博隆·库·雷尔」。世界任务「流灰之国的迷旅人」中登场的龙。",
+    notesZhTW: "真名是「伊·奎庫敘·茨博隆·庫·雷爾」。世界任務「流灰之國的迷旅人」中登場的龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7353,6 +8215,8 @@ export default [
     zhCN: "伊·奎库叙·茨博隆·库·雷尔",
     zhTW: "伊·奎庫敘·茨博隆·庫·雷爾",
     notes: "世界任務「流灰の国の迷える旅人」に登場する竜",
+    notesZh: "世界任务「流灰之国的迷旅人」中登场的龙。",
+    notesZhTW: "世界任務「流灰之國的迷旅人」中登場的龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7367,9 +8231,10 @@ export default [
     ja: "オロラク",
     zhCN: "奥罗卢柯",
     zhTW: "奧羅盧柯",
-    notesEn: "Natlan Angler",
+    notesEn: "Natlan angler.",
     notes: "ナタの漁師",
-    notesZh: "纳塔的渔民",
+    notesZh: "纳塔的渔夫。",
+    notesZhTW: "納塔的漁夫。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7378,6 +8243,8 @@ export default [
     zhCN: "马尼菲科",
     zhTW: "馬尼菲科",
     notes: "世界任務「月光に舞え」などに登場する人物",
+    notesZh: "世界任务「月光中共舞」等中的登场角色。",
+    notesZhTW: "世界任務「月光中共舞」等中的登場角色。",
     tags: [ "natlan", "fontaine", "character-sub" ],
   },
   {
@@ -7386,6 +8253,8 @@ export default [
     zhCN: "玛兹嘉",
     zhTW: "瑪茲嘉",
     notes: "世界任務「竜医の悩み」に登場する人物",
+    notesZh: "世界任务「龙医生的困境」中的登场角色。",
+    notesZhTW: "世界任務「龍醫生的困境」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7394,6 +8263,8 @@ export default [
     zhCN: "「咕噜噜」",
     zhTW: "「咕嚕嚕」",
     notes: "世界任務「竜医の悩み」に登場するクク竜",
+    notesZh: "世界任务「龙医生的困境」中登场的绒翼龙。",
+    notesZhTW: "世界任務「龍醫生的困境」中登場的絨翼龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7402,6 +8273,8 @@ export default [
     zhCN: "伊卡尤",
     zhTW: "伊卡尤",
     notes: "世界任務「とある竜マニアの平凡な暮らし」に登場する人物",
+    notesZh: "世界任务「爱龙人的平凡生活」中的登场角色。",
+    notesZhTW: "世界任務「愛龍人的平凡生活」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7410,6 +8283,8 @@ export default [
     zhCN: "「小波」",
     zhTW: "「小波」",
     notes: "世界任務「とある竜マニアの平凡な暮らし」に登場するコホラ竜",
+    notesZh: "世界任务「爱龙人的平凡生活」中登场的鳍游龙。",
+    notesZhTW: "世界任務「愛龍人的平凡生活」中登場的鰭游龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7418,6 +8293,8 @@ export default [
     zhCN: "「翡翠」",
     zhTW: "「翡翠」",
     notes: "世界任務「とある竜マニアの平凡な暮らし」に登場するユムカ仔竜",
+    notesZh: "世界任务「爱龙人的平凡生活」中登场的幼匿叶龙。",
+    notesZhTW: "世界任務「愛龍人的平凡生活」中登場的幼匿葉龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7426,6 +8303,8 @@ export default [
     zhCN: "「金盏花」",
     zhTW: "「金盞花」",
     notes: "世界任務「とある竜マニアの平凡な暮らし」に登場するテペトル竜",
+    notesZh: "世界任务「爱龙人的平凡生活」中登场的嵴锋龙。",
+    notesZhTW: "世界任務「愛龍人的平凡生活」中登場的嵴鋒龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7434,6 +8313,8 @@ export default [
     zhCN: "库约尼",
     zhTW: "庫約尼",
     notes: "世界任務「勇士の姿」に登場する人物。マニョーヤ、アコミト、マターガの父",
+    notesZh: "世界任务「勇士的每一面」中的登场角色。曼尤雅、阿科米蒂、马塔伽的父亲。",
+    notesZhTW: "世界任務「勇士的每一面」中的登場角色。曼尤雅、阿科米蒂、馬塔伽的父親。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7441,7 +8322,9 @@ export default [
     ja: "マニョーヤ",
     zhCN: "曼尤雅",
     zhTW: "曼尤雅",
-    notes: "竜の帰巣」「勇士の姿」などに登場する人物",
+    notes: "「竜の帰巣」「勇士の姿」などに登場する人物",
+    notesZh: "世界任务「龙的归巢」、「勇士的每一面」等中的登场角色。",
+    notesZhTW: "世界任務「龍的歸巢」、「勇士的每一面」等中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7450,6 +8333,8 @@ export default [
     zhCN: "阿科米蒂",
     zhTW: "阿科米蒂",
     notes: "世界任務「換羽期」「勇士の姿」に登場する人物",
+    notesZh: "世界任务「换羽时节」、「勇士的每一面」中的登场角色。",
+    notesZhTW: "世界任務「換羽時節」、「勇士的每一面」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7458,6 +8343,8 @@ export default [
     zhCN: "马塔伽",
     zhTW: "馬塔伽",
     notes: "世界任務「進め！進め！進め！」「勇士の姿」に登場する人物",
+    notesZh: "世界任务「向前冲！冲！冲！」、「勇士的每一面」中的登场角色。",
+    notesZhTW: "世界任務「向前衝！衝！衝！」、「勇士的每一面」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7466,6 +8353,8 @@ export default [
     zhCN: "伊妮",
     zhTW: "伊妮",
     notes: "マーヴィカの妹",
+    notesZh: "玛薇卡的妹妹。",
+    notesZhTW: "瑪薇卡的妹妹。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7474,6 +8363,8 @@ export default [
     zhCN: "夏芙米娅",
     zhTW: "夏芙米婭",
     notes: "マーヴィカの母",
+    notesZh: "玛薇卡的母亲。",
+    notesZhTW: "瑪薇卡的母親。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7481,9 +8372,10 @@ export default [
     ja: "アカトル",
     zhCN: "阿卡特",
     zhTW: "阿卡特",
-    notesEn: "Chief, Collective of Plenty",
+    notesEn: "Chief of the Collective of Plenty.",
     notes: "「豊穣の邦」族長",
-    notesZh: "「沃陆之邦」首领",
+    notesZh: "「沃陆之邦」首领。",
+    notesZhTW: "「沃陸之邦」首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7492,6 +8384,8 @@ export default [
     zhCN: "恩铁戈",
     zhTW: "恩鐵戈",
     notes: "伝説任務「あの烈日のように 」に登場する人物",
+    notesZh: "玛薇卡的传说任务 不败阳焰之章·第一幕「正如那烈日」中的登场角色。",
+    notesZhTW: "瑪薇卡的傳說任務 不敗陽焰之章·第一幕「正如那烈日」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7500,6 +8394,8 @@ export default [
     zhCN: "马索",
     zhTW: "馬索",
     notes: "伝説任務「あの烈日のように 」に登場する人物",
+    notesZh: "玛薇卡的传说任务 不败阳焰之章·第一幕「正如那烈日」中的登场角色。",
+    notesZhTW: "瑪薇卡的傳說任務 不敗陽焰之章·第一幕「正如那烈日」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7508,6 +8404,8 @@ export default [
     zhCN: "蒙吕松",
     zhTW: "蒙呂松",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "fontaine", "character-sub" ],
   },
   {
@@ -7516,6 +8414,8 @@ export default [
     zhCN: "格洛德克",
     zhTW: "格洛德克",
     notes: "部族見聞「流れゆく色の記憶」に登場するファデュイ",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的愚人众。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的愚人眾。",
     tags: [ "natlan", "fatui", "character-sub" ],
   },
   {
@@ -7524,6 +8424,8 @@ export default [
     zhCN: "艾列尔",
     zhTW: "艾列爾",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "fontaine", "character-sub" ],
   },
   {
@@ -7532,6 +8434,8 @@ export default [
     zhCN: "阿依瓦丁",
     zhTW: "阿依瓦丁",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7540,6 +8444,8 @@ export default [
     zhCN: "贝苏琪",
     zhTW: "貝蘇琪",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7548,6 +8454,8 @@ export default [
     zhCN: "乔甘",
     zhTW: "喬甘",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7556,6 +8464,8 @@ export default [
     zhCN: "维奇琳",
     zhTW: "維奇琳",
     notes: "部族見聞「流れゆく色の記憶」に登場する人物",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的登场角色。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7564,6 +8474,8 @@ export default [
     zhCN: "欧蒂菈",
     zhTW: "歐蒂菈",
     notes: "部族見聞「流れゆく色の記憶」に登場するメリュジーヌ",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的美露莘。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的美露辛。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7572,6 +8484,8 @@ export default [
     zhCN: "特拉波",
     zhTW: "特拉波",
     notes: "部族見聞「流れゆく色の記憶」に登場するイクトミ竜",
+    notesZh: "部族见闻「流淌着色彩的回忆」中的暝视龙。",
+    notesZhTW: "部族見聞「流淌著色彩的回憶」中的暝視龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7580,6 +8494,8 @@ export default [
     zhCN: "薄荷大福",
     zhTW: "薄荷大福",
     notes: "「夢見月のホッと一息」の店員",
+    notesZh: "食梦貘，「梦见月的舒心小站」的店员。",
+    notesZhTW: "食夢貘，「夢見月的舒心小站」的店員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7587,17 +8503,20 @@ export default [
     ja: "トナカ",
     zhCN: "图娜卡",
     zhTW: "圖娜卡",
-    notesEn: "Totem Pole manager of \"Collective of Plenty\"",
+    notesEn: "The manager of the Obsidian Totem Pole of the Collective of Plenty.",
     notes: "「豊穣の邦」の黒曜石トーテムポール管理人",
-    notesZh: "「沃陆之邦」曜石图腾柱管理员",
+    notesZh: "「沃陆之邦」的「曜石图腾柱」管理员。",
+    notesZhTW: "「沃陸之邦」的「曜石圖騰柱」管理员。",
     tags: [ "natlan", "character-sub" ],
   },
   {
     en: "Urubamba",
     ja: "ウルバンバ",
-    zhCN: "鸟鲁班巴",
-    zhTW: "鳥魯班巴",
+    zhCN: "乌鲁班巴",
+    zhTW: "烏魯班巴",
     notes: "「豊穣の邦」トレーニングマスター",
+    notesZh: "「沃陆之邦」的训练大师。",
+    notesZhTW: "「沃陸之邦」的訓練大師。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7648,6 +8567,8 @@ export default [
     zhCN: "纳纳卡",
     zhTW: "納納卡",
     notes: "ナパが管理するライノ仔竜",
+    notesZh: "娜帕管理的幼突角龙。",
+    notesZhTW: "娜帕管理的幼突角龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7656,6 +8577,8 @@ export default [
     zhCN: "尤洛",
     zhTW: "尤洛",
     notes: "「ラクガキユニオン」メンバー",
+    notesZh: "「涂鸦联盟」成员。",
+    notesZhTW: "「塗鴉聯盟」成員。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7671,6 +8594,8 @@ export default [
     zhCN: "瓦阿吉",
     zhTW: "瓦阿吉",
     notes: "ヨカが管理するライノ竜",
+    notesZh: "约卡管理的突角龙。",
+    notesZhTW: "約卡管理的突角龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7679,6 +8604,8 @@ export default [
     zhCN: "帕华娅",
     zhTW: "帕華婭",
     notes: "「豊穣の邦」トレーニング器具商人",
+    notesZh: "「沃陆之邦」的训练器材商人。",
+    notesZhTW: "「沃陸之邦」的訓練器材商人。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7687,6 +8614,8 @@ export default [
     zhCN: "秦库马",
     zhTW: "秦庫馬",
     notes: "「豊穣の邦」フィットネストレーナー",
+    notesZh: "「沃陆之邦」的健身教练。",
+    notesZhTW: "「沃陸之邦」的健身教練。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7695,6 +8624,8 @@ export default [
     zhCN: "卡布林",
     zhTW: "卡布林",
     notes: "「豊穣の邦」健康ドリンク職人",
+    notesZh: "「沃陆之邦」的健康饮品商人。",
+    notesZhTW: "「沃陸之邦」的健康飲品商人。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7703,6 +8634,8 @@ export default [
     zhCN: "阿托力",
     zhTW: "阿託力",
     notes: "「豊穣の邦」料理人",
+    notesZh: "「沃陆之邦」的厨师。",
+    notesZhTW: "「沃陸之邦」的廚師。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7718,6 +8651,8 @@ export default [
     zhCN: "阿麦",
     zhTW: "阿麥",
     notes: "ショクトリが管理するライノ竜",
+    notesZh: "豪特利管理的突角龙。",
+    notesZhTW: "豪特利管理的突角龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7726,6 +8661,8 @@ export default [
     zhCN: "马察科",
     zhTW: "馬察科",
     notes: "「豊穣の邦」レスリングのレフェリー",
+    notesZh: "「沃陆之邦」的摔角裁判。",
+    notesZhTW: "「沃陸之邦」的摔角裁判。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7734,6 +8671,8 @@ export default [
     zhCN: "索鸟娜",
     zhTW: "索鳥娜",
     notes: "「豊穣の邦」鍛冶屋",
+    notesZh: "「沃陆之邦」的铁匠。",
+    notesZhTW: "「沃陸之邦」的鐵匠。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7742,6 +8681,8 @@ export default [
     zhCN: "瓦娜娜",
     zhTW: "瓦娜娜",
     notes: "ヴァレサが管理するライノ竜",
+    notesZh: "瓦雷莎管理的突角龙。",
+    notesZhTW: "瓦雷莎管理的突角龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7750,6 +8691,8 @@ export default [
     zhCN: "库蕾玛娜",
     zhTW: "庫蕾瑪娜",
     notes: "「流泉の衆」ミュージシャン",
+    notesZh: "「流泉之众」的音乐家。",
+    notesZhTW: "「流泉之眾」的音樂家。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7758,6 +8701,8 @@ export default [
     zhCN: "蕈之贤主",
     zhTW: "蕈之賢主",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
+    notesZh: "部族见闻「蘑境菌奇」中登场的蕈兽魔神。",
+    notesZhTW: "部族見聞「蘑境菌奇」中登場的蕈獸魔神。",
     tags: [ "natlan", "character-sub", "sumeru", "title", "how-to-call" ],
   },
   {
@@ -7766,6 +8711,8 @@ export default [
     zhCN: "蘑瓦塔里",
     zhTW: "蘑瓦塔裡",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
+    notesZh: "部族见闻「蘑境菌奇」中登场的蕈兽。",
+    notesZhTW: "部族見聞「蘑境菌奇」中登場的蕈獸。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7774,6 +8721,8 @@ export default [
     zhCN: "爱茜蘑",
     zhTW: "愛茜蘑",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
+    notesZh: "部族见闻「蘑境菌奇」中登场的蕈兽。",
+    notesZhTW: "部族見聞「蘑境菌奇」中登場的蕈獸。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7782,6 +8731,8 @@ export default [
     zhCN: "菇兹亚",
     zhTW: "菇茲亞",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
+    notesZh: "部族见闻「蘑境菌奇」中登场的蕈兽。",
+    notesZhTW: "部族見聞「蘑境菌奇」中登場的蕈獸。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7790,6 +8741,8 @@ export default [
     zhCN: "阿蘑娜",
     zhTW: "阿蘑娜",
     notes: "部族見聞「キノコ奇譚」に登場するキノコン",
+    notesZh: "部族见闻「蘑境菌奇」中登场的蕈兽。",
+    notesZhTW: "部族見聞「蘑境菌奇」中登場的蕈獸。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7797,9 +8750,10 @@ export default [
     ja: "ビフロンス",
     zhCN: "比夫茏",
     zhTW: "比夫蘢",
-    notesEn: "Sage-Lord of Fungi's name as a god",
+    notesEn: "The Sage-Lord of Fungi's Goetic name.",
     notes: "「キノコの賢主」の魔神名",
-    notesZh: "蕈之贤主之魔神的名字",
+    notesZh: "「蕈之贤主」的魔神名。",
+    notesZhTW: "「蕈之賢主」的魔神名。",
     tags: [ "natlan", "sumeru", "character-sub" ],
   },
   {
@@ -7808,6 +8762,8 @@ export default [
     zhCN: "迦陀迦",
     zhTW: "迦陀迦",
     notes: "部族見聞「キノコ奇譚」に登場する人物",
+    notesZh: "部族见闻「蘑境菌奇」中的登场角色。",
+    notesZhTW: "部族見聞「蘑境菌奇」中的登場角色。",
     tags: [ "natlan", "sumeru", "character-sub" ],
   },
   {
@@ -7816,6 +8772,8 @@ export default [
     zhCN: "马范",
     zhTW: "馬範",
     notes: "世界任務「烈力は役に立つ？」に登場する人物",
+    notesZh: "世界任务「『烈度』，有用吗」中的登场角色。",
+    notesZhTW: "世界任務「『烈度』有用嗎？」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7824,6 +8782,8 @@ export default [
     zhCN: "尤鲁赫",
     zhTW: "尤魯赫",
     notes: "世界任務「烈力は役に立つ？」に登場する人物",
+    notesZh: "世界任务「『烈度』，有用吗」中的登场角色。",
+    notesZhTW: "世界任務「『烈度』有用嗎？」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7832,6 +8792,8 @@ export default [
     zhCN: "莉娜夏",
     zhTW: "莉娜夏",
     notes: "世界任務「烈力は役に立つ？」に登場する人物",
+    notesZh: "世界任务「『烈度』，有用吗」中的登场角色。",
+    notesZhTW: "世界任務「『烈度』有用嗎？」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7840,6 +8802,8 @@ export default [
     zhCN: "伊伊马尼",
     zhTW: "伊伊馬尼",
     notes: "世界任務「おお！偉大なる脂肪よ！」に登場する人物",
+    notesZh: "世界任务「哦！伟大的脂肪！」中的登场角色。",
+    notesZhTW: "世界任務「哦！偉大的脂肪！」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7848,6 +8812,8 @@ export default [
     zhCN: "苏里奎",
     zhTW: "蘇里奎",
     notes: "世界任務「おお！偉大なる脂肪よ！」に登場する人物",
+    notesZh: "世界任务「哦！伟大的脂肪！」中的登场角色。",
+    notesZhTW: "世界任務「哦！偉大的脂肪！」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7856,6 +8822,8 @@ export default [
     zhCN: "基莫西",
     zhTW: "基莫西",
     notes: "世界任務「拝山の道」に登場する人物",
+    notesZh: "世界任务「觐山之路」中的登场角色。",
+    notesZhTW: "世界任務「覲山之路」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7864,6 +8832,8 @@ export default [
     zhCN: "妮扎娅",
     zhTW: "妮扎婭",
     notes: "世界任務「拝山の道」に登場する人物",
+    notesZh: "世界任务「觐山之路」中的登场角色。",
+    notesZhTW: "世界任務「覲山之路」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7872,6 +8842,8 @@ export default [
     zhCN: "秘源龙仆",
     zhTW: "秘源龍僕",
     notes: "世界任務「冷灰と再燃の地」「破滅の予兆と最後の通牒」などに登場する機械龍。「エカトル」「アマル」「ククルカン」など、かつての龍の記憶の器",
+    notesZh: "世界任务「冷薪与重燃之地」、「毁灭预兆与最后的通牒」等中登场的机械龙。是厄卡特尔、阿玛鲁、库库尔坎等曾经的龙的记忆容器。",
+    notesZhTW: "世界任務「冷薪與重燃之地」、「毀滅預兆與最後的通牒」等中登場的機械龍。是厄卡特爾、阿瑪魯、庫庫爾坎等曾經的龍的記憶容器。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7880,6 +8852,8 @@ export default [
     zhCN: "厄卡特尔",
     zhTW: "厄卡特爾",
     notes: "世界任務「冷灰と再燃の地」に登場する竜",
+    notesZh: "世界任务「冷薪与重燃之地」中登场的龙。",
+    notesZhTW: "世界任務「冷薪與重燃之地」中登場的龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7888,6 +8862,8 @@ export default [
     zhCN: "阿玛鲁",
     zhTW: "阿瑪魯",
     notes: "世界任務「冷灰と再燃の地」に登場する竜",
+    notesZh: "世界任务「冷薪与重燃之地」中登场的龙。",
+    notesZhTW: "世界任務「冷薪與重燃之地」中登場的龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7896,6 +8872,8 @@ export default [
     zhCN: "修库特尔",
     zhTW: "修庫特爾",
     notes: "炎龍",
+    notesZh: "火之龙。",
+    notesZhTW: "火之龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7903,9 +8881,10 @@ export default [
     ja: "ククルカン",
     zhCN: "库库尔坎",
     zhTW: "庫庫爾坎",
-    notesEn: "True Name is \"Waxaklahun Ubah Kan\"",
+    notesEn: "True name of \"Waxaklahun Ubah Kan.\"",
     notes: "「ワシャクラフン・ウバ・カン」の本名",
-    notesZh: "「瓦萨克拉胡巴肯」的本名",
+    notesZh: "「瓦萨克拉胡巴肯」的本名。",
+    notesZhTW: "「瓦薩克拉胡巴肯」的本名。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7914,6 +8893,8 @@ export default [
     zhCN: "盗火贤者",
     zhTW: "盜火賢者",
     notes: "ククルカンの肩書き",
+    notesZh: "库库尔坎的称号。",
+    notesZhTW: "庫庫爾坎的稱號。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7922,6 +8903,8 @@ export default [
     zhCN: "阿尤",
     zhTW: "阿尤",
     notes: "カチーナが管理するテペトル仔竜",
+    notesZh: "卡齐娜管理的幼嵴锋龙。",
+    notesZhTW: "卡齊娜管理的幼嵴鋒龍。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7930,6 +8913,8 @@ export default [
     zhCN: "梅兹卡拉",
     zhTW: "梅茲卡拉",
     notes: "かつての「豊穣の邦」族長",
+    notesZh: "曾经的「沃陆之邦」首领。",
+    notesZhTW: "曾經的「沃陸之邦」首領。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7938,9 +8923,10 @@ export default [
     zhCN: "哥们",
     zhTW: "哥們",
     pronunciationJa: "きょうだい",
-    notesEn: "A term used by Ifa and Cacucu to refer to each other",
+    notesEn: "A term used by Ifa and Cacucu to refer to each other.",
     notes: "イファやカクークが日常生活で使う二人称の呼び方",
-    notesZh: "伊法和咔库库常用的二人称",
+    notesZh: "伊法和咔库库常用的第二人称。",
+    notesZhTW: "伊法和咔庫庫常用的第二人稱。",
     tags: [ "natlan", "how-to-call" ],
   },
   {
@@ -7948,9 +8934,10 @@ export default [
     ja: "トゥマイニ",
     zhCN: "杜麦尼",
     zhTW: "杜麥尼",
-    notesEn: "Ancient names given by Traveler",
+    notesEn: "The Ancient Name granted to the Traveler.",
     notes: "旅人に命名された古名",
-    notesZh: "旅行者被命名的古名",
+    notesZh: "旅行者获得的「古名」。",
+    notesZhTW: "旅行者獲得的「古名」。",
     tags: [ "natlan", "title" ],
   },
   {
@@ -7958,9 +8945,10 @@ export default [
     ja: "アグワラ",
     zhCN: "阿瓜拉",
     zhTW: "阿瓜拉",
-    notesEn: "A Tepetlisaur Whelp hatched from a dragon egg brought back from the world quest \"The Lone Isle Named Night\". Event reward that occurs when you visit a rest area entrance after the world quest \"Someday, We All Must Walk Alone\"",
+    notesEn: "A Tepetlisaur Whelp hatched from a dragon egg brought back from the World Quest \"The Lone Isle Named Night.\" Obtained when you visit the Rest Area Entrance after completion of the World Quest \"Someday, We All Must Walk Alone.\"",
     notes: "世界任務「夜という名の孤島」で持ち帰った竜の卵から生まれるテペトル仔竜。世界任務「独り立ちの日」後に休憩所の入り口を訪れると発生するイベント報酬",
-    notesZh: "从世界任务“名为夜的孤岛”带回的龙蛋孵化出的幼嵴锋龙。在世界任务“终有独行之日”结束后，前往歇息处的入口时可获得的活动奖励",
+    notesZh: "从世界任务「名为夜的孤岛」带回的龙蛋孵化出的幼嵴锋龙。在世界任务「终有独行之日」完成后，前往歇息处的入口可获得。",
+    notesZhTW: "從世界任務「名為夜的孤島」帶回的龍蛋孵化出的幼嵴鋒龍。在世界任務「終有獨行之日」完成後，前往歇息處的入口可獲得。",
     tags: [ "natlan", "character-sub", "item" ],
   },
   {
@@ -7969,6 +8957,8 @@ export default [
     zhCN: "苏图拉",
     zhTW: "蘇圖拉",
     notes: "魔神任務「あなたのいる時空」に登場する人物",
+    notesZh: "魔神任务 第五章·第六幕「你存在的时空」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第六幕「你存在的時空」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
   {
@@ -7977,6 +8967,8 @@ export default [
     zhCN: "坎塔鲁",
     zhTW: "坎塔魯",
     notes: "魔神任務「あなたのいる時空」に登場する人物",
+    notesZh: "魔神任务 第五章·第六幕「你存在的时空」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第六幕「你存在的時空」中的登場角色。",
     tags: [ "natlan", "character-sub" ],
   },
 
@@ -7989,6 +8981,8 @@ export default [
     zhCN: "雪国的妖精",
     zhTW: "雪國的妖精",
     notes: "期間限定Webイベント「空月の歌」の情報",
+    notesZh: "限时网页活动「空月之歌」中的信息。",
+    notesZhTW: "限時網頁活動「空月之歌」中的資訊。",
     pronunciationJa: "ゆきぐにのようせい",
     tags: [ "nodkrai", "character-sub" ],
   },
@@ -8017,7 +9011,8 @@ export default [
     zhTW: "冰之女皇",
     pronunciationJa: "こおりのじょこう",
     notes: "原義はロシアなどにおける女王や王妃に対する尊称。ツァーリ (Tsar) の女性形。",
-    notesZh: "原义是指俄罗斯等国的女王或王妃的尊称。女性形式的“帝王”（Tsar）。",
+    notesZh: "「Tsaritsa」为俄文中对女王或王妃的尊称，「Tsar」（沙皇）的阴性形式。",
+    notesZhTW: "「Tsaritsa」為俄文中對女王或王妃的尊稱，「Tsar」（沙皇）的陰性形式。",
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
@@ -8036,9 +9031,10 @@ export default [
     ja: "ツァーリ・ベルーイ",
     zhCN: "白沙皇",
     zhTW: "白沙皇",
+    notesEn: "The first Cryo Archon.",
     notes: "初代氷神。期間限定Webイベント「空月の歌」の情報",
-    notesEn: "first Cryo Archon",
-    notesZh: "初代冰神",
+    notesZh: "初代冰神。限时网页活动「空月之歌」中的信息。",
+    notesZhTW: "初代冰神。限時網頁活動「空月之歌」中的資訊。",
     tags: [ "snezhnaya", "character-sub" ],
   },
 
@@ -8053,7 +9049,8 @@ export default [
     // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
     tags: [ "fatui", "snezhnaya", "liyue", "inazuma", "fontaine", "character-main", "enemy-boss" ],
     notes: "公子の通称",
-    notesZh: "公子的通称",
+    notesZh: "冰之女皇给「公子」的赐名。",
+    notesZhTW: "冰之女皇給「公子」的賜名。",
     variants: {
       ja: [ "タルタリア", "タルタル" ],
     },
@@ -8066,7 +9063,8 @@ export default [
     pronunciationJa: "こうし",
     notes: "タルタリヤのコードネーム。英語圏では Tartaglia よりも Childe と呼ばれることが多い印象。",
     notesEn: "Tartaglia's codename.",
-    notesZh: "达达利亚的代号。英语圈中，Childe 比 Tartaglia 更常见。",
+    notesZh: "达达利亚的代号。早期英文本地化不爱使用代号称呼愚人众执行官，「公子」是例外。",
+    notesZhTW: "達達利亞的代號。早期英文在地化不愛使用代號稱呼愚人眾執行官，「公子」是例外。",
     // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
     tags: [ "fatui", "snezhnaya", "liyue", "inazuma", "fontaine", "character-main", "title", "how-to-call", "enemy-boss" ],
   },
@@ -8076,7 +9074,9 @@ export default [
     zhCN: "阿贾克斯",
     zhTW: "阿賈克斯",
     notes: "公子タルタリヤの本名",
-    notesEn: "Childe's autonym.",
+    notesEn: "Childe's original name.",
+    notesZh: "「公子」达达利亚的本名。",
+    notesZhTW: "「公子」達達利亞的本名。",
     // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
     tags: [ "fatui", "snezhnaya", "liyue", "character-main", "enemy-boss" ],
   },
@@ -8087,7 +9087,8 @@ export default [
     zhTW: "夥伴 / 搭檔",
     notes: "タルタリヤ、鹿野院平蔵、ナヴィアの旅人に対する呼び方。英語版では、タルタリヤは comrade と、鹿野院平蔵とナヴィアは partner と呼ぶ。中国語版では、タルタリヤは「伙伴」と、鹿野院平蔵とナヴィアは「搭档」と呼ぶ",
     notesEn: "Childe, Shikanoin Heizou, and Navia call Traveler so. While Childe calls them \"comrade\" and Shikanoin Heizou and Navia calls them \"partner\" in English version, Childe calls them 伙伴 and Shikanoin Heizou and Navia calls them 搭档 in Chinese. In Japanese version, all three calls them 相棒.",
-    notesZh: "公子、鹿野院平藏和娜维娅称呼旅行者的方式。在中文中，公子称呼旅行者为“伙伴”，但是鹿野院平藏和娜维娅称呼旅行者为“搭档”。在英文中，公子称呼旅行者为“comrade”，但是鹿野院平藏和娜维娅称呼旅行者为“partner”。在日语中，他们三人都称呼旅行者为“相棒“。",
+    notesZh: "在日文版中，「公子」、鹿野院平藏和娜维娅都以「相棒」称呼旅行者。在中文版中，「公子」称呼旅行者为「伙伴」，而鹿野院平藏和娜维娅称呼旅行者为「搭档」。在英文版中，「公子」称呼旅行者为「comrade」（同志），而鹿野院平藏和娜维娅称呼旅行者为「partner」。",
+    notesZhTW: "在日文版中，「公子」、鹿野院平藏和娜維婭都以「相棒」稱呼旅行者。在中文版中，「公子」稱呼旅行者為「伙伴」，而鹿野院平藏和娜維婭稱呼旅行者為「搭檔」。在英文版中，「公子」稱呼旅行者為「comrade」（同志），而鹿野院平藏和娜維婭稱呼旅行者為「partner」。",
     // Since Tartaglia is from Snezhnaya, I added both `fatui` and `snazhnaya` tag.
     tags: [ "fatui", "snezhnaya", "liyue", "inazuma", "fontaine", "how-to-call" ],
     examples: [
@@ -8118,17 +9119,19 @@ export default [
     zhTW: "絲柯克",
     tags: [ "fontaine", "character-sub" ],
     notes: "タルタリヤの師匠",
-    notesZh: "达达利亚的师傅",
+    notesZh: "达达利亚的师父。",
+    notesZhTW: "達達利亞的師父。",
   },
   {
-    en: "La Signora",
+    en: "The Fair Lady / La Signora",
     ja: "淑女 / シニョーラ",
-    zhCN: "女士",
-    zhTW: "女士",
+    zhCN: "女士 / 席诺拉",
+    zhTW: "女士 / 席諾拉",
     pronunciationJa: "しゅくじょ / シニョーラ",
     tags: [ "fatui", "mondstadt", "liyue", "inazuma", "enemy-boss", "character-sub" ],
     notes: "単に \"Signora\" と、イタリア語の定冠詞 \"La\" を省略して呼ばれることも多い。「淑女」の訳として \"The Fair Lady\" が当てられているように見える箇所もあるが、一般に他のキャラクターから「淑女」と呼ばれる際は、英語版では \"Signora\" と呼ばれており、また「シニョーラ」とコードネーム「淑女」の区別もないものとして扱われているため、ここでは「淑女」の訳として \"Signora\" を当てた。",
-    notesZh: "单纯使用 \"Signora\" 而护士意大利语的定冠词 \"La\" 的情况也很常见。一般其他的角色称呼「女士」的时候，英语版中常常直接使用 \"Signora\" 称呼。日语中使用汉字或片假名的情况都有，两者并无区别。",
+    notesZh: "在英文版中，略去意大利语定冠词「La」的情况也很常见。中文版中称呼「女士」的时候，英文版中常常直接使用「Signora」称呼。日文版中使用汉字或片假名的情况都有，两者并无区别。",
+    notesZhTW: "在英文版中，略去義大利語定冠詞「La」的情況也很常見。中文版中稱呼「女士」的時候，英文版中常常直接使用「Signora」稱呼。日文版中使用漢字或片假名的情況都有，兩者並無區別。",
     examples: [{
       en: "Her name is Signora, No. 8 of the harbingers.",
       ja: "彼女は 『シニョーラ』 ― ファデュイ十一人の執行官の第8位、コードネーム『淑女』 だよ。",
@@ -8142,6 +9145,10 @@ export default [
     ja: "ロザリン・クルーズチカ・ローエファルタ",
     zhCN: "罗莎琳·克鲁兹希卡·洛厄法特",
     zhTW: "羅莎琳·克魯茲希卡·洛厄法特",
+    notesEn: "La Signora's real name.",
+    notes: "淑女の本名",
+    notesZh: "「女士」的本名。",
+    notesZhTW: "「女士」的本名。",
     tags: [ "fatui", "mondstadt", "liyue", "inazuma", "enemy-boss", "character-sub" ],
   },
   {
@@ -8150,6 +9157,9 @@ export default [
     zhCN: "焚尽的炽炎魔女",
     zhTW: "焚盡的熾炎魔女",
     pronunciationJa: "ふんじんのしゃくえんまじょ",
+    notes: "淑女の称号",
+    notesZh: "「女士」的称号。",
+    notesZhTW: "「女士」的稱號。",
     tags: [ "fatui", "inazuma", "enemy-boss", "title" ],
   },
   {
@@ -8166,7 +9176,8 @@ export default [
     zhCN: "斯卡拉姆齐",
     zhTW: "斯卡拉姆齊",
     notes: "英語での発音は「スカラムーシュ」。([出典動画](https://youtu.be/TmaAOV4SJNQ?t=122)) 中国のプレイヤーの間では「スカラマシュ」(斯卡拉姆齐) よりも「散兵」の名で呼ばれることが多い。",
-    notesZh: "中国的玩家往往称呼「散兵」，而英语和日语的玩家常常使用「斯卡拉姆齐」称呼。",
+    notesZh: "冰之女皇给「散兵」的赐名。早期英文本地化不爱使用代号称呼愚人众执行官，而是以「Scaramouche」称呼；后来 v2.1 起主线剧情中一律改称「Balladeer」，与中文版「散兵」对应。",
+    notesZhTW: "冰之女皇給「散兵」的賜名。早期英文在地化不愛使用代號稱呼愚人眾執行官，而是以「Scaramouche」稱呼；後來 v2.1 起主線劇情中一律改稱「Balladeer」，與中文版「散兵」對應。",
     tags: [ "fatui", "inazuma", "sumeru", "character-main", "enemy-boss" ],
   },
   {
@@ -8176,7 +9187,8 @@ export default [
     zhTW: "散兵",
     pronunciationJa: "ざんひょう",
     notes: "中国のプレイヤーの間では「スカラマシュ」(斯卡拉姆齐) よりも「散兵」の名で呼ばれることが多い。",
-    notesZh: "中国的玩家往往称呼「散兵」，而英语和日语的玩家常常使用「斯卡拉姆齐」称呼。",
+    notesZh: "斯卡拉姆齐的代号。早期英文本地化不爱使用代号称呼愚人众执行官，而是以「Scaramouche」称呼；后来 v2.1 起主线剧情中一律改称「Balladeer」，与中文版「散兵」对应。",
+    notesZhTW: "斯卡拉姆齊的代號。早期英文在地化不愛使用代號稱呼愚人眾執行官，而是以「Scaramouche」稱呼；後來 v2.1 起主線劇情中一律改稱「Balladeer」，與中文版「散兵」對應。",
     tags: [ "fatui", "inazuma", "sumeru", "character-main", "title", "enemy-boss" ],
   },
   {
@@ -8185,6 +9197,10 @@ export default [
     zhCN: "国崩",
     zhTW: "國崩",
     pronunciationJa: "くにくずし",
+    notes: "スカラマシュの本名",
+    notesEn: "Scaramouche's self-given original name.",
+    notesZh: "「散兵」斯卡拉姆齐的本名。",
+    notesZhTW: "「散兵」斯卡拉姆齊的本名。",
     tags: [ "fatui", "inazuma", "sumeru", "character-main", "title", "enemy-boss" ],
   },
   {
@@ -8229,16 +9245,18 @@ export default [
     pronunciationJa: "ふしゃ",
     notes: "パンタローネのコードネーム",
     notesEn: "Pantalone's codename.",
-    notesZh: "潘塔罗涅的代号",
+    notesZh: "潘塔罗涅的代号。",
+    notesZhTW: "潘塔羅涅的代號。",
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
     en: "Il Dottore",
     ja: "ドットーレ",
     zhCN: "多托雷",
-    zhTW: "多託雷",
+    zhTW: "多托雷",
     notes: "博士の通称。英語版でも、イタリア語の定冠詞 Il を省略して呼ばれることがある。英語の Il は大文字の i と小文字の L であり、Ⅱ (ローマ数字の2) や ii、LL などではないことに注意",
-    notesZh: "博士的通称。英语版也有省略意大利语定冠词 Il 的情况。",
+    notesZh: "冰之女皇给「博士」的赐名。英文版中常省略意大利文定冠词「Il」。",
+    notesZhTW: "冰之女皇給「博士」的賜名。英文版中常省略義大利文定冠詞「Il」。",
     tags: [ "fatui", "sumeru", "character-sub" ],
     variants: {
       en: [
@@ -8258,7 +9276,8 @@ export default [
     pronunciationJa: "はかせ", // Source: https://twitter.com/Genshin_7/status/1546348419945361411
     notes: "ドットーレのコードネーム",
     notesEn: "Il Dottore's codename.",
-    notesZh: "多托雷的代号",
+    notesZh: "多托雷的代号。",
+    notesZhTW: "多托雷的代號。",
     tags: [ "fatui", "sumeru", "character-sub", "title" ],
     variants: {
       ja: [ "はくし" ],
@@ -8270,7 +9289,8 @@ export default [
     zhCN: "普契涅拉",
     zhTW: "普契涅拉",
     notes: "雄鶏の通称",
-    notesZh: "公鸡的通称",
+    notesZh: "冰之女皇给「公鸡」的赐名。",
+    notesZhTW: "冰之女皇給「公雞」的賜名。",
     tags: [ "fatui", "character-sub" ],
   },
   {
@@ -8281,7 +9301,8 @@ export default [
     zhTW: "公雞",
     notes: "プルチネッラのコードネーム",
     notesEn: "Pulcinella's codename.",
-    notesZh: "普契涅拉的代号",
+    notesZh: "普契涅拉的代号。",
+    notesZhTW: "普契涅拉的代號。",
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
@@ -8290,7 +9311,8 @@ export default [
     zhCN: "卡皮塔诺",
     zhTW: "卡皮塔諾",
     notes: "隊長の通称。英語の Il は大文字の i と小文字の L であり、Ⅱ (ローマ数字の2) や ii、LL などではないことに注意",
-    notesZh: "队长的通称",
+    notesZh: "冰之女皇给「队长」的赐名。英文版中常省略意大利文定冠词「Il」。",
+    notesZhTW: "冰之女皇給「隊長」的賜名。英文版中常省略義大利文定冠詞「Il」。",
     tags: [ "fatui", "natlan", "khaenriah", "character-sub" ],
     variants: {
       en: [
@@ -8310,7 +9332,8 @@ export default [
     pronunciationJa: "たいちょう",
     notes: "カピターノのコードネーム",
     notesEn: "Il Capitano's codename.",
-    notesZh: "卡皮塔诺的代号",
+    notesZh: "卡皮塔诺的代号。",
+    notesZhTW: "卡皮塔諾的代號。",
     tags: [ "fatui", "natlan", "khaenriah", "character-sub", "title" ],
   },
   {
@@ -8319,6 +9342,8 @@ export default [
     zhCN: "瑟雷恩",
     zhTW: "瑟雷恩",
     notes: "隊長・カピターノのカーンルイア時代の本名",
+    notesZh: "「队长」卡皮塔诺的本名。",
+    notesZhTW: "「隊長」卡皮塔諾的本名。",
     tags: [ "fatui", "natlan", "khaenriah", "character-sub" ],
   },
   {
@@ -8327,7 +9352,8 @@ export default [
     zhCN: "哥伦比娅",
     zhTW: "哥倫比婭",
     notes: "少女の通称",
-    notesZh: "少女的通称",
+    notesZh: "冰之女皇给「少女」的赐名。",
+    notesZhTW: "冰之女皇給「少女」的賜名。",
     tags: [ "fatui", "character-sub" ],
   },
   {
@@ -8338,7 +9364,8 @@ export default [
     pronunciationJa: "しょうじょ",
     notes: "コロンビーナのコードネーム",
     notesEn: "Columbina's codename.",
-    notesZh: "哥伦比娅的代号",
+    notesZh: "哥伦比娅的代号。",
+    notesZhTW: "哥倫比婭的代號。",
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
@@ -8347,7 +9374,8 @@ export default [
     zhCN: "阿蕾奇诺",
     zhTW: "阿蕾奇諾",
     notes: "召使の通称",
-    notesZh: "仆人的通称",
+    notesZh: "冰之女皇给「仆人」的赐名。",
+    notesZhTW: "冰之女皇給「僕人」的賜名。",
     tags: [ "fatui", "fontaine", "character-main", "enemy-boss" ],
   },
   {
@@ -8358,7 +9386,8 @@ export default [
     pronunciationJa: "めしつかい",
     notes: "アルレッキーノのコードネーム",
     notesEn: "Arlecchino's codename.",
-    notesZh: "阿蕾奇诺的代号",
+    notesZh: "阿蕾奇诺的代号。",
+    notesZhTW: "阿蕾奇諾的代號。",
     tags: [ "fatui", "fontaine", "character-main", "enemy-boss", "title" ],
   },
   {
@@ -8367,7 +9396,8 @@ export default [
     zhCN: "桑多涅",
     zhTW: "桑多涅",
     notes: "傀儡の通称",
-    notesZh: "木偶的通称",
+    notesZh: "冰之女皇给「木偶」的赐名。",
+    notesZhTW: "冰之女皇給「木偶」的賜名。",
     tags: [ "fatui", "character-sub" ],
   },
   {
@@ -8378,7 +9408,8 @@ export default [
     pronunciationJa: "かいらい",
     notes: "サンドローネのコードネーム",
     notesEn: "Sandrone's codename.",
-    notesZh: "桑多涅的代号",
+    notesZh: "桑多涅的代号。",
+    notesZhTW: "桑多涅的代號。",
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
@@ -8387,7 +9418,8 @@ export default [
     zhCN: "皮耶罗",
     zhTW: "皮耶羅",
     notes: "道化の通称。以前はペドロリーノという名前だったが変更されたという情報もある",
-    notesZh: "丑角的通称。",
+    notesZh: "冰之女皇给「丑角」的赐名。有传言说他的赐名原先拼写作「Pedrolino」，但后来被改为「Pierro」。",
+    notesZhTW: "冰之女皇給「丑角」的賜名。有傳言說他的賜名原先拼寫作「Pedrolino」，但後來被改為「Pierro」。",
     tags: [ "fatui", "character-sub" ],
     variants: {
       ja: [ "ペドロリーノ" ],
@@ -8402,7 +9434,8 @@ export default [
     pronunciationJa: "どうけ",
     notes: "ピエロのコードネーム",
     notesEn: "Pierro's codename.",
-    notesZh: "皮耶罗的代号",
+    notesZh: "皮耶罗的代号。",
+    notesZhTW: "皮耶羅的代號。",
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
@@ -8411,8 +9444,9 @@ export default [
     zhCN: "雪奈茨芙娜",
     zhTW: "雪奈茨芙娜",
     tags: [ "fatui" ],
-    notes: "召使の孤児院出身の女性が名乗る姓",
-    notesZh: "仆人的孤儿院出身的女性所用的姓",
+    notes: "召使の孤児院「壁炉の家」出身の女性が名乗る姓",
+    notesZh: "「仆人」的孤儿院「壁炉之家」出身的女性所冠的姓。",
+    notesZhTW: "「僕人」的孤兒院「壁爐之家」出身的女性所冠的姓。",
   },
   {
     en: "Snezhevich",
@@ -8420,8 +9454,9 @@ export default [
     zhCN: "雪奈茨维奇",
     zhTW: "雪奈茨維奇",
     tags: [ "fatui" ],
-    notes: "召使の孤児院出身の男性が名乗る姓",
-    notesZh: "仆人的孤儿院出身的男性所用的姓",
+    notes: "召使の孤児院「壁炉の家」出身の男性が名乗る姓",
+    notesZh: "「仆人」的孤儿院「壁炉之家」出身的男性所冠的姓。",
+    notesZhTW: "「僕人」的孤兒院「壁爐之家」出身的男性所冠的姓。",
   },
 
   //
@@ -8439,8 +9474,10 @@ export default [
     ja: "ダイン",
     zhCN: "戴因",
     zhTW: "戴因",
+    notesEn: "Abbreviation of Dainsleif.",
     notes: "ダインスレイヴ (Dainsleif) の呼び名",
-    notesZh: "戴因斯雷布 (Dainsleif) 的称呼",
+    notesZh: "戴因斯雷布 (Dainsleif) 的简称。",
+    notesZhTW: "戴因斯雷布 (Dainsleif) 的簡稱。",
     tags: [ "khaenriah", "how-to-call" ],
   },
   {
@@ -8448,9 +9485,10 @@ export default [
     ja: "枝を拾う者",
     zhCN: "拾枝者",
     zhTW: "拾枝者",
-    notesEn: "Dainsleif's current title",
+    notesEn: "Dainsleif's current title.",
     notes: "ダインスレイヴの現在の称号",
-    notesZh: "戴因斯雷布的现在的称号",
+    notesZh: "戴因斯雷布现在的称号。",
+    notesZhTW: "戴因斯雷布現在的稱號。",
     tags: [ "khaenriah", "title" ],
   },
   {
@@ -8459,9 +9497,10 @@ export default [
     zhCN: "末光之剑",
     zhTW: "末光之劍",
     pronunciationJa: "まっこうのつるぎ",
-    notesEn: "Dainsleif's former title",
+    notesEn: "Dainsleif's former title。",
     notes: "ダインスレイヴのかつての称号",
-    notesZh: "戴因斯雷布的曾经的称号",
+    notesZh: "戴因斯雷布曾经的称号。",
+    notesZhTW: "戴因斯雷布曾經的稱號。",
     tags: [ "khaenriah", "title" ],
   },
 
@@ -8496,6 +9535,8 @@ export default [
     zhTW: "海洛塔帝",
     tags: [ "khaenriah", "character-sub" ],
     notes: "賢者の俗名を持つ。カーンルイアの五大罪人のひとり",
+    notesZh: "「贤者」的本名。坎瑞亚的五大罪人之一。",
+    notesZhTW: "「賢者」的本名。坎瑞亞的五大罪人之一。",
   },
   {
     en: "Vedrfolnir",
@@ -8504,6 +9545,8 @@ export default [
     zhTW: "維瑟弗尼爾",
     tags: [ "khaenriah", "character-sub" ],
     notes: "予言者の俗名を持つ。カーンルイアの五大罪人のひとり。ダインスレイヴの兄",
+    notesZh: "「预言家」的本名。坎瑞亚的五大罪人之一。戴因斯雷布的哥哥。",
+    notesZhTW: "「預言家」的本名。坎瑞亞的五大罪人之一。戴因斯雷布的哥哥。",
   },
   {
     en: "Surtalogi",
@@ -8512,6 +9555,8 @@ export default [
     zhTW: "蘇爾特洛奇",
     tags: [ "khaenriah", "fontaine", "character-sub" ],
     notes: "極悪騎の俗名を持つ。カーンルイアの五大罪人のひとり。スカークの師匠",
+    notesZh: "「极恶骑」的本名。坎瑞亚的五大罪人之一。丝柯克的师父。",
+    notesZhTW: "「極惡騎」的本名。坎瑞亞的五大罪人之一。絲柯克的師父。",
   },
   {
     en: "Rerir",
@@ -8520,33 +9565,41 @@ export default [
     zhTW: "雷利爾",
     tags: [ "khaenriah", "character-sub" ],
     notes: "月の狩人の俗名を持つ。カーンルイアの五大罪人のひとり",
+    notesZh: "「猎月人」的本名。坎瑞亚的五大罪人之一。",
+    notesZhTW: "「獵月人」的本名。坎瑞亞的五大罪人之一。",
   },
   {
     en: "The Wise",
     ja: "賢者(俗名)",
-    zhCN: "贤者(俗名)",
-    zhTW: "賢者(俗名)",
+    zhCN: "贤者(称号)",
+    zhTW: "賢者(稱號)",
     pronunciationJa: "けんじゃ",
     tags: [ "khaenriah", "character-sub" ],
     notes: "フロプタチュールの俗名。カーンルイアの五大罪人のひとり",
+    notesZh: "海洛塔帝的称号。坎瑞亚的五大罪人之一。",
+    notesZhTW: "海洛塔帝的稱號。坎瑞亞的五大罪人之一。",
   },
   {
     en: "The Visionary",
     ja: "予言者(俗名)",
-    zhCN: "预言家(俗名)",
-    zhTW: "預言家(俗名)",
+    zhCN: "预言家(称号)",
+    zhTW: "預言家(稱號)",
     pronunciationJa: "よげんしゃ",
     tags: [ "khaenriah", "character-sub" ],
     notes: "ヴェズルフェルニルの俗名。カーンルイアの五大罪人のひとり。ダインスレイヴの兄",
+    notesZh: "维瑟弗尼尔的称号。坎瑞亚的五大罪人之一。戴因斯雷布的哥哥。",
+    notesZhTW: "維瑟弗尼爾的稱號。坎瑞亞的五大罪人之一。戴因斯雷布的哥哥。",
   },
   {
     en: "Gold",
     ja: "黄金(俗名)",
-    zhCN: "黄金(俗名)",
-    zhTW: "黃金(俗名)",
+    zhCN: "黄金(称号)",
+    zhTW: "黃金(稱號)",
     pronunciationJa: "おうごん",
     tags: [ "mondstadt", "khaenriah", "character-sub" ],
     notes: "レインドットの俗名。カーンルイアの五大罪人のひとり。アルベドの創造者。魔女会・コードR",
+    notesZh: "莱茵多特的称号。坎瑞亚的五大罪人之一。阿贝多的创造者。魔女会代号 R。",
+    notesZhTW: "萊茵多特的稱號。坎瑞亞的五大罪人之一。阿貝多的創造者。魔女會代號 R。",
   },
   {
     en: "The Foul",
@@ -8556,6 +9609,8 @@ export default [
     pronunciationJa: "ごくあくき",
     tags: [ "khaenriah", "fontaine", "character-sub" ],
     notes: "スルトロッチの俗名。カーンルイアの五大罪人のひとり。スカークの師匠",
+    notesZh: "苏尔特洛奇的称号。坎瑞亚的五大罪人之一。丝柯克的师父。",
+    notesZhTW: "蘇爾特洛奇的稱號。坎瑞亞的五大罪人之一。絲柯克的師父。",
   },
   {
     en: "Rächer of Solnari", // Not "a", but "ä" (with umlaut)
@@ -8565,6 +9620,8 @@ export default [
     pronunciationJa: "つきのかりゅうど",
     tags: [ "khaenriah", "character-sub" ],
     notes: "スルトロッチの俗名。カーンルイアの五大罪人のひとり",
+    notesZh: "雷利尔的称号。坎瑞亚的五大罪人之一。",
+    notesZhTW: "雷利爾的稱號。坎瑞亞的五大罪人之一。",
   },
   {
     en: "The Five Sinners of Khaenri'ah",
@@ -8574,6 +9631,8 @@ export default [
     pronunciationJa: "カーンルイアのごだいつみびと",
     tags: [ "khaenriah", "character-sub" ],
     notes: "カーンルイアを裏切った5人の罪人の通称",
+    notesZh: "背叛坎瑞亚的 5 位罪人的通称。",
+    notesZhTW: "背叛坎瑞亞的 5 位罪人的通稱。",
   },
   {
     en: "Skofnungr",
@@ -8582,6 +9641,8 @@ export default [
     zhTW: "斯克弗努格",
     tags: [ "khaenriah", "character-sub" ],
     notes: "伝説任務「クリスタリナの章」に登場する人物",
+    notesZh: "丝柯克的传说任务 磷星之章·第一幕「星与夜的低语」中的登场角色。",
+    notesZhTW: "絲柯克的傳說任務 磷星之章·第一幕「星與夜的低語」中的登場角色。",
   },
   {
     en: "Direidyth",
@@ -8590,6 +9651,8 @@ export default [
     zhTW: "蒂萊爾",
     tags: [ "khaenriah", "natlan", "character-sub" ],
     notes: "魔神任務「あなたのいる時空」に登場する人物",
+    notesZh: "魔神任务 第五章·第六幕「你存在的时空」中的登场角色。",
+    notesZhTW: "魔神任務 第五章·第六幕「你存在的時空」中的登場角色。",
   },
   {
     en: "Haden",
@@ -8598,5 +9661,7 @@ export default [
     zhTW: "哈登",
     tags: [ "khaenriah", "natlan", "character-sub" ],
     notes: "魔神任務「あなたのいる時空」に登場するアビスの使徒",
+    notesZh: "魔神任务 第五章·第六幕「你存在的时空」中的登场角色，深渊咏者。",
+    notesZhTW: "魔神任務 第五章·第六幕「你存在的時空」中的登場角色，深淵詠者。",
   },
 ] as const satisfies SourceWord[];
