@@ -4114,6 +4114,15 @@ export default [
     notes: "v1.4 期間限定イベント「風花祭」で獲得できる楽器",
     tags: [ "mondstadt", "event", "item" ],
   },
+  {
+    en: "Endora",
+    ja: "エンドラー",
+    zhCN: "嫣朵拉",
+    zhTW: "嫣朵拉",
+    tags: [ "character-sub", "item" ],
+    pinyins: [{ char: "嫣", pron: "yan1" }],
+    zhuyins: [{ char: "嫣", pron: "ㄧㄢ" }],
+  },
 
   //
   // v1.3
