@@ -3102,7 +3102,7 @@ export default [
     zhTW: "宮地",
     pronunciationJa: "みやじ",
     tags: [ "inazuma", "character-sub" ],
-    notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳",
+    notes: "世界任務「三色の帳面」に登場するキャラクター。英語名は Miyaji の誤訳と思われる",
     notesZh: "世界任务「三色档案」中的登场角色。英文版错将「宮地」（Miyaji）译成了「Michiya」。",
     notesZhTW: "世界任務「三色檔案」中的登場角色。英文版錯將「宮地」（Miyaji）譯成了「Michiya」。",
   },
