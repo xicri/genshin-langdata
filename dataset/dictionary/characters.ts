@@ -65,8 +65,8 @@ export default [
     pronunciationJa: "そらとぶちびすけ",
     tags: [ "title" ],
     notes: "荒瀧一斗がパイモンに付けたあだ名。Lavender Melon はスミレウリのこと。直訳すると「空飛ぶスミレウリ」",
-    notesZh: "荒泷一斗给派蒙起的绰号。日文「ぶチビ助」意思是「小不点」。",
-    notesZhTW: "荒瀧一斗給派蒙起的綽號。日文「ぶチビ助」意思是「小不點」。",
+    notesZh: "荒泷一斗给派蒙起的绰号。日文「チビ助」意思是「小不点」。",
+    notesZhTW: "荒瀧一斗給派蒙起的綽號。日文「チビ助」意思是「小不點」。",
   },
   {
     en: "Katheryne",
