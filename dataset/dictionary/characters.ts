@@ -324,7 +324,7 @@ export default [
     ja: "断罪の皇女",
     zhCN: "断罪之皇女",
     zhTW: "斷罪之皇女",
-    notes: "英語ではなくドイツ語",
+    notes: "英語版では英語ではなくドイツ語が用いられている",
     notesZh: "「Prinzessin der Verurteilung」是德文。",
     notesZhTW: "「Prinzessin der Verurteilung」是德文。",
     tags: [ "mondstadt", "title" ],
