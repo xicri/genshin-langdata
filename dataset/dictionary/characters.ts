@@ -1247,7 +1247,7 @@ export default [
     zhTW: "鍾離先生",
     pronunciationJa: "しょうりせんせい / しょうりさん",
     tags: [ "liyue", "how-to-call" ],
-    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。香菱などは、英語版では Mr. Zhongli、日本語では「鍾離さん」と呼ぶ。(鍾離のエピソード動画「想定外の支出」など [日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80))",
+    notes: "日本語版では「鍾離先生」と呼んでいるシーンでも、英語版では Mr. なしで \"Zhongli\" と呼んでいる箇所もあり、必ずしも常に Mr. が付いているわけでもない。例えば香菱などは、英語版では Mr. Zhongli、日本語では「鍾離さん」と呼ぶ。(鍾離のエピソード動画「想定外の支出」など [日本語](https://youtu.be/5slzVViNrtA?t=79) / [英語](https://youtu.be/CvCzYbVei04?t=80))",
     notesZh: "在日文版中，即使是称呼「钟离先生」的场景，英文版有时也会直接称呼「Zhongli」，并不总是带有「Mr.」。例如香菱在英文版中称呼为「Mr. Zhongli」，而在日文版中则称呼为「鍾離さん」。（参考钟离角色PV「额外的记账」：[日文版](https://youtu.be/5slzVViNrtA?t=79)、[英文版](https://youtu.be/CvCzYbVei04?t=80)。）",
     notesZhTW: "在日文版中，即使是稱呼「鍾離先生」的場景，英文版有時也會直接稱呼「Zhongli」，並不總是帶有「Mr.」。例如香菱在英文版中稱呼為「Mr. Zhongli」，而在日文版中則稱呼為「鍾離さん」。（參考鍾離角色PV「額外的記帳」：[日文版](https://youtu.be/5slzVViNrtA?t=79)、[英文版](https://youtu.be/CvCzYbVei04?t=80)。）",
   },
