@@ -1434,7 +1434,7 @@ export default [
     zhTW: "月桂",
     pronunciationJa: "ユェーグェイ",
     tags: [ "liyue", "object" ],
-    notes: "ヨォーヨの持っている人形",
+    notes: "ヨォーヨの持っている人形 (留雲借風真君が作ったからくり)",
     notesZh: "瑶瑶手中拿的布偶，留云借风真君打造的仙家法宝。",
     notesZhTW: "瑤瑤手中拿的布偶，留雲借風真君打造的仙家法寶。",
   },
