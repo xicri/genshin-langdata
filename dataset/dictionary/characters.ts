@@ -1637,7 +1637,7 @@ export default [
     zhCN: "若陀龙王",
     zhTW: "若陀龍王",
     pronunciationJa: "じゃくだりゅうおう",
-    notes: "読みは「エイジダハ」",
+    notes: "英語の発音は「エイジダハ」",
     notesZh: "英文「Azhdaha」开头的元音为闭口音「ei」。",
     notesZhTW: "英文「Azhdaha」開頭的元音為閉口音「ei」。",
     tags: [ "liyue", "character-sub", "enemy-boss" ],
