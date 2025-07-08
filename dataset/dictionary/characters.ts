@@ -810,7 +810,7 @@ export default [
     zhCN: "爱德琳",
     zhTW: "愛德琳",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "ラグヴィンド家のメイド長",
+    notes: "ラグヴィンド家 (ディルックの家) のメイド長",
     notesZh: "莱艮芬德家族（迪卢克的家族）的女仆长。",
     notesZhTW: "萊艮芬德家族（迪盧克的家族）的女僕長。",
   },
