@@ -2653,7 +2653,7 @@ export default [
     zhTW: "（對珊瑚宮心海或雷電將軍的尊稱）",
     tags: [ "inazuma", "how-to-call" ],
     notes: "自らの主君を指す言葉であり、単に \"Her Excellency\" のみ、または \"Her Excellency, Sangonomiya\" のように名前の前に付けて用いる。一般用語としては「閣下」と訳されることが多く、高貴な人物に対して [Her/His/Your] Excellency が用いられる。",
-    notesZh: "英文「Her Excellency」是对君主的代称，类似「陛下」。使用时加在名字前面，如「Her Excellency, Sangonomiya」。其他地位崇高的人物也可以称为「(Her/His/Your) Excellency」。",
+    notesZh: "英文「Her Excellency」意为「阁下」，是对地位崇高的人的敬称，使用时可单独使用，也可以加在名字前面，如「Her Excellency, Sangonomiya」。",
     notesZhTW: "英文「Her Excellency」是對君主的代稱，類似「陛下」。使用時加在名字前面，如「Her Excellency, Sangonomiya」。其他地位崇高的人物也可以稱為「(Her/His/Your) Excellency」。",
     examples: [
       {
