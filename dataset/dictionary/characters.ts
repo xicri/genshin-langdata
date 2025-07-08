@@ -10,7 +10,7 @@ export default [
     zhCN: "空",
     zhTW: "空",
     pronunciationJa: "そら",
-    notes: "男性主人公名。「Aether」の発音は「イーサー」。俗称として MC (Main Character の略) と呼ばれることもある。",
+    notes: "男性主人公名。英語版の \"Aether\" の発音は「イーサー」。俗称として MC (Main Character の略) と呼ばれることもある。",
     notesZh: "男主人公的名字。英文「Aether」为「以太」的意思。",
     notesZhTW: "男主角的名字。英文「Aether」為「以太」的意思。",
     tags: [ "character-main" ],
