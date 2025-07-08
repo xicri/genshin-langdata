@@ -142,8 +142,8 @@ export default [
     tags: [ "natlan", "title" ],
     notesEn: "Ronova's title",
     notes: "ロノヴァの称号",
-    notesZh: "若娜瓦的的称号。",
-    notesZhTW: "若娜瓦的的稱號。",
+    notesZh: "若娜瓦的称号。",
+    notesZhTW: "若娜瓦的稱號。",
   },
   {
     en: "Istaroth",
