@@ -923,7 +923,7 @@ export default [
     zhCN: "西蒙·佩奇",
     zhTW: "西蒙·佩奇",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "姓については表記揺れあり。英語版の発音は「シーマス・ペッグ」",
+    notes: "日本語版では姓について表記揺れがある。英語版の発音は「シーマス・ペッグ」",
     notesZh: "姓氏「Pegg」在日文中有两种写法。英文版姓氏曾作「Page」，但现在已改为「Pegg」。",
     notesZhTW: "姓氏「Pegg」在日文中有兩種寫法。英文版姓氏曾作「Page」，但現在已改為「Pegg」。",
   },
