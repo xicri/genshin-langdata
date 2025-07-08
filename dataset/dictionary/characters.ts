@@ -1663,7 +1663,7 @@ export default [
     zhTW: "馬科修斯",
     tags: [ "liyue", "title" ],
     notesEn: "Guoba's Goetic name.",
-    notes: "グゥオパァーのかつての名前",
+    notes: "グゥオパァーの魔神名",
     notesZh: "锅巴的魔神名。",
     notesZhTW: "鍋巴的魔神名。",
   },
