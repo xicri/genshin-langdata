@@ -18,8 +18,8 @@ importers:
         specifier: ^24.0.13
         version: 24.0.13
       dotenv:
-        specifier: ^16.5.0
-        version: 16.6.1
+        specifier: ^17.2.0
+        version: 17.2.0
       iconv-lite:
         specifier: ^0.6.3
         version: 0.6.3
@@ -767,8 +767,8 @@ packages:
     resolution: {integrity: sha512-3UDv+G9CsCKO1WKMGw9fwq/SWJYbI0c5Y7LU1AXYoDdbhE2AHQ6N6Nb34sG8Fj7T5APy8qXDCKuuIHd1BR0tVA==}
     engines: {node: '>=8'}
 
-  dotenv@16.6.1:
-    resolution: {integrity: sha512-uBq4egWHTcTt33a72vpSG0z3HnPuIl6NqYcTrKEg2azoEyl2hpW0zqlxysq2pK9HlDIHyHyakeYaYnSAwd8bow==}
+  dotenv@17.2.0:
+    resolution: {integrity: sha512-Q4sgBT60gzd0BB0lSyYD3xM4YxrXA9y4uBDof1JNYGzOXrQdQ6yX+7XIAqoFOGQFOTK1D3Hts5OllpxMDZFONQ==}
     engines: {node: '>=12'}
 
   error-stack-parser-es@1.0.5:
@@ -1587,7 +1587,7 @@ snapshots:
 
   detect-libc@2.0.4: {}
 
-  dotenv@16.6.1: {}
+  dotenv@17.2.0: {}
 
   error-stack-parser-es@1.0.5: {}
 
