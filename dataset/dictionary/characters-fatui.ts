@@ -76,16 +76,6 @@ export default [
     tags: [ "fatui", "snezhnaya", "liyue", "fontaine" ],
   },
   {
-    en: "Skirk",
-    ja: "スカーク",
-    zhCN: "丝柯克",
-    zhTW: "絲柯克",
-    tags: [ "fontaine", "character-sub" ],
-    notes: "タルタリヤの師匠",
-    notesZh: "达达利亚的师父。",
-    notesZhTW: "達達利亞的師父。",
-  },
-  {
     en: "The Fair Lady / La Signora",
     ja: "淑女 / シニョーラ",
     zhCN: "女士 / 席诺拉",

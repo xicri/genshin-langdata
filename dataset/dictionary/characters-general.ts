@@ -47,6 +47,17 @@ export default [
     tags: [ "mondstadt", "title", "how-to-call" ],
   },
 
+  {
+    en: "Skirk",
+    ja: "スカーク",
+    zhCN: "丝柯克",
+    zhTW: "絲柯克",
+    tags: [ "fontaine", "character-sub" ],
+    notes: "タルタリヤの師匠",
+    notesZh: "达达利亚的师父。",
+    notesZhTW: "達達利亞的師父。",
+  },
+
   //
   // General - Sub-Characters
   //
