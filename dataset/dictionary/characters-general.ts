@@ -52,7 +52,7 @@ export default [
     ja: "スカーク",
     zhCN: "丝柯克",
     zhTW: "絲柯克",
-    tags: [ "fontaine", "character-sub" ],
+    tags: [ "character-main" ],
     notes: "タルタリヤの師匠",
     notesZh: "达达利亚的师父。",
     notesZhTW: "達達利亞的師父。",
