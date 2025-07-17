@@ -858,7 +858,7 @@ export default [
     ja: "カリロエー",
     zhCN: "卡莉露",
     zhTW: "卡莉露",
-    tags: [ "mondstadt", "fontaine", "character-sub" ],
+    tags: [ "event", "mondstadt", "fontaine", "character-sub" ],
     notes: "v4.1 期間限定イベント「流れゆく水に詩を紡いで」に登場する純水精霊",
     notesZh: "v4.1 活动「游水酝诗籍」的纯水精灵。",
     notesZhTW: "v4.1 活動「遊水醞詩籍」的純水精靈。",
