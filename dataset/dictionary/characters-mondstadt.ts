@@ -864,6 +864,15 @@ export default [
     notesZhTW: "v4.1 活動「遊水醞詩籍」的純水精靈。",
   },
   {
+    en: "Orban",
+    ja: "ウルバン",
+    zhCN: "乌尔班",
+    zhTW: "烏爾班",
+    tags: [ "dragonspine", "character-sub" ],
+    notes: "ドラゴンスパイン入口の冒険者キャンプにいる鍛冶職人",
+    notesEn: "A Weaponsmith at the adventurers' camp at the Dragonspine entrance.",
+  },
+  {
     en: "Wolfy",
     ja: "子オオカミ",
     zhCN: "小狼",

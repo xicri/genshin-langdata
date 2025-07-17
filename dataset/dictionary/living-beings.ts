@@ -190,7 +190,13 @@ export default [
     zhTW: "流沙鰻鰻",
     tags: [ "living-being", "sumeru" ],
   },
-
+  {
+    en: "Bakunawa",
+    ja: "バクナワ",
+    zhCN: "巴窟纳瓦",
+    zhTW: "巴窟納瓦",
+    tags: [ "living-being" ],
+  },
 
   //
   // Liyue
