@@ -8,6 +8,8 @@ export default [
     zhTW: "向著星辰與深淵！",
     pronunciationJa: "ほしとしんえんをめざせ",
     notes: "英語ではなくラテン語らしい?",
+    notesZh: "英文版为拉丁语。",
+    notesZhTW: "英文版為拉丁語。",
     tags: [ "dialogue" ],
   },
   {
@@ -17,6 +19,8 @@ export default [
     zhTW: "前面的區域，以後再來探索吧！",
     pronunciationJa: "またあとでこよう、いまはほかをたんさくしよう!",
     notes: "未実装エリアに入った時にパイモンが言うセリフ",
+    notesZh: "进入未实装区域时派蒙说的话。",
+    notesZhTW: "進入未實裝區域時派蒙說的話。",
     tags: [ "dialogue" ],
   },
 
@@ -50,6 +54,8 @@ export default [
     zhCN: "这个如何？",
     zhTW: "這個如何？",
     notes: "ガイアの元素スキル発動時のセリフ",
+    notesZh: "凯亚发动元素战技时的台词。",
+    notesZhTW: "凱亞發動元素戰技時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -58,6 +64,8 @@ export default [
     zhCN: "冻结吧！",
     zhTW: "凍結吧！",
     notes: "ガイアの元素スキル発動時のセリフ",
+    notesZh: "凯亚发动元素战技时的台词。",
+    notesZhTW: "凱亞發動元素戰技時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -67,6 +75,8 @@ export default [
     zhTW: "小心著涼。",
     pronunciationJa: "かぜひくなよ",
     notes: "ガイアの元素爆発発動時のセリフ。英語版では風邪ではなく凍傷になるなよ、と言っている。",
+    notesZh: "凯亚发动元素爆发时的台词。英文版意思是「不要冻伤」。日文版意思是「不要感冒」。",
+    notesZhTW: "凱亞發動元素爆發時的台詞。英文版意思是「不要凍傷」。日文版意思是「不要感冒」。",
     tags: [ "dialogue" ],
   },
   {
@@ -75,6 +85,8 @@ export default [
     zhCN: "抱歉哦。",
     zhTW: "抱歉哦。",
     notes: "ガイアの元素爆発発動時のセリフ",
+    notesZh: "凯亚发动元素爆发时的台词。",
+    notesZhTW: "凱亞發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -84,6 +96,8 @@ export default [
     zhTW: "…這剎那，將是你的永恆。",
     pronunciationJa: "このしゅんかん、おまえはえいえんをてにする",
     notes: "ガイアの元素爆発発動時のセリフ",
+    notesZh: "凯亚发动元素爆发时的台词。",
+    notesZhTW: "凱亞發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -93,6 +107,8 @@ export default [
     zhTW: "真是急性子啊你。",
     pronunciationJa: "おまえってほんとうにせっかちだな",
     notes: "ガイアのダッシュ開始時のセリフ",
+    notesZh: "凯亚开始冲刺时的台词。",
+    notesZhTW: "凱亞開始衝刺時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -102,6 +118,8 @@ export default [
     zhTW: "還沒盡…興…",
     pronunciationJa: "おたのしみはこれから",
     notes: "ガイアの戦闘不能時のセリフ",
+    notesZh: "战斗中凯亚倒下时的台词。",
+    notesZhTW: "戰鬥中凱亞倒下時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -111,6 +129,8 @@ export default [
     zhTW: "哼，意料之外…",
     pronunciationJa: "フンッ、よそうがいだぜ…",
     notes: "ガイアの戦闘不能時のセリフ",
+    notesZh: "战斗中凯亚倒下时的台词。",
+    notesZhTW: "戰鬥中凱亞倒下時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -120,6 +140,8 @@ export default [
     zhTW: "岩石的重量令人安心",
     pronunciationJa: "いわのおもさはあんしんできます",
     notes: "ノエルの元素スキル発動時のセリフ。直訳は「石のように揺るぎない」。",
+    notesZh: "诺艾尔发动元素战技时的台词。英文版直译是「像石头一样稳重」。",
+    notesZhTW: "諾艾爾發動元素戰技時的台詞。英文版直譯是「像石頭一樣穩重」。",
     tags: [ "dialogue" ],
   },
   {
@@ -129,6 +151,8 @@ export default [
     zhTW: "攻守兼備",
     pronunciationJa: "こうしゅけんび",
     notes: "ディオナの元素スキル発動時のセリフ",
+    notesZh: "迪奥娜发动元素战技时的台词。",
+    notesZhTW: "迪奧娜發動元素戰技時的台詞。",
     tags: [ "dialogue" ],
     variants: {
       ja: [ "コーシュケッピー" ],
@@ -140,6 +164,8 @@ export default [
     zhCN: "审判！",
     zhTW: "審判！",
     notes: "ロサリアの元素爆発発動時のセリフ。日本語版のヴァーディクトは恐らく verdict で、裁判での陪審員の評決の意。",
+    notesZh: "罗莎莉亚发动元素爆发时的台词。日文版「ヴァーディクト (verdict)」指的是法庭中陪审团的判决。",
+    notesZhTW: "羅莎莉亞發動元素爆發時的台詞。日文版「ヴァーディクト (verdict)」指的是法庭中陪審團的判決。",
     tags: [ "dialogue" ],
   },
   {
@@ -149,6 +175,8 @@ export default [
     zhTW: "審判——喝啊！",
     pronunciationJa: "はんけつをくだす",
     notes: "ディルックの元素爆発発動時のセリフ。verdict は、裁判での陪審員の評決の意。",
+    notesZh: "迪卢克发动元素爆发时的台词。英文中「verdict」指的是法庭中陪审团的判决。",
+    notesZhTW: "迪盧克發動元素爆發時的台詞。英文中「verdict」指的是法庭中陪審團的判決。",
     tags: [ "dialogue" ],
   },
   {
@@ -158,6 +186,8 @@ export default [
     zhTW: "在此——宣判！",
     pronunciationJa: "さばきをうけよ",
     notes: "ディルックの元素爆発発動時のセリフ",
+    notesZh: "迪卢克发动元素爆发时的台词。",
+    notesZhTW: "迪盧克發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -167,6 +197,8 @@ export default [
     zhTW: "創生法·擬造陽華",
     pronunciationJa: "そうせいじゅつ・ぎじようか",
     notes: "アルベドの元素スキル名。発動時のセリフとしての「擬似陽華」は \"Come into being!\"",
+    notesZh: "阿贝多的元素战技名称。",
+    notesZhTW: "阿貝多的元素戰技名稱。",
   },
   {
     en: "Come into being!",
@@ -175,6 +207,8 @@ export default [
     zhTW: "擬造陽華",
     pronunciationJa: "ぎじようか",
     notes: "アルベドの元素スキル発動時のセリフ。スキル名としての「擬似陽華」は\"Solar Isotoma\"",
+    notesZh: "阿贝多发动元素战技时的台词。英文版意为「创生」。",
+    notesZhTW: "阿貝多發動元素戰技時的台詞。英文版意為「創生」。",
     tags: [ "dialogue" ],
   },
 
@@ -188,6 +222,8 @@ export default [
     zhTW: "餘款的話…我來付吧。",
     pronunciationJa: "おれがはらうよ",
     notes: "鍾離がモラを持っておらず支払いができない時にタルタリヤが発した言葉。\"allow me\" は何らかの手助けを申し出る時に使う丁寧な表現。魔神任務第一章第二幕「久遠の体との別れ」より",
+    notesZh: "钟离没带摩拉时，「公子」说的话。英文版的「allow me」是一种礼貌的表达方式，表示提供帮助。此句在魔神任务 第一章·第二幕「辞行久远之躯」中出现。",
+    notesZhTW: "鍾離沒帶摩拉時，「公子」說的話。英文版的「allow me」是一種禮貌的表達方式，表示提供幫助。此句在魔神任務 第一章·第二幕「辭行久遠之軀」中出現。",
     tags: [ "dialogue", "liyue" ],
   },
   {
@@ -197,6 +233,8 @@ export default [
     zhTW: "雨線難畫。",
     pronunciationJa: "このけんはわかるかい",
     notes: "行秋の元素スキル発動時のセリフ",
+    notesZh: "行秋发动元素战技时的台词。",
+    notesZhTW: "行秋發動元素戰技時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -206,6 +244,8 @@ export default [
     zhTW: "古華深秘。",
     pronunciationJa: "こかおうぎ",
     notes: "行秋の元素爆発発動時のセリフ",
+    notesZh: "行秋发动元素爆发时的台词。",
+    notesZhTW: "行秋發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -215,6 +255,8 @@ export default [
     zhTW: "食鹽之罰",
     pronunciationJa: "ほのおぐいのけい",
     notes: "煙緋の元素爆発発動時のセリフ",
+    notesZh: "烟绯发动元素爆发时的台词。",
+    notesZhTW: "煙緋發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -224,6 +266,8 @@ export default [
     zhTW: "劍出，影隨——",
     pronunciationJa: "わがけんよ かげにしたがえ",
     notes: "刻晴の元素爆発発動時のセリフ",
+    notesZh: "刻晴发动元素爆发时的台词。",
+    notesZhTW: "刻晴發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -233,6 +277,8 @@ export default [
     zhTW: "劍光如我，斬盡蕪雜！",
     pronunciationJa: "けんこうよ、よのみだれをきりつくせ",
     notes: "刻晴の元素爆発発動時のセリフ",
+    notesZh: "刻晴发动元素爆发时的台词。",
+    notesZhTW: "刻晴發動元素爆發時的台詞。",
     variants: {
       zhCN: [ "剑光如我，斩尽牛杂！" ],
       zhTW: [ "劍光如我，斬盡牛雜！" ],
@@ -248,6 +294,8 @@ export default [
     pinyins: [{ char: "傩", pron: "nuo2" }],
     zhuyins: [{ char: "儺", pron: "ㄋㄨㄛˊ" }],
     notes: "魈の元素爆発発動時のセリフ。「西洋鍋」という空耳で有名。",
+    notesZh: "魈发动元素爆发时的台词。在日本因「西洋锅」的空耳而闻名。",
+    notesZhTW: "魈發動元素爆發時的台詞。在日本因「西洋鍋」的空耳而聞名。",
     tags: [ "dialogue" ],
     variants: {
       ja: [ "西洋鍋" ],
@@ -262,6 +310,8 @@ export default [
     zhTW: "悲鳴吧。",
     pronunciationJa: "わめくがいい",
     notes: "魈の元素爆発発動時のセリフ",
+    notesZh: "魈发动元素爆发时的台词。",
+    notesZhTW: "魈發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -270,6 +320,8 @@ export default [
     zhCN: "吃饱喝饱，一路走好！",
     zhTW: "吃飽喝飽，一路走好！",
     notes: "胡桃の元素爆発発動時のセリフ",
+    notesZh: "胡桃发动元素爆发时的台词。",
+    notesZhTW: "胡桃發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -279,6 +331,8 @@ export default [
     zhTW: "天理長驅。",
     pronunciationJa: "てんりちょうく",
     notes: "鍾離の元素爆発発動時のセリフ。「天にチョーク」という空耳で有名。",
+    notesZh: "钟离发动元素爆发时的台词。在日本因「天にチョーク」（天上有粉笔）的空耳而闻名。",
+    notesZhTW: "鍾離發動元素爆發時的台詞。在日本因「天にチョーク」（天上有粉筆）的空耳而聞名。",
     tags: [ "dialogue" ],
     variants: {
       ja: [ "天にチョーク" ],
@@ -291,6 +345,8 @@ export default [
     zhTW: "此乃天道。",
     pronunciationJa: "てんどうここにあり",
     notes: "鍾離の元素爆発発動時のセリフ",
+    notesZh: "钟离发动元素爆发时的台词。",
+    notesZhTW: "鍾離發動元素爆發時的台詞。",
     tags: [ "dialogue" ],
   },
   {
@@ -320,6 +376,8 @@ export default [
     pronunciationJa: "じょうどうをかいこうせしは、えいえんなるなるかみなり",
     tags: [ "dialogue", "inazuma" ],
     notes: "英語の直訳は「将軍とその永遠なる治世に栄光あれ」。九条裟羅の元素爆発発動時のセリフでもあるが、英語版では裟羅は \"Glory to the Shogun!\" までしか言わない。",
+    notesZh: "九条裟罗发动元素爆发时的台词。英文版的直译是「将军和她永恒的统治万岁」。",
+    notesZhTW: "九條裟羅發動元素爆發時的台詞。英文版的直譯是「將軍和她永恆的統治萬歲」。",
   },
   {
     en: "There is no escape!",
@@ -329,6 +387,8 @@ export default [
     pronunciationJa: "にげみちはありません",
     tags: [ "dialogue" ],
     notes: "雷電将軍の元素スキル発動時のセリフ",
+    notesZh: "雷电将军发动元素战技时的台词。",
+    notesZhTW: "雷電將軍發動元素戰技時的台詞。",
   },
 
   //
@@ -350,6 +410,7 @@ export default [
     pronunciationJa: "おもしろくないか",
     tags: [ "dialogue", "sumeru" ],
     notes: "セノがダジャレを言ってウケなかった時のセリフ。v3.5 期間限定イベント「風花の吐息」(風花祭) より",
+    notesZh: "赛诺说冷笑话没被逗乐时的台词。出自 v3.5 期间限定活动「风花的呼吸」（风花节）。",
   },
   {
     en: "It's getting cold, you say? I feel fine.",
@@ -359,6 +420,8 @@ export default [
     pronunciationJa: "さむいのか? おれはだいじょうぶだが",
     tags: [ "dialogue", "sumeru" ],
     notes: "アルハイゼン構文の元ネタ。アルハイゼンの雪の日のボイスより",
+    notesZh: "艾尔海森在雪天时的语音。",
+    notesZhTW: "艾爾海森在雪天時的語音。",
   },
 
   //
@@ -371,7 +434,9 @@ export default [
     zhTW: "一路順風",
     pronunciationJa: "いってらっしゃい",
     tags: [ "dialogue", "fontaine" ],
-    notes: "リオセスリの攻撃時の?セリフ",
+    notes: "リオセスリの元素爆発発動時のセリフ",
+    notesZh: "莱欧斯利发动元素爆发时的台词。",
+    notesZhTW: "萊歐斯利發動元素爆發時的台詞。",
   },
   {
     en: "So interminable... so lonely... Just how much longer...",
@@ -379,7 +444,8 @@ export default [
     zhCN: "好漫长…好孤独…还要多久…",
     zhTW: "好漫長…好孤獨…還要多久…",
     tags: [ "fontaine", "dialogue" ],
-    notesZh: "芙宁娜的内心自白",
+    notesZh: "芙宁娜的内心独白。",
+    notesZhTW: "芙寧娜的內心獨白。",
   },
 
   //
@@ -392,5 +458,7 @@ export default [
     zhTW: "為了納塔",
     tags: [ "dialogue", "natlan" ],
     notes: "ナタの戦士の気勢をあげるセリフ",
+    notesZh: "纳塔战士们的口号。",
+    notesZhTW: "納塔戰士們的口號。",
   },
 ] as const satisfies SourceWord[];
