@@ -41,6 +41,8 @@ export default [
     pronunciationJa: "せいとうりょういき",
     tags: [ "domain", "enemy-boss" ],
     notes: "いわゆる「週ボス」(アンドリアスを除く) がいる秘境",
+    notesZh: "即「周本」。",
+    notesZhTW: "即「周本」。",
   },
   {
     en: "Ley Line Disorder",
@@ -68,7 +70,9 @@ export default [
     zhCN: "深境回廊",
     zhTW: "深境迴廊",
     pronunciationJa: "しんきょうかいろう",
-    notes: "「第x層第y問」は「Floor x Chamber y」と表現する",
+    notes: "「第X層第Y間」は「Floor X, Chamber Y」と表現する",
+    notesZh: "中文、日文称其中每间为「第X层第Y间」，英文对应为「Floor X, Chamber Y」。",
+    notesZhTW: "中文、日文稱其中每間為「第X層第Y間」，英文對應為「Floor X, Chamber Y」。",
   },
   {
     en: "Moment of Syzygy",
@@ -116,6 +120,8 @@ export default [
     zhTW: "忘卻之峽",
     pronunciationJa: "ぼうきゃくのきょうこく",
     notes: "清泉町南にある秘境",
+    notesZh: "清泉镇南方的秘境。",
+    notesZhTW: "清泉鎮南方的秘境。",
     tags: [ "mondstadt", "domain" ],
   },
   {
@@ -125,6 +131,8 @@ export default [
     zhTW: "銘記之谷",
     pronunciationJa: "めいきのたに",
     notes: "アカツキワイナリー南東にある秘境",
+    notesZh: "晨曦酒庄东南方的秘境。",
+    notesZhTW: "晨曦酒莊東南方的秘境。",
     variants: {
       zhCN: [ "风本", "少女本" ],
       zhTW: [ "風本", "少女本" ],
@@ -138,6 +146,8 @@ export default [
     zhTW: "芬德尼爾之頂",
     pronunciationJa: "フィンドニールのちょうじょう",
     notes: "ドラゴンスパイン頂上にある秘境",
+    notesZh: "龙脊雪山顶端的秘境。",
+    notesZhTW: "龍脊雪山頂端的秘境。",
     tags: [ "dragonspine", "domain" ],
     variants: {
       ja: [ "ファンドニールの頂上", "ファンドニール" ],
@@ -176,6 +186,8 @@ export default [
     zhTW: "幻想真境劇詩",
     pronunciationJa: "げんそうシアター",
     notes: "モンド騎士団本部の図書館の奥にある高難易度ダンジョン",
+    notesZh: "蒙德骑士团图书馆深处的高难度秘境。",
+    notesZhTW: "蒙德騎士團圖書館深處的高難度秘境。",
     tags: [ "mondstadt", "domain" ],
   },
   {
@@ -186,7 +198,7 @@ export default [
     pronunciationJa: "チェスへのいざない",
     notesEn: "A hidden place accessible from the floating island at the \"The Mages' Tea Party\" venue, which also appeared in the Limited time event \"Windblume's Breath\" in v3.5",
     notes: "v3.5 期間限定イベント「風花の吐息」でも登場した「魔女のお茶会」会場の浮島から行ける秘境",
-    notesZh: "一个隐秘的地方, 可以从「魔女的茶会」场地的漂浮岛上进入, 这个场地在v3.5的限时活动「风花的呼吸」中也出现过",
+    notesZh: "隐藏区域,「魔女的茶会」场地的漂浮岛。这个场地在 v3.5 的限时活动「风花的呼吸」中也出现过。",
     tags: [ "mondstadt", "domain" ],
   },
 
@@ -200,6 +212,8 @@ export default [
     zhTW: "山脊守望",
     pronunciationJa: "さんせきのみまもり",
     notes: "ドラゴンスパインと石門の間のあたりにある秘境",
+    notesZh: "位于龙脊雪山和璃月石门之间的秘境。",
+    notesZhTW: "位於龍脊雪山和璃月石門之間的秘境。",
     variants: {
       zhCN: [ "千岩本", "苍白本" ],
       zhTW: [ "千巖本", "蒼白本" ],
@@ -217,6 +231,8 @@ export default [
     zhTW: "孤雲凌霄之處",
     pronunciationJa: "こうんりょうしょうのところ",
     notes: "孤雲閣の秘境",
+    notesZh: "孤云阁的秘境。",
+    notesZhTW: "孤雲閣的秘境。",
     variants: {
       zhCN: [ "岩本" ],
       zhTW: [ "巖本" ],
@@ -238,6 +254,8 @@ export default [
     zhTW: "華清歸藏密宮",
     pronunciationJa: "かしんきぞうみっきゅう",
     notes: "漉華の池にある秘境",
+    notesZh: "渌华池的秘境。",
+    notesZhTW: "淥華池的秘境。",
     tags: [ "liyue", "domain" ],
   },
   {
@@ -261,6 +279,8 @@ export default [
     zhTW: "無妄引咎密宮",
     pronunciationJa: "むぼういんせきみっきゅう",
     notes: "無妄の丘にある秘境",
+    notesZh: "无妄坡的秘境。",
+    notesZhTW: "無妄坡的秘境。",
     variants: {
       zhCN: [ "火本" ],
       zhTW: [ "火本" ],
@@ -282,6 +302,8 @@ export default [
     zhTW: "「伏龍樹」之底",
     pronunciationJa: "ふくりゅうのきのそこ",
     notes: "若陀龍王戦の秘境名",
+    notesZh: "若陀龙王周本的秘境。",
+    notesZhTW: "若陀龍王周本的秘境。",
     tags: [ "liyue", "domain" ],
   },
   {
@@ -316,6 +338,8 @@ export default [
     zhTW: "鶴徑折旋之所",
     tags: [ "liyue", "domain" ],
     notes: "魔神任務間章 険路怪跡で登場する秘境",
+    notesZh: "魔神任务 间章·第二幕「危途疑踪」中出现的秘境。",
+    notesZhTW: "魔神任務 間章·第二幕「危途疑蹤」中出現的秘境。",
   },
   {
     en: "City of Hidden Runes",
@@ -325,6 +349,8 @@ export default [
     pronunciationJa: "ちょうこういんとんのしろ",
     tags: [ "liyue", "domain" ],
     notes: "魔神任務間章 険路怪跡で登場する秘境",
+    notesZh: "魔神任务 间章·第二幕「危途疑踪」中出现的秘境。",
+    notesZhTW: "魔神任務 間章·第二幕「危途疑蹤」中出現的秘境。",
   },
   {
     en: "Realm of Snaring Illusions",
@@ -333,6 +359,8 @@ export default [
     zhTW: "迷錯幻渺之境",
     tags: [ "liyue", "domain" ],
     notes: "魔神任務間章 険路怪跡で登場する秘境",
+    notesZh: "魔神任务 间章·第二幕「危途疑踪」中出现的秘境。",
+    notesZhTW: "魔神任務 間章·第二幕「危途疑蹤」中出現的秘境。",
   },
 
   //
@@ -421,6 +449,8 @@ export default [
     pronunciationJa: "なるかみじま・てんしゅ",
     tags: [ "inazuma", "domain" ],
     notes: "シニョーラ戦の秘境名。",
+    notesZh: "「女士」周本的秘境。",
+    notesZhTW: "「女士」周本的秘境。",
   },
   {
     en: "End of the Oneiric Euthymia",
@@ -430,6 +460,8 @@ export default [
     pronunciationJa: "むそうらくどのけつまつ",
     tags: [ "inazuma", "domain" ],
     notes: "禍津御建鳴神命戦の秘境名。",
+    notesZh: "「祸津御建鸣神命」周本的秘境。",
+    notesZhTW: "「禍津御建鳴神命」周本的秘境。",
     pinyins: [{ char: "殁", pron: "mo4" }],
     zhuyins: [{ char: "殁", pron: "ㄇㄛˋ" }],
   },
@@ -567,6 +599,8 @@ export default [
     pronunciationJa: "じょうるりこうぼう",
     tags: [ "sumeru", "domain" ],
     notes: "正機の神 (スカラマシュ) 戦の秘境名",
+    notesZh: "「正机之神」周本的秘境。",
+    notesZhTW: "「正機之神」周本的秘境。",
   },
   {
     en: "The Realm of Beginnings",
@@ -576,6 +610,8 @@ export default [
     pronunciationJa: "げんしょのさと", // TODO Need Check
     tags: [ "sumeru", "domain" ],
     notes: "アペプのオアシス守護者戦の秘境名",
+    notesZh: "「阿佩普的绿洲守望者」周本的秘境。",
+    notesZhTW: "「阿佩普的綠洲守望者」周本的秘境。",
   },
   {
     en: "Court of Desolation",
@@ -585,6 +621,8 @@ export default [
     pronunciationJa: "きげんノにわ",
     tags: [ "sumeru", "domain" ],
     notes: "セノの伝説任務で登場する秘境",
+    notesZh: "赛诺的传说任务 金狼之章·第一幕「沉沙归寂」中出现的秘境。",
+    notesZhTW: "賽諾的傳說任務 金狼之章·第一幕「沉沙歸寂」中出現的秘境。",
   },
   {
     en: "Defiled Chamber",
@@ -594,6 +632,8 @@ export default [
     pronunciationJa: "せんきょう", // Need Check
     tags: [ "sumeru", "domain" ],
     notes: "万種母樹の中から慈心を手に入れるために入る秘境",
+    notesZh: "世界任务「蒂尔·亚什特的赞歌」中，进入万种母树中获取慈心的秘境。",
+    notesZhTW: "世界任務「蒂爾·亞什特的讚歌」中，進入萬種母樹中獲取慈心的秘境。",
   },
 
   //
@@ -613,7 +653,8 @@ export default [
     zhTW: "蒼白的遺榮",
     pronunciationJa: "そうはくのいえい", // TODO Need Check
     tags: [ "fontaine", "domain" ],
-    notesZh: "吞星之鲸的掉落物",
+    notesZh: "吞星之鲸的掉落物。",
+    notesZhTW: "吞星之鯨的掉落物。",
   },
   {
     en: "Denouement of Sin",
@@ -622,7 +663,8 @@ export default [
     zhTW: "罪禍的終末",
     pronunciationJa: "ざいかのしゅうまつ", // TODO Need Check
     tags: [ "fontaine", "domain" ],
-    notesZh: "吞星之鲸的掉落物",
+    notesZh: "吞星之鲸的掉落物。",
+    notesZhTW: "吞星之鯨的掉落物。",
   },
   {
     en: "Shadow of Another World",
@@ -631,7 +673,8 @@ export default [
     zhTW: "異界餘影",
     pronunciationJa: "いかいのよかげ",
     tags: [ "fontaine", "domain" ],
-    notesZh: "吞星之鲸的掉落物",
+    notesZh: "吞星之鲸的掉落物。",
+    notesZhTW: "吞星之鯨的掉落物。",
   },
   {
     en: "Waterfall Wen",
