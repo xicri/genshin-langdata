@@ -289,15 +289,6 @@ export default [
     notes: "日本語版ではドーンマンポート (モンド城外のジョーンズが言及) と荊夫港 (千風の神殿南のヘンリーモートンが言及) と表記揺れがある。",
   },
   {
-    en: "The Mare Jivari",
-    ja: "燼寂海",
-    zhCN: "烬寂海",
-    zhTW: "燼寂海",
-    pronunciationJa: "じんじゃくかい",
-    tags: [ "location" ],
-    notes: "モンドの冒険者スタンレーがかつて訪れたという地域",
-  },
-  {
     en: "Geyser Realm",
     ja: "泉の境",
     zhCN: "泉之境",
@@ -3143,6 +3134,17 @@ export default [
     zhTW: "審議之庭",
     pronunciationJa: "しんぎのにわ",
     tags: [ "natlan", "location" ],
+  },
+
+  // The Mare Jivari
+  {
+    en: "The Mare Jivari",
+    ja: "燼寂海",
+    zhCN: "烬寂海",
+    zhTW: "燼寂海",
+    pronunciationJa: "じんじゃくかい",
+    tags: [ "location" ],
+    notes: "モンドの冒険者スタンレーがかつて訪れたという地域",
   },
 
   //
