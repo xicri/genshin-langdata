@@ -3143,8 +3143,7 @@ export default [
     zhCN: "烬寂海",
     zhTW: "燼寂海",
     pronunciationJa: "じんじゃくかい",
-    tags: [ "location" ],
-    notes: "モンドの冒険者スタンレーがかつて訪れたという地域",
+    tags: [ "natlan", "location" ],
   },
 
   //
