@@ -9,7 +9,7 @@ export default [
     ja: "イネファ",
     zhCN: "伊涅芙",
     zhTW: "伊涅芙",
-    tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "character-main" ],
   },
   {
     en: "Aino",
