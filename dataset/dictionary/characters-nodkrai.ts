@@ -16,7 +16,7 @@ export default [
     ja: "アイノ",
     zhCN: "爱诺",
     zhTW: "愛諾",
-    tags: [ "nodkrai", "character-sub" ],
+    tags: [ "nodkrai", "character-main" ],
   },
   {
     en: "Lauma",
@@ -30,7 +30,7 @@ export default [
     ja: "ヤフォダ",
     zhCN: "雅珂达",
     zhTW: "雅珂達",
-    tags: [ "nodkrai", "character-sub" ], // TODO: Maybe a NPC character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "character-main" ], // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
   {
     en: "Nefer",
@@ -61,14 +61,14 @@ export default [
     zhCN: "杜林",
     zhTW: "杜林",
     notes: "レインドットに創造された龍、もしくは、アルベドによっての人の姿に錬成された「ちびドゥリン」",
-    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-sub" ],
+    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
   {
     en: "Mini Durin",
     ja: "ちびドゥリン",
     zhCN: "小杜林",
     zhTW: "小杜林",
-    tags: [ "event", "sumeru", "character-sub" ],
+    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
     notes: "v4.8 期間限定マップ・シムランカで生み出された方のドゥリンで、レインドットが創造したドゥリンとは元々別個体",
   },
   {
@@ -76,7 +76,7 @@ export default [
     ja: "ファルカ",
     zhCN: "法尔伽",
     zhTW: "法爾伽",
-    tags: [ "mondstadt", "character-sub" ],
+    tags: [ "nodkrai", "mondstadt", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
   {
     en: "Grand Master",
@@ -84,7 +84,7 @@ export default [
     zhCN: "大团长",
     zhTW: "大團長",
     pronunciationJa: "だいだんちょう",
-    tags: [ "mondstadt", "title" ],
+    tags: [ "nodkrai", "mondstadt", "title" ],
     notes: "ファルカの西風騎士団における職名。",
     notesZh: "法尔伽在西风骑士团的职位名。",
     notesZhTW: "法爾伽在西風騎士團的職位名。",

@@ -516,7 +516,7 @@ export default [
     ja: "アリス",
     zhCN: "艾莉丝",
     zhTW: "艾莉絲",
-    tags: [ "mondstadt", "character-sub" ],
+    tags: [ "nodkrai", "mondstadt", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
     notes: "クレーの母。魔女会・コードA",
     notesZh: "可莉的母亲。魔女会代号 A。",
     notesZhTW: "可莉的母親。魔女會代號 A。",
@@ -576,7 +576,7 @@ export default [
     ja: "ニコ・リヤン",
     zhCN: "尼可·莱恩",
     zhTW: "尼可·萊恩",
-    tags: [ "mondstadt", "character-sub" ],
+    tags: [ "nodkrai", "mondstadt", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
     notes: "魔女会・コードN。英語版におけるファーストネームの発音は「ニコル」",
     notesZh: "魔女会代号 N。",
     notesZhTW: "魔女會代號 N。",
