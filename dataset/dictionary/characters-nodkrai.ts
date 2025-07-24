@@ -23,7 +23,7 @@ export default [
     ja: "ラウマ",
     zhCN: "菈乌玛",
     zhTW: "菈烏瑪",
-    tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "character-main" ],
   },
   {
     en: "Jahoda",
@@ -44,7 +44,7 @@ export default [
     ja: "フリンズ",
     zhCN: "菲林斯",
     zhTW: "菲林斯",
-    tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "character-main" ],
   },
   {
     en: "Kyryll Chudomirovich Flins",
@@ -53,7 +53,7 @@ export default [
     zhTW: "克里洛·楚德米洛維奇·菲林斯",
     notesEn: "Full name of Flins",
     notes: "フリンズのフルネーム",
-    tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "character-main" ],
   },
   {
     en: "Durin",
