@@ -12,11 +12,25 @@ export default [
     tags: [ "nodkrai", "character-main" ],
   },
   {
+    en: "Aino",
+    ja: "アイノ",
+    zhCN: "爱诺",
+    zhTW: "愛諾",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
     en: "Lauma",
     ja: "ラウマ",
     zhCN: "菈乌玛",
     zhTW: "菈烏瑪",
     tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+  },
+  {
+    en: "Jahoda",
+    ja: "ヤフォダ",
+    zhCN: "雅珂达",
+    zhTW: "雅珂達",
+    tags: [ "nodkrai", "character-sub" ], // TODO: Maybe a NPC character from Nod-Krai, but not confirmed yet.
   },
   {
     en: "Nefer",
@@ -42,12 +56,47 @@ export default [
     tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
   {
-    en: "\"Moon Maiden\"",
-    ja: "「月の少女」",
-    zhCN: "「月之少女」",
-    zhTW: "「月之少女」",
-    pronunciationJa: "つきのしょうじょ",
-    tags: [ "nodkrai", "title" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    en: "Durin",
+    ja: "ドゥリン",
+    zhCN: "杜林",
+    zhTW: "杜林",
+    notes: "レインドットに創造された龍、もしくは、アルベドによっての人の姿に錬成された「ちびドゥリン」",
+    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-sub" ],
+  },
+  {
+    en: "Mini Durin",
+    ja: "ちびドゥリン",
+    zhCN: "小杜林",
+    zhTW: "小杜林",
+    tags: [ "event", "sumeru", "character-sub" ],
+    notes: "v4.8 期間限定マップ・シムランカで生み出された方のドゥリンで、レインドットが創造したドゥリンとは元々別個体",
+  },
+  {
+    en: "Varka",
+    ja: "ファルカ",
+    zhCN: "法尔伽",
+    zhTW: "法爾伽",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Grand Master",
+    ja: "大団長",
+    zhCN: "大团长",
+    zhTW: "大團長",
+    pronunciationJa: "だいだんちょう",
+    tags: [ "mondstadt", "title" ],
+    notes: "ファルカの西風騎士団における職名。",
+    notesZh: "法尔伽在西风骑士团的职位名。",
+    notesZhTW: "法爾伽在西風騎士團的職位名。",
+
+    examples: [{
+      en: "I will now be reading Grand Master Varka's letter aloud for you all.",
+      ja: "ファルカ大団長からの手紙を読ませていただきます。",
+      zhCN: "下面由我代为朗读法尔伽大团长的来信。",
+      zhTW: "下面由我代為朗讀法爾伽大團長的來信。",
+      ref: "ミカ, Ver3.1 公式 PV 「赤砂の王と三人の巡礼者」",
+      refURL: "https://www.youtube.com/watch?v=owxvZ9-0JE0&t=221s",
+    }],
   },
 
   //
@@ -63,20 +112,6 @@ export default [
     notesZhTW: "限時網頁活動「空月之歌」中的資訊。",
     pronunciationJa: "ゆきぐにのようせい",
     tags: [ "nodkrai", "character-sub" ],
-  },
-  {
-    en: "Aino",
-    ja: "アイノ",
-    zhCN: "爱诺",
-    zhTW: "愛諾",
-    tags: [ "nodkrai", "character-sub" ],    // TODO: Maybe a NPC character from Nod-Krai, but not confirmed yet.
-  },
-  {
-    en: "Jahoda",
-    ja: "ヤフォダ",
-    zhCN: "雅珂达",
-    zhTW: "雅珂達",
-    tags: [ "nodkrai", "character-sub" ],    // TODO: Maybe a NPC character from Nod-Krai, but not confirmed yet.
   },
   {
     en: "Adieta",

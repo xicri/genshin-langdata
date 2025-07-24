@@ -1749,14 +1749,6 @@ export default [
     notes: "v4.8 期間限定イベント「陽夏！悪龍？童話の王国！」に登場する積み木人形",
   },
   {
-    en: "Mini Durin",
-    ja: "ちびドゥリン",
-    zhCN: "小杜林",
-    zhTW: "小杜林",
-    tags: [ "event", "sumeru", "character-sub" ],
-    notes: "v4.8 期間限定マップ・シムランカで生み出された方のドゥリンで、レインドットが創造したドゥリンとは元々別個体",
-  },
-  {
     en: "Fell Dragon's Picturebook",
     ja: "「悪龍」の絵本",
     zhCN: "「邪龙」绘卷",

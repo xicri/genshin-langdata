@@ -481,14 +481,6 @@ export default [
     tags: [ "mondstadt", "title" ],
   },
   {
-    en: "Durin",
-    ja: "ドゥリン",
-    zhCN: "杜林",
-    zhTW: "杜林",
-    notes: "レインドットに創造された龍、もしくは、アルベドによっての人の姿に錬成された「ちびドゥリン」",
-    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-sub" ],   //　TODO: Maybe a playable character, but not confirmed yet.
-  },
-  {
     en: "Andrius",
     ja: "アンドリアス",
     zhCN: "安德留斯",
@@ -746,33 +738,6 @@ export default [
     notes: "日本語版では姓について表記揺れがある。英語版の発音は「シーマス・ペッグ」",
     notesZh: "姓氏「Pegg」在日文中有两种写法。英文版姓氏曾作「Page」，但现在已改为「Pegg」。",
     notesZhTW: "姓氏「Pegg」在日文中有兩種寫法。英文版姓氏曾作「Page」，但現在已改為「Pegg」。",
-  },
-  {
-    en: "Varka",
-    ja: "ファルカ",
-    zhCN: "法尔伽",
-    zhTW: "法爾伽",
-    tags: [ "mondstadt", "character-sub" ],
-  },
-  {
-    en: "Grand Master",
-    ja: "大団長",
-    zhCN: "大团长",
-    zhTW: "大團長",
-    pronunciationJa: "だいだんちょう",
-    tags: [ "mondstadt", "title" ],
-    notes: "ファルカの西風騎士団における職名。",
-    notesZh: "法尔伽在西风骑士团的职位名。",
-    notesZhTW: "法爾伽在西風騎士團的職位名。",
-
-    examples: [{
-      en: "I will now be reading Grand Master Varka's letter aloud for you all.",
-      ja: "ファルカ大団長からの手紙を読ませていただきます。",
-      zhCN: "下面由我代为朗读法尔伽大团长的来信。",
-      zhTW: "下面由我代為朗讀法爾伽大團長的來信。",
-      ref: "ミカ, Ver3.1 公式 PV 「赤砂の王と三人の巡礼者」",
-      refURL: "https://www.youtube.com/watch?v=owxvZ9-0JE0&t=221s",
-    }],
   },
   {
     en: "Vennessa",
