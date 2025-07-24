@@ -12,6 +12,11 @@ export default [
     tags: [ "nodkrai", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
   {
+    en: "Aino",
+    ja: "アイノ",
+    tags: [ "nodkrai", "character-main" ], // TODO: Maybe playable, but not confirmed yet.
+  },
+  {
     en: "Durin",
     ja: "ドゥリン",
     zhCN: "杜林",
@@ -52,6 +57,26 @@ export default [
       ref: "ミカ, Ver3.1 公式 PV 「赤砂の王と三人の巡礼者」",
       refURL: "https://www.youtube.com/watch?v=owxvZ9-0JE0&t=221s",
     }],
+  },
+  {
+    en: "Jahoda",
+    ja: "ヤフォダ",
+    tags: [ "nodkrai", "character-main" ], // TODO: Maybe playable, but not confirmed yet.
+  },
+  {
+    en: "Lauma",
+    ja: "ラウマ",
+    tags: [ "nodkrai", "character-main" ], // TODO: Maybe playable, but not confirmed yet.
+  },
+  {
+    en: "Nefer",
+    ja: "ネフェル",
+    tags: [ "nodkrai", "character-main" ], // TODO: Maybe playable, but not confirmed yet.
+  },
+  {
+    en: "Kyryll Chudomirovich Flins",
+    ja: "キリル・チュードミロヴィッチ・フリンズ",
+    tags: [ "nodkrai", "character-main" ], // TODO: Maybe playable, but not confirmed yet.
   },
 
   //
