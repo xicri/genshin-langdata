@@ -26,7 +26,6 @@ export default [
     notesZhTW: "女主角的名字。英文「Lumine」為「發光」的意思。",
     tags: [ "character-main" ],
   },
-  // TODO need check
   {
     en: "Traveler",
     ja: "旅人",
