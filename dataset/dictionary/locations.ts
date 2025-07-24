@@ -289,24 +289,6 @@ export default [
     notes: "日本語版ではドーンマンポート (モンド城外のジョーンズが言及) と荊夫港 (千風の神殿南のヘンリーモートンが言及) と表記揺れがある。",
   },
   {
-    en: "The Mare Jivari",
-    ja: "燼寂海",
-    zhCN: "烬寂海",
-    zhTW: "燼寂海",
-    pronunciationJa: "じんじゃくかい",
-    tags: [ "natlan", "location" ],
-    notes: "モンドの冒険者スタンレーがかつて訪れたという地域。五百年前に燼寂海の汚染が拡散するのを防ぐため、ウェンティが時間軸から吹き飛ばしたため、地図から消えている",
-  },
-  {
-    en: "\"Windless Land\"",
-    ja: "「無風の地」",
-    zhCN: "「无风之地」",
-    zhTW: "「無風之地」",
-    pronunciationJa: "むふうのち",
-    tags: [ "natlan", "location" ],
-    notes: "燼寂海のことを指す",
-  },
-  {
     en: "Geyser Realm",
     ja: "泉の境",
     zhCN: "泉之境",
@@ -3280,6 +3262,25 @@ export default [
     zhTW: "醅幽蜜庫",
     pronunciationJa: "ブリューじょうぞうしょ",
     tags: [ "natlan", "location" ],
+  },
+
+  {
+    en: "The Mare Jivari",
+    ja: "燼寂海",
+    zhCN: "烬寂海",
+    zhTW: "燼寂海",
+    pronunciationJa: "じんじゃくかい",
+    tags: [ "natlan", "location" ],
+    notes: "モンドの冒険者スタンレーがかつて訪れたという地域。五百年前に燼寂海の汚染が拡散するのを防ぐため、ウェンティが時間軸から吹き飛ばしたため、地図から消えている",
+  },
+  {
+    en: "\"Windless Land\"",
+    ja: "「無風の地」",
+    zhCN: "「无风之地」",
+    zhTW: "「無風之地」",
+    pronunciationJa: "むふうのち",
+    tags: [ "natlan", "location" ],
+    notes: "燼寂海のことを指す",
   },
 
   //

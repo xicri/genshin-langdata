@@ -322,6 +322,14 @@ export default [
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
+    en: "\"Moon Maiden\"",
+    ja: "「月の少女」",
+    zhCN: "「月之少女」",
+    zhTW: "「月之少女」",
+    pronunciationJa: "つきのしょうじょ",
+    tags: [ "nodkrai", "title" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+  },
+  {
     en: "Arlecchino",
     ja: "アルレッキーノ",
     zhCN: "阿蕾奇诺",
