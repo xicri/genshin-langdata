@@ -307,7 +307,7 @@ export default [
     notes: "少女の通称",
     notesZh: "冰之女皇给「少女」的赐名。",
     notesZhTW: "冰之女皇給「少女」的賜名。",
-    tags: [ "fatui", "character-sub" ],
+    tags: [ "fatui", "nodkrai", "character-sub" ], // TODO プレイアブル可否は仮
   },
   {
     en: "Damselette",
@@ -319,7 +319,7 @@ export default [
     notesEn: "Columbina's codename.",
     notesZh: "哥伦比娅的代号。",
     notesZhTW: "哥倫比婭的代號。",
-    tags: [ "fatui", "character-sub", "title" ],
+    tags: [ "fatui", "nodkrai", "character-sub", "title" ], // TODO プレイアブル可否は仮
   },
   {
     en: "Arlecchino",
@@ -371,7 +371,7 @@ export default [
     notes: "傀儡の通称",
     notesZh: "冰之女皇给「木偶」的赐名。",
     notesZhTW: "冰之女皇給「木偶」的賜名。",
-    tags: [ "fatui", "character-sub" ],
+    tags: [ "fatui", "nodkrai", "character-sub" ], // TODO プレイアブル可否は仮
   },
   {
     en: "Marionette",
@@ -383,7 +383,7 @@ export default [
     notesEn: "Sandrone's codename.",
     notesZh: "桑多涅的代号。",
     notesZhTW: "桑多涅的代號。",
-    tags: [ "fatui", "character-sub", "title" ],
+    tags: [ "fatui", "nodkrai", "character-sub", "title" ], // TODO プレイアブル可否は仮
   },
   {
     en: "Pierro",

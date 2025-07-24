@@ -16,14 +16,14 @@ export default [
     ja: "ドゥリン",
     zhCN: "杜林",
     zhTW: "杜林",
-    tags: [ "mondstadt", "dragonspine", "character-sub" ],
+    tags: [ "nodkrai", "mondstadt", "dragonspine", "character-sub", "character-main" ], // TODO プレイアブル可否は仮
   },
   {
     en: "Mini Durin",
     ja: "ちびドゥリン",
     zhCN: "小杜林",
     zhTW: "小杜林",
-    tags: [ "event", "sumeru", "character-sub" ],
+    tags: [ "nodkrai", "mondstadt", "dragonspine", "character-sub", "character-main" ], // TODO プレイアブル可否は仮
     notes: "v4.8 期間限定イベント「陽夏！悪龍？童話の王国！」に登場するキャラクター。レインドットが創造したドゥリンとは別個体",
   },
   {
@@ -31,7 +31,7 @@ export default [
     ja: "ファルカ",
     zhCN: "法尔伽",
     zhTW: "法爾伽",
-    tags: [ "mondstadt", "character-sub" ],
+    tags: [ "nodkrai", "mondstadt", "character-main" ], // TODO プレイアブル可否は仮
   },
   {
     en: "Grand Master",
@@ -39,7 +39,7 @@ export default [
     zhCN: "大团长",
     zhTW: "大團長",
     pronunciationJa: "だいだんちょう",
-    tags: [ "mondstadt", "title" ],
+    tags: [ "nodkrai", "mondstadt", "title" ],
     notes: "ファルカの西風騎士団における職名。",
     notesZh: "法尔伽在西风骑士团的职位名。",
     notesZhTW: "法爾伽在西風騎士團的職位名。",
