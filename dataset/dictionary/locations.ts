@@ -3177,7 +3177,7 @@ export default [
     en: "Blue Amber Lake",
     ja: "青い琥珀",
     zhCN: "蓝珀湖",
-    zhTW: "藍珀湖",   // TODO need check. 『「ナド・クライ」特設サイト』では「蓝珀湖」で記載されているが、「蓝」は繫体文字で一般的に使われているのか?
+    zhTW: "藍珀湖",   // TODO need check. On the Nad Klai special website, the image says "蓝珀湖" but is "蓝" commonly used in traditional Chinese characters?
     pronunciationJa: "あおいこはく",
     tags: [ "nodkrai", "location" ],
     notes: "「ナド・クライ」特設サイトの情報",
