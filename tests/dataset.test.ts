@@ -694,30 +694,6 @@ test("if the each translations do not include characters from the other language
       expect(word.zhTW).not.toContain(wordsCNwoTW.find(char => word.zhTW.includes(char)))
       expect(word.zhTW).not.toContain(wordsJAwoTW.find(char => word.zhTW.includes(char)))
     }
-    /**
-    for (const char of langSpecificChars) {
-      if (word.ja && word.zhCN) {
-        if (char.ja !== char["zh-CN"]) {
-          expect(word.ja).not.toContain(char["zh-CN"]);
-          expect(word.zhCN).not.toContain(char.ja);
-        }
-      }
-
-      if (word.ja && word.zhTW) {
-        if (char.ja !== char["zh-TW"]) {
-          expect(word.ja).not.toContain(char["zh-TW"]);
-          expect(word.zhTW).not.toContain(char.ja);
-        }
-      }
-
-      if (word.zhCN && word.zhTW) {
-        if (char["zh-CN"] !== char["zh-TW"]) {
-          expect(word.zhCN).not.toContain(char["zh-TW"]);
-          expect(word.zhTW).not.toContain(char["zh-CN"]);
-        }
-      }
-    }
-    */
   }
 });
 
