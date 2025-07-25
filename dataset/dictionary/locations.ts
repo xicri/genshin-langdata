@@ -3199,14 +3199,6 @@ export default [
     tags: [ "nodkrai", "location" ],
     notes: "「ナド・クライ」特設サイトの情報",
   },
-  {
-    en: "The presence of the Abyss grows...",  // TODO need check. may not be a location
-    ja: "蠢くアビスの気配…",
-    zhCN: "深渊的气息正在酝酿…",
-    zhTW: "深淵的氣息正在醞釀…",
-    tags: [ "nodkrai", "location" ],
-    notes: "「ナド・クライ」特設サイトの情報",
-  },
 
   //
   // Snezhnaya
