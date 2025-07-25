@@ -232,6 +232,26 @@ export default [
 
   // v5.7
   {
+    en: "Fearsome Ferocious Firepower",
+    ja: "ハチャメチャ・カラフルバズーカ",
+    zhCN: "轰隆轰隆缤纷火力",
+    zhTW: "轟隆轟隆繽紛火力",
+    tags: [ "event", "fontaine" ],
+    notesEn: "Limited Time Event in v5.7",
+    notes: "v5.7 期間限定イベント",
+    notesZh: "v5.7 中的限时活动",
+  },
+  {
+    en: "Reminiscent Regimen: Frenzy",
+    ja: "追憶練行・死闘編",
+    zhCN: "追想练行·豪斗篇",
+    zhTW: "追想練行·豪鬥篇",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v5.7",
+    notes: "v5.7 期間限定イベント",
+    notesZh: "v5.7 中的限时活动",
+  },
+  {
     en: "Stygian Onslaught",
     ja: "幽境の激戦",
     zhCN: "幽境危战",
@@ -1557,7 +1577,7 @@ export default [
     zhCN: "小杜林",
     zhTW: "小杜林",
     tags: [ "event", "sumeru", "character-sub" ],
-    notes: "v4.8 期間限定イベント「陽夏！悪龍？童話の王国！」に登場するキャラクター。レインドットが創造したドゥリンとは別個体",
+    notes: "v4.8 期間限定イベント「陽夏！悪龍？童話の王国！」、魔神任務第間章第四幕「背理」に登場するキャラクター。レインドットが創造したドゥリンと融合して人の姿としてドゥリンになった",
   },
   {
     en: "Fell Dragon's Picturebook",

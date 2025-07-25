@@ -1330,6 +1330,20 @@ export default [
     zhTW: "蘋果捲捲",
     tags: [ "food" ],
   },
+  {
+    en: "Nine-Fruit Nectar",
+    ja: "フルーツネクター",
+    zhCN: "九果甘露饮",
+    zhTW: "九果甘露飲",
+    tags: [ "food" ],
+  },
+  {
+    en: "Bubblemilk Pie",
+    ja: "つぶつぶミルクパイ",
+    zhCN: "鲜奶珠珠派",
+    zhTW: "鮮奶珠珠派",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -1504,6 +1518,13 @@ export default [
     ja: "ミニドゥボールケーキ・改良版",
     zhCN: "德波小蛋糕·改良型",
     zhTW: "德波小蛋糕·改良型",
+    tags: [ "food" ],
+  },
+  {
+    en: "Meat-Lover's Feast",
+    ja: "ミートラバーフェスタ",
+    zhCN: "肉肉盛宴餐",
+    zhTW: "肉肉盛宴餐",
     tags: [ "food" ],
   },
 

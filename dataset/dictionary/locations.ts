@@ -3156,12 +3156,56 @@ export default [
     tags: [ "nodkrai", "location" ],
   },
   {
+    en: "Paha Isle",
+    ja: "パハ島",
+    zhCN: "帕哈岛",
+    zhTW: "帕哈島",
+    pronunciationJa: "パハとう / パハじま",
+    tags: [ "nodkrai", "location" ],
+    notes: "「ナド・クライ」特設サイトの情報",
+  },
+  {
     en: "Hiisi Island",
     ja: "ヒーシ島",
     zhCN: "希汐岛",
     zhTW: "希汐島",
+    pronunciationJa: "ヒーシとう / ヒーシじま",
     tags: [ "nodkrai", "location" ],
     notes: "期間限定Webイベント「空月の歌」の情報",
+  },
+  {
+    en: "Blue Amber Lake",
+    ja: "青い琥珀",
+    zhCN: "蓝珀湖",
+    zhTW: "藍珀湖",   // TODO need check. 『「ナド・クライ」特設サイト』では「蓝珀湖」で記載されているが、「蓝」は繫体文字で一般的に使われているのか?
+    pronunciationJa: "あおいこはく",
+    tags: [ "nodkrai", "location" ],
+    notes: "「ナド・クライ」特設サイトの情報",
+  },
+  {
+    en: "Lempo Isle",
+    ja: "レンポ島",
+    zhCN: "伦波岛",
+    zhTW: "倫波島",
+    pronunciationJa: "レンポとう / レンポじま",
+    tags: [ "nodkrai", "location" ],
+    notes: "「ナド・クライ」特設サイトの情報",
+  },
+  {
+    en: "Nasha Town",
+    ja: "ナシャタウン",
+    zhCN: "那夏镇",
+    zhTW: "那夏鎮",
+    tags: [ "nodkrai", "location" ],
+    notes: "「ナド・クライ」特設サイトの情報",
+  },
+  {
+    en: "The presence of the Abyss grows...",  // TODO need check. may not be a location
+    ja: "蠢くアビスの気配…",
+    zhCN: "深渊的气息正在酝酿…",
+    zhTW: "深淵的氣息正在醞釀…",
+    tags: [ "nodkrai", "location" ],
+    notes: "「ナド・クライ」特設サイトの情報",
   },
 
   //
