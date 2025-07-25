@@ -562,14 +562,14 @@ export default [
     notesZhTW: "魔女會代號 J。",
   },
   {
-    en: "Andersdotter",
-    ja: "アンデシュドッテル",
-    zhCN: "安德斯多特",
-    zhTW: "安德斯多特",
+    en: "Anya M. Andersdotter",
+    ja: "アンヤ・M・アンデシュドッテル",
+    zhCN: "安雅·M·安德斯多特",
+    zhTW: "安雅·M·安德斯多特",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "魔女会・コードM。イノシシプリンセスの作者。フルネームは「アンヤ・M・アンデシュドッテル」(英: Anya M. Andersdotter, 簡中: 安雅·M·安德斯多特) と思われる", // Source of her fullname: Event movie in Simulanka in v4.8
-    notesZh: "魔女会代号 M。《野猪公主》的作者。全名可能为「安雅·M·安德斯多特」（英：Anya M. Andersdotter，日：アンヤ・M・アンデシュドッテル）。",
-    notesZhTW: "魔女會代號 M。《野豬公主》的作者。全名可能為「安雅·M·安德斯多特」（英：Anya M. Andersdotter，日：アンヤ・M・アンデシュドッテル）。",
+    notes: "魔女会・コードM。イノシシプリンセスの作者",
+    notesZh: "魔女会代号 M。《野猪公主》的作者",
+    notesZhTW: "魔女會代號 M。《野豬公主》的作者",
   },
   {
     en: "Nicole Reeyn",
