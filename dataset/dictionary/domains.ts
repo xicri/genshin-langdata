@@ -70,7 +70,7 @@ export default [
     zhCN: "深境回廊",
     zhTW: "深境迴廊",
     pronunciationJa: "しんきょうかいろう",
-    notes: "「第X層第Y間」は「Floor X, Chamber Y」と表現する",
+    notes: "「第X層第Y間」は英語では「Floor X, Chamber Y」と表現する",
     notesZh: "中文、日文称其中每间为「第X层第Y间」，英文对应为「Floor X, Chamber Y」。",
     notesZhTW: "中文、日文稱其中每間為「第X層第Y間」，英文對應為「Floor X, Chamber Y」。",
   },
