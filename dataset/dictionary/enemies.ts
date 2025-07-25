@@ -3081,4 +3081,11 @@ export default [
     pronunciationJa: "ひげんきへいとうぎょデバイス",
     tags: [ "natlan", "enemy-boss" ],
   },
+  {
+    en: "Bakunawa",
+    ja: "バクナワ",
+    zhCN: "巴窟纳瓦",
+    zhTW: "巴窟納瓦",
+    tags: [ "natlan", "enemy-boss" ],
+  },
 ] as const satisfies SourceWord[];
