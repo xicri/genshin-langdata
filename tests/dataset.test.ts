@@ -234,7 +234,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
 });
 
 test("if the each translations do not include characters from the other languages", {
-  timeout: 45000
+  timeout: 20000
 }, async () => {
   type LangSpecificChars = {
     ja: string;
@@ -645,6 +645,56 @@ test("if the each translations do not include characters from the other language
       expect(word.zhTW).not.toMatch(/[ぁ-んァ-ヴー]/);
     }
 
+    /**
+     * This is a fix for the following problem:
+     * The test takes too long to determine Japanese/Chinese unique characters.
+     */
+    const wordsJA = []
+    const wordsCN = []
+    const wordsJAwoTW = []
+    const wordsCNwoTW = []
+    const wordsTWwoCN = []
+    const wordsTwwoJA = []
+    for (const char of langSpecificChars) {
+      if (char.ja) {
+        wordsJA.push(char.ja)
+        if (char["zh-TW"] && char["zh-TW"] !== char.ja) {
+          wordsTwwoJA.push(char["zh-TW"])
+        }
+      }
+
+      if (char["zh-CN"]) {
+        wordsCN.push(char["zh-CN"])
+        if (char["zh-TW"] && char["zh-TW"] !== char["zh-CN"]) {
+          wordsCNwoTW.push(char["zh-CN"])
+        }
+      }
+
+      if (char["zh-TW"]) {
+        if (char["zh-CN"] && char["zh-TW"] !== char["zh-CN"]) {
+          wordsTWwoCN.push(char["zh-TW"])
+        }
+        if (char.ja && char["zh-TW"] !== char.ja) {
+          wordsJAwoTW.push(char.ja)
+        }
+      }
+    }
+
+    if (word.ja) {
+      expect(word.ja).not.toContain(wordsCN.find(char => word.ja.includes(char)))
+      expect(word.ja).not.toContain(wordsTwwoJA.find(char => word.ja.includes(char)))
+    }
+
+    if (word.zhCN) {
+      expect(word.zhCN).not.toContain(wordsJA.find(char => word.zhCN.includes(char)))
+      expect(word.zhCN).not.toContain(wordsTWwoCN.find(char => word.zhCN.includes(char)))
+    }
+
+    if (word.zhTW) {
+      expect(word.zhTW).not.toContain(wordsCNwoTW.find(char => word.zhTW.includes(char)))
+      expect(word.zhTW).not.toContain(wordsJAwoTW.find(char => word.zhTW.includes(char)))
+    }
+    /**
     for (const char of langSpecificChars) {
       if (word.ja && word.zhCN) {
         if (char.ja !== char["zh-CN"]) {
@@ -667,6 +717,7 @@ test("if the each translations do not include characters from the other language
         }
       }
     }
+    */
   }
 });
 
