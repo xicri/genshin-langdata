@@ -656,18 +656,14 @@ test("if the each translations do not include characters from the other language
     const wordsTWwoCN = []
     const wordsTwwoJA = []
     for (const char of langSpecificChars) {
-      if (char.ja) {
-        wordsJA.push(char.ja)
-        if (char["zh-TW"] && char["zh-TW"] !== char.ja) {
-          wordsTwwoJA.push(char["zh-TW"])
-        }
+      wordsJA.push(char.ja)
+      if (char["zh-TW"] && char["zh-TW"] !== char.ja) {
+        wordsTwwoJA.push(char["zh-TW"])
       }
 
-      if (char["zh-CN"]) {
-        wordsCN.push(char["zh-CN"])
-        if (char["zh-TW"] && char["zh-TW"] !== char["zh-CN"]) {
-          wordsCNwoTW.push(char["zh-CN"])
-        }
+      wordsCN.push(char["zh-CN"])
+      if (char["zh-TW"] && char["zh-TW"] !== char["zh-CN"]) {
+        wordsCNwoTW.push(char["zh-CN"])
       }
 
       if (char["zh-TW"]) {
