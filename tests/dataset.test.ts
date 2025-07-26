@@ -645,7 +645,7 @@ test("if the each translations do not include characters from the other language
       expect(word.zhTW).not.toMatch(/[ぁ-んァ-ヴー]/);
     }
 
-    /**
+    /*
      * This is a fix for the following problem:
      * The test takes too long to determine Japanese/Chinese unique characters.
      */
