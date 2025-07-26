@@ -485,7 +485,8 @@ export default [
     ja: "ドゥリン",
     zhCN: "杜林",
     zhTW: "杜林",
-    tags: [ "mondstadt", "dragonspine", "character-sub" ],
+    notes: "レインドットに創造された龍、もしくは、アルベドによっての人の姿に錬成された「ちびドゥリン」",
+    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-sub" ],   //　TODO: Maybe a playable character, but not confirmed yet.
   },
   {
     en: "Andrius",

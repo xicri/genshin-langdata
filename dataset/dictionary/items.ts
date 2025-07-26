@@ -2438,4 +2438,20 @@ export default [
     pronunciationJa: "おおつごもりのかんせい",
     notes: "香菱のコスチューム",
   },
+  {
+    en: "Tranquil Banquet",
+    ja: "静謐の饗宴",
+    zhCN: "静暇雅宴",
+    zhTW: "靜暇雅宴",
+    pronunciationJa: "せいひつのきょうえん",
+    notes: "夜蘭のコスチューム",
+  },
+  {
+    en: "Adventures in Blazing Hue",
+    ja: "燃えろ! ラクガキ大冒険",
+    zhCN: "炽绘奇旅",
+    zhTW: "熾繪奇旅",
+    pronunciationJa: "もえろ! ラクガキだいぼうけん",
+    notes: "ベネットのコスチューム",
+  },
 ] as const satisfies SourceWord[];

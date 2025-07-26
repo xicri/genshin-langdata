@@ -576,6 +576,15 @@ export default [
     pronunciationJa: "カチャカチャ・クルムカケこうぼう",
     tags: [ "nodkrai", "facility" ],
   },
+  {
+    en: "Kuuvahki Experimental Design Bureau",
+    ja: "クーヴァキ実験設計局",
+    zhCN: "月矩力试验设计局",
+    zhTW: "月矩力試驗設計局",
+    notes: "「ナド・クライ」特設サイトの情報",
+    pronunciationJa: "クーヴァキじっけんせっけいきょく",
+    tags: [ "nodkrai", "facility" ],
+  },
 
   //
   // Snezhnaya
