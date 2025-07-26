@@ -649,32 +649,23 @@ test("if the each translations do not include characters from the other language
      * This is a fix for the following problem:
      * The test takes too long to determine Japanese/Chinese unique characters.
      */
-    const wordsJA = []
-    const wordsCN = []
-    const wordsJAwoTW = []
-    const wordsCNwoTW = []
-    const wordsTWwoCN = []
-    const wordsTwwoJA = []
-    for (const char of langSpecificChars) {
-      wordsJA.push(char.ja)
-      if (char["zh-TW"] && char["zh-TW"] !== char.ja) {
-        wordsTwwoJA.push(char["zh-TW"])
-      }
 
-      wordsCN.push(char["zh-CN"])
-      if (char["zh-TW"] && char["zh-TW"] !== char["zh-CN"]) {
-        wordsCNwoTW.push(char["zh-CN"])
-      }
-
-      if (char["zh-TW"]) {
-        if (char["zh-CN"] && char["zh-TW"] !== char["zh-CN"]) {
-          wordsTWwoCN.push(char["zh-TW"])
-        }
-        if (char.ja && char["zh-TW"] !== char.ja) {
-          wordsJAwoTW.push(char.ja)
-        }
-      }
-    }
+    const wordsJA = langSpecificChars.map((char) => char.ja);
+    const wordsCN = langSpecificChars.map((char) => char["zh-CN"]);
+    const wordsJAwoTW = langSpecificChars
+      .filter((char) => char["zh-TW"] !== char.ja)
+      .map((char) => char.ja);
+    const wordsCNwoTW = langSpecificChars
+      .filter((char) => char["zh-TW"] && char["zh-TW"] !== char["zh-CN"])
+      .map((char) => char["zh-CN"]);
+    const wordsTWwoCN = langSpecificChars
+      .filter((char) => char["zh-TW"] !== char["zh-CN"])
+      .map((char) => char["zh-TW"])
+      .filter((charZhTw) => charZhTw !== undefined);
+    const wordsTwwoJA = langSpecificChars
+      .filter((char) => char["zh-TW"] !== char.ja)
+      .map((char) => char["zh-TW"])
+      .filter((charZhTw) => charZhTw !== undefined);
 
     if (word.ja) {
       expect(word.ja).not.toContain(wordsCN.find(char => word.ja.includes(char)))
