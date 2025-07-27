@@ -645,38 +645,40 @@ test("if the each translations do not include characters from the other language
       expect(word.zhTW).not.toMatch(/[ぁ-んァ-ヴー]/);
     }
 
-    const wordsJA = langSpecificChars
-      .filter((char) => char["zh-CN"] !== char.ja)
-      .map((char) => char.ja);
-    const wordsCN = langSpecificChars
-      .filter((char) => char["zh-CN"] !== char.ja)
-      .map((char) => char["zh-CN"]);
-    const wordsJAwoTW = langSpecificChars
-      .filter((char) => char["zh-TW"] !== char.ja)
-      .map((char) => char.ja);
-    const wordsCNwoTW = langSpecificChars
-      .filter((char) => char["zh-TW"] && char["zh-TW"] !== char["zh-CN"])
-      .map((char) => char["zh-CN"]);
-    const wordsTWwoCN = langSpecificChars
-      .filter((char) => char["zh-TW"] !== char["zh-CN"])
-      .map((char) => char["zh-TW"])
-      .filter((charZhTw) => charZhTw !== undefined);
-    const wordsTwwoJA = langSpecificChars
-      .filter((char) => char["zh-TW"] !== char.ja)
-      .map((char) => char["zh-TW"])
-      .filter((charZhTw) => charZhTw !== undefined);
-
     if (word.ja) {
+      const wordsCN = langSpecificChars
+        .filter((char) => char["zh-CN"] !== char.ja)
+        .map((char) => char["zh-CN"]);
+      const wordsTwwoJA = langSpecificChars
+        .filter((char) => char["zh-TW"] !== char.ja)
+        .map((char) => char["zh-TW"])
+        .filter((charZhTw) => charZhTw !== undefined);
+
       expect(word.ja).not.toContain(wordsCN)
       expect(word.ja).not.toContain(wordsTwwoJA)
     }
 
     if (word.zhCN) {
+      const wordsJA = langSpecificChars
+        .filter((char) => char["zh-CN"] !== char.ja)
+        .map((char) => char.ja);
+      const wordsTWwoCN = langSpecificChars
+        .filter((char) => char["zh-TW"] !== char["zh-CN"])
+        .map((char) => char["zh-TW"])
+        .filter((charZhTw) => charZhTw !== undefined);
+
       expect(word.zhCN).not.toContain(wordsJA)
       expect(word.zhCN).not.toContain(wordsTWwoCN)
     }
 
     if (word.zhTW) {
+      const wordsCNwoTW = langSpecificChars
+        .filter((char) => char["zh-TW"] && char["zh-TW"] !== char["zh-CN"])
+        .map((char) => char["zh-CN"]);
+      const wordsJAwoTW = langSpecificChars
+        .filter((char) => char["zh-TW"] !== char.ja)
+        .map((char) => char.ja);
+
       expect(word.zhTW).not.toContain(wordsCNwoTW)
       expect(word.zhTW).not.toContain(wordsJAwoTW)
     }
