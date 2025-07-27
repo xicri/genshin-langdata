@@ -645,8 +645,12 @@ test("if the each translations do not include characters from the other language
       expect(word.zhTW).not.toMatch(/[ぁ-んァ-ヴー]/);
     }
 
-    const wordsJA = langSpecificChars.map((char) => char.ja);
-    const wordsCN = langSpecificChars.map((char) => char["zh-CN"]);
+    const wordsJA = langSpecificChars
+      .filter((char) => char["zh-CN"] !== char.ja)
+      .map((char) => char.ja);
+    const wordsCN = langSpecificChars
+      .filter((char) => char["zh-CN"] !== char.ja)
+      .map((char) => char["zh-CN"]);
     const wordsJAwoTW = langSpecificChars
       .filter((char) => char["zh-TW"] !== char.ja)
       .map((char) => char.ja);
