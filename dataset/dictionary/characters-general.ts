@@ -94,15 +94,16 @@ export default [
     tags: [ "character-sub" ],
   },
 
-  //
-  // Heavenly Principle
-  //
   {
-    en: "Sustainer of Heavenly Principles",
-    ja: "天理の調停者",
-    zhCN: "天理的维系者",
-    zhTW: "天理的維繫者",
+    en: "Sustainer of \"Heavenly Principles\"",
+    ja: "「天理」の調停者",
+    zhCN: "「天理」的维系者",
+    zhTW: "「天理」的維繫者",
     pronunciationJa: "てんりのちょうていしゃ",
+    notesEn: "Another name for \"Ruler of Space\"",
+    notes: "空の執政の別の呼び方",
+    notesZh: "空之执政的代称。",
+    notesZhTW: "空之執政的代稱。",
     tags: [ "character-sub" ],
   },
   {
@@ -192,6 +193,21 @@ export default [
     notes: "ナベリウスの称号",
     notesZh: "纳贝里士的称号。",
     notesZhTW: "納貝里士的稱號。",
+  },
+  {
+    en: "Asmoday", // TODO: maybe "Sustainer of Space"?
+    ja: "アスモダイ",
+    zhCN: "阿斯莫代",
+    zhTW: "阿斯莫代",
+    tags: [ "character-sub" ],
+  },
+  {
+    en: "Ruler of Space", // TODO: maybe "Asmoday"?
+    ja: "空の執政",
+    zhCN: "空之执政",
+    zhTW: "空之執政",
+    pronunciationJa: "くうのしっせい",
+    tags: [ "mondstadt", "title" ],
   },
   {
     en: "The Trinity of Moon Goddesses",
