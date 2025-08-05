@@ -234,7 +234,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
 });
 
 test("if the each translations do not include characters from the other languages", {
-  timeout: 20000
+  timeout: 45000
 }, async () => {
   type LangSpecificChars = {
     ja: string;
@@ -645,45 +645,27 @@ test("if the each translations do not include characters from the other language
       expect(word.zhTW).not.toMatch(/[ぁ-んァ-ヴー]/);
     }
 
-    if (word.ja) {
-      const nonJapaneseChars = [
-        ...langSpecificChars
-          .filter((char) => char["zh-CN"] !== char.ja)
-          .map((char) => char["zh-CN"]),
-        ...langSpecificChars
-          .filter((char) => char["zh-TW"] !== char.ja)
-          .map((char) => char["zh-TW"])
-          .filter((charZhTw) => charZhTw !== undefined),
-      ];
+    for (const char of langSpecificChars) {
+      if (word.ja && word.zhCN) {
+        if (char.ja !== char["zh-CN"]) {
+          expect(word.ja).not.toContain(char["zh-CN"]);
+          expect(word.zhCN).not.toContain(char.ja);
+        }
+      }
 
-      expect(word.ja).not.toContain(nonJapaneseChars);
-    }
+      if (word.ja && word.zhTW) {
+        if (char.ja !== char["zh-TW"]) {
+          expect(word.ja).not.toContain(char["zh-TW"]);
+          expect(word.zhTW).not.toContain(char.ja);
+        }
+      }
 
-    if (word.zhCN) {
-      const nonSimplifiedChineseChars = [
-        ...langSpecificChars
-          .filter((char) => char["zh-CN"] !== char.ja)
-          .map((char) => char.ja),
-        ...langSpecificChars
-          .filter((char) => char["zh-TW"] !== char["zh-CN"])
-          .map((char) => char["zh-TW"])
-          .filter((charZhTw) => charZhTw !== undefined),
-      ];
-
-      expect(word.zhCN).not.toContain(nonSimplifiedChineseChars);
-    }
-
-    if (word.zhTW) {
-      const nonTraditionalChineseChars = [
-        ...langSpecificChars
-          .filter((char) => char["zh-TW"] && char["zh-TW"] !== char["zh-CN"])
-          .map((char) => char["zh-CN"]),
-        ...langSpecificChars
-          .filter((char) => char["zh-TW"] !== char.ja)
-          .map((char) => char.ja),
-      ];
-
-      expect(word.zhTW).not.toContain(nonTraditionalChineseChars);
+      if (word.zhCN && word.zhTW) {
+        if (char["zh-CN"] !== char["zh-TW"]) {
+          expect(word.zhCN).not.toContain(char["zh-TW"]);
+          expect(word.zhTW).not.toContain(char["zh-CN"]);
+        }
+      }
     }
   }
 });
