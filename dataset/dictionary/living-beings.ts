@@ -190,13 +190,6 @@ export default [
     zhTW: "流沙鰻鰻",
     tags: [ "living-being", "sumeru" ],
   },
-  {
-    en: "Bakunawa",
-    ja: "バクナワ",
-    zhCN: "巴窟纳瓦",
-    zhTW: "巴窟納瓦",
-    tags: [ "living-being" ],
-  },
 
   //
   // Liyue
@@ -702,6 +695,22 @@ export default [
     zhCN: "游炎古琵鹭",
     zhTW: "遊炎古琵鷺",
     pronunciationJa: "トモシビヘラサギ・こしゅ",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Monetoo",
+    ja: "幻写霊",
+    zhCN: "幻写灵",
+    zhTW: "幻寫靈",
+    pronunciationJa: "げんしゃれい",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
+    en: "Asha",
+    ja: "アシャ",
+    zhCN: "阿夏",
+    zhTW: "阿夏",
+    notes: "のびのびリゾートに生息する変わった幻写霊",
     tags: [ "natlan", "living-being" ],
   },
 ] as const satisfies SourceWord[];

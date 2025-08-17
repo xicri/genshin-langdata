@@ -3002,6 +3002,20 @@ export default [
     tags: [ "natlan", "enemy", "living-being" ],
   },
   {
+    en: "Capybara Great Majesty!",
+    ja: "カピバラ キング!",
+    zhCN: "豚兽 大王!",
+    zhTW: "豚獸 大王!",
+    tags: [ "natlan", "enemy", "living-being" ],
+  },
+  {
+    en: "Bakunawa",  // note: It may become an enemy-boss in the future. You can rematch it every two days after the battle.
+    ja: "バクナワ",
+    zhCN: "巴窟纳瓦",
+    zhTW: "巴窟納瓦",
+    tags: [ "natlan", "enemy" ],
+  },
+  {
     en: "Gluttonous Yumkasaur Mountain King",
     ja: "山の王・貪食のユムカ竜",
     zhCN: "贪食匿叶龙山王",

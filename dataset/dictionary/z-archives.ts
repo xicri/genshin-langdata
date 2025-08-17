@@ -488,8 +488,8 @@ export default [
     zhCN: "渡火者的决绝",
     zhTW: "渡火者的決絕",
     pronunciationJa: "ひわたりのけんじつ",
-    notes: "聖遺物セット「烈火を渡る賢者」(Lavawalker) の1つ",
-    tags: [ "artifact-piece" ],
+    notes: "聖遺物セット「烈火を渡る賢者」(Lavawalker) の1つ、および世界任務「最後のテノチズトク人」で淵上から貰った花",
+    tags: [ "artifact-piece", "item" ],
   },
   {
     en: "Lavawalker's Salvation",

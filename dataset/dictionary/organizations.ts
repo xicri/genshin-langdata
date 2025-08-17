@@ -610,6 +610,22 @@ export default [
     notes: "イアンサが属する部族",
     tags: [ "natlan" ],
   },
+  {
+    en: "Tecpatl's Flintblades Adventure Team",
+    ja: "「燧石の鋒」冒険団",
+    zhCN: "「燧石之锋」冒险团",
+    zhTW: "「燧石之鋒」冒険團",
+    pronunciationJa: "すいせきのほこ ぼうけんだん",
+    tags: [ "natlan", "organization" ],
+  },
+  {
+    en: "\"Muratans\"",
+    ja: "「ムーナタ」",
+    zhCN: "穆纳塔",
+    zhTW: "穆納塔",
+    notes: "世界任務「最後のテノチズトク人」で淵上から語られた情報でテノチズトク人の末裔。日本語ではムー「ナ」タ表記だが英語ではMu\"ra\"tans 表記で、原神セレベンツ(漫画)のムラタ人と同一民族の可能性がある",
+    tags: [ "natlan", "organization" ],
+  },
 
   //
   // Nod-Krai

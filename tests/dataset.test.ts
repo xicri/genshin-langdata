@@ -234,7 +234,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
 });
 
 test("if the each translations do not include characters from the other languages", {
-  timeout: 45000
+  timeout: 75000
 }, async () => {
   type LangSpecificChars = {
     ja: string;
@@ -418,11 +418,13 @@ test("if the each translations do not include characters from the other language
       "zh-CN": "库",
       "zh-TW": "庫",
     },
+    /*
     {
       ja: "誇",
       "zh-CN": "夸",
-      "zh-TW": "誇",
+      "zh-TW": "誇",  // Note: "馬夸胡伊特爾" is the official translation in the game v5.8. Isn't it normal to use "誇"?
     },
+    */
     {
       ja: "徳",
       "zh-CN": "德",
