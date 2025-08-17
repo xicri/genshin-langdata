@@ -3009,11 +3009,11 @@ export default [
     tags: [ "natlan", "enemy", "living-being" ],
   },
   {
-    en: "Bakunawa",  // note: It may become an enemy-boss in the future. You can rematch it every two days after the battle.
+    en: "Bakunawa",
     ja: "バクナワ",
     zhCN: "巴窟纳瓦",
     zhTW: "巴窟納瓦",
-    tags: [ "natlan", "enemy" ],
+    tags: [ "natlan", "enemy-boss" ],
   },
   {
     en: "Gluttonous Yumkasaur Mountain King",
