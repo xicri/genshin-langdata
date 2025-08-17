@@ -2866,7 +2866,7 @@ export default [
     ja: "アロニ",
     zhCN: "阿洛妮",
     zhTW: "阿洛妮",
-    notes: "ベネットの母親およびアシャ。「燧石の鋒」冒険団団員",
+    notes: "ベネットの母親。「燧石の鋒」冒険団団員",
     tags: [ "natlan", "character-sub" ],
   },
   {
