@@ -2931,4 +2931,25 @@ export default [
     pronunciationJa: "あかトロピカルキノコ",
     tags: [ "natlan", "food" ],
   },
+  {
+    en: "Mini Asha Pockets",
+    ja: "アシャパン",
+    zhCN: "小小阿夏包",
+    zhTW: "小小阿夏包",
+    tags: [ "natlan", "food" ],
+  },
+  {
+    en: "Nanas Cake",
+    ja: "ナナズパインケーキ",
+    zhCN: "娜娜丝梨饼",
+    zhTW: "娜娜絲梨餅",
+    tags: [ "natlan", "food" ],
+  },
+  {
+    en: "Shrimp Bisque",
+    ja: "チュペ・デ・カマロネス",
+    zhCN: "虾肉浓汤",
+    zhTW: "蝦肉濃湯",
+    tags: [ "natlan", "food" ],
+  },
 ] as const satisfies SourceWord[];

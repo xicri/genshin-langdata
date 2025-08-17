@@ -368,6 +368,18 @@ export default [
     notes: "魔神任務第五章第五幕",
   },
 
+  // Nod-krai, 
+  {
+    en: "The Journey Home",
+    ja: "帰途",
+    zhCN: "归途",
+    zhTW: "歸途",
+    pronunciationJa: "きと",
+    tags: [ "nodkrai", "natlan", "quest-archon" ],
+    notes: "空月の歌 序奏",
+  },
+
+
   // Traveler
   {
     en: "A Space and Time for You",
@@ -2525,6 +2537,62 @@ export default [
     zhCN: "终有独行之日",
     zhTW: "終有獨行之日",
     pronunciationJa: "ひとりだちのひ",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "All Good Reunions Follow a Search",
+    ja: "待ち望んだ再会",
+    zhCN: "欢聚总在寻觅后",
+    zhTW: "歡聚總在尋覓後",
+    pronunciationJa: "まちのぞんださいかい",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Encounters Always Happen on a Holiday",
+    ja: "出会いは余暇と共に",
+    zhCN: "邂逅总在悠闲时",
+    zhTW: "邂逅總在悠閒時",
+    pronunciationJa: "であいはよかとともに",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Shine On, Pipilpan Idol!",
+    ja: "輝け! ピピルパン・アイドルコンテスト!",
+    zhCN: "闪耀! 皮皮潘偶像大赛!",
+    zhTW: "閃耀! 皮皮潘偶像大賽!",
+    pronunciationJa: "かがやけ! ピピルパン・アイドルコンテスト!",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Traces of Chroma",
+    ja: "流彩の軌跡",
+    zhCN: "流彩的踪迹",
+    zhTW: "流彩的蹤跡",
+    pronunciationJa: "りゅうさいのきせき",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Strange Encounter of the Tete Isle Kind",
+    ja: "ティティ島での出会い",
+    zhCN: "提提奇遇",
+    zhTW: "提提奇遇",
+    pronunciationJa: "ティティとうでのであい",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "Dreamy Paititi",
+    ja: "夢のパイティティ",
+    zhCN: "美梦帕伊提提",
+    zhTW: "美夢帕伊提提",
+    pronunciationJa: "ゆめのパイティティ",
+    tags: [ "natlan", "quest-world" ],
+  },
+  {
+    en: "The Last Survivor of Tenochtzitoc",
+    ja: "最後のテノチズトク人",
+    zhCN: "最后的特诺奇兹托克人",
+    zhTW: "最後的特諾奇茲托克人",
+    pronunciationJa: "さいごのテノチズトクじん",
     tags: [ "natlan", "quest-world" ],
   },
 

@@ -741,6 +741,16 @@ export default [
     zhTW: "撼地者",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "Flame-Forged Insight",
+    ja: "知恵の溶炎",
+    zhCN: "拾慧铸熔",
+    zhTW: "拾慧鑄熔",
+    pronunciationJa: "ちえのようえん",
+    tags: [ "weapon", "claymore", "event" ],
+    notes: "v5.8 期間限定イベント「染夏! 烈日? リゾート満喫!」報酬",
+    notesZh: "v5.8 活动「绘夏! 烈日? 度假村」奖励",
+  },
   // ★5
   {
     en: "Skyward Pride",
@@ -1185,6 +1195,14 @@ export default [
     zhCN: "香韵奏者",
     zhTW: "香韻奏者",
     pronunciationJa: "かおりのシンフォニスト",
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Fractured Halo",
+    ja: "砕け散る光輪",
+    zhCN: "支离轮光",
+    zhTW: "支離輪光",
+    pronunciationJa: "くだけちるこうりん",
     tags: [ "weapon", "polearm" ],
   },
 

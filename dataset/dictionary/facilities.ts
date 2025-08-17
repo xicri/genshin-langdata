@@ -563,6 +563,52 @@ export default [
     pronunciationJa: "ゆめみづきのホッとひといき",
     tags: [ "natlan", "facility" ],
   },
+  {
+    en: "Shoal's Haven",
+    ja: "魚たちの家",
+    zhCN: "鱼群之家",
+    zhTW: "魚群之家",
+    pronunciationJa: "さかなたちのいえ",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "Me & Dew",
+    ja: "ドランクハニー",
+    zhCN: "醅蜜",
+    zhTW: "醅蜜",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "Asha's Treasure Trove",
+    ja: "アシャの宝庫",
+    zhCN: "阿夏的宝库",
+    zhTW: "阿夏的寶庫",
+    pronunciationJa: "アシャのほうこ",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "Sun",
+    ja: "太陽",
+    zhCN: "太阳",
+    zhTW: "太陽",
+    pronunciationJa: "たいよう",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "Floral Whispers",
+    ja: "フローラルウィスパー",
+    zhCN: "繁花之语",
+    zhTW: "繁花之語",
+    tags: [ "natlan", "facility" ],
+  },
+  {
+    en: "Street Fighting Fontainian",
+    ja: "ストリート ファイティング フォンテニアン",
+    zhCN: "灰河街斗士",
+    zhTW: "灰河街鬥士",
+    notes: "中国語での店名を直訳すると「サーンドル河のストリートファイター」",
+    tags: [ "natlan", "facility" ],
+  },
 
   //
   // Nod-Krai

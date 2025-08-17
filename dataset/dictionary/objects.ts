@@ -1452,4 +1452,31 @@ export default [
     notes: "「秘源の龍像」を構成するひとつのブロック。名称はチュートリアルに記載",
     tags: [ "natlan", "object" ],  // Notes: 側面から衝撃波攻撃してくるがenemyとは違うと思う
   },
+  {
+    en: "Koholasaur Dolls",
+    ja: "コホラ竜のぬいぐるみ",
+    zhCN: "鳍游龙小玩偶",
+    zhTW: "鰭游龍小玩偶",
+    pronunciationJa: "コホラりゅうのぬいぐるみ",
+    notes: "のびのびリゾート各地に配置されているコホラ竜を模して頭にプロペラのついたぬいぐるみ。カラフル洞窟の中で偽物が密造されている",
+    tags: [ "natlan", "object" ],
+  },
+  {
+    en: "Seven-Colored Statue",
+    ja: "七色のびのび像",
+    zhCN: "七色悠悠像",
+    zhTW: "七色悠悠像",
+    pronunciationJa: "しちいろのびのびぞう",
+    notes: "のびのびマーケットの広場にある、七色に染められた像",
+    tags: [ "natlan", "object" ],
+  },
+  {
+    en: "Dance-Off Stage",
+    ja: "熱狂ターンテーブル",
+    zhCN: "热舞乐台",
+    zhTW: "熱舞樂臺",
+    pronunciationJa: "ねっきょうターンテーブル",
+    notes: "ティティ島のステージ上にある飛行可能なDJブースを備えた巨大なターンテーブル",
+    tags: [ "natlan", "object" ],
+  },
 ] as const satisfies SourceWord[];
