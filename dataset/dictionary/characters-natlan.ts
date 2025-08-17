@@ -2874,7 +2874,7 @@ export default [
     ja: "マカンニ",
     zhCN: "马坎尼",
     zhTW: "馬坎尼",
-    notes: "ベネットの父親およびアシャ。「燧石の鋒」冒険団団長",
+    notes: "ベネットの父親。「燧石の鋒」冒険団団長",
     tags: [ "natlan", "character-sub" ],
   },
   {
