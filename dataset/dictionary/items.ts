@@ -1810,6 +1810,14 @@ export default [
     tags: [ "item", "event" ],
   },
   {
+    en: "Forensic Imaging Device",
+    ja: "総合映像記録器",
+    zhCN: "综像勘录仪",
+    zhTW: "綜像勘錄儀",
+    pronunciationJa: "そうごうえいぞうきろくき",
+    tags: [ "item", "event" ],
+  },
+  {
     en: "Mementos of Teyvat Albums",
     ja: "テイワットの思い出のアルバム",
     zhCN: "提瓦特忆册",

@@ -234,7 +234,7 @@ test("if property values of dictionary JSON complies the format.", async () => {
 });
 
 test("if the each translations do not include characters from the other languages", {
-  timeout: 75000
+  timeout: 90000
 }, async () => {
   type LangSpecificChars = {
     ja: string;

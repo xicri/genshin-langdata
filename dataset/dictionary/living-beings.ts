@@ -698,6 +698,14 @@ export default [
     tags: [ "natlan", "living-being" ],
   },
   {
+    en: "Ancient Glazeback Turtle",
+    ja: "琉彩ガメ・古種",
+    zhCN: "琉背古彩龟",
+    zhTW: "琉背古彩龜",
+    pronunciationJa: "りゅうさいガメ・こしゅ",
+    tags: [ "natlan", "living-being" ],
+  },
+  {
     en: "Monetoo",
     ja: "幻写霊",
     zhCN: "幻写灵",
