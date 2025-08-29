@@ -2595,6 +2595,14 @@ export default [
     pronunciationJa: "さいごのテノチズトクじん",
     tags: [ "natlan", "quest-world" ],
   },
+  {
+    en: "Convert Investigation, Dirty Money Misdeeds",
+    ja: "ハラハラ潜入捜査",
+    zhCN: "隠行谛勘, 秽金之罪",
+    zhTW: "隠行諦勘, 穢金之罪",
+    pronunciationJa: "ハラハラせんにゅうそうさ",
+    tags: [ "natlan", "quest-world", "event" ],
+  },
 
   //
   // World Quests - Random Quests
