@@ -3091,12 +3091,12 @@ export default [
   // Natlan's Local legend
   {
     en: "Polychrome Tri-Stars",
-    ja: "「 異色三連星」",
+    ja: "「異色三連星」",
     zhCN: "「异色三连星」",
     zhTW: "「異色三連星」",
     pronunciationJa: "いしょくさんれんせい",
     notes: "ナタの地方伝説の3人のファデュイ",
-    tags: [ "natlan", "fatui", "enemy-legend" ],
+    tags: [ "natlan", "fatui", "enemy", "enemy-legend" ],
   },
   {
     en: "Cocijo",
@@ -3113,7 +3113,7 @@ export default [
     zhTW: "「海浪中的莎芙」",
     pronunciationJa: "なみのジャプー",
     notes: "ナタの地方伝説の1人の人物",
-    tags: [ "natlan", "character-sub", "enemy-legend" ],
+    tags: [ "natlan", "character-sub", "enemy", "enemy-legend" ],
   },
   {
     en: "Balachko",
@@ -3121,7 +3121,7 @@ export default [
     zhCN: "「巴拉奇科」",
     zhTW: "「巴拉奇科」",
     notes: "ナタの地方伝説の1人のファデュイ",
-    tags: [ "natlan", "fatui", "character-sub", "enemy-legend"],
+    tags: [ "natlan", "fatui", "character-sub", "enemy", "enemy-legend"],
   },
   {
     en: "Cihuacoatl of Chimeric Bone",
@@ -3130,7 +3130,7 @@ export default [
     zhTW: "「嵌合神骨的蛇姬」",
     pronunciationJa: "しんこつのじゃき",  // TODO need check
     notes: "ナタの地方伝説の1人で、人物の霊体",
-    tags: [ "natlan", "character-sub", "enemy-legend"],
+    tags: [ "natlan", "character-sub", "enemy", "enemy-legend"],
   },
   {
     en: "He Never Dies",
@@ -3164,7 +3164,7 @@ export default [
     zhCN: "莉莱",
     zhTW: "莉萊",
     notes: "ナタの地方伝説1人の人物",
-    tags: [ "natlan", "character-sub", "enemy-legend"],
+    tags: [ "natlan", "character-sub", "enemy", "enemy-legend"],
   },
   {
     en: "\"Spirit of the Fallen Dawnstar\"",
@@ -3200,7 +3200,7 @@ export default [
     zhTW: "鐵鬚",
     pronunciationJa: "てつひげ",
     notes: "ナタの地方伝説1人の人物",
-    tags: [ "natlan", "character-sub", "enemy-legend"],
+    tags: [ "natlan", "character-sub", "enemy", "enemy-legend"],
   },
   {
     en: "\"Tupu's Lushness\"",
@@ -3217,7 +3217,7 @@ export default [
     zhCN: "「雷吉」",
     zhTW: "「雷吉」",
     notes: "ナタの地方伝説1人の人物",
-    tags: [ "natlan", "character-sub", "enemy-legend"],
+    tags: [ "natlan", "character-sub", "enemy", "enemy-legend"],
   },
   {
     en: "\"Infinitesimal\"",
@@ -3260,7 +3260,7 @@ export default [
     zhCN: "豚兽 大王!",
     zhTW: "豚獸 大王!",
     notes: "ナタの地方伝説の1体で、カピバラの変異体",
-    tags: [ "natlan", "enemy", "living-being", "enemy-legend" ],
+    tags: [ "natlan", "living-being", "enemy", "enemy-legend" ],
   },
 
 ] as const satisfies SourceWord[];
