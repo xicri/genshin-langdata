@@ -3169,6 +3169,123 @@ export default [
   },
 
   //
+  // Selenic Chronicles
+  //
+  {
+    en: "Selenic Chronicles",
+    ja: "月下見聞",
+    zhCN: "月下纪闻",
+    zhTW: "月下紀聞",
+    pronunciationJa: "げっかけんぶん",
+    tags: [ "natlan", "quest-selenic" ],
+  },
+  // Nod-Krai
+  {
+    en: "The Tale of the Gate Stone",
+    ja: "戸口にある石",
+    zhCN: "居于门户之石",
+    zhTW: "居於門戸之石",
+    pronunciationJa: "とぐちにあるいし",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "Gift of the Mirage",
+    ja: "蜃気楼の収穫",
+    zhCN: "蜃楼之获",
+    zhTW: "蜃樓之獲",
+    pronunciationJa: "しんきろうのしゅうかく",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "The Mirrors, the Maze, and the Tsar",
+    ja: "鏡と迷宮と国王",
+    zhCN: "镜子、迷宫与国王",
+    zhTW: "鏡子、迷宮與國王",
+    pronunciationJa: "かがみとめいきゅうとこくおう",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "For a Green Island...",
+    ja: "緑の島のために…",
+    zhCN: "为一座绿色的岛屿…",
+    zhTW: "為一座綠色的島嶼…",
+    pronunciationJa: "みどりのしまのために",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "Echoes of Unfinished Past",
+    ja: "これから始まる物語",
+    zhCN: "事犹未了",
+    zhTW: "事猶未了",
+    pronunciationJa: "これからはじまるものがたり",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "The Tale-Telling Heart",
+    ja: "密告の心",
+    zhCN: "告密的心",
+    zhTW: "告密的心",
+    pronunciationJa: "みっこくのこころ",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "Team Rigor, or Team Intuition?",
+    ja: "慎重派？ それとも直感派？",
+    zhCN: "是严谨派还是悟性派?",
+    zhTW: "是嚴謹派還是悟性派?",
+    pronunciationJa: "しんちょうは それともちょっかんは",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "Whisper Beneath the Waves",
+    ja: "波底のささやき",
+    zhCN: "浪底的低语",
+    zhTW: "浪底的低語",
+    pronunciationJa: "はていのささやき",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "The Power of Research",
+    ja: "研究の原動力",
+    zhCN: "科研的动力",
+    zhTW: "研究的動力",
+    pronunciationJa: "けんきゅうのげんどうりょく",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "Friends of Moleyvalley",
+    ja: "モレー谷の仲間たち",
+    zhCN: "莫雷谷的伙伴们",
+    zhTW: "莫雷谷的夥伴們",
+    pronunciationJa: "モレーたにのなかまたち",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "The Shoemaker's Children Go Barefoot",
+    ja: "靴職人の子はいつも裸足！",
+    zhCN: "鞋匠的孩子总是光脚",
+    zhTW: "鞋匠的孩子總是光脚",
+    pronunciationJa: "くつしょくにんのこはいつもはだし",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "Priorities First",
+    ja: "優先事項",
+    zhCN: "要事优先",
+    zhTW: "要事優先",
+    pronunciationJa: "ゆうせんじこう",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+  {
+    en: "Drifting Toward a Promised Sky",
+    ja: "空へ飛ぶ約束",
+    zhCN: "飞向天空的约定",
+    zhTW: "飛向天空的約定",
+    pronunciationJa: "そらへとぶやくそく",
+    tags: [ "nodkrai", "quest-selenic" ],
+  },
+
+  //
   // Commission Quests
   //
   {

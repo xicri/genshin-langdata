@@ -345,6 +345,7 @@ test("if the each translations do not include characters from the other language
     {
       ja: "緑",
       "zh-CN": "绿",
+      "zh-TW": "綠",
     },
     {
       ja: "約",
@@ -680,6 +681,16 @@ test("if the each translations do not include characters from the other language
       ja: "間",
       "zh-CN": "间",
       "zh-TW": "間",
+    },
+    {
+      ja: "厳",
+      "zh-CN": "严",
+      "zh-TW": "嚴",
+    },
+    {
+      ja: "飛",
+      "zh-CN": "飞",
+      "zh-TW": "飛",
     },
   ];
 
