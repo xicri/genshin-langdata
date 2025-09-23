@@ -2607,8 +2607,16 @@ export default [
     zhCN: "小机器人",
     zhTW: "小機器人",
     pronunciationJa: "ちいさなロボット",
-    notes: "魔神任務「帰途」に登場するロボット",
-    tags: [ "natlan", "character-sub" ],
+    notes: "魔神任務「帰途」「塵と灯のエレジー」に登場するキャラクター。正式名称は「ビルギッタ」。アイノは「ピポピポ」と呼んでいる",
+    tags: [ "natlan", "nodkrai", "character-sub", "how-to-call" ],
+  },
+  {
+    en: "Birgitta",
+    ja: "ビルギッタ",
+    zhCN: "薇尔琪塔",
+    zhTW: "薇爾琪塔",
+    notes: "魔神任務「帰途」「塵と灯のエレジー」に登場するキャラクター。アイノは「ピポピポ」と呼んでいる",
+    tags: [ "natlan", "nodkrai", "character-sub" ],
   },
   {
     en: "\"Sovereign ruler\"",
@@ -2878,23 +2886,21 @@ export default [
     tags: [ "natlan", "character-sub" ],
   },
   {
-    en: "Chaco",  // memo: YouTube『【原神】ストーリームービー「世界一幸運な子」』より
+    en: "Chaco",
     ja: "チャーチュ",
     zhCN: "查丘",
     zhTW: "查丘",
     notes: "チャーチュ叔父さんと呼ばれている。「燧石の鋒」冒険団団員",
     tags: [ "natlan", "character-sub" ],
   },
-  /*
   {
-    en: "?",  // memo: YouTube『【原神】ストーリームービー「世界一幸運な子」』、bilibili『《原神》剧情PV-「最幸运的孩子」』の説明にだけ出て来る名前。英語表記と繫体文字表記は公式にはない
+    en: "Anja",
     ja: "アンジェア",
     zhCN: "安洁娅",
-    zhTW: "安潔婭?",
+    zhTW: "安潔婭",
     notes: "「燧石の鋒」冒険団団員",
     tags: [ "natlan", "character-sub" ],
   },
-  */
   {
     en: "Atzilli",
     ja: "エズリ",
@@ -3036,8 +3042,8 @@ export default [
     ja: "パパール",
     zhCN: "帕帕",
     zhTW: "帕帕",
-    notes: "世界任務「最後のテノチズトク人」に登場する人物。彼の会話に出て来る「海内くん」は「淵上」と称するものと同一人物",
-    tags: [ "natlan", "character-sub" ],
+    notes: "世界任務「最後のテノチズトク人」に登場する人物およびナタの地方伝説の1人の人物。彼の会話に出て来る「海内くん」は「淵上」と称するものと同一人物",
+    tags: [ "natlan", "character-sub", "enemy", "enemy-legend" ],
   },
   {
     en: "Leyla",

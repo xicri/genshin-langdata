@@ -368,7 +368,7 @@ export default [
     notes: "魔神任務第五章第五幕",
   },
 
-  // Nod-krai, 
+  // Nod-krai
   {
     en: "The Journey Home",
     ja: "帰途",
@@ -377,6 +377,24 @@ export default [
     pronunciationJa: "きと",
     tags: [ "nodkrai", "natlan", "quest-archon" ],
     notes: "空月の歌 序奏",
+  },
+  {
+    en: "A Dance of Snowy Tides and Hoarfrost Groves",
+    ja: "白銀の浪と蒼林の舞",
+    zhCN: "雪浪与苍林之舞",
+    zhTW: "雪浪與蒼林之舞",
+    pronunciationJa: "はくぎんのなみとそうりんのまい",
+    tags: [ "nodkrai", "quest-archon" ],
+    notes: "空月の歌 第一幕",
+  },
+  {
+    en: "Elegy of Dust and Lamplight",
+    ja: "塵と灯のエレジー",
+    zhCN: "尘与灯的挽歌",
+    zhTW: "塵與燈的輓歌",
+    pronunciationJa: "ちりとともしびのエレジー",
+    tags: [ "nodkrai", "quest-archon" ],
+    notes: "空月の歌 第二幕",
   },
 
 
@@ -2593,7 +2611,8 @@ export default [
     zhCN: "最后的特诺奇兹托克人",
     zhTW: "最後的特諾奇茲托克人",
     pronunciationJa: "さいごのテノチズトクじん",
-    tags: [ "natlan", "quest-world" ],
+    notes: "世界任務のタイトル、およびナタの地方伝説の1人の人物。演者はパパール",
+    tags: [ "natlan", "quest-world", "enemy", "enemy-legend", "character-sub" ],
   },
   {
     en: "Convert Investigation, Dirty Money Misdeeds",
@@ -2602,6 +2621,56 @@ export default [
     zhTW: "隠行諦勘, 穢金之罪",
     pronunciationJa: "ハラハラせんにゅうそうさ",
     tags: [ "natlan", "quest-world", "event" ],
+  },
+
+  // World Quests - Nod-Krai
+  {
+    en: "Polkka Beneath the Moon's Oracle",
+    ja: "月諭のポルカ",
+    zhCN: "月谕的半歩舞",
+    zhTW: "月諭的半步舞",
+    pronunciationJa: "げつゆのポルカ",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "East of the Moon, West of the Sun",
+    ja: "月の東、太陽の西",
+    zhCN: "月之東, 日之西",
+    zhTW: "月之東, 日之西",
+    pronunciationJa: "つきのひがし、たいようのにし",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "To the Lighthouse",
+    ja: "灯台へ",
+    zhCN: "到灯塔去",
+    zhTW: "到燈塔去",
+    pronunciationJa: "とうだいへ",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "Problem-Sorting Robot",
+    ja: "問題分別ロボット",
+    zhCN: "问题分拣机器人",
+    zhTW: "問題分類機器人",
+    pronunciationJa: "もんだいぶんべつロボット",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "Food Matters",
+    ja: "食事は大事",
+    zhCN: "餐食大事",
+    zhTW: "餐食大事",
+    pronunciationJa: "しょくじはだいじ",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "The Stress of Changing Careers",
+    ja: "転職はいつも不安になる",
+    zhCN: "转行总是令人焦虑",
+    zhTW: "轉行總是令人焦慮",
+    pronunciationJa: "てんしょくはいつもふあんになる",
+    tags: [ "nodkrai", "quest-world" ],
   },
 
   //
