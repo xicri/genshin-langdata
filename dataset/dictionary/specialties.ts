@@ -420,4 +420,27 @@ export default [
     tags: [ "specialty", "natlan" ],
     pronunciationJa: "がんれつのはな", // TODO need check
   },
+  {
+    en: "Portable Bearing",
+    ja: "携帯型ベアリング",
+    zhCN: "便携轴承",
+    zhTW: "隨身軸承",
+    tags: [ "specialty", "nodkrai" ],
+    pronunciationJa: "けいたいがたベアリング",
+  },
+  {
+    en: "Frostlamp Flower",
+    ja: "フロストランプ",
+    zhCN: "霜盏花",
+    zhTW: "霜盞花",
+    tags: [ "specialty", "nodkrai" ],
+  },
+  {
+    en: "Moonfall Silver",
+    ja: "月落銀",
+    zhCN: "月落银",
+    zhTW: "月落銀",
+    tags: [ "specialty", "nodkrai" ],
+    pronunciationJa: "げつらくぎん", // TODO need check
+  },
 ] as const satisfies SourceWord[];

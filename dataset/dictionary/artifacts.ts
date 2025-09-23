@@ -652,4 +652,20 @@ export default [
     pronunciationJa: "しんろうのしゅうきょく",
     tags: [ "artifact" ],
   },
+  {
+    en: "Silken Moon's Serenade",
+    ja: "月を紡ぐ夜の歌",
+    zhCN: "纺月的夜歌",
+    zhTW: "紡月的夜歌",
+    pronunciationJa: "つきをつむぐよるのうた",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Night of the Sky's Unveiling",
+    ja: "天穹の顕現せし夜",
+    zhCN: "穹境示现之夜",
+    zhTW: "穹境示現之夜",
+    pronunciationJa: "てんきゅうのけんげんせしよる",
+    tags: [ "artifact" ],
+  },
 ] as const satisfies SourceWord[];
