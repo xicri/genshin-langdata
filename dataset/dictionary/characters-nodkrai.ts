@@ -378,7 +378,7 @@ export default [
     ja: "ヤロンスキー",
     zhCN: "亚洛辛斯基",
     zhTW: "亞洛辛斯基",
-    notes: "「北国銀行」のマネージャー",
+    notes: "ナシャタウンにある北国銀行のマネージャー",
     tags: [ "nodkrai", "snezhnaya", "character-sub" ],
   },
   {
