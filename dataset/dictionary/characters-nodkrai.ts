@@ -68,7 +68,7 @@ export default [
     notesEn: "Owner of \"Curatorium of Secrets\"",
     notes: "「秘聞の館」オーナー",
     notesZh: "「秘闻馆」的主人",
-    tags: [ "nodkrai", "sumeru", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "sumeru", "character-main" ],
   },
   {
     en: "Flins",
@@ -378,7 +378,7 @@ export default [
     ja: "ヤロンスキー",
     zhCN: "亚洛辛斯基",
     zhTW: "亞洛辛斯基",
-    notes: "「北国銀行」のマネージャー",
+    notes: "ナシャタウンにある北国銀行のマネージャー",
     tags: [ "nodkrai", "snezhnaya", "character-sub" ],
   },
   {
