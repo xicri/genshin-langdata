@@ -83,7 +83,7 @@ export default [
     ja: "キャサリン",
     zhCN: "凯瑟琳",
     zhTW: "凱瑟琳",
-    notes: "冒険者協会の受付。ファデュイ執行官「傀儡」に作られた人形",
+    notes: "冒険者協会の受付",
     tags: [ "character-sub" ],
   },
   {
