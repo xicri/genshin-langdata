@@ -2607,7 +2607,7 @@ export default [
     zhCN: "小机器人",
     zhTW: "小機器人",
     pronunciationJa: "ちいさなロボット",
-    notes: "魔神任務「帰途」「塵と灯のエレジー」に登場するキャラクター。正式名称は「ビルギッタ」。アイノは「ピポピポ」と呼んでいる",
+    notes: "イネファと一緒に行動している小型ロボット「ビルギッタ」のこと。アイノは「ピポピポ」と呼んでいる",
     tags: [ "natlan", "nodkrai", "character-sub", "how-to-call" ],
   },
   {
