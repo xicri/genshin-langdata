@@ -603,4 +603,20 @@ export default [
     pronunciationJa: "ひげんのちくあつき",
     tags: [ "natlan", "drop-boss" ],
   },
+  {
+    en: "Precision Kuuvahki Stamping Die",
+    ja: "精密クーヴァキダック金型",
+    zhCN: "精密型月矩力冲鸭模具",
+    zhTW: "精密型月矩力衝鴨模具",
+    pronunciationJa: "せいみつクーヴァキダックかながた",
+    tags: [ "nodkrai", "drop-boss" ],
+  },
+  {
+    en: "Lightbearing Scale-Feather",
+    ja: "採光の鱗羽",
+    zhCN: "承光的鳞羽",
+    zhTW: "承光的鱗羽",
+    pronunciationJa: "さいこうのりんう",
+    tags: [ "nodkrai", "drop-boss" ],
+  },
 ] as const satisfies SourceWord[];

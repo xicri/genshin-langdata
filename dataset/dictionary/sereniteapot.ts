@@ -359,6 +359,22 @@ export default [
     pronunciationJa: "アッシェンロリニアざい",
     tags: [ "sereniteapot", "natlan" ],
   },
+  {
+    en: "Silver Fir Wood",
+    ja: "シルバーシダー材",
+    zhCN: "银冷杉木",
+    zhTW: "銀冷杉木",
+    pronunciationJa: "シルバーシダーざい",
+    tags: [ "sereniteapot", "nodkrai" ],
+  },
+  {
+    en: "Alder Wood",
+    ja: "ミネバリ材",
+    zhCN: "桤木",
+    zhTW: "榿木",
+    pronunciationJa: "ミネバリざい",
+    tags: [ "sereniteapot", "nodkrai" ],
+  },
 
   //
   // Furnishing (調度品)

@@ -83,6 +83,7 @@ export default [
     ja: "キャサリン",
     zhCN: "凯瑟琳",
     zhTW: "凱瑟琳",
+    notes: "冒険者協会の受付",
     tags: [ "character-sub" ],
   },
   {

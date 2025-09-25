@@ -327,7 +327,8 @@ export default [
     zhCN: "「月之少女」",
     zhTW: "「月之少女」",
     pronunciationJa: "つきのしょうじょ",
-    tags: [ "fatui", "nodkrai", "title", "character-main" ],    // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    notes: "コロンビーナの「霜月の子」での呼ばれ方",
+    tags: [ "fatui", "nodkrai", "title", "character-main", "how-to-call" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
   {
     en: "Arlecchino",
@@ -392,6 +393,14 @@ export default [
     notesZh: "桑多涅的代号。",
     notesZhTW: "桑多涅的代號。",
     tags: [ "fatui", "nodkrai", "character-sub", "title" ], // TODO Playability unknown as of Sep, 2025
+  },
+  {
+    en: "Pulonia",
+    ja: "プロンニア",
+    zhCN: "普隆尼亚",
+    zhTW: "普隆尼亞",
+    notes: "「傀儡」と行動を共にする大型ロボット",
+    tags: [ "fatui", "nodkrai", "character-sub" ],
   },
   {
     en: "Pierro",

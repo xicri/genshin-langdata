@@ -15,6 +15,14 @@ export default [
     },
   },
   {
+    en: "Statue of the New Moon",
+    ja: "新月神像",
+    zhCN: "新月神像",
+    zhTW: "新月神像",
+    pronunciationJa: "しんげつしんぞう",
+    tags: [ "nodkrai", "object" ],
+  },
+  {
     en: "worship",
     ja: "奉納する",
     zhCN: "供奉",
@@ -1478,5 +1486,26 @@ export default [
     pronunciationJa: "ねっきょうターンテーブル",
     notes: "ティティ島のステージ上にある飛行可能なDJブースを備えた巨大なターンテーブル",
     tags: [ "natlan", "object" ],
+  },
+  //
+  // Nod-Krai
+  //
+  {
+    en: "The Moon Mirror",
+    ja: "盈月の鏡",
+    zhCN: "盈月之镜",
+    zhTW: "盈月之鏡",
+    pronunciationJa: "えいげつのかがみ",
+    notes: "「霜月の里」各所にある鏡のギミック",
+    tags: [ "nodkrai", "object" ],
+  },
+  {
+    en: "The Lunar Semblance",
+    ja: "月髄の像",
+    zhCN: "月髓之像",
+    zhTW: "月髓之像",
+    pronunciationJa: "げつずいのぞう",
+    notes: "「霜月の里」各所にある、月の神を模した像",
+    tags: [ "nodkrai", "object" ],
   },
 ] as const satisfies SourceWord[];
