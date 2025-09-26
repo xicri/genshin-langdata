@@ -134,17 +134,6 @@ export default [
   // Nod-Krai - Sub Characters
   //
   {
-    en: "Snowland Fae",
-    ja: "雪国の妖精",
-    zhCN: "雪国的妖精",
-    zhTW: "雪國的妖精",
-    notes: "期間限定Webイベント「空月の歌」の情報",
-    notesZh: "限时网页活动「空月之歌」中的信息。",
-    notesZhTW: "限時網頁活動「空月之歌」中的資訊。",
-    pronunciationJa: "ゆきぐにのようせい",
-    tags: [ "nodkrai", "character-sub" ],
-  },
-  {
     en: "Adieta",
     ja: "アディエッタ",
     zhCN: "爱莱妲",
