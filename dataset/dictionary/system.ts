@@ -1144,8 +1144,8 @@ export default [
     ja: "ワイルドハント",
     zhCN: "狂猎",
     zhTW: "狂獵",
-    notes: "アビスに冒された亡霊が出現する現象",  // notes:「ワイルドハント」は集団ではなく現象という説明があるためorganizationではないと判断
-    tags: [ "nodkrai" ],
+    notes: "アビスに冒された亡霊が出現する現象",
+    tags: [ "nodkrai" ], // The Wild Hunt is not an organization but a phenomenon or disaster, as explained in the game.
   },
   {
     en: "Kuuvahki",
