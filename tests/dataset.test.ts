@@ -728,6 +728,16 @@ test("if the each translations do not include characters from the other language
       ja: "園",
       "zh-CN": "园",
       "zh-TW": "園",
+    },
+    {
+      ja: "猫",
+      "zh-CN": "猫",
+      "zh-TW": "貓",
+    },
+    {
+      ja: "麗",
+      "zh-CN": "丽",
+      "zh-TW": "麗",
     }
   ];
 

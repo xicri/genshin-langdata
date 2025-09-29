@@ -311,7 +311,7 @@ export default [
     ja: "ルシーネ",
     zhCN: "鲁什涅",
     zhTW: "魯什涅",
-    notes: "ナシャタウンにいる人物。ライトキーパー",
+    notes: "世界任務「哀しき鈴の音」に登場する、ナシャタウンにいる人物。ライトキーパー",
     tags: [ "nodkrai", "character-sub" ],
   },
   {
@@ -319,7 +319,7 @@ export default [
     ja: "スホヴィーク",
     zhCN: "苏霍维赫",
     zhTW: "蘇霍維赫",
-    notes: "ナシャタウンにいる人物。ライトキーパー",
+    notes: "世界任務「哀しき鈴の音」に登場する、ナシャタウンにいる人物。ライトキーパー",
     tags: [ "nodkrai", "character-sub" ],
   },
   {
@@ -418,7 +418,14 @@ export default [
     notes: "「ミミール書店」店主",
     tags: [ "nodkrai", "character-sub" ],
   },
-
+  {
+    en: "Richeza",
+    ja: "リチェザ",
+    zhCN: "丽切娅",
+    zhTW: "麗切婭",
+    notes: "「スプリング・ヴィレッジ」店員",
+    tags: [ "nodkrai", "character-sub" ],
+  },
   {
     en: "Paavo",
     ja: "パーヴォ",
@@ -821,6 +828,14 @@ export default [
     zhTW: "阿洛契卡",
     notes: "月下見聞「慎重派？ それとも直感派？」に登場するファデュイ",
     tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Sigurd",
+    ja: "ジグルド",
+    zhCN: "西格德",
+    zhTW: "西格德",
+    notes: "世界任務「哀しき鈴の音」に登場する人物。元ライトキーパー。ナド・クライの地方伝説の1人",
+    tags: [ "nodkrai", "character-sub", "enemy", "enemy-legend" ],
   },
 
   // Etcetera
