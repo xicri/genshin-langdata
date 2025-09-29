@@ -857,6 +857,14 @@ export default [
     zhTW: "常夜",
     tags: [ "inazuma" ],
   },
+  {
+    en: "Destiny Drawn",
+    ja: "「縁結びの願掛け」",
+    zhCN: "「相缘绘愿」",
+    zhTW: "「相縁繪願」",
+    notes: "稲妻の鳴神大社で「のんびり旅手帳」に出会う人物の願掛け",
+    tags: [ "inazuma" ],
+  },
 
   //
   // Sumeru
@@ -1127,12 +1135,93 @@ export default [
     pronunciationJa: "ねっとうのうたげ",
     tags: [ "natlan" ],
   },
+
+  //
+  // Nod-Krai
+  //
+  {
+    en: "The Wild Hunt",
+    ja: "ワイルドハント",
+    zhCN: "狂猎",
+    zhTW: "狂獵",
+    notes: "アビスに冒された亡霊が出現する現象",
+    tags: [ "nodkrai" ], // The Wild Hunt is not an organization but a phenomenon or disaster, as explained in the game.
+  },
+  {
+    en: "Kuuvahki",
+    ja: "クーヴァキ",
+    zhCN: "月矩力",
+    zhTW: "月矩力",
+    notes: "ナド・クライの至る所にある特殊な力。赤と青の光からエネルギーを得ることが出来る",
+    tags: [ "nodkrai" ],
+  },
+  {
+    en: "Relic",
+    ja: "聖物",
+    zhCN: "圣物",
+    zhTW: "聖物",
+    notes: "霜月の里に祀られていた宝物。月髄のこと",
+    tags: [ "nodkrai" ],
+  },
+  {
+    en: "Moon Marrow",
+    ja: "月髄",
+    zhCN: "月髓",
+    zhTW: "月髓",
+    notes: "霜月の里に祀られていた宝物。月の三女神の一人「恒月の女神」の遺骸",
+    tags: [ "nodkrai" ],
+  },
+  {
+    en: "Lucky Spin",
+    ja: "ラッキールーレット",
+    zhCN: "好运速转",
+    zhTW: "好運速轉",
+    notes: "ナシャタウンの「スペランザ」敷地にある運勢占い",
+    tags: [ "inazuma" ],
+  },
+
+  //
   // etcetera
+  //
+  /*
+  {
+    en: "",
+    ja: "偽りの空",
+    zhCN: "",
+    zhTW: "",
+    pronunciationJa: "",
+  },
+  */
   {
     en: "Hibernation Chamber on the spaceship",
     ja: "宇宙船スリープポッド",
     zhCN: "飞船休眠仓",
     zhTW: "飛船休眠艙",
     pronunciationJa: "うちゅうせんスリープポッド",
+    tags: [ "nodkrai" ],
+  },
+  {
+    en: "Eternal Moon",
+    ja: "恒月",
+    zhCN: "恒月",
+    zhTW: "恒月",
+    pronunciationJa: "ごうげつ",
+    notes: "かつて存在した天空の3つの月のひとつ。天理との戦争により砕け、いくつかの破片はファデュイの手によりナド・クライに落下した",
+  },
+  {
+    en: "Iridescent Moon",
+    ja: "虹月",
+    zhCN: "虹月",
+    zhTW: "虹月",
+    pronunciationJa: "こうげつ",
+    notes: "かつて存在した天空の3つの月のひとつ。天理との戦争により砕けた",
+  },
+  {
+    en: "Frost Moon",
+    ja: "霜月",
+    zhCN: "霜月",
+    zhTW: "霜月",
+    notes: "天空の3つの月のひとつで、天理との戦争でも砕けずに残った。偽りの空により隠蔽されている",
+    pronunciationJa: "そうげつ",
   },
 ] as const satisfies SourceWord[];

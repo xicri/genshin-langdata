@@ -759,4 +759,31 @@ export default [
     pronunciationJa: "きゅうけいしょのいりぐち",
     tags: [ "natlan", "domain" ],
   },
+  //
+  // Nod-Krai
+  //
+  {
+    en: "Lost Mooncourt",
+    ja: "失われた月の庭",
+    zhCN: "失落的月庭",
+    zhTW: "失落的月庭",
+    pronunciationJa: "うしなわれたつきのにわ",
+    tags: [ "nodkrai", "domain" ],
+  },
+  {
+    en: "Frostladen Machinery",
+    ja: "霜つく機軸",
+    zhCN: "霜凝的机枢",
+    zhTW: "霜凝的機樞",
+    pronunciationJa: "しもつくきじく",  // TODO Need Check
+    tags: [ "nodkrai", "domain" ],
+  },
+  {
+    en: "Lightless Capital",
+    ja: "光なき深都",
+    zhCN: "无光的深都",
+    zhTW: "無光的深都",
+    pronunciationJa: "ひかりなきしんと",  // TODO Need Check
+    tags: [ "nodkrai", "domain" ],
+  },
 ] as const satisfies SourceWord[];
