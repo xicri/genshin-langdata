@@ -2672,6 +2672,14 @@ export default [
     pronunciationJa: "てんしょくはいつもふあんになる",
     tags: [ "nodkrai", "quest-world" ],
   },
+  {
+    en: "The Bell of Mouring Echoes",
+    ja: "哀しき鈴の音",
+    zhCN: "哀铃的余响",
+    zhTW: "哀鈴的餘響",
+    pronunciationJa: "かなしきすずのね",
+    tags: [ "nodkrai", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -4621,6 +4629,31 @@ export default [
     zhTW: "嘿！你的信！",
     pronunciationJa: "おーいおまえのてがみだぞ",
     tags: [ "quest-daily", "natlan" ],
+  },
+  // Nod-Krai
+  {
+    en: "Bullseye!",
+    ja: "真ん中に的中！",
+    zhCN: "正中靶心！",
+    zhTW: "正中靶心！",
+    pronunciationJa: "まんなかにてきちゅう",
+    tags: [ "quest-daily", "nodkrai" ],
+  },
+  {
+    en: "Moonlit Dash",
+    ja: "月流奔走",
+    zhCN: "月流奔引",
+    zhTW: "月流奔引",
+    pronunciationJa: "げつりゅうほんそう",
+    tags: [ "quest-daily", "nodkrai" ],
+  },
+  {
+    en: "Even Steel Can't Stop Them",
+    ja: "鉄も無用",
+    zhCN: "铁亦无用",
+    zhTW: "鐵亦無用",
+    pronunciationJa: "てつもむよう",
+    tags: [ "quest-daily", "nodkrai" ],
   },
 
   //

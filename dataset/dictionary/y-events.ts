@@ -232,6 +232,27 @@ export default [
 
   // v6.0 (Luna I)
   {
+    en: "Dodoco's Blow-Up-Erative Bomb-Nanza",
+    ja: "ドドコドッカン大乱闘",
+    zhCN: "嘟嘟可爆轰大乱斗",
+    zhTW: "嘟嘟可爆轟大亂鬥",
+    pronunciationJa: "ドドコドッカンだいらんとう",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v6.0",
+    notes: "v6.0 期間限定イベント",
+    notesZh: "v6.0 中的限时活动",
+  },
+  {
+    en: "Rainbow's End: Silvery Flux",
+    ja: "西の彼方の宝物・満ちゆく月",
+    zhCN: "虹旅藏金·朔望流辉",
+    zhTW: "虹旅藏金·朔望流輝",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v6.0",
+    notes: "v6.0 期間限定イベント(ログインボーナス)",
+    notesZh: "v6.0 中的限时活动",
+  },
+  {
     en: "Clink Clank Clash",
     ja: "カチャカチャ大作戦",
     zhCN: "叮铃哐啷大作战",
@@ -362,7 +383,7 @@ export default [
     zhCN: "茜涅特",
     zhTW: "茜涅特",
     tags: [ "event", "character-sub", "nodkrai", "fontaine" ],
-    notes: "カチャカチャ・クルムカケ工房にいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」に登場",
+    notes: "ナシャタウンにいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
   },
   {
     en: "Sarin",
@@ -370,7 +391,7 @@ export default [
     zhCN: "萨林",
     zhTW: "薩林",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "カチャカチャ・クルムカケ工房にいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」に登場",
+    notes: "ナシャタウンにいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
   },
   {
     en: "Gaudenty",
@@ -378,7 +399,7 @@ export default [
     zhCN: "格乌登提",
     zhTW: "格烏登提",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」に登場する人物",
+    notes: "ナシャタウンにいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
   },
   {
     en: "Asikko",
@@ -404,7 +425,24 @@ export default [
     tags: [ "event", "character-sub", "nodkrai", "fontaine" ],
     notes: "v6.0 期間限定イベント「カチャカチャ大作戦」に登場する人物",
   },
-  
+  {
+    en: "Ujola Cat",
+    ja: "キャット・ヨーラ",
+    zhCN: "尤约拉猫",
+    zhTW: "尤約拉貓",
+    notes: "v6.0 期間限定イベント「西の彼方の宝物・満ちゆく月」配布アイテム",
+    tags: [ "event", "item" ],
+  },
+  {
+    en: "Rotor Hovering Daybed",
+    ja: "空飛ぶくつろぎクッション",
+    zhCN: "旋翼浮空憩榻",
+    zhTW: "旋翼浮空憩榻",
+    pronunciationJa: "そらとぶくつろぎクッション",
+    notes: "v6.0 期間限定イベント「西の彼方の宝物・満ちゆく月」配布アイテム",
+    tags: [ "event", "item" ],
+  },
+
   // v5.8
   {
     en: "Mementos of Teyvat: Prelude of the Frozen Veil",

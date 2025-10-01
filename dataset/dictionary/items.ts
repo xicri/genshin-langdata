@@ -1324,6 +1324,27 @@ export default [
     pronunciationJa: "ひげんそうち・スカウトスイーパー",
     tags: [ "item" ],
   },
+  {
+    en: "Common Axehead Fish",
+    ja: "コモンアックスフィッシュ",
+    zhCN: "无奇巨斧鱼",
+    zhTW: "無奇巨斧魚",
+    tags: [ "item" ],
+  },
+  {
+    en: "Blazing Axehead Fish",
+    ja: "バーニングアックスフィッシュ",
+    zhCN: "炽铁巨斧鱼",
+    zhTW: "熾鐵巨斧魚",
+    tags: [ "item" ],
+  },
+  {
+    en: "Veggie Mauler Shark",
+    ja: "サイショクゲキオコザメ",
+    zhCN: "素素凶凶鲨",
+    zhTW: "素素凶凶鯊",
+    tags: [ "item" ],
+  },
 
   //
   // Bait (釣り餌)
@@ -1402,6 +1423,20 @@ export default [
     zhCN: "温火饵",
     zhTW: "溫火餌",
     tags: [ "item", "natlan" ],
+  },
+  {
+    en: "Berry Bait",
+    ja: "ソマルの餌",
+    zhCN: "槲梭饵",
+    zhTW: "槲梭餌",
+    tags: [ "item", "nodkrai" ],
+  },
+  {
+    en: "Refreshing Lakka Bait",
+    ja: "清白の餌",
+    zhCN: "清白饵",
+    zhTW: "清白餌",
+    tags: [ "item", "nodkrai" ],
   },
 
   //
@@ -2550,6 +2585,7 @@ export default [
     zhCN: "不死者的哀铃",
     zhTW: "不死者的哀鈴",
     pronunciationJa: "ふししゃのちょうしょう",
+    notes: "世界任務「哀しき鈴の音」で使用するアイテム",
     tags: [ "item" ],
   },
   {
@@ -2557,7 +2593,17 @@ export default [
     ja: "未だ鳴らざる笛",
     zhCN: "未吹响的号角",
     zhTW: "未吹響的號角",
+    notes: "世界任務「哀しき鈴の音」で使用するアイテム",
     pronunciationJa: "いまだならざるふえ",
+    tags: [ "item" ],
+  },
+  {
+    en: "Dyed Tassel",
+    ja: "染められし羽兜",
+    zhCN: "被浸染的缨盔",
+    zhTW: "被浸染的纓盔",
+    notes: "世界任務「哀しき鈴の音」で使用するアイテム",
+    pronunciationJa: "そめられしうとう / そめられしはねかぶと", // TODO Need Check
     tags: [ "item" ],
   },
   {
