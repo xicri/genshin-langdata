@@ -16,19 +16,19 @@
   "dependencies": {
     "@types/lodash-es": "^4.17.12",
     "@types/luxon": "^3.7.1",
-    "@types/node": "^24.5.2",
-    "dotenv": "^17.2.2",
+    "@types/node": "^24.7.0",
+    "dotenv": "^17.2.3",
     "iconv-lite": "^0.7.0",
-    "jiti": "^2.6.0",
+    "jiti": "^2.6.1",
     "lodash-es": "^4.17.21",
     "luxon": "^3.7.2",
     "marked": "^16.3.0",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.3.5",
     "type-fest": "^5.0.1",
-    "typescript": "^5.9.2",
+    "typescript": "^5.9.3",
     "vitest": "^3.2.3",
-    "wrangler": "^4.40.2"
+    "wrangler": "^4.42.0"
   },
   "engines": {
     "node": ">=24.x || 22.x",
