@@ -2680,6 +2680,58 @@ export default [
     pronunciationJa: "かなしきすずのね",
     tags: [ "nodkrai", "quest-world" ],
   },
+  {
+    en: "The Lost Child's Tale",
+    ja: "迷子の子どもの語り",
+    zhCN: "迷路孩童的诉说",
+    zhTW: "迷路孩童的訴說",
+    pronunciationJa: "まいごのこどものかたり",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "The Chef's Tale",
+    ja: "料理人の語り",
+    zhCN: "厨子的诉说",
+    zhTW: "廚師的訴說",
+    pronunciationJa: "りょうりにんのかたり",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "Her Past",
+    ja: "彼女の過去",
+    zhCN: "她的过去",
+    zhTW: "她的過去",
+    pronunciationJa: "かのじょのかこ",
+    notes: "伴月紀聞・1で発生するクエスト",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "The Artist By the Moon's Side (I)",
+    ja: "月のそばの小さな画家・1",
+    zhCN: "伴月的小画家·其一",
+    zhTW: "伴月的小畫家·其一",
+    pronunciationJa: "つきのそばのちいさながか・いち",
+    notes: "伴月紀聞・1で発生するクエスト",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "Moonlight Sonata",
+    ja: "月光のソナタ",
+    zhCN: "月光奏鸣曲",
+    zhTW: "月光奏鳴曲",
+    pronunciationJa: "げっこうのソナタ",
+    notes: "伴月紀聞・1で発生するクエスト",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "Homecoming's Faint Glow",
+    ja: "回帰する微かな光",
+    zhCN: "归家的微光",
+    zhTW: "歸家的微光",
+    pronunciationJa: "かいきするかすかなひかり",
+    notes: "伴月紀聞・1で発生するクエスト",
+    tags: [ "nodkrai", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -4697,5 +4749,13 @@ export default [
     variants: {
       en: [ "Hangout" ],
     },
+  },
+  {
+    en: "Silvermoon Hall: Selenic Chronicles",
+    ja: "銀月の庭・伴月紀聞",
+    zhCN: "银月之庭·伴月纪闻",
+    zhTW: "銀月之庭·伴月紀聞",
+    pronunciationJa: "ぎんげつのにわ・ばんげつきぶん",
+    tags: [ "nodkrai" ],
   },
 ] as const satisfies SourceWord[];

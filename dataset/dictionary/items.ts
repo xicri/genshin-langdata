@@ -1339,10 +1339,24 @@ export default [
     tags: [ "item" ],
   },
   {
+    en: "Frosted Axehead Fish",
+    ja: "フロストアックスフィッシュ",
+    zhCN: "冷冽巨斧鱼",
+    zhTW: "冷冽巨斧魚",
+    tags: [ "item" ],
+  },
+  {
     en: "Veggie Mauler Shark",
     ja: "サイショクゲキオコザメ",
     zhCN: "素素凶凶鲨",
     zhTW: "素素凶凶鯊",
+    tags: [ "item" ],
+  },
+  {
+    en: "Nightgaze Crystal-Eye",
+    ja: "夜色デメニギス",
+    zhCN: "夜色明眼鱼",
+    zhTW: "夜色明眼魚",
     tags: [ "item" ],
   },
 
@@ -1916,6 +1930,14 @@ export default [
     zhTW: "綜像勘錄儀",
     pronunciationJa: "そうごうえいぞうきろくき",
     tags: [ "item", "event" ],
+  },
+  {
+    en: "Memento Kamera",
+    ja: "メメント写真機",
+    zhCN: "回忆捕手留影机",
+    zhTW: "回忆捕手留影机",
+    pronunciationJa: "メメントしゃしんき",
+    tags: [ "event", "item" ],
   },
   {
     en: "Mementos of Teyvat Albums",
@@ -2663,19 +2685,30 @@ export default [
     tags: [ "item", "nodkrai" ],
   },
   {
+    en: "Bounty Token: Trickster's Red Satin",
+    ja: "賞金稼ぎの証：詐欺師の赤い絹",
+    zhCN: "悬赏证物: 欺诈师的红绸",
+    zhTW: "懸賞證物: 欺詐師的紅綢",
+    pronunciationJa: "しょうきんかせぎのあかし さぎしのあかいきぬ",
+    tags: [ "item", "nodkrai" ],
+    notes: "賞金首「ヒディンバ」の討伐証拠品",
+  },
+  {
     en: "Bounty Token: Lady's Brooch",
     ja: "賞金稼ぎの証：淑女のブローチ",
     zhCN: "悬赏证物: 淑女的胸针",
     zhTW: "懸賞證物: 淑女的胸針",
-    pronunciationJa: "しょうきんかせぎのあかし: しゅくじょのブローチ",
+    pronunciationJa: "しょうきんかせぎのあかし しゅくじょのブローチ",
     tags: [ "item", "nodkrai" ],
+    notes: "賞金首「密輸者：新鉄塩会」の討伐証拠品",
   },
   {
     en: "Bounty Token: Mud-Stained Handguard",
     ja: "賞金稼ぎの証：泥染めの鍔",
     zhCN: "悬赏证物: 泥染的刀镡",
     zhTW: "懸賞證物: 泥染的刀鐔",
-    pronunciationJa: "しょうきんかせぎのあかし: どろぞめのつば",
+    pronunciationJa: "しょうきんかせぎのあかし どろぞめのつば",
+    notes: "賞金首「海乱鬼：権八」の討伐証拠品",
     tags: [ "item", "nodkrai" ],
   },
   {
@@ -2686,9 +2719,25 @@ export default [
     pronunciationJa: "とうししょうけん",
     tags: [ "item", "nodkrai" ],
   },
+  {
+    en: "Aino's Toolbox",
+    ja: "アイノの工具箱",
+    zhCN: "爱诺的工具箱",
+    zhTW: "愛諾的工具箱",
+    pronunciationJa: "アイノのこうぐばこ",
+    tags: [ "item", "nodkrai" ],
+  },
+  {
+    en: "Ineffa's Toolbox",
+    ja: "イネファの工具箱",
+    zhCN: "伊涅芙的工具箱",
+    zhTW: "伊涅芙的工具箱",
+    pronunciationJa: "イネファのこうぐばこ",
+    tags: [ "item", "nodkrai" ],
+  },
 
   //
-  // Dresesings
+  // Wind Glider
   //
   {
     en: "Wind Glider",
@@ -2697,7 +2746,121 @@ export default [
     zhTW: "風之翼",
     pronunciationJa: "かぜのつばさ",
   },
+  // For collaborators:
+  //   Please do not include model-limited, time-limited, collaboration-limited, or event-limited
+  //   "Wing Glider" in this category.
+  // コラボレータ向け:
+  //   この項目に、機種限定、期間限定、コラボ限定、来場イベント限定の翼は含めないでください。 
+  //
+  {
+    en: "Wings of First Flight",
+    ja: "始まりの翼",
+    zhCN: "初始之翼",
+    zhTW: "初始之翼",
+    pronunciationJa: "はじまりのつばさ",
+    notes: "魔神任務序章第一幕「風を捕まえる異邦人」内で入手",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "Wings of Azure Wind",
+    ja: "蒼天清風の翼",
+    zhCN: "苍天清风之翼",
+    zhTW: "蒼天清風之翼",
+    pronunciationJa: "そうてんせいふうのつばさ",
+    notes: "モンド評判がLv8の報酬",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "Wings of Golden Flight",
+    ja: "金琮天行の翼",
+    zhCN: "金琮天行之翼",
+    zhTW: "金琮天行之翼",
+    pronunciationJa: "きんそうてんこうのつばさ",
+    notes: "璃月評判がLv8の報酬",
+    tags: [ "liyue" ],
+  },
+  {
+    en: "Wings of Concealing Snow",
+    ja: "雲隠れの翼",
+    zhCN: "雪隐之翼",
+    zhTW: "雪隱之翼",
+    pronunciationJa: "くもがくれのつばさ",
+    notes: "ドラゴンスパインの「冬忍びの樹」奉納Lv12の報酬",
+    tags: [ "mondstadt" ],
+  },
+  {
+    en: "Wings of the Stormstrider",
+    ja: "雷騰雲奔の翼",
+    zhCN: "雷腾云奔之翼",
+    zhTW: "雷騰雲奔之翼",
+    pronunciationJa: "らいてんうんほんのつばさ",  // TODO Need Check
+    notes: "稲妻評判がLv10の報酬",
+    tags: [ "inazuma" ],
+  },
+  {
+    en: "Wings of the Forest",
+    ja: "樹花爛漫の翼",
+    zhCN: "森郁花繁之翼",
+    zhTW: "森鬱花繁之翼",
+    pronunciationJa: "じゅからんまんのつばさ",
+    notes: "スメール評判がLv10のの報酬",
+    tags: [ "sumeru" ],
+  },
+  {
+    en: "Wings of Merciful, Wrathful Waters",
+    ja: "慈水怒濤の翼",
+    zhCN: "慈水怒涛之翼",
+    zhTW: "慈水怒濤之翼",
+    pronunciationJa: "じすいどとうのつばさ",
+    notes: "フォンテーヌ評判がLv10の報酬",
+    tags: [ "fontaine" ],
+  },
+  {
+    en: "Wings of Soaring Flame",
+    ja: "燎原烈火の翼",
+    zhCN: "烈火腾燎之翼",
+    zhTW: "烈火騰燎之翼",
+    pronunciationJa: "りょうげんれっかのつばさ",
+    notes: "ナタの「こだまの子」「懸木の民」「流泉の衆」「花翼の集」「謎煙の主」部族評判がすべてLv4の報酬",
+    tags: [ "natlan" ],
+  },
+  {
+    en: "Wings of the Silent Moon", // TODO Future scheduled
+    ja: "夜来泊月の翼",
+    zhCN: "夜驻月停之翼",
+    zhTW: "夜駐月停之翼",
+    pronunciationJa: "やらいはくげつのつばさ",
+    notes: "ナドクライの「伴月紀聞・３」クリアの報酬",
+    tags: [ "nodkrai" ],
+  },
+  /*
+  {
+    en: "Wings of Companionship", // Note: Was it originally meant to be by advance reservation only?
+    ja: "見守りの翼",
+  },
+  */
+  /*
+  {
+    en: "Wings of Descension", // Note: Play Station Network only
+    ja: "降臨の翼",
+  },
+  */
+  /*
+  {
+    en: "Wings of Delicacies", // Note: KFC Collaboration only
+    ja: "盛宴の翼",
+  },
+  */
+  /*
+  {
+    en: "Wings of Fate's Course Intertwined", // Note: Was it originally meant to be by XBOX only?
+    ja: "交錯する運命の翼",
+  },
+  */
 
+  //
+  // Dresesings
+  //
   {
     en: "Sea Bleeze Dandelion",
     ja: "海風の夢",

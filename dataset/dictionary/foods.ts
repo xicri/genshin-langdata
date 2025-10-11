@@ -223,6 +223,14 @@ export default [
     zhTW: "烏烏黑蛋",
     tags: [ "food" ],
   },
+  {
+    en: "Smoked Fish Steak",
+    ja: "燻製フィッシュステーキ",
+    zhCN: "烟熏鱼排",
+    zhTW: "煙燻魚排",
+    pronunciationJa: "くんせいフィッシュステーキ",
+    tags: [ "food" ],
+  },
 
   // ★★
   {
@@ -768,6 +776,15 @@ export default [
     zhTW: "糖雕·菈烏瑪",
     pronunciationJa: "あめざいく・ラウマ",
     notes: "チームにラウマが加入した状態でナシャタウンにいるウナーヤタに話しかけると貰える飴細工。期限は24時間",
+    tags: [ "food" ],
+  },
+  {
+    en: "Sugar Sculpture: Flins",
+    ja: "飴細工・フリンズ",
+    zhCN: "糖雕·菲林斯",
+    zhTW: "糖雕·菲林斯",
+    pronunciationJa: "あめざいく・フリンズ",
+    notes: "チームにフリンズが加入した状態でナシャタウンにいるウナーヤタに話しかけると貰える飴細工。期限は24時間",
     tags: [ "food" ],
   },
 
@@ -2796,6 +2813,16 @@ export default [
     notesEn: "Lauma's specialty",
     notes: "ラウマのオリジナル料理",
     notesZh: "菈乌玛的特色料理",
+  },
+  {
+    en: "Long Night Alight",
+    ja: "長き夜に燃ゆる炎",
+    zhCN: "长夜燃火",
+    zhTW: "長夜燃火",
+    tags: [ "food", "nodkrai" ],
+    notesEn: "Flins'es specialty",
+    notes: "フリンズのオリジナル料理",
+    notesZh: "菲林斯的特色料理",
   },
 
   // etcetera
