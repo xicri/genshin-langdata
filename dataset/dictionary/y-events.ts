@@ -232,6 +232,17 @@ export default [
 
   // v6.0 (Luna I)
   {
+    en: "Lightgleaner's Journey",
+    ja: "旅の写真に輝きを",
+    zhCN: "旅途拾光集",
+    zhTW: "旅途拾光集",
+    pronunciationJa: "たびのしゃしんにかがやきを",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v6.0",
+    notes: "v6.0 期間限定イベント",
+    notesZh: "v6.0 中的限时活动",
+  },
+  {
     en: "Dodoco's Blow-Up-Erative Bomb-Nanza",
     ja: "ドドコドッカン大乱闘",
     zhCN: "嘟嘟可爆轰大乱斗",

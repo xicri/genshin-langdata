@@ -837,6 +837,37 @@ export default [
     notes: "世界任務「哀しき鈴の音」に登場する人物。元ライトキーパー。ナド・クライの地方伝説の1人",
     tags: [ "nodkrai", "character-sub", "enemy", "enemy-legend" ],
   },
+  {
+    en: "Chard Lombro",
+    ja: "アザザ・ランボロ",
+    zhCN: "阿莎莎·郎勃罗",
+    zhTW: "阿莎莎·郎勃羅",
+    notes: "カチャカチャ・クルムカケ工房にいる集合ロボット",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Adina",
+    ja: "アデナ",
+    zhCN: "阿德娜",
+    zhTW: "阿德娜",
+    notes: "世界任務「迷子の子どもの語り」に登場する人物",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Rijeka",
+    ja: "リェカ",
+    zhCN: "莉洁卡",
+    zhTW: "莉潔卡",
+    notes: "世界任務「回帰する微かな光」に登場する人物",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Hidimbi",
+    ja: "ヒディンバ",
+    zhCN: "希丁芭",
+    zhTW: "希丁芭",
+    tags: [ "nodkrai", "sumeru", "character-sub" ],
+  },
 
   // Etcetera
   {
