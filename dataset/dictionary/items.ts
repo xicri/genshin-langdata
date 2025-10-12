@@ -2746,12 +2746,6 @@ export default [
     zhTW: "風之翼",
     pronunciationJa: "かぜのつばさ",
   },
-  // For collaborators:
-  //   Please do not include model-limited, time-limited, collaboration-limited, or event-limited
-  //   "Wing Glider" in this category.
-  // コラボレータ向け:
-  //   この項目に、機種限定、期間限定、コラボ限定、来場イベント限定の翼は含めないでください。 
-  //
   {
     en: "Wings of First Flight",
     ja: "始まりの翼",
