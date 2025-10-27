@@ -27,7 +27,7 @@
     "pinyin-tone": "^2.3.5",
     "type-fest": "^5.1.0",
     "typescript": "^5.9.3",
-    "vitest": "^3.2.3",
+    "vitest": "^4.0.3",
     "wrangler": "^4.43.0"
   },
   "engines": {
