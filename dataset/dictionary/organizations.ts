@@ -663,8 +663,16 @@ export default [
     ja: "黒日",
     zhCN: "黑日",
     zhTW: "黑日",
-    pronunciationJa: "こくじつ", // TODO Need Check
+    pronunciationJa: "こくじつ",
     tags: [ "khaenriah", "organization" ],
     notes: "カールンイアの古代王朝",
+  },
+  {
+    en: "Universitas Magistrorum",
+    ja: "深秘院",
+    zhCN: "深秘院",
+    zhTW: "深秘院",
+    pronunciationJa: "しんぴいん",  // Notes: 魔人任務「消えた月光に思いを馳せて」でのレインドットやソリンディスの発音より
+    tags: [ "khaenriah", "organization" ],
   },
 ] as const satisfies SourceWord[];

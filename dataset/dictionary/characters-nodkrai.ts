@@ -868,6 +868,38 @@ export default [
     zhTW: "希丁芭",
     tags: [ "nodkrai", "sumeru", "character-sub" ],
   },
+  {
+    en: "Maalaus",
+    ja: "メイラ",
+    zhCN: "梅拉",
+    zhTW: "梅拉",
+    notes: "伴月紀聞「月のそばの小さな画家・１」「月のそばの小さな画家・２」に登場する月霊",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Radimir",
+    ja: "ラジミール",
+    zhCN: "拉季米尔",
+    zhTW: "拉季米爾",
+    notes: "魔人任務「存在しない国」に登場する人物。ライトキーパー",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Fevroniya",
+    ja: "フェルニア",
+    zhCN: "费卢妮娅",
+    zhTW: "費盧妮婭",
+    notes: "魔人任務「存在しない国」に登場するファデュイ",
+    tags: [ "nodkrai", "fatui", "character-sub" ],
+  },
+  {
+    en: "Ozerov",
+    ja: "オゼロフ",
+    zhCN: "奥泽洛夫",
+    zhTW: "奧澤洛夫",
+    notes: "魔人任務「存在しない国」に登場するファデュイ",
+    tags: [ "nodkrai", "fatui", "character-sub" ],
+  },
 
   // Etcetera
   {

@@ -396,7 +396,24 @@ export default [
     tags: [ "nodkrai", "quest-archon" ],
     notes: "空月の歌 第二幕",
   },
-
+  {
+    en: "A Nation That Doesn't Exist",
+    ja: "存在しない国",
+    zhCN: "不存在的国土",
+    zhTW: "不存在的國土",
+    pronunciationJa: "そんざいしないくに",
+    tags: [ "nodkrai", "quest-archon" ],
+    notes: "空月の歌 第三幕",
+  },
+  {
+    en: "An Elegy for Faded Moonlight",
+    ja: "消えた月光に想いを馳せて",
+    zhCN: "回望湮灭的月光",
+    zhTW: "回望湮滅的月光",
+    pronunciationJa: "きえたげっこうにおもいをはせて",
+    tags: [ "nodkrai", "quest-archon" ],
+    notes: "空月の歌 第四幕",
+  },
 
   // Traveler
   {
@@ -2697,6 +2714,14 @@ export default [
     tags: [ "nodkrai", "quest-world" ],
   },
   {
+    en: "Lightkeepers' Oath",
+    ja: "ライトキーパーの誓い",
+    zhCN: "执灯人誓言",
+    zhTW: "執燈人誓言",
+    pronunciationJa: "ライトキーパーのちかい",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
     en: "Her Past",
     ja: "彼女の過去",
     zhCN: "她的过去",
@@ -2730,6 +2755,24 @@ export default [
     zhTW: "歸家的微光",
     pronunciationJa: "かいきするかすかなひかり",
     notes: "伴月紀聞・1で発生するクエスト",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "May the Moonlight Connect Us",
+    ja: "月光が我らを結ばん",
+    zhCN: "月光联系你我",
+    zhTW: "月光聯絡你我",
+    pronunciationJa: "げっこうがわれらをむすばん",
+    notes: "伴月紀聞・1で発生するクエスト",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+   {   
+    en: "The Artist By the Moon's Side (II)",
+    ja: "月のそばの小さな画家・２",
+    zhCN: "伴月的小画家·其二",
+    zhTW: "伴月的小畫家·其二",
+    pronunciationJa: "つきのそばのちいさながか・に",
+    notes: "伴月紀聞・2で発生するクエスト",
     tags: [ "nodkrai", "quest-world" ],
   },
 

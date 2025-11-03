@@ -2830,18 +2830,32 @@ export default [
   {
     en: "Wings of Companionship",
     ja: "見守りの翼",
+    zhCN: "守候之翼",
+    zhTW: "守候之翼",
+    pronunciationJa: "みまもりのつばさ",
   },
   {
     en: "Wings of Descension",
     ja: "降臨の翼",
+    zhCN: "降临之翼",
+    zhTW: "降臨之翼",
+    pronunciationJa: "こうりんのつばさ",
+    notes: "PS4/PS5ユーザのみ入手可能な風の翼",
   },
   {
     en: "Wings of Delicacies",
     ja: "盛宴の翼",
+    zhCN: "肴馔之翼",
+    zhTW: "餚饌之翼",
+    pronunciationJa: "せいえんのつばさ",
+    notes: "中国および日本においてケンタッキーとのコラボで配布された風の翼",
   },
   {
     en: "Wings of Fate's Course Intertwined",
     ja: "交錯する運命の翼",
+    zhCN: "命轨爻错之翼",
+    zhTW: "命軌爻錯之翼",
+    pronunciationJa: "こうさくするうんめいのつばさ",
   },
 
   //
