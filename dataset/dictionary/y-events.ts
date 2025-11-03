@@ -229,6 +229,41 @@ export default [
     notes: "イベント「自由の風に向かって」報酬アイテム",
     tags: [ "item", "mondstadt", "event" ],
   },
+  // v6.1 (Luna II)
+  {
+    en: "Saurian Sojourn",
+    ja: "サウリアンギミック",
+    zhCN: "龙龙同游",
+    zhTW: "龍龍同遊",
+    tags: [ "event" ],
+    notesEn: "Limited Time Event in v6.1(Luna II)",
+    notes: "v6.1(Luna II) 期間限定イベント",
+    notesZh: "v6.1(Luna II) 中的限时活动",
+  },
+  {
+    en: "Komina",
+    ja: "コミナ",
+    zhCN: "科米娜",
+    zhTW: "科米娜",
+    tags: [ "event", "character-sub", "natlan" ],
+    notes: "v6.1(Luna II) 期間限定イベント「サウリアンギミック」に登場する人物",
+  },
+  {
+    en: "Kweku",
+    ja: "クウェク",
+    zhCN: "克维库",
+    zhTW: "克維庫",
+    tags: [ "event", "character-sub", "natlan" ],
+    notes: "v6.1(Luna II) 期間限定イベント「サウリアンギミック」に登場する人物",
+  },
+  {
+    en: "Assistant Instructor Yehyeh",
+    ja: "「イェーイェー副教官」",
+    zhCN: "「耶耶副教官」",
+    zhTW: "「耶耶副教官」",
+    tags: [ "event", "character-sub", "natlan" ],
+    notes: "v6.1(Luna II) 期間限定イベント「サウリアンギミック」に登場するテペトル仔竜",
+  },
 
   // v6.0 (Luna I)
   {
@@ -238,9 +273,9 @@ export default [
     zhTW: "旅途拾光集",
     pronunciationJa: "たびのしゃしんにかがやきを",
     tags: [ "event" ],
-    notesEn: "Limited Time Event in v6.0",
-    notes: "v6.0 期間限定イベント",
-    notesZh: "v6.0 中的限时活动",
+    notesEn: "Limited Time Event in v6.0(Luna I)",
+    notes: "v6.0(Luna I) 期間限定イベント",
+    notesZh: "v6.0(Luna I) 中的限时活动",
   },
   {
     en: "Dodoco's Blow-Up-Erative Bomb-Nanza",
@@ -249,9 +284,9 @@ export default [
     zhTW: "嘟嘟可爆轟大亂鬥",
     pronunciationJa: "ドドコドッカンだいらんとう",
     tags: [ "event" ],
-    notesEn: "Limited Time Event in v6.0",
-    notes: "v6.0 期間限定イベント",
-    notesZh: "v6.0 中的限时活动",
+    notesEn: "Limited Time Event in v6.0(Luna I)",
+    notes: "v6.0(Luna I) 期間限定イベント",
+    notesZh: "v6.0(Luna I) 中的限时活动",
   },
   {
     en: "Rainbow's End: Silvery Flux",
@@ -259,9 +294,9 @@ export default [
     zhCN: "虹旅藏金·朔望流辉",
     zhTW: "虹旅藏金·朔望流輝",
     tags: [ "event" ],
-    notesEn: "Limited Time Event in v6.0",
-    notes: "v6.0 期間限定イベント(ログインボーナス)",
-    notesZh: "v6.0 中的限时活动",
+    notesEn: "Limited Time Event in v6.0(Luna I)",
+    notes: "v6.0(Luna I) 期間限定イベント(ログインボーナス)",
+    notesZh: "v6.0(Luna I) 中的限时活动",
   },
   {
     en: "Clink Clank Clash",
@@ -270,9 +305,9 @@ export default [
     zhTW: "叮鈴哐啷大作戰",
     pronunciationJa: "カチャカチャだいさくせん",
     tags: [ "event", "nodkrai" ],
-    notesEn: "Limited Time Event in v6.0",
-    notes: "v6.0 期間限定イベント",
-    notesZh: "v6.0 中的限时活动",
+    notesEn: "Limited Time Event in v6.0(Luna I)",
+    notes: "v6.0(Luna I) 期間限定イベント",
+    notesZh: "v6.0(Luna I) 中的限时活动",
   },
   {
     en: "Pursue and Strike! The Out-of-Control Flier",
@@ -281,9 +316,9 @@ export default [
     zhTW: "追撃! 失控飛兵!",
     pronunciationJa: "ついげき ぼうそうユニット",
     tags: [ "event", "nodkrai" ],
-    notesEn: "v6.0 Sub-events of the Limited Time Event \"Clink Clank Clash\"",
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」の子イベント",
-    notesZh: "限时活动「叮铃哐啷大作战」v6.0 子活动",
+    notesEn: "v6.0(Luna I) Sub-events of the Limited Time Event \"Clink Clank Clash\"",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」の子イベント",
+    notesZh: "限时活动「叮铃哐啷大作战」v6.0(Luna I) 子活动",
   },
   {
     en: "Boom! Blast! Power Test!",
@@ -292,9 +327,9 @@ export default [
     zhTW: "轟隆! 測試威力!",
     pronunciationJa: "ドッカン いりょくテスト",
     tags: [ "event", "nodkrai" ],
-    notesEn: "v6.0 Sub-events of the Limited Time Event \"Clink Clank Clash\"",
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」の子イベント",
-    notesZh: "限时活动「叮铃哐啷大作战」v6.0 子活动",
+    notesEn: "v6.0(Luna I) Sub-events of the Limited Time Event \"Clink Clank Clash\"",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」の子イベント",
+    notesZh: "限时活动「叮铃哐啷大作战」v6.0(Luna I) 子活动",
   },
   {
     en: "Seek and Find! Machines on the Fritz!",
@@ -303,9 +338,9 @@ export default [
     zhTW: "尋蹤! 故障機器!",
     pronunciationJa: "さがせ ボロボロロボット",
     tags: [ "event", "nodkrai" ],
-    notesEn: "v6.0 Sub-events of the Limited Time Event \"Clink Clank Clash\"",
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」の子イベント",
-    notesZh: "限时活动「叮铃哐啷大作战」v6.0 子活动",
+    notesEn: "v6.0(Luna I) Sub-events of the Limited Time Event \"Clink Clank Clash\"",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」の子イベント",
+    notesZh: "限时活动「叮铃哐啷大作战」v6.0(Luna I) 子活动",
   },
   {
     en: "Quietly Now! Sneaky Sneaking Sneaks!",
@@ -314,9 +349,9 @@ export default [
     zhTW: "靜音! 謀械潜行!",
     pronunciationJa: "シーッ せんにゅうロボット",
     tags: [ "event", "nodkrai" ],
-    notesEn: "v6.0 Sub-events of the Limited Time Event \"Clink Clank Clash\"",
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」の子イベント",
-    notesZh: "限时活动「叮铃哐啷大作战」v6.0 子活动",
+    notesEn: "v6.0(Luna I) Sub-events of the Limited Time Event \"Clink Clank Clash\"",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」の子イベント",
+    notesZh: "限时活动「叮铃哐啷大作战」v6.0(Luna I) 子活动",
   },
   {
     en: "Misplaced Creativity",
@@ -325,7 +360,7 @@ export default [
     zhTW: "走失的創意",
     pronunciationJa: "うしなわれたそうぞうせい",
     tags: [ "event", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」内のストーリー",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」内のストーリー",
   },
   {
     en: "A Mysterious Outsourced Contract",
@@ -334,7 +369,7 @@ export default [
     zhTW: "外包的保密事項",
     pronunciationJa: "がいちゅうのひみつほじにかんして",
     tags: [ "event", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」内のストーリー",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」内のストーリー",
   },
   {
     en: "An Adventurer's Woes",
@@ -343,7 +378,7 @@ export default [
     zhTW: "冒險家的煩惱",
     pronunciationJa: "ぼうけんしゃのなやみ",
     tags: [ "event", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」内のストーリー",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」内のストーリー",
   },
   {
     en: "Backup Plans",
@@ -352,7 +387,7 @@ export default [
     zhTW: "備用法案",
     pronunciationJa: "よびプラン",
     tags: [ "event", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」内のストーリー",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」内のストーリー",
   },
   {
     en: "Unwritten Rules",
@@ -361,7 +396,7 @@ export default [
     zhTW: "暗處的規則",
     pronunciationJa: "あんもくのルール",
     tags: [ "event", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」内のストーリー",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」内のストーリー",
   },
   {
     en: "Clink Clank Legion",
@@ -370,7 +405,7 @@ export default [
     zhTW: "叮鈴哐啷軍團",
     pronunciationJa: "カチャカチャぐんだん",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」に登場するキャラクター",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」に登場するキャラクター",
   },
   {
     en: "Krum-Clank 70 percent Sweet",  // Literal: Krum-Clank 70% Sweet
@@ -378,7 +413,7 @@ export default [
     zhCN: "铛铛七分甜",
     zhTW: "鐺鐺七分甜",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」に登場するキャラクター",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」に登場するキャラクター",
   },
   {
     en: "Zip-Zap Spy-Bot Number 1",
@@ -386,7 +421,7 @@ export default [
     zhCN: "㕲㕲㕲间谋1号",
     zhTW: "㕲㕲㕲間謀1號",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」に登場するキャラクター",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」に登場するキャラクター",
   },
   {
     en: "Ginette",
@@ -394,7 +429,7 @@ export default [
     zhCN: "茜涅特",
     zhTW: "茜涅特",
     tags: [ "event", "character-sub", "nodkrai", "fontaine" ],
-    notes: "ナシャタウンにいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
+    notes: "ナシャタウンにいる人物。v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
   },
   {
     en: "Sarin",
@@ -402,7 +437,7 @@ export default [
     zhCN: "萨林",
     zhTW: "薩林",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "ナシャタウンにいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
+    notes: "ナシャタウンにいる人物。v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
   },
   {
     en: "Gaudenty",
@@ -410,7 +445,7 @@ export default [
     zhCN: "格乌登提",
     zhTW: "格烏登提",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "ナシャタウンにいる人物。v6.0 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
+    notes: "ナシャタウンにいる人物。v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」ではカチャカチャ・クルムカケ工房にいる",
   },
   {
     en: "Asikko",
@@ -418,7 +453,7 @@ export default [
     zhCN: "阿斯科",
     zhTW: "阿斯科",
     tags: [ "event", "character-sub", "nodkrai" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」に登場する人物。闇市の商人",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」に登場する人物。闇市の商人",
   },
   {
     en: "Sedile",
@@ -426,7 +461,7 @@ export default [
     zhCN: "瑟琪",
     zhTW: "瑟琪",
     tags: [ "event", "character-sub", "nodkrai", "fontaine" ],
-    notes: "エリュシー村にいるメリュジーヌ。v6.0 期間限定イベント「カチャカチャ大作戦」に登場",
+    notes: "エリュシー村にいるメリュジーヌ。v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」に登場",
   },
   {
     en: "Eustachy",
@@ -434,14 +469,14 @@ export default [
     zhCN: "尤斯塔奇",
     zhTW: "尤斯塔奇",
     tags: [ "event", "character-sub", "nodkrai", "fontaine" ],
-    notes: "v6.0 期間限定イベント「カチャカチャ大作戦」に登場する人物",
+    notes: "v6.0(Luna I) 期間限定イベント「カチャカチャ大作戦」に登場する人物",
   },
   {
     en: "Ujola Cat",
     ja: "キャット・ヨーラ",
     zhCN: "尤约拉猫",
     zhTW: "尤約拉貓",
-    notes: "v6.0 期間限定イベント「西の彼方の宝物・満ちゆく月」配布アイテム",
+    notes: "v6.0(Luna I) 期間限定イベント「西の彼方の宝物・満ちゆく月」配布アイテム",
     tags: [ "event", "item" ],
   },
   {
@@ -450,7 +485,7 @@ export default [
     zhCN: "旋翼浮空憩榻",
     zhTW: "旋翼浮空憩榻",
     pronunciationJa: "そらとぶくつろぎクッション",
-    notes: "v6.0 期間限定イベント「西の彼方の宝物・満ちゆく月」配布アイテム",
+    notes: "v6.0(Luna I) 期間限定イベント「西の彼方の宝物・満ちゆく月」配布アイテム",
     tags: [ "event", "item" ],
   },
 
