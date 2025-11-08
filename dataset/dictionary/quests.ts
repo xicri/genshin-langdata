@@ -2763,8 +2763,8 @@ export default [
     zhCN: "月光联系你我",
     zhTW: "月光聯絡你我",
     pronunciationJa: "げっこうがわれらをむすばん",
-    notes: "伴月紀聞・1で発生するクエスト",
-    tags: [ "nodkrai", "quest-world" ],
+    notes: "伴月紀聞・1で発生するクエスト、又は霜月の子の間で用いられる挨拶",
+    tags: [ "nodkrai", "quest-world", "dialogue" ],
   },
    {   
     en: "The Artist By the Moon's Side (II)",
