@@ -63,7 +63,7 @@ export default [
     tags: [ "khaenriah", "character-sub" ],
   },
   {
-    en: "Irminsul(Vinster King)",
+    en: "Irminsul (Vinster King)",
     ja: "イルミンズール",
     zhCN: "伊尔明苏尔",
     zhTW: "伊爾明蘇爾",
