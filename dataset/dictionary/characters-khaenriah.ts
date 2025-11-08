@@ -59,7 +59,7 @@ export default [
     ja: "エルミン / イルミン",  //Note: 表記ゆれ
     zhCN: "伊尔明",
     zhTW: "伊爾明",
-    notes: "カーンルイア黒日王朝時代の君主「黒王」",
+    notes: "カーンルイア黒日王朝時代の君主「黒王」。「エルミン」「イルミン」の表記ゆれあり。",
     tags: [ "khaenriah", "character-sub" ],
   },
   {
