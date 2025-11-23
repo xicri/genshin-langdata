@@ -619,4 +619,12 @@ export default [
     pronunciationJa: "さいこうのりんう",
     tags: [ "nodkrai", "drop-boss" ],
   },
+  {
+    en: "Radiant Antler",
+    ja: "万照の輝角",
+    zhCN: "漫光的辉角",
+    zhTW: "漫光的輝角",
+    pronunciationJa: "まんしょうのきかく",
+    tags: [ "nodkrai", "drop-boss" ],
+  },
 ] as const satisfies SourceWord[];
