@@ -3289,6 +3289,14 @@ export default [
     tags: [ "nodkrai", "enemy", "enemy-boss" ],
   },
   {
+    en: "Frostnight Herra",
+    ja: "霜夜の空を巡る領主",
+    zhCN: "霜夜巡天灵主",
+    zhTW: "霜夜巡天靈主",
+    pronunciationJa: "そうやのそらをめぐるりょうしゅ",
+    tags: [ "nodkrai", "enemy", "enemy-boss" ],
+  },
+  {
     en: "Crab Tsar",
     ja: "「カニ皇帝」",
     zhCN: "「蟹沙皇」",
@@ -3503,6 +3511,5 @@ export default [
     pronunciationJa: "しゅうこうのらせだこ",  // TODO need check
     tags: [ "nodkrai", "enemy" ],
   },
-
 
 ] as const satisfies SourceWord[];

@@ -1237,6 +1237,14 @@ export default [
     pronunciationJa: "くだけちるこうりん",
     tags: [ "weapon", "polearm" ],
   },
+  {
+    en: "Bloodsoaked Ruins",
+    ja: "血染めの荒れ地",
+    zhCN: "血染荒城",
+    zhTW: "血染荒城",
+    pronunciationJa: "ちぞめのあれち",
+    tags: [ "weapon", "polearm" ],
+  },
 
   //
   // Bows
@@ -2052,6 +2060,22 @@ export default [
     ja: "ヴィヴィッド・ハート",
     zhCN: "溢彩心念",
     zhTW: "溢彩心念",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Nightweaver's Looking Glass",
+    ja: "夜を紡ぐ天鏡",
+    zhCN: "纺夜天镜",
+    zhTW: "紡夜天鏡",
+    pronunciationJa: "よるをつむぐてんきょう",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Reliquary of Truth",
+    ja: "真言の匣",
+    zhCN: "真语秘匣",
+    zhTW: "真語秘匣",
+    pronunciationJa: "しんげんのはこ",
     tags: [ "weapon", "catalyst" ],
   },
 ] as const satisfies SourceWord[];
