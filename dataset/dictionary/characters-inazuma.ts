@@ -1061,5 +1061,14 @@ export default [
     notesZhTW: "荒瀧一斗的傳說任務 天牛之章·第一幕「赤金魂」、v5.4 活動「三川遊藝綺夢譚」中的登場角色，青鬼後裔。",
     tags: [ "inazuma", "character-sub" ],
   },
+  {
+    en: "Onodera",
+    ja: "小野寺",
+    zhCN: "小野寺",
+    zhTW: "小野寺",
+    pronunciationJa: "おのでら",
+    notes: "八重堂の編集者",
+    tags: [ "inazuma", "character-sub" ],
+  },
 
 ] as const satisfies SourceWord[];

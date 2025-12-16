@@ -16,6 +16,15 @@ export default [
     tags: [ "snezhnaya", "character-sub" ],
   },
   {
+    en: "Anastasya Feodorovna Snezhnaya",   // Note: Columbina Hyposelenia's official introduction
+    ja: "アナスターシャ・フョードロヴナ・スネージナヤ",
+    zhCN: "安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅",
+    zhTW: "安娜絲塔夏·費奧多羅夫娜·雪奈茨娜婭",
+    notesEn: "Presumed real name of the Tsaritsa, though not officially confirmed.",
+    notes: "氷の女皇の本名だと思われるが、公式発表はされていない。",
+    tags: [ "snezhnaya", "character-sub" ],
+  },
+  {
     en: "Cryo Archon",
     ja: "氷神",
     zhCN: "冰神",

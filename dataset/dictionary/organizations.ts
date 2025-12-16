@@ -83,7 +83,15 @@ export default [
     pronunciationJa: "まじょかい",
     tags: [ "mondstadt", "organization" ],
   },
-
+  {
+    en: "Sal Vindagnyr",
+    ja: "シャール・フィンドニール",
+    zhCN: "沙尔·芬德尼尔",
+    zhTW: "沙爾·芬德尼爾",
+    notes: "ドラゴンスパインの位置にかつて存在していた王国",
+    tags: [ "mondstadt", "dragonspine", "organization" ],
+  },
+  
 
   //
   // Liyue
@@ -644,6 +652,22 @@ export default [
     zhTW: "霜月之子",
     pronunciationJa: "しもつきのこ",
     tags: [ "nodkrai", "organization" ],
+  },
+  {
+    en: "Hyperborea",
+    ja: "ヒュペルボレイア",
+    zhCN: "亥珀波瑞亚",
+    zhTW: "亥珀波瑞亞",
+    notes: "テイワット大陸の北方にかつて存在していた王国",
+    tags: [ "nodkrai", "organization" ],
+  },
+  {
+    en: "Dephi Pytho",
+    ja: "デルポイ・ピュートーン",
+    zhCN: "德尔斐·皮托呢",
+    zhTW: "德爾斐·皮托呢",
+    notes: "テイワット大陸にかつて存在していた地名",
+    tags: [ "organization" ],
   },
 
   //
