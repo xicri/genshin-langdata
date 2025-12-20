@@ -89,7 +89,7 @@ export default [
     zhCN: "沙尔·芬德尼尔",
     zhTW: "沙爾·芬德尼爾",
     notes: "ドラゴンスパインの位置にかつて存在していた王国",
-    tags: [ "mondstadt", "dragonspine", "organization" ],
+    tags: [ "mondstadt", "dragonspine", "location" ],
   },
   
 
