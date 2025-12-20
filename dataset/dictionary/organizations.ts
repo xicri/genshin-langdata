@@ -667,7 +667,7 @@ export default [
     zhCN: "德尔斐·皮托呢",
     zhTW: "德爾斐·皮托呢",
     notes: "テイワット大陸にかつて存在していた地名",
-    tags: [ "organization" ],
+    tags: [ "location" ],
   },
 
   //
