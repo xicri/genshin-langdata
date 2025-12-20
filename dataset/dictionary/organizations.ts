@@ -89,7 +89,7 @@ export default [
     zhCN: "沙尔·芬德尼尔",
     zhTW: "沙爾·芬德尼爾",
     notes: "ドラゴンスパインの位置にかつて存在していた王国",
-    tags: [ "mondstadt", "dragonspine", "organization" ],
+    tags: [ "mondstadt", "dragonspine", "location" ],
   },
   
 
@@ -659,7 +659,7 @@ export default [
     zhCN: "亥珀波瑞亚",
     zhTW: "亥珀波瑞亞",
     notes: "テイワット大陸の北方にかつて存在していた王国",
-    tags: [ "nodkrai", "organization" ],
+    tags: [ "nodkrai", "location" ],
   },
   {
     en: "Dephi Pytho",
@@ -667,7 +667,7 @@ export default [
     zhCN: "德尔斐·皮托呢",
     zhTW: "德爾斐·皮托呢",
     notes: "テイワット大陸にかつて存在していた地名",
-    tags: [ "organization" ],
+    tags: [ "location" ],
   },
 
   //
