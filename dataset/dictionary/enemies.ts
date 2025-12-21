@@ -3297,6 +3297,14 @@ export default [
     tags: [ "nodkrai", "enemy", "enemy-boss" ],
   },
   {
+    en: "Super-Heavy Landrover: Mechanized Fortress",
+    ja: "重量級陸巡艦「バトルシップ」",
+    zhCN: "超重型陆巡舰·机动战垒",
+    zhTW: "超重型陸巡艦·機動戰壘",
+    pronunciationJa: "じゅうりょうきゅうりくじゅんかんバトルシップ",
+    tags: [ "nodkrai", "enemy", "enemy-boss" ],
+  },
+  {
     en: "Crab Tsar",
     ja: "「カニ皇帝」",
     zhCN: "「蟹沙皇」",

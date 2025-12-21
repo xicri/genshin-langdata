@@ -1581,6 +1581,7 @@ export default [
     ja: "ザンディク",
     zhCN: "赞迪克",
     zhTW: "贊迪克",
+    notes: "「博士」、ドットーレのスメール時代の本名",
     tags: [ "sumeru", "character-sub" ],
   },
   {

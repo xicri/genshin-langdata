@@ -435,6 +435,25 @@ export default [
     pronunciationJa: "らんやん",
     tags: [ "liyue", "character-main" ],
   },
+  {
+    en: "Zibai",
+    ja: "茲白",
+    zhCN: "兹白",
+    zhTW: "茲白",
+    pronunciationJa: "しはく",
+    tags: [ "liyue", "character-main" ], // TODO Maybe a playable character from Liyue, but not confirmed yet.
+  },
+  {
+    en: "White Horse Adeptus",
+    ja: "白馬の仙人",
+    zhCN: "白马仙人",
+    zhTW: "白馬仙人",
+    pronunciationJa: "はくばのせんにん",
+    notesEn: "Zibai's adeptus name",
+    notes: "兹白の称号",
+    notesZh: "兹白的称号",
+    tags: [ "liyue", "character-main" ], // TODO Maybe a playable character from Liyue, but not confirmed yet.
+  },
 
   //
   // Liyue - Sub-Characters
@@ -1318,4 +1337,23 @@ export default [
     notesZh: "桃都的魔神名。",
     notesZhTW: "桃都的魔神名。",
   },
+  {
+    en: "Chang the Ninth",
+    ja: "常九",
+    zhCN: "常九爷",
+    zhTW: "常九爺",
+    pronunciationJa: "じょうきゅう",
+    tags: [ "liyue", "character-sub" ],
+    notes: "軽策荘にいる人物",
+  },
+  {
+    en: "Mr. Nine",
+    ja: "九先生",
+    zhCN: "九老师",
+    zhTW: "九老師",
+    pronunciationJa: "きゅうせんせい",
+    tags: [ "liyue", "nodkrai", "character-sub" ],
+    notes: "世界任務「アラン・スミシー——フィッシュルの作者」に登場する仙霊。『フィッシュル皇女物語』の作者",
+  },
+
 ] as const satisfies SourceWord[];

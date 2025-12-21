@@ -22,6 +22,16 @@ export default [
     tags: [ "nodkrai", "title" ],
   },
   {
+    en: "Columbina Hyposelenia",
+    ja: "コロンビーナ・ハイポセレニア",
+    zhCN: "哥伦比娅·希珀塞莱尼娅",
+    zhTW: "哥倫比婭·希珀塞萊尼婭",
+    notes: "「少女」、クータルの本名",
+    notesZh: "「少女」、库塔尔的本名。",
+    notesZhTW: "「少女」、庫塔爾的本名。",
+    tags: [ "fatui", "nodkrai", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
+  },
+  {
     en: "Kuutar",
     ja: "クータル",
     zhCN: "库塔尔",
@@ -58,7 +68,7 @@ export default [
     ja: "ヤフォダ",
     zhCN: "雅珂达",
     zhTW: "雅珂達",
-    tags: [ "nodkrai", "character-main" ], // TODO: Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "character-main" ],
   },
   {
     en: "Nefer",
@@ -92,14 +102,14 @@ export default [
     zhCN: "杜林",
     zhTW: "杜林",
     notes: "レインドットに創造された龍、もしくは、アルベドによっての人の姿に錬成された「ちびドゥリン」",
-    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-main" ],
   },
   {
     en: "Mini Durin",
     ja: "ちびドゥリン",
     zhCN: "小杜林",
     zhTW: "小杜林",
-    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "mondstadt", "nodkrai", "dragonspine", "character-main" ],
     notes: "v4.8 期間限定マップ・シムランカで生み出された方のドゥリンで、レインドットが創造したドゥリンとは元々別個体",
   },
   {
@@ -128,6 +138,13 @@ export default [
       ref: "ミカ, Ver3.1 公式 PV 「赤砂の王と三人の巡礼者」",
       refURL: "https://www.youtube.com/watch?v=owxvZ9-0JE0&t=221s",
     }],
+  },
+  {
+    en: "Illuga",
+    ja: "イルーガ",
+    zhCN: "叶洛亚",
+    zhTW: "葉洛亞",
+    tags: [ "nodkrai", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
 
   //
@@ -899,6 +916,30 @@ export default [
     zhTW: "奧澤洛夫",
     notes: "魔人任務「存在しない国」に登場するファデュイ",
     tags: [ "nodkrai", "fatui", "character-sub" ],
+  },
+  {
+    en: "Razmaspes",
+    ja: "ラズマスペス",
+    zhCN: "拉撒抹培",
+    zhTW: "拉撒抹培",
+    notes: "魔人任務「北の果ての夜想詩」に登場する人物。ヒュペルボレイア人の虚影",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Gaoramus",
+    ja: "ガオラムス",
+    zhCN: "高拉默",
+    zhTW: "高拉默",
+    notes: "魔人任務「北の果ての夜想詩」に登場する人物。ヒュペルボレイア人の虚影",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Xsayazantus",
+    ja: "サヤザントゥス",
+    zhCN: "撒亚赞铎",
+    zhTW: "撒亞贊鐸",
+    notes: "魔人任務「朝霧に散りゆく月光」に登場する人物。ヒュペルボレイア人の虚影",
+    tags: [ "nodkrai", "character-sub" ],
   },
 
   // Etcetera

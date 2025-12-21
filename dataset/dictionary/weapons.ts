@@ -497,6 +497,14 @@ export default [
     pronunciationJa: "そうよう",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Athame Artis",
+    ja: "黒蝕",
+    zhCN: "黑蚀",
+    zhTW: "黑蝕",
+    pronunciationJa: "こくしょく",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores
@@ -1649,6 +1657,14 @@ export default [
     zhCN: "星鹫赤羽",
     zhTW: "星鷲赤羽",
     pronunciationJa: "せいしゅうのあかきはね",
+    tags: [ "weapon", "bow" ],
+  },
+  {
+    en: "The Daybreak Chronicles",
+    ja: "暁を告げる歴史",
+    zhCN: "黎明破晓之史",
+    zhTW: "黎明破曉之史",
+    pronunciationJa: "あかつきをつげるれきし",
     tags: [ "weapon", "bow" ],
   },
 

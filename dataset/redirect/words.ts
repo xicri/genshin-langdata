@@ -4,6 +4,7 @@ const redirects = {
   "capitano": "il-capitano",
   "captain-of-the-knights-of-favonius-reconnaissance-company": "captain-of-the-reconnaissance-company",
   "clan": "gunnhildr-clan",
+  "columbina": "columbina-hyposelenia",
   "diona": "diona-katzlein",
   "dori": "dori-sangemah-bay",
   "dunyarzad": "dunyarzad-homayani",

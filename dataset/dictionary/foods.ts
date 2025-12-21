@@ -787,6 +787,20 @@ export default [
     notes: "チームにフリンズが加入した状態でナシャタウンにいるウナーヤタに話しかけると貰える飴細工。期限は24時間",
     tags: [ "food" ],
   },
+  {
+    en: "Lohikeitto",
+    ja: "ロヒケイット",
+    zhCN: "奶油鲑鱼汤",
+    zhTW: "鮮奶油鮭魚湯",
+    tags: [ "food" ],
+  },
+  {
+    en: "Nod-Krai Hot Dog",
+    ja: "ナド・クライ・ホットドッグ",
+    zhCN: "挪德卡莱热狗",
+    zhTW: "挪德卡萊熱狗",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -1491,6 +1505,20 @@ export default [
     zhTW: "今日收穫",
     tags: [ "food" ],
   },
+  {
+    en: "Drink 455",
+    ja: "特製ドリンク「455」",
+    zhCN: "455特饮",
+    zhTW: "455特飲",
+    tags: [ "food" ],
+  },
+  {
+    en: "Lakkaberry Pie",
+    ja: "ホワイトベリークッコ",
+    zhCN: "白灵果派",
+    zhTW: "白靈果派",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -2023,6 +2051,16 @@ export default [
     notesEn: "Dahlia's specialty",
     notes: "ダリアのオリジナル料理",
     notesZh: "塔利雅的特色料理",
+  },
+  {
+    en: "Apple Stew (Trial Version)",
+    ja: "リンゴと肉の煮込み(試作品)",
+    zhCN: "苹果焖肉(初试版)",
+    zhTW: "蘋果燜肉(初試版)",
+    tags: [ "food", "nodkrai", "mondstadt" ],
+    notesEn: "Durin's specialty",
+    notes: "ドゥリンのオリジナル料理",
+    notesZh: "杜林的特色料理",
   },
 
   // Liyue
@@ -2823,6 +2861,26 @@ export default [
     notesEn: "Flins'es specialty",
     notes: "フリンズのオリジナル料理",
     notesZh: "菲林斯的特色料理",
+  },
+  {
+    en: "Secrets Exchanged",
+    ja: "「秘話の駆け引き」",
+    zhCN: "「秘闻交易」",
+    zhTW: "「秘聞交易」",
+    tags: [ "food", "nodkrai", "sumeru" ],
+    notesEn: "Nefer's specialty",
+    notes: "ネフェルのオリジナル料理",
+    notesZh: "奈芙尔的特色料理",
+  },
+  {
+    en: "\"After-Class Practice\"",
+    ja: "「宿題」",
+    zhCN: "「课后作业」",
+    zhTW: "「課後作業」",
+    tags: [ "food", "nodkrai" ],
+    notesEn: "Jahoda's specialty",
+    notes: "ヤフォダのオリジナル料理",
+    notesZh: "雅珂达的特色料理",
   },
 
   // etcetera

@@ -229,6 +229,25 @@ export default [
     notes: "イベント「自由の風に向かって」報酬アイテム",
     tags: [ "item", "mondstadt", "event" ],
   },
+  // v6.2 (Luna III)
+  {
+    en: "Finches Are Still the Cutest",
+    ja: "ヤマガラがやっぱり一番可愛い",
+    zhCN: "团雀还会最可愛",
+    zhTW: "團雀還會最可愛",
+    tags: [ "event", "natlan" ],
+    notesEn: "v6.2(Luna III) Sub-events of the Limited Time Event \"Bing-Bang Finchball\"",
+    notes: "v6.2(Luna III) 期間限定イベント「カラコロ! チュンボール」内ストーリー",
+    notesZh: "限时活动「哐哐当当雀雀球」v6.2(Luna III) 活动故事",
+  },
+  {
+    en: "Basima the Fifth",
+    ja: "バシマ五世",
+    zhCN: "拜希麦·五世",
+    zhTW: "拜希麥·五世",
+    tags: [ "event", "character-sub", "natlan", "sumeru" ],
+    notes: "v4.8 期間限定イベントおよび v6.2(Luna III) 期間限定イベント「カラコロ! チュンボール」に登場する人物",
+  },
   // v6.1 (Luna II)
   {
     en: "Ruins Exploration: Fieldwise Center",
@@ -2878,7 +2897,9 @@ export default [
     ja: "カラコロ! チュンボール",
     zhCN: "哐哐当当雀雀球",
     zhTW: "哐哐噹噹雀雀球",
-    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ、または v4.8 期間限定イベント",
+    notesEn: "Limited Time Event in v3.8, v4.8 and v6.2(Luna III)",
+    notes: "v3.8 期間限定イベント「涼夏! 楽園? 大秘境!」のアトラクションの1つ、v4.8 期間限定イベント、および v6.2(Luna III) 期間限定イベント",
+    notesZh: "v3.8、v4.8 和 v6.2（Luna III）中的限时活动",
     tags: [ "event" ],
   },
   {

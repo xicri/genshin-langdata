@@ -300,16 +300,6 @@ export default [
     tags: [ "fatui", "natlan", "khaenriah", "character-sub" ],
   },
   {
-    en: "Columbina",
-    ja: "コロンビーナ",
-    zhCN: "哥伦比娅",
-    zhTW: "哥倫比婭",
-    notes: "少女の通称",
-    notesZh: "冰之女皇给「少女」的赐名。",
-    notesZhTW: "冰之女皇給「少女」的賜名。",
-    tags: [ "fatui", "nodkrai", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
-  },
-  {
     en: "Damselette",
     ja: "少女",
     zhCN: "少女",

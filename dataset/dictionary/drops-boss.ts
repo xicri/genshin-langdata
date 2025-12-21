@@ -627,4 +627,12 @@ export default [
     pronunciationJa: "まんしょうのきかく",
     tags: [ "nodkrai", "drop-boss" ],
   },
+  {
+    en: "Cyclic Military Kuuvahki Core",
+    ja: "軍用循環式クーヴィキコア",
+    zhCN: "循环式军用月矩核心",
+    zhTW: "循環式軍用月矩核心",
+    pronunciationJa: "ぐんようじゅんかんしきクーヴィキコア",
+    tags: [ "nodkrai", "drop-boss" ],
+  },
 ] as const satisfies SourceWord[];
