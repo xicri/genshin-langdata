@@ -40,7 +40,7 @@ export default [
     notes: "免責事項: 本サイトの運営者は、本サイトの情報の誤り等による損害について一切補償致しかねます。本サイトの情報はご自身の責任においてご利用下さい。",
   },
   {
-    en: "Masterles Starglitter",
+    en: "Masterless Starglitter",
     ja: "無主のスターライト",
     zhCN: "无主的星辉",
     zhTW: "無主的星輝",
