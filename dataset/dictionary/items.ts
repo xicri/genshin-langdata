@@ -62,6 +62,14 @@ export default [
     },
   },
   {
+    en: "Masterless Stella Fortuna",
+    ja: "無主の星屑",
+    zhCN: "无主的命星",
+    zhTW: "無主的命星",
+    pronunciationJa: "むしゅのほしくず",
+    tags: [ "item" ],
+  },
+  {
     en: "Mora",
     ja: "モラ",
     zhCN: "摩拉",
