@@ -1239,4 +1239,13 @@ export default [
     pronunciationJa: "はくぎんのこじゅ",
     notes: "英語の綴り\"Irminsul\"は世界樹と同じ。放浪者の人形の体の材料に使われている",
   },
+  {
+    en: "Soulblazers",
+    ja: "特戦隊",
+    zhCN: "特战队",
+    zhTW: "特戰隊",
+    pronunciationJa: "とくせんたい",
+    notesEn: "Comic book fan",
+    notes: "漫画好きのサークル",
+  },
 ] as const satisfies SourceWord[];

@@ -3094,5 +3094,13 @@ export default [
     notes: "世界任務「最後のテノチズトク人」で取得できる誰かのボロボロなノート・2に記された人物。ちなみにナナズパインケーキの「ナナズ」部分の英語(Nanas)および中国語(娜娜丝)の綴りと同一",
     tags: [ "natlan", "character-sub" ],
   },
+  {
+    en: "Fietena",
+    ja: "フィエテナ",
+    zhCN: "菲耶蒂娜",
+    zhTW: "菲耶蒂娜",
+    notes: "ヴァレサの会話や書籍「炎魂戦記」に名前が登場する過去の英雄",
+    tags: [ "natlan", "character-sub" ],
+  },
 
 ] as const satisfies SourceWord[];

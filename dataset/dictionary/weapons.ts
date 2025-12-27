@@ -1555,6 +1555,17 @@ export default [
     pronunciationJa: "らもうのはり",
     tags: [ "weapon", "bow" ],
   },
+  {
+    en: "Rainbow Serpent's Rain Bow",
+    ja: "虹蛇の雨弦",
+    zhCN: "虹蛇的雨弦",
+    zhTW: "虹蛇的雨弦",
+    pronunciationJa: "こうじゃのうげん",
+    notesEn: "v6.2(LunaIII) Limited Time Event \"Soulblazers' Snowbound Journey\" Reward",
+    notes: "v6.2(LunaIII) 期間限定イベント「魂を炎やす戦士の雪の旅」報酬",
+    notesZh: "v6.2(LunaIII) 限时活动「炽魂斗士的雪界之旅」奖励",
+    tags: [ "weapon", "bow" ],
+  },
   // ★5
   {
     en: "Skyward Harp",
