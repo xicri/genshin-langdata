@@ -217,4 +217,12 @@ export default [
     pronunciationJa: "つきのさんめがみ",
     tags: [ "how-to-call", "title" ],
   },
+  {
+    en: "Octavia",
+    ja: "オクタヴィア",
+    zhCN: "欧科塔维亚",
+    zhTW: "歐科塔維亞",
+    notes: "魔女会・コードO",
+    tags: [ "character-sub" ],
+  },
 ] as const satisfies SourceWord[];

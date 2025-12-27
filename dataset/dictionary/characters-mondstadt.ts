@@ -838,6 +838,14 @@ export default [
     notesZhTW: "「榮光之風」的店主。",
   },
   {
+    en: "Patton",
+    ja: "パットン",
+    zhCN: "巴顿",
+    zhTW: "巴頓",
+    tags: [ "mondstadt", "character-sub" ],
+    notes: "「エンジェルズシェア」の店員。v6.2(LunaIII) 期間限定イベント「魂を炎やす戦士の雪の旅」に登場するミニーの兄",
+  },
+  {
     en: "Callirhoe",
     ja: "カリロエー",
     zhCN: "卡莉露",

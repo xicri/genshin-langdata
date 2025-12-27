@@ -1518,6 +1518,15 @@ export default [
     tags: [ "item", "mondstadt" ],
   },
   {
+    en: "The Soulblazer Saga: Volume 2",
+    ja: "炎魂戦記・第二巻",
+    zhCN: "炽魂斗士战记·第二册",
+    zhTW: "熾魂鬥士戰記·第二冊",
+    pronunciationJa: "えんこんせんき・だいにかん",
+    notes: "v6.2(LunaIII) 期間限定イベント「魂を炎やす戦士の雪の旅」配布アイテム",
+    tags: [ "item", "event", "mondstadt", "natlan" ],
+  },
+  {
     en: "Princess Mina of the Fallen Nation",
     ja: "亡国の美奈姫",
     zhCN: "亡国的美奈姬",

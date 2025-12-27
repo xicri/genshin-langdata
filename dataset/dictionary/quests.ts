@@ -2897,6 +2897,15 @@ export default [
     notes: "伴月紀聞・2で発生するクエスト",
     tags: [ "nodkrai", "quest-world" ],
   },
+   {   
+    en: "The Empty Courtyard",
+    ja: "誰もいない庭",
+    zhCN: "无人的庭园",
+    zhTW: "無人的庭園",
+    pronunciationJa: "だれもいないにわ",
+    notes: "空月の歌 第六章クリアで発生するクエスト",
+    tags: [ "nodkrai", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
