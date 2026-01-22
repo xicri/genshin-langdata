@@ -20,7 +20,7 @@
     "dotenv": "^17.2.3",
     "iconv-lite": "^0.7.2",
     "jiti": "^2.6.1",
-    "lodash-es": "^4.17.22",
+    "lodash-es": "^4.17.23",
     "luxon": "^3.7.2",
     "marked": "^16.4.1",
     "node-fetch": "^3.2.4",
