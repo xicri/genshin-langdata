@@ -1,7 +1,7 @@
 import { mkdir, open, rm, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import iconv from "iconv-lite";
-import { isEqual } from "lodash-es";
+import { isEqual } from "es-toolkit";
 import { DateTime } from "luxon";
 import { marked } from "marked";
 import fetch from "node-fetch";
