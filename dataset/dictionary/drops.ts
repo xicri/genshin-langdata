@@ -29,7 +29,7 @@ export default [
     notes: "ヒルチャール暴徒・ヒルチャール王者のドロップアイテム (★2)",
   },
   {
-    en: "Lay Line Sprout",
+    en: "Ley Line Sprout",
     ja: "地脈の新芽",
     zhCN: "地脉的新芽",
     zhTW: "地脈的新芽",
@@ -38,7 +38,7 @@ export default [
     notes: "アビスの魔術師のドロップアイテム (★4)",
   },
   {
-    en: "Dead Lay Line Leaves",
+    en: "Dead Ley Line Leaves",
     ja: "地脈の枯れ葉",
     zhCN: "地脉的枯叶",
     zhTW: "地脈的枯葉",
@@ -47,7 +47,7 @@ export default [
     notes: "アビスの魔術師のドロップアイテム (★3)",
   },
   {
-    en: "Dead Lay Line Branch",
+    en: "Dead Ley Line Branch",
     ja: "地脈の旧枝",
     zhCN: "地脉的旧枝",
     zhTW: "地脈的舊枝",
