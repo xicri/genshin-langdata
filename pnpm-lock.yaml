@@ -33,8 +33,8 @@ importers:
         specifier: ^3.7.2
         version: 3.7.2
       marked:
-        specifier: ^16.4.1
-        version: 16.4.1
+        specifier: ^17.0.1
+        version: 17.0.1
       node-fetch:
         specifier: ^3.2.4
         version: 3.3.2
@@ -853,8 +853,8 @@ packages:
   magic-string@0.30.21:
     resolution: {integrity: sha512-vd2F4YUyEXKGcLHoq+TEyCjxueSeHnFxyyjNp80yg0XV4vUhnDer/lvvlqM/arB5bXQN5K2/3oinyCRyx8T2CQ==}
 
-  marked@16.4.1:
-    resolution: {integrity: sha512-ntROs7RaN3EvWfy3EZi14H4YxmT6A5YvywfhO+0pm+cH/dnSQRmdAmoFIc3B9aiwTehyk7pESH4ofyBY+V5hZg==}
+  marked@17.0.1:
+    resolution: {integrity: sha512-boeBdiS0ghpWcSwoNm/jJBwdpFaMnZWRzjA6SkUMYb40SVaN1x7mmfGKp0jvexGcx+7y2La5zRZsYFZI6Qpypg==}
     engines: {node: '>= 20'}
     hasBin: true
 
@@ -1656,7 +1656,7 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  marked@16.4.1: {}
+  marked@17.0.1: {}
 
   miniflare@4.20260114.0:
     dependencies:
