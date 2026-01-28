@@ -24,10 +24,10 @@
     "marked": "^17.0.1",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.4.0",
-    "type-fest": "^5.4.1",
+    "type-fest": "^5.4.2",
     "typescript": "^5.9.3",
     "vitest": "^4.0.17",
-    "wrangler": "^4.59.2"
+    "wrangler": "^4.61.0"
   },
   "engines": {
     "node": ">=24.x || 22.x",
