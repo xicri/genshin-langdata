@@ -3274,7 +3274,7 @@ export default [
 
   // Nod-Krai
   {
-    en: "Kunckle Duckle",
+    en: "Knuckle Duckle",
     ja: "ボコボコダック",
     zhCN: "重拳出击鸭",
     zhTW: "重拳出撃鴨",
@@ -3290,10 +3290,10 @@ export default [
   },
   {
     en: "Frostnight Herra",
-    ja: "霜夜の空を巡る領主",
+    ja: "霜夜の空を巡る霊主",
     zhCN: "霜夜巡天灵主",
     zhTW: "霜夜巡天靈主",
-    pronunciationJa: "そうやのそらをめぐるりょうしゅ",
+    pronunciationJa: "そうやのそらをめぐるれいしゅ",
     tags: [ "nodkrai", "enemy", "enemy-boss" ],
   },
   {
@@ -3303,15 +3303,6 @@ export default [
     zhTW: "超重型陸巡艦·機動戰壘",
     pronunciationJa: "じゅうりょうきゅうりくじゅんかんバトルシップ",
     tags: [ "nodkrai", "enemy", "enemy-boss" ],
-  },
-  {
-    en: "Crab Tsar",
-    ja: "「カニ皇帝」",
-    zhCN: "「蟹沙皇」",
-    zhTW: "「蟹沙皇」",
-    pronunciationJa: "カニこうてい",
-    notes: "月下見聞「鏡と迷宮と国王」に登場するキャラクター。ナド・クライの地方伝説の1体で、重甲ヤドカニの変異体",
-    tags: [ "nodkrai", "enemy", "enemy-legend" ],
   },
   {
     en: "Blazing Brilliance: Frostnight Scion",
@@ -3343,6 +3334,22 @@ export default [
     zhCN: "凌晶·霜夜灵嗣",
     zhTW: "凌晶·霜夜靈嗣",
     pronunciationJa: "ひょうしょう・そうやのけいれいしゃ",
+    tags: [ "nodkrai", "enemy" ],
+  },
+  {
+    en: "Surging Currents: Frostnight Scion",
+    ja: "激流・霜夜の継霊者",
+    zhCN: "涌流·霜夜灵嗣",
+    zhTW: "湧流·霜夜靈嗣",
+    pronunciationJa: "げきりゅう・そうやのけいれいしゃ",
+    tags: [ "nodkrai", "enemy" ],
+  },
+  {
+    en: "Gilded Sunshard: Frostnight Scion",
+    ja: "金礞・霜夜の継霊者",
+    zhCN: "金礞·霜夜灵嗣",
+    zhTW: "金礞·霜夜靈嗣",
+    pronunciationJa: "きんえい・そうやのけいれいしゃ",
     tags: [ "nodkrai", "enemy" ],
   },
   {
@@ -3518,6 +3525,50 @@ export default [
     zhTW: "蘊光璇蛸",
     pronunciationJa: "しゅうこうのらせだこ",  // TODO need check
     tags: [ "nodkrai", "enemy" ],
+  },
+  {
+    en: "Fisher of Hidden Depths",
+    ja: "闇の漁師",
+    zhCN: "深黯钓客",
+    zhTW: "深黯釣客",
+    pronunciationJa: "やみのりょうし",
+    tags: [ "nodkrai", "enemy" ],
+  },
+  {
+    en: "Lord of the Hidden Depths: Whisperer of Nightmares",
+    ja: "昏き魘夢の主",
+    zhCN: "深黯魇语之主",
+    zhTW: "深黯魘語之主",
+    pronunciationJa: "くらきえんむのあるじ",
+    tags: [ "nodkrai", "enemy", "enemy-boss" ],
+  },
+  // Nod-Krai's Local legend
+  {
+    en: "Crab Tsar",
+    ja: "「カニ皇帝」",
+    zhCN: "「蟹沙皇」",
+    zhTW: "「蟹沙皇」",
+    pronunciationJa: "カニこうてい",
+    notes: "月下見聞「鏡と迷宮と国王」に登場するキャラクター。ナド・クライの地方伝説の1体で、重甲ヤドカニの変異体",
+    tags: [ "nodkrai", "enemy", "enemy-legend" ],
+  },
+  {
+    en: "Hexadecatonic Mandragora",
+    ja: "十六倍マンドラゴラ",
+    zhCN: "十六倍曼陀草",
+    zhTW: "十六倍曼陀草",
+    pronunciationJa: "じゅうろくばいマンドラゴラ",
+    notes: "ナド・クライの地方伝説の1体で、マンドラゴラの変異体",
+    tags: [ "nodkrai", "enemy", "enemy-legend" ],
+  },
+  {
+    en: "\"The Homesick Lone Wolf\"",
+    ja: "「故郷を偲ぶ孤独の狼」",
+    zhCN: "「望乡的孤狼",
+    zhTW: "「望鄉的孤狼」",
+    pronunciationJa: "こきょうをしのぶこどくのおおかみ",
+    notes: "ナド・クライの地方伝説の1体で、オオカミの変異体",
+    tags: [ "nodkrai", "enemy", "enemy-legend" ],
   },
 
 ] as const satisfies SourceWord[];
