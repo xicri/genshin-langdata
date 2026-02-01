@@ -2800,6 +2800,22 @@ export default [
     pronunciationJa: "せいりされたノート",
     tags: [ "item", "nodkrai" ],
   },
+  {
+    en: "Moon-Prayer Blossom From Columbina",
+    ja: "コロンビーナから贈られた祈月の花",
+    zhCN: "哥伦比娅赠予你的祈月之花",
+    zhTW: "哥倫比婭贈予你的祈月之花",
+    pronunciationJa: "コロンビーナからおくられたきげつのはな",
+    tags: [ "item", "nodkrai" ],
+  },
+  {
+    en: "Marionette's Notebook",
+    ja: "「傀儡」のノート",
+    zhCN: "「木偶」的笔记本",
+    zhTW: "「木偶」的筆記本",
+    pronunciationJa: "かいらいのノート",
+    tags: [ "item", "nodkrai", "fontaine" ],
+  },
 
   //
   // Wind Glider
@@ -3076,5 +3092,29 @@ export default [
     zhTW: "熾繪奇旅",
     pronunciationJa: "もえろ! ラクガキだいぼうけん",
     notes: "ベネットのコスチューム",
+  },
+  {
+    en: "As Heaven and Earth Are Made Anew",
+    ja: "新たなる天地",
+    zhCN: "复地重天",
+    zhTW: "復地重天",
+    pronunciationJa: "あらたなるてんち",
+    notes: "旅人のコスチューム",
+  },
+  {
+    en: "Melusent Gift",
+    ja: "メリュジーヌの贈り物",
+    zhCN: "莘露的赠礼",
+    zhTW: "莘露的贈禮",
+    pronunciationJa: "メリュジーヌのおくりもの",
+    notes: "ヌヴィレットのコスチューム",
+  },
+  {
+    en: "Rainlit Bamboo Reverie",
+    ja: "竹林に響く雨音",
+    zhCN: "聆雨听竹",
+    zhTW: "聆雨聽竹",
+    pronunciationJa: "ちくりんにひびくあまおと",
+    notes: "ヨォーヨのコスチューム",
   },
 ] as const satisfies SourceWord[];
