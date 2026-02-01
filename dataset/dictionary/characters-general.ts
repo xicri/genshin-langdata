@@ -195,19 +195,27 @@ export default [
     notesZhTW: "納貝里士的稱號。",
   },
   {
-    en: "Asmoday", // TODO: maybe "Sustainer of Space"?
+    en: "Asmoday", // Mentioned in the PV "The Gods' Limits"
     ja: "アスモダイ",
     zhCN: "阿斯莫代",
     zhTW: "阿斯莫代",
-    tags: [ "character-sub" ],
+    tags: [ "mondstadt", "character-sub" ],
+    notesEn: "An envoy of Heavenly Principle who holds the title of \"Ruler of Space.\"",
+    notes: "「空の執政」の肩書を持つ天理の使者",
+    notesZh: "天理座下四影之一的「空之执政」。",
+    notesZhTW: "天理座下四影之一的「空之執政」。",
   },
   {
-    en: "Ruler of Space", // TODO: maybe "Asmoday"?
+    en: "Ruler of Space", // Mentioned in the PV "The Gods' Limits"
     ja: "空の執政",
     zhCN: "空之执政",
     zhTW: "空之執政",
     pronunciationJa: "くうのしっせい",
     tags: [ "mondstadt", "title" ],
+    notesEn: "Asmoday's title",
+    notes: "アスモダイの称号",
+    notesZh: "阿斯莫代的称号。",
+    notesZhTW: "阿斯莫代的稱號。",
   },
   {
     en: "The Trinity of Moon Goddesses",
