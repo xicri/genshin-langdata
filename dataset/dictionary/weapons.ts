@@ -2105,4 +2105,12 @@ export default [
     pronunciationJa: "しんげんのはこ",
     tags: [ "weapon", "catalyst" ],
   },
+  {
+    en: "Nocturne's Curtain Call",
+    ja: "帳の夜曲",
+    zhCN: "帷间夜曲",
+    zhTW: "帷間夜曲",
+    pronunciationJa: "とばりのやきょく",
+    tags: [ "weapon", "catalyst" ],
+  },
 ] as const satisfies SourceWord[];

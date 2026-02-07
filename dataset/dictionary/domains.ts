@@ -786,4 +786,20 @@ export default [
     pronunciationJa: "ひかりなきしんと",  // TODO Need Check
     tags: [ "nodkrai", "domain" ],
   },
+  {
+    en: "Moonchild's Treasures",
+    ja: "月の子の宝物",
+    zhCN: "月童的库藏",
+    zhTW: "月童的庫藏",
+    pronunciationJa: "つきのこのたからもの",
+    tags: [ "nodkrai", "domain" ],
+  },
+  {
+    en: "False Moon Institute",
+    ja: "偽月の研究所",
+    zhCN: "赝月的研究所",
+    zhTW: "贗月的研究所",
+    pronunciationJa: "ぎげつのけんきゅうじょ",
+    tags: [ "nodkrai", "domain" ],
+  },
 ] as const satisfies SourceWord[];
