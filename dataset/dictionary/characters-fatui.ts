@@ -231,7 +231,7 @@ export default [
     notesEn: "Il Dottore's codename.",
     notesZh: "多托雷的代号。",
     notesZhTW: "多托雷的代號。",
-    tags: [ "fatui", "sumeru", "character-sub", "title" ],
+    tags: [ "fatui", "sumeru", "character-sub", "title", "enemy-boss" ],
     variants: {
       ja: [ "はくし" ],
     },
