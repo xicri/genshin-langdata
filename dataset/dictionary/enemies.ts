@@ -3550,7 +3550,7 @@ export default [
     zhTW: "「蟹沙皇」",
     pronunciationJa: "カニこうてい",
     notes: "月下見聞「鏡と迷宮と国王」に登場するキャラクター。ナド・クライの地方伝説の1体で、重甲ヤドカニの変異体",
-    tags: [ "nodkrai", "enemy", "enemy-legend" ],
+    tags: [ "nodkrai", "enemy-legend" ],
   },
   {
     en: "Hexadecatonic Mandragora",
