@@ -3568,7 +3568,7 @@ export default [
     zhTW: "「望鄉的孤狼」",
     pronunciationJa: "こきょうをしのぶこどくのおおかみ",
     notes: "ナド・クライの地方伝説の1体で、オオカミの変異体",
-    tags: [ "nodkrai", "enemy", "enemy-legend" ],
+    tags: [ "nodkrai", "enemy-legend" ],
   },
 
 ] as const satisfies SourceWord[];
