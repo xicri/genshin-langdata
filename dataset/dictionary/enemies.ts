@@ -3540,7 +3540,7 @@ export default [
     zhCN: "深黯魇语之主",
     zhTW: "深黯魘語之主",
     pronunciationJa: "くらきえんむのあるじ",
-    tags: [ "nodkrai", "enemy", "enemy-boss" ],
+    tags: [ "nodkrai", "enemy-boss" ],
   },
   // Nod-Krai's Local legend
   {
