@@ -3559,7 +3559,7 @@ export default [
     zhTW: "十六倍曼陀草",
     pronunciationJa: "じゅうろくばいマンドラゴラ",
     notes: "ナド・クライの地方伝説の1体で、マンドラゴラの変異体",
-    tags: [ "nodkrai", "enemy", "enemy-legend" ],
+    tags: [ "nodkrai", "enemy-legend" ],
   },
   {
     en: "\"The Homesick Lone Wolf\"",
