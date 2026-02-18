@@ -16,18 +16,18 @@
   "dependencies": {
     "@types/luxon": "^3.7.1",
     "@types/node": "^24.10.13",
-    "dotenv": "^17.2.4",
+    "dotenv": "^17.3.1",
     "es-toolkit": "^1.44.0",
     "iconv-lite": "^0.7.2",
     "jiti": "^2.6.1",
     "luxon": "^3.7.2",
-    "marked": "^17.0.1",
+    "marked": "^17.0.3",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.4.0",
     "type-fest": "^5.4.4",
     "typescript": "^5.9.3",
     "vitest": "^4.0.17",
-    "wrangler": "^4.64.0"
+    "wrangler": "^4.66.0"
   },
   "engines": {
     "node": ">=24.x || 22.x",
