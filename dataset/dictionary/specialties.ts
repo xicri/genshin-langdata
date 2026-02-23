@@ -443,4 +443,20 @@ export default [
     tags: [ "specialty", "nodkrai" ],
     pronunciationJa: "げつらくぎん", // TODO need check
   },
+  {
+    en: "Winter Icelea",
+    ja: "ヴィンテル草",
+    zhCN: "冬凌草",
+    zhTW: "冬凌草",
+    pronunciationJa: "ヴィンテルそう",
+    tags: [ "specialty", "nodkrai" ],
+  },
+  {
+    en: "Pine Amber",
+    ja: "琥珀香",
+    zhCN: "松珀香",
+    zhTW: "松珀香",
+    pronunciationJa: "こはくこう",
+    tags: [ "specialty", "nodkrai" ],
+  },
 ] as const satisfies SourceWord[];

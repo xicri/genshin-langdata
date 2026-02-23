@@ -1508,4 +1508,13 @@ export default [
     notes: "「霜月の里」各所にある、月の神を模した像",
     tags: [ "nodkrai", "object" ],
   },
+  {
+    en: "Arrow of Terpikeranuas",
+    ja: "テルピケラウナスの矢",
+    zhCN: "德肋庇革劳诺之箭",
+    zhTW: "德肋庇革勞諾之箭",
+    pronunciationJa: "テルピケラウナスのや",
+    tags: [ "nodkrai", "object" ],
+  },
+
 ] as const satisfies SourceWord[];

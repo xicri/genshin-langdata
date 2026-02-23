@@ -2446,6 +2446,15 @@ export default [
     tags: [ "item", "liyue" ],
   },
   {
+    en: "The First Iron Coin",
+    ja: "「最初の鉄銭」",
+    zhCN: "「最初的铁钱」",
+    zhTW: "「最初的鐵錢」",
+    tags: [ "item", "liyue" ],
+    pronunciationJa: "さいしょのてつせん",
+    notes: "月下見聞「寒鴉の系譜」報酬",
+  },
+  {
     en: "Green Berryshroom",
     ja: "緑トロピカルキノコ",
     zhCN: "绿果果菇",

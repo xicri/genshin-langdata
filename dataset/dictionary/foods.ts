@@ -824,6 +824,15 @@ export default [
     tags: [ "food" ],
   },
   {
+    en: "Sugar Sculpture: Illuga",
+    ja: "飴細工・イルーガ",
+    zhCN: "糖雕·叶洛亚",
+    zhTW: "糖雕·葉洛亞",
+    pronunciationJa: "あめざいく・イルーガ",
+    notes: "チームにイルーガが加入した状態でナシャタウンにいるウナーヤタに話しかけると貰える飴細工。期限は24時間",
+    tags: [ "food" ],
+  },
+  {
     en: "Lohikeitto",
     ja: "ロヒケイット",
     zhCN: "奶油鲑鱼汤",
@@ -1567,7 +1576,7 @@ export default [
     ja: "キャンプファイヤーの狂喜",
     zhCN: "篝火边的欢腾",
     zhTW: "篝火邊的歡騰",
-    tags: [ "food" ],
+    tags: [ "food", "nodkrai" ],
   },
   {
     en: "Mushroom Phantasm",
@@ -1581,6 +1590,13 @@ export default [
     ja: "フラワーベリーキャンディー",
     zhCN: "花果草糖",
     zhTW: "花果草糖",
+    tags: [ "food" ],
+  },
+  {
+    en: "Crispy Spring Rolls",
+    ja: "カリカリ春巻き",
+    zhCN: "香炸春卷",
+    zhTW: "香炸春捲",
     tags: [ "food" ],
   },
 
@@ -1772,6 +1788,13 @@ export default [
     zhCN: "小小阿夏包",
     zhTW: "小小阿夏包",
     tags: [ "natlan", "food" ],
+  },
+  {
+    en: "Lucky Snow Delight",
+    ja: "豊穣瑞雪餅",
+    zhCN: "穰穰瑞雪糕",
+    zhTW: "穰穰瑞雪糕",
+    tags: [ "food" ],
   },
 
   // ★★★★★
@@ -2317,6 +2340,16 @@ export default [
     notesEn: "Lan Yan's Specialty",
     notes: "藍硯のオリジナル料理",
     notesZh: "蓝砚的特色料理",
+  },
+  {
+    en: "Flavor of Spring",
+    ja: "春鮮揚げ",
+    zhCN: "炸春鲜",
+    zhTW: "炸春鮮",
+    tags: [ "food", "nodkrai" ],
+    notesEn: "Zibai's specialty",
+    notes: "茲白のオリジナル料理",
+    notesZh: "兹白的特色料理",
   },
 
   // Inazuma
@@ -2955,6 +2988,17 @@ export default [
     notesEn: "Columbina's specialty",
     notes: "コロンビーナのオリジナル料理",
     notesZh: "哥伦比娅的特色料理",
+  },
+  {
+    en: "Nightwatch Soup",
+    ja: "夜廻りのスープ",
+    zhCN: "夜守暖汤",
+    zhTW: "夜守暖湯",
+    pronunciationJa: "よまわりのスープ",
+    tags: [ "food", "nodkrai" ],
+    notesEn: "Illuga's specialty",
+    notes: "イルーガのオリジナル料理",
+    notesZh: "叶洛亚的特色料理",
   },
 
   // etcetera

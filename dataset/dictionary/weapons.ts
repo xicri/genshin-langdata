@@ -505,6 +505,14 @@ export default [
     pronunciationJa: "こくしょく",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Lightbearing Moonshard",
+    ja: "三日月の含光",
+    zhCN: "朏魄含光",
+    zhTW: "朏魄含光",
+    pronunciationJa: "みかづきのがんこう",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores

@@ -223,7 +223,6 @@ export default [
     pronunciationJa: "ふうりゅうはいきょ",
     tags: [ "mondstadt", "location", "domain" ],
   },
-
   {
     en: "Dragonspine",
     ja: "ドラゴンスパイン",
@@ -331,6 +330,15 @@ export default [
     variants: {
       ja: [ "リーユエこう" ],
     },
+  },
+  {
+    en: "Lang-Gan",
+    ja: "琅玕",
+    zhCN: "琅玕",
+    zhTW: "琅玕",
+    notes: "層岩巨淵の位置に、かつて存在していた国",
+    pronunciationJa: "ろうかん",
+    tags: [ "liyue", "location" ],
   },
   {
     en: "Feiyun Slope",
