@@ -27,7 +27,7 @@
     "type-fest": "^5.4.4",
     "typescript": "^5.9.3",
     "vitest": "^4.0.17",
-    "wrangler": "^4.66.0"
+    "wrangler": "^4.68.1"
   },
   "engines": {
     "node": ">=24.x || 22.x",
