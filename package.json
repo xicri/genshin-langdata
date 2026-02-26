@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@types/luxon": "^3.7.1",
-    "@types/node": "^24.10.13",
+    "@types/node": "^24.10.14",
     "dotenv": "^17.3.1",
     "es-toolkit": "^1.44.0",
     "iconv-lite": "^0.7.2",
@@ -27,7 +27,7 @@
     "type-fest": "^5.4.4",
     "typescript": "^5.9.3",
     "vitest": "^4.0.17",
-    "wrangler": "^4.66.0"
+    "wrangler": "^4.68.1"
   },
   "engines": {
     "node": ">=24.x || 22.x",
