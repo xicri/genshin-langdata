@@ -75,6 +75,7 @@ export default [
     zhTW: "萬民堂",
     pronunciationJa: "ばんみんどう",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある食堂",
   },
   {
     en: "Bubu Pharmacy",
@@ -83,6 +84,7 @@ export default [
     zhTW: "不卜廬",
     pronunciationJa: "ふぼくろ",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある薬屋",
     variants: {
       ja: [ "不卜盧" ],
     },
@@ -94,14 +96,16 @@ export default [
     zhTW: "萬文集舍",
     pronunciationJa: "まんぶんしゅうしゃ",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある書店",
   },
   {
     en: "Yanshang Teahouse",
     ja: "岩上茶室",
-    pronunciationJa: "がんじょうちゃしつ",
     zhCN: "岩上茶室",
     zhTW: "岩上茶室",
+    pronunciationJa: "がんじょうちゃしつ",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある茶屋",
   },
   {
     en: "Liuli Pavilion",
@@ -110,6 +114,7 @@ export default [
     zhTW: "琉璃亭",
     pronunciationJa: "るりてい",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある店",
     variants: {
       ja: [ "瑠璃亭" ],
     },
@@ -121,6 +126,7 @@ export default [
     zhTW: "新月軒",
     pronunciationJa: "しんげつけん",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある店",
   },
   {
     en: "Third-Round Knockout",
@@ -129,6 +135,7 @@ export default [
     zhTW: "三碗不過港",
     pronunciationJa: "さんばいよい",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある酒場",
   },
   {
     en: "Hanfeng's Ironmongers",
@@ -144,6 +151,7 @@ export default [
     zhCN: "和裕茶馆",
     zhTW: "和裕茶館",
     tags: [ "liyue", "facility" ],
+    notes: "璃月港にある茶館",
   },
   {
     en: "Scent of Spring",
@@ -151,7 +159,7 @@ export default [
     zhCN: "春香窑",
     zhTW: "春香窯",
     tags: [ "liyue", "facility" ],
-    notes: "鶯の店",
+    notes: "璃月港にある鶯の店",
   },
   {
     en: "The Jade Mystery",
@@ -159,7 +167,7 @@ export default [
     zhCN: "解翠行",
     zhTW: "解翠行",
     tags: [ "liyue", "facility" ],
-    notes: "石商の鉱石店",
+    notes: "璃月港にある石商の鉱石店",
   },
   {
     en: "Mingxing Jewelry",
@@ -168,7 +176,31 @@ export default [
     zhTW: "明星齋",
     pronunciationJa: "みょうじょうさい",
     tags: [ "liyue", "facility" ],
-    notes: "岩の印をアイテムと交換できる店",
+    notes: "璃月港にある岩の印をアイテムと交換できる店",
+  },
+  {
+    en: "Baiju Guesthouse",
+    ja: "白駒逆旅",
+    zhCN: "白驹逆旅",
+    zhTW: "白駒逆旅",
+    tags: [ "liyue", "facility" ],
+    notes: "璃月港にある旅館",
+  },
+  {
+    en: "Xigu Antiques",
+    ja: "希古居",
+    zhCN: "希古居",
+    zhTW: "希古居",
+    tags: [ "liyue", "facility" ],
+    notes: "璃月港にある店",
+  },
+  {
+    en: "Wanyou Boutique",
+    ja: "万有商舗",
+    zhCN: "万有铺子",
+    zhTW: "萬有鋪子",
+    tags: [ "liyue", "facility" ],
+    notes: "璃月港にある店",
   },
 
   //

@@ -807,6 +807,14 @@ export default [
     tags: [ "liyue", "location" ],
   },
   {
+    en: "Wangshan Hall",
+    ja: "王山庁",
+    zhCN: "王山厅",
+    zhTW: "王山廳",
+    tags: [ "liyue", "location" ],
+    notes: "霊濛山に存在する「古華派」の本拠地",
+  },
+  {
     en: "Jademouth",
     ja: "宝玦の口",
     zhCN: "宝玦口",

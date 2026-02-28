@@ -92,8 +92,8 @@ export default [
     zhCN: "丹迪",
     zhTW: "丹迪",
     tags: [ "character-sub" ],
+    notes: "各地でタイムアタックに誘う人物。冒険者",
   },
-
   {
     en: "Sustainer of \"Heavenly Principles\"",
     ja: "「天理」の調停者",
