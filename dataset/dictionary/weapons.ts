@@ -883,6 +883,13 @@ export default [
     pronunciationJa: "せんれつのにちりん",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "Gest of the Mighty Wolf",
+    ja: "狼の武勲詩",
+    zhCN: "狼的武功歌",
+    zhTW: "狼的武功歌",
+    tags: [ "weapon", "claymore" ],
+  },
 
   //
   // Polearm
@@ -1966,6 +1973,16 @@ export default [
     zhTW: "鳥髄孑燈",
     pronunciationJa: "ちょうずいのことう",
     tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Phantasmal Gift: Star Omen",
+    ja: "幻のギフト・スターオーメン",
+    zhCN: "幻礼·星兆",
+    zhTW: "幻禮·星兆",
+    notesEn: "v6.4(LunaV) Limited Time Event \"Homeward, He Who Caught the Wind\" Reward. An item to changes the appearance of the catalyst weapon to a witch's crystal ball.",
+    notes: "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」報酬。法器武器の見た目を魔女の水晶玉に変えるアイテム",
+    notesZh: "v6.4(LunaV) 限时活动「捕风的归客」奖励",
+    tags: [ "weapon", "catalyst", "event" ],
   },
   // ★5
   {

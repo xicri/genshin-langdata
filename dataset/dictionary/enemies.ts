@@ -3542,6 +3542,14 @@ export default [
     pronunciationJa: "くらきえんむのあるじ",
     tags: [ "nodkrai", "enemy-boss" ],
   },
+  {
+    en: "Radiant Moongecko",
+    ja: "集光の月ヤモリ",
+    zhCN: "蕴光月守宫",
+    zhTW: "蘊光月守宮",
+    pronunciationJa: "しゅうこうのつきヤモリ",
+    tags: [ "nodkrai", "enemy-boss" ],
+  },
   // Nod-Krai's Local legend
   {
     en: "Crab Tsar",

@@ -144,7 +144,22 @@ export default [
     ja: "イルーガ",
     zhCN: "叶洛亚",
     zhTW: "葉洛亞",
-    tags: [ "nodkrai", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
+    tags: [ "nodkrai", "character-main" ],
+  },
+  {
+    en: "Linnea",
+    ja: "リンネア",
+    zhCN: "莉奈娅",
+    zhTW: "莉奈婭",
+    tags: [ "nodkrai", "character-main" ],
+  },
+  {
+    en: "Lohen",
+    ja: "ローエン",
+    zhCN: "洛恩",
+    zhTW: "洛恩",
+    notes: "西風騎士団所属",
+    tags: [ "nodkrai", "mondstadt", "character-main" ], // TODO Maybe a playable character from Nod-Krai, but not confirmed yet.
   },
 
   //
@@ -1323,6 +1338,46 @@ export default [
     zhCN: "阿咚",
     zhTW: "阿咚",
     notes: "イルーガが連れているキャラクター",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Roland",
+    ja: "ローランド",
+    zhCN: "罗兰",
+    zhTW: "羅蘭",
+    notes: "伝説任務「天狼の章」に登場する人物。500年前の北風騎士。ルースタンの弟子",
+    tags: [ "nodkrai", "mondstadt", "character-sub" ],
+  },
+  {
+    en: "White Knight",
+    ja: "純白の騎士",
+    zhCN: "純白骑士",
+    zhTW: "純白騎士",
+    notes: "ローランドの称号",
+    tags: [ "nodkrai", "mondstadt", "title" ],
+  },
+  {
+    en: "Bloodstained Knight",
+    ja: "血染めの騎士",
+    zhCN: "血染黑的骑士",
+    zhTW: "血染黑的騎士",
+    notes: "ローランドの称号",
+    tags: [ "nodkrai", "mondstadt", "title" ],
+  },
+  {
+    en: "Virtanen",
+    ja: "ヴィルタネン",
+    zhCN: "沃尔塔宁",
+    zhTW: "沃爾塔寧",
+    notes: "伝説任務「天狼の章」に登場する人物。ライトキーパー",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Vytautas",
+    ja: "フィタウタス",
+    zhCN: "维道塔什",
+    zhTW: "維道塔什",
+    notes: "伝説任務「天狼の章」に登場する人物。ライトキーパー",
     tags: [ "nodkrai", "character-sub" ],
   },
 

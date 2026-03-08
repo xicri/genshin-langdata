@@ -902,4 +902,37 @@ export default [
     tags: [ "mondstadt", "dragonspine", "character-sub" ],
     notes: "世界任務「古き見識と新たな知恵」、「現世の題」に登場するキャラクター。レインドットの執事",
   },
+  {
+    en: "Rostam",
+    ja: "ルースタン",
+    zhCN: "鲁斯坦",
+    zhTW: "魯斯坦",
+    notes: "「天狼の章」に登場する人物。500年前の北風騎士。ローランドの師匠",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Wolf Pup",
+    ja: "幼い狼",
+    zhCN: "幼狼",
+    zhTW: "幼狼",
+    notes: "ルースタンの称号",
+    tags: [ "mondstadt", "title" ],
+  },
+  {
+    en: "Arundolyn",
+    ja: "エレンドリン",
+    zhCN: "艾伦德林",
+    zhTW: "艾倫德林",
+    notes: "伝説任務「天狼の章」に登場する人物。500年前の「西風騎士団」大団長",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Lion of Light",
+    ja: "光の獅子",
+    zhCN: "光之獅",
+    zhTW: "光之獅",
+    notes: "エレンドリンの称号",
+    tags: [ "mondstadt", "title" ],
+  },
+
 ] as const satisfies SourceWord[];

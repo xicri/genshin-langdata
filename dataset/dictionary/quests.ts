@@ -3152,6 +3152,15 @@ export default [
     tags: [ "mondstadt", "dragonspine", "quest-story" ],
   },
   {
+    en: "Lupus Majoris Chapter",
+    ja: "天狼の章",
+    zhCN: "天狼之章",
+    zhTW: "天狼之章",
+    pronunciationJa: "てんろうのしょう",
+    notes: "ファルカの伝説任務",
+    tags: [ "fontaine", "quest-story" ],
+  },
+  {
     en: "Trulla Chapter",
     ja: "長杓の章",
     zhCN: "长杓之章",

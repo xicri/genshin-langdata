@@ -1168,4 +1168,20 @@ export default [
     pronunciationJa: "くらききりのかぶと",
     tags: [ "nodkrai", "drop" ],
   },
+  {
+    en: "Remnant of the Dreadwing",
+    ja: "悪夢の枯骸",
+    zhCN: "魇翼枯骸",
+    zhTW: "魘翼枯骸",
+    pronunciationJa: "あくむのかれむ",  // TODO Need Check
+    tags: [ "nodkrai", "drop" ],
+  },
+  {
+    en: "Prismatic Severed Tail",
+    ja: "稜光の断尾",
+    zhCN: "棱光的断尾",
+    zhTW: "稜光的斷尾",
+    pronunciationJa: "りょうこうのたんび",  // TODO Need Check
+    tags: [ "nodkrai", "drop" ],
+  },
 ] as const satisfies SourceWord[];

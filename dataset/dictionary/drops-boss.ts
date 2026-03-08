@@ -635,4 +635,28 @@ export default [
     pronunciationJa: "ぐんようじゅんかんしきクーヴィキコア",
     tags: [ "nodkrai", "drop-boss" ],
   },
+  {
+    en: "Elixir of the Heretic",
+    ja: "異端の薬瓶",
+    zhCN: "异端的瓶剂",
+    zhTW: "異端的瓶劑",
+    pronunciationJa: "いたんのやくびん",
+    tags: [ "drop-boss", "nodkrai" ],
+  },
+  {
+    en: "Mask of the Virtuous Doctor",
+    ja: "賢医の仮面",
+    zhCN: "医的假面",
+    zhTW: "賢醫的假面",
+    pronunciationJa: "けんいのかめん",
+    tags: [ "drop-boss", "nodkrai" ],
+  },
+  {
+    en: "Madman's Restraint",
+    ja: "狂人の誓約",
+    zhCN: "狂人的约束",
+    zhTW: "狂人的約束",
+    pronunciationJa: "きょうじんのせいやく",
+    tags: [ "drop-boss", "nodkrai" ],
+  },
 ] as const satisfies SourceWord[];
