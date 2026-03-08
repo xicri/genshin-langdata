@@ -2825,6 +2825,21 @@ export default [
     pronunciationJa: "かいらいのノート",
     tags: [ "item", "nodkrai", "fontaine" ],
   },
+  {
+    en: "A letter Carried by the Wind",
+    ja: "風が運んできた手紙",
+    zhCN: "由风捎来的信",
+    zhTW: "由風捎來的信",
+    pronunciationJa: "かぜがはこんできたてがみ",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Varka's Secret Stash of Cash",
+    ja: "ファルカのへそくり",
+    zhCN: "法尔伽的私房钱",
+    zhTW: "法爾伽的私房錢",
+    tags: [ "item", "mondstadt" ],
+  },
 
   //
   // Wind Glider

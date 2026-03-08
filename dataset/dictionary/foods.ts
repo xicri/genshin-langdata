@@ -846,6 +846,13 @@ export default [
     zhTW: "挪德卡萊熱狗",
     tags: [ "food" ],
   },
+  {
+    en: "Golden-Tempered Jade",
+    ja: "鍛金冷玉",
+    zhCN: "淬金冷玉",
+    zhTW: "淬金冷玉",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -2148,6 +2155,16 @@ export default [
     notesEn: "Durin's specialty",
     notes: "ドゥリンのオリジナル料理",
     notesZh: "杜林的特色料理",
+  },
+  {
+    en: "Hearty Indulgence",
+    ja: "「爽快」",
+    zhCN: "「酣畅」",
+    zhTW: "「酣暢」",
+    tags: [ "food", "mondstadt" ],
+    notesEn: "Varka's specialty",
+    notes: "ファルカのオリジナル料理",
+    notesZh: "法尔伽的特色料理",
   },
 
   // Liyue
