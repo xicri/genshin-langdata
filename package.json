@@ -15,19 +15,19 @@
   },
   "dependencies": {
     "@types/luxon": "^3.7.1",
-    "@types/node": "^24.11.0",
+    "@types/node": "^24.12.0",
     "dotenv": "^17.3.1",
-    "es-toolkit": "^1.45.0",
+    "es-toolkit": "^1.45.1",
     "iconv-lite": "^0.7.2",
     "jiti": "^2.6.1",
     "luxon": "^3.7.2",
-    "marked": "^17.0.3",
+    "marked": "^17.0.4",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.4.0",
     "type-fest": "^5.4.4",
     "typescript": "^5.9.3",
     "vitest": "^4.0.17",
-    "wrangler": "^4.70.0"
+    "wrangler": "^4.72.0"
   },
   "engines": {
     "node": ">=24.x || 22.x",
