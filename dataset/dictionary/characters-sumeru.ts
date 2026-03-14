@@ -304,6 +304,17 @@ export default [
     notesZhTW: "須彌教令院的大賢者。",
   },
   {
+    en: "Cyrus(Sumeru)",
+    ja: "ジュライセン",
+    zhCN: "居勒什",
+    zhTW: "居勒什",
+    tags: [ "sumeru", "character-sub" ],
+    notesEn: "The original title does not have (Sumeru). Added due to constraints of key generation.",
+    notes: "スメール教令院におけるリサとセノの師。英語の原題には (Sumeru) はついていません。システム制約によりキーを重複させないための処置です。",
+    notesZh: "须弥教令院中丽莎和赛诺的老师。原英文标题不包括（Sumeru）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    notesZhTW: "須彌教令院中麗莎和賽諾的老師。原英文標題不包括（Sumeru）。這是為了防止由於系統限制而出現重複密鑰的措施。",
+  },
+  {
     en: "Grand Sage",
     ja: "大賢者",
     zhCN: "大贤者",
