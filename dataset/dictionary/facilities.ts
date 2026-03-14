@@ -5,6 +5,20 @@ export default [
   // Mondstadt
   //
   {
+    en: "Floral Whisper",
+    ja: "花言葉",
+    zhCN: "花语",
+    zhTW: "花語",
+    tags: [ "mondstadt", "facility" ],
+  },
+  {
+    en: "Mondstadt General Goods",
+    ja: "モンドショップ",
+    zhTW: "蒙德百货",
+    zhCN: "蒙德百貨",
+    tags: [ "mondstadt", "facility" ],
+  },
+  {
     en: "Angel's Share",
     ja: "エンジェルズシェア",
     zhCN: "天使的馈赠",
