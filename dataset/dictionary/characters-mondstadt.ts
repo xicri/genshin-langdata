@@ -1040,8 +1040,8 @@ export default [
     ja: "エマート",
     zhCN: "艾玛托",
     zhTW: "艾瑪托",
-    notes: "モンド城にいる人物。西風騎士団",
-    tags: [ "mondstadt", "character-sub" ],
+    notes: "ファニーヤと共にいくつかのイベントに登場する西風騎士",
+    tags: [ "mondstadt", "character-sub", "event" ],
   },
   {
     en: "Phonia",
