@@ -960,7 +960,7 @@ export default [
     ja: "ハリー",
     zhCN: "哈里",
     zhTW: "哈利",
-    notes: "望風海角にいる人物。西風騎士団",
+    notes: "望風海角にいる西風騎士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
