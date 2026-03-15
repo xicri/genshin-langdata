@@ -589,16 +589,6 @@ export default [
     tags: [ "mondstadt", "character-sub" ],
   },
   {
-    en: "Cyrus",
-    ja: "サイリュス / ジュライセン",
-    zhCN: "塞琉斯 / 居勒什",
-    zhTW: "塞琉斯 / 居勒什",
-    tags: [ "mondstadt", "sumeru", "character-sub" ],
-    notes: "サイリュスはモンドの冒険者協会の支部長。ジュライセンはスメール教令院におけるリサとセノの師。英語版ではどちらも Cyrus と表記される。発音も同じで、どちらも「サイラス」。",
-    notesZh: "塞琉斯是蒙德冒险家协会的分会长。居勒什是须弥教令院中丽莎和赛诺的老师。在英文版中两人都被称作「Cyrus」，发音也相同。",
-    notesZhTW: "塞琉斯是蒙德冒險家協會的分會長。居勒什是須彌教令院中麗莎和賽諾的老師。在英文版中兩人都被稱作「Cyrus」，發音也相同。",
-  },
-  {
     en: "Cyrus(Mondstadt)",
     ja: "サイリュス",
     zhCN: "塞琉斯",
