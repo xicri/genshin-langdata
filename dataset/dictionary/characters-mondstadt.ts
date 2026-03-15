@@ -1048,8 +1048,8 @@ export default [
     ja: "ファニーヤ",
     zhCN: "方妮雅",
     zhTW: "方妮雅",
-    notes: "モンド城にいる人物。西風騎士団",
-    tags: [ "mondstadt", "character-sub" ],
+    notes: "エマートと共にいくつかのイベントに登場する、爆弾好きな西風騎士",
+    tags: [ "mondstadt", "character-sub", "event" ],
   },
   {
     en: "Sage(Mondstadt)",
