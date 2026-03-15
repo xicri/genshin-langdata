@@ -1311,7 +1311,7 @@ export default [
     ja: "ポルトス",
     zhCN: "波尔托",
     zhTW: "波爾托",
-    notes: "モンド城にいる人物。西風騎士団",
+    notes: "モンド城にいる西風騎士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
