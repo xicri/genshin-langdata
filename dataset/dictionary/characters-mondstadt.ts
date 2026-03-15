@@ -1319,7 +1319,7 @@ export default [
     ja: "ワイラット",
     zhCN: "威拉格",
     zhTW: "威拉格",
-    notes: "モンド城にいる人物。西風騎士団",
+    notes: "モンド城にいる西風騎士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
