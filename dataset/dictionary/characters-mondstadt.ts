@@ -1175,7 +1175,8 @@ export default [
   },
   {
     en: "Nanaya Yuumi",
-    ja: "七夜由美(ななやゆうみ)",
+    ja: "七夜由美",
+    pronounciationJa: "ななやゆうみ",
     zhCN: "七夜由美",
     zhTW: "七夜由美",
     notes: "キャッツテールにいる七聖召喚プレイヤー",
