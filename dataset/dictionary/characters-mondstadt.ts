@@ -828,7 +828,7 @@ export default [
     zhCN: "古德温",
     zhTW: "古德溫",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "モンド城郊外にいる人物。v6.4(LunaV) 期間限定イベント「のんびり旅行記 観月の章」以降はナドクライの西風の砦にいる。",
+    notes: "モンド城郊外にいる、ファルカの遠征に置いていかれた西風騎士",
   },
   {
     en: "Tsarevich",
