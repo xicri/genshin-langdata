@@ -698,7 +698,7 @@ export default [
     zhCN: "霍夫曼·施密特",
     zhTW: "霍夫曼·施密特",
     tags: [ "mondstadt", "character-sub" ],
-    notes: "モンド城にいる人物。西風騎士団。ミカの兄",
+    notes: "モンド城にいる西風騎士。ミカの兄",
     notesZh: "米卡的哥哥。",
     notesZhTW: "米卡的哥哥。",
     variants: {
