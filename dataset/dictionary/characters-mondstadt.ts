@@ -901,7 +901,7 @@ export default [
     ja: "サンサ",
     zhCN: "莎莎",
     zhTW: "莎莎",
-    notes: "世界任務「自由の風に向かって」に登場する人物。。モンド城にいる",
+    notes: "世界任務「自由の風に向かって」に登場する人物。モンド城にいる",
     notesZh: "世界任务「致自由之风」中的登场角色。",
     notesZhTW: "世界任務「致自由之風」中的登場角色。",
     tags: [ "mondstadt", "character-sub" ],
