@@ -1343,7 +1343,7 @@ export default [
     ja: "グレイス",
     zhCN: "葛瑞丝",
     zhTW: "葛瑞絲",
-    notes: "モンド城にいる人物。西風教会のシスター",
+    notes: "モンド城にいる西風教会のシスター",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
