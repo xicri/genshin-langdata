@@ -1253,7 +1253,7 @@ export default [
     ja: "ミハイル",
     zhCN: "米哈伊尔",
     zhTW: "米哈伊爾",
-    notes: "モンド城にいる人物。ファデュイ",
+    notes: "モンド城にいる、噂話好きのファデュイ",
     tags: [ "mondstadt", "fatui", "character-sub" ],
   },
   {
