@@ -1327,7 +1327,7 @@ export default [
     ja: "ウッド",
     zhCN: "伍德",
     zhTW: "伍德",
-    notes: "モンド城にいる人物。西風騎士団",
+    notes: "モンド城にいる西風騎士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
