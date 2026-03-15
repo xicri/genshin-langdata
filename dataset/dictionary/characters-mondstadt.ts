@@ -1154,7 +1154,7 @@ export default [
     ja: "「リトルプリンス」",
     zhCN: "「小王子」",
     zhTW: "「小王子」",
-    notes: "モンド城にいるキャラクター。「キャッツテール」の看板猫",
+    notes: "キャッツテールにいる「看板猫」",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
