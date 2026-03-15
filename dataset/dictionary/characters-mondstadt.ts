@@ -1367,7 +1367,7 @@ export default [
     ja: "サイード",
     zhCN: "萨义德",
     zhTW: "薩伊德",
-    notes: "モンド城にいる人物",
+    notes: "モンド城にいるスメール教令院の学者",
     tags: [ "mondstadt", "sumeru", "character-sub" ],
   },
   {
