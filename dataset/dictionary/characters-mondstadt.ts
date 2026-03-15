@@ -1650,7 +1650,7 @@ export default [
     zhCN: "玉霞",
     zhTW: "玉霞",
     notesEn: "The original title does not have (Mondstadt). Added due to constraints of key generation.",
-    notes: "蒼風の高地にいる人物。サイリュスの姉。英語の原題には (Mondstadt) はついていません。システム制約によりキーを重複させないための処置です。",
+    notes: "蒼風の高地にある、ドラゴンスパイン麓のキャンプにいる冒険者。サイリュスの姉。英語の原題には (Mondstadt) はついていません。システム制約によりキーを重複させないための処置です。",
     notesZh: "原英文标题不包括（Mondstadt）。这是为了防止由于系统限制而出现重复密钥的措施。",
     tags: [ "mondstadt", "character-sub" ],
   },
