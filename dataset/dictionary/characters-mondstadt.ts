@@ -1162,7 +1162,7 @@ export default [
     ja: "ジョイン",
     zhCN: "恕筠",
     zhTW: "恕筠",
-    notes: "モンド城にいる人物。「キャッツテール」の店員",
+    notes: "キャッツテールの店員",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
