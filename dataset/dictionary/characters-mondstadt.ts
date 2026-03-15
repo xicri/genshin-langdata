@@ -1261,7 +1261,7 @@ export default [
     ja: "リュドミラ",
     zhCN: "柳德米拉",
     zhTW: "柳德米拉",
-    notes: "モンド城にいる人物。ファデュイ",
+    notes: "モンド城にいる、噂話好きのファデュイ",
     tags: [ "mondstadt", "fatui", "character-sub" ],
   },
   {
