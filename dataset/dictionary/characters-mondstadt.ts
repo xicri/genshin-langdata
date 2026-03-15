@@ -1130,7 +1130,7 @@ export default [
     ja: "ゲイル",
     zhCN: "盖伊",
     zhTW: "蓋伊",
-    notes: "モンド城にいる人物。西風騎士団",
+    notes: "モンド城にいる西風騎士",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
