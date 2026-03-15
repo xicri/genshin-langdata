@@ -1178,7 +1178,7 @@ export default [
     ja: "七夜由美(ななやゆうみ)",
     zhCN: "七夜由美",
     zhTW: "七夜由美",
-    notes: "モンド城にいる人物",
+    notes: "キャッツテールにいる七聖召喚プレイヤー",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
