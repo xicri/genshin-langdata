@@ -976,7 +976,7 @@ export default [
     ja: "ローガー",
     zhCN: "洛伽",
     zhTW: "洛伽",
-    notes: "星落としの湖にいる人物。冒険者",
+    notes: "星落としの湖にいる冒険者",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
