@@ -1106,7 +1106,7 @@ export default [
     ja: "ムトヴァ",
     zhCN: "穆托瓦",
     zhTW: "穆托瓦",
-    notes: "モンド城下シードル湖沿いにいる人物。ナタ「龍の遺物研究会」メンバー",
+    notes: "ナタ魔神任務の後、モンド城外シードル湖沿いに現れる人物。ナタ「龍の遺物研究会」メンバー",
     tags: [ "mondstadt", "natlan", "character-sub" ],
   },
   {
