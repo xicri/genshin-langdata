@@ -21,7 +21,7 @@
     "iconv-lite": "^0.7.2",
     "jiti": "^2.6.1",
     "luxon": "^3.7.2",
-    "marked": "^17.0.5",
+    "marked": "^18.0.0",
     "node-fetch": "^3.2.4",
     "pinyin-tone": "^2.4.0",
     "type-fest": "^5.5.0",
