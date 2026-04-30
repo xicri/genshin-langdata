@@ -316,7 +316,7 @@ export default [
     ja: "トレス",
     zhCN: "特雷斯",
     zhTW: "特雷斯",
-    notes: "v6.5(LunaVI) 期間限定イベント「測量＆スケッチ研修」に登場する西風騎士団",
+    notes: "v6.5 (Luna Ⅵ) 期間限定イベント「測量＆スケッチ研修」に登場する西風騎士",
     tags: [ "mondstadt", "character-sub", "event" ],
   },
   {
