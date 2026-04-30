@@ -242,6 +242,13 @@ export default [
     tags: [ "item", "dragonspine" ],
   },
   {
+    en: "Memory Factors",
+    ja: "メモリーファクター",
+    zhCN: "摹忆因子",
+    zhTW: "摹忆因子",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
     en: "Spirit Carp",
     ja: "蒼霊の鯉",
     zhCN: "苍灵鲤",
@@ -373,7 +380,15 @@ export default [
     zhCN: "风之寻宝罗盘",
     zhTW: "風之尋寶羅盤",
     pronunciationJa: "かぜのトレジャーコンパス",
-    tags: [ "item", "liyue" ],
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Segment-domain Treasure Compass",
+    ja: "断片領域のトレジャーコンパス",
+    zhCN: "切片轄域寻宝罗盘",
+    zhTW: "切片轄域尋寶羅盤",
+    pronunciationJa: "だんぺんりいきのトレジャーコンパス",
+    tags: [ "item", "mondstadt" ],
   },
   {
     en: "Geo Treasure Compass",

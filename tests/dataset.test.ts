@@ -738,7 +738,17 @@ test("if the each translations do not include characters from the other language
       ja: "麗",
       "zh-CN": "丽",
       "zh-TW": "麗",
-    }
+    },
+    {
+      ja: "蘇",
+      "zh-CN": "苏",
+      "zh-TW": "蘇",
+    },
+    {
+      ja: "内",
+      "zh-CN": "内",
+      "zh-TW": "內",
+    },
   ];
 
   for (const word of words) {

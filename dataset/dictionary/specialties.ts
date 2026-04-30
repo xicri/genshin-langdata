@@ -71,6 +71,13 @@ export default [
     zhTW: "鉤鉤果",
     tags: [ "specialty", "mondstadt" ],
   },
+  {
+    en: "Etherwing Moth",
+    ja: "フェザーモス",
+    zhCN: "空羽蛾",
+    zhTW: "空羽蛾",
+    tags: [ "specialty", "mondstadt" ],
+  },
   // Liyue
   {
     en: "Glaze Lily",

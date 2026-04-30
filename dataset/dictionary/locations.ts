@@ -278,7 +278,13 @@ export default [
     pronunciationJa: "せっそうのみやこ・きんこう", // Source: https://twitter.com/Genshin_7/status/1337370367535411202
     tags: [ "dragonspine", "location" ],
   },
-
+  {
+    en: "Millhaven",
+    ja: "ミルハーヴェン",
+    zhCN: "风车镇",
+    zhTW: "風車鎮",
+    tags: [ "mondstadt", "location" ],
+  },
   {
     en: "Dornman Port",
     ja: "ドーンマンポート / 荊夫港",
@@ -288,6 +294,23 @@ export default [
     notes: "日本語版ではドーンマンポート (モンド城外のジョーンズが言及) と荊夫港 (千風の神殿南のヘンリーモートンが言及) と表記揺れがある。",
   },
   {
+    en: "Old Sanatorium Site",
+    ja: "療養所跡地",
+    zhCN: "疗养院旧址",
+    zhTW: "療養院舊址",
+    pronunciationJa: "りょうようじょあとち",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Windrest Peak",
+    ja: "風止みの山",
+    zhCN: "风息山",
+    zhTW: "風息山",
+    pronunciationJa: "かぜやみのやま",
+    tags: [ "mondstadt", "location" ],
+  },
+
+  {
     en: "Geyser Realm",
     ja: "泉の境",
     zhCN: "泉之境",
@@ -296,13 +319,87 @@ export default [
     tags: [ "location" ],
     notes: "モンドの冒険者スタンレーがかつて訪れたという地域",
   },
-
   {
     en: "Musk Reef",
     ja: "マスク礁",
     zhCN: "马斯克礁",
     zhTW: "馬斯克礁",
     pronunciationJa: "マスクしょう",
+    tags: [ "mondstadt", "location" ],
+  },
+  //
+  // Temple of Space
+  //
+  {
+    en: "Segument-Domain Tau",
+    ja: "断片領域タウ",
+    zhCN: "切片轄域·陶",
+    zhTW: "切片轄域·陶",
+    pronunciationJa: "だんぺんりょういきタウ",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Temple of Space",
+    ja: "空の神殿",
+    zhCN: "空之神殿",
+    zhTW: "空之神殿",
+    pronunciationJa: "くうのしんでん",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Path of the Forgotten World",
+    ja: "忘れられた世界への道",
+    zhCN: "遗世之路",
+    zhTW: "遺世之路",
+    pronunciationJa: "わすれられたせかいへのみち",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Pillar Haill Central Zone",
+    ja: "千柱中央エリア",
+    zhCN: "柱殿中央区",
+    zhTW: "柱殿中央區",
+    pronunciationJa: "せんちゅうちゅうおうえりあ",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Mahavaipulya Chamber",
+    ja: "大方広",
+    zhCN: "大方广",
+    zhTW: "大方廣",
+    pronunciationJa: "たいほうこう",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Desert Pavilion",
+    ja: "砂上の楼閣",
+    zhCN: "沙上楼阁",
+    zhTW: "砂上樓閣",
+    pronunciationJa: "さじょうのろうかく",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Luyang Academy",
+    ja: "麓陽書院",
+    zhCN: "麓阳书院",
+    zhTW: "麓陽書院",
+    pronunciationJa: "ろようしょいん",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Apathic Interval",
+    ja: "無想の間",
+    zhCN: "无想之间",
+    zhTW: "無想之間",
+    pronunciationJa: "むそうのま",
+    tags: [ "mondstadt", "location" ],
+  },
+  {
+    en: "Cage of Suchness",
+    ja: "非有非無の檻",
+    zhCN: "非有非无之笼",
+    zhTW: "非有非無之籠",
+    pronunciationJa: "ひうひむのおり",
     tags: [ "mondstadt", "location" ],
   },
 
@@ -3575,6 +3672,15 @@ export default [
     pronunciationJa: "とくべつかんかつくけんけんきゅうじょ",
     tags: [ "nodkrai", "location" ],
   },
+  {
+    en: "Curatorium of Secrets",
+    ja: "秘聞の館",
+    zhCN: "秘闻馆",
+    zhTW: "秘聞館",
+    pronunciationJa: "ひぶんのやかた",
+    tags: [ "nodkrai", "location", "organization" ],
+  },
+
   //
   // Snezhnaya
   //

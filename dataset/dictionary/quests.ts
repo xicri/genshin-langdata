@@ -778,6 +778,113 @@ export default [
     notesZh: "课业: 砂糖「仙境花之题」",
     tags: [ "mondstadt", "dragonspine", "quest-world" ],
   },
+  // Millhaven
+  {
+    en: "Forest Boar Pauses for the Bloom",
+    ja: "大和花畑にイノシシあり",
+    zhCN: "山有林猪粗嗅花",
+    zhTW: "山有林豬粗嗅花",
+    pronunciationJa: "やまとはなばたけにイノシシあり",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  // Dornman Port
+  {
+    en: "Winds Beneath the Tower of Silence",
+    ja: "塔の足元に吹く風",
+    zhCN: "寂静之塔下的风向",
+    zhTW: "寂靜之塔下的風向",
+    pronunciationJa: "とうのあしもとにふくかぜ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Magic Mountain Temple of Space",
+    ja: "魔の山",
+    zhCN: "魔山",
+    zhTW: "魔山",
+    pronunciationJa: "まのやま",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "The Wind Has Ceased",
+    ja: "風が止む",
+    zhCN: "风停了",
+    zhTW: "風停了",
+    pronunciationJa: "かぜがやむ",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  // Temple of Space
+  {
+    en: "Paradise",
+    ja: "天国",
+    zhCN: "天堂",
+    zhTW: "天堂",
+    pronunciationJa: "てんごく",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "A Day the Grand Temple Inscribed with Ages",
+    ja: "一日千秋の神殿",
+    zhCN: "圣殿的一日春秋",
+    zhTW: "聖殿的一日春秋",
+    pronunciationJa: "いちにちせんしゅうのしんでん",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Long Live Life",
+    ja: "美しき命",
+    zhCN: "生命万岁",
+    zhTW: "生命萬歳",
+    pronunciationJa: "うつくしきいのち",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Unofficial Chronicle of the Desert Pavilion",
+    ja: "「砂上の楼閣」雑記",
+    zhCN: "「沙上楼阁」稗记",
+    zhTW: "「沙上樓閣」稗記",
+    pronunciationJa: "さじょうのろうかくのざっき",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Counterfeit Classics",
+    ja: "贋作の古典",
+    zhCN: "赝作古典",
+    zhTW: "贗作古典",
+    pronunciationJa: "がんさくのこてん",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Hell",
+    ja: "地獄",
+    zhCN: "地狱",
+    zhTW: "地獄",
+    pronunciationJa: "じごく",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Lion's Celerity",
+    ja: "獅子奮迅",
+    zhCN: "狮子奋迅",
+    zhTW: "獅子奮迅",
+    pronunciationJa: "ししふんじん",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "Judgment",
+    ja: "審判",
+    zhCN: "审判",
+    zhTW: "審判",
+    pronunciationJa: "しんぱん",
+    tags: [ "mondstadt", "quest-world" ],
+  },
+  {
+    en: "The Final Judgment",
+    ja: "最後の審判",
+    zhCN: "最后的审判",
+    zhTW: "最後的審判",
+    pronunciationJa: "さいごのしんぱん",
+    tags: [ "mondstadt", "quest-world" ],
+  },
 
   // Liyue
   {
@@ -3493,7 +3600,15 @@ export default [
     notes: "スカークの伝説任務",
     tags: [ "quest-story" ],
   },
-
+  {
+    en: "Alcyon Chapter",
+    ja: "予見鳥の章",
+    zhCN: "启喻鸟之章",
+    zhTW: "啟喻鳥之章",
+    pronunciationJa: "アルコノストのしょう",  // TODO: Need check
+    notes: "リンネアの伝説任務",
+    tags: [ "quest-story" ],
+  },
   //
   // Tribal Chronicles
   //

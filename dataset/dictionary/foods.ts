@@ -833,6 +833,15 @@ export default [
     tags: [ "food" ],
   },
   {
+    en: "Sugar Sculpture: Linnea",
+    ja: "飴細工・リンネア",
+    zhCN: "糖雕·莉奈娅",
+    zhTW: "糖雕·莉奈婭",
+    pronunciationJa: "あめざいく・リンネア",
+    notes: "チームにリンネアが加入した状態でナシャタウンにいるウナーヤタに話しかけると貰える飴細工。期限は24時間",
+    tags: [ "food" ],
+  },
+  {
     en: "Lohikeitto",
     ja: "ロヒケイット",
     zhCN: "奶油鲑鱼汤",
@@ -1604,6 +1613,13 @@ export default [
     ja: "カリカリ春巻き",
     zhCN: "香炸春卷",
     zhTW: "香炸春捲",
+    tags: [ "food" ],
+  },
+  {
+    en: "Harbor Fish Burger",
+    ja: "ポートフィッシュバーガー",
+    zhCN: "海港鱼鱼堡",
+    zhTW: "海港魚魚堡",
     tags: [ "food" ],
   },
 
@@ -3017,6 +3033,17 @@ export default [
     notes: "イルーガのオリジナル料理",
     notesZh: "叶洛亚的特色料理",
   },
+  {
+    en: "Iridescence Under the Tree's Shade",
+    ja: "虹色の木漏れ日",
+    zhCN: "树荫下的虹彩",
+    zhTW: "樹蔭下的虹彩",
+    pronunciationJa: "にじいろのこもれび",
+    tags: [ "food", "nodkrai", "snezhnaya" ],
+    notesEn: "Linnea's specialty",
+    notes: "リンネアのオリジナル料理",
+    notesZh: "莉奈娅的特色料理",
+  },
 
   // etcetera
   {
@@ -3184,6 +3211,13 @@ export default [
     tags: [ "food" ],
   },
 
+  {
+    en: "Windrest Flower",
+    ja: "風止みの花",
+    zhCN: "风息花",
+    zhTW: "風息花",
+    tags: [ "food", "mondstadt" ],
+  },
   {
     en: "Starshroom",
     ja: "星茸",

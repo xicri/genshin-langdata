@@ -1693,6 +1693,13 @@ export default [
     pronunciationJa: "あかつきをつげるれきし",
     tags: [ "weapon", "bow" ],
   },
+  {
+    en: "Golden Frostbound Oath",
+    ja: "霜契の金枝",
+    zhCN: "霜结的誓金枝",
+    zhTW: "霜結的誓金枝",
+    tags: [ "weapon", "bow" ],
+  },
 
   //
   // Catalysts

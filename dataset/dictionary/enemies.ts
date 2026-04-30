@@ -1055,6 +1055,29 @@ export default [
     pronunciationJa: "きょうふうのコア",
     tags: [ "enemy" ],
   },
+  {
+    en: "Domain Keeper",
+    ja: "領域の番人",
+    zhCN: "领域守护者",
+    zhTW: "領域守護者",
+    pronunciationJa: "りょういきのばんにん",
+    tags: [ "enemy", "mondstadt" ],
+  },
+  {
+    en: "Churldric",
+    ja: "チャルデリック",
+    zhCN: "丘尔德里克",
+    zhTW: "丘爾德里克",
+    tags: [ "enemy-legend", "mondstadt" ],
+  },
+  {
+    en: "Maha Vasudevayaputra",
+    ja: "マハーヴァスデーヴァヤプトラ太子",
+    zhCN: "摩诃婆苏提婆耶弗太子",
+    zhTW: "摩訶婆蘇提婆耶弗太子",
+    pronunciationJa: "マハーヴァスデーヴァヤプトラたいし",
+    tags: [ "enemy-legend", "mondstadt" ],
+  },
 
   // Fake flowers
   {
@@ -1197,6 +1220,14 @@ export default [
     zhTW: "門扉前的弈局",
     pronunciationJa: "とびらにつうずるたいきょく",
     notes: "昇揚のキングと昇華のクイーンによる巨大なチェス盤の対局",
+    tags: [ "enemy-boss", "mondstadt" ],
+  },
+  {
+    en: "Watcher: Fallen Vigil",
+    ja: "守護者・堕天",
+    zhCN: "守望者·堕天",
+    zhTW: "守望者·堕天",
+    pronunciationJa: "しゅごしゃ・だてん",
     tags: [ "enemy-boss", "mondstadt" ],
   },
   {

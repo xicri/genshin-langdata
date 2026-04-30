@@ -76,6 +76,15 @@ export default [
     notes: "急凍樹のドロップアイテム",
   },
   {
+    en: "Plume of the Fall Watcher",
+    ja: "堕天の羽",
+    zhCN: "堕天的落羽",
+    zhTW: "墮天的落羽",
+    pronunciationJa: "だてんのはね",
+    tags: [ "drop-boss", "mondstadt" ],
+    notes: "守護者・堕天のドロップアイテム",
+  },
+  {
     en: "Everflame Seed",
     ja: "常燃の火種",
     zhCN: "常燃火种",

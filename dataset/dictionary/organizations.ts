@@ -186,6 +186,14 @@ export default [
     notes: "Alcor は北斗七星の近くにある星で、日本ではカタカナでアルコルと記されるが、異称として死兆星とも呼ばれる。",
   },
   {
+    en: "Alcor-class No.2",
+    ja: "「死兆星号」級二番艦",
+    zhCN: "死兆星级二号舰",
+    zhTW: "死兆星級二號艦",
+    pronunciationJa: "しちょうせいごうきゅうにばんかん",
+    tags: [ "liyue", "organization", "facility" ],
+  },
+  {
     en: "Yun-Han Opera Troupe",
     ja: "雲翰社",
     zhCN: "云翰社",
@@ -597,6 +605,15 @@ export default [
     notes: "召使の運営する孤児院",
     notesEn: "An orphanage run by The Knave",
   },
+  {
+    en: "Fruity Order",
+    ja: "秩序のフルーツ団",
+    zhCN: "秩序水果团",
+    zhTW: "秩序水果團",
+    pronunciationJa: "ちつじょのフルーツだん",
+    notes: "宝盗団の一つ",
+    tags: [ "fontaine", "organization" ],
+  },
 
   //
   // Natlan
@@ -668,6 +685,14 @@ export default [
     zhTW: "德爾斐·皮托呢",
     notes: "テイワット大陸にかつて存在していた地名",
     tags: [ "location" ],
+  },
+  {
+    en: "The Golden Beagle",
+    ja: "ゴールデンビーグル号",
+    zhCN: "黄金猪犬号",
+    zhTW: "黃金豬犬號",
+    notes: "伝説任務「予見鳥の章」で夢の中に出てきた船",
+    tags: [ "organization", "facility" ],
   },
 
   //

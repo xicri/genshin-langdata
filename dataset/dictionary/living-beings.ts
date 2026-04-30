@@ -192,6 +192,18 @@ export default [
   },
 
   //
+  // Mondstadt
+  //
+  {
+    en: "Snow Fox",
+    ja: "雪狐",
+    zhCN: "雪狐",
+    zhTW: "雪狐",
+    pronunciationJa: "ゆききつね",
+    tags: [ "living-being", "mondstadt" ],
+  },
+
+  //
   // Liyue
   //
   {
@@ -993,5 +1005,80 @@ export default [
     zhTW: "灰頸鸛",
     pronunciationJa: "かいしゅフラミンゴ",
     tags: [ "nodkrai", "living-being" ],
+  },
+
+  //
+  // Snezhnaya
+  //
+  {
+    en: "Vila",
+    ja: "風の精",
+    zhCN: "风仙",
+    zhTW: "風仙",
+    pronunciationJa: "ヴィア",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Domovoy",
+    ja: "小さき者",
+    zhCN: "矮灵",
+    zhTW: "矮靈",
+    pronunciationJa: "ドモボーイ",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Leshy",
+    ja: "木の精",
+    zhCN: "树妖",
+    zhTW: "樹妖",
+    pronunciationJa: "レイシー",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Volkodlak",
+    ja: "異怪の獣",
+    zhCN: "兽怪",
+    zhTW: "獸怪",
+    pronunciationJa: "ヴァルクドラグ",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Snegovik",
+    ja: "雪の精",
+    zhCN: "雪精",
+    zhTW: "雪精",
+    pronunciationJa: "スネガビーク",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Jack Frost",
+    ja: "霜の精",
+    zhCN: "霜精",
+    zhTW: "霜精",
+    pronunciationJa: "ジャックフロスト",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Lantern Fae",
+    ja: "ランプのフェイ",
+    zhCN: "灯之妖精",
+    zhTW: "燈之妖精",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Sirens",
+    ja: "海の精",
+    zhCN: "海妖",
+    zhTW: "海妖",
+    pronunciationJa: "セイレーン",
+    tags: [ "living-being", "snezhnaya" ],
+  },
+  {
+    en: "Augury Birds",
+    ja: "予見の鳥",
+    zhCN: "谶鸟",
+    zhTW: "讖鳥",
+    pronunciationJa: "アルコノスト",
+    tags: [ "living-being", "snezhnaya" ],
   },
 ] as const satisfies SourceWord[];
