@@ -352,7 +352,7 @@ export default [
     tags: [ "sumeru", "character-sub", "event" ],
   },
   {
-    en: "Lakkaberry (man)",
+    en: "Lakkaberry (character)",
     ja: "ホワイトベリー(人物)",
     zhCN: "白灵果(角色)",
     zhTW: "白靈果(角色)",
