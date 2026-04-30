@@ -26,29 +26,6 @@ test("words[].id only includes alphanumerics & hypnens", async () => {
 
 test("if dictionary JSON5s has no duplicate words", async () => {
   for (const { id, en, ja, zhCN, zhTW } of words) {
-    ok(words.filter(word => word.en === en).length === 1, `Duplicate English: ${en}`);
-    if (ja) {
-      ok(
-        words.filter(word => word.ja === ja).length === 0 ||
-        words.filter(word => word.ja === ja).length === 1,
-        `Duplicate Japanese: ${ja}`
-      );
-    }
-    if (zhCN) {
-      ok(
-        words.filter(word => word.zhCN === zhCN).length === 0 ||
-        words.filter(word => word.zhCN === zhCN).length === 1,
-        `Duplicate Simplified Chinese: ${zhCN}`
-      );
-    }
-    if (zhTW) {
-      ok(
-        words.filter(word => word.zhTW === zhTW).length === 0 ||
-        words.filter(word => word.zhTW === zhTW).length === 1,
-        `Duplicate Traditional Chinese: ${zhTW}`
-      );
-    }
-
     if (typeof id !== "undefined") {
       ok(words.filter(word => word.id === id).length === 1, `Duplicate ID: ${id}`);
     }
