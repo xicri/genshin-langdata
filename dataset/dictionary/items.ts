@@ -387,7 +387,7 @@ export default [
     ja: "断片領域のトレジャーコンパス",
     zhCN: "切片轄域寻宝罗盘",
     zhTW: "切片轄域尋寶羅盤",
-    pronunciationJa: "だんぺんりいきのトレジャーコンパス",
+    pronunciationJa: "だんぺんりょういきのトレジャーコンパス",
     tags: [ "item", "mondstadt" ],
   },
   {
