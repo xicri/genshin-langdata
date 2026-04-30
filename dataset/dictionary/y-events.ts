@@ -308,7 +308,7 @@ export default [
     ja: "エルウィン",
     zhCN: "埃洛雯",
     zhTW: "埃洛雯",
-    notes: "v6.5(LunaVI) 期間限定イベント「測量＆スケッチ研修」に登場する西風騎士団",
+    notes: "v6.5(LunaVI) 期間限定イベント「測量＆スケッチ研修」に登場する西風騎士",
     tags: [ "mondstadt", "character-sub", "event" ],
   },
   {
