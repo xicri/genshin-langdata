@@ -191,7 +191,9 @@ export default [
     zhCN: "死兆星级二号舰",
     zhTW: "死兆星級二號艦",
     pronunciationJa: "しちょうせいごうきゅうにばんかん",
-    tags: [ "liyue", "organization", "facility" ],
+    tags: [ "liyue", "organization", "facility", "event" ],
+    notesEn: "One of a ship from Beidou's fleet appearing during the v6.5 (Luna Ⅵ) limited-time event \"Where Waves Meet the Reef\"",
+    notes: "v6.5 (Luna Ⅵ) 期間限定イベント「波と岩礁の邂逅」に登場する、北斗の艦隊のうちの1隻",
   },
   {
     en: "Yun-Han Opera Troupe",
