@@ -347,7 +347,7 @@ export default [
     ja: "九十九物",
     zhCN: "九十九物",
     zhTW: "九十九物",
-    pronunciationJa: "つくももの",
+    pronunciationJa: "つくもぶつ",
     tags: [ "inazuma", "facility" ],
     notes: "稲妻城にある店",
   },
