@@ -1029,6 +1029,13 @@ export default [
     pronunciationJa: "いのちのけいやく",
     tags: [ "fontaine" ],
   },
+  {
+    en: "Film Kamera",
+    ja: "映影機",
+    zhCN: "电影机",
+    zhTW: "電影機",
+    pronunciationJa: "えいえいき",
+  },
 
   //
   // Natlan
