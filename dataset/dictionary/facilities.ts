@@ -350,6 +350,7 @@ export default [
     pronunciationJa: "つくもぶつ",
     tags: [ "inazuma", "facility" ],
     notes: "稲妻城にある店",
+    notesEn: "A shop in the Inazuma City. It is pronounced Tsukumobutsu in Japanese version, and English version might be mistranslated.",
   },
   {
     en: "Yayoi Lacquerware",
