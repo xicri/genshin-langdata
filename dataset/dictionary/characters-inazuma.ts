@@ -1940,7 +1940,7 @@ export default [
     zhCN: "苏珊",
     zhTW: "蘇珊",
     notesEn: "Sightseer",
-    notes: "ランダムクエストで登場する観光客",
+    notes: "ランダムクエスト「カシャッ!」で登場する観光客",
     notesZh: "观光客。",
     notesZhTW: "觀光客。",
     tags: [ "inazuma", "sumeru", "mondstadt", "character-sub" ],
