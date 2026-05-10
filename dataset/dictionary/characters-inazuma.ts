@@ -1063,7 +1063,7 @@ export default [
     zhCN: "竺子",
     zhTW: "竺子",
     pronunciationJa: "あつこ",
-    notes: "稲妻城にいる人物",
+    notes: "璃月港または稲妻城にいる人物",
     tags: [ "inazuma", "character-sub", "liyue" ],
   },
   {
