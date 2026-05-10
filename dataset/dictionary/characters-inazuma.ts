@@ -949,7 +949,7 @@ export default [
     ja: "春",
     zhCN: "小春",
     zhTW: "小春",
-    pronunciationJa: "こはる",
+    pronunciationJa: "はる",
     notes: "神里屋敷にいる人物",
     tags: [ "inazuma", "character-sub" ],
   },
