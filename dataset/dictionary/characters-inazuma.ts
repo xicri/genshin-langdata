@@ -797,7 +797,6 @@ export default [
     ja: "縁谷紫",
     zhCN: "缘谷紫",
     zhTW: "緣谷紫",
-    pronunciationJa: "えんやしゆかり",
     notes: "鳴神大社にいる巫女",
     tags: [ "inazuma", "character-sub" ],
   },
