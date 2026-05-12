@@ -442,6 +442,13 @@ export default [
     zhTW: "塔利雅",
     tags: [ "mondstadt", "character-main" ],
   },
+  {
+    en: "Prune",
+    ja: "プルーネ",
+    zhCN: "布伦妮",
+    zhTW: "布倫妮",
+    tags: [ "mondstadt", "nodkrai", "character-main" ],
+  },
 
   //
   // Mondstadt - Sub-Characters
@@ -1950,6 +1957,30 @@ export default [
     tags: [ "mondstadt", "character-sub" ],
   },
   {
+    en: "Levi",
+    ja: "レヴィー",
+    zhCN: "莱维",
+    zhTW: "萊維",
+    notes: "ドーンマンポートにいる人物",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Philomena",
+    ja: "フィロメナ",
+    zhCN: "菲洛梅娜",
+    zhTW: "菲洛梅娜",
+    notes: "ドーンマンポートにいるシスター",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Hannelore",
+    ja: "ハンネローレ",
+    zhCN: "汉娜洛蕾",
+    zhTW: "漢娜洛蕾",
+    notes: "ドーンマンポートにいるシスター",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
     en: "Odolf",
     ja: "オルドフ",
     zhCN: "奥多夫",
@@ -2217,6 +2248,14 @@ export default [
     zhCN: "橘猫子姐",
     zhTW: "橘貓子姐",
     pronunciationJa: "ちゃトラねこさん",
+    notes: "空の神殿にいるキャラクター",
+    tags: [ "mondstadt", "character-sub" ],
+  },
+  {
+    en: "Miss Lady Poodle",
+    ja: "「レディドッグさん」",
+    zhCN: "「淑女犬小姐」",
+    zhTW: "「淑女犬小姐」",
     notes: "空の神殿にいるキャラクター",
     tags: [ "mondstadt", "character-sub" ],
   },
