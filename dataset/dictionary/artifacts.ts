@@ -668,4 +668,20 @@ export default [
     pronunciationJa: "てんきゅうのけんげんせしよる",
     tags: [ "artifact" ],
   },
+  {
+    en: "A Day Carved From Rising Winds",
+    ja: "旅立ちの日",
+    zhCN: "风起之日",
+    zhTW: "風起之日",
+    pronunciationJa: "たびだちのひ",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Aubade of Morningstar and Moon",
+    ja: "暁の星と月の歌",
+    zhCN: "晨星与月的晓歌",
+    zhTW: "晨星與月的曉歌",
+    pronunciationJa: "あかつきのほしとつきのうた",
+    tags: [ "artifact" ],
+  },
 ] as const satisfies SourceWord[];

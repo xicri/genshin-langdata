@@ -696,6 +696,15 @@ export default [
     notes: "伝説任務「予見鳥の章」で夢の中に出てきた船",
     tags: [ "organization", "facility" ],
   },
+  {
+    en: "Atlas",
+    ja: "アトラス号",
+    zhCN: "阿特拉号",
+    zhTW: "阿特拉號",
+    pronunciationJa: "アトラスごう",
+    notes: "世界任務「海賊船の幽霊騒ぎ」などに出てくる難破船",
+    tags: [ "organization", "nodkrai", "facility" ],
+  },
 
   //
   // Khaenri'ah
