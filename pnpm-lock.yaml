@@ -31,7 +31,7 @@ importers:
         version: 3.7.2
       marked:
         specifier: ^18.0.3
-        version: 18.0.3
+        version: 18.0.4
       node-fetch:
         specifier: ^3.2.4
         version: 3.3.2
@@ -741,8 +741,8 @@ packages:
   magic-string@0.30.21:
     resolution: {integrity: sha512-vd2F4YUyEXKGcLHoq+TEyCjxueSeHnFxyyjNp80yg0XV4vUhnDer/lvvlqM/arB5bXQN5K2/3oinyCRyx8T2CQ==}
 
-  marked@18.0.3:
-    resolution: {integrity: sha512-7VT90JOkDeaRWpfjOReRGPEKn0ecdARBkDGL+tT1wZY0efPPqkUxLUSmzy/C7TIylQYJC9STISEsCHrqb/7VIA==}
+  marked@18.0.4:
+    resolution: {integrity: sha512-c/BTaKzg0G6ezQx97DAkYU7k0HM6ys0FqYeKBL6hlBByZwy+ycA1+f0vDdjMHKKeEjdgkx0GOv9Il6D+85cOqA==}
     engines: {node: '>= 20'}
     hasBin: true
 
@@ -784,8 +784,8 @@ packages:
   pinyin-tone@2.4.0:
     resolution: {integrity: sha512-ATSA0WW81iOxTTePpY3FN2hXwh8OcDuO/xP5YwdkZLBGvZnkvhF1Nhbl03fS8CRtyvwvt1cBmzRnmHRR3p/7aw==}
 
-  postcss@8.5.14:
-    resolution: {integrity: sha512-SoSL4+OSEtR99LHFZQiJLkT59C5B1amGO1NzTwj7TT1qCUgUO6hxOvzkOYxD+vMrXBM3XJIKzokoERdqQq/Zmg==}
+  postcss@8.5.15:
+    resolution: {integrity: sha512-FfR8sjd4em2T6fb3I2MwAJU7HWVMr9zba+enmQeeWFfCbm+UOC/0X4DS8XtpUTMwWMGbjKYP7xjfNekzyGmB3A==}
     engines: {node: ^10 || ^12 || >=14}
 
   rolldown@1.0.0:
@@ -1492,7 +1492,7 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  marked@18.0.3: {}
+  marked@18.0.4: {}
 
   miniflare@4.20260515.0:
     dependencies:
@@ -1528,7 +1528,7 @@ snapshots:
 
   pinyin-tone@2.4.0: {}
 
-  postcss@8.5.14:
+  postcss@8.5.15:
     dependencies:
       nanoid: 3.3.12
       picocolors: 1.1.1
@@ -1634,7 +1634,7 @@ snapshots:
     dependencies:
       lightningcss: 1.32.0
       picomatch: 4.0.4
-      postcss: 8.5.14
+      postcss: 8.5.15
       rolldown: 1.0.0
       tinyglobby: 0.2.16
     optionalDependencies:
