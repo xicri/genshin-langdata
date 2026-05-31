@@ -622,14 +622,6 @@ export default [
     tags: [ "title", "sumeru" ],
   },
   {
-    en: "Hermanubis",
-    ja: "ヘルマヌビス",
-    zhCN: "赫曼努比斯",
-    zhTW: "赫曼努比斯",
-    tags: [ "sumeru" ],
-    notes: "英語の発音はハーマニュビス",
-  },
-  {
     en: "Dev",
     ja: "ディフ",
     zhCN: "迪弗",

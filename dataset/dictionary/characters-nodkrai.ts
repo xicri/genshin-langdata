@@ -1550,6 +1550,22 @@ export default [
     notes: "世界任務「様子のおかしい隠者」に登場する人物。レンポ島にいる隠者",
     tags: [ "nodkrai", "character-sub" ],
   },
+  {
+    en: "Kaleva",
+    ja: "カレヴァ",
+    zhCN: "卡列瓦",
+    zhTW: "卡列瓦",
+    notes: "世界任務「かつて過去を捨てた者」に登場するレンポ島にいる人物",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Ihanti",
+    ja: "イハンティ",
+    zhCN: "伊赫安提",
+    zhTW: "伊赫安提",
+    notes: "世界任務「かつて過去を捨てた者」に登場するレンポ島にいる人物",
+    tags: [ "nodkrai", "character-sub" ],
+  },
 
   // Etcetera
   {

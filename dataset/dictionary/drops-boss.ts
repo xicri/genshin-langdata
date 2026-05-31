@@ -472,6 +472,33 @@ export default [
     zhuyins: [{ char: "亙", pron: "ㄍㄣˋ" }],
   },
   {
+    en: "Counterfeit Resin",
+    ja: "偽りの樹脂",
+    zhCN: "赝作的树脂",
+    zhTW: "赝作的树脂",
+    pronunciationJa: "いつわりのじゅし",
+    tags: [ "drop-boss", "sumeru" ],
+    notes: "左道の真諦者(ドットーレ)のドロップアイテム",
+  },
+  {
+    en: "Twisted Withered Branch",
+    ja: "歪曲した枯れ枝",
+    zhCN: "扭曲的枯枝",
+    zhTW: "扭曲的枯枝",
+    pronunciationJa: "わいきょくしたかれえだ",
+    tags: [ "drop-boss", "sumeru" ],
+    notes: "左道の真諦者(ドットーレ)のドロップアイテム",
+  },
+  {
+    en: "Profaned Sprout",
+    ja: "冒涜の新芽",
+    zhCN: "亵渎的新芽",
+    zhTW: "褻瀆的新芽",
+    pronunciationJa: "ぼうとくのしんめ",  // TODO need check
+    tags: [ "drop-boss", "sumeru" ],
+    notes: "左道の真諦者(ドットーレ)のドロップアイテム",
+  },
+  {
     en: "Lightless Silk String",
     ja: "光なき糸",
     zhCN: "无光丝线",

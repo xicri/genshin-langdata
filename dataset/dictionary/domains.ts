@@ -635,6 +635,13 @@ export default [
     notesZh: "世界任务「蒂尔·亚什特的赞歌」中，进入万种母树中获取慈心的秘境。",
     notesZhTW: "世界任務「蒂爾·亞什特的讚歌」中，進入萬種母樹中獲取慈心的秘境。",
   },
+  {
+    en: "Binding Field of Universal Nirvana",
+    ja: "万有涅槃縛境",
+    zhCN: "万有涅槃缚境",
+    zhTW: "萬有涅槃縛境",
+    tags: [ "sumeru", "domain" ],
+  },
 
   //
   // Fontaine
