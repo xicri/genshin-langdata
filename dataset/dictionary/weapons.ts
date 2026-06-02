@@ -55,7 +55,6 @@ export default [
     notes: "イベント報酬の武器などの精錬に用いる、専用の素材のこと",
     notesEn: "A specialized material to refine weapons acquired in the limited-time events.",
   },
-
   //
   // Swords
   //
@@ -790,6 +789,16 @@ export default [
     zhTW: "萬能鑰匙",
     pronunciationJa: "ばんのうのかぎ",
     tags: [ "weapon", "claymore" ],
+  },
+  {
+    en: "Super Awesome Magic Key",
+    ja: "マジマルマジックキー",
+    zhCN: "超厉害魔法钥匙",
+    zhTW: "超厲害魔法鑰匙",
+    notesEn: "v6.6(LunaVII) Limited Time Event \"Phantasmal Pals\". An item that changes the appearance of claymore to resemble the \"Ultimate Overlord's Mega Magic Sword\".",
+    notes: "v6.6(LunaVII) 期間限定イベント「空想の友と巡る旅」報酬。両手剣武器を「スーパーアルティメット覇王魔剣」に似た見た目に変えるアイテム",
+    notesZh: "v6.6(LunaVII) 限时活动「幻友绮旅」奖励",
+    tags: [ "weapon", "claymore", "event" ],
   },
   // ★5
   {
@@ -2143,6 +2152,14 @@ export default [
     zhCN: "帷间夜曲",
     zhTW: "帷間夜曲",
     pronunciationJa: "とばりのやきょく",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Angelos' Heptades",
+    ja: "塵と光の七つの誓約",
+    zhCN: "尘光七谕",
+    zhTW: "塵光七諭",
+    pronunciationJa: "ちりとひかりのななつのせいやく",
     tags: [ "weapon", "catalyst" ],
   },
 ] as const satisfies SourceWord[];

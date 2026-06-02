@@ -862,6 +862,13 @@ export default [
     zhTW: "淬金冷玉",
     tags: [ "food" ],
   },
+  {
+    en: "Stuffed Tofu with Minced Meat",
+    ja: "肉詰め豆腐",
+    zhCN: "肉末酿豆腐",
+    zhTW: "肉末釀豆腐",
+    tags: [ "food" ],
+  },
 
   // ★★★
   {
@@ -1620,6 +1627,13 @@ export default [
     ja: "ポートフィッシュバーガー",
     zhCN: "海港鱼鱼堡",
     zhTW: "海港魚魚堡",
+    tags: [ "food" ],
+  },
+  {
+    en: "Roulette Special",
+    ja: "ルーレットカクテル",
+    zhCN: "转盘特调",
+    zhTW: "轉盤特調",
     tags: [ "food" ],
   },
 
@@ -3043,6 +3057,27 @@ export default [
     notesEn: "Linnea's specialty",
     notes: "リンネアのオリジナル料理",
     notesZh: "莉奈娅的特色料理",
+  },
+  {
+    en: "Gilded Chest",
+    ja: "金細工の宝箱",
+    zhCN: "镂金的宝箱",
+    zhTW: "鏤金的寶箱",
+    pronunciationJa: "きんざいくのたからばこ",
+    tags: [ "food", "nodkrai" ],
+    notesEn: "Nicole's specialty",
+    notes: "ニコのオリジナル料理",
+    notesZh: "尼可的特色料理",
+  },
+  {
+    en: "Spinning Special",
+    ja: "くるくるスペシャル",
+    zhCN: "转转特调",
+    zhTW: "轉轉特調",
+    tags: [ "food", "nodkrai" ],
+    notesEn: "Prune's specialty",
+    notes: "プルーネのオリジナル料理",
+    notesZh: "布伦妮的特色料理",
   },
 
   // etcetera
