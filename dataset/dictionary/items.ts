@@ -2010,6 +2010,14 @@ export default [
     zhTW: "遊逸旅帳",
     tags: [ "item" ],
   },
+  {
+    en: "Neo Terminal: Floating Leaf Model",
+    ja: "新型アーカーシャ端末「浮き葉」",
+    zhCN: "新式终端浮叶型",
+    zhTW: "新式終端浮葉型",
+    notes: "中国および日本においてケンタッキーとのコラボで配布されたマスコット",
+    tags: [ "item" ],
+  },
 
   //
   // Quest Items
@@ -2853,6 +2861,13 @@ export default [
     ja: "ファルカのへそくり",
     zhCN: "法尔伽的私房钱",
     zhTW: "法爾伽的私房錢",
+    tags: [ "item", "mondstadt" ],
+  },
+  {
+    en: "Lohen's \"Friendship Fee\"",
+    ja: "ローエンの友達料",
+    zhCN: "洛恩的「朋友費」",
+    zhTW: "洛恩的「朋友費」",
     tags: [ "item", "mondstadt" ],
   },
 

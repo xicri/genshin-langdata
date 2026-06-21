@@ -57,4 +57,14 @@ export default [
     zhTW: "托克",
     tags: [ "snezhnaya", "liyue", "character-sub" ],
   },
+  {
+    en: "Feofan Sergeyevich Vekse",
+    ja: "フェオファン・セルゲイェヴィッチ・ヴェクセル",
+    zhCN: "费奥潘·谢尔盖耶维奇·维克塞",
+    zhTW: "費奧潘·謝爾蓋耶維奇·維克塞",
+    notesEn: "\"Regrator\", Pantalone's Real Name",
+    notes: "「富者」、パンタローネの本名",
+    notesZh: "「富人」、潘塔罗涅的本名。",
+    tags: [ "snezhnaya", "sumeru", "character-sub" ],
+  },
 ] as const satisfies SourceWord[];

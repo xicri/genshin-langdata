@@ -202,6 +202,14 @@ export default [
     pronunciationJa: "ゆききつね",
     tags: [ "living-being", "mondstadt" ],
   },
+  {
+    en: "Northland Cat",
+    ja: "北地ショートヘア",
+    zhCN: "北地猫",
+    zhTW: "北地貓",
+    pronunciationJa: "ほくちショートヘア",
+    tags: [ "living-being", "mondstadt" ],
+  },
 
   //
   // Liyue

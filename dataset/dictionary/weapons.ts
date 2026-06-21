@@ -792,7 +792,7 @@ export default [
   },
   {
     en: "Super Awesome Magic Key",
-    ja: "マジマルマジックキー",
+    ja: "マジカルマジックキー",
     zhCN: "超厉害魔法钥匙",
     zhTW: "超厲害魔法鑰匙",
     notesEn: "v6.6(LunaVII) Limited Time Event \"Phantasmal Pals\". An item that changes the appearance of claymore to resemble the \"Ultimate Overlord's Mega Magic Sword\".",
@@ -1275,6 +1275,14 @@ export default [
     zhCN: "血染荒城",
     zhTW: "血染荒城",
     pronunciationJa: "ちぞめのあれち",
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Disaster and Remorse",
+    ja: "災憾",
+    zhCN: "灾悔",
+    zhTW: "災悔",
+    pronunciationJa: "さいかん",
     tags: [ "weapon", "polearm" ],
   },
 
