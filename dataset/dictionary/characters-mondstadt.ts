@@ -2065,7 +2065,7 @@ export default [
     ja: "ウルサ",
     zhCN: "乌萨",
     zhTW: "烏薩",
-    notes: "伝説任務「騎士兎の章」に名前だけ登場する魔龍",
+    notes: "ドットーレが呼び覚まし、ディルックの父クリプスを襲った、モンドの魔龍",
     tags: [ "mondstadt", "character-sub" ],
   },
   {
