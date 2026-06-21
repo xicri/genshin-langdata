@@ -257,7 +257,7 @@ export default [
     ja: "減7のアルペジオ",
     zhCN: "减七琶音",
     zhTW: "減七琶音",
-    notes: "v6.6(LunaVII) 期間限定イベント「勇猛なる戦士の試練」に登場するファデュイ",
+    notes: "v6.6(LunaVII) 期間限定イベント「勇猛なる戦士の試練」に登場するファデュイ従者",
     tags: [ "event", "character-sub", "fatui", "nodkrai" ],
   },
   {
