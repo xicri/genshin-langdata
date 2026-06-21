@@ -3219,6 +3219,27 @@ export default [
     zhTW: "歡騰浮島",
     tags: [ "nodkrai", "quest-world" ],
   },
+  {
+    en: "The Silent Theater",
+    ja: "音のない劇場",
+    zhCN: "无声剧场",
+    zhTW: "無聲劇場",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "The Lost Palace",
+    ja: "失われた宮殿",
+    zhCN: "遗失宮殿",
+    zhTW: "遺失宮殿",
+    tags: [ "nodkrai", "quest-world" ],
+  },
+  {
+    en: "The Forgotten Lighthouse",
+    ja: "憂いなき灯台",
+    zhCN: "忘忧灯塔",
+    zhTW: "忘憂燈塔",
+    tags: [ "nodkrai", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -3404,7 +3425,15 @@ export default [
     zhTW: "天狼之章",
     pronunciationJa: "てんろうのしょう",
     notes: "ファルカの伝説任務",
-    tags: [ "fontaine", "quest-story" ],
+    tags: [ "mondstadt", "nodkrai", "quest-story" ],
+  },
+  {
+    en: "Lepus Miles Chapter",
+    ja: "騎士兎の章",
+    zhCN: "狡兔之章",
+    zhTW: "狡兔之章",
+    notes: "ローエンの伝説任務",
+    tags: [ "mondstadt", "quest-story" ],
   },
   {
     en: "Trulla Chapter",

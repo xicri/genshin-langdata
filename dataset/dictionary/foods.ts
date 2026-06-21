@@ -1636,6 +1636,13 @@ export default [
     zhTW: "轉盤特調",
     tags: [ "food" ],
   },
+  {
+    en: "Mint Bubblegum",
+    ja: "ミントバブルガム",
+    zhCN: "薄荷泡泡糖",
+    zhTW: "薄荷泡泡糖",
+    tags: [ "food" ],
+  },
 
   // ★★★★
   {
@@ -2195,6 +2202,16 @@ export default [
     notesEn: "Varka's specialty",
     notes: "ファルカのオリジナル料理",
     notesZh: "法尔伽的特色料理",
+  },
+  {
+    en: "Boredom-Busting Bubblegum",
+    ja: "退屈しのぎのバブルガム",
+    zhCN: "解闷泡泡糖",
+    zhTW: "解悶泡泡糖",
+    tags: [ "food", "mondstadt" ],
+    notesEn: "Lohen's specialty",
+    notes: "ローエンのオリジナル料理",
+    notesZh: "洛恩的特色料理",
   },
 
   // Liyue
