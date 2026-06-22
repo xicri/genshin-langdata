@@ -464,7 +464,7 @@ export default [
     ja: "虚空劫灰のプラーナ",
     zhCN: "虚空劫灰往世书",
     zhTW: "虛空劫灰往世書",
-    pronunciationJa: "こくうごうかいのぷらーな",
+    pronunciationJa: "こくうごうかいのプラーナ", // Source: Luna Ⅶ Live 6:36 https://www.youtube.com/live/BNIomgSPGtU?t=397
     tags: [ "nodkrai", "sumeru", "quest-archon" ],
     notes: "空月の歌 第十幕",
   },
