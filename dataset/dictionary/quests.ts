@@ -455,7 +455,7 @@ export default [
     ja: "身土壊空、五蘊識転",
     zhCN: "身土坏空, 五蕴识转",
     zhTW: "身土壞空, 五蘊識轉",
-    pronunciationJa: "しんどかいくう、ごうんしきてん",
+    pronunciationJa: "しんどえくう、ごうんしきてん", // source: https://m.hoyolab.com/#/article/45076839/
     tags: [ "nodkrai", "sumeru", "quest-archon" ],
     notes: "空月の歌 第九幕",
   },
