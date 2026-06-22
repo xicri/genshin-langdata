@@ -437,7 +437,7 @@ export default [
     ja: "冬の夜、ある旅人が",
     zhCN: "如果在冬夜，一个旅人",
     zhTW: "如果在冬夜，一個旅人",
-    pronunciationJa: "ふゆのよ、あるたびびとが",
+    pronunciationJa: "ふゆのよる、あるたびびとが",
     tags: [ "nodkrai", "quest-archon" ],
     notes: "空月の歌 第七幕",
   },
@@ -455,6 +455,7 @@ export default [
     ja: "身土壊空、五蘊識転",
     zhCN: "身土坏空, 五蕴识转",
     zhTW: "身土壞空, 五蘊識轉",
+    pronunciationJa: "しんどえくう、ごうんしきてん", // source: https://m.hoyolab.com/#/article/45076839/
     tags: [ "nodkrai", "sumeru", "quest-archon" ],
     notes: "空月の歌 第九幕",
   },
@@ -463,7 +464,7 @@ export default [
     ja: "虚空劫灰のプラーナ",
     zhCN: "虚空劫灰往世书",
     zhTW: "虛空劫灰往世書",
-    pronunciationJa: "きょくうごうがいのプラーナ",
+    pronunciationJa: "こくうごうかいのプラーナ", // Source: Luna Ⅶ Live 6:36 https://www.youtube.com/live/BNIomgSPGtU?t=397
     tags: [ "nodkrai", "sumeru", "quest-archon" ],
     notes: "空月の歌 第十幕",
   },
