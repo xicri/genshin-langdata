@@ -601,7 +601,7 @@ export default [
     pronunciationJa: "ざんきょうのもりでささやかれるよばなし",
     tags: [ "artifact" ],
     variants: {
-      ja: [ "残響","夜話" ],
+      ja: [ "残響", "夜話" ],
     },
   },
   {
@@ -642,7 +642,7 @@ export default [
     pronunciationJa: "かいじんのみやこにたつえいゆうのえまき",
     tags: [ "artifact" ],
     variants: {
-      ja: [ "灰燼","絵巻" ],
+      ja: [ "灰燼", "絵巻" ],
     },
   },
   {
@@ -661,7 +661,7 @@ export default [
     pronunciationJa: "しんろうのしゅうきょく",
     tags: [ "artifact" ],
     variants: {
-      ja: [ "深廊" ,"終曲"],
+      ja: [ "深廊" , "終曲" ],
     },
   },
   {
