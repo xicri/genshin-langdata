@@ -623,7 +623,7 @@ export default [
     pronunciationJa: "とげられなかったおもい",
     tags: [ "artifact" ],
     variants: {
-      ja: [ "遂想" ],
+      ja: [ "遂想" , "とげおも" ],
     },
   },
   {
@@ -672,7 +672,7 @@ export default [
     pronunciationJa: "つきをつむぐよるのうた",
     tags: [ "artifact" ],
     variants: {
-      ja: [ "月紡" ],
+      ja: [ "月紡" , "つきつむぎ" ],
     },
   },
   {
