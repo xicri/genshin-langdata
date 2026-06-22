@@ -600,6 +600,9 @@ export default [
     zhTW: "回聲之林夜話",
     pronunciationJa: "ざんきょうのもりでささやかれるよばなし",
     tags: [ "artifact" ],
+    variants: {
+      ja: [ "残響","夜話" ],
+    },
   },
   {
     en: "Fragment of Harmonic Whimsy",
@@ -619,6 +622,9 @@ export default [
     zhTW: "未竟的遐思",
     pronunciationJa: "とげられなかったおもい",
     tags: [ "artifact" ],
+    variants: {
+      ja: [ "遂想" ],
+    },
   },
   {
     en: "Obsidian Codex",
@@ -635,6 +641,9 @@ export default [
     zhTW: "燼城勇者繪卷",
     pronunciationJa: "かいじんのみやこにたつえいゆうのえまき",
     tags: [ "artifact" ],
+    variants: {
+      ja: [ "灰燼","絵巻" ],
+    },
   },
   {
     en: "Long Night's Oath",
@@ -651,6 +660,9 @@ export default [
     zhTW: "深廊終曲",
     pronunciationJa: "しんろうのしゅうきょく",
     tags: [ "artifact" ],
+    variants: {
+      ja: [ "深廊" ,"終曲"],
+    },
   },
   {
     en: "Silken Moon's Serenade",
@@ -659,6 +671,9 @@ export default [
     zhTW: "紡月的夜歌",
     pronunciationJa: "つきをつむぐよるのうた",
     tags: [ "artifact" ],
+    variants: {
+      ja: [ "月紡" ],
+    },
   },
   {
     en: "Night of the Sky's Unveiling",
