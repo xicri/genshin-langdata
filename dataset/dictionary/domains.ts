@@ -180,6 +180,14 @@ export default [
     tags: [ "mondstadt", "domain" ],
   },
   {
+    en: "Thorny Crown of the Mountain Wind",
+    ja: "山風の荊冠",
+    zhCN: "山风的荆冕",
+    zhTW: "山風的荊冕",
+    pronunciationJa: "さんぷうのけいかん",
+    tags: [ "mondstadt", "domain" ],
+  },
+  {
     en: "Imaginarium Theater",
     ja: "幻想シアター",
     zhCN: "幻想真境剧诗",
