@@ -684,4 +684,20 @@ export default [
     pronunciationJa: "あかつきのほしとつきのうた",
     tags: [ "artifact" ],
   },
+  {
+    en: "Celestial Gift",
+    ja: "天からの贈り物",
+    zhCN: "天之美赐",
+    zhTW: "天之美賜",
+    pronunciationJa: "てんからのおくりもの",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Disenchantment in Deep Shadow",
+    ja: "影に沈む幻",
+    zhCN: "影中沉凝的幻灭",
+    zhTW: "影中沉凝的幻滅",
+    pronunciationJa: "かげにしずむまぼろし",
+    tags: [ "artifact" ],
+  },
 ] as const satisfies SourceWord[];
