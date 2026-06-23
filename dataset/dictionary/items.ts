@@ -3171,4 +3171,20 @@ export default [
     pronunciationJa: "ちくりんにひびくあまおと",
     notes: "ヨォーヨのコスチューム",
   },
+  {
+    en: "Whispers of Stars and Smoke",
+    ja: "星と煙霧の夜話",
+    zhCN: "星与烟帷的夜语",
+    zhTW: "星與煙帷的夜語",
+    pronunciationJa: "ほしとえんむのよばなし",
+    notes: "シトラリのコスチューム",
+  },
+  {
+    en: "Hurlock Variations",
+    ja: "ハーロック変奏曲",
+    zhCN: "赫尔洛克变奏曲",
+    zhTW: "赫爾洛克變奏曲",
+    pronunciationJa: "はーろっくへんそうきょく",
+    notes: "シャルロットのコスチューム",
+  },
 ] as const satisfies SourceWord[];
