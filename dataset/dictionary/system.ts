@@ -388,6 +388,22 @@ export default [
     tags: [ "element" ],
   },
   {
+    en: "Starlight Prism",
+    ja: "スターライトプリズム",
+    zhCN: "星辉棱晶",
+    zhTW: "星輝稜晶",
+    tags: [ "element" ],
+    notes: "特定キャラで氷元素と雷元素が接触すると生成される。",
+  },
+  {
+    en: "Polestar Field",
+    ja: "極星フィールド",
+    zhCN: "极星辉域",
+    zhTW: "極星輝域",
+    tags: [ "element" ],
+    notes: "スターライトプリズム付近のエリアに生成される",
+  },
+  {
     en: "Elemental Skill",
     ja: "元素スキル",
     zhCN: "元素战技",
