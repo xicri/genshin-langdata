@@ -30,7 +30,7 @@ export default [
     zhCN: "沃雅妮莎",
     zhTW: "沃雅妮莎",
     notes: "コロレフスキー劇団のプリマドンナ。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Alyosha",
