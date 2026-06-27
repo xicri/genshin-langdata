@@ -65,7 +65,7 @@ export default [
     ja: "ダニカ",
     zhCN: "达妮卡",
     zhTW: "達妮卡",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Noy",
