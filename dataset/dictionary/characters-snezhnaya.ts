@@ -79,7 +79,7 @@ export default [
     ja: "ミティヤ",
     zhCN: "米提亚",
     zhTW: "米提亞",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Cryo Archon",
