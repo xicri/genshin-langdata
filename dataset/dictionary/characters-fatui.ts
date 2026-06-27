@@ -203,6 +203,16 @@ export default [
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
+    en: "Feofan Sergeyevich Vekse",
+    ja: "フェオファン・セルゲイェヴィッチ・ヴェクセル",
+    zhCN: "费奥潘·谢尔盖耶维奇·维克塞",
+    zhTW: "費奧潘·謝爾蓋耶維奇·維克塞",
+    notesEn: "\"Regrator\", Pantalone's Real Name",
+    notes: "「富者」、パンタローネの本名",
+    notesZh: "「富人」、潘塔罗涅的本名。",
+    tags: [ "snezhnaya", "sumeru", "character-sub" ],
+  },
+  {
     en: "Il Dottore",
     ja: "ドットーレ",
     zhCN: "多托雷",
@@ -235,6 +245,14 @@ export default [
     variants: {
       ja: [ "はくし" ],
     },
+  },
+  {
+    en: "Zandik",
+    ja: "ザンディク",
+    zhCN: "赞迪克",
+    zhTW: "贊迪克",
+    notes: "「博士」、ドットーレのスメール時代の本名",
+    tags: [ "sumeru", "character-sub" ],
   },
   {
     en: "Pulcinella",
