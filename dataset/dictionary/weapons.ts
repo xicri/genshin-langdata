@@ -899,6 +899,13 @@ export default [
     zhTW: "狼的武功歌",
     tags: [ "weapon", "claymore" ],
   },
+  {
+    en: "A Teaspoon of Transcendence",
+    ja: "超越の鍵",
+    zhCN: "超越之匙",
+    zhTW: "超越之匙",
+    tags: [ "weapon", "claymore" ],
+  },
 
   //
   // Polearm

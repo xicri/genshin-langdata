@@ -1652,14 +1652,6 @@ export default [
     notes: "魔神任務「身土壊空、五蘊識転」「虚空劫灰のプラーナ」に登場するキャラクター。キングデシェレトの七柱の一人",
   },
   {
-    en: "Zandik",
-    ja: "ザンディク",
-    zhCN: "赞迪克",
-    zhTW: "贊迪克",
-    notes: "「博士」、ドットーレのスメール時代の本名",
-    tags: [ "sumeru", "character-sub" ],
-  },
-  {
     en: "Taraneh",
     ja: "タラネ",
     zhCN: "塔拉内",
