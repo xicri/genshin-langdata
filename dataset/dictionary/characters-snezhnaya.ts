@@ -20,7 +20,7 @@ export default [
     ja: "アナスターシャ・フョードロヴナ・スネージナヤ",
     zhCN: "安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅",
     zhTW: "安娜絲塔夏·費奧多羅夫娜·雪奈茨娜婭",
-    notesEn: "Presumed real name of the Tsaritsa.",
+    notesEn: "Real name of the Tsaritsa.",
     notes: "氷の女皇の本名。",
     tags: [ "snezhnaya", "character-sub" ],
   },
