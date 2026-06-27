@@ -121,6 +121,6 @@ export default [
     zhTW: "冬妮婭",
     notes: "タルタリヤの妹",
     notesEn: "Tartaglia's younger sister",
-    tags: [ "snezhnaya", "liyue", "character-sub" ],
+    tags: [ "snezhnaya", "character-sub" ],
   },
 ] as const satisfies SourceWord[];
