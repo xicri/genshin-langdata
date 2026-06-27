@@ -44,7 +44,7 @@ export default [
     ja: "オデット",
     zhCN: "奥黛塔",
     zhTW: "奧黛塔",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Valeriy",
