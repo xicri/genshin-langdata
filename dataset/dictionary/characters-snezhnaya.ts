@@ -58,7 +58,7 @@ export default [
     ja: "ヴェスナ",
     zhCN: "薇斯纳",
     zhTW: "薇斯納",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Danica",
