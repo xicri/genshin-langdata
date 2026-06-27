@@ -72,7 +72,7 @@ export default [
     ja: "ノイ",
     zhCN: "诺伊",
     zhTW: "諾伊",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Mitya",
