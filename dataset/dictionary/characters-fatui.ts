@@ -203,7 +203,7 @@ export default [
     tags: [ "fatui", "character-sub", "title" ],
   },
   {
-    en: "Feofan Sergeyevich Vekse",
+    en: "Feofan Sergeyevich Veksel",
     ja: "フェオファン・セルゲイェヴィッチ・ヴェクセル",
     zhCN: "费奥潘·谢尔盖耶维奇·维克塞",
     zhTW: "費奧潘·謝爾蓋耶維奇·維克塞",
