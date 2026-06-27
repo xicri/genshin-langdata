@@ -51,7 +51,7 @@ export default [
     ja: "バレリー",
     zhCN: "瓦列里",
     zhTW: "瓦列里",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "fatui", "character-main" ],
   },
   {
     en: "Vesna",
