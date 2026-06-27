@@ -37,7 +37,7 @@ export default [
     ja: "アリョーシャ",
     zhCN: "阿罗夏",
     zhTW: "阿羅夏",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Odette",
