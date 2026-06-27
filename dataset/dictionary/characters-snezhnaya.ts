@@ -22,7 +22,7 @@ export default [
     zhTW: "安娜絲塔夏·費奧多羅夫娜·雪奈茨娜婭",
     notesEn: "Real name of the Tsaritsa.",
     notes: "氷の女皇の本名。",
-    tags: [ "snezhnaya", "character-sub" ],
+    tags: [ "snezhnaya", "character-main" ],
   },
   {
     en: "Vodyanitsa",
