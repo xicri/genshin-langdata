@@ -554,6 +554,22 @@ export default [
     tags: [ "natlan", "character-sub" ],
   },
   {
+    en: "Manaia",
+    ja: "マナイア",
+    zhCN: "梅内娅",
+    zhTW: "梅內婭",
+    notes: "「流泉の衆」にいるメリュジーヌ",
+    tags: [ "natlan", "character-sub" ],
+  },
+  {
+    en: "Moo",
+    ja: "モオ",
+    zhCN: "莫乌",
+    zhTW: "莫烏",
+    notes: "「流泉の衆」にいるコホラ仔竜",
+    tags: [ "natlan", "character-sub" ],
+  },
+  {
     en: "Aclla",
     ja: "アクリャ",
     zhCN: "爱可",

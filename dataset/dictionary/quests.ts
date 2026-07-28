@@ -2621,6 +2621,14 @@ export default [
     zhTW: "生日快樂",
     tags: [ "fontaine", "quest-world" ],
   },
+  {
+    en: "A Lady's Invitation",
+    ja: "淑女のお誘い",
+    zhCN: "淑女之邀",
+    zhTW: "淑女的邀",
+    notes: "パーティにサンドローネが加入している状態で受付可能な世界任務",
+    tags: [ "fontaine", "quest-world" ],
+  },
 
   // World Quests - Natlan
   {
@@ -3134,7 +3142,7 @@ export default [
     zhCN: "情报交易",
     zhTW: "情報交易",
     pronunciationJa: "じょうほうとりひき",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3143,7 +3151,7 @@ export default [
     zhCN: "闹鬼的海盗船残骸",
     zhTW: "鬧鬼的海盜船殘骸",
     pronunciationJa: "かいぞくせんのゆうれいさわぎ",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3152,7 +3160,7 @@ export default [
     zhCN: "偶现之委托",
     zhTW: "偶現之委託",
     pronunciationJa: "ぐうぜんのいらい",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3161,7 +3169,7 @@ export default [
     zhCN: "货物失窃引发的骚乱",
     zhTW: "貨物失竊引發的騷亂",
     pronunciationJa: "かもつとうなんじけん",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3170,7 +3178,7 @@ export default [
     zhCN: "形迹反常的隐士",
     zhTW: "形跡反常的隱士",
     pronunciationJa: "ようすのおかしいいんじゃ",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3179,7 +3187,7 @@ export default [
     zhCN: "小委托",
     zhTW: "小委託",
     pronunciationJa: "ちいさないらい",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3187,7 +3195,7 @@ export default [
     ja: "消えた賞金首",
     zhCN: "销声匿迹的悬赏对象",
     zhTW: "銷聲匿跡的懸賞對象",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3195,7 +3203,7 @@ export default [
     ja: "一件落着",
     zhCN: "尘埃落定",
     zhTW: "塵埃落定",
-    notes: "チームにヤフォダかネフェルが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダかネフェルが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {
@@ -3203,7 +3211,7 @@ export default [
     ja: "かつて過去を捨てた者",
     zhCN: "曾抛弃过去的人",
     zhTW: "曾拋棄過去的人",
-    notes: "チームにヤフォダが加入している状態で受付可能な世界任務",
+    notes: "パーティにヤフォダが加入している状態で受付可能な世界任務",
     tags: [ "nodkrai", "quest-world" ],
   },
   {

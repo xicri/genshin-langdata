@@ -1567,6 +1567,43 @@ export default [
     tags: [ "nodkrai", "character-sub" ],
   },
 
+  // Frostmoon
+  {
+    en: "Ninnin",
+    ja: "ニンニン",
+    zhCN: "宁宁",
+    zhTW: "寧寧",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Nin-Kiggia",
+    ja: "ニンシジア",
+    zhCN: "宁希姬娅",
+    zhTW: "寧希姬婭",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Eggie",
+    ja: "クロタマゴ",
+    zhCN: "黑蛋",
+    zhTW: "黑蛋",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Maggie",
+    ja: "マーゴ",
+    zhCN: "玛歌",
+    zhTW: "瑪歌",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+  {
+    en: "Ibni-Belum",
+    ja: "イビニベルン",
+    zhCN: "伊比尼伯龙",
+    zhTW: "伊比尼伯龍",
+    tags: [ "nodkrai", "character-sub" ],
+  },
+
   // Etcetera
   {
     en: "Eternal Moon Goddess",
@@ -1600,6 +1637,13 @@ export default [
     zhTW: "桑娜妲",
     notes: "月の三女神の三女",
     tags: [ "title", "character-sub" ],
+  },
+  {
+    en: "Nibelung",
+    ja: "ニーベルンゲン",
+    zhCN: "尼伯龙根",
+    zhTW: "尼伯龍根",
+    tags: [ "nodkrai", "character-sub" ],
   },
 
 ] as const satisfies SourceWord[];
