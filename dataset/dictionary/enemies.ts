@@ -3566,6 +3566,14 @@ export default [
     tags: [ "nodkrai", "enemy" ],
   },
   {
+    en: "Precursor's Secret Source Matrix of Overseer Network",
+    ja: "先駆秘源コマンダー陣形",
+    zhCN: "先驱秘源统辖阵列",
+    zhTW: "先驅秘源統轄陣列",
+    pronunciationJa: "せんくひげんコマンダーじんけい",
+    tags: [ "nodkrai", "enemy" ],
+  },
+  {
     en: "Lord of the Hidden Depths: Whisperer of Nightmares",
     ja: "昏き魘夢の主",
     zhCN: "深黯魇语之主",
@@ -3607,6 +3615,22 @@ export default [
     zhTW: "「望鄉的孤狼」",
     pronunciationJa: "こきょうをしのぶこどくのおおかみ",
     notes: "ナド・クライの地方伝説の1体で、オオカミの変異体",
+    tags: [ "nodkrai", "enemy-legend" ],
+  },
+  {
+    en: "\"Mushteshir\"",
+    ja: "「ムーシュ＝テヒル」",
+    zhCN: "「穆什特希尔」",
+    zhTW: "「穆什特希爾」",
+    notes: "ナド・クライの地方伝説の1体で、先駆秘源コマンダー陣形の変異体",
+    tags: [ "nodkrai", "enemy-legend" ],
+  },
+  {
+    en: "Prism Slime",
+    ja: "プリズムスライム",
+    zhCN: "虹彩史莱姆",
+    zhTW: "虹彩史萊姆",
+    notes: "ナド・クライの地方伝説の1体で、スライムの変異体",
     tags: [ "nodkrai", "enemy-legend" ],
   },
 
