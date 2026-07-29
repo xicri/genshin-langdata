@@ -411,7 +411,7 @@ export default [
     notes: "「傀儡」、サンドローネの本名",
     notesZh: "「木偶」, 桑多涅的本名。",
     notesZhTW: "「木偶」, 桑多涅的本名。",
-    tags: [ "fontaine", "character-main" ],
+    tags: [ "fatui", "nodkrai", "fontaine", "character-main" ],
   },
   {
     en: "Clockwork Princess",
