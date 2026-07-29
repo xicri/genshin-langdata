@@ -388,7 +388,7 @@ export default [
     notes: "傀儡の通称",
     notesZh: "冰之女皇给「木偶」的赐名。",
     notesZhTW: "冰之女皇給「木偶」的賜名。",
-    tags: [ "fatui", "nodkrai", "character-sub" ], // TODO Playability unknown as of Sep, 2025
+    tags: [ "fatui", "nodkrai", "fontaine", "character-main" ],
   },
   {
     en: "Marionette",
