@@ -3779,7 +3779,7 @@ export default [
     ja: "観月者号",
     zhCN: "望月者号",
     zhTW: "望月者號",
-    pronunciationJa: "かんのんしゃごう",  // TODO need check
+    pronunciationJa: "かんげつしゃごう",
     tags: [ "nodkrai", "location" ],
     notesEn: "Spaceship heading to Frostmoon",
     notes: "霜月に向かう宇宙船",
