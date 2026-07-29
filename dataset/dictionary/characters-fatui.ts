@@ -400,7 +400,7 @@ export default [
     notesEn: "Sandrone's codename.",
     notesZh: "桑多涅的代号。",
     notesZhTW: "桑多涅的代號。",
-    tags: [ "fatui", "nodkrai", "character-sub", "title" ],
+    tags: [ "fatui", "nodkrai", "fontaine", "character-main", "title" ],
   },
   {
     en: "Marionette Guillotin",
