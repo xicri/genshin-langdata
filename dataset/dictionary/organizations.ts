@@ -678,7 +678,7 @@ export default [
     zhCN: "亥珀波瑞亚",
     zhTW: "亥珀波瑞亞",
     notes: "テイワット大陸の北方にかつて存在していた王国",
-    tags: [ "nodkrai", "location" ],
+    tags: [ "nodkrai", "snezhnaya", "location" ],
   },
   {
     en: "Dephi Pytho",

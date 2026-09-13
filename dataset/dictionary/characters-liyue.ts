@@ -1603,12 +1603,17 @@ export default [
     notes: "璃月港にいる人物。占い師",
   },
   {
-    en: "Nadia",
+    en: "Nadia(Fatui)",
     ja: "ナディヤ",
     zhCN: "娜蒂亚",
     zhTW: "娜蒂亞",
     tags: [ "liyue", "fatui", "snezhnaya", "character-sub" ],
-    notes: "璃月港にいる人物。「北国銀行」夜勤の守衛",
+    notesEn: "The original title does not have (Fatui). Added due to constraints of key generation.",
+    notes: "璃月港にいる人物。「北国銀行」夜勤の守衛。英語の原題には (Fatui) はついていません。システム制約によりキーを重複させないための処置です。",
+    notesZh: "。原英文标题不包括（Fatui）。这是为了防止由于系统限制而出现重复密钥的措施。",
+    notesZhTW: "原英文標題不包括（Fatui）。這是為了防止由於系統限制而出現重複密鑰的措施。"
+
+
   },
   {
     en: "Vlad",

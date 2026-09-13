@@ -612,6 +612,14 @@ export default [
     zhTW: "拳力鬥技",
     tags: [ "fontaine" ],
   },
+  {
+    en: "The Rusty Rudder",
+    ja: "ザ・ラスティ・ラダー",
+    zhCN: "锈舵",
+    zhTW: "鏽舵",
+    notes: "ルミドゥースハーバーにある、座礁した船を活用した酒場",
+    tags: [ "fontaine", "facility" ],
+  },
 
   //
   // Natlan

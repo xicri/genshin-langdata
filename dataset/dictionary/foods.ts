@@ -231,6 +231,13 @@ export default [
     pronunciationJa: "くんせいフィッシュステーキ",
     tags: [ "food" ],
   },
+  {
+    en: "Podvorye Smoked Sausage",
+    ja: "セラーガーデン・スモークソーセージ",
+    zhCN: "老庭院熏肠",
+    zhTW: "老庭院燻腸",
+    tags: [ "food", "snezhnaya" ],
+  },
 
   // ★★
   {
@@ -875,6 +882,48 @@ export default [
     zhCN: "肉馅黑麦包",
     zhTW: "肉餡黑麥包",
     tags: [ "food" ],
+  },
+  {
+    en: "Stroganina",
+    ja: "鮮魚のストロガニナ",
+    zhCN: "鱼鱼刨花",
+    zhTW: "魚魚刨花",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Borscht",
+    ja: "ボルシチ",
+    zhCN: "红菜汤",
+    zhTW: "紅菜湯",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Glupov Rye Bread",
+    ja: "グルポフ黒パン",
+    zhCN: "格鲁波夫黑列巴",
+    zhTW: "格魯波夫黑列巴",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Kvass",
+    ja: "クワス",
+    zhCN: "格瓦斯",
+    zhTW: "格瓦斯",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Spiced Honey Brew",
+    ja: "スパイスハニー",
+    zhCN: "香料蜂蜜饮",
+    zhTW: "香料蜂蜜飲",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Glacial Starbrew",
+    ja: "フロストブリュー",
+    zhCN: "凛冬冰酿",
+    zhTW: "凜冬冰釀",
+    tags: [ "food", "snezhnaya" ],
   },
 
   // ★★★
@@ -1657,6 +1706,56 @@ export default [
     zhTW: "樺木蒸肋排",
     pronunciationJa: "スペアリブのかばむし",
     tags: [ "food" ],
+  },
+  {
+    en: "Zharkoye",
+    ja: "肉の壺焼き",
+    zhCN: "罐罐焖肉",
+    zhTW: "罐罐燜肉",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Rimecurrant Ice Cream",
+    ja: "アイススグリのアイスクリーム",
+    zhCN: "冰醋栗冰淇淋",
+    zhTW: "冰醋栗冰淇淋",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Medovik",
+    ja: "メドヴィク",
+    zhCN: "千层蜂蜜糕",
+    zhTW: "千層蜂蜜糕",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Snezhnaya Shashliks",
+    ja: "スネージナヤ串焼き",
+    zhCN: "至冬烤串",
+    zhTW: "至冬串燒",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Snowball Blooms Atop Snowfields",
+    ja: "白の雪玉花",
+    zhCN: "雪原上的雪球花",
+    zhTW: "雪原上的雪球花",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Snowrealm Okroshkas",
+    ja: "雪国スープ",
+    zhCN: "雪国冷汤",
+    zhTW: "雪國冷湯",
+    tags: [ "food", "snezhnaya" ],
+  },
+  {
+    en: "Tea Party Prelude: Herbal Tea",
+    ja: "お茶会のプレリュード・ハーバルティ",
+    zhCN: "茶会序曲·花草香茶",
+    zhTW: "茶會序曲·花草香茶",
+    tags: [ "food", "snezhnaya" ],
+    notes: "パーティにサンドローネが加入している状態でデイリー報告をすると貰える報酬",
   },
 
   // ★★★★
@@ -3129,6 +3228,25 @@ export default [
     notesEn: "Prune's specialty",
     notes: "プルーネのオリジナル料理",
     notesZh: "布伦妮的特色料理",
+  },
+  // Snezhnaya
+  {
+    en: "The Bullseye Roast",
+    ja: "寸分違わず",
+    zhCN: "弹无虚发",
+    zhTW: "彈無虛發",
+    tags: [ "food", "snezhnaya" ],
+    notesEn: "Alyosha's specialty",
+    notes: "アリョーシャのオリジナル料理",
+  },
+  {
+    en: "Lakeside Snow Swan",
+    ja: "湖畔の雪鳥",
+    zhCN: "湖畔边的雪鹄",
+    zhTW: "湖畔邊的雪鵠",
+    tags: [ "food", "snezhnaya" ],
+    notesEn: "Odette's specialty",
+    notes: "オデットのオリジナル料理",
   },
 
   // etcetera
