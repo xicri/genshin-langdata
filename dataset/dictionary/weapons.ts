@@ -512,6 +512,22 @@ export default [
     pronunciationJa: "みかづきのがんこう",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Whitelake Frostfeather",
+    ja: "白銀の湖を舞う翼",
+    zhCN: "白湖冬羽",
+    zhTW: "白湖冬羽",
+    pronunciationJa: "はくぎんのみずうみをまうつばさ",
+    tags: [ "weapon", "sword" ],
+  },
+  {
+    en: "Exaiphanes Blade",
+    ja: "星鋒の剣",
+    zhCN: "星锋剑",
+    zhTW: "星鋒劍",
+    pronunciationJa: "せいほうのけん",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores

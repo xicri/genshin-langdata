@@ -1267,6 +1267,16 @@ export default [
     tags: [ "inazuma" ],
   },
 
+  // Snezhnaya
+  {
+    en: "Shadow Realms",
+    ja: "闇域",
+    zhCN: "影域",
+    zhTW: "影域",
+    pronunciationJa: "あんいき",
+    tags: [ "snezhnaya" ],
+  },
+
   //
   // etcetera
   //
