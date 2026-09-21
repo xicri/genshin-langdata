@@ -1276,6 +1276,22 @@ export default [
     pronunciationJa: "あんいき",
     tags: [ "snezhnaya" ],
   },
+  {
+    en: "Kresnik's Torch",
+    ja: "クルースニクの炉",
+    zhCN: "克什尼克之炬",
+    zhTW: "克什尼克之炬",
+    pronunciationJa: "クルースニクのろ",
+    tags: [ "snezhnaya" ],
+  },
+  {
+    en: "Kresnik Kristall",
+    ja: "クルースニク晶鉱",
+    zhCN: "克什尼克晶矿",
+    zhTW: "克什尼克晶礦",
+    pronunciationJa: "クルースニクしょうこう",
+    tags: [ "snezhnaya" ],
+  },
 
   //
   // etcetera

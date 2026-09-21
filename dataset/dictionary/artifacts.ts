@@ -715,4 +715,20 @@ export default [
     pronunciationJa: "かげにしずむまぼろし",
     tags: [ "artifact" ],
   },
+  {
+    en: "Scarlet Proof",
+    ja: "紅血の証",
+    zhCN: "血红之证",
+    zhTW: "血紅之證",
+    pronunciationJa: "こうけつのあかし",
+    tags: [ "artifact" ],
+  },
+  {
+    en: "Heart of the Furnace",
+    ja: "炉炎溶錬の心",
+    zhCN: "炉火融炼之心",
+    zhTW: "爐火融煉之心",
+    pronunciationJa: "ろえんようれんのこころ",
+    tags: [ "artifact" ],
+  },
 ] as const satisfies SourceWord[];

@@ -385,6 +385,18 @@ export const tags = {
       "zh-TW": "原神中的月下見聞的英語和日語翻譯"
     }
   },
+  "quest-meeting-point": {
+    "en": "Meeting Point Chronicles",
+    "ja": "集いの場・紀事",
+    "zh-CN": "聚所纪事",
+    "zh-TW": "聚所紀事",
+    "title": {
+      "en": "Chinese & Japanese translations for the Meeting Point Chronicles in Genshin Impact",
+      "ja": "原神の集いの場・紀事の英語・中国語表記一覧",
+      "zh-CN": "原神中的聚所纪事的英语和日语翻译",
+      "zh-TW": "原神中的聚所紀事的英語和日語翻譯"
+    }
+  },
   "item": {
     "en": "Item",
     "ja": "アイテム",

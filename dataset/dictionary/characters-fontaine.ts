@@ -1588,7 +1588,7 @@ export default [
     zhTW: "納蒂亞",
     tags: [ "fontaine", "character-sub" ],
     notesEn: "The original title does not have (Melusine). Added due to constraints of key generation.",
-    notes: "「ザ・ラスティ・ラダー」にいるメリュジーヌ。。英語の原題には (Melusine) はついていません。システム制約によりキーを重複させないための処置です。",
+    notes: "「ザ・ラスティ・ラダー」にいるメリュジーヌ。英語の原題には (Melusine) はついていません。システム制約によりキーを重複させないための処置です。",
     notesZh: "。原英文标题不包括（Melusine）。这是为了防止由于系统限制而出现重复密钥的措施。",
     notesZhTW: "原英文標題不包括（Melusine）。這是為了防止由於系統限制而出現重複密鑰的措施。"
   },

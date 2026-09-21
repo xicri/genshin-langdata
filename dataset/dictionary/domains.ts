@@ -817,4 +817,32 @@ export default [
     pronunciationJa: "ぎげつのけんきゅうじょ",
     tags: [ "nodkrai", "domain" ],
   },
+  //
+  // Snezhnaya
+  //
+  {
+    en: "Inverted Glacier",
+    ja: "逆さまの氷河",
+    zhCN: "逆悬的冰河",
+    zhTW: "逆懸的冰河",
+    pronunciationJa: "さかさまのひょうが",
+    tags: [ "snezhnaya", "domain" ],
+  },
+  {
+    en: "Scars of Cursed Obsession",
+    ja: "妄執の傷跡",
+    zhCN: "妄念的创痕",
+    zhTW: "妄念的創痕",
+    pronunciationJa: "もうしゅうのきずあと",
+    tags: [ "snezhnaya", "domain" ],
+  },
+  {
+    en: "Relics of the Fallen Grace",
+    ja: "荒れ果てた聖跡",
+    zhCN: "荒坠的圣迹",
+    zhTW: "荒墜的聖跡",
+    pronunciationJa: "あれはてたせいせき",
+    tags: [ "snezhnaya", "domain" ],
+  },
+
 ] as const satisfies SourceWord[];

@@ -1848,6 +1848,22 @@ export default [
     pronunciationJa: "かいとうレッド・ミラーのでんせつ",
     tags: [ "nodkrai", "item" ],
   },
+  {
+    en: "General History of Snezhnaya",
+    ja: "スネージナヤ通史",
+    zhCN: "至冬国通史",
+    zhTW: "至冬國通史",
+    pronunciationJa: "スネージナヤつうし",
+    tags: [ "snezhnaya", "item" ],
+  },
+  {
+    en: "Polestar Ballet Anthology",
+    ja: "極星のバレエ集",
+    zhCN: "极星舞剧集",
+    zhTW: "極星舞劇集",
+    pronunciationJa: "きょくせいのバレエしゅう",
+    tags: [ "snezhnaya", "item" ],
+  },
 
   //
   // Gadgets
