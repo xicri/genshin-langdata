@@ -705,8 +705,77 @@ export default [
     notes: "世界任務「海賊船の幽霊騒ぎ」などに出てくる難破船",
     tags: [ "organization", "nodkrai", "facility" ],
   },
-
   //
+  // Snezhnaya
+  //
+  {
+    en: "Druzhna",
+    ja: "冬契軍",
+    zhCN: "冬契军",
+    zhTW: "冬契軍",
+    pronunciationJa: "ドルジーナ",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Izmaylov",
+    ja: "イズマイール",
+    zhCN: "伊兹梅洛",
+    zhTW: "伊茲梅洛",
+    notes: "ニコライ・パクハン・イズマイールが設立したギャング組織",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Hvergelmir",
+    ja: "「静源所」",
+    zhCN: "「谧源所」",
+    zhTW: "「謐源所」",
+    pronunciationJa: "フヴェルゲルミル",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Rokot",
+    ja: "ロコット",
+    zhCN: "呼啸社",
+    zhTW: "呼嘯社",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Royal Energy Commission of Snezhnaya",
+    ja: "スネージナヤ皇立エネルギー協会",
+    zhCN: "至冬皇家能源协会",
+    zhTW: "至冬皇家能源協會",
+    pronunciationJa: "スネージナヤこうりつエネルギーきょうかい",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Snezhnaya Royal Railway Transport Bureau",
+    ja: "スネージナヤ皇立軌道運輸局",
+    zhCN: "至冬皇家轨道运输局",
+    zhTW: "至冬皇家軌道運輸局",
+    pronunciationJa: "スネージナヤこうりつきどううんゆきょく",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Transport Bureau",
+    ja: "運輸局",
+    zhCN: "运输局",
+    zhTW: "運輸局",
+    pronunciationJa: "うんゆきょく",
+    notesEn: "Short name for the Snezhnaya Royal Railway Transport Bureau",
+    notes: "スネージナヤ皇立軌道運輸局の略称",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  {
+    en: "Chicota",
+    ja: "チェコタ",
+    zhCN: "契科塔",
+    zhTW: "契科塔",
+    notesEn: "Common name for the Snezhnaya Royal Railway Transport Bureau",
+    notes: "スネージナヤ皇立軌道運輸局の通称",
+    tags: [ "snezhnaya", "organization" ],
+  },
+  //
+  
   // Khaenri'ah
   //
   {

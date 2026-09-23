@@ -1116,7 +1116,7 @@ export default [
     notesEn: "Brevet Commander of the Ninth Company, a Fatui company got lost in The Chasm.",
     notesZh: "被困在层岩巨渊的愚人众第九连队的临时连长。",
     notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的臨時連長。",
-    tags: [ "liyue", "fatui", "character-sub" ],
+    tags: [ "liyue", "fatui", "snezhnaya", "character-sub" ],
   },
   {
     en: "Antoha",
@@ -1127,7 +1127,7 @@ export default [
     notesEn: "Anton Melnikov's nickname.",
     notesZh: "安东·梅利尼科夫的昵称。",
     notesZhTW: "安東·梅利尼科夫的暱稱。",
-    tags: [ "liyue", "fatui", "character-sub" ],
+    tags: [ "liyue", "fatui", "snezhnaya", "character-sub" ],
   },
   {
     en: "Ninth Company Brevet Commander",
@@ -1138,7 +1138,7 @@ export default [
     notesEn: "Anton Melnikov's title.",
     notesZh: "安东·梅利尼科夫的头衔。",
     notesZhTW: "安東·梅利尼科夫的頭銜。",
-    tags: [ "liyue", "fatui", "title" ],
+    tags: [ "liyue", "fatui", "snezhnaya", "title" ],
   },
   {
     en: "Temur",
@@ -1149,7 +1149,7 @@ export default [
     notesEn: "A member of the Ninth Company, a Fatui company got lost in The Chasm.",
     notesZh: "被困在层岩巨渊的愚人众第九连队的队员。",
     notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的隊員。",
-    tags: [ "liyue", "fatui", "character-sub" ],
+    tags: [ "liyue", "fatui", "snezhnaya", "character-sub" ],
   },
   {
     en: "Danila",
@@ -1160,7 +1160,7 @@ export default [
     notesEn: "A member of the Ninth Company, a Fatui company got lost in The Chasm.",
     notesZh: "被困在层岩巨渊的愚人众第九连队的队员。",
     notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的隊員。",
-    tags: [ "liyue", "fatui", "character-sub" ],
+    tags: [ "liyue", "fatui", "snezhnaya", "character-sub" ],
   },
   {
     en: "Radomir",
@@ -1171,7 +1171,7 @@ export default [
     notesEn: "A member of the Ninth Company, a Fatui company got lost in The Chasm.",
     notesZh: "被困在层岩巨渊的愚人众第九连队的队员。",
     notesZhTW: "被困在層岩巨淵的愚人眾第九連隊的隊員。",
-    tags: [ "liyue", "fatui", "character-sub" ],
+    tags: [ "liyue", "fatui", "snezhnaya", "character-sub" ],
   },
   {
     en: "Yanbo",

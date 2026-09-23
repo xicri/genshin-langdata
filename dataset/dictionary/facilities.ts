@@ -784,6 +784,54 @@ export default [
   // Snezhnaya
   //
 
+  {
+    en: "Restaurant Zorya",
+    ja: "ザーリャ・レストラン",
+    zhCN: "曙光餐厅",
+    zhTW: "曙光餐廳",
+    notes: "ザーリャ駅にあるレストラン",
+    tags: [ "snezhnaya", "facility" ],
+  },
+  {
+    en: "\"Kvasnik\"",
+    ja: "「クワスニク」",
+    zhCN: "「格瓦斯尼克」",
+    zhTW: "「格瓦斯尼克」",
+    notes: "ゾルヌィ区にある食堂",
+    tags: [ "snezhnaya", "facility" ],
+  },
+  {
+    en: "\"Bratsukaya\"",
+    ja: "「ブラツカヤ」",
+    zhCN: "「布莱茨卡」",
+    zhTW: "「布萊茨卡」",
+    notes: "ゾルヌィ区にある店舗",
+    tags: [ "snezhnaya", "facility" ],
+  },
+  {
+    en: "\"Torchlight Books\"",
+    ja: "「灯のビブリオチェーカ」",
+    zhCN: "「火炬书行」",
+    zhTW: "「火炬書行」",
+    notes: "スネージナヤ・グラードにある本屋",
+    tags: [ "snezhnaya", "facility" ],
+  },
+  {
+    en: "\"Kuznets\"",
+    ja: "「クズネツ」",
+    zhCN: "「库兹涅茨」",
+    zhTW: "「庫茲涅茨」",
+    notes: "スネージナヤ・グラードにある鍛冶屋",
+    tags: [ "snezhnaya", "facility" ],
+  },
+  {
+    en: "Podvorye Restaurant",
+    ja: "セラーガーデン・レストラン",
+    zhCN: "老庭院餐厅",
+    zhTW: "老庭院餐廳",
+    notes: "スネージナヤ・グラードにあるレストラン",
+    tags: [ "snezhnaya", "facility" ],
+  },
   // TODO need check
   {
     en: "Northland Bank",

@@ -532,14 +532,6 @@ export default [
     tags: [ "event", "character-sub", "fatui", "nodkrai" ],
   },
   {
-    en: "Onyx Agate",
-    ja: "オニキス",
-    zhCN: "缟玛瑙",
-    zhTW: "縞瑪瑙",
-    notes: "v6.6(LunaVII) 期間限定イベント「勇猛なる戦士の試練」に登場するファデュイ特務隊員",
-    tags: [ "event", "character-sub", "fatui", "nodkrai" ],
-  },
-  {
     en: "Phantasmal Pals",
     ja: "空想の友と巡る旅",
     zhCN: "幻友绮旅",

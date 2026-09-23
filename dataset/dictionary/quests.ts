@@ -4179,6 +4179,75 @@ export default [
     pronunciationJa: "つみをもってつみひとをばっす",
     tags: [ "nodkrai", "quest-world", "quest-selenic" ],
   },
+  //
+  // Meeting Point Chronicles
+  //
+
+  // Snezhnaya
+  {
+    en: "Hunter on the Snowfields",
+    ja: "雪原の狩人",
+    zhCN: "雪原上的猎手",
+    zhTW: "雪原上的獵手",
+    pronunciationJa: "せつげんのかりゅうど",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "A Thread of Dawn-Light",
+    ja: "一筋の曙光",
+    zhCN: "曙光的一缕",
+    zhTW: "曙光的一縷",
+    pronunciationJa: "ひとすじのしょこう",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Daybreak After the Snow",
+    ja: "雪上がりの曙光",
+    zhCN: "雪后曙光",
+    zhTW: "雪後曙光",
+    pronunciationJa: "ゆきあがりのしょこう",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Like a Land Where the Tide's Song Whispers",
+    ja: "潮騒が密やかに囁く地",
+    zhCN: "如汐歌幽诉之地",
+    zhTW: "如汐歌幽訴之地",
+    pronunciationJa: "しおさいがひそやかにささやくち",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Awaiting the Dawn",
+    ja: "ザーリャを訪ねて",
+    zhCN: "待访曙光",
+    zhTW: "待訪曙光",
+    pronunciationJa: "ザーリャをたずねて",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "One Yet to Take a Bow",
+    ja: "幕を下ろさぬ者",
+    zhCN: "未谢幕者",
+    zhTW: "未謝幕者",
+    pronunciationJa: "まくをおろさぬもの",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Variations on Belyi and Chernyi",
+    ja: "白と黒のヴァリエーション",
+    zhCN: "白与黑的变奏舞",
+    zhTW: "白與黑的變奏舞",
+    pronunciationJa: "しろとくろのヴァリエーション",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Atop the Floating Snow",
+    ja: "浮雪の上",
+    zhCN: "浮雪之上",
+    zhTW: "浮雪之上",
+    pronunciationJa: "ふせつのうえ",  // TODO: Need check
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
 
   //
   // Commission Quests

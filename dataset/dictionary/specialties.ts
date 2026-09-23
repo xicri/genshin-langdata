@@ -427,6 +427,7 @@ export default [
     tags: [ "specialty", "natlan" ],
     pronunciationJa: "がんれつのはな", // TODO need check
   },
+  // Nodkrai
   {
     en: "Portable Bearing",
     ja: "携帯型ベアリング",
@@ -465,5 +466,65 @@ export default [
     zhTW: "松珀香",
     pronunciationJa: "こはくこう",
     tags: [ "specialty", "nodkrai" ],
+  },
+  // Snezhnaya
+  {
+    en: "Unscorched Blossom Branch",
+    ja: "炎中不滅の枝",
+    zhCN: "焰中不灭花枝",
+    zhTW: "焰中不滅花枝",
+    pronunciationJa: "えんちゅうふめつのえだ",
+    tags: [ "specialty", "snezhnaya" ],
+  },
+  {
+    en: "Frostfairy Flower",
+    ja: "フロストフラワー",
+    zhCN: "霜仙花",
+    zhTW: "霜仙花",
+    tags: [ "specialty", "snezhnaya" ],
+  },
+  {
+    en: "Flockingweed",
+    ja: "フロック草",
+    zhCN: "植绒草",
+    zhTW: "植絨草",
+    pronunciationJa: "フロックそう",
+    tags: [ "specialty", "snezhnaya" ],
+  },
+  {
+    en: "Golden Fern",
+    ja: "ザラトイアリャーク",
+    zhCN: "金蕨",
+    zhTW: "金蕨",
+    tags: [ "specialty", "snezhnaya" ],
+  },
+  {
+    en: "Rimecurrant",
+    ja: "アイススグリ",
+    zhCN: "冰醋栗",
+    zhTW: "冰醋栗",
+    tags: [ "specialty", "snezhnaya" ],
+  },
+  {
+    en: "Snowball Flower",
+    ja: "雪玉花",
+    zhCN: "雪球花",
+    zhTW: "雪球花",
+    tags: [ "specialty", "snezhnaya" ],
+  },
+  {
+    en: "Red Beet",
+    ja: "ビーツ",
+    zhCN: "红甜菜",
+    zhTW: "紅甜菜",
+    tags: [ "specialty", "snezhnaya" ],
+  },
+  {
+    en: "Glaciafruit",
+    ja: "グレイシアの実",
+    zhCN: "冰星果",
+    zhTW: "冰星果",
+    pronunciationJa: "グレイシアのみ",
+    tags: [ "specialty", "snezhnaya" ],
   },
 ] as const satisfies SourceWord[];

@@ -3903,6 +3903,22 @@ export default [
     tags: [ "snezhnaya", "location" ],
   },
   {
+    en: "Zolnyy",
+    ja: "ゾルヌィ区",
+    zhCN: "炉灰区",
+    zhTW: "爐灰區",
+    pronunciationJa: "ゾルヌィく",
+    tags: [ "snezhnaya", "location" ],
+  },
+  {
+    en: "Kresnik's Burning Heart",
+    ja: "クルースニクの炉心",
+    zhCN: "克什尼克的炉心",
+    zhTW: "克什尼克的爐心",
+    pronunciationJa: "クルースニクのろしん",
+    tags: [ "snezhnaya", "location" ],
+  },
+  {
     en: "Sanctuary of Grief",
     ja: "哀悼の聖域",
     zhCN: "悲悼的圣所",

@@ -359,6 +359,13 @@ export default [
     pronunciationJa: "せいひつのふえ",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Emberwell",
+    ja: "導炎の源",
+    zhCN: "引火之源",
+    zhTW: "引火之源",
+    tags: [ "weapon", "sword" ],
+  },
   // ★5
   {
     en: "Aquila Favonia",
@@ -816,6 +823,14 @@ export default [
     notesZh: "v6.6(LunaVII) 限时活动「幻友绮旅」奖励",
     tags: [ "weapon", "claymore", "event" ],
   },
+  {
+    en: "Blade of Atonement",
+    ja: "救済の剣",
+    zhCN: "救赎之斩",
+    zhTW: "救贖之斬",
+    pronunciationJa: "きゅうさいのけん",
+    tags: [ "weapon", "claymore" ],
+  },
   // ★5
   {
     en: "Skyward Pride",
@@ -1172,6 +1187,14 @@ export default [
     zhCN: "掘金之锹",
     zhTW: "掘金之鍬",
     pronunciationJa: "きんぼりのシャベル",  // TODO Need Check
+    tags: [ "weapon", "polearm" ],
+  },
+  {
+    en: "Song of the Vigil",
+    ja: "遠望の歌",
+    zhCN: "戍望谣歌",
+    zhTW: "戍望謠歌",
+    pronunciationJa: "えんぼうのうた",
     tags: [ "weapon", "polearm" ],
   },
   // ★5
@@ -1621,6 +1644,14 @@ export default [
     notesZh: "v6.2(LunaIII) 限时活动「炽魂斗士的雪界之旅」奖励",
     tags: [ "weapon", "bow" ],
   },
+  {
+    en: "Covenant of Frost and Snow",
+    ja: "霜雪の契",
+    zhCN: "霜雪誓约",
+    zhTW: "霜雪誓約",
+    pronunciationJa: "そうせつのちぎり",
+    tags: [ "weapon", "bow" ],
+  },
   // ★5
   {
     en: "Skyward Harp",
@@ -2030,6 +2061,14 @@ export default [
     notes: "v6.4(LunaV) 期間限定イベント「風を捕まえる帰郷者」報酬。法器武器の見た目を魔女の水晶玉に変えるアイテム",
     notesZh: "v6.4(LunaV) 限时活动「捕风的归客」奖励",
     tags: [ "weapon", "catalyst", "event" ],
+  },
+  {
+    en: "Echoes of the Heart",
+    ja: "胸中の谺",
+    zhCN: "寸心余响",
+    zhTW: "寸心餘響",
+    pronunciationJa: "きょうちゅうのこだま",
+    tags: [ "weapon", "catalyst" ],
   },
   // ★5
   {
