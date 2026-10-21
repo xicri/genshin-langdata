@@ -3808,6 +3808,14 @@ export default [
     pronunciationJa: "ごうせいじゅうフリューゲルレーヴェ",
     tags: [ "snezhnaya", "enemy" ],
   },
+  {
+    en: "Guardian Blade of Drifting Snow",
+    ja: "游雪のブレードガーディアン",
+    zhCN: "游雪的护刃",
+    zhTW: "遊雪的護刃",
+    pronunciationJa: "ゆうせつのブレードガーディアン",
+    tags: [ "snezhnaya", "enemy" ],
+  },
   // Snezhnaya's Local legend
   {
     en: "Churin",

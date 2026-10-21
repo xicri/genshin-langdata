@@ -464,4 +464,13 @@ export default [
     notesZhTW: "皮耶羅的代號。",
     tags: [ "fatui", "character-sub", "title" ],
   },
+  {
+    en: "Eftirvit",
+    ja: "エフティルヴィット",
+    zhCN: "艾弗提尔维特",
+    zhTW: "艾弗提爾維特",
+    notesEn: "The Jester, Pierro's Real Name",
+    notes: "道化、ピエロの本名",
+    tags: [ "snezhnaya", "khaenriah", "character-sub" ],
+  },
 ] as const satisfies SourceWord[];

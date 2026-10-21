@@ -488,7 +488,24 @@ export default [
     tags: [ "snezhnaya", "quest-archon" ],
     notes: "魔神任務第七章第二幕",
   },
-
+  {
+    en: "White Night, Like a Dream Upon Waking",
+    ja: "白夜の夢の覚めるが如く",
+    zhCN: "白夜似梦初醒",
+    zhTW: "白夜似夢初醒",
+    pronunciationJa: "びゃくやのゆめのさめるがごとく",
+    tags: [ "snezhnaya", "quest-archon" ],
+    notes: "魔神任務第七章第三幕",
+  },
+  {
+    en: "A Rekviem for the Underworld",
+    ja: "冥府へのレクイエム",
+    zhCN: "往冥府的安魂歌",
+    zhTW: "往冥府的安魂歌",
+    pronunciationJa: "めいふへのレクイエム",
+    tags: [ "snezhnaya", "quest-archon" ],
+    notes: "魔神任務第七章第四幕",
+  },
   
   // Traveler
   {
@@ -3392,6 +3409,32 @@ export default [
     pronunciationJa: "あんいきのいぶつ",
     tags: [ "snezhnaya", "quest-world" ],
   },
+  {
+    en: "Swords and Secrets",
+    ja: "風の精と古剣の秘密",
+    zhCN: "风仙亦是仙, 古剑通幽玄!",
+    zhTW: "風仙亦是仙, 古劍通幽玄!",
+    pronunciationJa: "かぜのせいとこけんのひみつ",
+    notes: "ヴェスナの世界任務",
+    tags: [ "snezhnaya", "quest-world" ],
+  },
+  {
+    en: "Upstream Variations",
+    ja: "追想の変奏曲",
+    zhCN: "溯流的变奏曲",
+    zhTW: "溯流的變奏曲",
+    pronunciationJa: "ついそうのへんそうきょく",
+    notes: "ヴォジャニーツァの世界任務",
+    tags: [ "snezhnaya", "quest-world" ],
+  },
+  {
+    en: "Just Like a Snowball",
+    ja: "雪玉のように",
+    zhCN: "像一个雪球一样",
+    zhTW: "像一個雪球一樣",
+    pronunciationJa: "ゆきだまのように",
+    tags: [ "snezhnaya", "quest-world" ],
+  },
 
   //
   // World Quests - Random Quests
@@ -4246,6 +4289,62 @@ export default [
     zhCN: "浮雪之上",
     zhTW: "浮雪之上",
     pronunciationJa: "ふせつのうえ",  // TODO: Need check
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Cycle Training",
+    ja: "定期演習",
+    zhCN: "週期训演",
+    zhTW: "週期訓演",
+    pronunciationJa: "ていきえんしゅう",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Secret Tsarist Assignment",
+    ja: "氷の宮殿の密令",
+    zhCN: "冰宫密令",
+    zhTW: "冰宮密令",
+    pronunciationJa: "こおりのきゅうでんのみつれい",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "A Letter From Zapolyarny Palace",
+    ja: "スネージナヤパレスからの手紙",
+    zhCN: "至冬宫的来信",
+    zhTW: "至冬宮的來信",
+    pronunciationJa: "スネージナヤパレスからのてがみ",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "The Tsaritsa's New Portrait",
+    ja: "女皇の新しい肖像画",
+    zhCN: "女皇的新画像",
+    zhTW: "女皇的新畫像",
+    pronunciationJa: "じょこうのあたらしいしょうぞうが",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "Just the One Court Assembly",
+    ja: "単なる会議",
+    zhCN: "只是一次朝会",
+    zhTW: "只是一次朝會",
+    pronunciationJa: "たんなるかいぎ",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "A Gift for the Children",
+    ja: "子供たちへの贈り物",
+    zhCN: "送给孩子们的礼物",
+    zhTW: "送給孩子們的禮物",
+    pronunciationJa: "こどもたちへのおくりもの",
+    tags: [ "snezhnaya", "quest-meeting-point" ],
+  },
+  {
+    en: "A Winter's Night. Proper Ladies. Tea Party.",
+    ja: "冬の夜、淑女たちのお茶会",
+    zhCN: "冬夜, 淑女, 茶会",
+    zhTW: "冬夜、淑女、茶會",
+    pronunciationJa: "ふゆのよる、しゅくじょたちのおちゃかい",
     tags: [ "snezhnaya", "quest-meeting-point" ],
   },
 

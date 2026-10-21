@@ -1283,4 +1283,12 @@ export default [
     zhTW: "沉積增生物",
     tags: [ "snezhnaya", "drop" ],
   },
+  {
+    en: "Vagabond's Cracked Armor",
+    ja: "さすらう者のひび割れた鎧",
+    zhCN: "游离者的裂甲",
+    zhTW: "游離者的裂甲",
+    pronunciationJa: "さすらうもののひびわれたよろい",
+    tags: [ "snezhnaya", "drop" ],
+  },
 ] as const satisfies SourceWord[];
