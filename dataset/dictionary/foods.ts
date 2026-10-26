@@ -1954,7 +1954,14 @@ export default [
     zhTW: "穰穰瑞雪糕",
     tags: [ "food" ],
   },
-
+  {
+    en: "Celestial Tea Crisp",
+    ja: "仙茶酥",
+    zhCN: "仙茗酥",
+    zhTW: "仙茗酥",
+    pronunciationJa: "せんちゃす",
+    tags: [ "food" ],
+  },
   // ★★★★★
   {
     en: "Adeptus' Temptation",
