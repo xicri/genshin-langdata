@@ -813,7 +813,7 @@ export default [
     tags: [ "khaenriah", "organization" ],
   },
   {
-    en: "Recent seminars under the tree",
+    en: "seminars under the tree",
     ja: "樹下の会",
     zhCN: "树下研讨会",
     zhTW: "樹下研討會",
