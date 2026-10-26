@@ -265,4 +265,14 @@ export default [
     notesZh: "魔神任务「回望湮灭的月光」中的登场角色。",
     notesZhTW: "魔神任務「回望湮滅的月光」中的登場角色。",
   },
+  {
+    en: "Mimameith",
+    ja: "ミーマメイズ",
+    zhCN: "蜜麦梅斯",
+    zhTW: "蜜麥梅斯",
+    tags: [ "khaenriah", "character-sub" ],
+    notes: "魔神任務「冥府へのレクイエム」に登場する人物。エフティルヴィット、プロプタチュールの師匠",
+    notesZh: "魔神任务「往冥府的安魂歌」中的登场角色。",
+    notesZhTW: "魔神任務「往冥府的安魂歌」中的登場角色。",
+  },
 ] as const satisfies SourceWord[];

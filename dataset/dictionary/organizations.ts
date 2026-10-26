@@ -774,6 +774,14 @@ export default [
     notes: "スネージナヤ皇立軌道運輸局の通称",
     tags: [ "snezhnaya", "organization" ],
   },
+  {
+    en: "Royal Military Academy",
+    ja: "ロイヤル軍事アカデミー",
+    zhCN: "皇家軍事學院",
+    zhTW: "皇家軍事學院",
+    pronunciationJa: "ロイヤルぐんじアカデミー",
+    tags: [ "snezhnaya", "organization" ],
+  },
   //
   
   // Khaenri'ah
@@ -802,6 +810,14 @@ export default [
     zhCN: "深秘院",
     zhTW: "深秘院",
     pronunciationJa: "しんぴいん",  // Notes: 魔人任務「消えた月光に思いを馳せて」でのレインドットやソリンディスの発音より
+    tags: [ "khaenriah", "organization" ],
+  },
+  {
+    en: "seminars under the tree",
+    ja: "樹下の会",
+    zhCN: "树下研讨会",
+    zhTW: "樹下研討會",
+    pronunciationJa: "じゅかのかい",
     tags: [ "khaenriah", "organization" ],
   },
 ] as const satisfies SourceWord[];

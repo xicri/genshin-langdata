@@ -535,6 +535,14 @@ export default [
     pronunciationJa: "せいほうのけん",
     tags: [ "weapon", "sword" ],
   },
+  {
+    en: "Beyond the Chrysalis",
+    ja: "蝶の羽化",
+    zhCN: "蝶变",
+    zhTW: "蝶變",
+    pronunciationJa: "ちょうのうか",
+    tags: [ "weapon", "sword" ],
+  },
 
   //
   // Claymores
@@ -1775,7 +1783,6 @@ export default [
   //
   // Catalysts
   //
-
   // ★1
   {
     en: "Apprentice's Notes",
@@ -2230,6 +2237,14 @@ export default [
     zhCN: "尘光七谕",
     zhTW: "塵光七諭",
     pronunciationJa: "ちりとひかりのななつのせいやく",
+    tags: [ "weapon", "catalyst" ],
+  },
+  {
+    en: "Hymn of the Maelstrom",
+    ja: "旋流の讃美歌",
+    zhCN: "漩流颂歌",
+    zhTW: "漩流頌歌",
+    pronunciationJa: "せんりゅうのさんびか",
     tags: [ "weapon", "catalyst" ],
   },
 ] as const satisfies SourceWord[];
