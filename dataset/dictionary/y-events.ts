@@ -231,6 +231,17 @@ export default [
   },
   // v7.1
   {
+    en: "Carefree Snowball Fight",
+    ja: "自由気ままな雪合戦",
+    zhCN: "无忧无虑大雪仗",
+    zhTW: "無憂無慮大雪仗",
+    pronunciationJa: "じゆうきままなゆきがっせん",
+    notesEn: "Limited Time Event in v7.1",
+    notes: "v7.1 期間限定イベント",
+    notesZh: "v7.1 中的限时活动",
+    tags: [ "event", "snezhnaya" ],
+  },
+  {
     en: "Predictive Victory Dynamic",
     ja: "勝者は誰だ!?",
     zhCN: "判测胜券本征",
@@ -284,6 +295,30 @@ export default [
     notes: "v7.1 期間限定イベント「銀翎月を遡りて、玄鳥煌めきを結ぶ」の子イベント",
     notesZh: "限时活动「银翎溯月, 玄鸟结璘」v7.1 子活动",
     tags: [ "event", "liyue" ],
+  },
+  {
+    en: "Bublik",
+    ja: "ブブリク",
+    zhCN: "布布莉克",
+    zhTW: "布布莉克",
+    notes: "v7.1 期間限定イベント「自由気ままな雪合戦」に登場する人物",
+    tags: [ "event", "snezhnaya", "character-sub" ],
+  },
+  {
+    en: "Budanova",
+    ja: "ブダノーヴァ",
+    zhCN: "布达诺娃",
+    zhTW: "布達諾娃",
+    notes: "v7.1 期間限定イベント「自由気ままな雪合戦」に登場するファデュイ",
+    tags: [ "event", "snezhnaya", "character-sub", "fatui" ],
+  },
+  {
+    en: "Chernova",
+    ja: "ジェルノフ",
+    zhCN: "婕鲁诺娃",
+    zhTW: "婕魯諾娃",
+    notes: "v7.1 期間限定イベント「自由気ままな雪合戦」に登場するドモヴォーイ",
+    tags: [ "event", "snezhnaya", "character-sub" ],
   },
   {
     en: "Mowang",
