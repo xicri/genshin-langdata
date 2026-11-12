@@ -36,8 +36,8 @@ importers:
         specifier: ^3.2.4
         version: 3.3.2
       pinyin-tone:
-        specifier: ^2.4.0
-        version: 2.4.0
+        specifier: ^3.0.0
+        version: 3.0.1
       type-fest:
         specifier: ^5.6.0
         version: 5.10.0
@@ -897,8 +897,9 @@ packages:
     resolution: {integrity: sha512-qcJu88Q2IWqJsDD529JKMdwGm/dvInW4HvQnRwiH9JtihJvzGOscDtHE3x1pBKeUOTysQ8kVmLnJ2kJu7yhcGA==}
     engines: {node: '>=12'}
 
-  pinyin-tone@2.4.0:
-    resolution: {integrity: sha512-ATSA0WW81iOxTTePpY3FN2hXwh8OcDuO/xP5YwdkZLBGvZnkvhF1Nhbl03fS8CRtyvwvt1cBmzRnmHRR3p/7aw==}
+  pinyin-tone@3.0.1:
+    resolution: {integrity: sha512-XcwtNHyVG5xiJhEMQwFdNRvMJH6g/2we2Gcd46GXut4WHi6h4uiqJpg/tAp5H22Rz/Exe2CZyrG4rRBP/Pbkbg==}
+    engines: {node: '>=14'}
 
   postcss@8.5.29:
     resolution: {integrity: sha512-49cGhUbXj8Qenv0iTMxA1cFBzxXoctpC9Ujd77t1WcbJIr6nF/eI7g/8MgxrYldFRuAXvja7xQRwavoW7kgrxQ==}
@@ -1685,7 +1686,7 @@ snapshots:
 
   picomatch@4.0.7: {}
 
-  pinyin-tone@2.4.0: {}
+  pinyin-tone@3.0.1: {}
 
   postcss@8.5.29:
     dependencies:
